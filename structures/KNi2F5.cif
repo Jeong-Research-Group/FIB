@@ -1,0 +1,38 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'K1 Ni2 F5                             '
+_cell_length_a                         4.116029
+_cell_length_b                         3.900358
+_cell_length_c                         6.555161
+_cell_angle_alpha                      90.065475
+_cell_angle_beta                       71.707222
+_cell_angle_gamma                      90.000206
+_cell_volume                           99.918285
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   K1         1.0     0.987286     0.968628     0.229013    Uiso  ? K
+   Ni1        1.0     0.327185     0.469039     0.549269    Uiso  ? Ni
+   Ni2        1.0     0.647237     0.467554     0.908588    Uiso  ? Ni
+   F1         1.0     0.815487     0.468223     0.572988    Uiso  ? F
+   F2         1.0     0.159376     0.468458     0.884434    Uiso  ? F
+   F3         1.0     0.335871     0.968994     0.531462    Uiso  ? F
+   F4         1.0     0.636527     0.967464     0.927091    Uiso  ? F
+   F5         1.0     0.486994     0.467794     0.228707    Uiso  ? F

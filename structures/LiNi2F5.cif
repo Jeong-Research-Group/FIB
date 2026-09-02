@@ -1,0 +1,38 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'LiNi2F5'
+_cell_length_a                         4.001177
+_cell_length_b                         5.384736
+_cell_length_c                         5.177586
+_cell_angle_alpha                      74.305252
+_cell_angle_beta                       67.269241
+_cell_angle_gamma                      68.222374
+_cell_volume                           94.486517
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   F1         1.0     0.950770     0.257928     0.308443    Uiso  ? F
+   F2         1.0     0.829033     0.769178     0.040069    Uiso  ? F
+   F3         1.0     0.332770     0.082855     0.719591    Uiso  ? F
+   F4         1.0     0.614171     0.388008     0.851755    Uiso  ? F
+   F5         1.0     0.130346     0.684774     0.523935    Uiso  ? F
+   Li1        1.0     0.708395     0.626980     0.423862    Uiso  ? Li
+   Ni1        1.0     0.070368     0.420220     0.907118    Uiso  ? Ni
+   Ni2        1.0     0.875953     0.036626     0.679589    Uiso  ? Ni

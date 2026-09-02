@@ -1,0 +1,40 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Cs1 Na1 Ni2 F6                        '
+_cell_length_a                         5.809031
+_cell_length_b                         4.002084
+_cell_length_c                         5.810220
+_cell_angle_alpha                      89.979897
+_cell_angle_beta                       89.939796
+_cell_angle_gamma                      89.986137
+_cell_volume                           135.077243
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Cs1        1.0     0.541525     0.935745     0.250307    Uiso  ? Cs
+   Na1        1.0     0.041663     0.935369     0.750808    Uiso  ? Na
+   Ni1        1.0     0.041688     0.435618     0.250248    Uiso  ? Ni
+   Ni2        1.0     0.541788     0.435322     0.750092    Uiso  ? Ni
+   F1         1.0     0.041577     0.935847     0.250125    Uiso  ? F
+   F2         1.0     0.541928     0.935650     0.750138    Uiso  ? F
+   F3         1.0     0.809681     0.435670     0.981733    Uiso  ? F
+   F4         1.0     0.273665     0.435672     0.518754    Uiso  ? F
+   F5         1.0     0.274176     0.435847     0.982574    Uiso  ? F
+   F6         1.0     0.809264     0.435581     0.517722    Uiso  ? F
