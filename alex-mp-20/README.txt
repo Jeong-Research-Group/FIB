@@ -50,7 +50,7 @@ File Format
 -----------
 
 Each candidate is stored in an individual subdirectory.
-Crystal structures are provided in VASP POSCAR format.
+Crystal structures are provided in VASP POSCAR and .cif format.
 
 
 Notes
