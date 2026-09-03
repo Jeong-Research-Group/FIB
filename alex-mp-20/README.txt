@@ -38,8 +38,8 @@ NAVY
 Number of Structures
 --------------------
 
-RED       : 2,356 structures
-ORANGE    : 2,356 structures
+RED       : 10,8356 structures
+ORANGE    : 2356 structures
 YELLOW    : 672 structures
 GREEN     : 670 structures
 BLUE      : 438 structures
