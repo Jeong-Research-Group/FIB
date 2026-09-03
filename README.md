@@ -4,7 +4,7 @@ This repository contains crystal structures generated and screened for the disco
 
 ## Screening Workflow
 
-![Screening workflow](figures/screening_workflow.pdf)
+![Screening workflow](figures/screening_workflow.png)
 
 Candidate structures were generated using MatterGen and subsequently screened through multiple stages based on composition, predicted electronic properties, chemical criteria, oxidation states, and DFT calculations.
 
