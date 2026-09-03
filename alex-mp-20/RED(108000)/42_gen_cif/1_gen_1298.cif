@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InHRu3
+_chemical_formula_sum              "In1 H1 Ru3"
+_cell_length_a       4.021309977779817
+_cell_length_b       4.022709340055589
+_cell_length_c       4.021839656373383
+_cell_angle_alpha    90.01918960599998
+_cell_angle_beta     89.96753267909585
+_cell_angle_gamma    90.00393358123769
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.5797789363257865  0.9463095621346372  0.10044426781879809  1.0000
+  H   H1        1.0  0.08001167242403885  0.44591287651725847  0.6001222005980829  1.0000
+  Ru  Ru1       1.0  0.08038933832952781  0.9458212957445623  0.6000863810772015  1.0000
+  Ru  Ru2       1.0  0.5797067165393984  0.4458767446048592  0.6001650000449836  1.0000
+  Ru  Ru3       1.0  0.08045818309498469  0.4458685702677961  0.10033363548720993  1.0000

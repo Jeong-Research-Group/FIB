@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Cd2SnHg
+_chemical_formula_sum              "La2 Cd2 Sn1 Hg1"
+_cell_length_a       4.739000140458687
+_cell_length_b       4.746065058899169
+_cell_length_c       7.638004657596399
+_cell_angle_alpha    90.01008116685415
+_cell_angle_beta     90.00929007457654
+_cell_angle_gamma    89.99942371497416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7753541523910273  0.19782338599921423  0.6274559893292659  1.0000
+  La  La2       1.0  0.2750428923745357  0.6980651467449845  0.26126424651854696  1.0000
+  Cd  Cd1       1.0  0.7748450859641534  0.6980853611946402  0.9400039767538624  1.0000
+  Cd  Cd2       1.0  0.2753844510194299  0.19838210368482395  0.9408937653261328  1.0000
+  Sn  Sn1       1.0  0.7759701638945719  0.19799766253300982  0.19431316976950616  1.0000
+  Hg  Hg1       1.0  0.27460810824157394  0.6982220858549611  0.6881320599957031  1.0000

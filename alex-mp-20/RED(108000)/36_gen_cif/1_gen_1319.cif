@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2TlO2
+_chemical_formula_sum              "Pr2 Tl1 O2"
+_cell_length_a       4.0967551180762305
+_cell_length_b       4.095755707540797
+_cell_length_c       7.520318295092359
+_cell_angle_alpha    105.73440383403806
+_cell_angle_beta     105.76548422023819
+_cell_angle_gamma    89.99891313775626
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.774904261873391  0.10659331987630577  0.7154456022974497  1.0000
+  Pr  Pr2       1.0  0.10713310333335803  0.4392248003300334  0.3788048874002126  1.0000
+  Tl  Tl1       1.0  0.4414158845820029  0.773262361396426  0.0478869867344491  1.0000
+  O   O1        1.0  0.6910139149449532  0.5228323919865058  0.5470780209080602  1.0000
+  O   O2        1.0  0.19103257133399387  0.02307814778063842  0.5473041893642053  1.0000

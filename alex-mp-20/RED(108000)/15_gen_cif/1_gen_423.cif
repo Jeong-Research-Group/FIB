@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Mg2In2
+_chemical_formula_sum              "Nd2 Mg2 In2"
+_cell_length_a       3.7348380574428086
+_cell_length_b       5.01745091080458
+_cell_length_c       8.806938017540203
+_cell_angle_alpha    90.0078084015667
+_cell_angle_beta     90.00227611524933
+_cell_angle_gamma    89.99834364947037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.496279763857808  0.6884387718264099  0.5868599324054542  1.0000
+  Nd  Nd2       1.0  0.49606395523306973  0.18750480958889834  0.08710788300621948  1.0000
+  Mg  Mg1       1.0  0.9966344756189586  0.18777863315512308  0.7536568745259572  1.0000
+  Mg  Mg2       1.0  0.9969602515628613  0.18776779846715502  0.42034320660529834  1.0000
+  In  In1       1.0  0.9958384730285669  0.6875344866071285  0.9173292692905562  1.0000
+  In  In2       1.0  0.9968404838832845  0.6869914614405661  0.25685230065588405  1.0000

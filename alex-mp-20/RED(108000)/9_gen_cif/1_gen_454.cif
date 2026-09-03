@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2TlNiH
+_chemical_formula_sum              "Sc2 Tl1 Ni1 H1"
+_cell_length_a       4.6669676483474225
+_cell_length_b       3.6578895534210014
+_cell_length_c       4.666827797120465
+_cell_angle_alpha    90.00144212122977
+_cell_angle_beta     89.99245600881629
+_cell_angle_gamma    90.00007573873323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.14873332322663443  0.39526934913568795  0.04704120483756978  1.0000
+  Sc  Sc2       1.0  0.6488597625747674  0.39513157328277215  0.547034287094179  1.0000
+  Tl  Tl1       1.0  0.14880362635071656  0.8951061801836051  0.5469769393202288  1.0000
+  Ni  Ni1       1.0  0.6490105966788863  0.8950549886612923  0.046899515706904135  1.0000
+  H   H1        1.0  0.6486233743345521  0.3952365769865432  0.04709173872799635  1.0000

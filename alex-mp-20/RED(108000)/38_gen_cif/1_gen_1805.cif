@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta3GeSe2
+_chemical_formula_sum              "Ta3 Ge1 Se2"
+_cell_length_a       3.399722070442161
+_cell_length_b       5.881834578050067
+_cell_length_c       6.122562707566075
+_cell_angle_alpha    110.50558764356774
+_cell_angle_beta     106.11866792096716
+_cell_angle_gamma    89.99969852577672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.4799849928719451  0.0583934314262093  0.04566254503059538  1.0000
+  Ta  Ta2       1.0  0.11984822101824033  0.446874760865548  0.32545882909545354  1.0000
+  Ta  Ta3       1.0  0.7892665132803262  0.26587870160203964  0.6642518611394358  1.0000
+  Ge  Ge1       1.0  0.46250223661353307  0.5046854575521573  0.01074672260444264  1.0000
+  Se  Se1       1.0  0.8029600334174742  0.7215374512515059  0.6917164667461996  1.0000
+  Se  Se2       1.0  0.13081977570081804  0.9650871728827537  0.3473642678543955  1.0000

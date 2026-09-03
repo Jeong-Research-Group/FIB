@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb3HgAu2
+_chemical_formula_sum              "Tb3 Hg1 Au2"
+_cell_length_a       3.6367722799191005
+_cell_length_b       3.6378908822937297
+_cell_length_c       11.118540026265267
+_cell_angle_alpha    89.99802775902792
+_cell_angle_beta     89.99791623847553
+_cell_angle_gamma    89.99857654135018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.1533341547754552  0.8564972431854511  0.5896723820884141  1.0000
+  Tb  Tb2       1.0  0.15359217479766626  0.8568202265049149  0.2334028855351254  1.0000
+  Tb  Tb3       1.0  0.15334414525786225  0.856627045314285  0.9113572270732703  1.0000
+  Hg  Hg1       1.0  0.653194300270649  0.3566248394216566  0.41167935899029434  1.0000
+  Au  Au1       1.0  0.6535002768365398  0.356916372472216  0.07763804030394955  1.0000
+  Au  Au2       1.0  0.6531386183855816  0.3565282064694372  0.7453266730193119  1.0000

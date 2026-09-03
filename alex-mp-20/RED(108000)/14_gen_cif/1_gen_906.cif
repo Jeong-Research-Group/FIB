@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaZn2Rh3
+_chemical_formula_sum              "Ta1 Zn2 Rh3"
+_cell_length_a       3.0281435244120187
+_cell_length_b       3.0280999572551415
+_cell_length_c       9.614373305174375
+_cell_angle_alpha    89.99879950899783
+_cell_angle_beta     89.99982406743823
+_cell_angle_gamma    89.9988219718928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.06015541611520505  0.5947265651612837  0.6368690528976898  1.0000
+  Zn  Zn1       1.0  0.059922633772062396  0.5949049917423176  0.2901965352717911  1.0000
+  Zn  Zn2       1.0  0.05993499937425801  0.5949813854863939  0.9836044584505962  1.0000
+  Rh  Rh1       1.0  0.5601269550684037  0.0948491330907339  0.4599694824745205  1.0000
+  Rh  Rh2       1.0  0.5599510640655194  0.09482293056404521  0.8138263803670573  1.0000
+  Rh  Rh3       1.0  0.5599996576818586  0.0949145934961828  0.13688007642249753  1.0000

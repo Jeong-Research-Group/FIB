@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       FeMoH
+_chemical_formula_sum              "Fe1 Mo1 H1"
+_cell_length_a       2.8423438488083916
+_cell_length_b       3.6229761052133984
+_cell_length_c       2.840645618669214
+_cell_angle_alpha    90.01241072419661
+_cell_angle_beta     89.99336814013874
+_cell_angle_gamma    90.00832132370344
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7386629026296098  0.7247606093150422  0.18217768944749627  1.0000
+  Mo  Mo1       1.0  0.2382495861512507  0.22432595344829284  0.6825904301781608  1.0000
+  H   H1        1.0  0.7383874164760369  0.2256275856827863  0.18295971832916116  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Fe2P2
+_chemical_formula_sum              "Hf2 Fe2 P2"
+_cell_length_a       3.6922461028451936
+_cell_length_b       3.6919018766633593
+_cell_length_c       6.233293533325195
+_cell_angle_alpha    89.9654895606334
+_cell_angle_beta     89.91120321317699
+_cell_angle_gamma    89.93868788950614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.7568396925926208  0.35283720493316656  0.4197016954421997  1.0000
+  Hf  Hf2       1.0  0.25622931122779846  0.8528669476509094  0.7591351270675659  1.0000
+  Fe  Fe1       1.0  0.7564614415168762  0.8527410626411438  0.08919085562229156  1.0000
+  Fe  Fe2       1.0  0.2565501928329468  0.35301703214645386  0.08970848470926285  1.0000
+  P   P1        1.0  0.7566475868225098  0.3524842560291291  0.8684083819389343  1.0000
+  P   P2        1.0  0.2563091814517975  0.8528388142585754  0.3105573058128357  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaCoNi2Ge2
+_chemical_formula_sum              "Ta1 Co1 Ni2 Ge2"
+_cell_length_a       3.6208890478411195
+_cell_length_b       3.691035956244793
+_cell_length_c       6.153604506099109
+_cell_angle_alpha    90.00028136593532
+_cell_angle_beta     90.00189414039359
+_cell_angle_gamma    89.99998968861628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.07740690350261802  0.2655490760366741  0.10856665556070823  1.0000
+  Co  Co1       1.0  0.5773921532927617  0.2655466940684364  0.7796832744241587  1.0000
+  Ni  Ni1       1.0  0.5773112237196855  0.7655042917839829  0.42723688398071513  1.0000
+  Ni  Ni2       1.0  0.07740146896554692  0.765548161957944  0.7724078240983655  1.0000
+  Ge  Ge1       1.0  0.07736043529214441  0.2655445959753462  0.5261910482284913  1.0000
+  Ge  Ge2       1.0  0.5774061942790908  0.7655439822080927  0.028657068143104144  1.0000

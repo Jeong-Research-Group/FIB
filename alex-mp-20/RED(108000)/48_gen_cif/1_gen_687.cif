@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Br2O2
+_chemical_formula_sum              "Y2 Br2 O2"
+_cell_length_a       3.774450989484307
+_cell_length_b       3.776668059756855
+_cell_length_c       11.384629106508134
+_cell_angle_alpha    80.44569448875932
+_cell_angle_beta     80.47734580844633
+_cell_angle_gamma    59.936962433527256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.2748412009622419  0.5487386219634109  0.37150998814476044  1.0000
+  Y   Y2        1.0  0.6970350143105889  0.9738734851569579  0.09686007353001895  1.0000
+  Br  Br1       1.0  0.4229407259080154  0.7002344381892186  0.9187460196445995  1.0000
+  Br  Br2       1.0  0.8829511590667202  0.15649973054051  0.5477055724150427  1.0000
+  O   O1        1.0  0.012640411097135084  0.2895500563156976  0.14945842410308152  1.0000
+  O   O2        1.0  0.6249972366229462  0.8995219124451475  0.3193370893505415  1.0000

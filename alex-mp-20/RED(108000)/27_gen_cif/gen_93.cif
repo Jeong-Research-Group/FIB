@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zn2CuAgBa
+_chemical_formula_sum              "Zn2 Cu1 Ag1 Ba1"
+_cell_length_a       4.70533417040732
+_cell_length_b       4.705274143336588
+_cell_length_c       6.070766925811768
+_cell_angle_alpha    112.77163488914255
+_cell_angle_beta     112.7971094791188
+_cell_angle_gamma    89.98600098819767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.13368037343025208  0.16851353645324707  0.2659275233745575  1.0000
+  Zn  Zn2       1.0  0.8684428930282593  0.9028711318969727  0.7353915572166443  1.0000
+  Cu  Cu1       1.0  0.7509976029396057  0.28501173853874207  0.5009755492210388  1.0000
+  Ag  Ag1       1.0  0.25139662623405457  0.7859535217285156  0.501752495765686  1.0000
+  Ba  Ba1       1.0  0.5014315843582153  0.5358551740646362  0.0015620767371729292  1.0000

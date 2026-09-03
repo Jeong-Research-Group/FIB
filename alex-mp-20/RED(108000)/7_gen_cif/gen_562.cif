@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgCsCdHgSn2
+_chemical_formula_sum              "Hg2 Cs1 Cd1 Sn2"
+_cell_length_a       5.077900953814083
+_cell_length_b       5.081521607150183
+_cell_length_c       9.588808059692383
+_cell_angle_alpha    90.17933595318274
+_cell_angle_beta     90.02652412762231
+_cell_angle_gamma    120.09029628481247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6920250654220581  0.13788795471191406  0.7602925300598145  1.0000
+  Cs  Cs1       1.0  0.35711440443992615  0.47159695625305176  0.013877937570214272  1.0000
+  Cd  Cd1       1.0  0.35700520873069763  0.4716085195541382  0.5129563212394714  1.0000
+  Hg  Hg2       1.0  0.02282542921602725  0.8045831322669983  0.26799020171165466  1.0000
+  Sn  Sn1       1.0  0.6920470595359802  0.13871631026268005  0.41028204560279846  1.0000
+  Sn  Sn2       1.0  0.024203285574913042  0.8046888113021851  0.6158369183540344  1.0000

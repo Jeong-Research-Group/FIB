@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2NbIr2
+_chemical_formula_sum              "Ta2 Nb1 Ir2"
+_cell_length_a       3.693072996835236
+_cell_length_b       5.177604476428789
+_cell_length_c       5.046324043394124
+_cell_angle_alpha    85.359779175054
+_cell_angle_beta     68.53374001344903
+_cell_angle_gamma    69.10616391529825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.386536946618144  0.5704255946549912  0.9607645817301705  1.0000
+  Ta  Ta2       1.0  0.9680010898261692  0.18503480364149852  0.183107713068011  1.0000
+  Nb  Nb1       1.0  0.5559406410373637  0.7989507633633995  0.3930986102214416  1.0000
+  Ir  Ir1       1.0  0.16680907971933875  0.39179257697837105  0.5789160450769651  1.0000
+  Ir  Ir2       1.0  0.7672234108111967  0.9787620016040939  0.7906269523280595  1.0000

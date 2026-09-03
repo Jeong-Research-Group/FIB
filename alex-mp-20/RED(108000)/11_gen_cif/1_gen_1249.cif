@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Pr2BiO
+_chemical_formula_sum              "Sr2 Pr2 Bi1 O1"
+_cell_length_a       4.811737277511687
+_cell_length_b       4.811165014473516
+_cell_length_c       9.32518228486456
+_cell_angle_alpha    89.95833427250864
+_cell_angle_beta     89.9751851711699
+_cell_angle_gamma    90.00052627677275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9397852423901918  0.23796380500302894  0.4275497643382056  1.0000
+  Sr  Sr2       1.0  0.4400369075720624  0.7381724983307512  0.12302561371039117  1.0000
+  Pr  Pr1       1.0  0.44051961077229157  0.2393260310754008  0.7903121411951248  1.0000
+  Pr  Pr2       1.0  0.9405792621212414  0.7390829967515706  0.7904794713116088  1.0000
+  Bi  Bi1       1.0  0.9400519038268736  0.23855429619549373  0.05182641410394574  1.0000
+  O   O1        1.0  0.4406047962741546  0.7392947866985834  0.8356343951625692  1.0000

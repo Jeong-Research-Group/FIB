@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2CuTe3
+_chemical_formula_sum              "Tl2 Cu1 Te3"
+_cell_length_a       6.248489240325815
+_cell_length_b       7.469153967926909
+_cell_length_c       7.9951030159623455
+_cell_angle_alpha    139.9316436629204
+_cell_angle_beta     113.77143969224002
+_cell_angle_gamma    89.47170161181599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.01574096168512165  0.7736048377496633  0.013173601547046993  1.0000
+  Tl  Tl2       1.0  0.4026025395528752  0.24027306151624708  0.7977677376423447  1.0000
+  Cu  Cu1       1.0  0.7132834762363097  0.5068791746872462  0.40533078595691974  1.0000
+  Te  Te1       1.0  0.5682761276966329  0.9809034927045901  0.11846873050227948  1.0000
+  Te  Te2       1.0  0.20699224297094657  0.5068233075819647  0.40542368139123564  1.0000
+  Te  Te3       1.0  0.8502859166543695  0.03282927467568218  0.6921950345510575  1.0000

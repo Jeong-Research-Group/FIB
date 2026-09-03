@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ir2DyIr2Er
+_chemical_formula_sum              "Ir4 Dy1 Er1"
+_cell_length_a       5.35922894975548
+_cell_length_b       5.361405661723896
+_cell_length_c       5.358861923217773
+_cell_angle_alpha    60.02704163445026
+_cell_angle_beta     60.02864772645263
+_cell_angle_gamma    59.946145547173224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.8200215101242065  0.8201181888580322  0.49302181601524353  1.0000
+  Ir  Ir2       1.0  0.8199194073677064  0.3196658492088318  0.4928741455078125  1.0000
+  Dy  Dy1       1.0  0.44465795159339905  0.4448193609714508  0.11791043728590012  1.0000
+  Ir  Ir3       1.0  0.8200332522392272  0.8199232816696167  0.9922442436218262  1.0000
+  Ir  Ir4       1.0  0.319497287273407  0.820209503173828  0.49278828501701355  1.0000
+  Er  Er1       1.0  0.19522309303283691  0.19503915309906006  0.8675912022590637  1.0000

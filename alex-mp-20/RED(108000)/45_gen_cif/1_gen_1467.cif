@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy2Ge2Ru2C
+_chemical_formula_sum              "Dy2 Ge2 Ru2 C1"
+_cell_length_a       4.0525730149814345
+_cell_length_b       5.3533130324712515
+_cell_length_c       6.321063401530354
+_cell_angle_alpha    104.28347332412945
+_cell_angle_beta     108.69678944141442
+_cell_angle_gamma    89.99997557456966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.9090441416958625  0.42181933440918473  0.10039066017155651  1.0000
+  Dy  Dy2       1.0  0.6994568481292824  0.8500970889655104  0.6811440840046361  1.0000
+  Ge  Ge1       1.0  0.5833808495421433  0.31174047663393434  0.4489611519640967  1.0000
+  Ge  Ge2       1.0  0.025134854071744123  0.9601836332328135  0.3325369879955135  1.0000
+  Ru  Ru1       1.0  0.4024790889829719  0.9125711513379383  0.08724286471414364  1.0000
+  Ru  Ru2       1.0  0.20603286779682256  0.3593572175323025  0.6942605560976095  1.0000
+  C   C1        1.0  0.30422582676816645  0.13593229513194968  0.8907196134389034  1.0000

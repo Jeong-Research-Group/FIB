@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ho2Ti2Bi2C
+_chemical_formula_sum              "Ho2 Ti2 Bi2 C1"
+_cell_length_a       4.358047625478795
+_cell_length_b       4.357974819244328
+_cell_length_c       8.400724434977176
+_cell_angle_alpha    105.04017575607428
+_cell_angle_beta     105.03766008198397
+_cell_angle_gamma    89.99942503142886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.8019836911943516  0.9034427177593939  0.037676984401523055  1.0000
+  Ho  Ho2       1.0  0.48378404355734156  0.5850627022681635  0.40137299302832236  1.0000
+  Ti  Ti1       1.0  0.6429257096486256  0.24440744651219237  0.7195318565726502  1.0000
+  Ti  Ti2       1.0  0.14296498099653793  0.7444490036196925  0.7196097503049691  1.0000
+  Bi  Bi1       1.0  0.005713658204885639  0.10722612387982625  0.44500756315434853  1.0000
+  Bi  Bi2       1.0  0.28018887468613285  0.3815538566767678  0.9941308445298778  1.0000
+  C   C1        1.0  0.6429851700700566  0.744487659558022  0.7196446668392219  1.0000

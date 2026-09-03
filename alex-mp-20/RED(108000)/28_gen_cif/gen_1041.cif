@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaLiBaHCd
+_chemical_formula_sum              "Ba2 Li1 H1 Cd1"
+_cell_length_a       4.598451627988529
+_cell_length_b       5.770283815808943
+_cell_length_c       5.772311687469482
+_cell_angle_alpha    89.98847314531783
+_cell_angle_beta     90.00440797657174
+_cell_angle_gamma    90.00980382558389
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.0243251733481884  0.004827332682907581  0.4837014377117157  1.0000
+  Li  Li1       1.0  0.5244499444961548  0.505111575126648  0.48351970314979553  1.0000
+  Ba  Ba2       1.0  0.0234992615878582  0.5048173069953918  0.9836048483848572  1.0000
+  H   H1        1.0  0.022611182183027267  0.5044128894805908  0.4837191104888916  1.0000
+  Cd  Cd1       1.0  0.5238135457038879  0.004823972005397081  0.9837092161178589  1.0000

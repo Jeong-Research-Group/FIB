@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2P2Pd2Cl2
+_chemical_formula_sum              "La2 P2 Pd2 Cl2"
+_cell_length_a       4.390706375249502
+_cell_length_b       4.390970282281232
+_cell_length_c       8.777059447065975
+_cell_angle_alpha    90.00416297866623
+_cell_angle_beta     90.0166269806813
+_cell_angle_gamma    89.99959323319443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.16957668198144493  0.8311832574846789  0.09098660029713196  1.0000
+  La  La2       1.0  0.6691695158555152  0.3308561996910612  0.5526622881314793  1.0000
+  P   P1        1.0  0.16960012693056187  0.8313540295803734  0.6821483570882912  1.0000
+  P   P2        1.0  0.6700337736437598  0.3314642141515622  0.9614721425319233  1.0000
+  Pd  Pd1       1.0  0.16960400228378114  0.3312146527172406  0.8214775526024083  1.0000
+  Pd  Pd2       1.0  0.6694358739982039  0.8312207125102532  0.8218238550687986  1.0000
+  Cl  Cl1       1.0  0.1691325441435575  0.3312930807085768  0.3216460914623948  1.0000
+  Cl  Cl2       1.0  0.6696310879080704  0.8310857655220328  0.32195772465938  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       In2Ni2Rh2
+_chemical_formula_sum              "In2 Ni2 Rh2"
+_cell_length_a       4.009059840635963
+_cell_length_b       4.730686218522263
+_cell_length_c       5.477644194637758
+_cell_angle_alpha    103.18429003173556
+_cell_angle_beta     90.00074420215765
+_cell_angle_gamma    115.0689193131372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.5943140065772023  0.5323873732774612  0.3247662689239144  1.0000
+  In  In2       1.0  0.9057894295626544  0.15551044696172467  0.9576735347925814  1.0000
+  Ni  Ni1       1.0  0.9218981071529325  0.18763585628582988  0.4705846822721314  1.0000
+  Ni  Ni2       1.0  0.2545334023934825  0.8527181516872563  0.1433590154788574  1.0000
+  Rh  Rh1       1.0  0.24984549293048677  0.8435851620033464  0.633120063206493  1.0000
+  Rh  Rh2       1.0  0.5784024912076349  0.5009066915198664  0.813774560305657  1.0000

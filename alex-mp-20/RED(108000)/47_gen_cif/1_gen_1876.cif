@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaCu2S2Br2
+_chemical_formula_sum              "Ga1 Cu2 S2 Br2"
+_cell_length_a       5.334573648398588
+_cell_length_b       5.692672850058514
+_cell_length_c       5.543291549250728
+_cell_angle_alpha    90.0136204977887
+_cell_angle_beta     87.17515685329032
+_cell_angle_gamma    90.01061101125056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6906079459758577  0.9335976253492025  0.6654889021557917  1.0000
+  Cu  Cu1       1.0  0.19068826329579547  0.5368802074082015  0.6656992290221949  1.0000
+  Cu  Cu2       1.0  0.19143257154067148  0.9418600520632174  0.16621166626389994  1.0000
+  S   S1        1.0  0.9474844832958194  0.7211704608756884  0.41600116312769364  1.0000
+  S   S2        1.0  0.43435347553004516  0.7210970926058938  0.915321340740797  1.0000
+  Br  Br1       1.0  0.4465017777171756  0.2131772835965284  0.42046345662959916  1.0000
+  Br  Br2       1.0  0.9355177352678566  0.2128981895421634  0.9108483893417728  1.0000

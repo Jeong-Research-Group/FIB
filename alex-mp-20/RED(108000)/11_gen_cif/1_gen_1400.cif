@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Li2Au
+_chemical_formula_sum              "Li2 Au1"
+_cell_length_a       2.833907355098375
+_cell_length_b       4.344522055619261
+_cell_length_c       4.344824753574013
+_cell_angle_alpha    120.00568527897335
+_cell_angle_beta     89.99981255956546
+_cell_angle_gamma    89.99495820694847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.14755086228149564  0.39946327179127283  0.11082713238168788  1.0000
+  Li  Li2       1.0  0.34096098056283275  0.7323800316868123  0.7774532807922283  1.0000
+  Au  Au1       1.0  0.7449310187573022  0.06594873479838645  0.4437659019444263  1.0000

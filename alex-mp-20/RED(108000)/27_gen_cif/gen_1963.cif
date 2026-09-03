@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Ga2FeGa2
+_chemical_formula_sum              "Li2 Ga4 Fe1"
+_cell_length_a       2.848322889885076
+_cell_length_b       4.408662893425411
+_cell_length_c       8.98030948638916
+_cell_angle_alpha    103.9598365167578
+_cell_angle_beta     90.12201700201781
+_cell_angle_gamma    89.93770434834937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5049091577529907  0.5634989142417908  0.6052988767623901  1.0000
+  Li  Li2       1.0  0.0025331974029541016  0.01052280142903328  0.4985697567462921  1.0000
+  Ga  Ga1       1.0  0.0066925310529768476  0.7075855731964111  0.8910754919052124  1.0000
+  Ga  Ga2       1.0  0.5067500472068787  0.8478989601135253  0.17336463928222656  1.0000
+  Fe  Fe1       1.0  0.007297785952687264  0.28550636768341064  0.047771256417036057  1.0000
+  Ga  Ga3       1.0  0.007060621399432422  0.42654311656951904  0.3310474455356598  1.0000
+  Ga  Ga4       1.0  0.5045030117034912  0.15536175668239594  0.7865874767303467  1.0000

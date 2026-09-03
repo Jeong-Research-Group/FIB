@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlLiBRh2AlRh2
+_chemical_formula_sum              "Al2 Li1 B1 Rh4"
+_cell_length_a       4.124051105976226
+_cell_length_b       4.124488065064547
+_cell_length_c       7.047144889831543
+_cell_angle_alpha    73.03513909371117
+_cell_angle_beta     73.05435721724315
+_cell_angle_gamma    60.02268070694944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7498968839645386  0.06095622479915619  0.5827783942222595  1.0000
+  Li  Li1       1.0  0.2530907988548278  0.5636175870895386  0.07619356364011765  1.0000
+  B   B1        1.0  0.505492329597473  0.816025733947754  0.3167780935764313  1.0000
+  Rh  Rh1       1.0  0.3824478089809417  0.6929425597190857  0.6865947842597961  1.0000
+  Rh  Rh2       1.0  0.6204278469085693  0.9310742616653442  0.972992241382599  1.0000
+  Al  Al2       1.0  0.9984440207481384  0.30903220176696783  0.8387268781661988  1.0000
+  Rh  Rh3       1.0  0.12973773479461667  0.43987762928009033  0.44401672482490545  1.0000
+  Rh  Rh4       1.0  0.8721701502799988  0.18207392096519473  0.21847738325595853  1.0000

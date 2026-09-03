@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ni2SnHg
+_chemical_formula_sum              "Ni2 Sn1 Hg1"
+_cell_length_a       3.1763295912900493
+_cell_length_b       3.1763345359123702
+_cell_length_c       6.257642158852655
+_cell_angle_alpha    89.9768000906172
+_cell_angle_beta     89.98439237826624
+_cell_angle_gamma    89.99057766189938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.06473342349447155  0.41032887910836335  0.9867222672771403  1.0000
+  Ni  Ni2       1.0  0.06461659012837667  0.41035872150871155  0.4483064102028765  1.0000
+  Sn  Sn1       1.0  0.5645433247960061  0.9101748960429888  0.21753330253188477  1.0000
+  Hg  Hg1       1.0  0.5646532222125176  0.9105256208768728  0.7175249733923097  1.0000

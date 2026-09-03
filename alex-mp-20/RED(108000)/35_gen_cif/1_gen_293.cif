@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2InHg2Bi
+_chemical_formula_sum              "Tl2 In1 Hg2 Bi1"
+_cell_length_a       3.6589712624133686
+_cell_length_b       6.493004847431229
+_cell_length_c       8.921136898937029
+_cell_angle_alpha    66.65303807246019
+_cell_angle_beta     78.1886986711927
+_cell_angle_gamma    73.96449143858821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9942327517254331  0.3010552620860997  0.32198028897475534  1.0000
+  Tl  Tl2       1.0  0.3219951970740586  0.8438363664358783  0.1250344373286943  1.0000
+  In  In1       1.0  0.008435063439343516  0.8043026981046657  0.7926223716065257  1.0000
+  Hg  Hg1       1.0  0.33683940944997054  0.27429712468026196  0.6661449921815316  1.0000
+  Hg  Hg2       1.0  0.649378415859788  0.3383468536890761  0.9742112118879973  1.0000
+  Bi  Bi1       1.0  0.6734360454646366  0.7834186506587165  0.4809729325112132  1.0000

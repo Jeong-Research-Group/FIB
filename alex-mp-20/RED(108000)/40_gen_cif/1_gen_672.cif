@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2In2Au2
+_chemical_formula_sum              "Rb2 In2 Au2"
+_cell_length_a       4.946961803496389
+_cell_length_b       4.947311160279246
+_cell_length_c       8.684633136211438
+_cell_angle_alpha    90.00834925052072
+_cell_angle_beta     89.99077996618611
+_cell_angle_gamma    89.99987399699906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.34261593508576904  0.5958703611154968  0.2829336382155872  1.0000
+  Rb  Rb2       1.0  0.8423807208020687  0.09636946356180692  0.9797485544821024  1.0000
+  In  In1       1.0  0.8425166686795127  0.5962146047433103  0.6312826872832354  1.0000
+  In  In2       1.0  0.3425707614143112  0.09625031383714303  0.6314414990197325  1.0000
+  Au  Au1       1.0  0.3424238565973416  0.5962624719538371  0.800576214543037  1.0000
+  Au  Au2       1.0  0.8426628623226412  0.09613987159372558  0.4621014938653236  1.0000

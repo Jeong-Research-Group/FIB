@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2AuCdN
+_chemical_formula_sum              "Ba2 Au1 Cd1 N1"
+_cell_length_a       5.668586038187615
+_cell_length_b       5.675094611694812
+_cell_length_c       4.500112533569336
+_cell_angle_alpha    89.99711333440887
+_cell_angle_beta     90.03750707435115
+_cell_angle_gamma    89.98703197510767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.03842156380414963  0.07875217497348785  0.09382958710193634  1.0000
+  Ba  Ba2       1.0  0.5383866429328918  0.5783252120018005  0.0929684042930603  1.0000
+  Au  Au1       1.0  0.5382057428359985  0.07801386713981628  0.5936120748519897  1.0000
+  Cd  Cd1       1.0  0.03850184753537178  0.5785382390022278  0.5935991406440735  1.0000
+  N   N1        1.0  0.038475777953863144  0.5777566432952881  0.09465811401605606  1.0000

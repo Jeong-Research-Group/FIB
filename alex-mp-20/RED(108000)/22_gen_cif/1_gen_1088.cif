@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf3Fe2Os
+_chemical_formula_sum              "Hf3 Fe2 Os1"
+_cell_length_a       4.509978494208939
+_cell_length_b       5.520220669385978
+_cell_length_c       4.5101732279188935
+_cell_angle_alpha    90.001936030845
+_cell_angle_beta     120.0001187682127
+_cell_angle_gamma    89.99716546704403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.15821303854633537  0.5495588218578917  0.680804035956304  1.0000
+  Hf  Hf2       1.0  0.4911893910448037  0.2218002632282992  0.34734323806263867  1.0000
+  Hf  Hf3       1.0  0.8247598115870736  0.8773388674557459  0.01406570899032973  1.0000
+  Fe  Fe1       1.0  0.8248507978831443  0.3852661713289138  0.014067955554603741  1.0000
+  Fe  Fe2       1.0  0.49125050854373287  0.7137311245945793  0.3476268305518499  1.0000
+  Os  Os1       1.0  0.15797517105740153  0.04930521207194598  0.680789378188604  1.0000

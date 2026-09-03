@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeMgPbAg2Pb
+_chemical_formula_sum              "Ce1 Mg1 Pb2 Ag2"
+_cell_length_a       4.829015744627355
+_cell_length_b       4.827396660084161
+_cell_length_c       7.320822238922119
+_cell_angle_alpha    90.01906556418894
+_cell_angle_beta     89.97419805004019
+_cell_angle_gamma    119.99598844540232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7579083442687989  0.7292543053627015  0.2877430021762848  1.0000
+  Mg  Mg1       1.0  0.7588158845901489  0.7294037938117981  0.787397861480713  1.0000
+  Pb  Pb1       1.0  0.09164785593748093  0.39628130197525024  0.5138647556304932  1.0000
+  Ag  Ag1       1.0  0.09180427342653273  0.39693504571914673  0.9539746642112733  1.0000
+  Ag  Ag2       1.0  0.424690306186676  0.06299616396427155  0.6211235523223878  1.0000
+  Pb  Pb2       1.0  0.4246843755245209  0.06336873769760132  0.06113336235284806  1.0000

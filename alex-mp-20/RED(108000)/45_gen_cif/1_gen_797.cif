@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaCuSn2Pd
+_chemical_formula_sum              "Ga1 Cu1 Sn2 Pd1"
+_cell_length_a       4.407256054205822
+_cell_length_b       4.408856138924834
+_cell_length_c       6.027838193955164
+_cell_angle_alpha    90.01693606771846
+_cell_angle_beta     90.0041682113326
+_cell_angle_gamma    59.985299159788404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7991105425964437  0.5031540022414567  0.6447464085173441  1.0000
+  Cu  Cu1       1.0  0.7987995039921834  0.5028982164031255  0.2017540026022462  1.0000
+  Sn  Sn1       1.0  0.4656698724474094  0.1697053158079915  0.9776028038148246  1.0000
+  Sn  Sn2       1.0  0.13175514184003662  0.836404705985199  0.3393169844190025  1.0000
+  Pd  Pd1       1.0  0.13255690248642202  0.8362473790211118  0.7966600244485198  1.0000

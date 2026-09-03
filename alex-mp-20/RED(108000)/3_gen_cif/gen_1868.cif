@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlV2AlV2Ge
+_chemical_formula_sum              "Al2 V4 Ge1"
+_cell_length_a       3.715532679679292
+_cell_length_b       3.7658892390648666
+_cell_length_c       7.671114921569824
+_cell_angle_alpha    89.96296921813429
+_cell_angle_beta     89.9560707242292
+_cell_angle_gamma    90.04696005623622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9925613403320311  0.7044708132743835  0.5762220025062561  1.0000
+  V   V1        1.0  0.4927613735198974  0.7046018838882446  0.3192366361618042  1.0000
+  V   V2        1.0  0.9925103187561034  0.2043740600347519  0.3183101415634155  1.0000
+  Al  Al2       1.0  0.4918601214885711  0.7045714855194093  0.8425078988075257  1.0000
+  V   V3        1.0  0.9921180605888366  0.20448176562786102  0.8451243638992311  1.0000
+  V   V4        1.0  0.49242141842842096  0.20448037981987  0.5871159434318542  1.0000
+  Ge  Ge1       1.0  0.9926071763038634  0.7044681310653687  0.08572984486818314  1.0000

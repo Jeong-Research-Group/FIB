@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2InPd
+_chemical_formula_sum              "Sc2 In1 Pd1"
+_cell_length_a       3.429129842975296
+_cell_length_b       3.4290648323671635
+_cell_length_c       6.974786793660006
+_cell_angle_alpha    90.01032962509467
+_cell_angle_beta     90.00020042245568
+_cell_angle_gamma    90.0184057856794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.3119928512126786  0.5712473774075083  0.5256884144637355  1.0000
+  Sc  Sc2       1.0  0.3120736706656503  0.571392527989406  0.9728159553908524  1.0000
+  In  In1       1.0  0.812044053712804  0.0713835955473783  0.24923122353628188  1.0000
+  Pd  Pd1       1.0  0.8118560450991532  0.07149551322100488  0.7490660523539813  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BCo2IrOs
+_chemical_formula_sum              "B1 Co2 Ir1 Os1"
+_cell_length_a       3.8108724048517835
+_cell_length_b       3.8092291756621655
+_cell_length_c       3.9691431522369385
+_cell_angle_alpha    90.04608579158946
+_cell_angle_beta     90.08447144368203
+_cell_angle_gamma    90.06779895637747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.5291638374328613  0.06804926693439484  0.33943966031074524  1.0000
+  Co  Co1       1.0  0.028983823955059048  0.06776280701160431  0.3391936421394348  1.0000
+  Co  Co2       1.0  0.5289854407310486  0.5668903589248657  0.3393019735813141  1.0000
+  Ir  Ir1       1.0  0.028218327090144154  0.5679038166999816  0.839470386505127  1.0000
+  Os  Os1       1.0  0.5279104709625244  0.06800688058137894  0.8394984602928162  1.0000

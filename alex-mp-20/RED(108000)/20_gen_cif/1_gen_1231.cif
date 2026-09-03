@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaAlGe2Pd
+_chemical_formula_sum              "Ca1 Al1 Ge2 Pd1"
+_cell_length_a       4.104746063834455
+_cell_length_b       4.105699065206065
+_cell_length_c       6.409430489368099
+_cell_angle_alpha    108.6626779210401
+_cell_angle_beta     108.68815709911506
+_cell_angle_gamma    89.9999474316357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.352072285062984  0.5189217047555281  0.7403089184441166  1.0000
+  Al  Al1       1.0  0.602105849094875  0.26881030673305517  0.24019887994156588  1.0000
+  Ge  Ge1       1.0  0.7401591091733593  0.9071441107587579  0.5169177696365659  1.0000
+  Ge  Ge2       1.0  0.9636771923194465  0.13047282735125834  0.9632715407488557  1.0000
+  Pd  Pd1       1.0  0.10162753276160241  0.7687845739111704  0.2399714333800477  1.0000

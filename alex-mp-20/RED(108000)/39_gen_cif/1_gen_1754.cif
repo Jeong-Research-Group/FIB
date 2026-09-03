@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       YbGePt2C
+_chemical_formula_sum              "Yb1 Ge1 Pt2 C1"
+_cell_length_a       4.189078650519021
+_cell_length_b       4.7024710083303
+_cell_length_c       4.189200637655783
+_cell_angle_alpha    90.01641148868468
+_cell_angle_beta     89.99893905964655
+_cell_angle_gamma    90.00010158282728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.02500398637582101  0.8193083456981561  0.3887020966438144  1.0000
+  Ge  Ge1       1.0  0.5248673993419813  0.8197056537725922  0.8886884338945489  1.0000
+  Pt  Pt1       1.0  0.524649410941236  0.31762823103319504  0.38910195481302906  1.0000
+  Pt  Pt2       1.0  0.024446332031197046  0.3205304462525542  0.8876952506764239  1.0000
+  C   C1        1.0  0.5243256736184728  0.3201046669371869  0.8895989724306822  1.0000

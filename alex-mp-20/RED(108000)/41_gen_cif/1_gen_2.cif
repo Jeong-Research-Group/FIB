@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrLiCa2Sn2
+_chemical_formula_sum              "Sr1 Li1 Ca2 Sn2"
+_cell_length_a       5.466817628510494
+_cell_length_b       5.475932339718476
+_cell_length_c       6.978003851827205
+_cell_angle_alpha    90.00378029870727
+_cell_angle_beta     90.02185103309624
+_cell_angle_gamma    120.03299554003068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.03135199303092819  0.634326269934669  0.871110647376798  1.0000
+  Li  Li1       1.0  0.03140839546364624  0.6342921941587892  0.3714411467851842  1.0000
+  Ca  Ca1       1.0  0.6990621419259008  0.9682096590740227  0.17494437022335582  1.0000
+  Ca  Ca2       1.0  0.36344989039826164  0.30041824897810904  0.5668278081243444  1.0000
+  Sn  Sn1       1.0  0.36638828365948456  0.3019733399557056  0.10497934131169781  1.0000
+  Sn  Sn2       1.0  0.6966680359936509  0.9667867511912053  0.6367566222905641  1.0000

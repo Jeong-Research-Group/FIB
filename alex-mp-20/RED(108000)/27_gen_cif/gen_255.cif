@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NPrSiCe2
+_chemical_formula_sum              "N1 Pr1 Si1 Ce2"
+_cell_length_a       4.809190072091263
+_cell_length_b       4.806155546373529
+_cell_length_c       5.10802698135376
+_cell_angle_alpha    89.95079782261683
+_cell_angle_beta     89.9679484277494
+_cell_angle_gamma    89.98151318214319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.3680005371570587  0.7004495859146118  0.072364941239357  1.0000
+  Pr  Pr1       1.0  0.3682618737220764  0.7003329396247864  0.5725032687187195  1.0000
+  Si  Si1       1.0  0.8682102560997009  0.20048174262046814  0.5727308988571167  1.0000
+  Ce  Ce1       1.0  0.3679916262626648  0.20047354698181152  0.07236281782388687  1.0000
+  Ce  Ce2       1.0  0.868168294429779  0.7002546191215514  0.0719539225101471  1.0000

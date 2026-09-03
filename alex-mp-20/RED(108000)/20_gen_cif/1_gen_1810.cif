@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr3HPb
+_chemical_formula_sum              "Zr3 H1 Pb1"
+_cell_length_a       4.532315598565536
+_cell_length_b       4.5345595937789644
+_cell_length_c       4.535515628314858
+_cell_angle_alpha    89.95886973660703
+_cell_angle_beta     89.99428890193934
+_cell_angle_gamma    89.97515632784425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6146211654217197  0.6348144338533712  0.1499233656811537  1.0000
+  Zr  Zr2       1.0  0.11458279951793973  0.13445544800525705  0.14995056143909408  1.0000
+  Zr  Zr3       1.0  0.11421439394377784  0.634904857162858  0.6496917086510005  1.0000
+  H   H1        1.0  0.11450807076508819  0.6337259090286586  0.15006358367934527  1.0000
+  Pb  Pb1       1.0  0.6143102945009651  0.13486143267370712  0.6500026493932833  1.0000

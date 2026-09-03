@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiMoTa2Mo2
+_chemical_formula_sum              "Ni1 Mo3 Ta2"
+_cell_length_a       3.191420643001304
+_cell_length_b       5.247691195736835
+_cell_length_c       6.221648216247559
+_cell_angle_alpha    107.05404829223082
+_cell_angle_beta     90.02590941244195
+_cell_angle_gamma    107.6620802499162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.859100341796875  0.33874210715293884  0.9602036476135254  1.0000
+  Mo  Mo1       1.0  0.5301017165184021  0.6795084476470947  0.29321804642677307  1.0000
+  Ta  Ta1       1.0  0.1998191773891449  0.01824754849076271  0.6311782598495483  1.0000
+  Ta  Ta2       1.0  0.19801752269268036  0.01561372075229883  0.12839975953102112  1.0000
+  Mo  Mo2       1.0  0.5311083197593689  0.6821463704109192  0.7988344430923462  1.0000
+  Mo  Mo3       1.0  0.870005190372467  0.3598526418209076  0.46366721391677856  1.0000

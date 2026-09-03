@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2GaRhBr
+_chemical_formula_sum              "Sr2 Ga1 Rh1 Br1"
+_cell_length_a       5.848008523745155
+_cell_length_b       4.735204854422841
+_cell_length_c       5.84832948093347
+_cell_angle_alpha    90.06082618059571
+_cell_angle_beta     89.99812368004432
+_cell_angle_gamma    90.01004206890225
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.26714357787518755  0.5558641951509894  0.24645741056487042  1.0000
+  Sr  Sr2       1.0  0.767759687326533  0.5567766571250657  0.7461546371404464  1.0000
+  Ga  Ga1       1.0  0.7676322725370335  0.05652394393859148  0.2462544448220303  1.0000
+  Rh  Rh1       1.0  0.7673790177704906  0.5566018953411931  0.24611268492271499  1.0000
+  Br  Br1       1.0  0.2679261797246477  0.05605907704276088  0.7464403873891851  1.0000

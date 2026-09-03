@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Ni2Au2
+_chemical_formula_sum              "Mg2 Ni2 Au2"
+_cell_length_a       4.420586784444027
+_cell_length_b       4.420756320245609
+_cell_length_c       5.566368168209512
+_cell_angle_alpha    90.06534684012261
+_cell_angle_beta     90.04252313364806
+_cell_angle_gamma    120.17634206263041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.02903351796902702  0.016891679924402853  0.6322238541177535  1.0000
+  Mg  Mg2       1.0  0.029662017644851914  0.016471702535389456  0.13185632409539372  1.0000
+  Ni  Ni1       1.0  0.36358304394693297  0.6828974990579576  0.8830741109409206  1.0000
+  Ni  Ni2       1.0  0.6952113408555771  0.35078905267694066  0.3802706991609124  1.0000
+  Au  Au1       1.0  0.6956852095097631  0.3503966985561657  0.8808150038460517  1.0000
+  Au  Au2       1.0  0.3627251855507769  0.6830557468135172  0.3826754371532701  1.0000

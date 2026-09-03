@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V4InFe
+_chemical_formula_sum              "V4 In1 Fe1"
+_cell_length_a       4.152102771753648
+_cell_length_b       4.385772636070182
+_cell_length_c       5.118540782287837
+_cell_angle_alpha    89.99692515266217
+_cell_angle_beta     113.92058732911255
+_cell_angle_gamma    89.99979528800512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.36812333984361273  0.21818044301144232  0.3185985500175176  1.0000
+  V   V2        1.0  0.8601780824643079  0.7179879691687215  0.30217995642307555  1.0000
+  V   V3        1.0  0.7264491529721572  0.21811525366902287  0.035422249406227686  1.0000
+  V   V4        1.0  0.04944637359348719  0.2182199662069608  0.6810662660435254  1.0000
+  In  In1       1.0  0.552579484055115  0.7181692220244466  0.6872139536803422  1.0000
+  Fe  Fe1       1.0  0.23014778340710226  0.7181470355614648  0.04265555028428068  1.0000

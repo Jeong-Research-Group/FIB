@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyHPt3
+_chemical_formula_sum              "Dy1 H1 Pt3"
+_cell_length_a       4.185008478732005
+_cell_length_b       4.18617108337736
+_cell_length_c       4.187914145537625
+_cell_angle_alpha    89.9982776758869
+_cell_angle_beta     89.96218173151541
+_cell_angle_gamma    90.00956651085765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7862469595142283  0.08440455953581352  0.5864775952374389  1.0000
+  H   H1        1.0  0.28641409896516007  0.5838332346545448  0.08650032655608135  1.0000
+  Pt  Pt1       1.0  0.7860626934675682  0.5843806141716592  0.08649846010524545  1.0000
+  Pt  Pt2       1.0  0.28614103667401314  0.08440872112340443  0.08678490895025003  1.0000
+  Pt  Pt3       1.0  0.28608618258837776  0.5844973096634274  0.5868052348806495  1.0000

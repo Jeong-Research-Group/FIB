@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KCd2NaIn2
+_chemical_formula_sum              "K1 Cd2 Na1 In2"
+_cell_length_a       5.0729476486248375
+_cell_length_b       5.07460110985318
+_cell_length_c       8.473934173583984
+_cell_angle_alpha    90.06508737484226
+_cell_angle_beta     90.06238944378772
+_cell_angle_gamma    120.02398220655803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.35494324564933777  0.7279720902442932  0.6764194965362549  1.0000
+  Cd  Cd1       1.0  0.6887460350990295  0.3948058784008026  0.3601236045360565  1.0000
+  Cd  Cd2       1.0  0.02151128277182579  0.06029479578137398  0.9924063682556152  1.0000
+  Na  Na1       1.0  0.35473281145095825  0.7277724146842957  0.17635348439216614  1.0000
+  In  In1       1.0  0.021887194365262985  0.06120441108942032  0.37162646651268005  1.0000
+  In  In2       1.0  0.6884784698486327  0.3940131068229675  0.9808687567710876  1.0000

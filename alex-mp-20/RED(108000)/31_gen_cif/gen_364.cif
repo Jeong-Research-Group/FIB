@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PtMnPtIn
+_chemical_formula_sum              "Pt2 Mn1 In1"
+_cell_length_a       4.54147523411668
+_cell_length_b       4.543413506488913
+_cell_length_c       4.548378944396973
+_cell_angle_alpha    60.04842870635777
+_cell_angle_beta     60.062047013590686
+_cell_angle_gamma    60.043386842385594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.6871671676635742  0.9225865602493286  0.5829035639762878  1.0000
+  Mn  Mn1       1.0  0.43735152482986456  0.6724144220352173  0.33302751183509827  1.0000
+  Pt  Pt2       1.0  0.18732763826847076  0.42285957932472235  0.08291930705308914  1.0000
+  In  In1       1.0  0.9372599720954895  0.17280963063240054  0.832787036895752  1.0000

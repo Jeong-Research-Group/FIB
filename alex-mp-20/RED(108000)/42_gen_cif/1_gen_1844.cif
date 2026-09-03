@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr3PCl
+_chemical_formula_sum              "Sr3 P1 Cl1"
+_cell_length_a       4.439408855260738
+_cell_length_b       6.04460394184003
+_cell_length_c       7.564322283234849
+_cell_angle_alpha    113.5660746377237
+_cell_angle_beta     107.06858087598386
+_cell_angle_gamma    90.00020580347403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4195596719631687  0.10400145371806237  0.8272166156936615  1.0000
+  Sr  Sr2       1.0  0.749034935396231  0.4332678400101897  0.4861027255147611  1.0000
+  Sr  Sr3       1.0  0.11137113781328523  0.7956439063574059  0.21090245118975615  1.0000
+  P   P1        1.0  0.7663692066035074  0.950583422274181  0.5205053775943133  1.0000
+  Cl  Cl1       1.0  0.42915990850803776  0.6139398188970169  0.8464383709252356  1.0000

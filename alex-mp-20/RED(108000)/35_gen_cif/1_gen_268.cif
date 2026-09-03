@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeBi2SbO2
+_chemical_formula_sum              "Be1 Bi2 Sb1 O2"
+_cell_length_a       4.442156075014928
+_cell_length_b       4.440514560544962
+_cell_length_c       7.382955280686728
+_cell_angle_alpha    71.35357993399855
+_cell_angle_beta     71.38131469834963
+_cell_angle_gamma    77.43702354988956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.5783166418314329  0.5597307144285136  0.6721347718540756  1.0000
+  Bi  Bi1       1.0  0.09780268048149064  0.07940593777781674  0.37333150862999653  1.0000
+  Bi  Bi2       1.0  0.13652810632831258  0.11790182488536881  0.8532004430723709  1.0000
+  Sb  Sb1       1.0  0.5485076090838978  0.5296510553193323  0.07856485060715436  1.0000
+  O   O1        1.0  0.9005875092830267  0.3856308467913845  0.5873576795965522  1.0000
+  O   O2        1.0  0.40356214678702523  0.8819409820054691  0.5876075711715298  1.0000

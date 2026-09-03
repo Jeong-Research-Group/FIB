@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrAl2H2
+_chemical_formula_sum              "Sr1 Al2 H2"
+_cell_length_a       4.484255970082124
+_cell_length_b       4.484040617180602
+_cell_length_c       4.849449961831671
+_cell_angle_alpha    90.0060216400195
+_cell_angle_beta     89.99955542506314
+_cell_angle_gamma    120.03175137567055
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6360472532500149  0.4687050091632588  0.215824722412422  1.0000
+  Al  Al1       1.0  0.30260376216130336  0.8020936606038468  0.6712008421048031  1.0000
+  Al  Al2       1.0  0.9693849931302329  0.13509853711861936  0.7597304427682139  1.0000
+  H   H1        1.0  0.9692149420294519  0.13545493108141832  0.11613170268631531  1.0000
+  H   H2        1.0  0.30265938372998813  0.801891132151619  0.3153810078956843  1.0000

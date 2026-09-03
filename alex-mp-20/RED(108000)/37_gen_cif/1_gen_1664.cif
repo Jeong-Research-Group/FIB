@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiCuNi2H
+_chemical_formula_sum              "Ti1 Cu1 Ni2 H1"
+_cell_length_a       3.6567631530544005
+_cell_length_b       3.8088695535200325
+_cell_length_c       3.6576802235201846
+_cell_angle_alpha    90.04151594357785
+_cell_angle_beta     90.0112068267515
+_cell_angle_gamma    90.03327598691297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.4671527584287355  0.2205519738197045  0.12245973395058556  1.0000
+  Cu  Cu1       1.0  0.9671100869395661  0.22044986240433934  0.6225314799530192  1.0000
+  Ni  Ni1       1.0  0.46713294047595594  0.7202458925146445  0.6227276371684881  1.0000
+  Ni  Ni2       1.0  0.9673485653088879  0.7198497058568701  0.12287966509045346  1.0000
+  H   H1        1.0  0.4664136086034009  0.7207592424004234  0.12412561895931719  1.0000

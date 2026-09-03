@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Gd2Mn2C2
+_chemical_formula_sum              "Gd2 Mn2 C2"
+_cell_length_a       3.403254154961253
+_cell_length_b       5.162917072835255
+_cell_length_c       5.639633655548096
+_cell_angle_alpha    72.01157764393511
+_cell_angle_beta     72.50710010430716
+_cell_angle_gamma    70.80194442390186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.8963862657546998  0.7776364684104919  0.5087166428565979  1.0000
+  Gd  Gd2       1.0  0.02930032275617122  0.16309908032417297  0.8571361899375916  1.0000
+  Mn  Mn1       1.0  0.6623544096946716  0.6585233211517334  0.09485410898923874  1.0000
+  Mn  Mn2       1.0  0.2627664804458618  0.28121575713157654  0.2713916003704071  1.0000
+  C   C1        1.0  0.6550450325012207  0.34959879517555237  0.41857898235321045  1.0000
+  C   C2        1.0  0.26949426531791687  0.5906724333763123  0.9485963582992554  1.0000

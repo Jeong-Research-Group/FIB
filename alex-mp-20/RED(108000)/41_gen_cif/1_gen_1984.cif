@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni3MoH
+_chemical_formula_sum              "Ni3 Mo1 H1"
+_cell_length_a       3.6811599381934905
+_cell_length_b       3.686818838712843
+_cell_length_c       3.682424426795778
+_cell_angle_alpha    90.07294772164323
+_cell_angle_beta     90.07012616539633
+_cell_angle_gamma    90.08653623210064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5158922999582383  0.4397839615400032  0.14413841820388876  1.0000
+  Ni  Ni2       1.0  0.015762655409175114  0.9403676280039054  0.144161950493582  1.0000
+  Ni  Ni3       1.0  0.015901204431445694  0.43994051498847936  0.6429650492978487  1.0000
+  Mo  Mo1       1.0  0.5156706307791561  0.9399300453150313  0.6445342762577949  1.0000
+  H   H1        1.0  0.015715767825325116  0.43878920235400654  0.14552077324600882  1.0000

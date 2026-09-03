@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2MgInCu2
+_chemical_formula_sum              "Li2 Mg1 In1 Cu2"
+_cell_length_a       4.3854630195181175
+_cell_length_b       4.385837270310003
+_cell_length_c       5.680796055218495
+_cell_angle_alpha    90.111296496772
+_cell_angle_beta     90.03774291350848
+_cell_angle_gamma    120.004403499945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.20578356922095084  0.5890749895355686  0.4649248778144415  1.0000
+  Li  Li2       1.0  0.8725207907564675  0.9219422022237233  0.9567379329886824  1.0000
+  Mg  Mg1       1.0  0.5387502679959214  0.25520446782234096  0.710542700056343  1.0000
+  In  In1       1.0  0.539653038528684  0.25545934484758676  0.2107647053766817  1.0000
+  Cu  Cu1       1.0  0.8724346013819769  0.9222507877397571  0.44908014286327264  1.0000
+  Cu  Cu2       1.0  0.20553239210813287  0.5882739365791003  0.9725486062039723  1.0000

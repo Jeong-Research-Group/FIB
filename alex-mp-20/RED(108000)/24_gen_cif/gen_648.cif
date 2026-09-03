@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Si2OsNi
+_chemical_formula_sum              "Si2 Os1 Ni1"
+_cell_length_a       2.978884251084191
+_cell_length_b       2.975385174152217
+_cell_length_c       5.508314609527588
+_cell_angle_alpha    90.031926809632
+_cell_angle_beta     90.1358686222292
+_cell_angle_gamma    90.02319099782255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5326295495033264  0.5098841786384583  0.5013909935951233  1.0000
+  Si  Si2       1.0  0.5340228080749512  0.5095688104629517  0.027685815468430523  1.0000
+  Os  Os1       1.0  0.03342520445585251  0.010328165255486965  0.7645696401596069  1.0000
+  Ni  Ni1       1.0  0.033303938806056976  0.009789558127522469  0.2648766338825226  1.0000

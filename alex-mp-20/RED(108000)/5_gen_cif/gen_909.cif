@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdAl2Zn2Pd
+_chemical_formula_sum              "Pd2 Al2 Zn2"
+_cell_length_a       4.07678741434338
+_cell_length_b       4.575900613726803
+_cell_length_c       5.36007833480835
+_cell_angle_alpha    99.7685933249701
+_cell_angle_beta     90.03799201526871
+_cell_angle_gamma    116.63151776012988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.11039613932371134  0.9881361126899718  0.859171450138092  1.0000
+  Al  Al1       1.0  0.10028763115406035  0.969639778137207  0.3524841368198395  1.0000
+  Al  Al2       1.0  0.43814733624458313  0.6443913578987122  0.9759818911552429  1.0000
+  Zn  Zn1       1.0  0.7690446972846985  0.30678063631057734  0.664106011390686  1.0000
+  Zn  Zn2       1.0  0.7688913941383362  0.3063458800315857  0.1647229045629501  1.0000
+  Pd  Pd2       1.0  0.42900457978248596  0.6270317435264587  0.47042492032051086  1.0000

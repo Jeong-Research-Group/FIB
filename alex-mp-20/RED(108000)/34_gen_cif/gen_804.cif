@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbCaIn2NaPb
+_chemical_formula_sum              "Pb2 Ca1 In2 Na1"
+_cell_length_a       5.433762529596382
+_cell_length_b       5.4339856394995785
+_cell_length_c       6.852762699127197
+_cell_angle_alpha    89.95946533247627
+_cell_angle_beta     89.95872767285533
+_cell_angle_gamma    119.95318964961092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.9245545864105225  0.38145753741264343  0.4303999245166779  1.0000
+  Ca  Ca1       1.0  0.2581033408641815  0.0480123870074749  0.6970724463462831  1.0000
+  In  In1       1.0  0.5914474725723267  0.7140761017799377  0.46058219671249395  1.0000
+  In  In2       1.0  0.9237857460975647  0.38147974014282227  0.9323922395706178  1.0000
+  Na  Na1       1.0  0.2574758231639862  0.04761185869574547  0.19676837325096133  1.0000
+  Pb  Pb2       1.0  0.5907196998596191  0.7137631177902222  0.9634761810302735  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba4HAu2N
+_chemical_formula_sum              "Ba4 H1 Au2 N1"
+_cell_length_a       4.318286635866342
+_cell_length_b       7.354459732917361
+_cell_length_c       8.005572687633745
+_cell_angle_alpha    107.13293562290326
+_cell_angle_beta     90.00107480599547
+_cell_angle_gamma    89.99553040088921
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.051408253596888276  0.11199345347541685  0.41665549970403626  1.0000
+  Ba  Ba2       1.0  0.551419599966618  0.12592512801251296  0.005901343606719785  1.0000
+  Ba  Ba3       1.0  0.05113520233576639  0.5889421200885565  0.9974733141541952  1.0000
+  Ba  Ba4       1.0  0.5511591792898467  0.5757053279958768  0.40912025087493165  1.0000
+  H   H1        1.0  0.5511718269093772  0.8509770074700259  0.20721806757224462  1.0000
+  Au  Au1       1.0  0.5513405144849095  0.35007699412087606  0.707060306139117  1.0000
+  Au  Au2       1.0  0.05120047385128145  0.8510170764094248  0.7074224733714848  1.0000
+  N   N1        1.0  0.05133138029857694  0.3508719982369749  0.20718002956381865  1.0000

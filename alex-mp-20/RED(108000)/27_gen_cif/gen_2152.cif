@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtRhSn3Rh
+_chemical_formula_sum              "Pt1 Rh2 Sn3"
+_cell_length_a       3.5514779932168548
+_cell_length_b       5.4687504135806435
+_cell_length_c       6.276048183441162
+_cell_angle_alpha    105.06435314070504
+_cell_angle_beta     106.47555119245797
+_cell_angle_gamma    90.0316404765036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.4591417908668518  0.20110958814620972  0.6761303544044495  1.0000
+  Rh  Rh1       1.0  0.1162780523300171  0.9661526679992677  0.9928336739540101  1.0000
+  Sn  Sn1       1.0  0.7848897576332092  0.9364413022994996  0.3283330500125886  1.0000
+  Sn  Sn2       1.0  0.4594044089317322  0.7013675570487976  0.6776970028877258  1.0000
+  Sn  Sn3       1.0  0.13370008766651154  0.4641432464122772  0.02534977346658707  1.0000
+  Rh  Rh2       1.0  0.8012033700942993  0.4351335167884827  0.36059483885765076  1.0000

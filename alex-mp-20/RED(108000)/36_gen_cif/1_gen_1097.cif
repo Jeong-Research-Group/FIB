@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2YPdRu2
+_chemical_formula_sum              "Tb2 Y1 Pd1 Ru2"
+_cell_length_a       3.451055154053859
+_cell_length_b       3.451055074322085
+_cell_length_c       10.372321943665604
+_cell_angle_alpha    90.00083304511764
+_cell_angle_beta     90.00055975982022
+_cell_angle_gamma    90.00094637621291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6782183274623413  0.5776121607668431  0.27531814037667124  1.0000
+  Tb  Tb2       1.0  0.6782512018926472  0.5777211082707108  0.9509752468712932  1.0000
+  Y   Y1        1.0  0.678159268994212  0.5777292730956944  0.6002543798939255  1.0000
+  Pd  Pd1       1.0  0.17856815194639372  0.07768876304606473  0.7761133194593299  1.0000
+  Ru  Ru1       1.0  0.1785142457154401  0.07768594049580009  0.10649655022751989  1.0000
+  Ru  Ru2       1.0  0.17837012499425792  0.07773295456163999  0.44293115434491426  1.0000

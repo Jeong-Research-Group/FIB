@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaCu2LaPb
+_chemical_formula_sum              "La2 Cu2 Pb1"
+_cell_length_a       3.840501416063755
+_cell_length_b       4.496393254591053
+_cell_length_c       7.668177127838135
+_cell_angle_alpha    106.90318951679193
+_cell_angle_beta     89.94488970659243
+_cell_angle_gamma    89.92775958590701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.010430760681629181  0.5359469056129456  0.8493356704711914  1.0000
+  Cu  Cu1       1.0  0.5102329254150391  0.3743360936641693  0.5261873602867126  1.0000
+  Cu  Cu2       1.0  0.5105136036872864  0.9624956250190735  0.7024824619293213  1.0000
+  La  La2       1.0  0.010136812925338745  0.8007814288139343  0.3789946138858795  1.0000
+  Pb  Pb1       1.0  0.5105382800102234  0.1680089235305786  0.11404891312122345  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sn2InTeInSn3
+_chemical_formula_sum              "Sn5 In2 Te1"
+_cell_length_a       4.584181654624404
+_cell_length_b       4.588653232746478
+_cell_length_c       11.153152465820312
+_cell_angle_alpha    89.9701682369492
+_cell_angle_beta     89.97774291756676
+_cell_angle_gamma    89.98335733277335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.6992537379264832  0.42366355657577515  0.4980643093585968  1.0000
+  Sn  Sn2       1.0  0.699134349822998  0.4231487214565277  0.02126583456993103  1.0000
+  In  In1       1.0  0.19907426834106445  0.4230935871601105  0.7824325561523438  1.0000
+  Te  Te1       1.0  0.19877836108207703  0.9220237135887145  0.5399072170257568  1.0000
+  In  In2       1.0  0.6994086503982544  0.9240620732307433  0.783388078212738  1.0000
+  Sn  Sn3       1.0  0.6986036896705627  0.9226484894752501  0.26308953762054443  1.0000
+  Sn  Sn4       1.0  0.19983363151550293  0.4228816032409668  0.26649463176727295  1.0000
+  Sn  Sn5       1.0  0.19975800812244415  0.9232628941535951  0.0391496904194355  1.0000

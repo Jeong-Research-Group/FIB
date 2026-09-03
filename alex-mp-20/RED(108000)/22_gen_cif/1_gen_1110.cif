@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2InGaCl
+_chemical_formula_sum              "Ba2 In1 Ga1 Cl1"
+_cell_length_a       4.75545834226
+_cell_length_b       4.755085698130544
+_cell_length_c       9.255676472803799
+_cell_angle_alpha    75.12180730938346
+_cell_angle_beta     75.12214750832132
+_cell_angle_gamma    60.0149008728735
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6113358518906606  0.2868271494146208  0.8818372208653332  1.0000
+  Ba  Ba2       1.0  0.43183420276531287  0.10746364353373838  0.4200679784266761  1.0000
+  In  In1       1.0  0.8444392219072241  0.519704405914907  0.18323234127863317  1.0000
+  Ga  Ga1       1.0  0.20512185088685733  0.8803413575557608  0.10116543026980673  1.0000
+  Cl  Cl1       1.0  0.02384022254768011  0.6995319509805541  0.6435739064877037  1.0000

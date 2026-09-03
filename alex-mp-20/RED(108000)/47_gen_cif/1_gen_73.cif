@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr4Ti2Bi2
+_chemical_formula_sum              "Zr4 Ti2 Bi2"
+_cell_length_a       3.835240730130438
+_cell_length_b       4.779131988780433
+_cell_length_c       9.694034561306077
+_cell_angle_alpha    89.97056880267378
+_cell_angle_beta     90.06362395950507
+_cell_angle_gamma    89.99240766971806
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5864948603996953  0.15087343193240965  0.6779352953646112  1.0000
+  Zr  Zr2       1.0  0.5896790000192325  0.15220976490349983  0.15156996242294898  1.0000
+  Zr  Zr3       1.0  0.5876536299513032  0.6519249643539867  0.965159045734903  1.0000
+  Zr  Zr4       1.0  0.5916157128296585  0.6519150102431192  0.43941917253904983  1.0000
+  Ti  Ti1       1.0  0.08923676431576848  0.6515824090620687  0.20178259877098084  1.0000
+  Ti  Ti2       1.0  0.08813018472881451  0.15141453480263897  0.916779814893089  1.0000
+  Bi  Bi1       1.0  0.09128511138649431  0.15203329174682587  0.4038274406954181  1.0000
+  Bi  Bi2       1.0  0.08660230274429254  0.6502929959297471  0.7136346128177997  1.0000

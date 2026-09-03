@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn3Ga2Tm2Ga
+_chemical_formula_sum              "Zn3 Ga3 Tm2"
+_cell_length_a       4.260973540543183
+_cell_length_b       4.25719369315731
+_cell_length_c       9.638567924499512
+_cell_angle_alpha    90.01403854443645
+_cell_angle_beta     90.01157967526811
+_cell_angle_gamma    119.9868229643698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.10757672786712646  0.7004112601280212  0.4394199550151825  1.0000
+  Zn  Zn2       1.0  0.7743868231773376  0.03343583270907402  0.5154345631599426  1.0000
+  Zn  Zn3       1.0  0.7737264633178711  0.03344268351793289  0.018005065619945526  1.0000
+  Ga  Ga1       1.0  0.4411947727203369  0.36707833409309387  0.5929152965545654  1.0000
+  Ga  Ga2       1.0  0.44001930952072144  0.3668918311595917  0.9383350014686584  1.0000
+  Tm  Tm1       1.0  0.44018197059631353  0.3677459657192231  0.2685830891132355  1.0000
+  Tm  Tm2       1.0  0.10707058757543565  0.699855625629425  0.7670739889144897  1.0000
+  Ga  Ga3       1.0  0.10725357383489612  0.7005457282066345  0.10118740051984787  1.0000

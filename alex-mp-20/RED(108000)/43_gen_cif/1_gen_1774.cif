@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdCo3B
+_chemical_formula_sum              "Cd1 Co3 B1"
+_cell_length_a       3.8968203621126984
+_cell_length_b       3.8958685474290555
+_cell_length_c       3.896921052111283
+_cell_angle_alpha    90.03641887248493
+_cell_angle_beta     90.02170405840182
+_cell_angle_gamma    90.06953963874695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6255014021969407  0.9932056039733966  0.8415282312454249  1.0000
+  Co  Co1       1.0  0.12539656433760685  0.4933330979046034  0.8415781275609916  1.0000
+  Co  Co2       1.0  0.1253578636843444  0.9932431420110595  0.34158601881212025  1.0000
+  Co  Co3       1.0  0.6252069425954452  0.4932074304560992  0.34164866830719315  1.0000
+  B   B1        1.0  0.12530067353749588  0.49297540186030897  0.34170265024774554  1.0000

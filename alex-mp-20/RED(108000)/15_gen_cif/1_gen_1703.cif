@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaSmIn2O
+_chemical_formula_sum              "Ca1 Sm1 In2 O1"
+_cell_length_a       4.8226515233275284
+_cell_length_b       5.083142322533524
+_cell_length_c       4.759096522917642
+_cell_angle_alpha    89.99376474867363
+_cell_angle_beta     90.00115719526421
+_cell_angle_gamma    89.98937682676643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9768044860940764  0.2285830181549201  0.3038532646153647  1.0000
+  Sm  Sm1       1.0  0.4766962305973265  0.22924827718051555  0.803981287014178  1.0000
+  In  In1       1.0  0.4769996714758867  0.7289505568003508  0.30369913955364836  1.0000
+  In  In2       1.0  0.97701604188238  0.7276096484419726  0.8037168873103261  1.0000
+  O   O1        1.0  0.4764402404483623  0.2288915699258541  0.30388343881243285  1.0000

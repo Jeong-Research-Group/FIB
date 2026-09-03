@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnCl4Al
+_chemical_formula_sum              "Mn1 Cl4 Al1"
+_cell_length_a       3.690204270043177
+_cell_length_b       6.388148151085893
+_cell_length_c       6.953741550445557
+_cell_angle_alpha    107.50363307012262
+_cell_angle_beta     89.9849965783054
+_cell_angle_gamma    89.9977690322114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6323718428611755  0.7539469003677367  0.2631330490112304  1.0000
+  Cl  Cl1       1.0  0.1316377967596054  0.9949011206626892  0.4665176570415496  1.0000
+  Cl  Cl2       1.0  0.631759524345398  0.028237029910087582  0.056376669555902474  1.0000
+  Cl  Cl3       1.0  0.6317598819732666  0.4795514941215515  0.4706063568592071  1.0000
+  Cl  Cl4       1.0  0.13218936324119568  0.5132392644882202  0.06020685285329818  1.0000
+  Al  Al1       1.0  0.13162697851657867  0.2538706362247467  0.26361218094825745  1.0000

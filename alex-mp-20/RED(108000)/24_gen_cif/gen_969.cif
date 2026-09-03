@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2SbHSbH
+_chemical_formula_sum              "Si2 Sb2 H2"
+_cell_length_a       4.063147212309262
+_cell_length_b       5.567702350232929
+_cell_length_c       6.905421257019043
+_cell_angle_alpha    92.93996849563771
+_cell_angle_beta     89.91090268350094
+_cell_angle_gamma    90.30307849490032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.41775932908058167  0.002459287643432617  0.5549968481063843  1.0000
+  Si  Si2       1.0  0.9154873490333557  0.7026997208595276  0.2633955478668213  1.0000
+  Sb  Sb1       1.0  0.9167639017105103  0.7296612262725831  0.6461940407752991  1.0000
+  H   H1        1.0  0.9146232604980469  0.45560812950134283  0.16625145077705383  1.0000
+  Sb  Sb2       1.0  0.4175349771976471  0.968852162361145  0.17382743954658508  1.0000
+  H   H2        1.0  0.41745099425315857  0.25206929445266724  0.6465665698051453  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2ScAl2
+_chemical_formula_sum              "Mg2 Sc1 Al2"
+_cell_length_a       3.157469718295644
+_cell_length_b       4.678096470828505
+_cell_length_c       7.350075804510123
+_cell_angle_alpha    108.55820825032531
+_cell_angle_beta     102.4029746330804
+_cell_angle_gamma    89.99602806895868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9941880712121063  0.3712796536693616  0.6604670464081537  1.0000
+  Mg  Mg2       1.0  0.4195865887985528  0.796810957578616  0.5114715988344896  1.0000
+  Sc  Sc1       1.0  0.7069933874146661  0.5839198754538195  0.08580405208049993  1.0000
+  Al  Al1       1.0  0.1110962761882641  0.9880368832861163  0.8938719713004477  1.0000
+  Al  Al2       1.0  0.3031157406013896  0.17997213935098233  0.2778111883750924  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2VZnN
+_chemical_formula_sum              "Ti2 V1 Zn1 N1"
+_cell_length_a       3.8452461430729064
+_cell_length_b       4.164514269933731
+_cell_length_c       4.164497422974718
+_cell_angle_alpha    89.99991329032169
+_cell_angle_beta     90.00218133099085
+_cell_angle_gamma    90.00156011373535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5656232464570754  0.17344027655300964  0.789519994407963  1.0000
+  Ti  Ti2       1.0  0.5657017425044321  0.6734578471810224  0.28953960552088565  1.0000
+  V   V1        1.0  0.0658285208949425  0.6736075895611849  0.789575367697268  1.0000
+  Zn  Zn1       1.0  0.06578744329365868  0.17338535998287  0.2892848897116463  1.0000
+  N   N1        1.0  0.5658633599295623  0.6734297359468417  0.7895426445362611  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiPrNiSn2
+_chemical_formula_sum              "Li1 Pr1 Ni1 Sn2"
+_cell_length_a       4.434372376864232
+_cell_length_b       4.442255541924047
+_cell_length_c       6.335803523167483
+_cell_angle_alpha    110.55446615758117
+_cell_angle_beta     110.45573446782163
+_cell_angle_gamma    89.99440001701176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6306850970729885  0.8371162193513532  0.8016966450956211  1.0000
+  Pr  Pr1       1.0  0.38022173762742734  0.08747245852553139  0.30015612229043026  1.0000
+  Ni  Ni1       1.0  0.13027308385293243  0.33642679378193346  0.7998199586591734  1.0000
+  Sn  Sn1       1.0  0.0098670225295942  0.716220663476151  0.5600444455742064  1.0000
+  Sn  Sn2       1.0  0.7500824812955826  0.45734983687847935  0.04127694346005665  1.0000

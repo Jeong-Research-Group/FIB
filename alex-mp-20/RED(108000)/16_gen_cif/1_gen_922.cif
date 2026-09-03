@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiGa2PbAu2
+_chemical_formula_sum              "Li1 Ga2 Pb1 Au2"
+_cell_length_a       4.500026521023454
+_cell_length_b       4.500822446752708
+_cell_length_c       7.042772779229189
+_cell_angle_alpha    89.99191244485671
+_cell_angle_beta     90.00626765704465
+_cell_angle_gamma    120.00199287174796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9442859426352129  0.74867339225335  0.2313471697096074  1.0000
+  Ga  Ga1       1.0  0.27821151571091524  0.4152241608127811  0.41144195843621106  1.0000
+  Ga  Ga2       1.0  0.6103930081428218  0.0822390163053454  0.0524314320900979  1.0000
+  Pb  Pb1       1.0  0.9450687017642788  0.7488069899009484  0.7318297227152238  1.0000
+  Au  Au1       1.0  0.2771781615345732  0.41565474872519437  0.017758158313814467  1.0000
+  Au  Au2       1.0  0.6114268671596111  0.08182250851109246  0.4457490289769932  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Mg2In2
+_chemical_formula_sum              "Li2 Mg2 In2"
+_cell_length_a       5.028619072865599
+_cell_length_b       5.036726420899827
+_cell_length_c       6.047912217794121
+_cell_angle_alpha    90.04637084525922
+_cell_angle_beta     89.85924928735473
+_cell_angle_gamma    120.66803072648652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.16811283547915573  0.9184450385449724  0.040519548589571144  1.0000
+  Li  Li2       1.0  0.16764151552520778  0.9183084304882604  0.5395246199572649  1.0000
+  Mg  Mg1       1.0  0.49008597831028944  0.5943008198239962  0.7874452867362678  1.0000
+  Mg  Mg2       1.0  0.845560993967545  0.24113544654328997  0.2934185391961784  1.0000
+  In  In1       1.0  0.5144985363522868  0.5742174188338515  0.28768031483941153  1.0000
+  In  In2       1.0  0.8205517773916816  0.2624622690595153  0.7930083271434823  1.0000

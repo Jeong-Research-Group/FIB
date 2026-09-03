@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg3InRh2
+_chemical_formula_sum              "Mg3 In1 Rh2"
+_cell_length_a       4.608758666710654
+_cell_length_b       4.610967085934653
+_cell_length_c       5.437653372727896
+_cell_angle_alpha    115.08873443535664
+_cell_angle_beta     89.99722398083827
+_cell_angle_gamma    90.00054494380781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.34656027711502213  0.0017297941942285154  0.2228503096480565  1.0000
+  Mg  Mg2       1.0  0.34661100542539863  0.7096702866592198  0.6387496351853437  1.0000
+  Mg  Mg3       1.0  0.846667423911149  0.5026309323216078  0.22511602000635925  1.0000
+  In  In1       1.0  0.8467338552393523  0.20078851828321498  0.6215498735318274  1.0000
+  Rh  Rh1       1.0  0.8466627696242763  0.856606298503834  0.9327160658320044  1.0000
+  Rh  Rh2       1.0  0.3465982646780955  0.358366538244006  0.9364359191991577  1.0000

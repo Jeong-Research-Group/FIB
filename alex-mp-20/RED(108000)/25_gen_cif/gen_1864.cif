@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2ClNiClCo
+_chemical_formula_sum              "Y2 Cl2 Ni1 Co1"
+_cell_length_a       3.5591802512352473
+_cell_length_b       3.5625906870295845
+_cell_length_c       10.45733642578125
+_cell_angle_alpha    90.27679595447051
+_cell_angle_beta     90.16103788378432
+_cell_angle_gamma    90.06747111117475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.6932399272918701  0.061952628195285804  0.08426649868488312  1.0000
+  Y   Y2        1.0  0.19057972729206085  0.5631322860717773  0.4895217716693878  1.0000
+  Cl  Cl1       1.0  0.6905987858772278  0.06242872774600983  0.6248720288276672  1.0000
+  Ni  Ni1       1.0  0.6919769048690796  0.5623638033866883  0.28621190786361694  1.0000
+  Cl  Cl2       1.0  0.19201059639453888  0.5621269345283509  0.9481940865516663  1.0000
+  Co  Co1       1.0  0.19131183624267578  0.0629686787724495  0.2868603765964508  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2CeSmIr2
+_chemical_formula_sum              "Tb2 Ce1 Sm1 Ir2"
+_cell_length_a       4.8733387488643904
+_cell_length_b       4.865557186067245
+_cell_length_c       6.87846140104866
+_cell_angle_alpha    90.01396621739056
+_cell_angle_beta     90.01656861149198
+_cell_angle_gamma    89.99971997082137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.9539438139053236  0.9683609042611998  0.8244864882420276  1.0000
+  Tb  Tb2       1.0  0.953101615011174  0.9686709245451068  0.3247525252565891  1.0000
+  Ce  Ce1       1.0  0.45517766606468546  0.468910292422483  0.8245588796309848  1.0000
+  Sm  Sm1       1.0  0.4536324406965759  0.4687993085021215  0.3241503262900921  1.0000
+  Ir  Ir1       1.0  0.9540243538225641  0.4688978567287022  0.06777615937758391  1.0000
+  Ir  Ir2       1.0  0.45440282335423837  0.9683793456822186  0.5818667755857653  1.0000

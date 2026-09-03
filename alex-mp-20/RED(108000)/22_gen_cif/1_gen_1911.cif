@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgAl2Ir3
+_chemical_formula_sum              "Mg1 Al2 Ir3"
+_cell_length_a       3.033691497567702
+_cell_length_b       3.0331096057760165
+_cell_length_c       9.255873620486593
+_cell_angle_alpha    89.99976556417113
+_cell_angle_beta     89.99940003415966
+_cell_angle_gamma    89.99996520274848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3083973112199462  0.7170048276867032  0.7093809369247907  1.0000
+  Al  Al1       1.0  0.3082690735956039  0.716827142842246  0.3759517591753766  1.0000
+  Al  Al2       1.0  0.30806163178781587  0.7165242263436589  0.04281593822960234  1.0000
+  Ir  Ir1       1.0  0.8082459254040512  0.21676829115404814  0.8893797050279806  1.0000
+  Ir  Ir2       1.0  0.8083070983588062  0.2170068745964037  0.5295047853468591  1.0000
+  Ir  Ir3       1.0  0.8080475084447366  0.21657491846184052  0.2094459562039015  1.0000

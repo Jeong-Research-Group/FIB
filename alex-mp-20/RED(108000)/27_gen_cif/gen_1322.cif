@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnHgIn2LiInHgSn
+_chemical_formula_sum              "Sn2 Hg2 In3 Li1"
+_cell_length_a       4.345860437042874
+_cell_length_b       4.530648202159813
+_cell_length_c       10.079886436462402
+_cell_angle_alpha    90.18761414867177
+_cell_angle_beta     90.65849422580575
+_cell_angle_gamma    90.57884052568427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.32012659311294556  0.6721267700195312  0.3599429130554199  1.0000
+  Hg  Hg1       1.0  0.31935277581214905  0.17191256582736966  0.6301819086074829  1.0000
+  In  In1       1.0  0.8195493817329407  0.17230653762817383  0.9031808972358704  1.0000
+  In  In2       1.0  0.8201136589050293  0.6718350648880004  0.6277170777320862  1.0000
+  Li  Li1       1.0  0.8202645778656006  0.6722452044487  0.12720829248428345  1.0000
+  In  In3       1.0  0.8206708431243896  0.17195115983486176  0.35410675406455994  1.0000
+  Hg  Hg2       1.0  0.3202153444290161  0.17222872376441956  0.1290138214826584  1.0000
+  Sn  Sn2       1.0  0.3202766478061676  0.672088086605072  0.8976554870605469  1.0000

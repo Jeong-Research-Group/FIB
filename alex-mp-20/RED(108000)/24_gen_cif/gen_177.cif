@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2RhSe3
+_chemical_formula_sum              "Mg2 Rh1 Se3"
+_cell_length_a       3.86011440828556
+_cell_length_b       5.582951373504768
+_cell_length_c       6.665052890777588
+_cell_angle_alpha    117.28545426643325
+_cell_angle_beta     89.94557955178092
+_cell_angle_gamma    90.02787650786695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8483815193176268  0.03155266493558884  0.55576092004776  1.0000
+  Mg  Mg2       1.0  0.3494295179843902  0.4144159257411957  0.32548192143440247  1.0000
+  Rh  Rh1       1.0  0.8482142090797423  0.5429989695549011  0.9979131817817689  1.0000
+  Se  Se1       1.0  0.8481279611587523  0.5692426562309265  0.6164795160293579  1.0000
+  Se  Se2       1.0  0.34781607985496515  0.2114505022764206  0.884775221347809  1.0000
+  Se  Se3       1.0  0.3485469222068786  0.8616998791694641  0.22277832031249994  1.0000

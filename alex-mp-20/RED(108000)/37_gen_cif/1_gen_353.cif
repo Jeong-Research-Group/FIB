@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn3AgPt2
+_chemical_formula_sum              "Zn3 Ag1 Pt2"
+_cell_length_a       4.068481068513006
+_cell_length_b       4.919887466397826
+_cell_length_c       6.110645240889898
+_cell_angle_alpha    57.33283574619128
+_cell_angle_beta     70.5527676022837
+_cell_angle_gamma    65.58058071770802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5833687669731454  0.3349039460961673  0.0927701501653686  1.0000
+  Zn  Zn2       1.0  0.2564338128894491  0.7910729641429213  0.29039086725703755  1.0000
+  Zn  Zn3       1.0  0.9349196657844118  0.841636006498487  0.8828594217619594  1.0000
+  Ag  Ag1       1.0  0.26016720988056563  0.28952765870097563  0.7845359607381136  1.0000
+  Pt  Pt1       1.0  0.5969478572043768  0.8153647615810944  0.5850950895298546  1.0000
+  Pt  Pt2       1.0  0.9376474290231641  0.34561835447815203  0.3733825970208399  1.0000

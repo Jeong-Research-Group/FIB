@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd2CeGe2CePd2
+_chemical_formula_sum              "Pd4 Ce2 Ge2"
+_cell_length_a       4.530329945692183
+_cell_length_b       6.058763775618505
+_cell_length_c       5.673883438110352
+_cell_angle_alpha    89.6631648831324
+_cell_angle_beta     89.96773668959369
+_cell_angle_gamma    90.02485756394228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.6714493632316589  0.7777626514434813  0.9968492984771729  1.0000
+  Pd  Pd2       1.0  0.17120042443275452  0.7580332159996032  0.6896530389785767  1.0000
+  Ce  Ce1       1.0  0.17115357518196106  0.5181083679199219  0.2022804319858551  1.0000
+  Ge  Ge1       1.0  0.17143484950065613  0.017522554844617844  0.06298170983791351  1.0000
+  Ge  Ge2       1.0  0.6723625063896179  0.5172144174575805  0.6249757409095764  1.0000
+  Ce  Ce2       1.0  0.6717883348464966  0.016066333279013634  0.4845633804798126  1.0000
+  Pd  Pd3       1.0  0.17190435528755188  0.27934360504150385  0.6893353462219238  1.0000
+  Pd  Pd4       1.0  0.6711321473121643  0.2557898461818695  0.9973836541175842  1.0000

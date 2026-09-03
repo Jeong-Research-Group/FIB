@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Zr2As2
+_chemical_formula_sum              "Ca2 Zr2 As2"
+_cell_length_a       4.204561081078783
+_cell_length_b       4.204186296962177
+_cell_length_c       8.150384481290285
+_cell_angle_alpha    89.99489576488315
+_cell_angle_beta     90.00319662273894
+_cell_angle_gamma    90.00015482896136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.23626105101923164  0.9189477608083966  0.2716504620790315  1.0000
+  Ca  Ca2       1.0  0.7364732594270696  0.4192962345881481  0.576421422631447  1.0000
+  Zr  Zr1       1.0  0.7362936666220233  0.9189764886957518  0.9240690533103441  1.0000
+  Zr  Zr2       1.0  0.23610637182659552  0.4188922859322045  0.924142473204581  1.0000
+  As  As1       1.0  0.2362163931914574  0.9190085856587333  0.6711705990955531  1.0000
+  As  As2       1.0  0.736304173283818  0.41898346136038606  0.17708358050196005  1.0000

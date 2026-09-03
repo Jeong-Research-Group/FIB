@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2V2Ru
+_chemical_formula_sum              "Ta2 V2 Ru1"
+_cell_length_a       3.1054087231804917
+_cell_length_b       5.246015368203753
+_cell_length_c       5.234210166078853
+_cell_angle_alpha    85.70453327404039
+_cell_angle_beta     72.70428195919261
+_cell_angle_gamma    72.77572679588215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8712144225271455  0.5314491185254631  0.8435468329809928  1.0000
+  Ta  Ta2       1.0  0.26663283761089246  0.9504395401467457  0.633777193181921  1.0000
+  V   V1        1.0  0.4682157332865579  0.12979645779282842  0.051092283241972014  1.0000
+  V   V2        1.0  0.07284156931042655  0.7375661915208779  0.23429948106331916  1.0000
+  Ru  Ru1       1.0  0.674189114534252  0.33837446017413636  0.4306951609705742  1.0000

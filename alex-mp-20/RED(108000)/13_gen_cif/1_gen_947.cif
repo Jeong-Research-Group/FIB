@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2InHg3
+_chemical_formula_sum              "Tl2 In1 Hg3"
+_cell_length_a       3.919131218043766
+_cell_length_b       3.9181493858004157
+_cell_length_c       11.61299065784019
+_cell_angle_alpha    90.01033155452421
+_cell_angle_beta     89.99213528234007
+_cell_angle_gamma    90.03070304563131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.41112095975175594  0.3371458884220429  0.28163456338263876  1.0000
+  Tl  Tl2       1.0  0.41110341694125324  0.3366619120984182  0.9354783804471531  1.0000
+  In  In1       1.0  0.4110156209825238  0.33722899079885965  0.6089378863296819  1.0000
+  Hg  Hg1       1.0  0.9111739749904213  0.8367312988804558  0.10822518299766794  1.0000
+  Hg  Hg2       1.0  0.9113114247336553  0.836576807879718  0.7577339632819186  1.0000
+  Hg  Hg3       1.0  0.9107840623399288  0.8371001402315734  0.4590344220545703  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs3Bi2H
+_chemical_formula_sum              "Cs3 Bi2 H1"
+_cell_length_a       6.707489128432387
+_cell_length_b       6.7040273564513555
+_cell_length_c       7.754759115224323
+_cell_angle_alpha    66.99417330264352
+_cell_angle_beta     67.1332648626081
+_cell_angle_gamma    60.110811020877925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.4755411576617506  0.2773043112674915  0.025421756640625237  1.0000
+  Cs  Cs2       1.0  0.7121014129833354  0.5122141184733527  0.33961584207356893  1.0000
+  Cs  Cs3       1.0  0.9127024927893914  0.7158003956673797  0.7221556209028551  1.0000
+  Bi  Bi1       1.0  0.26533297026525776  0.06511469646928814  0.660830154791447  1.0000
+  Bi  Bi2       1.0  0.11439233252785626  0.9158881939422708  0.10940789511490279  1.0000
+  H   H1        1.0  0.428442306121093  0.23493108283795175  0.6516165119406164  1.0000

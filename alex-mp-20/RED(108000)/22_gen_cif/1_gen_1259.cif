@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2SiPd3
+_chemical_formula_sum              "Tb2 Si1 Pd3"
+_cell_length_a       5.258442832675767
+_cell_length_b       5.258909048363269
+_cell_length_c       5.26167272519287
+_cell_angle_alpha    63.62971956687298
+_cell_angle_beta     63.63633272651459
+_cell_angle_gamma    63.63854729185316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.16323227513223298  0.07634625219361332  0.6604202107362458  1.0000
+  Tb  Tb2       1.0  0.9083628204352143  0.8217241811983206  0.40537219433917004  1.0000
+  Si  Si1       1.0  0.5358184150758915  0.448911291061193  0.03305163615426555  1.0000
+  Pd  Pd1       1.0  0.03563931405509007  0.4491215611285718  0.03302012844294149  1.0000
+  Pd  Pd2       1.0  0.5358788687427976  0.9492264820912287  0.03261086181481814  1.0000
+  Pd  Pd3       1.0  0.5357423393974027  0.44925509366825117  0.5327605562719226  1.0000

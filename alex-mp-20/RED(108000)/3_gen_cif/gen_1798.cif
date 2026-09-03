@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdInGaPdIn
+_chemical_formula_sum              "Pd2 In2 Ga1"
+_cell_length_a       3.153137399500486
+_cell_length_b       3.149132785562989
+_cell_length_c       9.708048820495605
+_cell_angle_alpha    99.41830046725131
+_cell_angle_beta     99.46215091722048
+_cell_angle_gamma    89.96651407015159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.5628235936164856  0.4978313446044922  0.06422271579504013  1.0000
+  In  In1       1.0  0.8086861968040466  0.7442870736122131  0.5552613735198975  1.0000
+  Ga  Ga1       1.0  0.9856277108192444  0.9212129116058351  0.9096237421035767  1.0000
+  Pd  Pd2       1.0  0.40745216608047485  0.3432100713253021  0.753348171710968  1.0000
+  In  In2       1.0  0.16238316893577576  0.09738953411579132  0.2627302408218384  1.0000

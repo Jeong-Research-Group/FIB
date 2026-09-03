@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2SiZrSiFe
+_chemical_formula_sum              "Co2 Si2 Zr1 Fe1"
+_cell_length_a       3.92263858762683
+_cell_length_b       3.921826165032976
+_cell_length_c       5.904895782470703
+_cell_angle_alpha    89.99173114601452
+_cell_angle_beta     90.01693454328856
+_cell_angle_gamma    120.00402339381014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.3188003599643707  0.5445563197135925  0.09052861481904982  1.0000
+  Co  Co2       1.0  0.6521384716033936  0.21098324656486508  0.4895223081111908  1.0000
+  Si  Si1       1.0  0.31933480501174927  0.5438267588615417  0.4940533936023712  1.0000
+  Zr  Zr1       1.0  0.9856839776039124  0.8774791359901427  0.7893415093421936  1.0000
+  Si  Si2       1.0  0.6517949104309082  0.2114405483007431  0.08559980243444443  1.0000
+  Fe  Fe1       1.0  0.9854010343551636  0.8776598572731018  0.2899583578109741  1.0000

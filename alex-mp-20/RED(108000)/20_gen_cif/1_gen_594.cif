@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ni2MoIr2OsRh
+_chemical_formula_sum              "Ni2 Mo1 Ir2 Os1 Rh1"
+_cell_length_a       3.79705962067425
+_cell_length_b       4.643371434781678
+_cell_length_c       6.033469885496007
+_cell_angle_alpha    81.7969677713448
+_cell_angle_beta     90.00163158525784
+_cell_angle_gamma    114.13411068822428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.3276273244559746  0.5943934296488406  0.9399492496527833  1.0000
+  Ni  Ni2       1.0  0.8919467750366938  0.7227255314272542  0.2179590540524485  1.0000
+  Mo  Mo1       1.0  0.17574783017079695  0.2906194664022425  0.36470513755781026  1.0000
+  Ir  Ir1       1.0  0.4568083093740604  0.8525223104407214  0.4970097879518836  1.0000
+  Ir  Ir2       1.0  0.025196737317085327  0.9898544742044443  0.7831550614172309  1.0000
+  Os  Os1       1.0  0.7459053893130801  0.4318488565447254  0.6649870569890657  1.0000
+  Rh  Rh1       1.0  0.6072738678736231  0.15419954527904672  0.0729227052882639  1.0000

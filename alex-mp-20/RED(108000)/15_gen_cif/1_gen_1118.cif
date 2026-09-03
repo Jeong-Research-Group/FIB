@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       V2AsH2
+_chemical_formula_sum              "V2 As1 H2"
+_cell_length_a       3.1038221966165565
+_cell_length_b       3.1043677611650824
+_cell_length_c       5.372469442416432
+_cell_angle_alpha    106.82946844787371
+_cell_angle_beta     106.83450861437964
+_cell_angle_gamma    89.98771437188792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.05900487917595619  0.9562985477567258  0.2089978630785064  1.0000
+  V   V2        1.0  0.782803375786598  0.6805785380801718  0.6576110835271592  1.0000
+  As  As1       1.0  0.4212064740877188  0.3183886381438344  0.9334552564008449  1.0000
+  H   H1        1.0  0.1700592121940217  0.5686249226450983  0.43298697194788843  1.0000
+  H   H2        1.0  0.6712308599473665  0.06822069174572928  0.4333737549411691  1.0000

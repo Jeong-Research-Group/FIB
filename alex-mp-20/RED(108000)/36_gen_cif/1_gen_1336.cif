@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaLa2AgRu
+_chemical_formula_sum              "Ca1 La2 Ag1 Ru1"
+_cell_length_a       5.369196613162052
+_cell_length_b       5.369416231296814
+_cell_length_c       5.711183256382671
+_cell_angle_alpha    89.99917987533381
+_cell_angle_beta     90.0053005052097
+_cell_angle_gamma    89.99996316113518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.1634903116083867  0.6000128059755693  0.26331898787866265  1.0000
+  La  La1       1.0  0.6640215780077051  0.5998203919732321  0.7632255176855296  1.0000
+  La  La2       1.0  0.1641339526501562  0.09980163354904073  0.7628722339440477  1.0000
+  Ag  Ag1       1.0  0.6641227355818206  0.09930458527062132  0.2636563276440011  1.0000
+  Ru  Ru1       1.0  0.16361986949833124  0.599799385136425  0.7632924138465296  1.0000

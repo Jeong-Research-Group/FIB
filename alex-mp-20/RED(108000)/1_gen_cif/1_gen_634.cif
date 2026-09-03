@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2TiRh3
+_chemical_formula_sum              "Zr2 Ti1 Rh3"
+_cell_length_a       3.125799331712972
+_cell_length_b       3.1258230215423066
+_cell_length_c       10.465547264034832
+_cell_angle_alpha    90.00389356625834
+_cell_angle_beta     89.99866027952103
+_cell_angle_gamma    89.99987691145667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.20237015104891784  0.2998473851487274  0.7894765050269118  1.0000
+  Zr  Zr2       1.0  0.20234549664286403  0.29957892271373787  0.13703310254154233  1.0000
+  Ti  Ti1       1.0  0.20215900176406373  0.2997729675946047  0.46326936923046824  1.0000
+  Rh  Rh1       1.0  0.7022751757598286  0.7998377886898144  0.6047706066012519  1.0000
+  Rh  Rh2       1.0  0.7021658501531756  0.7996755740761172  0.3218745604108985  1.0000
+  Rh  Rh3       1.0  0.7023726549147127  0.7997037925219053  0.9631759996751231  1.0000

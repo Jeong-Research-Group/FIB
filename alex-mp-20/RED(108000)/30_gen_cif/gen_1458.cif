@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt2SiTlPtAsPt2
+_chemical_formula_sum              "Pt5 Si1 Tl1 As1"
+_cell_length_a       4.004819403219663
+_cell_length_b       4.00057607545011
+_cell_length_c       9.022733688354492
+_cell_angle_alpha    90.11907319483264
+_cell_angle_beta     89.99593854215925
+_cell_angle_gamma    90.02760329840588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.7324593663215637  0.3463010787963867  0.6223528981208801  1.0000
+  Pt  Pt2       1.0  0.23409739136695862  0.8465608358383179  0.9502863883972168  1.0000
+  Si  Si1       1.0  0.23389239609241486  0.3465697765350342  0.7771158218383789  1.0000
+  Tl  Tl1       1.0  0.23397193849086761  0.34668707847595215  0.3502139151096344  1.0000
+  Pt  Pt3       1.0  0.7337887287139893  0.3472632169723511  0.9505957961082458  1.0000
+  As  As1       1.0  0.7343661785125732  0.8469104766845703  0.12006402760744095  1.0000
+  Pt  Pt4       1.0  0.7334877848625183  0.8465623259544373  0.393460750579834  1.0000
+  Pt  Pt5       1.0  0.23319800198078156  0.8458338379859924  0.6232512593269348  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ErSc2InC
+_chemical_formula_sum              "Er1 Sc2 In1 C1"
+_cell_length_a       4.590147214938247
+_cell_length_b       4.590247709187234
+_cell_length_c       4.818061295867225
+_cell_angle_alpha    89.98002568220748
+_cell_angle_beta     89.95795360140076
+_cell_angle_gamma    89.98197561304427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9900450374361667  0.6003256444278847  0.3138459013343458  1.0000
+  Sc  Sc1       1.0  0.9899786448264627  0.10022955187572095  0.8138587861768338  1.0000
+  Sc  Sc2       1.0  0.4898479161383842  0.6003152000320479  0.8138473419745765  1.0000
+  In  In1       1.0  0.48945657035299583  0.10008313633316404  0.31360727829659013  1.0000
+  C   C1        1.0  0.9898175034936559  0.6002243442914444  0.8138060090793411  1.0000

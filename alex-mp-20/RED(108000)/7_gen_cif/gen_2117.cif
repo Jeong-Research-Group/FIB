@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiRh2Mg
+_chemical_formula_sum              "Li1 Rh2 Mg1"
+_cell_length_a       2.9691211374036413
+_cell_length_b       4.576330683231025
+_cell_length_c       4.989444255828857
+_cell_angle_alpha    117.33419477468645
+_cell_angle_beta     107.36224064542633
+_cell_angle_gamma    90.0257378353184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.17378929257392883  0.7386857271194458  0.5462998747825623  1.0000
+  Rh  Rh1       1.0  0.9149705171585083  0.9799916744232178  0.02846243977546692  1.0000
+  Rh  Rh2       1.0  0.4330948293209076  0.49712198972702026  0.06377092748880386  1.0000
+  Mg  Mg1       1.0  0.6739473342895508  0.2389724850654602  0.5461446642875671  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiZnHP2
+_chemical_formula_sum              "Ni1 Zn1 H1 P2"
+_cell_length_a       3.748076855515961
+_cell_length_b       4.04020478733837
+_cell_length_c       4.568352699279785
+_cell_angle_alpha    95.67377962055552
+_cell_angle_beta     88.93126916697999
+_cell_angle_gamma    89.3463124159407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6277241110801698  0.7734013795852661  0.3553789258003235  1.0000
+  Zn  Zn1       1.0  0.6256163716316224  0.051938578486442566  0.8650835752487183  1.0000
+  H   H1        1.0  0.6276108622550965  0.508516788482666  0.08300638943910599  1.0000
+  P   P1        1.0  0.12747879326343536  0.039791006594896317  0.22579063475131989  1.0000
+  P   P2        1.0  0.1275482177734375  0.5348660945892334  0.5021774768829346  1.0000

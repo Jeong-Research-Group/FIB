@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2AuPt
+_chemical_formula_sum              "Tb2 Au1 Pt1"
+_cell_length_a       3.609043610584227
+_cell_length_b       5.027833207209655
+_cell_length_c       5.027861595153809
+_cell_angle_alpha    89.94165902573059
+_cell_angle_beta     89.99524869318192
+_cell_angle_gamma    90.00008446674786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6195778846740724  0.8893640637397766  0.755521833896637  1.0000
+  Tb  Tb2       1.0  0.6201953291893006  0.38957926630973816  0.2555866241455078  1.0000
+  Au  Au1       1.0  0.12014818936586381  0.8893411159515381  0.2555552124977112  1.0000
+  Pt  Pt1       1.0  0.12001086771488191  0.38957327604293823  0.7557485699653625  1.0000

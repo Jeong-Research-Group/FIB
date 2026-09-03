@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4Te2As2
+_chemical_formula_sum              "Sm4 Te2 As2"
+_cell_length_a       4.266027030807165
+_cell_length_b       7.719494872660295
+_cell_length_c       7.389358408645936
+_cell_angle_alpha    108.60795187472335
+_cell_angle_beta     89.99856287134901
+_cell_angle_gamma    90.00173043215676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.1250883143636109  0.5682556744583347  0.893859316519575  1.0000
+  Sm  Sm2       1.0  0.6250733988423438  0.1296600655251287  0.914051122980259  1.0000
+  Sm  Sm3       1.0  0.1249876244244147  0.12949815188775854  0.41413015188243996  1.0000
+  Sm  Sm4       1.0  0.6250085722194301  0.5682249607394222  0.3936263649346878  1.0000
+  Te  Te1       1.0  0.6250079747573554  0.8489077938628162  0.15383649903706173  1.0000
+  Te  Te2       1.0  0.12502446750048787  0.8488718145232292  0.6539508796338208  1.0000
+  As  As1       1.0  0.1250471438620719  0.34883823535860825  0.1539508926904373  1.0000
+  As  As2       1.0  0.6250403150503082  0.3490136190825848  0.6538982854473431  1.0000

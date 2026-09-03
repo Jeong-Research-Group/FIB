@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuHPd2Pb
+_chemical_formula_sum              "Lu1 H1 Pd2 Pb1"
+_cell_length_a       3.8968967106234396
+_cell_length_b       4.626409439437104
+_cell_length_c       4.699180945447476
+_cell_angle_alpha    91.81747400982721
+_cell_angle_beta     90.0268539465051
+_cell_angle_gamma    90.02075033544557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.5400778097343255  0.6300425465759483  0.3247580901014087  1.0000
+  H   H1        1.0  0.04012726588937416  0.42565223559137616  0.5250068203727793  1.0000
+  Pd  Pd1       1.0  0.04030383116682513  0.11775660133511438  0.28204867568302644  1.0000
+  Pd  Pd2       1.0  0.03972135180121222  0.6522969860834528  0.8460849268346844  1.0000
+  Pb  Pb1       1.0  0.539889189664022  0.12097733347076162  0.8261035935897951  1.0000

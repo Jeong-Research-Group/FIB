@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Cu2Ni2
+_chemical_formula_sum              "Lu2 Cu2 Ni2"
+_cell_length_a       5.167140795654364
+_cell_length_b       5.064050892777461
+_cell_length_c       5.064795086573969
+_cell_angle_alpha    59.055878982412494
+_cell_angle_beta     59.330701137344036
+_cell_angle_gamma    59.326236176491726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7615653303860235  0.8709806231341862  0.944212243248656  1.0000
+  Lu  Lu2       1.0  0.5135015919900187  0.619168042818555  0.6920453465790691  1.0000
+  Cu  Cu1       1.0  0.13758255758999363  0.244888085278876  0.8183421386802532  1.0000
+  Cu  Cu2       1.0  0.13769272544679673  0.7450397611466437  0.3182712925793528  1.0000
+  Ni  Ni1       1.0  0.1373152253196034  0.24530146348391577  0.3182034331143464  1.0000
+  Ni  Ni2       1.0  0.6375398798932301  0.24490536740597058  0.31821472587017596  1.0000

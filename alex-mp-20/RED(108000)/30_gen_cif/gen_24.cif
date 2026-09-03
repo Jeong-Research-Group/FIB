@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sn2DySn2GePt
+_chemical_formula_sum              "Sn4 Dy1 Ge1 Pt1"
+_cell_length_a       4.353155016189532
+_cell_length_b       4.36746854846101
+_cell_length_c       9.364882469177246
+_cell_angle_alpha    90.04937793840506
+_cell_angle_beta     89.8970100684494
+_cell_angle_gamma    89.9664457851321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.30812105536460876  0.06871655583381653  0.20283298194408417  1.0000
+  Sn  Sn2       1.0  0.8062179684638977  0.5688713788986206  0.8423514366149902  1.0000
+  Dy  Dy1       1.0  0.30688348412513733  0.5688529014587402  0.5088783502578735  1.0000
+  Sn  Sn3       1.0  0.8077764511108398  0.5684506893157958  0.19944071769714355  1.0000
+  Sn  Sn4       1.0  0.30586254596710205  0.0694422647356987  0.8461481928825378  1.0000
+  Ge  Ge1       1.0  0.806871235370636  0.06930843740701675  0.6356244683265686  1.0000
+  Pt  Pt1       1.0  0.8072505593299866  0.06856389343738556  0.3763776421546936  1.0000

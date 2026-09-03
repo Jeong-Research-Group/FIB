@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zn2Cd3Ag2
+_chemical_formula_sum              "Zn2 Cd3 Ag2"
+_cell_length_a       4.234813343174009
+_cell_length_b       5.087643273641889
+_cell_length_c       6.839182059236767
+_cell_angle_alpha    95.93747751965255
+_cell_angle_beta     89.92808317941595
+_cell_angle_gamma    114.52894920466238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7145642794111359  0.412675387955696  0.0009323027381536056  1.0000
+  Zn  Zn2       1.0  0.2830362928850064  0.5498032406062111  0.736555283988376  1.0000
+  Cd  Cd1       1.0  0.14367439698707624  0.27060079736379966  0.301285735176681  1.0000
+  Cd  Cd2       1.0  0.4244359704091334  0.8322065250894084  0.1437558122098636  1.0000
+  Cd  Cd3       1.0  0.5678573554298959  0.11972858522358049  0.5999775138011774  1.0000
+  Ag  Ag1       1.0  0.9982439435038434  0.9803962308800146  0.8714197255942041  1.0000
+  Ag  Ag2       1.0  0.8532208998469676  0.6900136439967027  0.4491032667966514  1.0000

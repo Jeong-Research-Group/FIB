@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ag2BiN2O2
+_chemical_formula_sum              "Ag2 Bi1 N2 O2"
+_cell_length_a       3.5829562889818907
+_cell_length_b       5.971649842950685
+_cell_length_c       6.592679395547625
+_cell_angle_alpha    111.3037320321099
+_cell_angle_beta     89.90200159718061
+_cell_angle_gamma    90.19423338636676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.8201454594185571  0.29479064033621444  0.6062191913068216  1.0000
+  Ag  Ag2       1.0  0.8201322684184945  0.7942036342031864  0.6052967052674418  1.0000
+  Bi  Bi1       1.0  0.3208082021933595  0.7944662729514789  0.10606050651470009  1.0000
+  N   N1        1.0  0.31955183583775243  0.3867801997541994  0.17624565162666667  1.0000
+  N   N2        1.0  0.323534181550419  0.20266226181420696  0.040002010000821785  1.0000
+  O   O1        1.0  0.8203187091040641  0.9443455397933045  0.34976379359749055  1.0000
+  O   O2        1.0  0.8202557629560432  0.6457687274084243  0.8619462020434604  1.0000

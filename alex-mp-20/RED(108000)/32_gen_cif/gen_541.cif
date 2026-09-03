@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       KPbSnHg2SnPb
+_chemical_formula_sum              "K1 Pb2 Sn2 Hg2"
+_cell_length_a       5.728737805145858
+_cell_length_b       7.222103602933499
+_cell_length_c       6.915809631347656
+_cell_angle_alpha    68.10488084424864
+_cell_angle_beta     65.4457453645381
+_cell_angle_gamma    66.52321306284513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.3352803587913514  0.32881081104278564  0.5965481400489807  1.0000
+  Pb  Pb1       1.0  0.6828508973121643  0.7923195958137512  0.43595108389854437  1.0000
+  Sn  Sn1       1.0  0.18417330086231232  0.9934017658233643  0.23109714686870578  1.0000
+  Hg  Hg1       1.0  0.9821494817733765  0.4524196982383728  0.17737920582294467  1.0000
+  Hg  Hg2       1.0  0.6851918697357178  0.20882079005241394  0.01713632419705391  1.0000
+  Sn  Sn2       1.0  0.4821491241455078  0.6668969392776489  0.9619279503822328  1.0000
+  Pb  Pb2       1.0  0.9829562306404114  0.8682536482810974  0.7574974894523622  1.0000

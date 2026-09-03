@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ni2ZnCu
+_chemical_formula_sum              "Ni2 Zn1 Cu1"
+_cell_length_a       3.4538549523296767
+_cell_length_b       3.657778075713514
+_cell_length_c       3.655493974685669
+_cell_angle_alpha    90.00957159931424
+_cell_angle_beta     90.0170574884742
+_cell_angle_gamma    89.98141072904225
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.327169805765152  0.32895150780677795  0.0921764150261879  1.0000
+  Ni  Ni2       1.0  0.3265032172203064  0.8280627131462097  0.5922349095344543  1.0000
+  Zn  Zn1       1.0  0.8268208503723145  0.32848602533340454  0.5922423005104065  1.0000
+  Cu  Cu1       1.0  0.8268350958824158  0.8288010358810425  0.09225843846797943  1.0000

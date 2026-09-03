@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl2Ga2Ir
+_chemical_formula_sum              "Tl2 Ga2 Ir1"
+_cell_length_a       4.180205284866052
+_cell_length_b       4.895083868514059
+_cell_length_c       5.831381199279725
+_cell_angle_alpha    107.27139940361154
+_cell_angle_beta     87.26094283210765
+_cell_angle_gamma    91.52073289021801
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.08000469746980961  0.797594852730444  0.28650412666069885  1.0000
+  Tl  Tl2       1.0  0.9762576633807722  0.991235391230471  0.8472614477421004  1.0000
+  Ga  Ga1       1.0  0.5101051744400406  0.4555983567140548  0.8318463869809616  1.0000
+  Ga  Ga2       1.0  0.5461492103952534  0.3328071470763454  0.29970964419369595  1.0000
+  Ir  Ir1       1.0  0.028119113368566005  0.39426663209613844  0.5660127465029431  1.0000

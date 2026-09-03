@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgSrPtMgPtSr
+_chemical_formula_sum              "Mg2 Sr2 Pt2"
+_cell_length_a       4.3900371826133116
+_cell_length_b       4.392441805477214
+_cell_length_c       7.743013381958008
+_cell_angle_alpha    90.00914129763832
+_cell_angle_beta     90.01355359970047
+_cell_angle_gamma    89.96915053860468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.022137314081192017  0.9712982773780823  0.6846551895141602  1.0000
+  Sr  Sr1       1.0  0.5218416452407837  0.9713699817657472  0.33957651257514954  1.0000
+  Pt  Pt1       1.0  0.5222287774085999  0.9718586206436157  0.90105801820755  1.0000
+  Mg  Mg2       1.0  0.521633505821228  0.4718049466609955  0.6847358345985413  1.0000
+  Pt  Pt2       1.0  0.02157333306968212  0.471351683139801  0.4684368968009949  1.0000
+  Sr  Sr2       1.0  0.02232946828007698  0.4716853499412537  0.03003646433353424  1.0000

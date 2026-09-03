@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PdPtFe2PdPtFePt
+_chemical_formula_sum              "Pd2 Pt3 Fe3"
+_cell_length_a       4.728242339898107
+_cell_length_b       4.743116926177942
+_cell_length_c       5.4536027908325195
+_cell_angle_alpha    90.45536435374757
+_cell_angle_beta     73.64117236641823
+_cell_angle_gamma    80.53280008340985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.2490445077419281  0.1718769371509552  0.34093692898750305  1.0000
+  Pt  Pt1       1.0  0.7541255950927734  0.39741277694702154  0.7547967433929443  1.0000
+  Fe  Fe1       1.0  0.2585180699825287  0.169094979763031  0.8486096262931825  1.0000
+  Fe  Fe2       1.0  0.7458164095878601  0.4098321795463562  0.24356265366077426  1.0000
+  Pd  Pd2       1.0  0.24549007415771484  0.6697052121162416  0.603922426700592  1.0000
+  Pt  Pt2       1.0  0.24375422298908234  0.6714267730712891  0.09384825825691223  1.0000
+  Fe  Fe3       1.0  0.7443618178367615  0.9059783220291139  0.9778053760528566  1.0000
+  Pt  Pt3       1.0  0.7425662875175475  0.9112130403518678  0.4725107848644257  1.0000

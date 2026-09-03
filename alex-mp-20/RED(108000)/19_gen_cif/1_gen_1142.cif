@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2AgH
+_chemical_formula_sum              "Li2 Ag1 H1"
+_cell_length_a       3.790329148870365
+_cell_length_b       3.7984431747529297
+_cell_length_c       4.2071607249287
+_cell_angle_alpha    90.04435341871232
+_cell_angle_beta     90.03990944161595
+_cell_angle_gamma    90.0204181931853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4540966282708598  0.8717650129787924  0.9362462038678561  1.0000
+  Li  Li2       1.0  0.9543800833879856  0.37186783897236275  0.9363150926310749  1.0000
+  Ag  Ag1       1.0  0.9533657212049448  0.8720958823557036  0.4362114126633546  1.0000
+  H   H1        1.0  0.45456050933353426  0.3717000828427007  0.9367986930090314  1.0000

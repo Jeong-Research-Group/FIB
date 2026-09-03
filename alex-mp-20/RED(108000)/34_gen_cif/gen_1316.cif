@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgLaMgCo2
+_chemical_formula_sum              "Mg2 La1 Co2"
+_cell_length_a       3.9356333085563153
+_cell_length_b       5.177203461585281
+_cell_length_c       5.555323600769043
+_cell_angle_alpha    102.6405927977328
+_cell_angle_beta     110.79770448707734
+_cell_angle_gamma    89.96124071965868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8699313402175903  0.6446988582611084  0.5164289474487305  1.0000
+  La  La1       1.0  0.5273032784461975  0.21608224511146545  0.8298715949058533  1.0000
+  Mg  Mg2       1.0  0.18489806354045868  0.7870995402336121  0.1438215672969818  1.0000
+  Co  Co1       1.0  0.7945891618728638  0.12658514082431793  0.3634178340435028  1.0000
+  Co  Co2       1.0  0.25947123765945435  0.3058558404445648  0.29559603333473206  1.0000

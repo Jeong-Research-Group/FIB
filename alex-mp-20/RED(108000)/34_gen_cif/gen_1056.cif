@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeMnFeIn2
+_chemical_formula_sum              "Ce1 Mn1 Fe1 In2"
+_cell_length_a       4.100879556733382
+_cell_length_b       4.055590584847736
+_cell_length_c       6.913825035095215
+_cell_angle_alpha    107.06203335765223
+_cell_angle_beta     107.29369349323537
+_cell_angle_gamma    89.93405625031635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.41905686259269714  0.5819665193557738  0.6889046430587769  1.0000
+  Mn  Mn1       1.0  0.6201766133308411  0.28285709023475647  0.09009698778390884  1.0000
+  Fe  Fe1       1.0  0.9972295761108398  0.16071532666683194  0.8441289663314819  1.0000
+  In  In1       1.0  0.13031698763370514  0.7925945520401  0.1098468005657196  1.0000
+  In  In2       1.0  0.7911492586135864  0.9532581567764281  0.43254947662353516  1.0000

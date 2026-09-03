@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3Ni2Pd
+_chemical_formula_sum              "Sc3 Ni2 Pd1"
+_cell_length_a       3.1917193143983598
+_cell_length_b       3.191589009740129
+_cell_length_c       9.818328525920014
+_cell_angle_alpha    90.00037605365641
+_cell_angle_beta     89.99840754827603
+_cell_angle_gamma    89.99985145891611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5213366708847836  0.9075377217499307  0.2942956213310078  1.0000
+  Sc  Sc2       1.0  0.5212579442434954  0.9075498272980093  0.652553596488249  1.0000
+  Sc  Sc3       1.0  0.5213794299896569  0.9075364945016758  0.9735140068681697  1.0000
+  Ni  Ni1       1.0  0.021295564114305682  0.40762060183599486  0.8139974154420858  1.0000
+  Ni  Ni2       1.0  0.021169983564869037  0.4075564906730655  0.13315987900241072  1.0000
+  Pd  Pd1       1.0  0.02132487260429398  0.40753916838195164  0.47370237890104056  1.0000

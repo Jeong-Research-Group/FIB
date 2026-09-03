@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfCrRu2C
+_chemical_formula_sum              "Hf1 Cr1 Ru2 C1"
+_cell_length_a       4.108410462901725
+_cell_length_b       3.967357263174006
+_cell_length_c       4.108380107458344
+_cell_angle_alpha    90.00806851972578
+_cell_angle_beta     90.00470345840193
+_cell_angle_gamma    90.01318250940206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.32292191003751947  0.28895256554816395  0.7871730672335847  1.0000
+  Cr  Cr1       1.0  0.8230675574410522  0.28900990263489323  0.2870666235473625  1.0000
+  Ru  Ru1       1.0  0.8230699697704443  0.7890076749802617  0.7867893380453143  1.0000
+  Ru  Ru2       1.0  0.3229860133683966  0.7888940072071681  0.2868543090390786  1.0000
+  C   C1        1.0  0.8231633549275124  0.788744180685423  0.28683121985428395  1.0000

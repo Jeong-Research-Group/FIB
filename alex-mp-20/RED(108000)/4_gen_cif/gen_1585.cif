@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OK3O3Mo
+_chemical_formula_sum              "O4 K3 Mo1"
+_cell_length_a       6.019517390066968
+_cell_length_b       6.042367224312625
+_cell_length_c       6.046639919281006
+_cell_angle_alpha    112.62789936259695
+_cell_angle_beta     103.69197755550215
+_cell_angle_gamma    112.38427137505707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6413804888725281  0.7290342450141907  0.03157985955476753  1.0000
+  K   K1        1.0  0.0840747058391571  0.9068406820297241  0.9737944602966309  1.0000
+  K   K2        1.0  0.5840428471565247  0.9072299599647522  0.474969059228897  1.0000
+  K   K3        1.0  0.8336536884307861  0.40792718529701233  0.22383762896060935  1.0000
+  O   O2        1.0  0.3157810568809509  0.08276349306106567  0.7066301107406616  1.0000
+  O   O3        1.0  0.02425889112055303  0.40784430503845215  0.7413910627365112  1.0000
+  O   O4        1.0  0.35163772106170654  0.40813121199607844  0.41620203852653503  1.0000
+  Mo  Mo1       1.0  0.33329215645790095  0.40647929906845087  0.7232526540756226  1.0000

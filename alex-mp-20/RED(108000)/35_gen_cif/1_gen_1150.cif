@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Si2IrRuPt
+_chemical_formula_sum              "Si2 Ir1 Ru1 Pt1"
+_cell_length_a       2.927216799973642
+_cell_length_b       4.117135013679529
+_cell_length_c       6.4079992184991985
+_cell_angle_alpha    108.72340270963454
+_cell_angle_beta     89.99243070204996
+_cell_angle_gamma    90.00006871722853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6621169228740954  0.5528039502238182  0.4096252274451332  1.0000
+  Si  Si2       1.0  0.6619735687731536  0.21654977527749097  0.7387363483301351  1.0000
+  Ir  Ir1       1.0  0.1617376301206295  0.7200978881441881  0.7454482388642489  1.0000
+  Ru  Ru1       1.0  0.16226666721951197  0.05528231496150887  0.4150472869276378  1.0000
+  Pt  Pt1       1.0  0.16210686991714723  0.3854267273647058  0.07582047875104879  1.0000

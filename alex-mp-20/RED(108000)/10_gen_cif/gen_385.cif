@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuFeScFe3
+_chemical_formula_sum              "Cu1 Fe4 Sc1"
+_cell_length_a       4.854484775190193
+_cell_length_b       4.852416472367057
+_cell_length_c       4.853062152862549
+_cell_angle_alpha    59.980994419819794
+_cell_angle_beta     59.976363302203794
+_cell_angle_gamma    59.97557735191459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.18688976764678958  0.5305975079536438  0.865635335445404  1.0000
+  Fe  Fe1       1.0  0.5619146227836609  0.9047796726226806  0.23970530927181252  1.0000
+  Sc  Sc1       1.0  0.9372044801712036  0.28078407049179077  0.6153865456581116  1.0000
+  Fe  Fe2       1.0  0.5615970492362976  0.9055808782577514  0.7416661381721497  1.0000
+  Fe  Fe3       1.0  0.06292559951543808  0.905521810054779  0.23990654945373535  1.0000
+  Fe  Fe4       1.0  0.5618943572044373  0.405856966972351  0.2404525727033615  1.0000

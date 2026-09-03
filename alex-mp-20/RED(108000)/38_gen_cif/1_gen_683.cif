@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be3Ir2Au
+_chemical_formula_sum              "Be3 Ir2 Au1"
+_cell_length_a       2.8704382995151634
+_cell_length_b       2.8706569126508827
+_cell_length_c       8.520366783829353
+_cell_angle_alpha    90.00842191060713
+_cell_angle_beta     90.02969459675981
+_cell_angle_gamma    89.98685577329366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.9075682165060595  0.21730164585664313  0.3904777775181113  1.0000
+  Be  Be2       1.0  0.9068238872376428  0.2172376391555645  0.08683286848741203  1.0000
+  Be  Be3       1.0  0.9083861301661111  0.2174784872510466  0.6930740255424735  1.0000
+  Ir  Ir1       1.0  0.407204688088772  0.7173277528509839  0.22625194560282724  1.0000
+  Ir  Ir2       1.0  0.4077991387804353  0.7171917295254103  0.5543776252884914  1.0000
+  Au  Au1       1.0  0.4076086695400012  0.7171383389556085  0.8902578129432069  1.0000

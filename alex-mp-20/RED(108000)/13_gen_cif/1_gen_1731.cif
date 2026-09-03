@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Hf2Ge2
+_chemical_formula_sum              "Y2 Hf2 Ge2"
+_cell_length_a       4.185224466414089
+_cell_length_b       4.184982880941983
+_cell_length_c       7.901221806339912
+_cell_angle_alpha    89.98745278342005
+_cell_angle_beta     90.00073854180668
+_cell_angle_gamma    90.00000215310291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.8998182601140228  0.8283430681376274  0.6183799363222316  1.0000
+  Y   Y2        1.0  0.3997730703514632  0.3286402455499481  0.9226158544293407  1.0000
+  Hf  Hf1       1.0  0.3998123269916952  0.8285259963332882  0.27038126073181795  1.0000
+  Hf  Hf2       1.0  0.8998585849026808  0.3284546772766519  0.2704208013245938  1.0000
+  Ge  Ge1       1.0  0.8997751093165512  0.828645547006354  0.011693517869816173  1.0000
+  Ge  Ge2       1.0  0.3998431917347764  0.3283239602781284  0.5291203880783546  1.0000

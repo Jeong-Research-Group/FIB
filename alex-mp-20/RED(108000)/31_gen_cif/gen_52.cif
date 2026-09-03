@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2CuNiP
+_chemical_formula_sum              "Sc2 Cu1 Ni1 P1"
+_cell_length_a       3.5794403932574843
+_cell_length_b       3.6571182373450815
+_cell_length_c       6.443424224853516
+_cell_angle_alpha    106.34950658991656
+_cell_angle_beta     89.99165601325937
+_cell_angle_gamma    89.95467737006622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8862414360046387  0.8451024889945984  0.5968034267425537  1.0000
+  Sc  Sc2       1.0  0.8867902755737305  0.11481275409460066  0.13315963745117188  1.0000
+  Cu  Cu1       1.0  0.38662952184677124  0.4800914227962494  0.8655911087989807  1.0000
+  Ni  Ni1       1.0  0.38650280237197876  0.2830251157283783  0.4712488353252411  1.0000
+  P   P1        1.0  0.38663655519485474  0.6741914749145508  0.2548181414604187  1.0000

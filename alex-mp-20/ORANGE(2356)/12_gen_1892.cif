@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgSeO2F
+_chemical_formula_sum              "Mg1 Se1 O2 F1"
+_cell_length_a       3.193895861196402
+_cell_length_b       4.008409256979756
+_cell_length_c       5.488664627075195
+_cell_angle_alpha    90.3957163276299
+_cell_angle_beta     89.99044707045267
+_cell_angle_gamma    90.04704884552383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.07174978405237198  0.04834817722439766  0.4304915964603424  1.0000
+  Se  Se1       1.0  0.5732015371322632  0.32401940226554876  0.9321748614311218  1.0000
+  O   O1        1.0  0.5725778341293335  0.05381184443831444  0.17348532378673553  1.0000
+  O   O2        1.0  0.5724571347236633  0.05934130772948265  0.6870272755622864  1.0000
+  F   F1        1.0  0.07206304371356964  0.5530197620391846  0.4300592839717865  1.0000

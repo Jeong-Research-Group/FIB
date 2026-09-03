@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaSi2Ni3
+_chemical_formula_sum              "Ca1 Si2 Ni3"
+_cell_length_a       3.6075989531392105
+_cell_length_b       5.214189769839491
+_cell_length_c       5.215994990325376
+_cell_angle_alpha    119.98797926663688
+_cell_angle_beta     89.9938170490807
+_cell_angle_gamma    89.9948126043504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.036949427054512374  0.06623565607504486  0.5798737193813114  1.0000
+  Si  Si1       1.0  0.03687988399012806  0.39941148138528165  0.24642497831619017  1.0000
+  Si  Si2       1.0  0.03696054919864193  0.7330347306633721  0.9133619590461476  1.0000
+  Ni  Ni1       1.0  0.5367934432872299  0.566412343800306  0.0798230879083932  1.0000
+  Ni  Ni2       1.0  0.5368774680739433  0.5664207897785026  0.5798680077220967  1.0000
+  Ni  Ni3       1.0  0.5367911768209847  0.06623068906033568  0.07989345628222135  1.0000

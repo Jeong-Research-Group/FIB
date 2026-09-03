@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2Pt2Dy2
+_chemical_formula_sum              "Zn2 Pt2 Dy2"
+_cell_length_a       4.464148379466992
+_cell_length_b       4.46478874409624
+_cell_length_c       6.852481365203857
+_cell_angle_alpha    90.04306001904186
+_cell_angle_beta     89.95646687622897
+_cell_angle_gamma    120.11546240434596
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.3953286111354828  0.4485325813293457  0.8555715680122374  1.0000
+  Zn  Zn2       1.0  0.7280263304710388  0.11563282459974289  0.3554264307022095  1.0000
+  Pt  Pt1       1.0  0.7287347316741943  0.11533495038747786  0.8559228181838988  1.0000
+  Pt  Pt2       1.0  0.3946947157382965  0.44918668270111084  0.3555455505847931  1.0000
+  Dy  Dy1       1.0  0.061762075871229186  0.782712459564209  0.10527313500642775  1.0000
+  Dy  Dy2       1.0  0.06206124275922773  0.781900942325592  0.6057190299034119  1.0000

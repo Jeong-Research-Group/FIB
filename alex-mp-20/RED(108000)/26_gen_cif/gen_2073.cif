@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LuCo2LuRe2
+_chemical_formula_sum              "Lu2 Co2 Re2"
+_cell_length_a       5.243739452407986
+_cell_length_b       5.201826637514839
+_cell_length_c       5.190613269805908
+_cell_angle_alpha    59.14253935244374
+_cell_angle_beta     59.66843897765009
+_cell_angle_gamma    59.68879375602988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.5199248790740967  0.10811896622180939  0.6235764026641846  1.0000
+  Co  Co1       1.0  0.3945839405059815  0.48433840274810785  0.99964839220047  1.0000
+  Co  Co2       1.0  0.8940079808235168  0.48424133658409113  0.9996159672737122  1.0000
+  Lu  Lu2       1.0  0.26809474825859064  0.8614438772201538  0.3766981661319733  1.0000
+  Re  Re1       1.0  0.8944907188415527  0.4853566586971283  0.4991644024848938  1.0000
+  Re  Re2       1.0  0.8937598466873169  0.9846229553222657  0.0007741847075521518  1.0000

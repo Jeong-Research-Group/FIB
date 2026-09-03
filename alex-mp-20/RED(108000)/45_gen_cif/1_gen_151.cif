@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Ni2Ge2
+_chemical_formula_sum              "Y2 Ni2 Ge2"
+_cell_length_a       4.069792096897943
+_cell_length_b       5.761715787729076
+_cell_length_c       5.249187355835233
+_cell_angle_alpha    100.70256342702167
+_cell_angle_beta     90.00215521217605
+_cell_angle_gamma    110.67984226833947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.3796024438135902  0.4947745047138837  0.5064188015734172  1.0000
+  Y   Y2        1.0  0.1486930374250492  0.03297933061214406  0.8939905865037722  1.0000
+  Ni  Ni1       1.0  0.055403150000910374  0.8463632719049474  0.3423965764688643  1.0000
+  Ni  Ni2       1.0  0.4728942368376377  0.6813879077125933  0.05798808333005914  1.0000
+  Ge  Ge1       1.0  0.865313334426373  0.46620244189118737  0.9890182426385455  1.0000
+  Ge  Ge2       1.0  0.6629975977400382  0.061594451616102885  0.41148263078557157  1.0000

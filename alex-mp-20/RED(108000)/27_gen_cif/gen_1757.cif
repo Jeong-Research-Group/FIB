@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HSnSe2HAu
+_chemical_formula_sum              "H2 Sn1 Se2 Au1"
+_cell_length_a       5.654554655901252
+_cell_length_b       5.778163043030233
+_cell_length_c       5.761518955230713
+_cell_angle_alpha    119.75980140266041
+_cell_angle_beta     88.82215677856563
+_cell_angle_gamma    117.58255087678208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.009739013388752965  0.8201040029525757  0.4485263228416443  1.0000
+  Sn  Sn1       1.0  0.39589706063270563  0.1207437738776207  0.0360017865896225  1.0000
+  Se  Se1       1.0  0.21614472568035123  0.7313899397850037  0.451633781194687  1.0000
+  Se  Se2       1.0  0.5874395370483398  0.5357921719551086  0.8643790483474731  1.0000
+  H   H2        1.0  0.7665057778358458  0.42978164553642273  0.7314602732658386  1.0000
+  Au  Au1       1.0  0.9036375880241393  0.1388433277606964  0.1312626153230667  1.0000

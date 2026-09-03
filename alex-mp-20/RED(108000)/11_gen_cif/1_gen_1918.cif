@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ni2PtRh
+_chemical_formula_sum              "Ni2 Pt1 Rh1"
+_cell_length_a       3.608091222339217
+_cell_length_b       3.7998931957823
+_cell_length_c       3.8002998712449076
+_cell_angle_alpha    90.0003025263648
+_cell_angle_beta     89.99798890074517
+_cell_angle_gamma    89.99933100403635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7294276483240447  0.17412633297827032  0.17938394441006522  1.0000
+  Ni  Ni2       1.0  0.729336938261573  0.674099533745691  0.6799060805069277  1.0000
+  Pt  Pt1       1.0  0.22963279959249663  0.6741434217437191  0.17956928942744024  1.0000
+  Rh  Rh1       1.0  0.22909211184513437  0.17418196100144326  0.6796262199141266  1.0000

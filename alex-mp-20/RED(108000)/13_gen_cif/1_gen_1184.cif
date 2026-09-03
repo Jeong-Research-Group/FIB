@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2NaMgNi
+_chemical_formula_sum              "Ba2 Na1 Mg1 Ni1"
+_cell_length_a       5.1914943551559665
+_cell_length_b       6.048318470367907
+_cell_length_c       6.0489667726301874
+_cell_angle_alpha    90.00724312365408
+_cell_angle_beta     89.99570234965414
+_cell_angle_gamma    90.00550364510062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8506383878355696  0.5825494612900302  0.10897106509939679  1.0000
+  Ba  Ba2       1.0  0.8505723986847403  0.08253708458607234  0.6086962712487303  1.0000
+  Na  Na1       1.0  0.3507387160565211  0.08261291100657642  0.10937164297970788  1.0000
+  Mg  Mg1       1.0  0.3501116940155045  0.5826008017373925  0.6091119720244169  1.0000
+  Ni  Ni1       1.0  0.8505568483706855  0.582460714413082  0.6090665906867659  1.0000

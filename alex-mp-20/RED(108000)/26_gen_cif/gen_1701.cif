@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Nb2Ge2
+_chemical_formula_sum              "Sc2 Nb2 Ge2"
+_cell_length_a       3.880101677832724
+_cell_length_b       3.890589946188771
+_cell_length_c       7.485268592834473
+_cell_angle_alpha    90.10417654305077
+_cell_angle_beta     90.08031186396926
+_cell_angle_gamma    90.13416107624062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.42579072713851923  0.46734282374382025  0.06282048672437668  1.0000
+  Sc  Sc2       1.0  0.926023244857788  0.9672704935073854  0.3643378019332886  1.0000
+  Nb  Nb1       1.0  0.4257512688636779  0.9671708941459656  0.7134661078453064  1.0000
+  Nb  Nb2       1.0  0.9258381128311156  0.467159777879715  0.7137566208839417  1.0000
+  Ge  Ge1       1.0  0.4261303544044494  0.46720126271247864  0.4464859068393707  1.0000
+  Ge  Ge2       1.0  0.9258736371994017  0.9670405983924867  0.9811493754386902  1.0000

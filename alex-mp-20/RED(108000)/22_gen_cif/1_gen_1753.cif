@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2Ni2As3Ir
+_chemical_formula_sum              "Sm2 Ni2 As3 Ir1"
+_cell_length_a       3.837681600895995
+_cell_length_b       3.837750371112843
+_cell_length_c       10.120368695705402
+_cell_angle_alpha    90.00666926862606
+_cell_angle_beta     90.0122048311397
+_cell_angle_gamma    90.00074884213129
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.20154820590688513  0.1886599479456253  0.30268543147868116  1.0000
+  Sm  Sm2       1.0  0.7011100744012387  0.6881245916027802  0.7749721252563164  1.0000
+  Ni  Ni1       1.0  0.2015275455571896  0.688183030482671  0.038541639378684475  1.0000
+  Ni  Ni2       1.0  0.701369615337494  0.1884814217711058  0.038585728189328615  1.0000
+  As  As1       1.0  0.7016220039253247  0.6885338109424479  0.17527191941457584  1.0000
+  As  As2       1.0  0.701540182833996  0.18823776404555403  0.5388433835239936  1.0000
+  As  As3       1.0  0.20122569963843898  0.18822796038283654  0.9020658565311749  1.0000
+  Ir  Ir1       1.0  0.20113985457157893  0.6885249163226513  0.5390422437879541  1.0000

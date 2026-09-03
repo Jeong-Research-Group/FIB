@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KZnPtPb2
+_chemical_formula_sum              "K1 Zn1 Pt1 Pb2"
+_cell_length_a       5.0318284898445835
+_cell_length_b       5.577880368535895
+_cell_length_c       5.578452545563981
+_cell_angle_alpha    89.95002213276871
+_cell_angle_beta     89.99575573060648
+_cell_angle_gamma    89.99655286834837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.8473576299138077  0.04866245300647799  0.4002862964881977  1.0000
+  Zn  Zn1       1.0  0.8475975164453589  0.5486422097889596  0.9002589059349265  1.0000
+  Pt  Pt1       1.0  0.3475731630502969  0.548197334724734  0.8999787773691184  1.0000
+  Pb  Pb1       1.0  0.3479376920786068  0.5481916046116166  0.4002902959959636  1.0000
+  Pb  Pb2       1.0  0.3478284809177415  0.04799054039146613  0.900349117481564  1.0000

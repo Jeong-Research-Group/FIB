@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgZn3Au2
+_chemical_formula_sum              "Mg1 Zn3 Au2"
+_cell_length_a       3.7925073623371106
+_cell_length_b       4.1366067286387675
+_cell_length_c       6.646285323784659
+_cell_angle_alpha    108.11604009329375
+_cell_angle_beta     90.01755755000423
+_cell_angle_gamma    90.00035012187851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8323895754065184  0.20334237042272477  0.0011731442693101951  1.0000
+  Zn  Zn1       1.0  0.8326833946470386  0.5349104487674541  0.6640822335571812  1.0000
+  Zn  Zn2       1.0  0.8323747675508644  0.8768499486618995  0.348523742638529  1.0000
+  Zn  Zn3       1.0  0.33249141286209016  0.37695399334575685  0.34857975423114207  1.0000
+  Au  Au1       1.0  0.33251088681967483  0.7171256754986155  0.028494042963546306  1.0000
+  Au  Au2       1.0  0.33230356216848883  0.035053536965950004  0.6639623731182603  1.0000

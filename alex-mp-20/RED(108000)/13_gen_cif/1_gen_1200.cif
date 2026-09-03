@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Lu2I2
+_chemical_formula_sum              "Eu2 Lu2 I2"
+_cell_length_a       4.186530034845796
+_cell_length_b       4.186516433236944
+_cell_length_c       12.202696702861665
+_cell_angle_alpha    90.0258342544215
+_cell_angle_beta     90.01547295726014
+_cell_angle_gamma    89.99998613525712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.4575201116389461  0.6281325665651027  0.6775384871270509  1.0000
+  Eu  Eu2       1.0  0.9585293038177725  0.12888335510260865  0.16310297142406027  1.0000
+  Lu  Lu1       1.0  0.9579511953504963  0.12829245749552845  0.8509738235893795  1.0000
+  Lu  Lu2       1.0  0.45805052620707054  0.6285583328485941  0.9894101519498024  1.0000
+  I   I1        1.0  0.9575180044900903  0.1279673137029573  0.5606313233254464  1.0000
+  I   I2        1.0  0.4584738038587403  0.6291144426425183  0.28037723249048285  1.0000

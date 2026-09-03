@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm3Pt2Sn
+_chemical_formula_sum              "Sm3 Pt2 Sn1"
+_cell_length_a       3.543135874515291
+_cell_length_b       3.539822104733691
+_cell_length_c       11.850497245788574
+_cell_angle_alpha    90.0024135611125
+_cell_angle_beta     90.05934318128772
+_cell_angle_gamma    90.03151017008283
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.35522669553756714  0.5517774820327759  0.9347583651542662  1.0000
+  Sm  Sm2       1.0  0.35569772124290466  0.5522062182426453  0.2385924160480499  1.0000
+  Sm  Sm3       1.0  0.356839656829834  0.5518354773521423  0.5439333915710449  1.0000
+  Pt  Pt1       1.0  0.855415940284729  0.05222900211811066  0.08404947072267532  1.0000
+  Pt  Pt2       1.0  0.8563944101333618  0.05221182480454445  0.39344862103462214  1.0000
+  Sn  Sn1       1.0  0.855992317199707  0.05210590735077858  0.7396504282951355  1.0000

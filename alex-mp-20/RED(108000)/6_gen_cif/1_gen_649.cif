@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2FePtN
+_chemical_formula_sum              "La2 Fe1 Pt1 N1"
+_cell_length_a       3.582164445036922
+_cell_length_b       5.2515818234905165
+_cell_length_c       5.251627807259844
+_cell_angle_alpha    90.01106376221843
+_cell_angle_beta     89.99055884996874
+_cell_angle_gamma    89.99968916073206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.48113597251335893  0.5565498783995244  0.24675438167559038  1.0000
+  La  La2       1.0  0.4816364616662462  0.05663218658249224  0.7464180823179302  1.0000
+  Fe  Fe1       1.0  0.9812399794971405  0.557236879645612  0.7467470701184896  1.0000
+  Pt  Pt1       1.0  0.9810163881080097  0.05618394632329583  0.24666903084251257  1.0000
+  N   N1        1.0  0.48122894678889366  0.556664373951806  0.7468877304906192  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Fe2Pt2N
+_chemical_formula_sum              "Fe2 Pt2 N1"
+_cell_length_a       3.894292322184432
+_cell_length_b       4.143069370800835
+_cell_length_c       3.893295874063721
+_cell_angle_alpha    90.01302390927728
+_cell_angle_beta     89.98797781024994
+_cell_angle_gamma    89.91491133374628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6549789830793525  0.06520872331949026  0.36376269190192645  1.0000
+  Fe  Fe2       1.0  0.15547479323065216  0.0662426168479451  0.8631648180473215  1.0000
+  Pt  Pt1       1.0  0.15459076971986058  0.56515458413923  0.3636196139156331  1.0000
+  Pt  Pt2       1.0  0.6551749852688352  0.5649242884267087  0.8632722511665922  1.0000
+  N   N1        1.0  0.6562543779618384  0.06346871045276095  0.8633463567097659  1.0000

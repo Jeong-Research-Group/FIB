@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeCo2AuN
+_chemical_formula_sum              "Fe1 Co2 Au1 N1"
+_cell_length_a       3.8548367118704197
+_cell_length_b       3.8786812597395075
+_cell_length_c       3.8563510686159335
+_cell_angle_alpha    90.02649517482547
+_cell_angle_beta     90.02623644244598
+_cell_angle_gamma    90.00369127169677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5081832068695142  0.44993151305394075  0.3566485691926312  1.0000
+  Co  Co1       1.0  0.5080460477107491  0.9503732623606397  0.8563194490614838  1.0000
+  Co  Co2       1.0  0.008248562968994483  0.9502731866842882  0.35638434874184355  1.0000
+  Au  Au1       1.0  0.008120232528045807  0.4504684617085342  0.8564769016796748  1.0000
+  N   N1        1.0  0.5080117604483395  0.9503825968551752  0.3564439973802843  1.0000

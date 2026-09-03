@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       IrScCo2N
+_chemical_formula_sum              "Ir1 Sc1 Co2 N1"
+_cell_length_a       3.7642328044737456
+_cell_length_b       3.76378009152208
+_cell_length_c       4.27792501449585
+_cell_angle_alpha    90.10377356358623
+_cell_angle_beta     90.11839701357766
+_cell_angle_gamma    90.17848218673197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.5005207061767578  0.9128738045692445  0.14078159630298615  1.0000
+  Sc  Sc1       1.0  0.00042283337097615  0.4131242632865906  0.14028935134410858  1.0000
+  Co  Co1       1.0  0.0004345343913882976  0.9130570888519288  0.640122652053833  1.0000
+  Co  Co2       1.0  0.5004087090492249  0.4134248495101929  0.6399933695793152  1.0000
+  N   N1        1.0  0.00026476383209228516  0.41338518261909485  0.6400537490844727  1.0000

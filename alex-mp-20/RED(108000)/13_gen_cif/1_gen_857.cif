@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2InO2
+_chemical_formula_sum              "Sm2 In1 O2"
+_cell_length_a       3.9710095224981248
+_cell_length_b       3.9705350355644393
+_cell_length_c       7.362859077642291
+_cell_angle_alpha    105.61190610789728
+_cell_angle_beta     105.64711698345579
+_cell_angle_gamma    90.00002442159537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4032715828777229  0.7338673474768223  0.2567881838295178  1.0000
+  Sm  Sm2       1.0  0.07190243048666334  0.4020810309548477  0.5943674472512845  1.0000
+  In  In1       1.0  0.7378445240663031  0.06829858990231356  0.926046143434697  1.0000
+  O   O1        1.0  0.9877069282182578  0.8178847167073746  0.4255561281227779  1.0000
+  O   O2        1.0  0.48741051873025953  0.3181125376029879  0.4256555067771936  1.0000

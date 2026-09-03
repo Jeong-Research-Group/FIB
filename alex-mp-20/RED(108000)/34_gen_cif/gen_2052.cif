@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiBrLa2SiBr
+_chemical_formula_sum              "Si2 Br2 La2"
+_cell_length_a       3.894843463025237
+_cell_length_b       3.9098161638666116
+_cell_length_c       10.770951271057129
+_cell_angle_alpha    90.22422396090921
+_cell_angle_beta     90.1875458432332
+_cell_angle_gamma    90.11869753773423
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.4374037683010102  0.4152111411094666  0.06461669504642487  1.0000
+  Br  Br1       1.0  0.43691998720169073  0.9154421687126161  0.4247226119041443  1.0000
+  La  La1       1.0  0.43662977218627935  0.9155722856521608  0.8463448882102966  1.0000
+  La  La2       1.0  0.9372811913490297  0.41513106226921087  0.2858876585960388  1.0000
+  Si  Si2       1.0  0.9366542696952821  0.9155561327934266  0.06579175591468811  1.0000
+  Br  Br2       1.0  0.9360066652297975  0.4151460230350495  0.7071105241775513  1.0000

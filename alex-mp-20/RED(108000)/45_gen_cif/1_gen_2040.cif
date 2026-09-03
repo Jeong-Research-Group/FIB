@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ti2CrRe
+_chemical_formula_sum              "Ti2 Cr1 Re1"
+_cell_length_a       3.1065151469225287
+_cell_length_b       4.377499179344872
+_cell_length_c       4.377712139520561
+_cell_angle_alpha    90.0172392682369
+_cell_angle_beta     89.98001106245147
+_cell_angle_gamma    90.03782628890332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.3660841030255057  0.9707952093821679  0.4265579534551165  1.0000
+  Ti  Ti2       1.0  0.3658641607470115  0.47077084437805855  0.9267293588865362  1.0000
+  Cr  Cr1       1.0  0.8661899447865344  0.9707922515322558  0.9266427351705868  1.0000
+  Re  Re1       1.0  0.8657583606372837  0.4707099582855621  0.42662946050510714  1.0000

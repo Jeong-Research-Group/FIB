@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Nb3SnH
+_chemical_formula_sum              "Nb3 Sn1 H1"
+_cell_length_a       4.265558814025588
+_cell_length_b       4.264615340055878
+_cell_length_c       4.2693230762570735
+_cell_angle_alpha    89.99780946336159
+_cell_angle_beta     90.00147939157938
+_cell_angle_gamma    90.02619169194986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.36070405366223784  0.10782511711335697  0.10943587565966024  1.0000
+  Nb  Nb2       1.0  0.8607196351102228  0.10750034542296386  0.6089889185137446  1.0000
+  Nb  Nb3       1.0  0.360671445748765  0.6074106137551228  0.6090039127343616  1.0000
+  Sn  Sn1       1.0  0.8604697450539348  0.6074453006075688  0.10928240369605824  1.0000
+  H   H1        1.0  0.35946613018787466  0.1071341700357769  0.6098517842874436  1.0000

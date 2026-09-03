@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd2SnPdGePd3
+_chemical_formula_sum              "Pd6 Sn1 Ge1"
+_cell_length_a       3.9920193822322254
+_cell_length_b       3.99555957964917
+_cell_length_c       7.840291976928711
+_cell_angle_alpha    89.94569566665484
+_cell_angle_beta     90.04366790415338
+_cell_angle_gamma    89.95347525526603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.9683972001075745  0.2725975513458252  0.8287997841835022  1.0000
+  Pd  Pd2       1.0  0.9684555530548096  0.7725967168807983  0.06956751644611359  1.0000
+  Sn  Sn1       1.0  0.46832433342933655  0.27219295501708984  0.5695842504501343  1.0000
+  Pd  Pd3       1.0  0.468407541513443  0.7725251317024231  0.31115034222602844  1.0000
+  Ge  Ge1       1.0  0.46857935190200806  0.272812157869339  0.06967021524906158  1.0000
+  Pd  Pd4       1.0  0.968414306640625  0.7721858620643616  0.5695338845252991  1.0000
+  Pd  Pd5       1.0  0.9684784412384033  0.272185742855072  0.31042468547821045  1.0000
+  Pd  Pd6       1.0  0.46834537386894226  0.7725003957748412  0.8281594514846802  1.0000

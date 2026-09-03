@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2NaIBr3
+_chemical_formula_sum              "Cs2 Na1 I1 Br3"
+_cell_length_a       6.200385371534409
+_cell_length_b       6.200385630385627
+_cell_length_c       12.005234209934338
+_cell_angle_alpha    104.96839770190498
+_cell_angle_beta     104.99117441126003
+_cell_angle_gamma    89.99997934372333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8930299682414842  0.8110442647514107  0.5565803528819683  1.0000
+  Cs  Cs2       1.0  0.6837212115440101  0.6020499195736891  0.13866519604836547  1.0000
+  Na  Na1       1.0  0.2871597374400458  0.2053704904050374  0.34520186470617487  1.0000
+  I   I1        1.0  0.10437391642837779  0.022820067431777127  0.9802356338402906  1.0000
+  Br  Br1       1.0  0.2884416178315915  0.7065642963542302  0.3477578413160492  1.0000
+  Br  Br2       1.0  0.7884279371570133  0.2066102597514169  0.347757804554321  1.0000
+  Br  Br3       1.0  0.47228736310355207  0.3901837786797009  0.7148289519407466  1.0000

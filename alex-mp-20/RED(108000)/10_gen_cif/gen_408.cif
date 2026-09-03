@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PTm2P2Sc
+_chemical_formula_sum              "P3 Tm2 Sc1"
+_cell_length_a       3.8976811667323235
+_cell_length_b       3.896460171209877
+_cell_length_c       9.479959487915039
+_cell_angle_alpha    90.02439994177983
+_cell_angle_beta     89.96701952346258
+_cell_angle_gamma    119.98835367139677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.23041965067386627  0.9027673602104187  0.8402054905891418  1.0000
+  Tm  Tm1       1.0  0.23076260089874268  0.9029295444488525  0.35555148124694824  1.0000
+  Tm  Tm2       1.0  0.8973905444145203  0.2363193929195404  0.012565148063004017  1.0000
+  P   P2        1.0  0.8972402215003967  0.23629173636436462  0.5265114903450012  1.0000
+  P   P3        1.0  0.5637791752815247  0.5694202780723572  0.18352767825126648  1.0000
+  Sc  Sc1       1.0  0.5639687180519104  0.5695420503616333  0.6837120652198792  1.0000

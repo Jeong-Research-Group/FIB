@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4GePPbSe
+_chemical_formula_sum              "Pr4 Ge1 P1 Pb1 Se1"
+_cell_length_a       4.290178502075672
+_cell_length_b       7.648505911722594
+_cell_length_c       7.536749768502054
+_cell_angle_alpha    108.69506982021547
+_cell_angle_beta     89.99480567282137
+_cell_angle_gamma    90.00334360189493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.8323894287886324  0.7871770300018383  0.3861815512475325  1.0000
+  Pr  Pr2       1.0  0.33243149486588697  0.3145125983471539  0.3955400725539846  1.0000
+  Pr  Pr3       1.0  0.3322816752008209  0.7714225482693543  0.8485509345536486  1.0000
+  Pr  Pr4       1.0  0.8323349797253148  0.2990397755459906  0.8580073241024576  1.0000
+  Ge  Ge1       1.0  0.33236250999818867  0.04308738556811608  0.6222305009936143  1.0000
+  P   P1        1.0  0.8323385944165518  0.5429626264450599  0.6219678298460344  1.0000
+  Pb  Pb1       1.0  0.8322994724667445  0.04295433210801015  0.12187173529962621  1.0000
+  Se  Se1       1.0  0.33235594854545086  0.5430432191710296  0.12210425074908762  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaPr2InCo
+_chemical_formula_sum              "La1 Pr2 In1 Co1"
+_cell_length_a       5.419732266504466
+_cell_length_b       5.4196764889364095
+_cell_length_c       5.156126836316392
+_cell_angle_alpha    90.0014931723802
+_cell_angle_beta     90.00254737513016
+_cell_angle_gamma    90.00299790570644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.012457586248315465  0.09097832098857021  0.5180330640480763  1.0000
+  Pr  Pr1       1.0  0.5122953939657248  0.09110584316097706  0.01913378981846758  1.0000
+  Pr  Pr2       1.0  0.012271943112329148  0.5910741494323142  0.019426771798211562  1.0000
+  In  In1       1.0  0.5123121194971383  0.5911485429622919  0.5186743687723365  1.0000
+  Co  Co1       1.0  0.012260984240135468  0.0910950311520501  0.015182302739679644  1.0000

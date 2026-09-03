@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InFe2NiH
+_chemical_formula_sum              "In1 Fe2 Ni1 H1"
+_cell_length_a       3.989257412134721
+_cell_length_b       3.7464857024136498
+_cell_length_c       3.74642995602116
+_cell_angle_alpha    89.99330449733006
+_cell_angle_beta     89.99096590030368
+_cell_angle_gamma    89.99634304851277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9824703175140781  0.6584528032222825  0.8555405933217838  1.0000
+  Fe  Fe1       1.0  0.4825687359932948  0.158560293367047  0.8551288618682178  1.0000
+  Fe  Fe2       1.0  0.48266521193529394  0.6581641368000796  0.3555527425335452  1.0000
+  Ni  Ni1       1.0  0.9829512264382696  0.15830906930541824  0.35555497345509274  1.0000
+  H   H1        1.0  0.48298190996960416  0.15812115217134762  0.35561306878139853  1.0000

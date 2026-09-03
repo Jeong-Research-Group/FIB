@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pb2HgPbInPb3
+_chemical_formula_sum              "Pb6 Hg1 In1"
+_cell_length_a       4.80832386941976
+_cell_length_b       4.864552211363788
+_cell_length_c       10.461247444152832
+_cell_angle_alpha    89.9839720489225
+_cell_angle_beta     90.00355420289917
+_cell_angle_gamma    90.05859869572825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.7971164584159851  0.4401578307151794  0.14687329530715942  1.0000
+  Pb  Pb2       1.0  0.7957639694213867  0.4396215379238128  0.6454793214797974  1.0000
+  Hg  Hg1       1.0  0.29580938816070557  0.4401483237743377  0.8960330486297606  1.0000
+  Pb  Pb3       1.0  0.29621773958206177  0.44031193852424616  0.39559972286224365  1.0000
+  In  In1       1.0  0.7963570952415466  0.9403156042098999  0.3956180810928345  1.0000
+  Pb  Pb4       1.0  0.29598158597946167  0.9399641156196594  0.14798688888549805  1.0000
+  Pb  Pb5       1.0  0.7964131832122803  0.9407262802124022  0.8959249854087828  1.0000
+  Pb  Pb6       1.0  0.29631537199020386  0.940443992614746  0.6439347863197327  1.0000

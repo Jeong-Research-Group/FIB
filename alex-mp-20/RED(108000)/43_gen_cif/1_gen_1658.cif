@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ca2GaCu
+_chemical_formula_sum              "Ca2 Ga1 Cu1"
+_cell_length_a       4.263057986600736
+_cell_length_b       4.417213545287364
+_cell_length_c       5.872276769485046
+_cell_angle_alpha    112.10400046655185
+_cell_angle_beta     90.00901174578367
+_cell_angle_gamma    90.0002502705954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.27412448806351936  0.31057553302906193  0.2111714071051099  1.0000
+  Ca  Ca2       1.0  0.7740025458532153  0.02005453156680721  0.6305451522938283  1.0000
+  Ga  Ga1       1.0  0.7742879888312233  0.7241263681164944  0.03822553901813528  1.0000
+  Cu  Cu1       1.0  0.2742652295191167  0.612313804881001  0.8149008730863768  1.0000

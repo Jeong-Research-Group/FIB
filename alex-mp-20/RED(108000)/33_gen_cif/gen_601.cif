@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiMg2TlLiTl
+_chemical_formula_sum              "Li2 Mg2 Tl2"
+_cell_length_a       4.861983490150158
+_cell_length_b       4.864069630985083
+_cell_length_c       6.249948501586914
+_cell_angle_alpha    90.01511088432699
+_cell_angle_beta     89.94103065265011
+_cell_angle_gamma    120.07662567574602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9836959838867188  0.23341114819049835  0.5394827127456665  1.0000
+  Mg  Mg1       1.0  0.31771913170814514  0.9008205533027649  0.7893298864364624  1.0000
+  Mg  Mg2       1.0  0.3179668188095093  0.9003028273582458  0.2892044484615326  1.0000
+  Tl  Tl1       1.0  0.6505066156387329  0.5660881400108337  0.539147675037384  1.0000
+  Li  Li2       1.0  0.651710033416748  0.5683431029319763  0.03872951120138168  1.0000
+  Tl  Tl2       1.0  0.9855138063430786  0.23491205275058746  0.03925583139061928  1.0000

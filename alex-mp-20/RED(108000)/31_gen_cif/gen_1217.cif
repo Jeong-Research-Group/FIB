@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnReFe2
+_chemical_formula_sum              "Mn1 Re1 Fe2"
+_cell_length_a       2.5294476432305353
+_cell_length_b       4.837411767779887
+_cell_length_c       4.087240219116211
+_cell_angle_alpha    90.03378462059332
+_cell_angle_beta     89.97090589983
+_cell_angle_gamma    100.63194356606826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5178112387657166  0.9634133577346801  0.5415664315223694  1.0000
+  Re  Re1       1.0  0.26887837052345276  0.223038375377655  0.04110310599207878  1.0000
+  Fe  Fe1       1.0  0.7620652914047241  0.7196142673492432  0.04095682501792908  1.0000
+  Fe  Fe2       1.0  0.012041484005749248  0.47857981920242315  0.5417870879173279  1.0000

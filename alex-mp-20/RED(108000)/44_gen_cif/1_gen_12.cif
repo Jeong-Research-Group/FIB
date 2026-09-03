@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CuAg
+_chemical_formula_sum              "Li2 Cu1 Ag1"
+_cell_length_a       3.8174021901538024
+_cell_length_b       3.9120681756380464
+_cell_length_c       3.9128001048194947
+_cell_angle_alpha    90.0312174863633
+_cell_angle_beta     90.07941825299507
+_cell_angle_gamma    90.0382872044871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8565205126888226  0.6020718450930259  0.7066652319593046  1.0000
+  Li  Li2       1.0  0.8565771523919172  0.10199875068611225  0.20626190019828194  1.0000
+  Cu  Cu1       1.0  0.3560002505555574  0.10201606693066997  0.7066710717458958  1.0000
+  Ag  Ag1       1.0  0.3564962668081583  0.6022126287507101  0.206650649033471  1.0000

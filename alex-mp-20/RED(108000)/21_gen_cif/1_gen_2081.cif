@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2Bi2Pt2
+_chemical_formula_sum              "K2 Bi2 Pt2"
+_cell_length_a       4.753262395483807
+_cell_length_b       5.205244680780948
+_cell_length_c       8.000145178291092
+_cell_angle_alpha    86.92815741637303
+_cell_angle_beta     90.0232903929629
+_cell_angle_gamma    90.011617486962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.559562396092895  0.24596533322151565  0.5621103613982696  1.0000
+  K   K2        1.0  0.06002682250966704  0.7869893086735533  0.23067354520109348  1.0000
+  Bi  Bi1       1.0  0.5598341072303039  0.3413708246024285  0.04043927297043924  1.0000
+  Bi  Bi2       1.0  0.05950405828035063  0.693406369029231  0.7529012223119418  1.0000
+  Pt  Pt1       1.0  0.05960796780034869  0.1746211734686122  0.9149578768843181  1.0000
+  Pt  Pt2       1.0  0.5596848756744741  0.860451233838678  0.8782053130495298  1.0000

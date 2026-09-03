@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3NiAu2
+_chemical_formula_sum              "Sc3 Ni1 Au2"
+_cell_length_a       3.2840171233695266
+_cell_length_b       3.283375696191063
+_cell_length_c       10.298738377151906
+_cell_angle_alpha    89.99994206932342
+_cell_angle_beta     89.99374805516632
+_cell_angle_gamma    90.00073328765349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9994331735398193  0.06078730157916874  0.9844200743450304  1.0000
+  Sc  Sc2       1.0  0.9993866894342753  0.060807226098795734  0.3356649288429766  1.0000
+  Sc  Sc3       1.0  0.9996929863024862  0.060943115802018014  0.6330793854710317  1.0000
+  Ni  Ni1       1.0  0.4997205695382614  0.5613826111902934  0.4842854030285333  1.0000
+  Au  Au1       1.0  0.49951170644213844  0.5606238904180525  0.16236195911440734  1.0000
+  Au  Au2       1.0  0.49960237990035816  0.5611925061341243  0.8065478773388766  1.0000

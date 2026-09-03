@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2GaNi
+_chemical_formula_sum              "Zn2 Ga1 Ni1"
+_cell_length_a       3.7160000259046875
+_cell_length_b       3.9120459152628446
+_cell_length_c       3.7156108396470757
+_cell_angle_alpha    90.00376129209519
+_cell_angle_beta     90.00320346652316
+_cell_angle_gamma    90.00218146789545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.22532366748192106  0.2146745886601429  0.841946848981502  1.0000
+  Zn  Zn2       1.0  0.7253438973318795  0.21454618595131145  0.3420948451104369  1.0000
+  Ga  Ga1       1.0  0.22537009439044076  0.7145994141544968  0.3418717867903853  1.0000
+  Ni  Ni1       1.0  0.7253314537786256  0.7145261070391774  0.8422415217097818  1.0000

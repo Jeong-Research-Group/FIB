@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtNi2WPtW
+_chemical_formula_sum              "Pt2 Ni2 W2"
+_cell_length_a       3.795477376859726
+_cell_length_b       3.9254310977266496
+_cell_length_c       6.0505499839782715
+_cell_angle_alpha    108.96657517703255
+_cell_angle_beta     90.01972809134827
+_cell_angle_gamma    90.01554118601982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.3711508810520172  0.27492144703865057  0.09182441979646683  1.0000
+  Ni  Ni1       1.0  0.8711940050125122  0.10461109131574631  0.7508779764175415  1.0000
+  Ni  Ni2       1.0  0.8708917498588562  0.4336256384849549  0.40847253799438477  1.0000
+  W   W1        1.0  0.8708799481391907  0.7723403573036194  0.08570716530084613  1.0000
+  Pt  Pt2       1.0  0.3707173466682434  0.5990348458290101  0.7394307255744934  1.0000
+  W   W2        1.0  0.3705303370952606  0.9425761699676514  0.42614924907684326  1.0000

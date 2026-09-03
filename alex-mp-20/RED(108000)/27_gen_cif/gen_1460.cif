@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd3MgHg2
+_chemical_formula_sum              "Cd3 Mg1 Hg2"
+_cell_length_a       5.00977545327342
+_cell_length_b       5.006125598607183
+_cell_length_c       6.319811820983887
+_cell_angle_alpha    90.52712917088078
+_cell_angle_beta     90.35845763178637
+_cell_angle_gamma    120.5547147327135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.05723515152931203  0.9784561991691588  0.6317508220672607  1.0000
+  Cd  Cd2       1.0  0.7241106033325195  0.31049105525016785  0.25314560532569885  1.0000
+  Cd  Cd3       1.0  0.39092445373535156  0.6450198888778687  0.4518775939941406  1.0000
+  Mg  Mg1       1.0  0.3904438018798828  0.644721508026123  0.9505888819694519  1.0000
+  Hg  Hg1       1.0  0.05801721662282935  0.978969633579254  0.13316163420677185  1.0000
+  Hg  Hg2       1.0  0.7236414551734924  0.310671329498291  0.7552340030670166  1.0000

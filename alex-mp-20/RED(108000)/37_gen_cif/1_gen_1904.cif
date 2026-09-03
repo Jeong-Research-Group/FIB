@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmCo2NiB
+_chemical_formula_sum              "Sm1 Co2 Ni1 B1"
+_cell_length_a       4.007631869545708
+_cell_length_b       3.9994413400963427
+_cell_length_c       3.999577890564035
+_cell_angle_alpha    90.00699862823635
+_cell_angle_beta     90.00506002849431
+_cell_angle_gamma    90.00052637372923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.822335115677071  0.5094959403569943  0.7286276572891022  1.0000
+  Co  Co1       1.0  0.3222444217547068  0.5091851496548739  0.22856729794940303  1.0000
+  Co  Co2       1.0  0.32218796067108574  0.009515144589107101  0.7286441358361255  1.0000
+  Ni  Ni1       1.0  0.8222268264130737  0.009480302311500882  0.2286557382888123  1.0000
+  B   B1        1.0  0.32254936175893684  0.009267235294589388  0.22873732073102832  1.0000

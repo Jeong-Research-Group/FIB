@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sn2HgPd2
+_chemical_formula_sum              "Sn2 Hg1 Pd2"
+_cell_length_a       3.3949474389154592
+_cell_length_b       5.03359299917941
+_cell_length_c       7.034909267092981
+_cell_angle_alpha    72.17746033331947
+_cell_angle_beta     76.24555027008573
+_cell_angle_gamma    70.10387777318677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.09525041758529247  0.7207308971823746  0.8154291487232901  1.0000
+  Sn  Sn2       1.0  0.4103771992093726  0.5345888519220965  0.36649067698790616  1.0000
+  Hg  Hg1       1.0  0.2531565154663286  0.12756990374350155  0.09108286849001057  1.0000
+  Pd  Pd1       1.0  0.651620094082378  0.9439505334151203  0.47482723824791706  1.0000
+  Pd  Pd2       1.0  0.8541969641316248  0.3111880331264852  0.7072974553711245  1.0000

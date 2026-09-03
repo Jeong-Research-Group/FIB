@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Ga2NiP
+_chemical_formula_sum              "Ca2 Ga2 Ni1 P1"
+_cell_length_a       4.0884204705976535
+_cell_length_b       4.195307691406438
+_cell_length_c       7.1611253732358096
+_cell_angle_alpha    89.9654850142822
+_cell_angle_beta     89.99444510543267
+_cell_angle_gamma    90.00028387319776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.309516153800484  0.6775749616846723  0.33326173314220175  1.0000
+  Ca  Ca2       1.0  0.8090033038746789  0.6781916615135591  0.885916067494024  1.0000
+  Ga  Ga1       1.0  0.30929240162699756  0.17894314162952826  0.7097653383984422  1.0000
+  Ga  Ga2       1.0  0.8093163236556377  0.17673402817307637  0.5159984546142947  1.0000
+  Ni  Ni1       1.0  0.30945962567738566  0.1781503227592866  0.04720216975571003  1.0000
+  P   P1        1.0  0.8093736011437084  0.17774936996696927  0.17568007607766942  1.0000

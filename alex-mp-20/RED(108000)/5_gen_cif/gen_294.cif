@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiPtRuPtRuPtRu2
+_chemical_formula_sum              "Ni1 Pt3 Ru4"
+_cell_length_a       4.375472132468294
+_cell_length_b       4.738929197642921
+_cell_length_c       5.466789245605469
+_cell_angle_alpha    90.3888246805903
+_cell_angle_beta     89.97152061621954
+_cell_angle_gamma    89.88134162445779
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8921534419059753  0.15208286046981812  0.2041516751050949  1.0000
+  Pt  Pt1       1.0  0.8929843902587891  0.14462076127529147  0.6959648728370667  1.0000
+  Ru  Ru1       1.0  0.893769383430481  0.6508088707923889  0.951793372631073  1.0000
+  Pt  Pt2       1.0  0.392789363861084  0.31715521216392517  0.9543530344963076  1.0000
+  Ru  Ru2       1.0  0.8932559490203857  0.6396544575691223  0.44398802518844604  1.0000
+  Pt  Pt3       1.0  0.3929058313369751  0.8256961107254028  0.20238235592842102  1.0000
+  Ru  Ru3       1.0  0.3933178782463074  0.8057436347007751  0.6969261765480042  1.0000
+  Ru  Ru4       1.0  0.39342978596687317  0.323452889919281  0.45308226346969604  1.0000

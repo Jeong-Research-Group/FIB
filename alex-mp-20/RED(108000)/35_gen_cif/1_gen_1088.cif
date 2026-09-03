@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrCd2Hg3
+_chemical_formula_sum              "Zr1 Cd2 Hg3"
+_cell_length_a       5.057028044022567
+_cell_length_b       5.057381383503949
+_cell_length_c       6.180759760249483
+_cell_angle_alpha    90.03458052910926
+_cell_angle_beta     89.96591775943648
+_cell_angle_gamma    120.03259383314553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9785316326178681  0.4715054823602011  0.2673843013084841  1.0000
+  Cd  Cd1       1.0  0.31170384163364767  0.1376067368248809  0.9750242101800786  1.0000
+  Cd  Cd2       1.0  0.6448834833760193  0.8044858058997846  0.5566913259973538  1.0000
+  Hg  Hg1       1.0  0.9785483242690596  0.4710984944676294  0.7676989869496735  1.0000
+  Hg  Hg2       1.0  0.6449125543118595  0.8047205889922798  0.0730456251503518  1.0000
+  Hg  Hg3       1.0  0.3117305575426778  0.13778725228417776  0.46053274577830755  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaLi3Ca2Pt2
+_chemical_formula_sum              "Na1 Li3 Ca2 Pt2"
+_cell_length_a       4.56980297200547
+_cell_length_b       4.571928083160094
+_cell_length_c       9.490834561854898
+_cell_angle_alpha    90.00318305158439
+_cell_angle_beta     90.00693573267877
+_cell_angle_gamma    119.98724970530002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5386794151781281  0.2154546372175673  0.8256201941287328  1.0000
+  Li  Li1       1.0  0.8722257236779698  0.882553277306718  0.6638101636180692  1.0000
+  Li  Li2       1.0  0.8727240882329362  0.8837785533808699  0.1909636507565438  1.0000
+  Li  Li3       1.0  0.5395511783338096  0.21607521247843303  0.5476788328912056  1.0000
+  Ca  Ca1       1.0  0.20631610702455505  0.5494007464438628  0.3696953271035089  1.0000
+  Ca  Ca2       1.0  0.20586724608180557  0.5494361273594742  0.012332749187555588  1.0000
+  Pt  Pt1       1.0  0.5391766798624845  0.2166181697617796  0.18995407555693714  1.0000
+  Pt  Pt2       1.0  0.2055162656416547  0.5489620070205622  0.6731404395502075  1.0000

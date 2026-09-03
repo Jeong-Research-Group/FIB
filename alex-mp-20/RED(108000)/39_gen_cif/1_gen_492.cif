@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       LuS
+_chemical_formula_sum              "Lu1 S1"
+_cell_length_a       3.8108069534256406
+_cell_length_b       3.8106302584557707
+_cell_length_c       3.810549521224157
+_cell_angle_alpha    60.006084679625076
+_cell_angle_beta     60.01014560527555
+_cell_angle_gamma    60.00691779263516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.6613889497413977  0.4552716940557806  0.884914609817979  1.0000
+  S   S1        1.0  0.16140885361417118  0.9552765751972478  0.3849387741285247  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pr2SmCu
+_chemical_formula_sum              "Pr2 Sm1 Cu1"
+_cell_length_a       3.6392815630873487
+_cell_length_b       3.6402996856803025
+_cell_length_c       8.770096862258354
+_cell_angle_alpha    90.0105879572379
+_cell_angle_beta     90.00397429358836
+_cell_angle_gamma    90.00194181475445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6122695881362363  0.7273428179165615  0.31458480386646465  1.0000
+  Pr  Pr2       1.0  0.6126036238874903  0.7273330667308661  0.7162048531540819  1.0000
+  Sm  Sm1       1.0  0.1119713959300431  0.22758270794363827  0.015350919651898914  1.0000
+  Cu  Cu1       1.0  0.11221405164956824  0.22737695268409353  0.5147313503742601  1.0000

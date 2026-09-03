@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YbPd3Au2
+_chemical_formula_sum              "Yb1 Pd3 Au2"
+_cell_length_a       4.6827700903193845
+_cell_length_b       4.681016483076904
+_cell_length_c       5.653840799495799
+_cell_angle_alpha    89.99374281775009
+_cell_angle_beta     90.00534866119305
+_cell_angle_gamma    119.95878222179462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.6902033846662441  0.49443574128527445  0.6971446048087917  1.0000
+  Pd  Pd1       1.0  0.3568611243487164  0.8274180951282952  0.9527339614164597  1.0000
+  Pd  Pd2       1.0  0.3569250198225821  0.8275317950444948  0.4350778057685331  1.0000
+  Pd  Pd3       1.0  0.6896345270245502  0.4941926876236691  0.1971849645821924  1.0000
+  Au  Au1       1.0  0.02316166524158434  0.16076623334775783  0.9558611364420543  1.0000
+  Au  Au2       1.0  0.023169941107384184  0.16085150863967235  0.4419856289175827  1.0000

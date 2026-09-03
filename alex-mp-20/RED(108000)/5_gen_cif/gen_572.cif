@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiCs2SiRh2
+_chemical_formula_sum              "Si2 Cs2 Rh2"
+_cell_length_a       4.534024895438846
+_cell_length_b       4.592642147787355
+_cell_length_c       11.271079063415527
+_cell_angle_alpha    87.85326034420488
+_cell_angle_beta     92.71463372266263
+_cell_angle_gamma    77.8884238815528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5918927192687988  0.8010291457176208  0.36474609375  1.0000
+  Cs  Cs1       1.0  0.6489741802215576  0.7403625249862671  0.038925766944885254  1.0000
+  Cs  Cs2       1.0  0.13383999466896057  0.2696566879749298  0.5705556273460388  1.0000
+  Si  Si2       1.0  0.19272799789905548  0.19766543805599213  0.24892613291740417  1.0000
+  Rh  Rh1       1.0  0.09919217973947524  0.7099550366401672  0.29987165331840515  1.0000
+  Rh  Rh2       1.0  0.6803737282752991  0.2933436632156372  0.3039034903049469  1.0000

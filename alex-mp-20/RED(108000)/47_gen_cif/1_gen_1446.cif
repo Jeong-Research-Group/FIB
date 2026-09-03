@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnInGa2Hg
+_chemical_formula_sum              "Zn1 In1 Ga2 Hg1"
+_cell_length_a       4.334521256295896
+_cell_length_b       4.335162739083091
+_cell_length_c       6.800807005082226
+_cell_angle_alpha    108.57240257826547
+_cell_angle_beta     108.58761119500456
+_cell_angle_gamma    89.97542690093252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2571217523733242  0.3162369116010409  0.6138938191440122  1.0000
+  In  In1       1.0  0.7563828016780326  0.8159272550487452  0.6126219778992872  1.0000
+  Ga  Ga1       1.0  0.901893897556603  0.46109724381795475  0.9043179391480596  1.0000
+  Ga  Ga2       1.0  0.11055006596206803  0.6690630471263586  0.32095978474109  1.0000
+  Hg  Hg1       1.0  0.5079415208100588  0.06862236849885402  0.11717950486603632  1.0000

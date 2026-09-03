@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2Pb2O2
+_chemical_formula_sum              "Ti2 Pb2 O2"
+_cell_length_a       3.633941575380335
+_cell_length_b       3.636689606773146
+_cell_length_c       8.671960707933662
+_cell_angle_alpha    89.89947239452219
+_cell_angle_beta     89.95282564383677
+_cell_angle_gamma    89.92942988843133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6698997633137932  0.6328214637389062  0.46645568509444657  1.0000
+  Ti  Ti2       1.0  0.17074844240117912  0.1346621080531919  0.2697087417765182  1.0000
+  Pb  Pb1       1.0  0.6718670320545173  0.6345862579603463  0.01003674318906668  1.0000
+  Pb  Pb2       1.0  0.16796361776642726  0.13246399798130876  0.7234282695498102  1.0000
+  O   O1        1.0  0.6702180187778005  0.13357301783119618  0.367892562752504  1.0000
+  O   O2        1.0  0.17005201782373466  0.6337564242808313  0.36777088051840345  1.0000

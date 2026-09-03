@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be3CoMo2
+_chemical_formula_sum              "Be3 Co1 Mo2"
+_cell_length_a       2.659686070742498
+_cell_length_b       3.807227005548568
+_cell_length_c       6.695223040875666
+_cell_angle_alpha    90.00490827788627
+_cell_angle_beta     90.00243810654898
+_cell_angle_gamma    89.99974992728836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.47389750012049403  0.7014655668842774  0.6155792869280964  1.0000
+  Be  Be2       1.0  0.47365098128161814  0.2018189200072532  0.45574513907665476  1.0000
+  Be  Be3       1.0  0.4739932554128755  0.7014608536189724  0.9434274850265918  1.0000
+  Co  Co1       1.0  0.4739311595964179  0.20169756862033889  0.11775312803900975  1.0000
+  Mo  Mo1       1.0  0.9737775919607496  0.701752084066884  0.289265891388383  1.0000
+  Mo  Mo2       1.0  0.9739239383488094  0.20144464107692364  0.775361508789472  1.0000

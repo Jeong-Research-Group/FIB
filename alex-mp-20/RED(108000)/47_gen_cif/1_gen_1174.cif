@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeCuNiH2
+_chemical_formula_sum              "Fe1 Cu1 Ni1 H2"
+_cell_length_a       2.7259927604331207
+_cell_length_b       2.72705915926099
+_cell_length_c       5.677956368756184
+_cell_angle_alpha    103.89919471700951
+_cell_angle_beta     103.89020287958141
+_cell_angle_gamma    90.00039363555263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.29655030207061045  0.6363474700067436  0.753411306170781  1.0000
+  Cu  Cu1       1.0  0.6426678969163451  0.9826386743481018  0.44595670160126855  1.0000
+  Ni  Ni1       1.0  0.9873938318994583  0.3272359655645596  0.13505867904975127  1.0000
+  H   H1        1.0  0.3972245438940117  0.23719043371821066  0.9549885341625459  1.0000
+  H   H2        1.0  0.8973041700850978  0.7371684215644303  0.9551900188227621  1.0000

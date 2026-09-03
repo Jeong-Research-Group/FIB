@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Er2SnTi2Sn
+_chemical_formula_sum              "Er2 Sn2 Ti2"
+_cell_length_a       4.252536888859982
+_cell_length_b       4.2512191034265205
+_cell_length_c       7.932337760925293
+_cell_angle_alpha    90.02179763901889
+_cell_angle_beta     90.03023292239072
+_cell_angle_gamma    90.06577039076838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.24768860638141632  0.6117964386940002  0.7057867646217346  1.0000
+  Er  Er2       1.0  0.7474133372306824  0.11256162077188492  0.033681415021419525  1.0000
+  Sn  Sn1       1.0  0.7478432059288025  0.11156996339559554  0.6213510632514954  1.0000
+  Ti  Ti1       1.0  0.7474914789199829  0.6114705204963684  0.36905065178871155  1.0000
+  Ti  Ti2       1.0  0.24836519360542297  0.11291169375181197  0.3689333200454712  1.0000
+  Sn  Sn2       1.0  0.24758313596248627  0.6127558350563049  0.1172483041882515  1.0000

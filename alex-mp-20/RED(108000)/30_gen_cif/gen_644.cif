@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zn2InTlNa
+_chemical_formula_sum              "Zn2 In1 Tl1 Na1"
+_cell_length_a       3.6745825970209487
+_cell_length_b       3.710036340413296
+_cell_length_c       9.266181945800781
+_cell_angle_alpha    101.58015771600061
+_cell_angle_beta     101.51277857262545
+_cell_angle_gamma    89.98416343345212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.1539471298456192  0.413586288690567  0.5297654867172241  1.0000
+  Zn  Zn2       1.0  0.6524439454078674  0.9120749235153198  0.5253119468688965  1.0000
+  In  In1       1.0  0.2814489006996155  0.04134421423077583  0.7838572263717651  1.0000
+  Tl  Tl1       1.0  0.5180685520172119  0.276496559381485  0.25492793321609497  1.0000
+  Na  Na1       1.0  0.8980996012687682  0.6565108895301819  0.014388086274266243  1.0000

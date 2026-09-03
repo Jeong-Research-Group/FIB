@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaSr3Ge2Ir2
+_chemical_formula_sum              "Na1 Sr3 Ge2 Ir2"
+_cell_length_a       4.426458858261288
+_cell_length_b       4.424113834224122
+_cell_length_c       11.809713634124812
+_cell_angle_alpha    90.00856854098907
+_cell_angle_beta     90.03180678386983
+_cell_angle_gamma    90.08549498430997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9955572162402598  0.6495540824453623  0.5872469055722532  1.0000
+  Sr  Sr1       1.0  0.4973943241999242  0.1500163264686485  0.9699346022692146  1.0000
+  Sr  Sr2       1.0  0.9978038194814753  0.6500052663107504  0.16390662594215608  1.0000
+  Sr  Sr3       1.0  0.4954476176032979  0.14949096251877636  0.41130131176165685  1.0000
+  Ge  Ge1       1.0  0.49729189635199206  0.6499290759988062  0.7725961295069663  1.0000
+  Ge  Ge2       1.0  0.9972997802216904  0.14990143627576508  0.7720770317768844  1.0000
+  Ir  Ir1       1.0  0.9974563236383704  0.6499484662018858  0.8814576274522875  1.0000
+  Ir  Ir2       1.0  0.4969915479916312  0.14984748213440438  0.673081854602271  1.0000

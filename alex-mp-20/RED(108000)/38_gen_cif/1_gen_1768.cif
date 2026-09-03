@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2MgSn2Rh2
+_chemical_formula_sum              "K2 Mg1 Sn2 Rh2"
+_cell_length_a       4.46701809125324
+_cell_length_b       4.465892536547929
+_cell_length_c       13.02379632737497
+_cell_angle_alpha    80.2902081246801
+_cell_angle_beta     80.21658474238416
+_cell_angle_gamma    59.98321028097481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.03318502257660389  0.29053960723172406  0.6187222529168002  1.0000
+  K   K2        1.0  0.8159944508321991  0.07692854289523281  0.2724145156979354  1.0000
+  Mg  Mg1       1.0  0.9240282363749168  0.1833953759024938  0.9456238686738435  1.0000
+  Sn  Sn1       1.0  0.5443309365289175  0.8049644711234528  0.08478421205100914  1.0000
+  Sn  Sn2       1.0  0.30387427884889245  0.5619657819332197  0.8062428268431423  1.0000
+  Rh  Rh1       1.0  0.23316578545437308  0.49326571492275884  0.018436281750408488  1.0000
+  Rh  Rh2       1.0  0.6149568441941305  0.8735684276086255  0.8727638358608864  1.0000

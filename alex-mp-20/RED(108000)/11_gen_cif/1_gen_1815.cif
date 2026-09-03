@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2Fe2Si2
+_chemical_formula_sum              "Dy2 Fe2 Si2"
+_cell_length_a       4.028451516741502
+_cell_length_b       4.028404055398762
+_cell_length_c       6.530844808180883
+_cell_angle_alpha    90.0028818496983
+_cell_angle_beta     89.99054767926278
+_cell_angle_gamma    89.99994480252872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.2715652047090118  0.8799552659576414  0.4878947665886647  1.0000
+  Dy  Dy2       1.0  0.7718982932575706  0.37983847724218106  0.8584067269014738  1.0000
+  Fe  Fe1       1.0  0.7717448985431722  0.879910746290966  0.17320755709374713  1.0000
+  Fe  Fe2       1.0  0.27167855799373664  0.3798470472199409  0.1732238192324687  1.0000
+  Si  Si1       1.0  0.771667784176878  0.37989198912433886  0.3520913295397643  1.0000
+  Si  Si2       1.0  0.27184234084097825  0.8798055477164652  0.9943862532756222  1.0000

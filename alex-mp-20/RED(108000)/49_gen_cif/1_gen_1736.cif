@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl2Hg2Pb
+_chemical_formula_sum              "Tl2 Hg2 Pb1"
+_cell_length_a       3.3320221048622813
+_cell_length_b       5.5999614978037116
+_cell_length_c       8.83535045842743
+_cell_angle_alpha    108.48011699724468
+_cell_angle_beta     100.56332394299926
+_cell_angle_gamma    90.01530026081979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.150227511553679  0.7965699763765169  0.8622129749540064  1.0000
+  Tl  Tl2       1.0  0.44709637545422964  0.5961895436418622  0.4628081625189843  1.0000
+  Hg  Hg1       1.0  0.345079767282356  0.9974533879878168  0.26291054285207655  1.0000
+  Hg  Hg2       1.0  0.02661798998145878  0.18779387067407946  0.6469684291788973  1.0000
+  Pb  Pb1       1.0  0.7488195541477225  0.3987660804412347  0.06535012183324253  1.0000

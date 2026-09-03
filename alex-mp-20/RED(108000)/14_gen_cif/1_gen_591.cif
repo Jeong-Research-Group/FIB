@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc3CdH
+_chemical_formula_sum              "Sc3 Cd1 H1"
+_cell_length_a       4.550770757614905
+_cell_length_b       4.549924600085281
+_cell_length_c       4.550917224909043
+_cell_angle_alpha    89.99534471555909
+_cell_angle_beta     89.99173320826911
+_cell_angle_gamma    89.99516069594587
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.4600376924295096  0.5621007953963999  0.1257853627255949  1.0000
+  Sc  Sc2       1.0  0.9601562706826301  0.06184932129254162  0.1258785308043448  1.0000
+  Sc  Sc3       1.0  0.9601038678131533  0.5619768541116239  0.6256568150576055  1.0000
+  Cd  Cd1       1.0  0.46015394876968146  0.062134111124618245  0.6256992271169353  1.0000
+  H   H1        1.0  0.9599911851057261  0.5624643522147779  0.12565331770029395  1.0000

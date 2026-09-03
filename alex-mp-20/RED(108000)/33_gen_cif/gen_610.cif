@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnHo2LaC
+_chemical_formula_sum              "Sn1 Ho2 La1 C1"
+_cell_length_a       4.9217867897941625
+_cell_length_b       4.923180170950974
+_cell_length_c       5.142526149749756
+_cell_angle_alpha    89.99050171132474
+_cell_angle_beta     90.00249552345402
+_cell_angle_gamma    89.89890204373341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2081795632839203  0.11441712081432343  0.038475338369607925  1.0000
+  Ho  Ho1       1.0  0.7078201174736023  0.11473094671964645  0.5378873944282532  1.0000
+  Ho  Ho2       1.0  0.20791588723659515  0.6148645877838135  0.538184404373169  1.0000
+  La  La1       1.0  0.7079110145568848  0.6145021915435791  0.037874676287174225  1.0000
+  C   C1        1.0  0.7081647515296936  0.6145947575569153  0.5371518731117249  1.0000

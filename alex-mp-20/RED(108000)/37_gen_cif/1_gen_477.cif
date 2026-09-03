@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Pr2Ge2
+_chemical_formula_sum              "Li2 Pr2 Ge2"
+_cell_length_a       4.5012931611152425
+_cell_length_b       4.501174266623892
+_cell_length_c       8.406876044873398
+_cell_angle_alpha    89.99961630403196
+_cell_angle_beta     89.99717823470696
+_cell_angle_gamma    119.99872225550396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.09952869544855208  0.5463773218034292  0.508679179849119  1.0000
+  Li  Li2       1.0  0.7663694907553597  0.8796936172854339  0.581129346687314  1.0000
+  Pr  Pr1       1.0  0.432835740267034  0.21298439121105103  0.2499137904522156  1.0000
+  Pr  Pr2       1.0  0.09978612575331547  0.5464015030797357  0.8704843766284972  1.0000
+  Ge  Ge1       1.0  0.4330561603411837  0.213034939512158  0.6260553551628065  1.0000
+  Ge  Ge2       1.0  0.7663414038029674  0.8796991948563325  0.0758205420520805  1.0000

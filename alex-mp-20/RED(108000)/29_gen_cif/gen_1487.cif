@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2GeCe3Rh2
+_chemical_formula_sum              "Ce5 Ge1 Rh2"
+_cell_length_a       4.245849310932662
+_cell_length_b       4.191664706133734
+_cell_length_c       10.734772682189941
+_cell_angle_alpha    89.97237438927834
+_cell_angle_beta     90.03183119110587
+_cell_angle_gamma    89.99933314590916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.053580328822135925  0.6542419195175171  0.08217503875494003  1.0000
+  Ce  Ce2       1.0  0.5545274019241333  0.6550326347351074  0.5906142592430115  1.0000
+  Ge  Ge1       1.0  0.05349813401699066  0.6557034254074097  0.7998382449150085  1.0000
+  Ce  Ce3       1.0  0.0553097203373909  0.15401612222194672  0.389492005109787  1.0000
+  Ce  Ce4       1.0  0.5546119213104248  0.15294629335403442  0.145101860165596  1.0000
+  Ce  Ce5       1.0  0.5540141463279724  0.1546562612056732  0.8682302236557007  1.0000
+  Rh  Rh1       1.0  0.05852198600769043  0.15592539310455322  0.6418905258178711  1.0000
+  Rh  Rh2       1.0  0.5551464557647705  0.6551559567451477  0.33854207396507263  1.0000

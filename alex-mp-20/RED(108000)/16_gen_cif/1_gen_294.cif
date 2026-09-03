@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiTi2AgPd2
+_chemical_formula_sum              "Li1 Ti2 Ag1 Pd2"
+_cell_length_a       2.9077230439428425
+_cell_length_b       4.5880889511474425
+_cell_length_c       7.406629700129942
+_cell_angle_alpha    107.71274446413109
+_cell_angle_beta     90.0182831754613
+_cell_angle_gamma    89.99237530961854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9764997541989691  0.01890602999210891  0.26354158576685527  1.0000
+  Ti  Ti1       1.0  0.9774330487621989  0.7012207255407554  0.6287508218188369  1.0000
+  Ti  Ti2       1.0  0.9753816048206041  0.33606800350829197  0.8990807074725773  1.0000
+  Ag  Ag1       1.0  0.47626943366547053  0.5188180568961249  0.2641734341202994  1.0000
+  Pd  Pd1       1.0  0.4770392056909151  0.17072612504191167  0.5671516374471678  1.0000
+  Pd  Pd2       1.0  0.4755731186409188  0.8662929972320749  0.9601952443880393  1.0000

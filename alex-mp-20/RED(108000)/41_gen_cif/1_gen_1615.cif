@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaAl3Rh
+_chemical_formula_sum              "Ca1 Al3 Rh1"
+_cell_length_a       4.22572927361623
+_cell_length_b       4.2215918068449945
+_cell_length_c       6.266723726994576
+_cell_angle_alpha    109.68144802502468
+_cell_angle_beta     109.70915282250236
+_cell_angle_gamma    89.98466942226067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7336264239039159  0.8565651771281299  0.48303958321407864  1.0000
+  Al  Al1       1.0  0.9934036205435189  0.6165264390831409  0.0021384969208008866  1.0000
+  Al  Al2       1.0  0.49399257313963935  0.1165217002202715  0.002580038688918179  1.0000
+  Al  Al3       1.0  0.339470025684185  0.46247489993183405  0.6945247220002356  1.0000
+  Rh  Rh1       1.0  0.11427167602908418  0.23707609506937252  0.24318530153547097  1.0000

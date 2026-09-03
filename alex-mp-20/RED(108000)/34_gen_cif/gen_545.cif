@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiCe2AlN
+_chemical_formula_sum              "Li1 Ce2 Al1 N1"
+_cell_length_a       4.837367058608758
+_cell_length_b       4.4406568649924845
+_cell_length_c       4.837090492248535
+_cell_angle_alpha    89.9586457117782
+_cell_angle_beta     90.00104752344312
+_cell_angle_gamma    89.97244952330973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7977809906005859  0.047107990831136703  0.32268351316452026  1.0000
+  Ce  Ce1       1.0  0.7978742718696594  0.547418475151062  0.8224218487739563  1.0000
+  Ce  Ce2       1.0  0.29802072048187256  0.5479345321655273  0.32254645228385925  1.0000
+  Al  Al1       1.0  0.2975976765155792  0.04785580188035966  0.8226698040962219  1.0000
+  N   N1        1.0  0.7972517013549805  0.5465040802955627  0.32296159863471985  1.0000

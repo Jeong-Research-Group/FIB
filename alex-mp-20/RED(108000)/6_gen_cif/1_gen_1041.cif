@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfZr2AlO
+_chemical_formula_sum              "Hf1 Zr2 Al1 O1"
+_cell_length_a       4.5604829294667395
+_cell_length_b       4.559887408769203
+_cell_length_c       4.23783324835284
+_cell_angle_alpha    89.98309000765165
+_cell_angle_beta     89.98581829829827
+_cell_angle_gamma    89.97992078965733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.40339466109301725  0.08215322696687584  0.07602459373486199  1.0000
+  Zr  Zr1       1.0  0.40335980212229766  0.582030099260096  0.5753659459710794  1.0000
+  Zr  Zr2       1.0  0.9030054227812231  0.08226788537876718  0.5751454574317664  1.0000
+  Al  Al1       1.0  0.9031613932919343  0.5822087629573375  0.07588897932278683  1.0000
+  O   O1        1.0  0.40289892390783155  0.08198433950860616  0.5764215129293156  1.0000

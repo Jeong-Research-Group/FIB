@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ir2MoRh
+_chemical_formula_sum              "Ir2 Mo1 Rh1"
+_cell_length_a       3.8762030765042996
+_cell_length_b       3.900397345869478
+_cell_length_c       3.9020447731018066
+_cell_angle_alpha    90.04100413044154
+_cell_angle_beta     89.9594653321523
+_cell_angle_gamma    89.94167269253491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.8473707437515259  0.4594477415084839  0.5638746619224548  1.0000
+  Ir  Ir2       1.0  0.847353994846344  0.959578812122345  0.06389761716127396  1.0000
+  Mo  Mo1       1.0  0.347530722618103  0.9595673680305481  0.5639164447784424  1.0000
+  Rh  Rh1       1.0  0.3475087881088257  0.4594537019729614  0.06406228244304657  1.0000

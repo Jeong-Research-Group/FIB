@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2In2Rh2
+_chemical_formula_sum              "Tl2 In2 Rh2"
+_cell_length_a       4.580669878695702
+_cell_length_b       4.580987175123637
+_cell_length_c       6.375624536050579
+_cell_angle_alpha    90.02688532608964
+_cell_angle_beta     90.00701369840338
+_cell_angle_gamma    90.00158085247404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8232982238473139  0.32788980779242116  0.9710128544971172  1.0000
+  Tl  Tl2       1.0  0.3233548431534332  0.8275364678866928  0.37522512398353286  1.0000
+  In  In1       1.0  0.8234300541053637  0.3275620543541596  0.4315365188859862  1.0000
+  In  In2       1.0  0.3232693265809475  0.8278289295755994  0.9143228233035815  1.0000
+  Rh  Rh1       1.0  0.3234582786854196  0.32761015332818816  0.6730989281178902  1.0000
+  Rh  Rh2       1.0  0.8231605424192008  0.8279677568391932  0.6730462708685029  1.0000

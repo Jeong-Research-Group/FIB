@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsSn2GaSn
+_chemical_formula_sum              "Cs1 Sn3 Ga1"
+_cell_length_a       5.273401335320649
+_cell_length_b       5.2841016347835605
+_cell_length_c       7.0936689376831055
+_cell_angle_alpha    111.89790837648412
+_cell_angle_beta     111.79661024184189
+_cell_angle_gamma    90.0086639554379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.5085646510124207  0.573448657989502  0.8338227272033691  1.0000
+  Sn  Sn1       1.0  0.8799486756324768  0.9456377625465393  0.5780460834503174  1.0000
+  Sn  Sn2       1.0  0.13623343408107758  0.2025575041770935  0.09088379889726639  1.0000
+  Ga  Ga1       1.0  0.2588138282299042  0.8237671256065369  0.3341814875602723  1.0000
+  Sn  Sn3       1.0  0.7577526569366455  0.323662132024765  0.33414456248283386  1.0000

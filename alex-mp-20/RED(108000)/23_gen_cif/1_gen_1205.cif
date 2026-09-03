@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2IrAu
+_chemical_formula_sum              "Zr2 Ir1 Au1"
+_cell_length_a       3.05912851292937
+_cell_length_b       3.0646348922605053
+_cell_length_c       8.07837275791706
+_cell_angle_alpha    90.02199074591142
+_cell_angle_beta     90.00248050744531
+_cell_angle_gamma    89.98260869034337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9343356530954322  0.4349285041018416  0.2983776247535304  1.0000
+  Zr  Zr2       1.0  0.933313214677685  0.43420296663313285  0.7617938762373007  1.0000
+  Ir  Ir1       1.0  0.4339594130496876  0.9343771940074157  0.5301145148560448  1.0000
+  Au  Au1       1.0  0.4334188847527996  0.9344189516879464  0.02996282903843352  1.0000

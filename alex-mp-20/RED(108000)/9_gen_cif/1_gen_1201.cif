@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2MgRu2
+_chemical_formula_sum              "Y2 Mg1 Ru2"
+_cell_length_a       3.343836705817221
+_cell_length_b       4.738539923901716
+_cell_length_c       7.486110358263336
+_cell_angle_alpha    108.45082117972316
+_cell_angle_beta     102.90875343828921
+_cell_angle_gamma    89.99902219231225
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.17848827509551707  0.28860989558562505  0.06753540040344377  1.0000
+  Y   Y2        1.0  0.983304568796247  0.5929128311236666  0.6765690255983163  1.0000
+  Mg  Mg1       1.0  0.32664347370791685  0.9363987690847768  0.36313271447068496  1.0000
+  Ru  Ru1       1.0  0.5139698818996462  0.12365476120781632  0.7386052666596824  1.0000
+  Ru  Ru2       1.0  0.6624772635497665  0.7723779914856375  0.0353220611080034  1.0000

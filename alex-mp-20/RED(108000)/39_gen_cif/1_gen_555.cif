@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuAgHPt2
+_chemical_formula_sum              "Cu1 Ag1 H1 Pt2"
+_cell_length_a       3.9658031213297393
+_cell_length_b       4.080683351010868
+_cell_length_c       3.967973603546173
+_cell_angle_alpha    89.95600781886228
+_cell_angle_beta     89.98984270229298
+_cell_angle_gamma    89.96284544986561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.023636149869262827  0.9200540150474912  0.9328221758094826  1.0000
+  Ag  Ag1       1.0  0.5234827878346462  0.9199190172534901  0.43259431937966963  1.0000
+  H   H1        1.0  0.023178487332902373  0.41999853854629526  0.9331905587132987  1.0000
+  Pt  Pt1       1.0  0.02347017534535035  0.4201464394940655  0.43313996946153016  1.0000
+  Pt  Pt2       1.0  0.523646528694758  0.4197933535270681  0.9332302003775598  1.0000

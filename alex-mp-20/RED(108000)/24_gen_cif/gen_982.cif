@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgPbHg2PbZn
+_chemical_formula_sum              "Hg3 Pb2 Zn1"
+_cell_length_a       3.5771795890872746
+_cell_length_b       5.487182942969047
+_cell_length_c       8.602745056152344
+_cell_angle_alpha    108.40584493496183
+_cell_angle_beta     89.914618305324
+_cell_angle_gamma    90.02657194073454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.1484028697013855  0.36198753118515015  0.2520771026611328  1.0000
+  Pb  Pb1       1.0  0.14883404970169067  0.9947484731674194  0.5188823342323303  1.0000
+  Hg  Hg2       1.0  0.6477735042572021  0.8120609521865845  0.15185944736003876  1.0000
+  Hg  Hg3       1.0  0.1488378793001175  0.6383838653564453  0.804989755153656  1.0000
+  Pb  Pb2       1.0  0.6480960845947266  0.188028022646904  0.9011281132698059  1.0000
+  Zn  Zn1       1.0  0.6486721634864807  0.4992489516735077  0.5272454619407654  1.0000

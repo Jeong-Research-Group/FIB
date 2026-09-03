@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca3SiIrN
+_chemical_formula_sum              "Ca3 Si1 Ir1 N1"
+_cell_length_a       4.474634754880902
+_cell_length_b       5.28321321439363
+_cell_length_c       5.8969088703941805
+_cell_angle_alpha    109.44272615786998
+_cell_angle_beta     90.00368318444394
+_cell_angle_gamma    90.00121299456028
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6537091713213075  0.5403826109928881  0.3106765096612965  1.0000
+  Ca  Ca2       1.0  0.1536719596164667  0.02723919090774186  0.2212064173614942  1.0000
+  Ca  Ca3       1.0  0.6537348661249462  0.16850266416021545  0.6931346632749708  1.0000
+  Si  Si1       1.0  0.1535855161473829  0.6471727140403335  0.7138293965942754  1.0000
+  Ir  Ir1       1.0  0.6535540418348033  0.7519685735412144  0.9016563776262579  1.0000
+  N   N1        1.0  0.6536772796357126  0.9843899753144034  0.27254240051527756  1.0000

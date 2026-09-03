@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2Ge2Pt2
+_chemical_formula_sum              "Na2 Ge2 Pt2"
+_cell_length_a       4.311324526612222
+_cell_length_b       4.311919583762653
+_cell_length_c       6.883777476614345
+_cell_angle_alpha    90.02089712027167
+_cell_angle_beta     90.00617621070514
+_cell_angle_gamma    89.94753320209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1919140327794961  0.41377936465114246  0.9610493956219304  1.0000
+  Na  Na2       1.0  0.6915277201995713  0.9134687041902065  0.25978099970040275  1.0000
+  Ge  Ge1       1.0  0.1915664258023797  0.4137088360408624  0.415205664629018  1.0000
+  Ge  Ge2       1.0  0.6915946518472286  0.9138208776126486  0.8056578686614141  1.0000
+  Pt  Pt1       1.0  0.6916304352585885  0.41366737063981024  0.6105135315302657  1.0000
+  Pt  Pt2       1.0  0.19161865191902577  0.9138256522224225  0.610249233768021  1.0000

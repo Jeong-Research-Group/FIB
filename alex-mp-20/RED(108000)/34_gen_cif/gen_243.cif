@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2AuFeAuPdFeAuFe
+_chemical_formula_sum              "Pd3 Au3 Fe3"
+_cell_length_a       3.9283208258992977
+_cell_length_b       6.196126694440628
+_cell_length_c       7.38093376159668
+_cell_angle_alpha    123.91331719888129
+_cell_angle_beta     105.40172979536503
+_cell_angle_gamma    90.03657184276929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.8583683967590332  0.5244584679603577  0.03472892567515373  1.0000
+  Pd  Pd2       1.0  0.5186241865158081  0.8527374863624573  0.35503649711608887  1.0000
+  Au  Au1       1.0  0.7390987873077393  0.968046545982361  0.7969440817832949  1.0000
+  Fe  Fe1       1.0  0.0683797299861908  0.6289152503013611  0.45528191328048717  1.0000
+  Au  Au2       1.0  0.2952929139137268  0.748913586139679  0.9100802540779115  1.0000
+  Pd  Pd3       1.0  0.9676357507705688  0.11113001406192781  0.25284138321876526  1.0000
+  Fe  Fe2       1.0  0.6199107766151428  0.4142683148384094  0.5575759410858154  1.0000
+  Au  Au3       1.0  0.1828235536813736  0.19866253435611725  0.6831170916557312  1.0000
+  Fe  Fe3       1.0  0.4168431758880615  0.3211494386196137  0.15153734385967257  1.0000

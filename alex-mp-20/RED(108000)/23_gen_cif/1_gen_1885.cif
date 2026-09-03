@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cd2AgPd
+_chemical_formula_sum              "Cd2 Ag1 Pd1"
+_cell_length_a       3.1118430674488633
+_cell_length_b       3.1118300405646924
+_cell_length_c       7.711441314411079
+_cell_angle_alpha    90.00467321070514
+_cell_angle_beta     89.99882843434975
+_cell_angle_gamma    89.99277986014815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5540150636414002  0.7814626945617348  0.20836781057163298  1.0000
+  Cd  Cd2       1.0  0.5540273567858172  0.7813885908077752  0.7330094696354479  1.0000
+  Ag  Ag1       1.0  0.05409357670614448  0.281342891946943  0.4707068117401313  1.0000
+  Pd  Pd1       1.0  0.0541235472171494  0.28128742861605593  0.9706581047933157  1.0000

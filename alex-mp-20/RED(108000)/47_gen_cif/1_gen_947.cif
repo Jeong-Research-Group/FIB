@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAs2Rh3
+_chemical_formula_sum              "Na1 As2 Rh3"
+_cell_length_a       3.959681297145002
+_cell_length_b       3.9580222826503975
+_cell_length_c       6.370027010844345
+_cell_angle_alpha    89.88677858984418
+_cell_angle_beta     89.94129151116984
+_cell_angle_gamma    90.00433193494605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.30472890866103775  0.46537237839853063  0.7385004370387345  1.0000
+  As  As1       1.0  0.30599122728737604  0.46793482344858234  0.14752232492425915  1.0000
+  As  As2       1.0  0.8049500676075666  0.965932813473039  0.6214362305558974  1.0000
+  Rh  Rh1       1.0  0.8048393677889595  0.9656431108385715  0.018692868861646943  1.0000
+  Rh  Rh2       1.0  0.30519887629459513  0.9668010214549073  0.3779357428544085  1.0000
+  Rh  Rh3       1.0  0.805399376728094  0.4663799362502377  0.37735067709701303  1.0000

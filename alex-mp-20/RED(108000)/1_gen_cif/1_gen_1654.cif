@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2CeCdCo
+_chemical_formula_sum              "La2 Ce1 Cd1 Co1"
+_cell_length_a       5.611105384084612
+_cell_length_b       5.610302881674963
+_cell_length_c       4.840975414007379
+_cell_angle_alpha    89.96429876034163
+_cell_angle_beta     89.98782732684101
+_cell_angle_gamma    89.99891555447707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5717698821797073  0.5557026040683962  0.5623656881938975  1.0000
+  La  La2       1.0  0.07211588632708346  0.056675510686936124  0.5623951557715816  1.0000
+  Ce  Ce1       1.0  0.572321355283328  0.05515806760951013  0.06304553061154483  1.0000
+  Cd  Cd1       1.0  0.07196357759291092  0.5562503531516606  0.06216717117368042  1.0000
+  Co  Co1       1.0  0.572049015746378  0.05570952456032989  0.5621168960480795  1.0000

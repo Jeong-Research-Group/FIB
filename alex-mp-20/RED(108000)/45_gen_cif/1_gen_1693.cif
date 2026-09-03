@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaMg2Cd2InHg2
+_chemical_formula_sum              "Na1 Mg2 Cd2 In1 Hg2"
+_cell_length_a       3.58006437343724
+_cell_length_b       7.755193317201668
+_cell_length_c       7.739112652855658
+_cell_angle_alpha    73.63877921078881
+_cell_angle_beta     76.67406613926664
+_cell_angle_gamma    76.65791414455421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5497400391800767  0.3467726039873061  0.6616738368401861  1.0000
+  Mg  Mg1       1.0  0.9092206246120321  0.7828327833256448  0.5067780257950316  1.0000
+  Mg  Mg2       1.0  0.19003849673024284  0.9107216551469486  0.8175171972610575  1.0000
+  Cd  Cd1       1.0  0.1852522455984065  0.49161583303496076  0.24667305540996107  1.0000
+  Cd  Cd2       1.0  0.914995385757108  0.20063820600037008  0.07622376165191985  1.0000
+  In  In1       1.0  0.5497478515389006  0.8459392625821324  0.16238229266371595  1.0000
+  Hg  Hg1       1.0  0.8257321053107787  0.5815859811742965  0.8753573145114953  1.0000
+  Hg  Hg2       1.0  0.27352546763564645  0.11154714719676916  0.44847762930044305  1.0000

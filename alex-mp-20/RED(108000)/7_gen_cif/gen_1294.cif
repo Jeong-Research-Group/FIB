@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2PGeP
+_chemical_formula_sum              "Sr2 P2 Ge1"
+_cell_length_a       3.9950616642358647
+_cell_length_b       4.246508599554361
+_cell_length_c       7.323947429656982
+_cell_angle_alpha    89.9986228063094
+_cell_angle_beta     74.49643450515589
+_cell_angle_gamma    90.00718786328274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8954713940620421  0.08733906596899033  0.4450220763683319  1.0000
+  Sr  Sr2       1.0  0.1556854099035263  0.08680889755487442  0.9223167300224304  1.0000
+  P   P1        1.0  0.7221569418907164  0.5861451029777526  0.7897528409957886  1.0000
+  Ge  Ge1       1.0  0.525449275970459  0.5869860053062439  0.18272602558135986  1.0000
+  P   P2        1.0  0.32972580194473267  0.5885517597198486  0.5779129862785339  1.0000

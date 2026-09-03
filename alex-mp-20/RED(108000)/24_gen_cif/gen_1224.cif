@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgPd2Pb
+_chemical_formula_sum              "Mg1 Pd2 Pb1"
+_cell_length_a       4.709862988634854
+_cell_length_b       4.70850021747796
+_cell_length_c       4.709966659545898
+_cell_angle_alpha    60.01594371288166
+_cell_angle_beta     59.94598690215125
+_cell_angle_gamma    60.03035589530961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.4701855182647705  0.15484052896499634  0.18703368306159973  1.0000
+  Pd  Pd1       1.0  0.719860315322876  0.40432667732238764  0.4366682469844819  1.0000
+  Pd  Pd2       1.0  0.2202333062887192  0.9052734375  0.9377326965332031  1.0000
+  Pb  Pb1       1.0  0.969788908958435  0.6546919345855712  0.6867418289184571  1.0000

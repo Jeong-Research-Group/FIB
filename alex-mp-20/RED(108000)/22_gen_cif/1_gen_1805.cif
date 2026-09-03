@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm3MgCu2
+_chemical_formula_sum              "Sm3 Mg1 Cu2"
+_cell_length_a       3.590540130683205
+_cell_length_b       3.5906052344153263
+_cell_length_c       11.26496541289802
+_cell_angle_alpha    90.0006457864375
+_cell_angle_beta     89.99959531019375
+_cell_angle_gamma    90.0078005236463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.09563941739903124  0.1537445354712731  0.24061598469958562  1.0000
+  Sm  Sm2       1.0  0.09540509849672772  0.15358600650480067  0.5481353658529656  1.0000
+  Sm  Sm3       1.0  0.09561287506972162  0.15383478604222361  0.9330078258864888  1.0000
+  Mg  Mg1       1.0  0.5954500976828332  0.6536607682538664  0.7406189086989956  1.0000
+  Cu  Cu1       1.0  0.5955114587829797  0.6536348900786061  0.3967769322658588  1.0000
+  Cu  Cu2       1.0  0.5956727131611703  0.6538523174510852  0.08437550512037922  1.0000

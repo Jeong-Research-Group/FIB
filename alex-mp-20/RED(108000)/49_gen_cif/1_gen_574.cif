@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2SiNi3
+_chemical_formula_sum              "Hf2 Si1 Ni3"
+_cell_length_a       4.877935504829353
+_cell_length_b       4.878074048075673
+_cell_length_c       4.877799492885523
+_cell_angle_alpha    60.81609947996872
+_cell_angle_beta     60.8156851533102
+_cell_angle_gamma    60.813701561089935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.334758541888913  0.2685217588514597  0.9760533843838  1.0000
+  Hf  Hf2       1.0  0.5855887669770138  0.519444572916337  0.22677275209860095  1.0000
+  Si  Si1       1.0  0.9601751232577573  0.8940292407495788  0.6014612518616627  1.0000
+  Ni  Ni1       1.0  0.9601958490385547  0.8938839383585224  0.10146205034406877  1.0000
+  Ni  Ni2       1.0  0.4602150415705002  0.893949037354577  0.6014281929807879  1.0000
+  Ni  Ni3       1.0  0.9601108212439042  0.39396345776630926  0.601472639926683  1.0000

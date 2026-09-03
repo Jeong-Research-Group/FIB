@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeNi2HPb
+_chemical_formula_sum              "Fe1 Ni2 H1 Pb1"
+_cell_length_a       3.9041960571386585
+_cell_length_b       3.8254082577252055
+_cell_length_c       3.8247654866814247
+_cell_angle_alpha    90.00039614121091
+_cell_angle_beta     90.00032600449622
+_cell_angle_gamma    89.99959638742517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3880605055651983  0.239581609786813  0.7448843845940757  1.0000
+  Ni  Ni1       1.0  0.8882929701115259  0.23907401068842069  0.24475453643643466  1.0000
+  Ni  Ni2       1.0  0.8881752662918388  0.738803979870022  0.7451350388067841  1.0000
+  H   H1        1.0  0.888625930072599  0.23900077232647593  0.7439896433328941  1.0000
+  Pb  Pb1       1.0  0.38833153963350264  0.7392059857223073  0.2448924249392176  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaLi2Mg2P3
+_chemical_formula_sum              "Na1 Li2 Mg2 P3"
+_cell_length_a       4.285269332254608
+_cell_length_b       4.284933069739673
+_cell_length_c       9.590482414558098
+_cell_angle_alpha    90.00097578038034
+_cell_angle_beta     89.99719547843318
+_cell_angle_gamma    119.99846433210317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5502580623457594  0.07642749200947979  0.5424301641092871  1.0000
+  Li  Li1       1.0  0.8839294527310364  0.7428577286036452  0.7305158582174334  1.0000
+  Li  Li2       1.0  0.5505439045006725  0.07604081260964246  0.8793980196983313  1.0000
+  Mg  Mg1       1.0  0.8837154364491531  0.7428280487910301  0.09497315563332151  1.0000
+  Mg  Mg2       1.0  0.21701169912670915  0.40957370335513643  0.316517853902542  1.0000
+  P   P1        1.0  0.21713298876565587  0.40948882141093407  0.005877068756027238  1.0000
+  P   P2        1.0  0.8836440576310762  0.742826198379354  0.36741515916546247  1.0000
+  P   P3        1.0  0.21731102770875407  0.40952879824135124  0.7663470619632985  1.0000

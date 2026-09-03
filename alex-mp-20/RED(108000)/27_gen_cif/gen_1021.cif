@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zn2SiZnSiZnCu
+_chemical_formula_sum              "Zn4 Si2 Cu1"
+_cell_length_a       4.199519935492731
+_cell_length_b       4.201053924028036
+_cell_length_c       6.200868129730225
+_cell_angle_alpha    89.95565408234218
+_cell_angle_beta     89.93520449410455
+_cell_angle_gamma    89.97290031534864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9039297103881836  0.19584622979164124  0.40808987617492676  1.0000
+  Zn  Zn2       1.0  0.9033075571060181  0.19532398879528046  0.9328093528747559  1.0000
+  Si  Si1       1.0  0.4030848741531372  0.19550621509552002  0.6704503893852234  1.0000
+  Zn  Zn3       1.0  0.4030981957912445  0.6954189538955688  0.4082252085208893  1.0000
+  Si  Si2       1.0  0.9036866426467896  0.6953967809677124  0.17041446268558502  1.0000
+  Zn  Zn4       1.0  0.40389737486839294  0.6957114338874817  0.9325425624847412  1.0000
+  Cu  Cu1       1.0  0.9035074710845947  0.6957457065582275  0.6709820032119752  1.0000

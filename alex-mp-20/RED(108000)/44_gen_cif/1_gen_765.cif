@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2NiMo
+_chemical_formula_sum              "Fe2 Ni1 Mo1"
+_cell_length_a       3.636053536292933
+_cell_length_b       3.633382942251293
+_cell_length_c       4.508329923318338
+_cell_angle_alpha    113.75796398778712
+_cell_angle_beta     113.76524245033409
+_cell_angle_gamma    89.9938932790455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5919386688432826  0.11723004773451164  0.14675868744535717  1.0000
+  Fe  Fe2       1.0  0.0916941247271988  0.6176834025432171  0.14886919937865423  1.0000
+  Ni  Ni1       1.0  0.34165996425132256  0.36714007131721516  0.6480878134737051  1.0000
+  Mo  Mo1       1.0  0.8416478885269786  0.8670413945356685  0.6477789190488746  1.0000

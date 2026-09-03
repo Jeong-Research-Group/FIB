@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbNi2B2Pd
+_chemical_formula_sum              "Nb1 Ni2 B2 Pd1"
+_cell_length_a       3.231063654180152
+_cell_length_b       3.232022656744592
+_cell_length_c       7.785409527894602
+_cell_angle_alpha    90.0138554152669
+_cell_angle_beta     90.00365517054816
+_cell_angle_gamma    119.99460307939071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.14547624860765776  0.6081739351866974  0.8230097397656648  1.0000
+  Ni  Ni1       1.0  0.8123046872577371  0.9417444858147442  0.09051549439357516  1.0000
+  Ni  Ni2       1.0  0.47867050960230695  0.27461498236399856  0.5557761765300773  1.0000
+  B   B1        1.0  0.8119777904175659  0.9412493151285257  0.6282914251449427  1.0000
+  B   B2        1.0  0.47899392090757215  0.2751044866299419  0.016787301633358724  1.0000
+  Pd  Pd1       1.0  0.14550695917416961  0.6081404981884106  0.32359628497499354  1.0000

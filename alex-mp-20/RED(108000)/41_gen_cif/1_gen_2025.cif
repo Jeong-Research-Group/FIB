@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4GaBiTe2
+_chemical_formula_sum              "Tb4 Ga1 Bi1 Te2"
+_cell_length_a       4.343043971869163
+_cell_length_b       7.665460072782037
+_cell_length_c       7.565371357915781
+_cell_angle_alpha    109.21350605672161
+_cell_angle_beta     89.99787079023514
+_cell_angle_gamma    89.99793367534821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.81590479109382  0.941945318525522  0.10098229701098314  1.0000
+  Tb  Tb2       1.0  0.3158462098286342  0.41270058121230085  0.09548532497757199  1.0000
+  Tb  Tb3       1.0  0.3157669767036864  0.9357881139582898  0.5711806886448662  1.0000
+  Tb  Tb4       1.0  0.815610593383355  0.40667338737382214  0.5658418986667522  1.0000
+  Ga  Ga1       1.0  0.31575952658626627  0.1741818335739539  0.33326758396868733  1.0000
+  Bi  Bi1       1.0  0.815823724094213  0.6742421594683995  0.33339439316671543  1.0000
+  Te  Te1       1.0  0.8157423175724078  0.1741953633864461  0.8333728227001322  1.0000
+  Te  Te2       1.0  0.31568902674125765  0.6742264292470445  0.833460076953294  1.0000

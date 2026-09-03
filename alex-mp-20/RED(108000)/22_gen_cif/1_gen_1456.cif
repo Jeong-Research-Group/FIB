@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaLi4Hg3
+_chemical_formula_sum              "Na1 Li4 Hg3"
+_cell_length_a       4.808553044565868
+_cell_length_b       4.808913589052798
+_cell_length_c       6.853740236147449
+_cell_angle_alpha    90.00238674434755
+_cell_angle_beta     90.00579551544347
+_cell_angle_gamma    90.00656585481843
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5232154968469632  0.7552617818819104  0.7308860148977238  1.0000
+  Li  Li1       1.0  0.5228910272988082  0.25533447037922  0.461348619095923  1.0000
+  Li  Li2       1.0  0.02320708635473766  0.7551706297734182  0.0007456825418676472  1.0000
+  Li  Li3       1.0  0.02308217401260945  0.7551033193843479  0.46118871560253033  1.0000
+  Li  Li4       1.0  0.5229232152236328  0.2552450915080435  0.0005709336442794463  1.0000
+  Hg  Hg1       1.0  0.023055066163014545  0.2551696759977453  0.7309280060629618  1.0000
+  Hg  Hg2       1.0  0.5231569116155842  0.755252958597604  0.230757654040753  1.0000
+  Hg  Hg3       1.0  0.0228979635147188  0.2550990144640108  0.23080701478393273  1.0000

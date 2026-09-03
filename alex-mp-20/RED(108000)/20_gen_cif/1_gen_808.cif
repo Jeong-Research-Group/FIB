@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Co2Pb2
+_chemical_formula_sum              "Sm2 Co2 Pb2"
+_cell_length_a       4.548425489130827
+_cell_length_b       4.546590778579896
+_cell_length_c       6.844494050204538
+_cell_angle_alpha    90.00074051358955
+_cell_angle_beta     89.98724433282882
+_cell_angle_gamma    90.00366732770524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.02781897509858063  0.6288268965539315  0.33554359471407363  1.0000
+  Sm  Sm2       1.0  0.5277229391989926  0.12882013653648494  0.8982447756036006  1.0000
+  Co  Co1       1.0  0.5277738498446405  0.6288230612431748  0.6168262477517864  1.0000
+  Co  Co2       1.0  0.02778252812503442  0.1287457307444403  0.6167653060755885  1.0000
+  Pb  Pb1       1.0  0.5279726110566746  0.12889127397421918  0.3959478088137673  1.0000
+  Pb  Pb2       1.0  0.027608949938512237  0.6285372400653844  0.8377163184344746  1.0000

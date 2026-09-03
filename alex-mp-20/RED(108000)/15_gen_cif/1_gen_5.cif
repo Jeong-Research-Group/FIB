@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2AlPt4Au
+_chemical_formula_sum              "Mg2 Al1 Pt4 Au1"
+_cell_length_a       4.104786428116022
+_cell_length_b       4.10488892416797
+_cell_length_c       7.491247644880232
+_cell_angle_alpha    89.99999646872864
+_cell_angle_beta     89.99654428794
+_cell_angle_gamma    89.99999275264754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7852393826758761  0.12142349077589135  0.04901845902209143  1.0000
+  Mg  Mg2       1.0  0.28517611669245085  0.6212271524002887  0.5490666265708699  1.0000
+  Al  Al1       1.0  0.28520955422358263  0.6214180987511687  0.04902504109434018  1.0000
+  Pt  Pt1       1.0  0.2852600726653076  0.12141918640649926  0.8213443429095796  1.0000
+  Pt  Pt2       1.0  0.2850778158207804  0.1213791976539483  0.27667077384642036  1.0000
+  Pt  Pt3       1.0  0.785056532417614  0.6213601658742823  0.2765992201543993  1.0000
+  Pt  Pt4       1.0  0.7854143382158656  0.6213546512368238  0.8214115394281936  1.0000
+  Au  Au1       1.0  0.7851836191915592  0.12124629852206431  0.5489886758341433  1.0000

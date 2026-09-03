@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2Mn2S4
+_chemical_formula_sum              "Mg2 Mn2 S4"
+_cell_length_a       5.636028019571533
+_cell_length_b       5.639041526339732
+_cell_length_c       5.710888097805603
+_cell_angle_alpha    89.93899869358629
+_cell_angle_beta     89.85323621221434
+_cell_angle_gamma    89.96456416408421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.47043993307135956  0.8343088745781769  0.4754024566184145  1.0000
+  Mg  Mg2       1.0  0.9686628688599634  0.33322727044494344  0.47470975884105754  1.0000
+  Mn  Mn1       1.0  0.9704367206527331  0.8345000372653677  0.974224680203047  1.0000
+  Mn  Mn2       1.0  0.4688152836755283  0.3347409850434277  0.9751332954260765  1.0000
+  S   S1        1.0  0.7191948651173237  0.5840162052212614  0.21941053442274217  1.0000
+  S   S2        1.0  0.21912699220804974  0.08275633168334427  0.21967835873554006  1.0000
+  S   S3        1.0  0.7195402800259756  0.08312139732881106  0.7305104538473073  1.0000
+  S   S4        1.0  0.21901692633790212  0.5831630126500166  0.7289895826201114  1.0000

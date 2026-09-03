@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InCe2InCe2Ir2
+_chemical_formula_sum              "In2 Ce4 Ir2"
+_cell_length_a       3.7823582061798047
+_cell_length_b       5.727486311906641
+_cell_length_c       9.353602409362793
+_cell_angle_alpha    89.68774676683014
+_cell_angle_beta     90.00797333525213
+_cell_angle_gamma    109.29962355892636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.09305476397275923  0.08183776587247849  0.20712414383888245  1.0000
+  Ce  Ce1       1.0  0.6407195329666137  0.17368678748607635  0.5129323601722717  1.0000
+  Ce  Ce2       1.0  0.6383228302001952  0.17132575809955597  0.9028288722038269  1.0000
+  In  In2       1.0  0.9335279464721679  0.763479471206665  0.7085788249969482  1.0000
+  Ce  Ce3       1.0  0.3876384794712066  0.6720969676971436  0.4027249217033386  1.0000
+  Ce  Ce4       1.0  0.3880251049995422  0.6718728542327881  0.012668212875723837  1.0000
+  Ir  Ir1       1.0  0.7974470853805541  0.49177661538124084  0.20872172713279724  1.0000
+  Ir  Ir2       1.0  0.22945547103881833  0.3540840148925781  0.7071613669395447  1.0000

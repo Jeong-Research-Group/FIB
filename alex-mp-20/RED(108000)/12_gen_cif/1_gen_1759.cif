@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnHPd2Pt
+_chemical_formula_sum              "Sn1 H1 Pd2 Pt1"
+_cell_length_a       3.9861556643991753
+_cell_length_b       4.174220591678005
+_cell_length_c       4.177275958166202
+_cell_angle_alpha    89.95664391062974
+_cell_angle_beta     89.96804938618241
+_cell_angle_gamma    89.95139862195622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.837214666819717  0.28643010433474475  0.10566746062898669  1.0000
+  H   H1        1.0  0.3376576526131494  0.7867503728910961  0.6059265196145335  1.0000
+  Pd  Pd1       1.0  0.3373360230032202  0.2867324754435018  0.6067292169108472  1.0000
+  Pd  Pd2       1.0  0.33724301686460306  0.7868139904248438  0.1058160104398003  1.0000
+  Pt  Pt1       1.0  0.8375297843331764  0.7866466291925287  0.6056700577570395  1.0000

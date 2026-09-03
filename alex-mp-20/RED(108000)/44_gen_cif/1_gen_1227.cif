@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2InCoSe4
+_chemical_formula_sum              "Ca2 In1 Co1 Se4"
+_cell_length_a       4.000171662173252
+_cell_length_b       7.14734157841924
+_cell_length_c       7.14725424180011
+_cell_angle_alpha    110.0162397920766
+_cell_angle_beta     89.99992301076132
+_cell_angle_gamma    90.00003991089427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.581785940832903  0.41236895941411505  0.5651689839448072  1.0000
+  Ca  Ca2       1.0  0.5817707837132186  0.9123491599619153  0.06520054676859259  1.0000
+  In  In1       1.0  0.0817876733259381  0.41229256251950763  0.06512220122021657  1.0000
+  Co  Co1       1.0  0.08176355486449763  0.9123019757121132  0.5650908718983472  1.0000
+  Se  Se1       1.0  0.5817638152436304  0.7036802106282115  0.3565187680833732  1.0000
+  Se  Se2       1.0  0.08178312815581101  0.6713796287238086  0.8061408663694619  1.0000
+  Se  Se3       1.0  0.5817638136680373  0.12083028145186359  0.7736687217285303  1.0000
+  Se  Se4       1.0  0.0817734455020672  0.1532634672132344  0.32428308492543334  1.0000

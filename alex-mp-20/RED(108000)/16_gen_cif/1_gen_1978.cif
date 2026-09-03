@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2HoGaC
+_chemical_formula_sum              "Dy2 Ho1 Ga1 C1"
+_cell_length_a       4.829741028194215
+_cell_length_b       4.856313335469743
+_cell_length_c       4.856477662299227
+_cell_angle_alpha    89.99032244043336
+_cell_angle_beta     89.99468677123522
+_cell_angle_gamma    89.99789049681763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.17833045027043082  0.06015057029238881  0.35395610327127  1.0000
+  Dy  Dy2       1.0  0.17828593900771247  0.5600785710236206  0.8539132135667614  1.0000
+  Ho  Ho1       1.0  0.6782233157810927  0.5601821825602759  0.3537767005389955  1.0000
+  Ga  Ga1       1.0  0.6784177596535095  0.0602797722037416  0.8537972045076218  1.0000
+  C   C1        1.0  0.17828935224939316  0.560183913543835  0.354020138188193  1.0000

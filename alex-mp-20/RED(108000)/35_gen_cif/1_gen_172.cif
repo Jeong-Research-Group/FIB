@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaFeNiSe2
+_chemical_formula_sum              "Na1 Fe1 Ni1 Se2"
+_cell_length_a       3.7358749100052075
+_cell_length_b       3.7370574071789817
+_cell_length_c       7.258296303642079
+_cell_angle_alpha    104.86427192316239
+_cell_angle_beta     104.86855076777563
+_cell_angle_gamma    90.00218987622686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4684870229901671  0.5890417529531268  0.6328987452746418  1.0000
+  Fe  Fe1       1.0  0.7179895198721774  0.3386443607180714  0.13179465388518177  1.0000
+  Ni  Ni1       1.0  0.21770707257256883  0.8390283595817262  0.13157520755209864  1.0000
+  Se  Se1       1.0  0.8320512304974108  0.9528904057002386  0.361102326668505  1.0000
+  Se  Se2       1.0  0.10339564858813019  0.22470904979011327  0.9021096845051806  1.0000

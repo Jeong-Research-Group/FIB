@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2ErFe2Sm
+_chemical_formula_sum              "Fe4 Er1 Sm1"
+_cell_length_a       5.120546687676345
+_cell_length_b       5.125361196333112
+_cell_length_c       5.120628833770752
+_cell_angle_alpha    60.0892047409862
+_cell_angle_beta     60.07189574713058
+_cell_angle_gamma    60.0670963018333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6072825789451599  0.4444840550422668  0.25289157032966614  1.0000
+  Fe  Fe2       1.0  0.6067690253257751  0.4448544979095459  0.7545159459114075  1.0000
+  Er  Er1       1.0  0.23308369517326355  0.06934768706560135  0.8785622119903564  1.0000
+  Fe  Fe3       1.0  0.10903927683830263  0.44446879625320435  0.25275835394859314  1.0000
+  Fe  Fe4       1.0  0.606994926929474  0.9461160302162169  0.25288715958595265  1.0000
+  Sm  Sm1       1.0  0.9825435876846313  0.8198701739311218  0.6283841133117676  1.0000

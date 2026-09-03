@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pb2Hg3Pb3
+_chemical_formula_sum              "Pb5 Hg3"
+_cell_length_a       3.49794320801263
+_cell_length_b       5.16718868156583
+_cell_length_c       13.116059303283691
+_cell_angle_alpha    89.9109846405864
+_cell_angle_beta     89.79469385447675
+_cell_angle_gamma    89.97081710446685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.29004889726638794  0.6791286468505859  0.6284986138343811  1.0000
+  Pb  Pb2       1.0  0.7874800562858582  0.18062318861484528  0.5109653472900391  1.0000
+  Hg  Hg1       1.0  0.7885687351226807  0.6811219453811646  0.36615777015686035  1.0000
+  Hg  Hg2       1.0  0.28974467515945435  0.6792899370193481  0.8751378655433655  1.0000
+  Hg  Hg3       1.0  0.28913289308547974  0.18031896650791168  0.010285493917763233  1.0000
+  Pb  Pb3       1.0  0.28908318281173706  0.1803233027458191  0.2586768865585327  1.0000
+  Pb  Pb4       1.0  0.7900322079658508  0.6808780431747437  0.11305078864097595  1.0000
+  Pb  Pb5       1.0  0.7862775921821594  0.17964012920856476  0.7737542390823364  1.0000

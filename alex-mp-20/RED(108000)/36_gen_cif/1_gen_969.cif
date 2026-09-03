@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2GaTe3
+_chemical_formula_sum              "Mg2 Ga1 Te3"
+_cell_length_a       4.231216537904181
+_cell_length_b       4.231012235774426
+_cell_length_c       10.340101176093315
+_cell_angle_alpha    89.99358947607911
+_cell_angle_beta     90.02193294003354
+_cell_angle_gamma    120.00758543812918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.03610281439306616  0.3485054232677404  0.05410741006732156  1.0000
+  Mg  Mg2       1.0  0.7032690616993625  0.6819815892988493  0.3894731263885147  1.0000
+  Ga  Ga1       1.0  0.36944726279379286  0.015659132690576286  0.7216337973164663  1.0000
+  Te  Te1       1.0  0.03685501488770318  0.34828829386465493  0.5523495749618119  1.0000
+  Te  Te2       1.0  0.7025791123205153  0.682267095312192  0.8915962468966301  1.0000
+  Te  Te3       1.0  0.3702008016218023  0.015544306737032502  0.22160401812102518  1.0000

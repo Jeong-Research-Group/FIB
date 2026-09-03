@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb3Al3Ga
+_chemical_formula_sum              "Tb3 Al3 Ga1"
+_cell_length_a       4.171010379375053
+_cell_length_b       4.28361011673688
+_cell_length_c       9.387923918436265
+_cell_angle_alpha    90.00003512363666
+_cell_angle_beta     89.99286722539902
+_cell_angle_gamma    89.99980950206198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.012787572026584409  0.14583469269913382  0.4973388472059314  1.0000
+  Tb  Tb2       1.0  0.5131144516576086  0.14516518411028403  0.1310707605522229  1.0000
+  Tb  Tb3       1.0  0.5132191766996994  0.6457653263289936  0.7476681062830943  1.0000
+  Al  Al1       1.0  0.013137023329562403  0.6460124445147032  0.9937834448455835  1.0000
+  Al  Al2       1.0  0.5132561468978933  0.6458672793282854  0.4094892227695217  1.0000
+  Al  Al3       1.0  0.012730968740042111  0.14597213224259362  0.8393031614984701  1.0000
+  Ga  Ga1       1.0  0.013223504333160652  0.6460511640690145  0.2560184812293142  1.0000

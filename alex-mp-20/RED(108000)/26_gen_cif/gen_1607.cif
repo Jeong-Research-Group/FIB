@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgSnHgCsHgSn2
+_chemical_formula_sum              "Hg3 Sn3 Cs1"
+_cell_length_a       4.994379558715176
+_cell_length_b       5.704815969540019
+_cell_length_c       8.521450996398926
+_cell_angle_alpha    109.7949754421629
+_cell_angle_beta     90.1350148643886
+_cell_angle_gamma    90.04588771331886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3007561266422272  0.36878934502601624  0.7733640670776366  1.0000
+  Sn  Sn1       1.0  0.29853519797325134  0.1540156900882721  0.3285861015319824  1.0000
+  Hg  Hg2       1.0  0.2979286313056946  0.561897873878479  0.14531596004962918  1.0000
+  Cs  Cs1       1.0  0.7991166710853577  0.9651703834533691  0.9526544213294983  1.0000
+  Hg  Hg3       1.0  0.29987451434135437  0.7860873341560364  0.6004692912101746  1.0000
+  Sn  Sn2       1.0  0.7994282841682434  0.6741656064987183  0.3711783289909363  1.0000
+  Sn  Sn3       1.0  0.798933207988739  0.2612612843513489  0.5411927700042725  1.0000

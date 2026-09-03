@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2SnGeSe
+_chemical_formula_sum              "Lu2 Sn1 Ge1 Se1"
+_cell_length_a       4.001746210140827
+_cell_length_b       4.000832718949179
+_cell_length_c       9.164927512975995
+_cell_angle_alpha    77.18984754948455
+_cell_angle_beta     77.20881661906947
+_cell_angle_gamma    59.87572984821394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.3221409169529507  0.48321818233903047  0.5471920696710662  1.0000
+  Lu  Lu2       1.0  0.5312549135352059  0.6918995901913922  0.915936391343668  1.0000
+  Sn  Sn1       1.0  0.7407443866226397  0.9017493060774686  0.29107787736381024  1.0000
+  Ge  Ge1       1.0  0.13209608332723313  0.29273404368224115  0.11463956985048683  1.0000
+  Se  Se1       1.0  0.9286179696184411  0.08948044062999451  0.7261594036623561  1.0000

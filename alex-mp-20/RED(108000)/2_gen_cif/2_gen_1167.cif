@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2CaTlO
+_chemical_formula_sum              "Ba2 Ca1 Tl1 O1"
+_cell_length_a       5.842928243233887
+_cell_length_b       4.610107183388568
+_cell_length_c       5.842020862288419
+_cell_angle_alpha    89.99837765289156
+_cell_angle_beta     89.99714619347358
+_cell_angle_gamma    89.99917751039666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.4419843037666797  0.02618886591965569  0.2516631522640099  1.0000
+  Ba  Ba2       1.0  0.9424356229585475  0.0270061040183665  0.7514087667883048  1.0000
+  Ca  Ca1       1.0  0.9418400997626937  0.5265376312954341  0.2514902495614967  1.0000
+  Tl  Tl1       1.0  0.44198946136180695  0.5266587587102912  0.7514378197893522  1.0000
+  O   O1        1.0  0.9424527820169187  0.026425246362851533  0.25222151868704384  1.0000

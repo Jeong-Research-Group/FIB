@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2BIr3C
+_chemical_formula_sum              "Ca2 B1 Ir3 C1"
+_cell_length_a       3.5100181390535483
+_cell_length_b       5.545049790242503
+_cell_length_c       6.533220277322921
+_cell_angle_alpha    89.48389135689233
+_cell_angle_beta     89.98695126858001
+_cell_angle_gamma    71.57660005942299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6491876134980452  0.8305036220008943  0.1578161775972099  1.0000
+  Ca  Ca2       1.0  0.04255607549481829  0.04253184813606799  0.6581933304047735  1.0000
+  B   B1        1.0  0.7886631309571626  0.5535550055107835  0.6654011264778722  1.0000
+  Ir  Ir1       1.0  0.3247059911491634  0.48177820398616766  0.8617329358926339  1.0000
+  Ir  Ir2       1.0  0.9294214423720893  0.270869222142186  0.1680954641584946  1.0000
+  Ir  Ir3       1.0  0.3217164668040935  0.4863877881143911  0.46625222648398695  1.0000
+  C   C1        1.0  0.34385281659803696  0.44220194842023347  0.1642313878198866  1.0000

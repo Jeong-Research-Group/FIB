@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca3Ni2P2H
+_chemical_formula_sum              "Ca3 Ni2 P2 H1"
+_cell_length_a       5.6871768191579415
+_cell_length_b       5.532252482967716
+_cell_length_c       5.540638125742054
+_cell_angle_alpha    57.002428031296304
+_cell_angle_beta     80.86915518024118
+_cell_angle_gamma    80.8430904322879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.47491653855896293  0.20680451026221003  0.42038075705648487  1.0000
+  Ca  Ca2       1.0  0.8900062538586957  0.6509364455443485  0.8585174607959459  1.0000
+  Ca  Ca3       1.0  0.18243181720363866  0.9290488029075797  0.13929255791087997  1.0000
+  Ni  Ni1       1.0  0.9565135097390973  0.33776072723797695  0.5520263011594294  1.0000
+  Ni  Ni2       1.0  0.4083777146885515  0.5200645691498326  0.7267804564971168  1.0000
+  P   P1        1.0  0.6829668683919705  0.7101805100246653  0.3566681538571863  1.0000
+  P   P2        1.0  0.6819295330162901  0.1475561216230116  0.9222420006742411  1.0000
+  H   H1        1.0  0.18247222658887471  0.4306167558375345  0.6376156845163796  1.0000

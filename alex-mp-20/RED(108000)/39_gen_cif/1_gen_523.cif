@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KNaMg2Bi2
+_chemical_formula_sum              "K1 Na1 Mg2 Bi2"
+_cell_length_a       5.204922606402193
+_cell_length_b       5.20520536041048
+_cell_length_c       8.266273410489736
+_cell_angle_alpha    90.00128391635876
+_cell_angle_beta     90.0024993403919
+_cell_angle_gamma    120.00157270500557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.21882761624726757  0.534436336874462  0.5940320551549082  1.0000
+  Na  Na1       1.0  0.2182052401873893  0.5343617757838262  0.09397124412605469  1.0000
+  Mg  Mg1       1.0  0.5515623590516434  0.2009827367426288  0.9319686394050811  1.0000
+  Mg  Mg2       1.0  0.8849062807618727  0.8677055121853284  0.2561134257798282  1.0000
+  Bi  Bi1       1.0  0.5516497486476472  0.20107584309677848  0.3105373270841835  1.0000
+  Bi  Bi2       1.0  0.8848346450799665  0.867633894206763  0.8774100496661439  1.0000

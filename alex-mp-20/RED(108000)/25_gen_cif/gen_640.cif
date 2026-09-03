@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cr2HIrV
+_chemical_formula_sum              "Cr2 H1 Ir1 V1"
+_cell_length_a       3.8080028169622606
+_cell_length_b       3.730149295377341
+_cell_length_c       3.7333569526672363
+_cell_angle_alpha    89.99319963622415
+_cell_angle_beta     90.03764367789802
+_cell_angle_gamma    90.01866258318812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.03759319707751274  0.4149143993854523  0.5710278153419495  1.0000
+  Cr  Cr2       1.0  0.03696266934275627  0.9152930378913879  0.07135114073753357  1.0000
+  H   H1        1.0  0.03668397665023804  0.9150509238243104  0.5713081955909729  1.0000
+  Ir  Ir1       1.0  0.5368217825889587  0.41463038325309753  0.07184138894081116  1.0000
+  V   V1        1.0  0.5377221703529358  0.9151068329811097  0.5714300870895386  1.0000

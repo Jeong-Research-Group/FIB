@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaIn2RhPb
+_chemical_formula_sum              "Ba1 In2 Rh1 Pb1"
+_cell_length_a       5.252272852839065
+_cell_length_b       5.252314227732099
+_cell_length_c       5.445957294866926
+_cell_angle_alpha    90.02225451898936
+_cell_angle_beta     90.0082239229642
+_cell_angle_gamma    90.0251086001765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8504013041482068  0.15876320706247982  0.7173824408321122  1.0000
+  In  In1       1.0  0.8494734106665558  0.6587222696280169  0.21600642930766087  1.0000
+  In  In2       1.0  0.3500440257820414  0.15907609506216702  0.21612620050479311  1.0000
+  Rh  Rh1       1.0  0.34945302259029126  0.6591203605827547  0.21669857201214116  1.0000
+  Pb  Pb1       1.0  0.3498064371044716  0.658546115083576  0.7166983843965669  1.0000

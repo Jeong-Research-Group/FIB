@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2P2Ir2
+_chemical_formula_sum              "Eu2 P2 Ir2"
+_cell_length_a       4.022851535090029
+_cell_length_b       4.0234745158753835
+_cell_length_c       8.892777718012
+_cell_angle_alpha    90.00454941679077
+_cell_angle_beta     89.99870856779448
+_cell_angle_gamma    119.99820826807937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.5187043636821156  0.5476867000483244  0.18940352549542985  1.0000
+  Eu  Eu2       1.0  0.5190221395283057  0.547967224954488  0.6892987303663906  1.0000
+  P   P1        1.0  0.1860826121552719  0.8808289832395766  0.9391098632293023  1.0000
+  P   P2        1.0  0.8521916034040204  0.21502669488348106  0.43967620548562264  1.0000
+  Ir  Ir1       1.0  0.8527464063197074  0.21443856940961925  0.9390232922511408  1.0000
+  Ir  Ir2       1.0  0.18535784613585743  0.8814961791642189  0.43924125268158665  1.0000

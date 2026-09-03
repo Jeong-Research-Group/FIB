@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiTb2OsC
+_chemical_formula_sum              "Li1 Tb2 Os1 C1"
+_cell_length_a       3.905041981951558
+_cell_length_b       5.0296564791871035
+_cell_length_c       5.029716226622421
+_cell_angle_alpha    90.00178432332511
+_cell_angle_beta     90.00028041862714
+_cell_angle_gamma    89.99981052784852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9608236231553412  0.40928947798033116  0.26833075638987375  1.0000
+  Tb  Tb1       1.0  0.46059114087778996  0.9094382539177005  0.267966297805329  1.0000
+  Tb  Tb2       1.0  0.46083911117667  0.4095156211982444  0.7681430258205622  1.0000
+  Os  Os1       1.0  0.9607565984824425  0.9096406472706947  0.7679379476119529  1.0000
+  C   C1        1.0  0.4608762704268906  0.9094787436327371  0.7680165614857714  1.0000

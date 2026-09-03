@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2CaHgCaIn
+_chemical_formula_sum              "Tl2 Ca2 Hg1 In1"
+_cell_length_a       5.046403226452031
+_cell_length_b       6.395937333381312
+_cell_length_c       6.338341236114502
+_cell_angle_alpha    75.49877136821061
+_cell_angle_beta     66.72599763109528
+_cell_angle_gamma    66.88645108486601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.26619169116020197  0.6523193717002869  0.029332354664802586  1.0000
+  Tl  Tl2       1.0  0.5960207581520082  0.9266256690025328  0.09450016915798187  1.0000
+  Ca  Ca1       1.0  0.936874508857727  0.7766851186752319  0.5610649585723877  1.0000
+  Hg  Hg1       1.0  0.25446441769599915  0.23468288779258728  0.4680827856063843  1.0000
+  Ca  Ca2       1.0  0.9228987693786621  0.2882038354873657  0.07955293357372284  1.0000
+  In  In1       1.0  0.6061229109764099  0.32869163155555725  0.6712441444396973  1.0000

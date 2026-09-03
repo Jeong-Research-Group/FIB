@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       EuCdEuCdO2
+_chemical_formula_sum              "Eu2 Cd2 O2"
+_cell_length_a       4.159260595671473
+_cell_length_b       4.157826010448199
+_cell_length_c       8.276516914367676
+_cell_angle_alpha    89.79078016262578
+_cell_angle_beta     89.90231714490437
+_cell_angle_gamma    89.9920111838628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.09646183252334595  0.5560991764068604  0.8600316643714905  1.0000
+  Cd  Cd1       1.0  0.09149037301540375  0.5563932061195372  0.2938198745250702  1.0000
+  Eu  Eu2       1.0  0.5966617465019226  0.05665859207510948  0.6077502369880676  1.0000
+  Cd  Cd2       1.0  0.5972726345062256  0.056955911219120026  0.173971489071846  1.0000
+  O   O1        1.0  0.09646403789520264  0.057034462690353394  0.7331724762916565  1.0000
+  O   O2        1.0  0.5964372158050537  0.5561816096305847  0.7333556413650513  1.0000

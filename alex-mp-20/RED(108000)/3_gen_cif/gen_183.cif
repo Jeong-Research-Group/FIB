@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2NbCsTe4
+_chemical_formula_sum              "Cs3 Nb1 Te4"
+_cell_length_a       8.02052106466251
+_cell_length_b       8.006807186805853
+_cell_length_c       8.023005485534668
+_cell_angle_alpha    109.37830716391849
+_cell_angle_beta     109.29425496987564
+_cell_angle_gamma    109.5362685846108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8811504244804382  0.7140341997146606  0.5537438988685608  1.0000
+  Cs  Cs2       1.0  0.8804697394371033  0.21410371363162992  0.05225042626261711  1.0000
+  Nb  Nb1       1.0  0.38053253293037415  0.21318884193897247  0.5513768196105957  1.0000
+  Cs  Cs3       1.0  0.38073864579200745  0.7117130756378174  0.05067066475749016  1.0000
+  Te  Te1       1.0  0.38074254989624023  0.21369992196559906  0.8840336203575134  1.0000
+  Te  Te2       1.0  0.7126024961471558  0.2133144438266754  0.5505313873291016  1.0000
+  Te  Te3       1.0  0.3798035681247711  0.5441314578056335  0.5512140989303589  1.0000
+  Te  Te4       1.0  0.04902341961860658  0.8841230273246765  0.22105756402015686  1.0000

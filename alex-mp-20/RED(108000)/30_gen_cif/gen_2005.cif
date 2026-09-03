@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SnPbLa2PbSnPb
+_chemical_formula_sum              "Sn2 Pb3 La2"
+_cell_length_a       4.725236424012568
+_cell_length_b       6.449610576317303
+_cell_length_c       9.603371620178223
+_cell_angle_alpha    52.26512175215386
+_cell_angle_beta     75.86968658121222
+_cell_angle_gamma    68.61516511667133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.21959297358989718  0.9515265226364135  0.3156723380088806  1.0000
+  Pb  Pb1       1.0  0.3391003012657165  0.3210114538669586  0.7076681852340698  1.0000
+  La  La1       1.0  0.6236969828605652  0.8740762472152711  0.586401641368866  1.0000
+  La  La2       1.0  0.8158594965934753  0.029651287943124775  0.04454842954874041  1.0000
+  Pb  Pb2       1.0  0.10394830256700516  0.5810325741767883  0.9175050854682922  1.0000
+  Sn  Sn2       1.0  0.9252223968505859  0.40167927742004395  0.4563872218132019  1.0000
+  Pb  Pb3       1.0  0.5135588645935059  0.5037675499916077  0.17541013658046722  1.0000

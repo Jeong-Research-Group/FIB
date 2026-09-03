@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2Si2OsRu
+_chemical_formula_sum              "Ho2 Si2 Os1 Ru1"
+_cell_length_a       4.208410718237655
+_cell_length_b       4.20814746767803
+_cell_length_c       6.532727443522125
+_cell_angle_alpha    90.03575526524585
+_cell_angle_beta     90.0084994188389
+_cell_angle_gamma    90.00002729158253
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.5246517152742287  0.39759588197791457  0.5416615594646875  1.0000
+  Ho  Ho2       1.0  0.02443669599595486  0.8970811787583718  0.8999842186990666  1.0000
+  Si  Si1       1.0  0.024492031931106897  0.89764253585256  0.4123534145430917  1.0000
+  Si  Si2       1.0  0.5245257502150531  0.3972783924068452  0.029437150515003493  1.0000
+  Os  Os1       1.0  0.0245890358800776  0.39737019950609487  0.22078586917597587  1.0000
+  Ru  Ru1       1.0  0.5243815869693734  0.8976883901241496  0.22091230758589317  1.0000

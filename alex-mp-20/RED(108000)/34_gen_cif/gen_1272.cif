@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ho3C2HoSiSe
+_chemical_formula_sum              "Ho4 C2 Si1 Se1"
+_cell_length_a       3.6350726202313104
+_cell_length_b       6.357060128756734
+_cell_length_c       7.166308879852295
+_cell_angle_alpha    107.09685952593236
+_cell_angle_beta     89.96045570837968
+_cell_angle_gamma    90.10126688732878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.073177270591259  0.7450966238975525  0.3732812702655792  1.0000
+  Ho  Ho2       1.0  0.5731819868087769  0.7062568068504333  0.764670729637146  1.0000
+  Ho  Ho3       1.0  0.5725440979003906  0.23878507316112518  0.37238356471061707  1.0000
+  C   C1        1.0  0.0731782540678978  0.47281292080879206  0.5686991214752197  1.0000
+  C   C2        1.0  0.5736674666404724  0.9725732207298278  0.5685542225837708  1.0000
+  Ho  Ho4       1.0  0.0733320489525795  0.20033778250217438  0.763963520526886  1.0000
+  Si  Si1       1.0  0.0733526274561882  0.9725611805915831  0.0677385479211807  1.0000
+  Se  Se1       1.0  0.572841227054596  0.4726801514625549  0.06913868337869643  1.0000

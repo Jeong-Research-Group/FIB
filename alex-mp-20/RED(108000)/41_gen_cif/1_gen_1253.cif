@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Dy2Co2B2C2
+_chemical_formula_sum              "Dy2 Co2 B2 C2"
+_cell_length_a       3.5559526662357985
+_cell_length_b       3.5559600705814214
+_cell_length_c       7.622367910272598
+_cell_angle_alpha    90.00228198896424
+_cell_angle_beta     89.99826122827567
+_cell_angle_gamma    90.00005825560487
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.8886475366038371  0.18282261356824386  0.08141750862856287  1.0000
+  Dy  Dy2       1.0  0.38884128400343776  0.682813701155036  0.4120806917611343  1.0000
+  Co  Co1       1.0  0.38879713345676264  0.18270942215746752  0.7468062149086487  1.0000
+  Co  Co2       1.0  0.8887745937261478  0.6827510041116182  0.7468035241335904  1.0000
+  B   B1        1.0  0.8888637591261986  0.18269786893521853  0.5985613236055428  1.0000
+  B   B2        1.0  0.3886943169069727  0.6827692997155244  0.8949104059601221  1.0000
+  C   C1        1.0  0.8888946103662626  0.18281538327554378  0.400434518485951  1.0000
+  C   C2        1.0  0.38860002926712045  0.6828099635108881  0.09303613880299652  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdHRh2Au
+_chemical_formula_sum              "Cd1 H1 Rh2 Au1"
+_cell_length_a       4.074527492331413
+_cell_length_b       4.073769836556504
+_cell_length_c       4.186643431867779
+_cell_angle_alpha    90.0068594412569
+_cell_angle_beta     90.00627274383206
+_cell_angle_gamma    90.00712532685898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.013779744398462633  0.5120792179141526  0.3457703422513804  1.0000
+  H   H1        1.0  0.5139810523988315  0.012787934673129817  0.8460643378598119  1.0000
+  Rh  Rh1       1.0  0.513562433990732  0.5121872381219991  0.8458173160800735  1.0000
+  Rh  Rh2       1.0  0.013856194618271395  0.012308464833225827  0.846011884340486  1.0000
+  Au  Au1       1.0  0.5138880263401766  0.011913356280056037  0.3461613474956395  1.0000

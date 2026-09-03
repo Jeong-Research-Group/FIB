@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2In2Ir2
+_chemical_formula_sum              "Sc2 In2 Ir2"
+_cell_length_a       3.2282233910454274
+_cell_length_b       4.364970144479703
+_cell_length_c       8.854879090418594
+_cell_angle_alpha    90.00148417343043
+_cell_angle_beta     100.52363100676268
+_cell_angle_gamma    90.00023797976613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.34339649302302466  0.1483991004089983  0.6894500387324611  1.0000
+  Sc  Sc2       1.0  0.173614204067835  0.6486845302331599  0.35071011247801426  1.0000
+  In  In1       1.0  0.9620876709005018  0.6485312345754598  0.9270711639965732  1.0000
+  In  In2       1.0  0.5555533564677975  0.14864153644036063  0.11322189819312245  1.0000
+  Ir  Ir1       1.0  0.8086557476350889  0.6485206170380582  0.6200812207144745  1.0000
+  Ir  Ir2       1.0  0.7082576989883596  0.1485482141349359  0.4200030781023537  1.0000

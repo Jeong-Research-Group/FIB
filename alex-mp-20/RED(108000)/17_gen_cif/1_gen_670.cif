@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pr2Zr2C3
+_chemical_formula_sum              "Pr2 Zr2 C3"
+_cell_length_a       3.52755311636289
+_cell_length_b       3.527573442385848
+_cell_length_c       11.929914503969753
+_cell_angle_alpha    89.9971084906326
+_cell_angle_beta     89.99294387359647
+_cell_angle_gamma    119.99944879289099
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9340212766939041  0.9097413643669418  0.29763426070024496  1.0000
+  Pr  Pr2       1.0  0.6011524833535135  0.24297756370468712  0.8221037315138099  1.0000
+  Zr  Zr1       1.0  0.26765882844446215  0.5760473754470888  0.06064649184247096  1.0000
+  Zr  Zr2       1.0  0.2677707649594105  0.5771798953424792  0.5804451335814804  1.0000
+  C   C1        1.0  0.9343991493509766  0.910460073834247  0.6580624302606669  1.0000
+  C   C2        1.0  0.9344598441779879  0.9093687714955738  0.958839607548249  1.0000
+  C   C3        1.0  0.6008727459473202  0.2429370859488295  0.17976969818750688  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2InTe
+_chemical_formula_sum              "Tb2 In1 Te1"
+_cell_length_a       4.046894269082111
+_cell_length_b       4.772063731208656
+_cell_length_c       6.39766508805346
+_cell_angle_alpha    89.99788953032403
+_cell_angle_beta     108.40813866294307
+_cell_angle_gamma    90.00146046176461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.16147741269092994  0.28033629173705593  0.040211242596294015  1.0000
+  Tb  Tb2       1.0  0.40881475047240523  0.7799636790032796  0.5336533529341063  1.0000
+  In  In1       1.0  0.6653670949352684  0.7803228341954398  0.047860409258194424  1.0000
+  Te  Te1       1.0  0.9000524316218714  0.2798719185401659  0.5160379559852816  1.0000

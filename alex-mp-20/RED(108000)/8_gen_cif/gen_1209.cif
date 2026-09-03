@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       LiNaLiCdLiNaCd2ZnPb
+_chemical_formula_sum              "Li3 Na2 Cd3 Zn1 Pb1"
+_cell_length_a       3.2449784787076354
+_cell_length_b       8.291108762157974
+_cell_length_c       8.29518985748291
+_cell_angle_alpha    89.1058419073193
+_cell_angle_beta     89.98985967382819
+_cell_angle_gamma    89.95365284359525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3816859722137452  0.8753319978713988  0.727966845035553  1.0000
+  Na  Na1       1.0  0.38152712583541876  0.254280537366867  0.6028647422790527  1.0000
+  Li  Li2       1.0  0.3814739286899567  0.12547199428081512  0.23569434881210327  1.0000
+  Cd  Cd1       1.0  0.8814600706100465  0.9154758453369141  0.4402777850627899  1.0000
+  Li  Li3       1.0  0.3815507590770722  0.6225547790527344  0.4770375788211823  1.0000
+  Na  Na2       1.0  0.3814352154731751  0.750538945198059  0.10733364522457123  1.0000
+  Cd  Cd2       1.0  0.8815550804138185  0.42014697194099426  0.26965275406837463  1.0000
+  Cd  Cd3       1.0  0.8819602131843568  0.5848209261894226  0.7732462882995605  1.0000
+  Zn  Zn1       1.0  0.3821913301944733  0.3859826624393463  0.9785609245300293  1.0000
+  Pb  Pb1       1.0  0.8818563818931581  0.08542089909315109  0.9392474293708801  1.0000

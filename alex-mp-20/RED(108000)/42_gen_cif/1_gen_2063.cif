@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgZn2In
+_chemical_formula_sum              "Mg1 Zn2 In1"
+_cell_length_a       3.1605268246600886
+_cell_length_b       3.1600387829124577
+_cell_length_c       7.881073868699675
+_cell_angle_alpha    90.00393899822207
+_cell_angle_beta     89.9836767449134
+_cell_angle_gamma    89.96610323229066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5120451489376826  0.34284604774492533  0.5832223436947571  1.0000
+  Zn  Zn1       1.0  0.5122972128174016  0.34263804787558466  0.15558317635044755  1.0000
+  Zn  Zn2       1.0  0.012106477205131218  0.842818877598506  0.34726531305789915  1.0000
+  In  In1       1.0  0.012238417027783947  0.8424061804977439  0.8872211751686451  1.0000

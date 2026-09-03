@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mn2Ge2Rh
+_chemical_formula_sum              "Mn2 Ge2 Rh1"
+_cell_length_a       3.8198428685373376
+_cell_length_b       3.8494111460641127
+_cell_length_c       6.179849300458932
+_cell_angle_alpha    108.35793939043408
+_cell_angle_beta     107.9575674519297
+_cell_angle_gamma    89.98985746304731
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.20578401693188486  0.3769648477464382  0.5192459272720219  1.0000
+  Mn  Mn2       1.0  0.4567154254427612  0.12689245218144066  0.020954996996583188  1.0000
+  Ge  Ge1       1.0  0.8477824538695665  0.5194965864621537  0.8036967269992372  1.0000
+  Ge  Ge2       1.0  0.0651469052986718  0.7351695625249733  0.23789336240451278  1.0000
+  Rh  Rh1       1.0  0.7070128738945368  0.8776384740866104  0.5222150545901135  1.0000

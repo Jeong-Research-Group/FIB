@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiMo3P2
+_chemical_formula_sum              "Ti1 Mo3 P2"
+_cell_length_a       3.220132704169054
+_cell_length_b       4.11750119059137
+_cell_length_c       6.65697984144526
+_cell_angle_alpha    90.00275587895639
+_cell_angle_beta     89.99185929717493
+_cell_angle_gamma    90.00015578293448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.23891675858029948  0.28746005221293197  0.8039357154712636  1.0000
+  Mo  Mo1       1.0  0.7394369482454675  0.7877576567263266  0.0972952605451963  1.0000
+  Mo  Mo2       1.0  0.2390606733485731  0.7876541624741479  0.4507489214512104  1.0000
+  Mo  Mo3       1.0  0.7393798218155432  0.28769531023299927  0.45456883213745436  1.0000
+  P   P1        1.0  0.7390251714887525  0.7874773945425444  0.7340434598979438  1.0000
+  P   P2        1.0  0.2397970315295577  0.2876117575192975  0.1678402903055665  1.0000

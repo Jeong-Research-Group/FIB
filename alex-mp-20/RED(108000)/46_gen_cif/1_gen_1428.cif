@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2Co2HgAs2
+_chemical_formula_sum              "Ba2 Co2 Hg1 As2"
+_cell_length_a       4.0070781795243855
+_cell_length_b       4.0070922311970625
+_cell_length_c       11.197215039677094
+_cell_angle_alpha    100.3159441438349
+_cell_angle_beta     100.32895843829718
+_cell_angle_gamma    90.01170527051298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7246569564203482  0.001096549745779618  0.7050291811127681  1.0000
+  Ba  Ba2       1.0  0.5004105279853452  0.7760083047057497  0.25477702710383177  1.0000
+  Co  Co1       1.0  0.3623584446946093  0.13878277927005755  0.9800843275998146  1.0000
+  Co  Co2       1.0  0.8623853589928692  0.6386081914545172  0.9800881546285354  1.0000
+  Hg  Hg1       1.0  0.11345143194725126  0.38924245183855555  0.4815004280265232  1.0000
+  As  As1       1.0  0.9190130814749105  0.1950878887835269  0.09299433889007633  1.0000
+  As  As2       1.0  0.30595994294908946  0.5822331867910825  0.8673805667391893  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2AuTiN
+_chemical_formula_sum              "Ti3 Au1 N1"
+_cell_length_a       4.149712713645728
+_cell_length_b       4.148119712029853
+_cell_length_c       4.154872894287109
+_cell_angle_alpha    89.9107660837642
+_cell_angle_beta     89.9845389548008
+_cell_angle_gamma    89.88318578051828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.16653336584568024  0.5770169496536255  0.6325656771659851  1.0000
+  Ti  Ti2       1.0  0.166404590010643  0.07674358040094376  0.1326124519109726  1.0000
+  Au  Au1       1.0  0.6662343740463257  0.5769176483154297  0.13253730535507202  1.0000
+  Ti  Ti3       1.0  0.6662823557853699  0.07677704840898514  0.6329169869422913  1.0000
+  N   N1        1.0  0.1665993183851242  0.0762811079621315  0.6326398849487305  1.0000

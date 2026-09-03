@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Ga2Se4
+_chemical_formula_sum              "Li2 Ga2 Se4"
+_cell_length_a       5.629736652168182
+_cell_length_b       5.6297639320083945
+_cell_length_c       6.073763817212862
+_cell_angle_alpha    89.96876474911318
+_cell_angle_beta     90.01650876767293
+_cell_angle_gamma    90.014544651455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6528547968302817  0.1719902544797039  0.010865010861206743  1.0000
+  Li  Li2       1.0  0.1528654899655449  0.6723991727302969  0.009867819784488684  1.0000
+  Ga  Ga1       1.0  0.6531630479381768  0.6721335772235367  0.5105601884184445  1.0000
+  Ga  Ga2       1.0  0.1531598689159247  0.17224051941558896  0.5102540160543385  1.0000
+  Se  Se1       1.0  0.4028999064034974  0.4225798485541704  0.2758586919318722  1.0000
+  Se  Se2       1.0  0.9032161351541409  0.9220607562159959  0.27607592298486694  1.0000
+  Se  Se3       1.0  0.4033838720172953  0.9222567303185799  0.7445718978464354  1.0000
+  Se  Se4       1.0  0.903086625577865  0.42171383465367257  0.7447830766087785  1.0000

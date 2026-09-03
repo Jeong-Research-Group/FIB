@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2Tl2Sn2Hg
+_chemical_formula_sum              "Ba2 Tl2 Sn2 Hg1"
+_cell_length_a       5.321392851339541
+_cell_length_b       6.5712741535545565
+_cell_length_c       7.855297235267338
+_cell_angle_alpha    100.10868255151392
+_cell_angle_beta     89.99879015820534
+_cell_angle_gamma    113.88875757830887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5825319933844578  0.5804365047017883  0.2500611721052617  1.0000
+  Ba  Ba2       1.0  0.3312205606978434  0.07747149001997572  0.6899466629579146  1.0000
+  Tl  Tl1       1.0  0.27434150922850803  0.9640875078379803  0.1965174905497506  1.0000
+  Tl  Tl2       1.0  0.6394224921179239  0.6938463523199947  0.743731856374714  1.0000
+  Sn  Sn1       1.0  0.8524354173971641  0.12023261725831275  0.040516208338264526  1.0000
+  Sn  Sn2       1.0  0.06137801330869442  0.5377868104599047  0.8996529792992657  1.0000
+  Hg  Hg1       1.0  0.9570674722958986  0.3293493997267143  0.4700857986461556  1.0000

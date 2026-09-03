@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2SiPt2Si
+_chemical_formula_sum              "La2 Si2 Pt2"
+_cell_length_a       4.281167655479534
+_cell_length_b       4.256549113866672
+_cell_length_c       7.882944583892822
+_cell_angle_alpha    105.65697439171608
+_cell_angle_beta     105.73411549016674
+_cell_angle_gamma    90.01728257709463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6236292719841003  0.056062374264001846  0.8336105346679686  1.0000
+  La  La2       1.0  0.37471193075180054  0.3068646490573883  0.334939956665039  1.0000
+  Si  Si1       1.0  0.9560998678207397  0.8880518674850464  0.49840241670608515  1.0000
+  Pt  Pt1       1.0  0.03836208581924438  0.46963623166084284  0.6630092859268187  1.0000
+  Pt  Pt2       1.0  0.7876290082931519  0.7203869819641113  0.162741482257843  1.0000
+  Si  Si2       1.0  0.2058296501636505  0.6378979086875916  0.998036503791809  1.0000

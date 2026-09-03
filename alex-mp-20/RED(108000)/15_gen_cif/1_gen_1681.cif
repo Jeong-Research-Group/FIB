@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaNa2GaH
+_chemical_formula_sum              "Ba1 Na2 Ga1 H1"
+_cell_length_a       4.953771275843054
+_cell_length_b       4.955981591497328
+_cell_length_c       5.5103522621931385
+_cell_angle_alpha    90.00158304138263
+_cell_angle_beta     90.01271215525223
+_cell_angle_gamma    90.00049034725537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6118239344539789  0.8154955882057621  0.8579989887553789  1.0000
+  Na  Na1       1.0  0.11160115946763259  0.8157095704345979  0.35844186964173874  1.0000
+  Na  Na2       1.0  0.611659785739958  0.3153098637435402  0.358788425963616  1.0000
+  Ga  Ga1       1.0  0.11227160289639798  0.31564107639194977  0.856837726986243  1.0000
+  H   H1        1.0  0.6115554515076013  0.8150410062227775  0.359092796167876  1.0000

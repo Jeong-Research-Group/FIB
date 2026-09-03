@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HoFeSi2Ni2
+_chemical_formula_sum              "Ho1 Fe1 Si2 Ni2"
+_cell_length_a       3.935830609912135
+_cell_length_b       3.935839305228643
+_cell_length_c       6.364878355688941
+_cell_angle_alpha    89.99557281667148
+_cell_angle_beta     90.00419052610695
+_cell_angle_gamma    119.99369016977887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.013350233732281145  0.6661034094986388  0.9975798127722099  1.0000
+  Fe  Fe1       1.0  0.013368967152746537  0.6660926051069687  0.4975655491762632  1.0000
+  Si  Si1       1.0  0.6800455007386536  0.999368329204511  0.3120346128234866  1.0000
+  Si  Si2       1.0  0.3465928002276209  0.3327993046679447  0.6830566888502895  1.0000
+  Ni  Ni1       1.0  0.6799725042695839  0.9994202925090803  0.6866151506828045  1.0000
+  Ni  Ni2       1.0  0.3466789865091746  0.33273627950455437  0.30869006680991296  1.0000

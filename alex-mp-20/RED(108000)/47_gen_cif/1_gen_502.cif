@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2KNa2Cd2Te
+_chemical_formula_sum              "Cs2 K1 Na2 Cd2 Te1"
+_cell_length_a       5.236175504581292
+_cell_length_b       5.355677498513143
+_cell_length_c       12.536628321439919
+_cell_angle_alpha    77.69722540147895
+_cell_angle_beta     89.99902767942905
+_cell_angle_gamma    89.99340166633134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.5030996265864655  0.11787197794944054  0.27063667912944833  1.0000
+  Cs  Cs2       1.0  0.0027625544344200854  0.7358935695366946  0.03431748027557935  1.0000
+  K   K1        1.0  0.002322925687621633  0.3748528048212322  0.754822402358615  1.0000
+  Na  Na1       1.0  0.0016486451535566763  0.981818841469442  0.5406767099556602  1.0000
+  Na  Na2       1.0  0.5028949455124209  0.870880530986869  0.7614035785468204  1.0000
+  Cd  Cd1       1.0  0.5026618080462248  0.486296809210192  0.5347418147296127  1.0000
+  Cd  Cd2       1.0  0.0031201045966501853  0.5491267817231412  0.40529695329077087  1.0000
+  Te  Te1       1.0  0.5026596968484395  0.2831938041256971  0.939383533487379  1.0000

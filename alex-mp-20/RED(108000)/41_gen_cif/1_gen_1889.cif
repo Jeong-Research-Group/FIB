@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfNi2HRu
+_chemical_formula_sum              "Hf1 Ni2 H1 Ru1"
+_cell_length_a       3.788080354098019
+_cell_length_b       3.9572441090909227
+_cell_length_c       3.788493088281307
+_cell_angle_alpha    89.99891752488483
+_cell_angle_beta     90.00316938853196
+_cell_angle_gamma    90.00355596232397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.7493572253386356  0.7972466112830191  0.49967418884860226  1.0000
+  Ni  Ni1       1.0  0.24930025719862248  0.29707624403875027  0.4998679133916361  1.0000
+  Ni  Ni2       1.0  0.7491416786511211  0.29714923445249203  0.9996918137052525  1.0000
+  H   H1        1.0  0.2495721846356155  0.29702545490028665  0.0001338635739798308  1.0000
+  Ru  Ru1       1.0  0.24943699346144915  0.7971821128352854  0.9996896820170043  1.0000

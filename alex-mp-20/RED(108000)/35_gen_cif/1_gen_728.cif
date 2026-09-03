@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2SrP2H
+_chemical_formula_sum              "Ba2 Sr1 P2 H1"
+_cell_length_a       4.562948902830985
+_cell_length_b       4.561903510983858
+_cell_length_c       11.151004989085806
+_cell_angle_alpha    90.02844433344092
+_cell_angle_beta     89.9609916795851
+_cell_angle_gamma    119.97434290623106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9407039959240447  0.7991491643254746  0.22886482347501758  1.0000
+  Ba  Ba2       1.0  0.9394894467049822  0.7990991573191749  0.5744602835157923  1.0000
+  Sr  Sr1       1.0  0.6061083997030452  0.13262329956571922  0.8830951799277885  1.0000
+  P   P1        1.0  0.27279969147675437  0.4659494668327036  0.7418232656935019  1.0000
+  P   P2        1.0  0.6068587830345127  0.13247322498273167  0.3756897936267569  1.0000
+  H   H1        1.0  0.9383093267229011  0.7995873213484938  0.9922743781103219  1.0000

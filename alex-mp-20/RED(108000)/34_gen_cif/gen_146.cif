@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlCr2H2Al
+_chemical_formula_sum              "Al2 Cr2 H2"
+_cell_length_a       2.9214096777076874
+_cell_length_b       4.387344900403616
+_cell_length_c       4.921647071838379
+_cell_angle_alpha    107.10634789325145
+_cell_angle_beta     107.42920426383067
+_cell_angle_gamma    89.99688756592049
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8922634720802307  0.573490560054779  0.11455045640468597  1.0000
+  Cr  Cr1       1.0  0.6276057958602905  0.7464966773986816  0.586148202419281  1.0000
+  Cr  Cr2       1.0  0.359965980052948  0.04085586965084076  0.04673677682876587  1.0000
+  H   H1        1.0  0.22198687493801117  0.6692932844161987  0.7731917500495911  1.0000
+  H   H2        1.0  0.7644800543785095  0.11760728061199188  0.858224630355835  1.0000
+  Al  Al2       1.0  0.0941685363650322  0.21268567442893982  0.5176699757575989  1.0000

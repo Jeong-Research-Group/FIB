@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SePbSeMnSeCu
+_chemical_formula_sum              "Se3 Pb1 Mn1 Cu1"
+_cell_length_a       4.099189460651277
+_cell_length_b       4.100822647395122
+_cell_length_c       10.899856567382812
+_cell_angle_alpha    79.12156658883836
+_cell_angle_beta     79.10951272301592
+_cell_angle_gamma    60.02526825812295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.18288740515708923  0.08755829185247421  0.029988911002874374  1.0000
+  Pb  Pb1       1.0  0.9310062527656554  0.8350929617881775  0.7855631113052368  1.0000
+  Se  Se2       1.0  0.6493737697601318  0.5526278614997864  0.633165717124939  1.0000
+  Mn  Mn1       1.0  0.4872566163539886  0.39196866750717163  0.11664143204689026  1.0000
+  Se  Se3       1.0  0.41144692897796625  0.3157126307487488  0.3432117998600006  1.0000
+  Cu  Cu1       1.0  0.7253267765045165  0.6290571689605713  0.40293240547180176  1.0000

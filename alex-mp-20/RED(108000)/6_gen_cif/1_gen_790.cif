@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrV2Ga2B
+_chemical_formula_sum              "Pr1 V2 Ga2 B1"
+_cell_length_a       4.184586790352018
+_cell_length_b       4.184799729588922
+_cell_length_c       5.830197564063277
+_cell_angle_alpha    89.9988077572869
+_cell_angle_beta     89.99000049412582
+_cell_angle_gamma    89.99124018609595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6306290318836141  0.6760103885959737  0.9425164560961423  1.0000
+  V   V1        1.0  0.6305103877289155  0.1759626521074491  0.44254253859810244  1.0000
+  V   V2        1.0  0.13028236971068374  0.6761443303694615  0.442548759224586  1.0000
+  Ga  Ga1       1.0  0.13085146771884495  0.17614535547916982  0.7103193114070593  1.0000
+  Ga  Ga2       1.0  0.13052346155448638  0.17623288686963073  0.1747575205544457  1.0000
+  B   B1        1.0  0.6303956481228317  0.6762981971955292  0.4425061191127391  1.0000

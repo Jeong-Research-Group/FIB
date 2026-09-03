@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pd2Mg2Au
+_chemical_formula_sum              "Pd2 Mg2 Au1"
+_cell_length_a       4.47940120677734
+_cell_length_b       5.078595382787515
+_cell_length_c       5.0875468254089355
+_cell_angle_alpha    66.68105375086222
+_cell_angle_beta     63.949401752545
+_cell_angle_gamma    63.94133093682277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.12398974597454071  0.037074863910675056  0.477678120136261  1.0000
+  Pd  Pd2       1.0  0.1244665682315826  0.49739900231361395  0.016549691557884216  1.0000
+  Mg  Mg1       1.0  0.42689254879951477  0.4649079740047455  0.443352609872818  1.0000
+  Mg  Mg2       1.0  0.8206731081008911  0.0700923353433609  0.051271483302116394  1.0000
+  Au  Au1       1.0  0.6242421865463257  0.7676299214363098  0.7466530799865723  1.0000

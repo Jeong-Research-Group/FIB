@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TbNi2P2Ir
+_chemical_formula_sum              "Tb1 Ni2 P2 Ir1"
+_cell_length_a       3.872728566122672
+_cell_length_b       3.8869042816421566
+_cell_length_c       6.623783093892638
+_cell_angle_alpha    90.0763193093707
+_cell_angle_beta     90.12784713513089
+_cell_angle_gamma    120.04098035708319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.8406280906872656  0.5943794536914572  0.35748683859974373  1.0000
+  Ni  Ni1       1.0  0.17348873182413782  0.2608377455090868  0.052875252764385025  1.0000
+  Ni  Ni2       1.0  0.5078453700330157  0.9279405614549725  0.6620213884400171  1.0000
+  P   P1        1.0  0.175356893662674  0.2619991726253667  0.6447134501690585  1.0000
+  P   P2        1.0  0.5059402880925882  0.9267303847585133  0.0704695835741116  1.0000
+  Ir  Ir1       1.0  0.8406880537346606  0.5944011521630009  0.8574176980853112  1.0000

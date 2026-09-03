@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TaGa2Cu3C
+_chemical_formula_sum              "Ta1 Ga2 Cu3 C1"
+_cell_length_a       3.121824599591235
+_cell_length_b       3.121413987675196
+_cell_length_c       9.347630149950595
+_cell_angle_alpha    89.99815920277877
+_cell_angle_beta     89.99873298395308
+_cell_angle_gamma    90.00124296901184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.9346921868076545  0.6881434286734307  0.30311337751592526  1.0000
+  Ga  Ga1       1.0  0.9343115328920697  0.6884531700687955  0.9575669303650806  1.0000
+  Ga  Ga2       1.0  0.9339569243087175  0.6875943135900933  0.649228636579326  1.0000
+  Cu  Cu1       1.0  0.43398403117297507  0.1874863592764962  0.5198259493535952  1.0000
+  Cu  Cu2       1.0  0.43438075801357084  0.18853338594247146  0.08683313169412683  1.0000
+  Cu  Cu3       1.0  0.4340616192673254  0.18806013430616822  0.8035473917792012  1.0000
+  C   C1        1.0  0.4348223278059091  0.18812091642464263  0.3032575906037125  1.0000

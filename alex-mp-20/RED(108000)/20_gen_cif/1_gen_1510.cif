@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2IBrCl2
+_chemical_formula_sum              "Sr2 I1 Br1 Cl2"
+_cell_length_a       5.217550506460406
+_cell_length_b       5.2483095724908155
+_cell_length_c       7.428961134946165
+_cell_angle_alpha    89.99678745507003
+_cell_angle_beta     89.90928956581526
+_cell_angle_gamma    89.99973793046887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.15249424363851985  0.13348197196545736  0.35497712001121245  1.0000
+  Sr  Sr2       1.0  0.6531596562484582  0.6333946895776367  0.916872891468346  1.0000
+  I   I1        1.0  0.6518688118364209  0.13361969745996796  0.6398027701689069  1.0000
+  Br  Br1       1.0  0.15229432267598597  0.6337644472382722  0.6297296477835964  1.0000
+  Cl  Cl1       1.0  0.1528494339297199  0.6329701852496022  0.13224294541722767  1.0000
+  Cl  Cl2       1.0  0.6533029951915297  0.1329648506335968  0.13824919185981038  1.0000

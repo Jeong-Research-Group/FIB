@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuNi2RuC
+_chemical_formula_sum              "Lu1 Ni2 Ru1 C1"
+_cell_length_a       3.9567225094455907
+_cell_length_b       3.9560766841520745
+_cell_length_c       4.0795689044252885
+_cell_angle_alpha    90.025911980292
+_cell_angle_beta     90.01904306047675
+_cell_angle_gamma    90.00117163898945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.4469372105194492  0.8393499148868656  0.482624901575514  1.0000
+  Ni  Ni1       1.0  0.9469084470157897  0.8393998499790927  0.9823004077203282  1.0000
+  Ni  Ni2       1.0  0.44672889066713173  0.3395542112621778  0.9825094200039696  1.0000
+  Ru  Ru1       1.0  0.9468793670406016  0.33911566892114453  0.4825156657881067  1.0000
+  C   C1        1.0  0.946773861777923  0.33941828677503627  0.9825556210702437  1.0000

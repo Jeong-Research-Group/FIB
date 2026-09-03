@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2TiCoIr2
+_chemical_formula_sum              "Tb2 Ti1 Co1 Ir2"
+_cell_length_a       3.996368201454838
+_cell_length_b       3.9959363161732293
+_cell_length_c       7.296973698715689
+_cell_angle_alpha    90.01881035670331
+_cell_angle_beta     90.01581466275711
+_cell_angle_gamma    89.99766330888714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.3713941363689427  0.8424732132787532  0.08300997136342227  1.0000
+  Tb  Tb2       1.0  0.8716446204460025  0.3424467855119549  0.7650703746405642  1.0000
+  Ti  Ti1       1.0  0.8716089570589314  0.8418797851050981  0.42407835869453697  1.0000
+  Co  Co1       1.0  0.37179717856196254  0.3421391966049493  0.42375144562779243  1.0000
+  Ir  Ir1       1.0  0.3716251988022057  0.8422767968240433  0.6493681563523283  1.0000
+  Ir  Ir2       1.0  0.8716177194364961  0.3419471563107757  0.19884563597864552  1.0000

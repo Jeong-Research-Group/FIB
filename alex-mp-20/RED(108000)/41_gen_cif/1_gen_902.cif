@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3CdPt2
+_chemical_formula_sum              "Sc3 Cd1 Pt2"
+_cell_length_a       3.362714217356353
+_cell_length_b       3.3634319290739065
+_cell_length_c       10.312073444720761
+_cell_angle_alpha    89.99140637315604
+_cell_angle_beta     89.99356981544312
+_cell_angle_gamma    89.99853233467765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.3422571126964149  0.27412003070397467  0.48060700263394474  1.0000
+  Sc  Sc2       1.0  0.3422263664739929  0.2744415586948363  0.17156109677434417  1.0000
+  Sc  Sc3       1.0  0.34220248687875277  0.273990809128471  0.7893051459567108  1.0000
+  Cd  Cd1       1.0  0.8422113257400365  0.7742440576569054  0.9798472325767182  1.0000
+  Pt  Pt1       1.0  0.8422318639945501  0.7740046083311037  0.6390395225892351  1.0000
+  Pt  Pt2       1.0  0.8421806395944325  0.7743330830745229  0.3222548071308925  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2HoGaAu2
+_chemical_formula_sum              "Nd2 Ho1 Ga1 Au2"
+_cell_length_a       3.652705396275272
+_cell_length_b       3.653008677363228
+_cell_length_c       11.152513714971796
+_cell_angle_alpha    89.99991682551432
+_cell_angle_beta     89.99887815179972
+_cell_angle_gamma    89.99980990739661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.5341546810835762  0.4080161202553405  0.6016213783091011  1.0000
+  Nd  Nd2       1.0  0.5341787735790614  0.40801264184223796  0.944742693133979  1.0000
+  Ho  Ho1       1.0  0.5340167228075785  0.40801814199254666  0.2740837779507013  1.0000
+  Ga  Ga1       1.0  0.03407552449980817  0.908014860016822  0.12092314916850827  1.0000
+  Au  Au1       1.0  0.03399136032872049  0.9080209190716007  0.4157073755102  1.0000
+  Au  Au2       1.0  0.03420246783809424  0.9079816425781465  0.7741382932444428  1.0000

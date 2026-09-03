@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zr2Nb2Si2C
+_chemical_formula_sum              "Zr2 Nb2 Si2 C1"
+_cell_length_a       4.133350425139516
+_cell_length_b       4.133350637839073
+_cell_length_c       7.735456553867981
+_cell_angle_alpha    105.48529608407082
+_cell_angle_beta     105.49114330757413
+_cell_angle_gamma    90.0000639391553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8801303207016815  0.2274775165508563  0.7566708077444053  1.0000
+  Zr  Zr2       1.0  0.22155788991393527  0.5687610492828167  0.43980166306634394  1.0000
+  Nb  Nb1       1.0  0.5508881021895863  0.3981692526083828  0.09825627373323795  1.0000
+  Nb  Nb2       1.0  0.0508712253265943  0.8981928352486834  0.09825017152054942  1.0000
+  Si  Si1       1.0  0.6870778393439123  0.03416186044482581  0.3706648670988118  1.0000
+  Si  Si2       1.0  0.414783452345709  0.7620649183460138  0.825815815096909  1.0000
+  C   C1        1.0  0.050852055299661046  0.39815907144855855  0.09816575014390448  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg3In2Hg2Cd
+_chemical_formula_sum              "Hg5 In2 Cd1"
+_cell_length_a       3.5530600581439487
+_cell_length_b       6.243222866273774
+_cell_length_c       10.708184242248535
+_cell_angle_alpha    105.63664129693976
+_cell_angle_beta     109.1955515416549
+_cell_angle_gamma    89.75022220824218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2626432478427887  0.5959280729293823  0.35027840733528137  1.0000
+  Hg  Hg2       1.0  0.7670368552207947  0.10142016410827637  0.35554566979408264  1.0000
+  Hg  Hg3       1.0  0.2567182779312134  0.6132662296295166  0.8456176519393922  1.0000
+  In  In1       1.0  0.012041616253554818  0.8597468733787537  0.6009459495544434  1.0000
+  In  In2       1.0  0.010739127174019817  0.8591241836547852  0.09985400736331942  1.0000
+  Hg  Hg4       1.0  0.5101969838142395  0.35701966285705566  0.09976131469011308  1.0000
+  Hg  Hg5       1.0  0.7582491636276245  0.12296126782894135  0.8484786152839662  1.0000
+  Cd  Cd1       1.0  0.5115518569946289  0.36200758814811707  0.6001597046852112  1.0000

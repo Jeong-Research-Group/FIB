@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2ScCu
+_chemical_formula_sum              "Li2 Sc1 Cu1"
+_cell_length_a       3.2122365383059646
+_cell_length_b       3.2122358099094996
+_cell_length_c       6.983215152598276
+_cell_angle_alpha    89.99965483854106
+_cell_angle_beta     89.98772557504924
+_cell_angle_gamma    90.0109200294414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.11624918221943761  0.04630157365722995  0.17518257175542554  1.0000
+  Li  Li2       1.0  0.616885407479871  0.5462364578068335  0.4236022019091741  1.0000
+  Sc  Sc1       1.0  0.6166402514731567  0.5459168049625241  0.8585142719568486  1.0000
+  Cu  Cu1       1.0  0.11684175967830379  0.0459688016121248  0.6346797573468562  1.0000

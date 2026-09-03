@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmGeH2Os
+_chemical_formula_sum              "Sm1 Ge1 H2 Os1"
+_cell_length_a       3.7138417888618642
+_cell_length_b       4.640969784656008
+_cell_length_c       4.519133465335781
+_cell_angle_alpha    81.94960665573522
+_cell_angle_beta     114.1546176508036
+_cell_angle_gamma    89.92709070182148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7950484040039462  0.6492967453521427  0.38818061347590005  1.0000
+  Ge  Ge1       1.0  0.4405258876901609  0.08447511357419282  0.6811954430313637  1.0000
+  H   H1        1.0  0.10173521736866091  0.5638470083013961  0.99841974482093  1.0000
+  H   H2        1.0  0.685269736001925  0.21173907775251136  0.15796049468913378  1.0000
+  Os  Os1       1.0  0.13291929085635598  0.1922919769428373  0.06663884782081915  1.0000

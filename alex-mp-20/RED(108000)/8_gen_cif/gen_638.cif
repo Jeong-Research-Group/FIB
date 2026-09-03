@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtVGaPtV
+_chemical_formula_sum              "Pt2 V2 Ga1"
+_cell_length_a       3.43651724672111
+_cell_length_b       3.4091169354773836
+_cell_length_c       6.704990386962891
+_cell_angle_alpha    90.05984178686082
+_cell_angle_beta     89.92910513806068
+_cell_angle_gamma    90.00367031594129
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.1750699430704117  0.649646520614624  0.6513558626174927  1.0000
+  V   V1        1.0  0.1751622408628464  0.1487960517406464  0.3491965532302856  1.0000
+  Ga  Ga1       1.0  0.6750265359878541  0.14954450726509097  0.8490233421325685  1.0000
+  Pt  Pt2       1.0  0.17501026391983035  0.6487178802490235  0.0467858724296093  1.0000
+  V   V2        1.0  0.6754114627838136  0.6495474576950073  0.3492466509342193  1.0000

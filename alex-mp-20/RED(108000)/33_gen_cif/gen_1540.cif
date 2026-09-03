@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2BiRh2Bi
+_chemical_formula_sum              "Nd2 Bi2 Rh2"
+_cell_length_a       4.697763331947469
+_cell_length_b       4.697161992476619
+_cell_length_c       7.938155174255371
+_cell_angle_alpha    89.97891770964776
+_cell_angle_beta     90.02261043142431
+_cell_angle_gamma    120.00129035194382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.5652640461921692  0.46748867630958557  0.712954044342041  1.0000
+  Nd  Nd2       1.0  0.5650683045387268  0.4670780301094055  0.2129560708999634  1.0000
+  Bi  Bi1       1.0  0.23240070044994354  0.8003138899803162  0.9488010406494142  1.0000
+  Rh  Rh1       1.0  0.8982059955596924  0.13329540193080902  0.02284877747297287  1.0000
+  Rh  Rh2       1.0  0.8982871770858765  0.13464237749576569  0.40281823277473455  1.0000
+  Bi  Bi2       1.0  0.23159053921699524  0.8012116551399231  0.47704672813415533  1.0000

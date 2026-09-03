@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiDyAl2Au2
+_chemical_formula_sum              "Li1 Dy1 Al2 Au2"
+_cell_length_a       4.472516289206459
+_cell_length_b       4.473110210179712
+_cell_length_c       6.469610053249401
+_cell_angle_alpha    89.98152742831414
+_cell_angle_beta     90.00879756704882
+_cell_angle_gamma    119.97785893646791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.09061060313494744  0.7150650390207997  0.22632631127783284  1.0000
+  Dy  Dy1       1.0  0.09084626621039057  0.7153758720982109  0.7270016031547373  1.0000
+  Al  Al1       1.0  0.7572933583759799  0.049091427418733874  0.41863703603760044  1.0000
+  Al  Al2       1.0  0.4241147369838934  0.38189900295744067  0.03509025915312856  1.0000
+  Au  Au1       1.0  0.7574038876985305  0.048423272280302194  0.0010511820096690218  1.0000
+  Au  Au2       1.0  0.4240587917617239  0.3825835443901875  0.45277178387729233  1.0000

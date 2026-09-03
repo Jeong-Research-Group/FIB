@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Al2GaAg2
+_chemical_formula_sum              "Al2 Ga1 Ag2"
+_cell_length_a       4.3498144177216185
+_cell_length_b       4.22672232548778
+_cell_length_c       5.535352663997826
+_cell_angle_alpha    89.99971474751376
+_cell_angle_beta     113.13366574479986
+_cell_angle_gamma    90.00653497072288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5794378567864283  0.6449867391007493  0.3164453103707685  1.0000
+  Al  Al2       1.0  0.07935241525256898  0.14516776741987214  0.31624312455924547  1.0000
+  Ga  Ga1       1.0  0.737449738380697  0.14501764217924876  0.632252923609042  1.0000
+  Ag  Ag1       1.0  0.9121251843251259  0.6450553167921466  0.9818602628896004  1.0000
+  Ag  Ag2       1.0  0.38985241441200497  0.14488054963790914  0.9371313978883469  1.0000

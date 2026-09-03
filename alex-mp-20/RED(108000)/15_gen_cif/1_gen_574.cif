@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2Ni3Pd3
+_chemical_formula_sum              "Zn2 Ni3 Pd3"
+_cell_length_a       3.71182595616
+_cell_length_b       3.7113518545868245
+_cell_length_c       8.151381157686062
+_cell_angle_alpha    103.16731876197282
+_cell_angle_beta     103.15390310205132
+_cell_angle_gamma    89.99943920855317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6235162446631102  0.4415714385673401  0.8169631527214939  1.0000
+  Zn  Zn2       1.0  0.379262951901974  0.19623256484677185  0.32894757675983827  1.0000
+  Ni  Ni1       1.0  0.2515617581142137  0.5691106620602087  0.0728469139804949  1.0000
+  Ni  Ni2       1.0  0.0016756447943024474  0.31903131360520387  0.573066767748267  1.0000
+  Ni  Ni3       1.0  0.5016798466946245  0.8191148540106411  0.5732314038689132  1.0000
+  Pd  Pd1       1.0  0.1207446064224305  0.938622543815781  0.8111447194006456  1.0000
+  Pd  Pd2       1.0  0.8824965721830541  0.6993387958058961  0.33494993441296356  1.0000
+  Pd  Pd3       1.0  0.7512505077429005  0.06884992646418256  0.07293581589523297  1.0000

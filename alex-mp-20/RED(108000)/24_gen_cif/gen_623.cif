@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlZnAlZn3Fe2
+_chemical_formula_sum              "Al2 Zn4 Fe2"
+_cell_length_a       3.8422847960433266
+_cell_length_b       5.2761393866630595
+_cell_length_c       5.274691104888916
+_cell_angle_alpha    90.30058545840869
+_cell_angle_beta     89.95271027407453
+_cell_angle_gamma    89.96581057686403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5367454886436462  0.1793544739484787  0.6122601628303528  1.0000
+  Zn  Zn1       1.0  0.036513376981019974  0.9293366074562074  0.862554132938385  1.0000
+  Al  Al2       1.0  0.5371420383453369  0.6784246563911438  0.11267226934432983  1.0000
+  Zn  Zn2       1.0  0.036641765385866165  0.4291936755180359  0.8629468679428101  1.0000
+  Zn  Zn3       1.0  0.03649105876684189  0.4290076196193695  0.36232760548591614  1.0000
+  Zn  Zn4       1.0  0.03700989857316017  0.9298501014709473  0.3627561330795288  1.0000
+  Fe  Fe1       1.0  0.5370051860809326  0.678188681602478  0.6131875514984131  1.0000
+  Fe  Fe2       1.0  0.5362171530723572  0.17895962297916412  0.11306165903806686  1.0000

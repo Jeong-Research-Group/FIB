@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ho2SnPd4Au
+_chemical_formula_sum              "Ho2 Sn1 Pd4 Au1"
+_cell_length_a       4.512222252374149
+_cell_length_b       4.512215740434468
+_cell_length_c       7.492581103521091
+_cell_angle_alpha    89.99856275749197
+_cell_angle_beta     90.00129107716697
+_cell_angle_gamma    89.99448050070237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.5692476551723037  0.11829210592681914  0.4661247331788071  1.0000
+  Ho  Ho2       1.0  0.06963977012607636  0.6177351921645051  0.9661124540811731  1.0000
+  Sn  Sn1       1.0  0.5694801929437153  0.11804311905298205  0.9661360871543756  1.0000
+  Pd  Pd1       1.0  0.5696259432594865  0.6183774254418198  0.7224283702034263  1.0000
+  Pd  Pd2       1.0  0.06924651278202543  0.11766675700223063  0.7224327282699983  1.0000
+  Pd  Pd3       1.0  0.06928270245949823  0.1175487595390514  0.2098128940978658  1.0000
+  Pd  Pd4       1.0  0.5697218174381374  0.6183228940637413  0.20980438664403203  1.0000
+  Au  Au1       1.0  0.06954672327445338  0.617732262118883  0.4661187085534417  1.0000

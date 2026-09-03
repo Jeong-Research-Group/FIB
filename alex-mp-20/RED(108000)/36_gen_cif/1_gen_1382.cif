@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Ni2Sn2
+_chemical_formula_sum              "La2 Ni2 Sn2"
+_cell_length_a       4.5829881818051135
+_cell_length_b       4.583414824127067
+_cell_length_c       6.909165555856018
+_cell_angle_alpha    90.015230961049
+_cell_angle_beta     89.9933188401445
+_cell_angle_gamma    90.00058805980332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.11852809939223304  0.3799966061575383  0.4336528423966863  1.0000
+  La  La2       1.0  0.6183981913383587  0.8802321956904943  0.018806539303819397  1.0000
+  Ni  Ni1       1.0  0.6182695517049966  0.38034164780428475  0.7259789722057289  1.0000
+  Ni  Ni2       1.0  0.11817304528903673  0.880011109613506  0.726212470006946  1.0000
+  Sn  Sn1       1.0  0.6184254117968797  0.8801582686585573  0.5276581979403883  1.0000
+  Sn  Sn2       1.0  0.11837801952332865  0.3801380310160722  0.9246332500169049  1.0000

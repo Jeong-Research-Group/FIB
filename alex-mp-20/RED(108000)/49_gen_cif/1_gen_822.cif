@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbTi2Sb2H
+_chemical_formula_sum              "Rb1 Ti2 Sb2 H1"
+_cell_length_a       4.1327777390829725
+_cell_length_b       4.141279418809119
+_cell_length_c       8.600923237111864
+_cell_angle_alpha    89.95480591862021
+_cell_angle_beta     89.97037188977352
+_cell_angle_gamma    89.99409789676602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.3387268121271046  0.48387589903136086  0.8480376318971214  1.0000
+  Ti  Ti1       1.0  0.8387220123950282  0.4838117017461991  0.34835692212697833  1.0000
+  Ti  Ti2       1.0  0.33864227688923115  0.9834943127988393  0.34835479210676157  1.0000
+  Sb  Sb1       1.0  0.839147530218954  0.9834425571090207  0.12352932418645154  1.0000
+  Sb  Sb2       1.0  0.8389019939534905  0.9836861404165983  0.5732390129874739  1.0000
+  H   H1        1.0  0.33878906454616864  0.48368734221308185  0.34812661539216655  1.0000

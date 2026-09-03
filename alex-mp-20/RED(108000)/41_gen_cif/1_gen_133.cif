@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc2TiCrP4
+_chemical_formula_sum              "Sc2 Ti1 Cr1 P4"
+_cell_length_a       3.660540570222165
+_cell_length_b       6.284365486985638
+_cell_length_c       6.189350018408875
+_cell_angle_alpha    109.8534638125265
+_cell_angle_beta     90.00078157904233
+_cell_angle_gamma    89.99944275671963
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.008710937400731556  0.06223935717213242  0.9576223211678595  1.0000
+  Sc  Sc2       1.0  0.5087529030835669  0.5622743450541489  0.95754273469968  1.0000
+  Ti  Ti1       1.0  0.5087775193053153  0.06225399109369953  0.45752710390667234  1.0000
+  Cr  Cr1       1.0  0.008773093136945945  0.562198271564159  0.45771736888652725  1.0000
+  P   P1        1.0  0.008741995194888615  0.3097708206989212  0.6874641375408616  1.0000
+  P   P2        1.0  0.00874402888643643  0.8147015710868425  0.2278206313098707  1.0000
+  P   P3        1.0  0.5087402082734868  0.3243538405595173  0.23149675516087515  1.0000
+  P   P4        1.0  0.508775014354032  0.8002146906428631  0.6837098372647714  1.0000

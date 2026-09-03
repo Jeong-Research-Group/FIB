@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HoGa2Fe2C
+_chemical_formula_sum              "Ho1 Ga2 Fe2 C1"
+_cell_length_a       3.852944138630409
+_cell_length_b       3.8525702290940727
+_cell_length_c       5.497180674507085
+_cell_angle_alpha    89.99302815529073
+_cell_angle_beta     89.99514238370652
+_cell_angle_gamma    89.99638411385071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.6832329668943017  0.8852565597693203  0.5123576714267896  1.0000
+  Ga  Ga1       1.0  0.1833491216186219  0.38530834291511323  0.7375986734584927  1.0000
+  Ga  Ga2       1.0  0.1830861158580046  0.3851825773210166  0.28727021093974875  1.0000
+  Fe  Fe1       1.0  0.683481160096421  0.3850694806742827  0.013148299949864954  1.0000
+  Fe  Fe2       1.0  0.1833261256515587  0.8851564126672408  0.012038305280495624  1.0000
+  C   C1        1.0  0.6833964104460191  0.8850895586079104  0.0128754612417741  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga3CoIrSrIrGa
+_chemical_formula_sum              "Ga4 Co1 Ir2 Sr1"
+_cell_length_a       4.207885545487955
+_cell_length_b       4.209528494680103
+_cell_length_c       9.891892433166504
+_cell_angle_alpha    90.03953564009979
+_cell_angle_beta     90.0751345771564
+_cell_angle_gamma    120.00650529397194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.20607647299766538  0.1964970380067825  0.3820643424987793  1.0000
+  Ga  Ga2       1.0  0.5387185215950012  0.8628934621810913  0.7539936900138855  1.0000
+  Ga  Ga3       1.0  0.8730663061141968  0.5297914147377014  0.5258247256278992  1.0000
+  Co  Co1       1.0  0.8721258044242859  0.5294405221939087  0.7571277618408203  1.0000
+  Ir  Ir1       1.0  0.8729475736618042  0.5293887853622437  0.2729170322418213  1.0000
+  Sr  Sr1       1.0  0.20628829300403595  0.1958145946264267  0.9940483570098877  1.0000
+  Ir  Ir2       1.0  0.20587284862995148  0.19603873789310455  0.6477280855178833  1.0000
+  Ga  Ga4       1.0  0.5405035018920898  0.8630507588386536  0.2172517627477646  1.0000

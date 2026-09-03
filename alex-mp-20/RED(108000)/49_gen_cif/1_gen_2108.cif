@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tm2CdPbN
+_chemical_formula_sum              "Tm2 Cd1 Pb1 N1"
+_cell_length_a       4.744989132921226
+_cell_length_b       4.734672156904018
+_cell_length_c       4.744352296087631
+_cell_angle_alpha    89.99998734476786
+_cell_angle_beta     89.97470806847336
+_cell_angle_gamma    90.00000124002271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.8859783969105077  0.30403671186406367  0.32661618150586125  1.0000
+  Tm  Tm2       1.0  0.38596578243868224  0.30421880295956144  0.8267575660703614  1.0000
+  Cd  Cd1       1.0  0.8860142458030533  0.8040233945066089  0.8266844429974503  1.0000
+  Pb  Pb1       1.0  0.38606912349964306  0.8039974012648451  0.32649580667391614  1.0000
+  N   N1        1.0  0.8861038860549857  0.3038943463207964  0.82647695203465  1.0000

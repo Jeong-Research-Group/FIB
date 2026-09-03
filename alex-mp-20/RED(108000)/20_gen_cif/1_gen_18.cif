@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zn2PbSe4
+_chemical_formula_sum              "Zn2 Pb1 Se4"
+_cell_length_a       4.2340292304265565
+_cell_length_b       7.3901303865460095
+_cell_length_c       7.91366197507895
+_cell_angle_alpha    55.35895431420717
+_cell_angle_beta     90.04093140433584
+_cell_angle_gamma    90.0162744466985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.4218510863098037  0.7843254054867723  0.05402459557994639  1.0000
+  Zn  Zn2       1.0  0.42172188109676095  0.2714615769078542  0.4119737524898197  1.0000
+  Pb  Pb1       1.0  0.9216761093782994  0.5279959667765046  0.7329274816803127  1.0000
+  Se  Se1       1.0  0.42103872386990426  0.5909693366771082  0.43174999888006227  1.0000
+  Se  Se2       1.0  0.42237079390677323  0.4648020703805535  0.03422454194400145  1.0000
+  Se  Se3       1.0  0.9218843736512639  0.037496896734785276  0.5769137878635472  1.0000
+  Se  Se4       1.0  0.9216672178358686  0.01832302771412823  0.8891881743596586  1.0000

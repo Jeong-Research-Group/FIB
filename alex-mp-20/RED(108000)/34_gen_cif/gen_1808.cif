@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Se2NaPt
+_chemical_formula_sum              "Cs2 Se2 Na1 Pt1"
+_cell_length_a       4.804527471197056
+_cell_length_b       4.810963638729351
+_cell_length_c       8.195817947387695
+_cell_angle_alpha    90.00331514602996
+_cell_angle_beta     89.96984721862529
+_cell_angle_gamma    89.94396079514792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.5326666235923767  0.5639107227325438  0.010272339917719364  1.0000
+  Cs  Cs2       1.0  0.03233179822564125  0.06402651965618134  0.3497934341430664  1.0000
+  Se  Se1       1.0  0.032650284469127655  0.06430371850728989  0.841507613658905  1.0000
+  Se  Se2       1.0  0.5324324369430542  0.5637257695198058  0.5193859338760376  1.0000
+  Na  Na1       1.0  0.5318506956100464  0.06344103068113326  0.6790841817855835  1.0000
+  Pt  Pt1       1.0  0.03276744857430458  0.5641566514968872  0.6811181306838989  1.0000

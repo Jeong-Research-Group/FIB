@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zn3FeCoCu2
+_chemical_formula_sum              "Zn3 Fe1 Co1 Cu2"
+_cell_length_a       3.760796368651384
+_cell_length_b       4.37698136689862
+_cell_length_c       6.086678097725567
+_cell_angle_alpha    79.0633882301874
+_cell_angle_beta     90.00104795597262
+_cell_angle_gamma    115.44344198148644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5610004447956757  0.01459768591381234  0.029851015655773628  1.0000
+  Zn  Zn2       1.0  0.27665601484382785  0.4461753274448631  0.8734866396210408  1.0000
+  Zn  Zn3       1.0  0.8421310400785934  0.5768926708762816  0.18307844414493812  1.0000
+  Fe  Fe1       1.0  0.42667143937565677  0.7459301572671608  0.4467928339267752  1.0000
+  Co  Co1       1.0  0.12710826866693453  0.14689615878482987  0.3195448559623955  1.0000
+  Cu  Cu1       1.0  0.990856049310724  0.8746591881197513  0.7350675412112857  1.0000
+  Cu  Cu2       1.0  0.7041417538994348  0.30103353509177583  0.5991417224756996  1.0000

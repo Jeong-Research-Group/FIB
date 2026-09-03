@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Ti2Au2
+_chemical_formula_sum              "Zr2 Ti2 Au2"
+_cell_length_a       4.824718672144034
+_cell_length_b       4.828607485550215
+_cell_length_c       5.800309192951528
+_cell_angle_alpha    89.9834472128147
+_cell_angle_beta     89.97155980694319
+_cell_angle_gamma    119.99426643808197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9928421533656036  0.12618041220420506  0.3713709619722739  1.0000
+  Zr  Zr2       1.0  0.3256340903619657  0.7927446779502025  0.8719241332130808  1.0000
+  Ti  Ti1       1.0  0.6587732950169594  0.4590729145323697  0.6213085497295427  1.0000
+  Ti  Ti2       1.0  0.6586084363347522  0.4591631138017265  0.12123141773042194  1.0000
+  Au  Au1       1.0  0.993021424068632  0.12626601618815658  0.8704548862082484  1.0000
+  Au  Au2       1.0  0.3255242665296055  0.7921064231600725  0.3706306859215839  1.0000

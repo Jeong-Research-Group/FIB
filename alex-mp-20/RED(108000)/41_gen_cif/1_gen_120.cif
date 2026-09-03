@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnFe2Mo
+_chemical_formula_sum              "Mn1 Fe2 Mo1"
+_cell_length_a       2.9865225808185825
+_cell_length_b       2.986535322813395
+_cell_length_c       5.698411508497
+_cell_angle_alpha    90.03950919722101
+_cell_angle_beta     89.94345952286606
+_cell_angle_gamma    90.02576012080014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7805948154374756  0.8493514636446814  0.6767899798304847  1.0000
+  Fe  Fe1       1.0  0.28056489413464275  0.34931287733963257  0.43361695003822354  1.0000
+  Fe  Fe2       1.0  0.2805702717430696  0.34935530802651243  0.9198499493433805  1.0000
+  Mo  Mo1       1.0  0.7806113549524935  0.8492607165582433  0.17675851497129683  1.0000

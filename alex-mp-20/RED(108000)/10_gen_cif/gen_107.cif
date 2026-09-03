@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgErMgAu2
+_chemical_formula_sum              "Mg2 Er1 Au2"
+_cell_length_a       4.147152503659269
+_cell_length_b       4.122902876909987
+_cell_length_c       6.4097490310668945
+_cell_angle_alpha    90.00327416500541
+_cell_angle_beta     89.98876001378667
+_cell_angle_gamma    90.01064393950175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.26979967951774597  0.6710658669471741  0.032220736145973206  1.0000
+  Er  Er1       1.0  0.7694532871246338  0.6708247661590576  0.530809223651886  1.0000
+  Mg  Mg2       1.0  0.7695192098617554  0.1713663935661316  0.0321640707552433  1.0000
+  Au  Au1       1.0  0.26912012696266174  0.170610710978508  0.319851815700531  1.0000
+  Au  Au2       1.0  0.26899468898773193  0.1703660488128662  0.7441176176071168  1.0000

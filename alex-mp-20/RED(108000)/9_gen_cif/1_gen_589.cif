@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrGe2Ir2
+_chemical_formula_sum              "Sr1 Ge2 Ir2"
+_cell_length_a       4.237977961725827
+_cell_length_b       4.238989568639094
+_cell_length_c       6.189114710181238
+_cell_angle_alpha    110.07206418228525
+_cell_angle_beta     110.04110610072766
+_cell_angle_gamma    89.99667168749718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.23832735970111113  0.6235183126253387  0.6153346901955076  1.0000
+  Ge  Ge1       1.0  0.6093564280754213  0.9939366938085139  0.35649324570445623  1.0000
+  Ge  Ge2       1.0  0.8677047678646604  0.2524266654472801  0.8748493069645946  1.0000
+  Ir  Ir1       1.0  0.9885026553698328  0.8730423578139342  0.11568347571419846  1.0000
+  Ir  Ir2       1.0  0.48830422115160826  0.3730520359481097  0.11603944795472183  1.0000

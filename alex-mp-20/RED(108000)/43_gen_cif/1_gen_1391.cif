@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In3Ni2Pt3
+_chemical_formula_sum              "In3 Ni2 Pt3"
+_cell_length_a       3.88496419701074
+_cell_length_b       4.058488492049382
+_cell_length_c       8.255752880082456
+_cell_angle_alpha    90.00281622182239
+_cell_angle_beta     89.98757802869447
+_cell_angle_gamma    90.00037685332835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.32192140850969797  0.3568907601273757  0.579706492446085  1.0000
+  In  In2       1.0  0.32219647219506026  0.8565535557440344  0.8450576009477603  1.0000
+  In  In3       1.0  0.3223226822031216  0.3564570581423956  0.11033470656681066  1.0000
+  Ni  Ni1       1.0  0.3222517839067028  0.8565366851770816  0.34437341385564935  1.0000
+  Ni  Ni2       1.0  0.8224258089840403  0.35657888987683245  0.8450465623130852  1.0000
+  Pt  Pt1       1.0  0.8219668976584725  0.8569135551869616  0.5948020536740359  1.0000
+  Pt  Pt2       1.0  0.822154390794225  0.8564963260984686  0.0953294940612958  1.0000
+  Pt  Pt3       1.0  0.8221905670042085  0.35661189945465666  0.34514435100817087  1.0000

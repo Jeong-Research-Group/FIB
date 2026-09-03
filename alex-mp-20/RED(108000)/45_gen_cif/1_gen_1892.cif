@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2Ca4Hg2
+_chemical_formula_sum              "Sr2 Ca4 Hg2"
+_cell_length_a       4.6463385326349425
+_cell_length_b       6.8860736668828935
+_cell_length_c       10.131626479912244
+_cell_angle_alpha    89.97908973440765
+_cell_angle_beta     90.000466545133
+_cell_angle_gamma    109.7066705281173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.3367961236362886  0.45200253414909036  0.0035922519025661055  1.0000
+  Sr  Sr2       1.0  0.4608436289645781  0.700528793755601  0.5058415041497614  1.0000
+  Ca  Ca1       1.0  0.04748951457444626  0.8733790347922981  0.1949307112997415  1.0000
+  Ca  Ca2       1.0  0.04765082576565653  0.8734901034266459  0.8141613120369757  1.0000
+  Ca  Ca3       1.0  0.7498479978303435  0.2784447672740315  0.31471580467373417  1.0000
+  Ca  Ca4       1.0  0.7504653105380684  0.2794192983835384  0.6950749556211243  1.0000
+  Hg  Hg1       1.0  0.15617791542394602  0.09124264679234557  0.5045610052436921  1.0000
+  Hg  Hg2       1.0  0.6409031321614925  0.060024887693315744  0.0048104880773999145  1.0000

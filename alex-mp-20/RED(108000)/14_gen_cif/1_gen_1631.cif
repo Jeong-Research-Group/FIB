@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2Mo3W
+_chemical_formula_sum              "Ta2 Mo3 W1"
+_cell_length_a       3.2154118992661536
+_cell_length_b       4.542729245622212
+_cell_length_c       7.019366901764411
+_cell_angle_alpha    90.00043117743544
+_cell_angle_beta     103.24126053442548
+_cell_angle_gamma    89.99723914526638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5407985288375899  0.007523348570728722  0.9311244676854713  1.0000
+  Ta  Ta2       1.0  0.3754531560109422  0.5075301783750421  0.6007960981397049  1.0000
+  Mo  Mo1       1.0  0.705762934328764  0.5077152687505169  0.26116463315471733  1.0000
+  Mo  Mo2       1.0  0.8721688311112997  0.00755322519136107  0.5942209114971553  1.0000
+  Mo  Mo3       1.0  0.04491990957263867  0.507622099800981  0.9392680731352426  1.0000
+  W   W1        1.0  0.2116079332764101  0.007590804619868539  0.2726197465121073  1.0000

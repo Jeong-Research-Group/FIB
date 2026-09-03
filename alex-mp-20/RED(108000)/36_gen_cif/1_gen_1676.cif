@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaSi2Ni2Pt
+_chemical_formula_sum              "La1 Si2 Ni2 Pt1"
+_cell_length_a       4.064361217121104
+_cell_length_b       4.064432762984131
+_cell_length_c       6.867817428557852
+_cell_angle_alpha    90.02424739127984
+_cell_angle_beta     90.00416934856437
+_cell_angle_gamma    120.02965855631653
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.04001381664913888  0.19220262724272735  0.727059140904787  1.0000
+  Si  Si1       1.0  0.7067897671297168  0.5250845818480832  0.4106494775227027  1.0000
+  Si  Si2       1.0  0.3733813882240859  0.8591889856682446  0.04334699816330725  1.0000
+  Ni  Ni1       1.0  0.7066730495989668  0.525596331085296  0.054617452984594805  1.0000
+  Ni  Ni2       1.0  0.3733689326768964  0.8589617572350071  0.39927499392415816  1.0000
+  Pt  Pt1       1.0  0.04002879116716955  0.192185879002174  0.22713809213564404  1.0000

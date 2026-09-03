@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2Cd2Au3
+_chemical_formula_sum              "Mg2 Cd2 Au3"
+_cell_length_a       3.81666646653565
+_cell_length_b       5.274360320449663
+_cell_length_c       7.165017090445147
+_cell_angle_alpha    93.0864958769791
+_cell_angle_beta     90.00027641203914
+_cell_angle_gamma    111.20596772796827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.31304936548375695  0.491460139774803  0.30693400143586796  1.0000
+  Mg  Mg2       1.0  0.1772253583393042  0.22027339165690057  0.9001811656500416  1.0000
+  Cd  Cd1       1.0  0.0349759843050635  0.9361567262982494  0.4564086030233858  1.0000
+  Cd  Cd2       1.0  0.455226948985132  0.7760398473128752  0.7509427266547493  1.0000
+  Au  Au1       1.0  0.6049911408227008  0.07618494621511074  0.16803844168767207  1.0000
+  Au  Au2       1.0  0.7452075689698935  0.3563790755326958  0.6032401190859689  1.0000
+  Au  Au3       1.0  0.8848180446991242  0.6351080697155107  0.03896159374204861  1.0000

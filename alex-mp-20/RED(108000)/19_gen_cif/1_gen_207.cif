@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiSmNi2Ge2
+_chemical_formula_sum              "Li1 Sm1 Ni2 Ge2"
+_cell_length_a       4.0922808095391705
+_cell_length_b       4.0914247136504835
+_cell_length_c       6.7276535977521155
+_cell_angle_alpha    90.02211813856937
+_cell_angle_beta     89.98907948763193
+_cell_angle_gamma    120.00119416041431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2687906879375495  0.5121229945251448  0.2594949667243626  1.0000
+  Sm  Sm1       1.0  0.26859844288377605  0.5115696460845823  0.759619182550044  1.0000
+  Ni  Ni1       1.0  0.6015911025077488  0.1773286206931904  0.40950829562901514  1.0000
+  Ni  Ni2       1.0  0.9357534293665077  0.846323197906213  0.10817370051237477  1.0000
+  Ge  Ge1       1.0  0.9352643409637516  0.8444552375625554  0.47012958599906823  1.0000
+  Ge  Ge2       1.0  0.6023613424697767  0.17935355781412035  0.04770821989091481  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CLi2PtCPtLi
+_chemical_formula_sum              "C2 Li3 Pt2"
+_cell_length_a       3.493807257574488
+_cell_length_b       5.424468518605944
+_cell_length_c       5.2622246742248535
+_cell_angle_alpha    107.30876769044707
+_cell_angle_beta     109.38702989879859
+_cell_angle_gamma    89.89157988137372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.9796571731567384  0.4205880761146545  0.8209693431854248  1.0000
+  Li  Li1       1.0  0.5595397353172302  0.8306563496589661  0.9813404679298401  1.0000
+  Li  Li2       1.0  0.29659274220466614  0.2577413320541382  0.4553754925727844  1.0000
+  Pt  Pt1       1.0  0.9078521728515626  0.9897027015686035  0.6783159375190735  1.0000
+  C   C2        1.0  0.8996875286102296  0.6097537875175476  0.6633725762367249  1.0000
+  Pt  Pt2       1.0  0.5882601141929626  0.35629764199256897  0.03888469561934471  1.0000
+  Li  Li3       1.0  0.2515016496181488  0.675238311290741  0.3647121489048004  1.0000

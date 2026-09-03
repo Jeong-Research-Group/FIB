@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2BaPbBaMg
+_chemical_formula_sum              "Mg3 Ba2 Pb1"
+_cell_length_a       5.039170970208819
+_cell_length_b       6.521588098939733
+_cell_length_c       6.838503837585449
+_cell_angle_alpha    89.84426052044309
+_cell_angle_beta     68.37942161143835
+_cell_angle_gamma    89.93224702335978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3610660433769226  0.3414261043071747  0.6211497783660889  1.0000
+  Mg  Mg2       1.0  0.786396324634552  0.09811598807573318  0.7688115239143373  1.0000
+  Ba  Ba1       1.0  0.08005579560995102  0.3555119335651397  0.18297824263572696  1.0000
+  Pb  Pb1       1.0  0.7865931987762451  0.5981099009513855  0.768706977367401  1.0000
+  Ba  Ba2       1.0  0.49356088042259216  0.840315043926239  0.3548466563224793  1.0000
+  Mg  Mg3       1.0  0.21244953572750092  0.8553797006607056  0.9164034724235536  1.0000

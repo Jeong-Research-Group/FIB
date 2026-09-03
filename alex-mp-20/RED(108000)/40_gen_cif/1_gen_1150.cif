@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       TiC
+_chemical_formula_sum              "Ti1 C1"
+_cell_length_a       3.0678601300666113
+_cell_length_b       3.066481570895418
+_cell_length_c       3.067747322056899
+_cell_angle_alpha    120.02397017084597
+_cell_angle_beta     89.95642631282199
+_cell_angle_gamma    120.04125131329268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6426968491688609  0.14141782897223817  0.4233114279146015  1.0000
+  C   C1        1.0  0.1424251586382213  0.1429625942981072  0.922818138202035  1.0000

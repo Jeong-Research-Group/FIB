@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       La2InTe
+_chemical_formula_sum              "La2 In1 Te1"
+_cell_length_a       4.419929736256922
+_cell_length_b       4.789216443171717
+_cell_length_c       6.540939698073394
+_cell_angle_alpha    89.90171986222987
+_cell_angle_beta     89.93535040481201
+_cell_angle_gamma    90.00293592534665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.8642669600301067  0.7352570143696892  0.31427701804922026  1.0000
+  La  La2       1.0  0.36547971250680483  0.23637740742219207  0.81404007563418  1.0000
+  In  In1       1.0  0.8654878699484689  0.7360793628527629  0.8145808230591534  1.0000
+  Te  Te1       1.0  0.36472806202835123  0.23534005693194446  0.31369352358265057  1.0000

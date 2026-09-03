@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi2Mg2BiCa
+_chemical_formula_sum              "Bi3 Mg2 Ca1"
+_cell_length_a       3.9740841400357247
+_cell_length_b       3.973219832761606
+_cell_length_c       12.924503326416016
+_cell_angle_alpha    90.01816397881169
+_cell_angle_beta     89.90690019272017
+_cell_angle_gamma    119.93797242671023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.72800213098526  0.9293270111083985  0.5934436321258545  1.0000
+  Bi  Bi2       1.0  0.3954319357872009  0.2625730037689209  0.909887731075287  1.0000
+  Mg  Mg1       1.0  0.061613250523805674  0.5957453846931459  0.7540861964225769  1.0000
+  Mg  Mg2       1.0  0.3952600061893463  0.2628995180130005  0.43282371759414673  1.0000
+  Bi  Bi3       1.0  0.06145985424518585  0.595820963382721  0.2765297293663025  1.0000
+  Ca  Ca1       1.0  0.7286714315414429  0.9287988543510437  0.09312754124403  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CsI3GeI2Ba
+_chemical_formula_sum              "Cs1 I5 Ge1 Ba1"
+_cell_length_a       5.847869347698398
+_cell_length_b       9.253627012246865
+_cell_length_c       8.696626663208008
+_cell_angle_alpha    89.30824098718739
+_cell_angle_beta     109.6116534941656
+_cell_angle_gamma    89.89810971274939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.050452038645744324  0.49371427297592163  0.042018380016088486  1.0000
+  I   I1        1.0  0.21058472990989685  0.9929309487342834  0.36125802993774414  1.0000
+  I   I2        1.0  0.865652859210968  0.7800133228302002  0.671074628829956  1.0000
+  I   I3        1.0  0.5928347110748291  0.23427140712738037  0.1274855732917786  1.0000
+  Ge  Ge1       1.0  0.7185707092285157  0.9853385686874389  0.37659376859664917  1.0000
+  I   I4        1.0  0.5931927561759949  0.7587858438491821  0.1281743794679642  1.0000
+  I   I5        1.0  0.8664206266403198  0.21498067677021027  0.6725887060165405  1.0000
+  Ba  Ba1       1.0  0.42446228861808777  0.0021413713693618774  0.7887548208236694  1.0000

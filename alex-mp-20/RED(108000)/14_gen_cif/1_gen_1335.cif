@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdNi3H
+_chemical_formula_sum              "Cd1 Ni3 H1"
+_cell_length_a       3.7646295751249452
+_cell_length_b       3.7623500206197673
+_cell_length_c       3.7615519615793067
+_cell_angle_alpha    89.99355184740845
+_cell_angle_beta     89.9966739220005
+_cell_angle_gamma    89.94148224228134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.31343525554715135  0.9941515265823854  0.24899968026908506  1.0000
+  Ni  Ni1       1.0  0.8133264452758064  0.9939967994114406  0.7489090188491947  1.0000
+  Ni  Ni2       1.0  0.8134969354161646  0.4942596175183587  0.24913289176596962  1.0000
+  Ni  Ni3       1.0  0.3135954293412526  0.49415740324914265  0.7487584235155473  1.0000
+  H   H1        1.0  0.8134328738520417  0.4940782635450945  0.7487194272112148  1.0000

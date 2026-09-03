@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2PtScPtHg
+_chemical_formula_sum              "Sc3 Pt2 Hg1"
+_cell_length_a       4.759260589816391
+_cell_length_b       4.756467051725399
+_cell_length_c       5.898959159851074
+_cell_angle_alpha    89.82525895149195
+_cell_angle_beta     89.87735963352709
+_cell_angle_gamma    119.8526611393641
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8407486081123352  0.978593111038208  0.5716473460197449  1.0000
+  Sc  Sc2       1.0  0.17407944798469543  0.6453193426132202  0.19021739065647122  1.0000
+  Pt  Pt1       1.0  0.8407512903213501  0.9782859683036804  0.06627609580755234  1.0000
+  Sc  Sc3       1.0  0.5071340203285217  0.3118197917938232  0.880882441997528  1.0000
+  Pt  Pt2       1.0  0.17450483143329615  0.6451650857925414  0.6958907246589661  1.0000
+  Hg  Hg1       1.0  0.5069854259490967  0.3118932545185089  0.38029214739799494  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NbIrInIrNb
+_chemical_formula_sum              "Nb2 Ir2 In1"
+_cell_length_a       4.568434006409046
+_cell_length_b       4.569048886381827
+_cell_length_c       5.4470062255859375
+_cell_angle_alpha    65.21035540670448
+_cell_angle_beta     65.20397593289836
+_cell_angle_gamma    59.96193036156166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.5091007351875305  0.5402247905731201  0.7827203869819641  1.0000
+  Ir  Ir1       1.0  0.10757263749837875  0.13739922642707825  0.9873852729797363  1.0000
+  In  In1       1.0  0.3029692471027374  0.3329664170742035  0.40374526381492615  1.0000
+  Ir  Ir2       1.0  0.9026514291763306  0.9318257570266723  0.6028967499732972  1.0000
+  Nb  Nb2       1.0  0.713974416255951  0.7443130612373351  0.1669311821460724  1.0000

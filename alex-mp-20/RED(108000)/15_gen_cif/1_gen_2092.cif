@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeNb2Sn2B
+_chemical_formula_sum              "Ce1 Nb2 Sn2 B1"
+_cell_length_a       4.5165698483907155
+_cell_length_b       4.516575878933421
+_cell_length_c       6.355122579832485
+_cell_angle_alpha    89.99291313610685
+_cell_angle_beta     89.98843560838641
+_cell_angle_gamma    90.0014092174003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.49774714464734393  0.7086601971772643  0.3059489922090498  1.0000
+  Nb  Nb1       1.0  0.4974866614183586  0.2088710208790473  0.805592508829004  1.0000
+  Nb  Nb2       1.0  0.9977661413453548  0.7088278443872568  0.8056160298864394  1.0000
+  Sn  Sn1       1.0  0.9973602150103222  0.20869681470563922  0.08197079952321877  1.0000
+  Sn  Sn2       1.0  0.9976210664461628  0.20884467178559646  0.5287907046814173  1.0000
+  B   B1        1.0  0.4976503887356258  0.708901600576993  0.8056577709660454  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScNiH3
+_chemical_formula_sum              "Sc1 Ni1 H3"
+_cell_length_a       3.368878185848879
+_cell_length_b       3.370228586441744
+_cell_length_c       3.3696117609648186
+_cell_angle_alpha    90.06772255557685
+_cell_angle_beta     90.00344404192892
+_cell_angle_gamma    90.0479594390899
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.7370301207674994  0.2724804255318626  0.22991204288131217  1.0000
+  Ni  Ni1       1.0  0.23703830422036304  0.7726515055369391  0.7298379402058215  1.0000
+  H   H1        1.0  0.23723320058337244  0.27272256755632523  0.7297266903481388  1.0000
+  H   H2        1.0  0.7370423488420462  0.7725776500544004  0.7300214881661713  1.0000
+  H   H3        1.0  0.23690890112963472  0.7728397741628776  0.22984629579487864  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb2H2Pd2
+_chemical_formula_sum              "Nb2 H2 Pd2"
+_cell_length_a       2.878771727936257
+_cell_length_b       5.148996474034915
+_cell_length_c       5.179463466619864
+_cell_angle_alpha    111.41698750304572
+_cell_angle_beta     90.00906266329267
+_cell_angle_gamma    89.9966576875886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.19386385505110226  0.5950404598490895  0.7493336972837225  1.0000
+  Nb  Nb2       1.0  0.19344430362445622  0.07571376968193594  0.25102419450354096  1.0000
+  H   H1        1.0  0.6940066332404641  0.3339980199228986  0.5016043616497281  1.0000
+  H   H2        1.0  0.1933852191797264  0.8353790148410215  0.49999393804074205  1.0000
+  Pd  Pd1       1.0  0.6940500385449005  0.582133382105126  0.2353055761531587  1.0000
+  Pd  Pd2       1.0  0.6934278420212151  0.08840700471678895  0.7655875583474625  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Rb2ZnCd2O2
+_chemical_formula_sum              "Rb2 Zn1 Cd2 O2"
+_cell_length_a       3.8918246858836816
+_cell_length_b       7.571967618119486
+_cell_length_c       6.197555800231238
+_cell_angle_alpha    92.03068740785336
+_cell_angle_beta     90.00048317692743
+_cell_angle_gamma    90.00014287147546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.2775536625608063  0.9252435839809873  0.3478235177426858  1.0000
+  Rb  Rb2       1.0  0.7773256614688223  0.42545710572618084  0.3488590871757502  1.0000
+  Zn  Zn1       1.0  0.7775063886829712  0.9256317122433748  0.8485055625642124  1.0000
+  Cd  Cd1       1.0  0.2774191745020312  0.6109709262786172  0.8246293379389991  1.0000
+  Cd  Cd2       1.0  0.2775238173387169  0.23997438471156865  0.8713845468279914  1.0000
+  O   O1        1.0  0.7775476688836119  0.7539694003776821  0.6317268131080553  1.0000
+  O   O2        1.0  0.7772810476527582  0.09678372540547783  0.06541154465149315  1.0000

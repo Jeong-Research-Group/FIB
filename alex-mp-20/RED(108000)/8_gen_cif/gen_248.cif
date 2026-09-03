@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti3GaN
+_chemical_formula_sum              "Ti3 Ga1 N1"
+_cell_length_a       4.1013644681529415
+_cell_length_b       4.101152988109882
+_cell_length_c       4.105408668518066
+_cell_angle_alpha    90.01208510907962
+_cell_angle_beta     90.02306805528092
+_cell_angle_gamma    89.97530454091915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6336334943771362  0.6064590811729431  0.826613187789917  1.0000
+  Ti  Ti2       1.0  0.6340129971504211  0.10648630559444427  0.3269994556903839  1.0000
+  Ti  Ti3       1.0  0.13366131484508514  0.606474757194519  0.3267005681991577  1.0000
+  Ga  Ga1       1.0  0.13396421074867249  0.1068410873413086  0.8270937204360962  1.0000
+  N   N1        1.0  0.633971095085144  0.6066058278083801  0.3271132707595825  1.0000

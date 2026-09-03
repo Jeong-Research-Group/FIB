@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiErAl2Au2
+_chemical_formula_sum              "Li1 Er1 Al2 Au2"
+_cell_length_a       4.473681625604004
+_cell_length_b       4.474574509050349
+_cell_length_c       6.382857493280597
+_cell_angle_alpha    90.02105126198313
+_cell_angle_beta     89.98985775215077
+_cell_angle_gamma    119.99380304639413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.29310955088613616  0.8536304910054365  0.11127829202005794  1.0000
+  Er  Er1       1.0  0.2931357003791773  0.8537295800364282  0.6117854277220189  1.0000
+  Al  Al1       1.0  0.6265833381595857  0.5202648396871002  0.30441370164617076  1.0000
+  Al  Al2       1.0  0.9597106452420787  0.18711390152966  0.9189974471347795  1.0000
+  Au  Au1       1.0  0.6264095168143333  0.5207126029379529  0.8831427652197872  1.0000
+  Au  Au2       1.0  0.9594237051232994  0.1864711529242961  0.3401811138070804  1.0000

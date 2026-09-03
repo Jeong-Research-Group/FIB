@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiInSn2Pd
+_chemical_formula_sum              "Li1 In1 Sn2 Pd1"
+_cell_length_a       4.067929913212942
+_cell_length_b       4.125422828759867
+_cell_length_c       7.379102154845238
+_cell_angle_alpha    106.25575331647238
+_cell_angle_beta     105.95946993149032
+_cell_angle_gamma    90.00031411285578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.31743863433786884  0.95498924291527  0.9557949483297504  1.0000
+  In  In1       1.0  0.06930361338273368  0.20593405554421992  0.457393798339955  1.0000
+  Sn  Sn1       1.0  0.6797525384518568  0.8170264342642038  0.679697352964705  1.0000
+  Sn  Sn2       1.0  0.4536048808268418  0.591768816294635  0.22849681268923566  1.0000
+  Pd  Pd1       1.0  0.8156150168866898  0.453454335859072  0.9522697604054109  1.0000

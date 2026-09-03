@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Al2Ag2
+_chemical_formula_sum              "Mg2 Al2 Ag2"
+_cell_length_a       4.248224769839392
+_cell_length_b       5.0454353921984465
+_cell_length_c       5.8161434113720665
+_cell_angle_alpha    104.30097252987854
+_cell_angle_beta     89.99125510431304
+_cell_angle_gamma    114.9036049892723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3256623159490689  0.3649228076447638  0.1208684090132774  1.0000
+  Mg  Mg2       1.0  0.6569865219956884  0.0260153335465642  0.7625800013544691  1.0000
+  Al  Al1       1.0  0.9917259546274428  0.6963534556599552  0.4419467504321923  1.0000
+  Al  Al2       1.0  0.9911045875429443  0.6948238563329385  0.9415462526171048  1.0000
+  Ag  Ag1       1.0  0.65362913746204  0.020270827265327303  0.2665500548444748  1.0000
+  Ag  Ag2       1.0  0.32946795933782913  0.3708884724453943  0.6166257259807345  1.0000

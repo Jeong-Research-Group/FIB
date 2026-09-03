@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2AlFeIr2
+_chemical_formula_sum              "Sm2 Al1 Fe1 Ir2"
+_cell_length_a       5.3029557224528565
+_cell_length_b       5.30260312678448
+_cell_length_c       5.382456762182686
+_cell_angle_alpha    93.71617506711475
+_cell_angle_beta     120.3987299372227
+_cell_angle_gamma    114.87491907200487
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7459836281842069  0.8572761756221998  0.7653931859343723  1.0000
+  Sm  Sm2       1.0  0.24620164531013383  0.6201361169146916  0.02868800444761102  1.0000
+  Al  Al1       1.0  0.9966179366153957  0.2385224226498386  0.3973016253529448  1.0000
+  Fe  Fe1       1.0  0.49653789273856247  0.2389154546678882  0.897798962433164  1.0000
+  Ir  Ir1       1.0  0.49636016718441656  0.23873744860706522  0.39694362018660334  1.0000
+  Ir  Ir2       1.0  0.9960804889835342  0.7383997307666877  0.3970020741159338  1.0000

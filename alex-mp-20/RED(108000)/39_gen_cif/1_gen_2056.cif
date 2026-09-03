@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La2CePr2Hg2
+_chemical_formula_sum              "La2 Ce1 Pr2 Hg2"
+_cell_length_a       3.8660198892810413
+_cell_length_b       7.048636876692671
+_cell_length_c       9.509615937052878
+_cell_angle_alpha    111.43419331308372
+_cell_angle_beta     90.01156316157646
+_cell_angle_gamma    105.92217518059924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.45241697200083963  0.5323456491943919  0.05352690715721901  1.0000
+  La  La2       1.0  0.20047243160394762  0.028045895037417598  0.42058587542562553  1.0000
+  Ce  Ce1       1.0  0.8263483022038123  0.27996065924728025  0.237291846834978  1.0000
+  Pr  Pr1       1.0  0.7102683283604867  0.04815272192352069  0.7898100940089174  1.0000
+  Pr  Pr2       1.0  0.9427275027522695  0.5125269475549384  0.6842412743999433  1.0000
+  Hg  Hg1       1.0  0.14692932596674374  0.9218395405272903  0.021070920243403634  1.0000
+  Hg  Hg2       1.0  0.505878230602576  0.6385557184969805  0.45291462732111293  1.0000

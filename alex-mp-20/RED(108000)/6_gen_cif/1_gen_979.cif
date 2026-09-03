@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgSn2Hg
+_chemical_formula_sum              "Mg1 Sn2 Hg1"
+_cell_length_a       3.4974387072942177
+_cell_length_b       3.498680930835643
+_cell_length_c       8.461397056155503
+_cell_angle_alpha    89.98101405171643
+_cell_angle_beta     89.96254913183775
+_cell_angle_gamma    89.99728496082164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8316692363149603  0.4645254016631829  0.8880786642090853  1.0000
+  Sn  Sn1       1.0  0.33214548731986415  0.9645506266479578  0.6399744899941946  1.0000
+  Sn  Sn2       1.0  0.8320916842154333  0.4641615154043001  0.35911941799836206  1.0000
+  Hg  Hg1       1.0  0.33150551340719747  0.9643789717076886  0.08916796803705718  1.0000

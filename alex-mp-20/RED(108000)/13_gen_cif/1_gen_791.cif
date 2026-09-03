@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCa3Ag2
+_chemical_formula_sum              "Li1 Ca3 Ag2"
+_cell_length_a       3.7941663415965317
+_cell_length_b       5.262438635922752
+_cell_length_c       8.497522681647634
+_cell_angle_alpha    89.9745405263788
+_cell_angle_beta     102.9034790576885
+_cell_angle_gamma    90.00039971817037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.05370417206652941  0.6665270021041282  0.787561274787775  1.0000
+  Ca  Ca1       1.0  0.19231169577499851  0.16675762103256092  0.06736895998157187  1.0000
+  Ca  Ca2       1.0  0.49890665301493603  0.166682053869861  0.679006158217056  1.0000
+  Ca  Ca3       1.0  0.3415776212789961  0.6667155060846123  0.36404347862572584  1.0000
+  Ag  Ag1       1.0  0.8471245962072524  0.16661509060729582  0.37584882305060613  1.0000
+  Ag  Ag2       1.0  0.674422536818231  0.6668234096015346  0.030750201366948397  1.0000

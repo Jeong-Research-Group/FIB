@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2BBrCl
+_chemical_formula_sum              "Lu2 B1 Br1 Cl1"
+_cell_length_a       3.7542819098785656
+_cell_length_b       3.754251814215839
+_cell_length_c       10.44304179556506
+_cell_angle_alpha    89.91991167059821
+_cell_angle_beta     89.79212345584797
+_cell_angle_gamma    60.00357331828142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.17264051946461223  0.9247517814892391  0.9133294350184923  1.0000
+  Lu  Lu2       1.0  0.5030232654205549  0.25830996758231317  0.17758597295720313  1.0000
+  B   B1        1.0  0.8378315243554553  0.5912636999806742  0.04596254843972879  1.0000
+  Br  Br1       1.0  0.16767865322996423  0.9247536651654006  0.3576770317128901  1.0000
+  Cl  Cl1       1.0  0.5075910428210554  0.25709099832646065  0.7541556729230845  1.0000

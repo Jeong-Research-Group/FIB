@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2SiAsPd2
+_chemical_formula_sum              "Nd2 Si1 As1 Pd2"
+_cell_length_a       4.050939804550721
+_cell_length_b       4.29874702393476
+_cell_length_c       7.501585007845298
+_cell_angle_alpha    90.00518887312809
+_cell_angle_beta     90.00202495277026
+_cell_angle_gamma    90.00072534360649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.553841216442832  0.5517865904365805  0.03139395966755923  1.0000
+  Nd  Nd2       1.0  0.553510040753001  0.05196132421712272  0.5334926974353317  1.0000
+  Si  Si1       1.0  0.05345774086977255  0.5518258673468305  0.7014575555411454  1.0000
+  As  As1       1.0  0.05422328501194586  0.05184568389421772  0.19523489527225424  1.0000
+  Pd  Pd1       1.0  0.05372180482299963  0.5519082859142498  0.3784105880515189  1.0000
+  Pd  Pd2       1.0  0.05370141393032312  0.05172930337491496  0.8543087129731811  1.0000

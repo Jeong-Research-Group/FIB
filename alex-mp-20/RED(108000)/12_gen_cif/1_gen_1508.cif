@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaCd2HPb
+_chemical_formula_sum              "Ca1 Cd2 H1 Pb1"
+_cell_length_a       4.851246359047527
+_cell_length_b       4.8487596935775334
+_cell_length_c       4.625276010523784
+_cell_angle_alpha    89.96806105893624
+_cell_angle_beta     89.98601752148232
+_cell_angle_gamma    89.99968631273343
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8813945963805259  0.9327182344313026  0.4413889513126889  1.0000
+  Cd  Cd1       1.0  0.8808733210048411  0.4326797781635465  0.9411668384295594  1.0000
+  Cd  Cd2       1.0  0.38142273627256595  0.9326121852074215  0.9405227385294592  1.0000
+  H   H1        1.0  0.8826838899311922  0.9332484149806207  0.9416709188799335  1.0000
+  Pb  Pb1       1.0  0.3812204064002288  0.43272750348466393  0.44082893884729124  1.0000

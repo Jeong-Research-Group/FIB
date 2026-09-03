@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2InGa
+_chemical_formula_sum              "Tb2 In1 Ga1"
+_cell_length_a       3.7177565974528703
+_cell_length_b       5.20895909091807
+_cell_length_c       5.20866021368633
+_cell_angle_alpha    89.96705971562288
+_cell_angle_beta     90.02018106833187
+_cell_angle_gamma    90.00971254930869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.3302867949678335  0.5063792122958459  0.787677796087136  1.0000
+  Tb  Tb2       1.0  0.33035692323529126  0.006421760729786174  0.2873366994309523  1.0000
+  In  In1       1.0  0.8305428628988091  0.006011613611313084  0.787829742102359  1.0000
+  Ga  Ga1       1.0  0.83036545873585  0.506797751244901  0.2872601074620975  1.0000

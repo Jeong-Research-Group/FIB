@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaFeRh2C
+_chemical_formula_sum              "La1 Fe1 Rh2 C1"
+_cell_length_a       3.9540952523820563
+_cell_length_b       4.336994116384442
+_cell_length_c       4.337006050463487
+_cell_angle_alpha    89.98526166043695
+_cell_angle_beta     90.00421896010315
+_cell_angle_gamma    90.00405633708814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5905291943367301  0.5489426648483408  0.4359477124316821  1.0000
+  Fe  Fe1       1.0  0.59015927862269  0.04868388014883321  0.93602954029929  1.0000
+  Rh  Rh1       1.0  0.09049632731207068  0.04867657266695396  0.435531207583668  1.0000
+  Rh  Rh2       1.0  0.09049140694789456  0.5482973658001263  0.9357278092432354  1.0000
+  C   C1        1.0  0.09004387409296503  0.04829886302427658  0.935858852482729  1.0000

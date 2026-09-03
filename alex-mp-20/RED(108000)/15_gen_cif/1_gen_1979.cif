@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ce2ErInC
+_chemical_formula_sum              "Ce2 Er1 In1 C1"
+_cell_length_a       4.961087076798723
+_cell_length_b       4.963918549090011
+_cell_length_c       4.961394236421379
+_cell_angle_alpha    90.01503629317828
+_cell_angle_beta     90.01077271934061
+_cell_angle_gamma    89.99611259552701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.6749984344900768  0.7264992416012012  0.9273778264827196  1.0000
+  Ce  Ce2       1.0  0.17532365965925203  0.7262404049814365  0.427556270201356  1.0000
+  Er  Er1       1.0  0.17493418368960345  0.22639699218343617  0.9280209622106915  1.0000
+  In  In1       1.0  0.6752139913863625  0.22628859090556713  0.4278048352255432  1.0000
+  C   C1        1.0  0.17479834124624627  0.7264359236065058  0.9276865303886409  1.0000

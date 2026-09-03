@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnSMgS2MgSLi
+_chemical_formula_sum              "Sn1 S4 Mg2 Li1"
+_cell_length_a       5.724241733741132
+_cell_length_b       5.7470920662015645
+_cell_length_c       5.733020305633545
+_cell_angle_alpha    90.06443167737156
+_cell_angle_beta     90.00046695733195
+_cell_angle_gamma    89.94882389453812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.930088996887207  0.670559823513031  0.5571001172065735  1.0000
+  S   S1        1.0  0.1861114501953125  0.9307450652122498  0.2976268827915191  1.0000
+  Mg  Mg1       1.0  0.42936545610427856  0.17098726332187653  0.5569990873336792  1.0000
+  S   S2        1.0  0.6723873019218445  0.9308061599731445  0.8176454901695251  1.0000
+  S   S3        1.0  0.18635745346546173  0.4112813472747803  0.8174950480461121  1.0000
+  Mg  Mg2       1.0  0.42933332920074463  0.6712402105331421  0.05699080228805542  1.0000
+  S   S4        1.0  0.6717864871025085  0.4114547669887543  0.2975555956363678  1.0000
+  Li  Li1       1.0  0.9295488595962524  0.17054036259651184  0.05698771774768829  1.0000

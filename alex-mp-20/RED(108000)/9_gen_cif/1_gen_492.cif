@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2Sn2Au2
+_chemical_formula_sum              "Ni2 Sn2 Au2"
+_cell_length_a       3.504097479669002
+_cell_length_b       5.087526974521037
+_cell_length_c       6.671821222212858
+_cell_angle_alpha    72.73728394061237
+_cell_angle_beta     74.94984883916499
+_cell_angle_gamma    70.42824963214586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7197601412579905  0.16801866338718957  0.11195587758641812  1.0000
+  Ni  Ni2       1.0  0.45998707726953936  0.38924127694530436  0.4241779061328631  1.0000
+  Sn  Sn1       1.0  0.01399483599811455  0.597833357417092  0.10217362021430276  1.0000
+  Sn  Sn2       1.0  0.16584246250280274  0.9593764950756153  0.4339859889007189  1.0000
+  Au  Au1       1.0  0.42048697598515394  0.04091322307644942  0.8319349018264814  1.0000
+  Au  Au2       1.0  0.7594128874910636  0.5162082158963265  0.7042014039916897  1.0000

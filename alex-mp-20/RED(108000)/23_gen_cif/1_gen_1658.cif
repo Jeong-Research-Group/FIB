@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoNiMoP2
+_chemical_formula_sum              "Co1 Ni1 Mo1 P2"
+_cell_length_a       3.460071952096158
+_cell_length_b       3.4982701534323994
+_cell_length_c       5.658475762237653
+_cell_angle_alpha    107.9980106745045
+_cell_angle_beta     89.9757667166308
+_cell_angle_gamma    89.99948551105736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0919343485099752  0.46045064960456816  0.5145354776801869  1.0000
+  Ni  Ni1       1.0  0.591773401134836  0.9462630016332524  0.4860174380395516  1.0000
+  Mo  Mo1       1.0  0.0918362365221913  0.7436359655363364  0.07999984447257025  1.0000
+  P   P1        1.0  0.5921275649047911  0.31755625980951113  0.22820293057880445  1.0000
+  P   P2        1.0  0.09126031309001376  0.0778854463326216  0.7495907163708356  1.0000

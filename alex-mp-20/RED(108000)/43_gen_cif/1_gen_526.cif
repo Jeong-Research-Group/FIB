@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Li2Hg2Pb2
+_chemical_formula_sum              "Na2 Li2 Hg2 Pb2"
+_cell_length_a       4.971359513707032
+_cell_length_b       4.972988583269633
+_cell_length_c       7.944500414606808
+_cell_angle_alpha    89.99927554288757
+_cell_angle_beta     90.01381966851761
+_cell_angle_gamma    90.03586259914267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6432000452051875  0.23544599429363489  0.6860080927691139  1.0000
+  Na  Na2       1.0  0.6428690543432685  0.2355068766652136  0.21887740166301464  1.0000
+  Li  Li1       1.0  0.14232419919828657  0.736239718877723  0.6812546473932733  1.0000
+  Li  Li2       1.0  0.14245633784624967  0.736038795611905  0.22342930882295695  1.0000
+  Hg  Hg1       1.0  0.642288078052512  0.7354357047699571  0.4529731417348613  1.0000
+  Hg  Hg2       1.0  0.14240699558048608  0.23583063072010516  0.4530122907975323  1.0000
+  Pb  Pb1       1.0  0.1429090817439367  0.23587044234188814  0.9521378200775708  1.0000
+  Pb  Pb2       1.0  0.6427472143323926  0.7355835633342118  0.9518273220325404  1.0000

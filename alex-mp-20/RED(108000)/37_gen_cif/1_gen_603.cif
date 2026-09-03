@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KSrGe2Ir2
+_chemical_formula_sum              "K1 Sr1 Ge2 Ir2"
+_cell_length_a       4.220045303873066
+_cell_length_b       4.219993577126498
+_cell_length_c       9.11738289393836
+_cell_angle_alpha    89.99540235924152
+_cell_angle_beta     90.00236026141475
+_cell_angle_gamma    89.99972376389319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.664960389606422  0.1645149324855771  0.1349844792207111  1.0000
+  Sr  Sr1       1.0  0.1648794112608322  0.6647436960082205  0.5322273406220293  1.0000
+  Ge  Ge1       1.0  0.1649215187164083  0.664638757127793  0.9561714345255644  1.0000
+  Ge  Ge2       1.0  0.6649257687189511  0.1646907638247664  0.6639036967414054  1.0000
+  Ir  Ir1       1.0  0.16493452093756394  0.16466191637141825  0.8106940510174259  1.0000
+  Ir  Ir2       1.0  0.6649107451786326  0.6646687842515574  0.810705598603521  1.0000

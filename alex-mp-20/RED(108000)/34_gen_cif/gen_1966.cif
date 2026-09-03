@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgNd2Pd2Mg
+_chemical_formula_sum              "Mg2 Nd2 Pd2"
+_cell_length_a       4.588850029623883
+_cell_length_b       5.671865481154313
+_cell_length_c       5.847723007202148
+_cell_angle_alpha    90.55100755205687
+_cell_angle_beta     90.00343808974233
+_cell_angle_gamma    113.82831141008782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9166560173034668  0.718925416469574  0.318951278924942  1.0000
+  Nd  Nd1       1.0  0.6172702312469482  0.12048918008804321  0.06815370917320251  1.0000
+  Nd  Nd2       1.0  0.21585223078727722  0.3170352578163147  0.5695972442626953  1.0000
+  Pd  Pd1       1.0  0.5143444538116455  0.9148709177970886  0.5682458281517029  1.0000
+  Pd  Pd2       1.0  0.31852978467941284  0.5219941735267639  0.06981921941041946  1.0000
+  Mg  Mg2       1.0  0.9158714413642883  0.7175089716911316  0.8190503120422363  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaH2PdPt
+_chemical_formula_sum              "Ga1 H2 Pd1 Pt1"
+_cell_length_a       3.1390127138498563
+_cell_length_b       3.1180868380136255
+_cell_length_c       6.053310235761806
+_cell_angle_alpha    104.69601755984061
+_cell_angle_beta     104.9910253210961
+_cell_angle_gamma    90.00097544108503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.32736146257995774  0.6358559249333793  0.7745561312709479  1.0000
+  H   H1        1.0  0.598329040555256  0.40675398246028044  0.3158641086691743  1.0000
+  H   H2        1.0  0.09965529387274244  0.9088806993095384  0.3186169528286804  1.0000
+  Pd  Pd1       1.0  0.9566342221904135  0.26327372017217354  0.033764302395063395  1.0000
+  Pt  Pt1       1.0  0.6827955005269603  0.9922074076131903  0.4851017338176043  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cr2SiHIr
+_chemical_formula_sum              "Cr2 Si1 H1 Ir1"
+_cell_length_a       4.149149853148584
+_cell_length_b       3.603519404381894
+_cell_length_c       3.6050892040916165
+_cell_angle_alpha    89.93505860278455
+_cell_angle_beta     89.931788991128
+_cell_angle_gamma    89.9681987204604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24233981883347128  0.27731378535517065  0.049127589532694624  1.0000
+  Cr  Cr2       1.0  0.24228596460540164  0.7776149297781072  0.5490899924596087  1.0000
+  Si  Si1       1.0  0.7426037690162166  0.7775154094794033  0.0487787714842122  1.0000
+  H   H1        1.0  0.24158644567574716  0.27764955211105113  0.5492188095683902  1.0000
+  Ir  Ir1       1.0  0.742186022421938  0.2776337316660376  0.5488626234362043  1.0000

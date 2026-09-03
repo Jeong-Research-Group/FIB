@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiCaGa3
+_chemical_formula_sum              "Li1 Ca1 Ga3"
+_cell_length_a       4.399526535971813
+_cell_length_b       4.041074434137486
+_cell_length_c       5.770457327526062
+_cell_angle_alpha    89.99607185828879
+_cell_angle_beta     90.00070450081039
+_cell_angle_gamma    89.99995315535902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4881751418042511  0.9352708120536591  0.18199332140530095  1.0000
+  Ca  Ca1       1.0  0.488024213680672  0.4354195338476541  0.6818443598730907  1.0000
+  Ga  Ga1       1.0  0.9875838801970094  0.43535447404341376  0.1817758730455254  1.0000
+  Ga  Ga2       1.0  0.987916511840711  0.9352930117309116  0.4588002522725591  1.0000
+  Ga  Ga3       1.0  0.9881241482445573  0.9353935466971725  0.9049498509058609  1.0000

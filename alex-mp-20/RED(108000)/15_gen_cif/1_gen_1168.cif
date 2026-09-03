@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Rb2GaPt2
+_chemical_formula_sum              "Rb2 Ga1 Pt2"
+_cell_length_a       4.183440857766373
+_cell_length_b       6.796404966749306
+_cell_length_c       6.799479393934969
+_cell_angle_alpha    118.3272425266232
+_cell_angle_beta     107.90961071873842
+_cell_angle_gamma    107.93270514128061
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.12340712113847688  0.5033744402777932  0.06304052057643295  1.0000
+  Rb  Rb2       1.0  0.12333518567539568  0.09164077055680957  0.47488255402305835  1.0000
+  Ga  Ga1       1.0  0.623965068251993  0.7975552523361712  0.7692751305850797  1.0000
+  Pt  Pt1       1.0  0.3805649248015113  0.05411910073021799  0.026153419858538342  1.0000
+  Pt  Pt2       1.0  0.8671599627777596  0.5408326593201666  0.5126188816735379  1.0000

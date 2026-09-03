@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiAl2LiGe2Zn
+_chemical_formula_sum              "Li2 Al2 Ge2 Zn1"
+_cell_length_a       4.349297738546744
+_cell_length_b       4.363562506150232
+_cell_length_c       7.49613618850708
+_cell_angle_alpha    74.4169235960812
+_cell_angle_beta     74.139701053744
+_cell_angle_gamma    60.64882885970466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7334427833557129  0.7573915123939515  0.567274808883667  1.0000
+  Al  Al1       1.0  0.4794779121875763  0.505233108997345  0.3262929916381836  1.0000
+  Al  Al2       1.0  0.2303794473409653  0.25446996092796326  0.0749722495675087  1.0000
+  Li  Li2       1.0  0.9769246578216553  0.0006695985794067383  0.8344627022743225  1.0000
+  Ge  Ge1       1.0  0.5998493432998657  0.6247183084487915  0.9615800976753235  1.0000
+  Ge  Ge2       1.0  0.10984391719102857  0.133214145898819  0.43977510929107666  1.0000
+  Zn  Zn1       1.0  0.35581457614898687  0.3787456452846527  0.6999786496162415  1.0000

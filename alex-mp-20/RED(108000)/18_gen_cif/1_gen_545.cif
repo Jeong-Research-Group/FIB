@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2SiHgAu2
+_chemical_formula_sum              "Y2 Si1 Hg1 Au2"
+_cell_length_a       4.594393680869417
+_cell_length_b       4.596746888594785
+_cell_length_c       7.288082290878809
+_cell_angle_alpha    89.9964452508822
+_cell_angle_beta     89.99935974155918
+_cell_angle_gamma    120.00648409650539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5457598585958603  0.35972656863421787  0.43295651748926395  1.0000
+  Y   Y2        1.0  0.545269668892089  0.3593167497805415  0.9180968760631117  1.0000
+  Si  Si1       1.0  0.8787942152740548  0.026185125404770884  0.632362918151562  1.0000
+  Hg  Hg1       1.0  0.21198687072551392  0.6928261375966799  0.1321716871587478  1.0000
+  Au  Au1       1.0  0.8788997718326033  0.026270196172312472  0.24859379799301418  1.0000
+  Au  Au2       1.0  0.2120602577607782  0.6928608988796929  0.7084316036719178  1.0000

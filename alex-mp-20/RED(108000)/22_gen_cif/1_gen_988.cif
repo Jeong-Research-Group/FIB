@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ho2GaCu
+_chemical_formula_sum              "Li2 Ho2 Ga1 Cu1"
+_cell_length_a       3.450725826472941
+_cell_length_b       4.555962476532023
+_cell_length_c       8.24662148268791
+_cell_angle_alpha    90.01727113915788
+_cell_angle_beta     89.99547828262749
+_cell_angle_gamma    90.00240589839827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6590523254960047  0.2171226213151182  0.4219525967316794  1.0000
+  Li  Li2       1.0  0.6597441719075775  0.717758933391828  0.24707299941206157  1.0000
+  Ho  Ho1       1.0  0.1595313873268479  0.7171111545415487  0.6314649594895176  1.0000
+  Ho  Ho2       1.0  0.1591917837341732  0.21763488846825907  0.03060564750787316  1.0000
+  Ga  Ga1       1.0  0.6592467054956203  0.7175215972910576  0.9222525645894097  1.0000
+  Cu  Cu1       1.0  0.6595413061524863  0.21726027906154918  0.7479353593189996  1.0000

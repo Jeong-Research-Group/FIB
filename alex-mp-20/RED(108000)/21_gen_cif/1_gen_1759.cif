@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiZnH3O3
+_chemical_formula_sum              "Li1 Zn1 H3 O3"
+_cell_length_a       3.245761150275945
+_cell_length_b       4.510712202541583
+_cell_length_c       5.771928387782156
+_cell_angle_alpha    110.9967870390785
+_cell_angle_beta     105.64814379605073
+_cell_angle_gamma    98.77373454805387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1895775709186276  0.4028558329163787  0.5009350708956124  1.0000
+  Zn  Zn1       1.0  0.49344368299343744  0.7345524197585541  0.1505606201406862  1.0000
+  H   H1        1.0  0.7881066092474857  0.2529925746538071  0.03393849293804218  1.0000
+  H   H2        1.0  0.5967381437457406  0.05647666563599208  0.6069522152051503  1.0000
+  H   H3        1.0  0.14051817278546985  0.8910095334093133  0.8054508546955763  1.0000
+  O   O1        1.0  0.42158997974694473  0.8318198220861655  0.8316561098909384  1.0000
+  O   O2        1.0  0.6314106584811778  0.1393814382369669  0.47585583076776644  1.0000
+  O   O3        1.0  0.9475059369239395  0.48217865146447825  0.16949192846346559  1.0000

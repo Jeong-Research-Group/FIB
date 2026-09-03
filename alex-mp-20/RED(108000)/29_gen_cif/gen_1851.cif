@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiAuLiCaAu
+_chemical_formula_sum              "Li2 Au2 Ca1"
+_cell_length_a       4.828775027577035
+_cell_length_b       4.83485092576008
+_cell_length_c       5.559640884399414
+_cell_angle_alpha    115.64977284849972
+_cell_angle_beta     115.41850160053221
+_cell_angle_gamma    90.01899750518072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8138501048088074  0.4122007489204407  0.6460558772087097  1.0000
+  Au  Au1       1.0  0.21320603787899017  0.3092502951622009  0.4409545361995697  1.0000
+  Li  Li2       1.0  0.1121872067451477  0.7069231271743774  0.2350057065486908  1.0000
+  Ca  Ca1       1.0  0.4642132520675659  0.059836246073246  0.9399086236953735  1.0000
+  Au  Au2       1.0  0.7123866081237793  0.8085952997207642  0.43928077816963196  1.0000

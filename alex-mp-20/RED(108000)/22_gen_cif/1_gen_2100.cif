@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti3CoIr2
+_chemical_formula_sum              "Ti3 Co1 Ir2"
+_cell_length_a       2.961458816738942
+_cell_length_b       2.9614746016032054
+_cell_length_c       9.919581989522479
+_cell_angle_alpha    90.00172512192356
+_cell_angle_beta     90.00010269768273
+_cell_angle_gamma    89.99984356378386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7249345584728465  0.038495225395471615  0.35090778805097556  1.0000
+  Ti  Ti2       1.0  0.7250436865496407  0.03863763750320316  0.6989522533077438  1.0000
+  Ti  Ti3       1.0  0.7246440450837569  0.03844312130181418  0.046746435511838595  1.0000
+  Co  Co1       1.0  0.22473350618507412  0.538264187230399  0.19831547072949263  1.0000
+  Ir  Ir1       1.0  0.2247242344371133  0.538496448909168  0.8775638710864211  1.0000
+  Ir  Ir2       1.0  0.22515274986955844  0.538785300213179  0.5204988619639473  1.0000

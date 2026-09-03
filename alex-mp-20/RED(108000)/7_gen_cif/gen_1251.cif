@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrSi2Pt2
+_chemical_formula_sum              "Sr1 Si2 Pt2"
+_cell_length_a       4.302913767733661
+_cell_length_b       4.305996813913338
+_cell_length_c       5.870112419128418
+_cell_angle_alpha    111.49214803326191
+_cell_angle_beta     111.46775029649805
+_cell_angle_gamma    90.0264489865379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.09162870794534683  0.36470484733581543  0.34689733386039734  1.0000
+  Si  Si1       1.0  0.46507939696311956  0.7386279702186586  0.0938082411885262  1.0000
+  Si  Si2       1.0  0.7177259922027588  0.9913535714149476  0.6004751920700074  1.0000
+  Pt  Pt1       1.0  0.34073781967163086  0.11428897827863695  0.8465443849563599  1.0000
+  Pt  Pt2       1.0  0.8410032987594604  0.6141117811203003  0.8465610146522522  1.0000

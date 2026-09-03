@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HFe3Mo
+_chemical_formula_sum              "H1 Fe3 Mo1"
+_cell_length_a       3.6664348965568188
+_cell_length_b       3.660490653489062
+_cell_length_c       3.657254457473755
+_cell_angle_alpha    90.0158826952645
+_cell_angle_beta     90.01535677026448
+_cell_angle_gamma    90.0187718652889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9813343286514281  0.6482499837875366  0.26159900426864624  1.0000
+  Fe  Fe1       1.0  0.9808083176612853  0.647718608379364  0.7609277367591858  1.0000
+  Fe  Fe2       1.0  0.9807230830192565  0.1472013145685196  0.26101037859916687  1.0000
+  Fe  Fe3       1.0  0.48078340291976923  0.6474966406822205  0.2609267830848694  1.0000
+  Mo  Mo1       1.0  0.48040941357612604  0.1478981077671051  0.7611404061317444  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na5LiBi2
+_chemical_formula_sum              "Na5 Li1 Bi2"
+_cell_length_a       5.270899371878784
+_cell_length_b       5.270384224924463
+_cell_length_c       7.829874642139271
+_cell_angle_alpha    90.00380088181635
+_cell_angle_beta     89.99941493276087
+_cell_angle_gamma    90.00049382275742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9219574904795848  0.5756742466891445  0.9060342998498073  1.0000
+  Na  Na2       1.0  0.9224820822344009  0.07575654689463335  0.17918526452906083  1.0000
+  Na  Na3       1.0  0.4223194249136781  0.5757662964338804  0.17946180864895997  1.0000
+  Na  Na4       1.0  0.4222857764151267  0.5757268479301131  0.6790691435270211  1.0000
+  Na  Na5       1.0  0.42258217886433574  0.07574057107993765  0.45243864652066557  1.0000
+  Li  Li1       1.0  0.9223693105582397  0.07570736800099541  0.6789523010731802  1.0000
+  Bi  Bi1       1.0  0.9220423076910806  0.5757771457663459  0.45092431011179473  1.0000
+  Bi  Bi2       1.0  0.4225798811029469  0.0758104366423942  0.9073819630288817  1.0000

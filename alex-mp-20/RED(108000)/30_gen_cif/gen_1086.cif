@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2PDyLiP
+_chemical_formula_sum              "Ni2 P2 Dy1 Li1"
+_cell_length_a       3.879085163206665
+_cell_length_b       3.8654628311610506
+_cell_length_c       6.294281005859375
+_cell_angle_alpha    90.25151742182884
+_cell_angle_beta     90.18781904160136
+_cell_angle_gamma    120.21037525272706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.23252171277999883  0.49945819377899175  0.018473178148269653  1.0000
+  Ni  Ni2       1.0  0.9003579020500183  0.8322778344154359  0.697999119758606  1.0000
+  P   P1        1.0  0.2332012802362442  0.4990209937095642  0.6419183015823364  1.0000
+  Dy  Dy1       1.0  0.566635251045227  0.1656516939401627  0.35830262303352356  1.0000
+  Li  Li1       1.0  0.5662865042686462  0.16590286791324618  0.8581705689430237  1.0000
+  P   P2        1.0  0.8992536067962646  0.832619309425354  0.0746913030743599  1.0000

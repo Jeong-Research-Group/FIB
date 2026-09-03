@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YAl2BRh2
+_chemical_formula_sum              "Y1 Al2 B1 Rh2"
+_cell_length_a       4.166092521975614
+_cell_length_b       4.166108343392446
+_cell_length_c       5.5916001388150605
+_cell_angle_alpha    90.00704963479207
+_cell_angle_beta     90.00393131048675
+_cell_angle_gamma    90.00432354809386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.33756601321604274  0.6995712836121093  0.02667458261397763  1.0000
+  Al  Al1       1.0  0.8377248370708817  0.19978467561426047  0.7976097701922608  1.0000
+  Al  Al2       1.0  0.8374575424765428  0.1994032247938965  0.2543178928298709  1.0000
+  B   B1        1.0  0.33769743085364085  0.6997217189656145  0.5274046155250987  1.0000
+  Rh  Rh1       1.0  0.8376865728235328  0.6996762341645171  0.5257430332344915  1.0000
+  Rh  Rh2       1.0  0.337578128382388  0.1997367194767001  0.5256835693554807  1.0000

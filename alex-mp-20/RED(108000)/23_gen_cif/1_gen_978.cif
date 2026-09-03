@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ag3PdPt2
+_chemical_formula_sum              "Ag3 Pd1 Pt2"
+_cell_length_a       2.8287359892224284
+_cell_length_b       5.003139264926217
+_cell_length_c       7.605038082572462
+_cell_angle_alpha    109.11263443995578
+_cell_angle_beta     100.71977156904386
+_cell_angle_gamma    90.000872708323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.15954549453594571  0.4467828049448695  0.6892950621075528  1.0000
+  Ag  Ag2       1.0  0.6558104082786351  0.9469782391312696  0.6819511359979523  1.0000
+  Ag  Ag3       1.0  0.49103553939172323  0.446388744151799  0.3523488340098925  1.0000
+  Pd  Pd1       1.0  0.8243129557660964  0.4462504447375658  0.018733313813244848  1.0000
+  Pt  Pt1       1.0  0.9855480839624542  0.9423498864153731  0.3414284232209371  1.0000
+  Pt  Pt2       1.0  0.3251085711660923  0.9471495659673728  0.020866134557946597  1.0000

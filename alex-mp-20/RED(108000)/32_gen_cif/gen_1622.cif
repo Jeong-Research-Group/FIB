@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnHCaSnH
+_chemical_formula_sum              "Sn2 H2 Ca1"
+_cell_length_a       4.37380240287188
+_cell_length_b       4.372962774974291
+_cell_length_c       5.254265785217285
+_cell_angle_alpha    90.0433878688189
+_cell_angle_beta     90.073058207295
+_cell_angle_gamma    90.08206722636386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.8476576805114746  0.05718096345663071  0.5722963213920593  1.0000
+  H   H1        1.0  0.345325767993927  0.057460781186819083  0.013060448691248894  1.0000
+  Ca  Ca1       1.0  0.8469759821891785  0.556956946849823  0.07270004600286484  1.0000
+  Sn  Sn2       1.0  0.34607812762260437  0.5563657879829407  0.5754322409629822  1.0000
+  H   H2        1.0  0.3473869860172272  0.05897681415081025  0.1541721373796463  1.0000

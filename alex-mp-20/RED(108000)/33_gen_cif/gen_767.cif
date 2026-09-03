@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni3CuGe
+_chemical_formula_sum              "Ni3 Cu1 Ge1"
+_cell_length_a       3.615273859383442
+_cell_length_b       4.317327632457226
+_cell_length_c       4.4353508949279785
+_cell_angle_alpha    79.40260258244719
+_cell_angle_beta     114.06470692415121
+_cell_angle_gamma    114.6730981810102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.15089881420135498  0.8542689681053163  0.10008509457111357  1.0000
+  Ni  Ni2       1.0  0.3546655476093293  0.6543538570404054  0.7058424353599548  1.0000
+  Ni  Ni3       1.0  0.5549450516700745  0.45322689414024353  0.30757713317871094  1.0000
+  Cu  Cu1       1.0  0.9462947845458983  0.04730628803372384  0.49748027324676514  1.0000
+  Ge  Ge1       1.0  0.7588385343551636  0.26492923498153687  0.905326783657074  1.0000

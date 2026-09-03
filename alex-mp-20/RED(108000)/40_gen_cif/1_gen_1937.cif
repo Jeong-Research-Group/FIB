@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnSiNi2H
+_chemical_formula_sum              "Mn1 Si1 Ni2 H1"
+_cell_length_a       3.6753439858986012
+_cell_length_b       3.5718702441550296
+_cell_length_c       3.571958320053644
+_cell_angle_alpha    89.99948157078622
+_cell_angle_beta     89.99883526628896
+_cell_angle_gamma    89.99971114017654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6879226306311962  0.9595414476899203  0.005100909991480569  1.0000
+  Si  Si1       1.0  0.6879026784904632  0.45983177328576785  0.5054378022987065  1.0000
+  Ni  Ni1       1.0  0.1878194858741338  0.9597247272951508  0.5049963682012925  1.0000
+  Ni  Ni2       1.0  0.18775703667734128  0.45983920157088576  0.004891710698566396  1.0000
+  H   H1        1.0  0.18824421657275203  0.9599942967129599  0.004226432569682503  1.0000

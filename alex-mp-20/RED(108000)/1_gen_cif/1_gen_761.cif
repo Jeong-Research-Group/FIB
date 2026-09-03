@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TaV2FeH
+_chemical_formula_sum              "Ta1 V2 Fe1 H1"
+_cell_length_a       3.3025921281022566
+_cell_length_b       4.213768682440414
+_cell_length_c       4.211462182639774
+_cell_angle_alpha    89.99661572465136
+_cell_angle_beta     90.01840460637662
+_cell_angle_gamma    90.0127369036072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.9112437459436072  0.7501310047026126  0.051571266769038906  1.0000
+  V   V1        1.0  0.41158129935793064  0.7499539066110772  0.5515733395550652  1.0000
+  V   V2        1.0  0.41134689816320913  0.25010449158747494  0.05180071344106073  1.0000
+  Fe  Fe1       1.0  0.9118953511031058  0.2504174860082373  0.5519703411721576  1.0000
+  H   H1        1.0  0.41179021732699894  0.25039885076778184  0.5514996173855143  1.0000

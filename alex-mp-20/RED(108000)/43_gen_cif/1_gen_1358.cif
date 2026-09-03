@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb2Nd2Sm2Ho2
+_chemical_formula_sum              "Tb2 Nd2 Sm2 Ho2"
+_cell_length_a       5.133909396624252
+_cell_length_b       5.146917004579852
+_cell_length_c       10.315525510479228
+_cell_angle_alpha    90.1501814633184
+_cell_angle_beta     90.15215998443522
+_cell_angle_gamma    90.0931751745251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.19550884882771416  0.8360756949358451  0.28626661773636985  1.0000
+  Tb  Tb2       1.0  0.6955895505581338  0.3360113277326562  0.7862850599500768  1.0000
+  Nd  Nd1       1.0  0.1955538618313407  0.836035635338116  0.7862882009871103  1.0000
+  Nd  Nd2       1.0  0.6953347906506632  0.33591504206254896  0.2863398585717008  1.0000
+  Sm  Sm1       1.0  0.19569279280912877  0.3361044535288013  0.5365108654645322  1.0000
+  Sm  Sm2       1.0  0.6955300199881638  0.8358734203458829  0.03634140803713166  1.0000
+  Ho  Ho1       1.0  0.6955660349730456  0.8361068024478142  0.5365041483720527  1.0000
+  Ho  Ho2       1.0  0.195493375569002  0.33604549140263285  0.03605905496847739  1.0000

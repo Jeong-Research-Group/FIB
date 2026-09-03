@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Zr2Hg2
+_chemical_formula_sum              "Pr2 Zr2 Hg2"
+_cell_length_a       4.53930007928529
+_cell_length_b       4.540083691533775
+_cell_length_c       8.05116339919976
+_cell_angle_alpha    90.01724199220537
+_cell_angle_beta     90.01301302837955
+_cell_angle_gamma    89.98560063644837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.030410680202580365  0.7133374582905666  0.9230558467604807  1.0000
+  Pr  Pr2       1.0  0.5308905033937378  0.21364022995627205  0.6188414412920563  1.0000
+  Zr  Zr1       1.0  0.5309543312658137  0.7133722462727796  0.2710546513076017  1.0000
+  Zr  Zr2       1.0  0.03049473448075855  0.21354764317978642  0.27124731219279713  1.0000
+  Hg  Hg1       1.0  0.530401281533627  0.21315709310695408  0.020183946785570245  1.0000
+  Hg  Hg2       1.0  0.03099977513485268  0.7138510816218331  0.5219713089537132  1.0000

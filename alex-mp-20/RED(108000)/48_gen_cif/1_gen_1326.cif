@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiPt6Pb
+_chemical_formula_sum              "Ni1 Pt6 Pb1"
+_cell_length_a       4.0132152353561565
+_cell_length_b       4.013242738518253
+_cell_length_c       8.021684615237794
+_cell_angle_alpha    89.9989679127008
+_cell_angle_beta     90.00367944666944
+_cell_angle_gamma    89.99951649138077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9006260898836086  0.9424137866345447  0.605172294292035  1.0000
+  Pt  Pt1       1.0  0.4005184394287735  0.44215897230633217  0.6052267189998247  1.0000
+  Pt  Pt2       1.0  0.9007448587561327  0.4425335193371313  0.8363859503365207  1.0000
+  Pt  Pt3       1.0  0.900581003267805  0.44240324497114286  0.37406629558237536  1.0000
+  Pt  Pt4       1.0  0.40057895974848257  0.9424276652709007  0.8366632819986665  1.0000
+  Pt  Pt5       1.0  0.40067657728196093  0.9424895717566025  0.37415137440671914  1.0000
+  Pt  Pt6       1.0  0.9007048813944102  0.9425651507943443  0.10443294085891959  1.0000
+  Pb  Pb1       1.0  0.400626542854624  0.44256968795325263  0.10590823701826825  1.0000

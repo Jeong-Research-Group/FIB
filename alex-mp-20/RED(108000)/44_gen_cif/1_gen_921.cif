@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tl2TeHSe3
+_chemical_formula_sum              "Tl2 Te1 H1 Se3"
+_cell_length_a       4.503526380574461
+_cell_length_b       6.708786582112087
+_cell_length_c       7.522744248402645
+_cell_angle_alpha    104.62619323780326
+_cell_angle_beta     90.04108597120698
+_cell_angle_gamma    89.92179208063163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8193433871470372  0.8295250242689108  0.8362954798669777  1.0000
+  Tl  Tl2       1.0  0.823056343638796  0.4311044473568981  0.23225916510812145  1.0000
+  Te  Te1       1.0  0.32219768396181797  0.7674323336722334  0.4923143891050905  1.0000
+  H   H1        1.0  0.32659667933248576  0.22953644755604238  0.5147773533704542  1.0000
+  Se  Se1       1.0  0.3219372525183304  0.22458614416858885  0.9556665890023254  1.0000
+  Se  Se2       1.0  0.32001864986332557  0.45253374276177466  0.7601320123995068  1.0000
+  Se  Se3       1.0  0.3301195048354105  0.058509249412434315  0.3259433031461791  1.0000

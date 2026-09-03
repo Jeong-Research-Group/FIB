@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg2As2Pb4
+_chemical_formula_sum              "Hg2 As2 Pb4"
+_cell_length_a       4.190556855653293
+_cell_length_b       8.516634346438451
+_cell_length_c       7.262338421980411
+_cell_angle_alpha    73.57890233311723
+_cell_angle_beta     89.94678378961662
+_cell_angle_gamma    89.95405866885636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6317400988164593  0.14248857775700605  0.31867001430244796  1.0000
+  Hg  Hg2       1.0  0.13755011548755117  0.1436641148981633  0.8212883878742735  1.0000
+  As  As1       1.0  0.13742688588778593  0.6429163428710473  0.32168924160543844  1.0000
+  As  As2       1.0  0.6363332628572027  0.6423211058063716  0.8208617050734706  1.0000
+  Pb  Pb1       1.0  0.6374539137815775  0.43176478593614775  0.5572737589769913  1.0000
+  Pb  Pb2       1.0  0.136493368400454  0.8543484631510384  0.5854004207074319  1.0000
+  Pb  Pb3       1.0  0.637119183327167  0.8530008063563709  0.08469327562824067  1.0000
+  Pb  Pb4       1.0  0.13579309622335722  0.4307774526878407  0.0578700686000576  1.0000

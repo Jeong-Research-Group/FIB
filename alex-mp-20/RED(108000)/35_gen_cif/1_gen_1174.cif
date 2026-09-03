@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cu2NiSbH
+_chemical_formula_sum              "Cu2 Ni1 Sb1 H1"
+_cell_length_a       3.888064856311302
+_cell_length_b       3.8881289304841524
+_cell_length_c       3.901180994835314
+_cell_angle_alpha    90.02358570727996
+_cell_angle_beta     90.02071819728197
+_cell_angle_gamma    90.0316422249743
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.17269352623912662  0.13163990098300668  0.8706685450112691  1.0000
+  Cu  Cu2       1.0  0.6726582443896252  0.6316016366810706  0.8706271388550584  1.0000
+  Ni  Ni1       1.0  0.6726599971412273  0.1317081805607415  0.3704001167521669  1.0000
+  Sb  Sb1       1.0  0.17293015103501652  0.6317858697623167  0.3707175215372826  1.0000
+  H   H1        1.0  0.6730075283554385  0.1316661725357521  0.8704683192540346  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HoPtSi2Ge2RhPt2Ho
+_chemical_formula_sum              "Ho2 Pt3 Si2 Ge2 Rh1"
+_cell_length_a       4.154888905484037
+_cell_length_b       4.157296238920965
+_cell_length_c       10.213494300842285
+_cell_angle_alpha    90.1923338014092
+_cell_angle_beta     90.21009231223628
+_cell_angle_gamma    90.21493489784835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.5801770091056824  0.30089285969734186  0.6795132756233215  1.0000
+  Pt  Pt1       1.0  0.07958320528268814  0.3007458746433258  0.4226003885269165  1.0000
+  Si  Si1       1.0  0.5799763798713684  0.8008894324302672  0.9229571223258972  1.0000
+  Si  Si2       1.0  0.08005885779857635  0.3009656965732574  0.9227275252342224  1.0000
+  Ge  Ge1       1.0  0.5797805190086365  0.3002294600009918  0.28474676609039307  1.0000
+  Ge  Ge2       1.0  0.07997577637434006  0.8006764054298401  0.5605504512786865  1.0000
+  Rh  Rh1       1.0  0.5797770619392395  0.8005150556564331  0.42245566844940186  1.0000
+  Pt  Pt2       1.0  0.08009682595729828  0.8009912967681885  0.8011957406997681  1.0000
+  Pt  Pt3       1.0  0.5796663165092468  0.30053362250328064  0.0443689301609993  1.0000
+  Ho  Ho2       1.0  0.07979580014944077  0.8006917238235474  0.16621264815330505  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4LaTlSi2
+_chemical_formula_sum              "Li4 La1 Tl1 Si2"
+_cell_length_a       4.226998841846193
+_cell_length_b       4.232929947046727
+_cell_length_c       9.608859107925365
+_cell_angle_alpha    90.00870102768552
+_cell_angle_beta     89.99671947169773
+_cell_angle_gamma    90.00348336450958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7005097819779089  0.9991301419335065  0.1558046315980788  1.0000
+  Li  Li2       1.0  0.20065592962916756  0.4988544750240116  0.15599780731419247  1.0000
+  Li  Li3       1.0  0.20047416916299154  0.4990704745316961  0.7304511504805952  1.0000
+  Li  Li4       1.0  0.700259834358661  0.998962550113614  0.7306989275255786  1.0000
+  La  La1       1.0  0.7006446558659016  0.49903744781426707  0.4431965690831169  1.0000
+  Tl  Tl1       1.0  0.7004982960923899  0.4989790212506357  0.9429816194630809  1.0000
+  Si  Si1       1.0  0.2005261579079534  0.9990513154337581  0.566270380089235  1.0000
+  Si  Si2       1.0  0.2006151745616051  0.9989990179890923  0.32027308912564595  1.0000

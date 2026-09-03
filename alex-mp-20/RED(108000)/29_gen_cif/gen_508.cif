@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCa2H2Pd
+_chemical_formula_sum              "Li1 Ca2 H2 Pd1"
+_cell_length_a       4.176573866732704
+_cell_length_b       4.311820604902198
+_cell_length_c       6.16563606262207
+_cell_angle_alpha    109.63382465398976
+_cell_angle_beta     89.96953985886725
+_cell_angle_gamma    90.0061086937435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8870754837989807  0.1392398327589035  0.24568110704421997  1.0000
+  Ca  Ca1       1.0  0.38694077730178833  0.7266927361488342  0.42029669880867004  1.0000
+  Ca  Ca2       1.0  0.8862158060073853  0.4231666922569275  0.8457423448562622  1.0000
+  H   H1        1.0  0.38761311769485474  0.16075952351093292  0.275537371635437  1.0000
+  H   H2        1.0  0.38648730516433716  0.575017511844635  0.7393025159835815  1.0000
+  Pd  Pd1       1.0  0.3868407607078552  0.9534412026405334  0.9750853776931763  1.0000

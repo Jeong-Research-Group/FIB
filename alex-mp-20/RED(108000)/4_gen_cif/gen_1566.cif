@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al2PbGeAlGa2AsGaPb
+_chemical_formula_sum              "Al3 Pb2 Ge1 Ga3 As1"
+_cell_length_a       4.615286098676564
+_cell_length_b       4.620423615944146
+_cell_length_c       12.894574165344238
+_cell_angle_alpha    89.83408355336819
+_cell_angle_beta     90.12618342377847
+_cell_angle_gamma    119.96205603464877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9087785482406616  0.7672130465507507  0.49857276678085327  1.0000
+  Al  Al2       1.0  0.24207250773906708  0.4328807592391968  0.6669526696205139  1.0000
+  Pb  Pb1       1.0  0.5756053328514099  0.10139647126197814  0.8263466358184814  1.0000
+  Ge  Ge1       1.0  0.5750648379325867  0.10052231699228285  0.19226890802383423  1.0000
+  Al  Al3       1.0  0.24209071695804593  0.4341181814670562  0.24192926287651062  1.0000
+  Ga  Ga1       1.0  0.5739410519599913  0.0994659587740898  0.38717496395111084  1.0000
+  Ga  Ga2       1.0  0.24212867021560666  0.43426775932312006  0.9448732137680054  1.0000
+  As  As1       1.0  0.24136836826801297  0.4339232444763183  0.4541507065296173  1.0000
+  Ga  Ga3       1.0  0.9087469577789307  0.768433153629303  0.6987818479537964  1.0000
+  Pb  Pb2       1.0  0.9089775085449219  0.7677420377731323  0.06728450208902359  1.0000

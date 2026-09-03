@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NdSeNdHSeH
+_chemical_formula_sum              "Nd2 Se2 H2"
+_cell_length_a       4.08455642022059
+_cell_length_b       4.0806230262083485
+_cell_length_c       6.601171493530273
+_cell_angle_alpha    90.03654401677464
+_cell_angle_beta     90.02258994094811
+_cell_angle_gamma    89.98553616380066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.04322539269924164  0.27923402190208435  0.4690512716770172  1.0000
+  Se  Se1       1.0  0.043004367500543594  0.2792157232761383  0.9379523396492004  1.0000
+  Nd  Nd2       1.0  0.5430064797401428  0.7789161801338196  0.06971532106399536  1.0000
+  H   H1        1.0  0.04281112179160118  0.7792343497276306  0.26946088671684265  1.0000
+  Se  Se2       1.0  0.5432276725769043  0.7794438600540161  0.6010125875473022  1.0000
+  H   H2        1.0  0.5424326658248901  0.2791735529899597  0.2693924605846405  1.0000

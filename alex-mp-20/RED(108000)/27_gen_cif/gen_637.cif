@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuIn2CuInIrIn
+_chemical_formula_sum              "Cu2 In4 Ir1"
+_cell_length_a       4.320810072539368
+_cell_length_b       4.322277443125857
+_cell_length_c       9.454221725463867
+_cell_angle_alpha    76.67813533521876
+_cell_angle_beta     76.67504832044803
+_cell_angle_gamma    59.93567665094793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8025790452957153  0.47746846079826355  0.09500664472579953  1.0000
+  In  In1       1.0  0.27462416887283314  0.9494335651397706  0.6777854561805725  1.0000
+  In  In2       1.0  0.6967114210128783  0.37192326784133917  0.4117143452167511  1.0000
+  Cu  Cu2       1.0  0.992027223110199  0.6667181849479675  0.5258702039718628  1.0000
+  In  In3       1.0  0.5192872285842896  0.19394546747207642  0.944550633430481  1.0000
+  Ir  Ir1       1.0  0.8970627188682555  0.5720775127410889  0.8106120824813843  1.0000
+  In  In4       1.0  0.0972722992300987  0.7724539041519166  0.21109473705291748  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2In2HgO2
+_chemical_formula_sum              "Ba2 In2 Hg1 O2"
+_cell_length_a       4.3016885245222545
+_cell_length_b       5.490547047800231
+_cell_length_c       10.67737231263567
+_cell_angle_alpha    104.7838812084679
+_cell_angle_beta     123.40881842860288
+_cell_angle_gamma    89.98712118103221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.18446972868160916  0.8010245485572296  0.3358743527343008  1.0000
+  Ba  Ba2       1.0  0.8725836876242826  0.3971069990695514  0.5299074686025934  1.0000
+  In  In1       1.0  0.5063334518011304  0.014411713254989694  0.7651275112847216  1.0000
+  In  In2       1.0  0.5517772488499081  0.18415297897080968  0.10052665723306968  1.0000
+  Hg  Hg1       1.0  0.5312630316944702  0.5992923486680951  0.9325950404813005  1.0000
+  O   O1        1.0  0.9336887344770419  0.8902831123539556  0.5159098230213061  1.0000
+  O   O2        1.0  0.12328065881702416  0.30786285581635503  0.3497630806815774  1.0000

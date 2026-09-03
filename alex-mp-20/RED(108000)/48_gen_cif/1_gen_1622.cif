@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2SmGaPb2
+_chemical_formula_sum              "La2 Sm1 Ga1 Pb2"
+_cell_length_a       4.6568086817102134
+_cell_length_b       4.664478091343791
+_cell_length_c       8.660168959557117
+_cell_angle_alpha    89.80788243088567
+_cell_angle_beta     89.87188901922205
+_cell_angle_gamma    89.9562947067954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.47004990188557877  0.7806915728110027  0.45553728881593686  1.0000
+  La  La2       1.0  0.9700941316329187  0.2799466966714244  0.12534845730729152  1.0000
+  Sm  Sm1       1.0  0.9706397213504678  0.7793631611337449  0.7905408176872971  1.0000
+  Ga  Ga1       1.0  0.47057023669905834  0.2792501911013336  0.7905496996347765  1.0000
+  Pb  Pb1       1.0  0.9703273875896992  0.2792506786955534  0.5157659308168284  1.0000
+  Pb  Pb2       1.0  0.47037330543628486  0.7806288197725261  0.06521628577386886  1.0000

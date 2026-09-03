@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2CoHPt
+_chemical_formula_sum              "Ti2 Co1 H1 Pt1"
+_cell_length_a       3.8109412534538527
+_cell_length_b       3.989106417910209
+_cell_length_c       3.988792040200689
+_cell_angle_alpha    89.99194264633225
+_cell_angle_beta     89.99587510954767
+_cell_angle_gamma    89.99363685034004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5392647615404428  0.8311326733619038  0.8801626830396052  1.0000
+  Ti  Ti2       1.0  0.5391927984197028  0.33090532604237816  0.38008514877604693  1.0000
+  Co  Co1       1.0  0.038740462503269735  0.33099954338301113  0.8802641512382006  1.0000
+  H   H1        1.0  0.5384538780040986  0.8311871344107414  0.380066413763726  1.0000
+  Pt  Pt1       1.0  0.03891232622777935  0.8307953523913418  0.3802729422106042  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Lu4Ni2Bi2
+_chemical_formula_sum              "Lu4 Ni2 Bi2"
+_cell_length_a       3.912035849843279
+_cell_length_b       5.632435125896264
+_cell_length_c       8.87753799390411
+_cell_angle_alpha    99.61605245138104
+_cell_angle_beta     89.9840096603746
+_cell_angle_gamma    89.99874218020246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.13580197857211831  0.48002463582583416  0.5729842806018453  1.0000
+  Lu  Lu2       1.0  0.6355976380422443  0.8186526579418762  0.8356011642537772  1.0000
+  Lu  Lu3       1.0  0.135090716026251  0.3390677627147809  0.9545675026024234  1.0000
+  Lu  Lu4       1.0  0.6361748525562143  0.9590027294288939  0.45380786289452957  1.0000
+  Ni  Ni1       1.0  0.13581434571127232  0.0058818150025470315  0.6691557709502364  1.0000
+  Ni  Ni2       1.0  0.6355682048049486  0.2919692305295982  0.7391287030574647  1.0000
+  Bi  Bi1       1.0  0.13580164136853698  0.8827587525474674  0.13863934912568793  1.0000
+  Bi  Bi2       1.0  0.6353638699238134  0.4146243864283244  0.26975984298571926  1.0000

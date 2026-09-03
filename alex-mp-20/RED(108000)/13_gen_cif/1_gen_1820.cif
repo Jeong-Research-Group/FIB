@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tm3CS2Cl
+_chemical_formula_sum              "Tm3 C1 S2 Cl1"
+_cell_length_a       3.709612563485829
+_cell_length_b       5.265980712991891
+_cell_length_c       7.653304092136397
+_cell_angle_alpha    89.95237756434148
+_cell_angle_beta     89.9803869505869
+_cell_angle_gamma    90.00000538895269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.12373037054203394  0.24028206324770554  0.43429273381285327  1.0000
+  Tm  Tm2       1.0  0.12328945007646042  0.23959453659052546  0.8640213601078399  1.0000
+  Tm  Tm3       1.0  0.6233514685888806  0.7401241020638365  0.649136209780754  1.0000
+  C   C1        1.0  0.6234829358816915  0.24003647040408493  0.6490349386623541  1.0000
+  S   S1        1.0  0.12369817426650487  0.7405032837406315  0.39797710282005305  1.0000
+  S   S2        1.0  0.123202023766363  0.7395667535243491  0.9002389834986413  1.0000
+  Cl  Cl1       1.0  0.6235242060976864  0.24021805768950605  0.1492011131067559  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta3Re3
+_chemical_formula_sum              "Ta3 Re3"
+_cell_length_a       3.2080848010646164
+_cell_length_b       3.2080430294808826
+_cell_length_c       9.623752030578963
+_cell_angle_alpha    89.99437630729113
+_cell_angle_beta     89.99474185479771
+_cell_angle_gamma    89.9973783793476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5293317589755223  0.6632181200513924  0.6251123988146063  1.0000
+  Ta  Ta2       1.0  0.5292187004951248  0.6624624592144488  0.9585297705218778  1.0000
+  Ta  Ta3       1.0  0.5289412084460972  0.6623119563548503  0.29180086809736555  1.0000
+  Re  Re1       1.0  0.02910172707222865  0.16285259481957545  0.4583152303871865  1.0000
+  Re  Re2       1.0  0.02914993874674331  0.16224226410557424  0.12530164771469027  1.0000
+  Re  Re3       1.0  0.029235183084183772  0.1628993832674447  0.7918121002691043  1.0000

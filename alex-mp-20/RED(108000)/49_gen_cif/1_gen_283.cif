@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Mg2Be3
+_chemical_formula_sum              "Li2 Mg2 Be3"
+_cell_length_a       3.761305008105647
+_cell_length_b       4.426804632193566
+_cell_length_c       6.655428405537705
+_cell_angle_alpha    108.88093374792581
+_cell_angle_beta     90.00142078610583
+_cell_angle_gamma    89.97293984728262
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.731291746805545  0.025610088275594814  0.865406596481939  1.0000
+  Li  Li2       1.0  0.7304514194518646  0.3813893383684856  0.5797886001000342  1.0000
+  Mg  Mg1       1.0  0.23093340439446147  0.5832091488727906  0.9736317918778696  1.0000
+  Mg  Mg2       1.0  0.23099201958745597  0.8231955236571636  0.4720857012264197  1.0000
+  Be  Be1       1.0  0.73090947213371  0.961658715975184  0.22422679124402853  1.0000
+  Be  Be2       1.0  0.23086207603390546  0.20316557786060244  0.22261185869854958  1.0000
+  Be  Be3       1.0  0.7309698347099007  0.44485293257954256  0.22110568416161827  1.0000

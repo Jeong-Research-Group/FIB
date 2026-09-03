@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaGeAuBaAuGe
+_chemical_formula_sum              "Ba2 Ge2 Au2"
+_cell_length_a       4.76318946613718
+_cell_length_b       4.7688537848989965
+_cell_length_c       7.6728010177612305
+_cell_angle_alpha    89.97132253958844
+_cell_angle_beta     89.9856044644407
+_cell_angle_gamma    89.9984247307328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6225518584251404  0.31046339869499207  0.7365914583206176  1.0000
+  Ge  Ge1       1.0  0.6221824884414673  0.3106668293476104  0.23901201784610746  1.0000
+  Au  Au1       1.0  0.12303580343723297  0.31062939763069153  0.052326623350381844  1.0000
+  Ba  Ba2       1.0  0.12172041088342667  0.8107403516769409  0.3686865866184234  1.0000
+  Au  Au2       1.0  0.6211019158363342  0.8108454346656798  0.052775982767343514  1.0000
+  Ge  Ge2       1.0  0.12207603454589844  0.8108960390090942  0.8660574555397033  1.0000

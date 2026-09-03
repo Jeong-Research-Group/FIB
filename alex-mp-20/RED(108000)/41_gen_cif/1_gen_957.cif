@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V2Fe2Ru2
+_chemical_formula_sum              "V2 Fe2 Ru2"
+_cell_length_a       4.194210052444922
+_cell_length_b       4.229176499988383
+_cell_length_c       4.921334972704984
+_cell_angle_alpha    115.44557576046928
+_cell_angle_beta     89.9972190416677
+_cell_angle_gamma    89.99969537605638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.10309042690008373  0.863379366062694  0.10098226891724078  1.0000
+  V   V2        1.0  0.6030630571610223  0.04160558909297687  0.45734381115938016  1.0000
+  Fe  Fe1       1.0  0.1029475982947752  0.5197854577319179  0.4139723448574041  1.0000
+  Fe  Fe2       1.0  0.6030924480648764  0.38491636422250525  0.14390001416486112  1.0000
+  Ru  Ru1       1.0  0.10312504709202336  0.1981884503074514  0.770595693901906  1.0000
+  Ru  Ru2       1.0  0.6030905338886338  0.7069120397553258  0.787692310352134  1.0000

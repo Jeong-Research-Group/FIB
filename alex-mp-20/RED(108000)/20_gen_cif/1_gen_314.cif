@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlInSiPt2
+_chemical_formula_sum              "Al1 In1 Si1 Pt2"
+_cell_length_a       4.456623964633501
+_cell_length_b       4.477875174494823
+_cell_length_c       5.9547635667822885
+_cell_angle_alpha    117.67809972782032
+_cell_angle_beta     118.07026154237866
+_cell_angle_gamma    75.76542488731882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.1815837174879282  0.5058332695416212  0.747356805599844  1.0000
+  In  In1       1.0  0.5613148601565009  0.8862950812381919  0.5073291110186872  1.0000
+  Si  Si1       1.0  0.9205918760491161  0.24564862737032356  0.22589935485219131  1.0000
+  Pt  Pt1       1.0  0.812895390709969  0.6372710351571345  0.008268620044726616  1.0000
+  Pt  Pt2       1.0  0.3094426733751581  0.1338409515908769  0.004757219615148336  1.0000

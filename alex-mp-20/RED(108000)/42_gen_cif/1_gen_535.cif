@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2OsSI
+_chemical_formula_sum              "Ba2 Os1 S1 I1"
+_cell_length_a       4.305959615069881
+_cell_length_b       4.304888857090678
+_cell_length_c       9.557223968388966
+_cell_angle_alpha    89.98781981211742
+_cell_angle_beta     90.00614495531958
+_cell_angle_gamma    119.9813881887654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.4772753810912274  0.7833618334722812  0.7017278884520699  1.0000
+  Ba  Ba2       1.0  0.4772592290306105  0.7826979355490915  0.14421487724707532  1.0000
+  Os  Os1       1.0  0.8109401537506947  0.4501078054084255  0.9226967144586659  1.0000
+  S   S1        1.0  0.14371086087470097  0.11629727716815395  0.9222247632158158  1.0000
+  I   I1        1.0  0.1433806813030327  0.1165830008085102  0.42390083506369686  1.0000

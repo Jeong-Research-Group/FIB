@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tm2FeHFeHC2
+_chemical_formula_sum              "Tm2 Fe2 H2 C2"
+_cell_length_a       3.45621403231042
+_cell_length_b       3.453873006584612
+_cell_length_c       7.379332065582275
+_cell_angle_alpha    90.03275326019323
+_cell_angle_beta     90.01241978873033
+_cell_angle_gamma    90.05773126299714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.4086412787437439  0.0541854351758957  0.5884853005409241  1.0000
+  Tm  Tm2       1.0  0.9080919623374939  0.553027868270874  0.2097550630569458  1.0000
+  Fe  Fe1       1.0  0.4084298610687256  0.5545896291732788  0.8993805050849915  1.0000
+  H   H1        1.0  0.40856218338012695  0.5531836152076721  0.3999630808830261  1.0000
+  Fe  Fe2       1.0  0.907976508140564  0.05370199680328369  0.8985138535499573  1.0000
+  H   H2        1.0  0.9085339307785034  0.05386359244585037  0.39788302779197693  1.0000
+  C   C1        1.0  0.40765380859375  0.05464870482683182  0.027028599753975868  1.0000
+  C   C2        1.0  0.9088637232780457  0.553752601146698  0.7713896036148071  1.0000

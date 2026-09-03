@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3Cd2Sn
+_chemical_formula_sum              "Lu3 Cd2 Sn1"
+_cell_length_a       4.105878215490424
+_cell_length_b       3.501295169235059
+_cell_length_c       10.432086736710975
+_cell_angle_alpha    90.00060924700038
+_cell_angle_beta     89.9994302979405
+_cell_angle_gamma    89.99988167177116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.15543744195285977  0.5080762347392191  0.715959096709219  1.0000
+  Lu  Lu2       1.0  0.15539981092541913  0.5080515328351456  0.04933240036475811  1.0000
+  Lu  Lu3       1.0  0.15540616664493748  0.5081391386137858  0.3825812140298492  1.0000
+  Cd  Cd1       1.0  0.6554132860079636  0.00804302396622715  0.885841908042774  1.0000
+  Cd  Cd2       1.0  0.6553944204501492  0.008090010970827727  0.21287631373318794  1.0000
+  Sn  Sn1       1.0  0.6554259134011379  0.008126361469595096  0.5491893285772318  1.0000

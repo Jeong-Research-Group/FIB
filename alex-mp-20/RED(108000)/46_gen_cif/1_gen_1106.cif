@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2AgHg3
+_chemical_formula_sum              "La2 Ag1 Hg3"
+_cell_length_a       5.086629115922099
+_cell_length_b       5.086426226207703
+_cell_length_c       7.029816002272799
+_cell_angle_alpha    89.99592417020874
+_cell_angle_beta     90.00276032963485
+_cell_angle_gamma    120.01165068740403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.03361003180613996  0.2759090170729886  0.8750219231391511  1.0000
+  La  La2       1.0  0.03312081617191665  0.27695660886372614  0.364576081839468  1.0000
+  Ag  Ag1       1.0  0.6998143679630441  0.6098498742463487  0.1279162807461311  1.0000
+  Hg  Hg1       1.0  0.3663700077593208  0.9431905227024733  0.11614226358755436  1.0000
+  Hg  Hg2       1.0  0.36670106256830737  0.9432049178847293  0.6292913844398256  1.0000
+  Hg  Hg3       1.0  0.6999915563406431  0.6099210467138781  0.6060985548606411  1.0000

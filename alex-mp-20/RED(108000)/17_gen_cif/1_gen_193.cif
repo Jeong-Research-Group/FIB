@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlFe4Ni
+_chemical_formula_sum              "Al1 Fe4 Ni1"
+_cell_length_a       3.9333081522496
+_cell_length_b       3.903032468258631
+_cell_length_c       4.996166825711228
+_cell_angle_alpha    112.98621812759055
+_cell_angle_beta     89.99379003323244
+_cell_angle_gamma    90.01148691382151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.15093221738557985  0.0760322389342007  0.43812634564571395  1.0000
+  Fe  Fe1       1.0  0.6509809874710031  0.2482320942689841  0.7825357587183837  1.0000
+  Fe  Fe2       1.0  0.6509801861761513  0.5822494564867128  0.45057002716760647  1.0000
+  Fe  Fe3       1.0  0.15095676600147104  0.7512812895452693  0.7885785782635522  1.0000
+  Fe  Fe4       1.0  0.6509860638122756  0.9086272429181809  0.10333604964443834  1.0000
+  Ni  Ni1       1.0  0.15096646288908663  0.4147521905139596  0.11552567525838456  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdNaInNaIn2
+_chemical_formula_sum              "Cd1 Na2 In3"
+_cell_length_a       6.096758213633402
+_cell_length_b       6.21216965173406
+_cell_length_c       6.217445373535156
+_cell_angle_alpha    60.145123435446436
+_cell_angle_beta     59.51887491363003
+_cell_angle_gamma    59.517926749237866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7814953923225403  0.07691282033920288  0.9389832615852356  1.0000
+  Na  Na1       1.0  0.9108709692955017  0.7000126242637634  0.5628405213356018  1.0000
+  In  In1       1.0  0.28184884786605835  0.07581153512001038  0.43988466262817383  1.0000
+  Na  Na2       1.0  0.652863621711731  0.45260170102119446  0.3156605362892151  1.0000
+  In  In2       1.0  0.28185179829597473  0.5765094757080078  0.9394023418426514  1.0000
+  In  In3       1.0  0.28208720684051514  0.07606223970651628  0.9390784502029419  1.0000

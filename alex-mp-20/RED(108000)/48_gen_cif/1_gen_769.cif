@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaIr2Rh
+_chemical_formula_sum              "Ta1 Ir2 Rh1"
+_cell_length_a       3.906063964149891
+_cell_length_b       3.927553419984832
+_cell_length_c       3.927464281959634
+_cell_angle_alpha    90.00008215387754
+_cell_angle_beta     90.00018794519092
+_cell_angle_gamma    90.00044456371116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.4812399551177864  0.6503225556165756  0.49907439832385253  1.0000
+  Ir  Ir1       1.0  0.9815381241438176  0.15063248283965602  0.49920168513711677  1.0000
+  Ir  Ir2       1.0  0.9815013597373398  0.6502853416737684  0.9992681240816927  1.0000
+  Rh  Rh1       1.0  0.4814252167643809  0.15053395705889155  0.9993564721399562  1.0000

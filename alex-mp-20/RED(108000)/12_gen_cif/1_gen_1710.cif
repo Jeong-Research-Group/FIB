@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2Mg2Cu2
+_chemical_formula_sum              "Dy2 Mg2 Cu2"
+_cell_length_a       4.683152587553861
+_cell_length_b       4.686009279068374
+_cell_length_c       6.762503639329659
+_cell_angle_alpha    89.99178420570146
+_cell_angle_beta     90.00054140087727
+_cell_angle_gamma    120.0404522713865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7747512243571222  0.4411635523874607  0.6772707529735216  1.0000
+  Dy  Dy2       1.0  0.7744723736274319  0.44019997406428135  0.17677611974932989  1.0000
+  Mg  Mg1       1.0  0.44187509258750135  0.7740344285744122  0.4273219192439472  1.0000
+  Mg  Mg2       1.0  0.44167972056205707  0.7740053630410644  0.9265141979771986  1.0000
+  Cu  Cu1       1.0  0.10879054843977543  0.10798348901377149  0.4256040389189222  1.0000
+  Cu  Cu2       1.0  0.108159130637902  0.10747127167124089  0.9274126480916678  1.0000

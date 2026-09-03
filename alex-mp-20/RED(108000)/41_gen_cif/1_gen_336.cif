@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Mn3Ga
+_chemical_formula_sum              "Zr2 Mn3 Ga1"
+_cell_length_a       3.777586932085059
+_cell_length_b       3.780662678727414
+_cell_length_c       6.706532690750011
+_cell_angle_alpha    89.99994108153157
+_cell_angle_beta     90.00009626380847
+_cell_angle_gamma    89.99988163006506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.009008262057722528  0.7811707902558646  0.3070709030711782  1.0000
+  Zr  Zr2       1.0  0.5090473657223  0.2811170690451415  0.992225083140145  1.0000
+  Mn  Mn1       1.0  0.5089924256613114  0.2811561998746043  0.44062374675711596  1.0000
+  Mn  Mn2       1.0  0.5090469804843403  0.7811895875647837  0.6296769289224099  1.0000
+  Mn  Mn3       1.0  0.009058561284450116  0.28112090089177805  0.6296722605248531  1.0000
+  Ga  Ga1       1.0  0.009091777186745519  0.7811646332567139  0.8731744854592843  1.0000

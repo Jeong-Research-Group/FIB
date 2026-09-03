@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeZr2AlGeAl
+_chemical_formula_sum              "Be1 Zr2 Al2 Ge1"
+_cell_length_a       3.66583784212435
+_cell_length_b       3.798635942582831
+_cell_length_c       7.647695541381836
+_cell_angle_alpha    90.02819069608839
+_cell_angle_beta     89.9882272586392
+_cell_angle_gamma    89.91185208040737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.6149694323539734  0.4366852343082428  0.5363333225250244  1.0000
+  Zr  Zr1       1.0  0.1158857047557831  0.43714892864227295  0.23284584283828735  1.0000
+  Zr  Zr2       1.0  0.11552154272794725  0.9373421669006348  0.6309317350387573  1.0000
+  Al  Al1       1.0  0.6145159006118774  0.4375072717666626  0.8610672354698181  1.0000
+  Ge  Ge1       1.0  0.11515271663665773  0.9376389384269714  0.9762939810752869  1.0000
+  Al  Al2       1.0  0.6153882145881653  0.9375095963478088  0.34936729073524475  1.0000

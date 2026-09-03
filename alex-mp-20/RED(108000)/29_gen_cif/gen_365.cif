@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni3ErNiGe
+_chemical_formula_sum              "Ni4 Er1 Ge1"
+_cell_length_a       4.855882149109846
+_cell_length_b       4.860405857593489
+_cell_length_c       4.856040000915527
+_cell_angle_alpha    60.00424436977079
+_cell_angle_beta     60.06085871043074
+_cell_angle_gamma    59.9570006537039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.4209443926811218  0.5339298844337463  0.22457599639892578  1.0000
+  Ni  Ni2       1.0  0.42029446363449097  0.036613885313272476  0.7215108871459961  1.0000
+  Ni  Ni3       1.0  0.4203679263591766  0.5340335369110107  0.721640944480896  1.0000
+  Er  Er1       1.0  0.7963954210281372  0.9095124006271362  0.09711527079343796  1.0000
+  Ni  Ni4       1.0  0.9238195419311522  0.5335123538970947  0.7219729423522949  1.0000
+  Ge  Ge1       1.0  0.046655002981424325  0.1593247652053833  0.34735459089279175  1.0000

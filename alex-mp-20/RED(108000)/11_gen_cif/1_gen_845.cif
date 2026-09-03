@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2Ag2N
+_chemical_formula_sum              "Y2 Ag2 N1"
+_cell_length_a       4.479425692812634
+_cell_length_b       4.759789388340003
+_cell_length_c       4.759865309128297
+_cell_angle_alpha    90.00065821414945
+_cell_angle_beta     89.99987601043745
+_cell_angle_gamma    89.99944643758077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.21951666503415046  0.03647330477788364  0.07700863693115911  1.0000
+  Y   Y2        1.0  0.2195903589920925  0.5364302773438401  0.5774887707627678  1.0000
+  Ag  Ag1       1.0  0.7195440548297968  0.5365192236263325  0.07692040627883202  1.0000
+  Ag  Ag2       1.0  0.719427281598773  0.03666473081956183  0.5769708906458061  1.0000
+  N   N1        1.0  0.21935858817783155  0.5364180753438514  0.07802029364830684  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnSnPt2
+_chemical_formula_sum              "Mn1 Sn1 Pt2"
+_cell_length_a       3.992869900366802
+_cell_length_b       3.9937056428689415
+_cell_length_c       5.05451791204719
+_cell_angle_alpha    113.26981789251035
+_cell_angle_beta     113.31185157587909
+_cell_angle_gamma    89.99916982793992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2630809948095848  0.9098627598544675  0.5313767432010599  1.0000
+  Sn  Sn1       1.0  0.013335240634148399  0.16003968398513138  0.03193964447591944  1.0000
+  Pt  Pt1       1.0  0.7628003006795413  0.4095662617600436  0.5307488162722692  1.0000
+  Pt  Pt2       1.0  0.513203581155731  0.6595381183147887  0.03053126794320278  1.0000

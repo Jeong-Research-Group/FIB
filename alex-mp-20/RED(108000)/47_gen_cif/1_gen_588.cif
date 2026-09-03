@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al3ZnAg2
+_chemical_formula_sum              "Al3 Zn1 Ag2"
+_cell_length_a       2.9556634275976448
+_cell_length_b       4.016309166137452
+_cell_length_c       8.521276735391268
+_cell_angle_alpha    90.12891921296175
+_cell_angle_beta     89.99845807887526
+_cell_angle_gamma    90.13433618041132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.036985331181193924  0.10152309630202805  0.8474410837486451  1.0000
+  Al  Al2       1.0  0.03630995584555078  0.10124184915961161  0.5083736972497376  1.0000
+  Al  Al3       1.0  0.5369552061685119  0.6010252273509756  0.33883210634565647  1.0000
+  Zn  Zn1       1.0  0.5370928183328517  0.6011462992663069  0.007517184993868979  1.0000
+  Ag  Ag1       1.0  0.03658013391122609  0.10100218283666626  0.17656044501939744  1.0000
+  Ag  Ag2       1.0  0.5370613617373143  0.6006615852844112  0.6764376315680768  1.0000

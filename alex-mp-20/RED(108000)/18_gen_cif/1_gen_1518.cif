@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb2CdNiO
+_chemical_formula_sum              "Tb2 Cd1 Ni1 O1"
+_cell_length_a       4.822279999559574
+_cell_length_b       4.610451812616109
+_cell_length_c       4.610835970509183
+_cell_angle_alpha    90.00012153448098
+_cell_angle_beta     89.98526027271897
+_cell_angle_gamma    90.00050944533368
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.2338218251557696  0.45515020312517307  0.8269761891263978  1.0000
+  Tb  Tb2       1.0  0.23354571226782062  0.9550676672871775  0.3268618496889384  1.0000
+  Cd  Cd1       1.0  0.733507073074201  0.9551350205817454  0.8264779449342864  1.0000
+  Ni  Ni1       1.0  0.7335299031849627  0.4560879581477811  0.3274122941153041  1.0000
+  O   O1        1.0  0.23346355179866204  0.954960610835444  0.8274231091122793  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni2CoHIr
+_chemical_formula_sum              "Ni2 Co1 H1 Ir1"
+_cell_length_a       3.676497939222012
+_cell_length_b       3.649336672537109
+_cell_length_c       3.6512258052825928
+_cell_angle_alpha    89.97546846258143
+_cell_angle_beta     90.00230427820209
+_cell_angle_gamma    90.0529159821697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7605010867118835  0.17409154772758484  0.8967709541320801  1.0000
+  Ni  Ni2       1.0  0.760625958442688  0.6742931008338928  0.39714306592941284  1.0000
+  Co  Co1       1.0  0.260367214679718  0.1740647703409195  0.39718151092529297  1.0000
+  H   H1        1.0  0.761433482170105  0.17389751970767975  0.397752046585083  1.0000
+  Ir  Ir1       1.0  0.2604973614215851  0.6744859218597412  0.8973327279090881  1.0000

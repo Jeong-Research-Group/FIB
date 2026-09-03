@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiLa2FeCo
+_chemical_formula_sum              "Li1 La2 Fe1 Co1"
+_cell_length_a       4.51781575239322
+_cell_length_b       5.429955936536258
+_cell_length_c       5.430742642453662
+_cell_angle_alpha    90.0045070043123
+_cell_angle_beta     89.99384412194753
+_cell_angle_gamma    89.97244701112187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7681338228032086  0.21275674155836752  0.5603208481073956  1.0000
+  La  La1       1.0  0.26929033471631514  0.7126552783896194  0.5603566626143054  1.0000
+  La  La2       1.0  0.26866131165380985  0.21280171460749245  0.06051038283414745  1.0000
+  Fe  Fe1       1.0  0.7696373149938839  0.7126603401164999  0.06045670406856558  1.0000
+  Co  Co1       1.0  0.2696490587647135  0.712607763159578  0.060508945193883695  1.0000

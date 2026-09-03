@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       LuAu
+_chemical_formula_sum              "Lu1 Au1"
+_cell_length_a       3.533272791872329
+_cell_length_b       3.5302819250991853
+_cell_length_c       3.5293760834638204
+_cell_angle_alpha    89.98739031823122
+_cell_angle_beta     90.017546205877
+_cell_angle_gamma    90.01359417571639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.2637001249586051  0.4720106891110753  0.6533185618591111  1.0000
+  Au  Au1       1.0  0.7638553397106054  0.9726480075485467  0.15295165069904856  1.0000

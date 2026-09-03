@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeNiFePd
+_chemical_formula_sum              "Fe2 Ni1 Pd1"
+_cell_length_a       3.7160445271649603
+_cell_length_b       3.723526365495863
+_cell_length_c       4.459353446960449
+_cell_angle_alpha    114.71750668921689
+_cell_angle_beta     114.63182787167263
+_cell_angle_gamma    89.98829581861254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.15436996519565582  0.27625161409378046  0.6141858696937561  1.0000
+  Ni  Ni1       1.0  0.9040071964263916  0.5260745882987976  0.11366833746433258  1.0000
+  Fe  Fe2       1.0  0.4038018584251404  0.026806348934769627  0.11440689116716385  1.0000
+  Pd  Pd1       1.0  0.6537259817123413  0.776332139968872  0.6138257384300232  1.0000

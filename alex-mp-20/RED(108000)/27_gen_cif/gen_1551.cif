@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeNi2GaH
+_chemical_formula_sum              "Fe1 Ni2 Ga1 H1"
+_cell_length_a       3.71262298811081
+_cell_length_b       3.6688380347097014
+_cell_length_c       3.671564817428589
+_cell_angle_alpha    89.96395959701596
+_cell_angle_beta     89.986232843853
+_cell_angle_gamma    90.00288484402449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6602981090545654  0.4917349815368653  0.7261707782745362  1.0000
+  Ni  Ni1       1.0  0.1604139506816864  0.9922689199447632  0.7262317538261415  1.0000
+  Ni  Ni2       1.0  0.16050630807876587  0.49249583482742315  0.22661590576171878  1.0000
+  Ga  Ga1       1.0  0.659821629524231  0.9923670291900636  0.22683897614479068  1.0000
+  H   H1        1.0  0.16128166019916534  0.4920154809951783  0.7265138626098634  1.0000

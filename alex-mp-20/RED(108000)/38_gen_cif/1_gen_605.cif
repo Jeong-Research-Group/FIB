@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2DyPd2
+_chemical_formula_sum              "Li2 Dy1 Pd2"
+_cell_length_a       3.427123010461972
+_cell_length_b       3.435121801765462
+_cell_length_c       7.950780814317164
+_cell_angle_alpha    102.48376007842546
+_cell_angle_beta     102.41162834803035
+_cell_angle_gamma    89.98900608056493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4737165088237077  0.27296668801036983  0.7920836954953165  1.0000
+  Li  Li2       1.0  0.06820108242239889  0.8657401351988945  0.9770619630527344  1.0000
+  Dy  Dy1       1.0  0.2704015330698771  0.07050386978852938  0.3849589943199377  1.0000
+  Pd  Pd1       1.0  0.8825453201305618  0.6815953060061205  0.6087415365091933  1.0000
+  Pd  Pd2       1.0  0.6593108759509544  0.4586507527036919  0.16140867480223298  1.0000

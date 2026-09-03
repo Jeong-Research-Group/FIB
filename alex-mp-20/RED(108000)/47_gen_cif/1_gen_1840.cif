@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2AlIr3
+_chemical_formula_sum              "Ti2 Al1 Ir3"
+_cell_length_a       3.4566332457429367
+_cell_length_b       4.126725827799272
+_cell_length_c       6.53025128738683
+_cell_angle_alpha    108.42081954607396
+_cell_angle_beta     89.99982459900468
+_cell_angle_gamma    89.99826548331059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5609279010596118  0.2653575785525666  0.5240966981783904  1.0000
+  Ti  Ti2       1.0  0.5607577991599991  0.931088286428212  0.855396452575103  1.0000
+  Al  Al1       1.0  0.560727407396501  0.5980488723952668  0.18968113410870552  1.0000
+  Ir  Ir1       1.0  0.06049138805214884  0.09821015838277955  0.18966753289239652  1.0000
+  Ir  Ir2       1.0  0.06094201642494799  0.76207035052045  0.5173655199560767  1.0000
+  Ir  Ir3       1.0  0.06106200548963871  0.43423984053929493  0.8621645767803525  1.0000

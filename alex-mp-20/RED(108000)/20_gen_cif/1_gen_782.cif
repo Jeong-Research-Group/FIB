@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaGa2Ni2Pt
+_chemical_formula_sum              "Ba1 Ga2 Ni2 Pt1"
+_cell_length_a       4.2276146516137345
+_cell_length_b       4.77408922956803
+_cell_length_c       6.331291277601041
+_cell_angle_alpha    102.66163812987358
+_cell_angle_beta     90.0370717228748
+_cell_angle_gamma    89.9929147871325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.20635582879627476  0.06196567688447566  0.32050516397648543  1.0000
+  Ga  Ga1       1.0  0.20706201822079084  0.4161392488852374  0.9119886936820746  1.0000
+  Ga  Ga2       1.0  0.7066728626524721  0.6203202877506996  0.5714644866953793  1.0000
+  Ni  Ni1       1.0  0.2069464245564584  0.8448803984723884  0.7755286083383061  1.0000
+  Ni  Ni2       1.0  0.707009834390095  0.6972156008921893  0.9496522803271912  1.0000
+  Pt  Pt1       1.0  0.7070009485156473  0.15149550306900633  0.7824464910397482  1.0000

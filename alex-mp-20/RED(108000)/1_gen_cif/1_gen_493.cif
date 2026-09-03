@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2TlCd
+_chemical_formula_sum              "Li2 Tl1 Cd1"
+_cell_length_a       3.459954768704125
+_cell_length_b       4.797292374527806
+_cell_length_c       4.7971108560808275
+_cell_angle_alpha    90.00370973021208
+_cell_angle_beta     90.00195646329773
+_cell_angle_gamma    90.00037994935234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.33237348897849384  0.9698010562216495  0.14844804556412888  1.0000
+  Li  Li2       1.0  0.33286109960035887  0.469770046158345  0.6483683559716188  1.0000
+  Tl  Tl1       1.0  0.8327186325163448  0.4697073809079072  0.14866170398907533  1.0000
+  Cd  Cd1       1.0  0.8326814613246721  0.9699864664484054  0.6480946887486922  1.0000

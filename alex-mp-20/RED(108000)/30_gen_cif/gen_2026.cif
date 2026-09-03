@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtAsCs2AsPt
+_chemical_formula_sum              "Pt2 As2 Cs2"
+_cell_length_a       4.468788269123816
+_cell_length_b       4.474612715036472
+_cell_length_c       11.05265998840332
+_cell_angle_alpha    89.99821299477006
+_cell_angle_beta     90.01339650589331
+_cell_angle_gamma    89.97702574755674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.12817035615444183  0.09629323333501816  0.899402916431427  1.0000
+  As  As1       1.0  0.12848180532455444  0.5963485240936279  0.7891938090324402  1.0000
+  Cs  Cs1       1.0  0.12824830412864685  0.5971280336380005  0.1861083209514618  1.0000
+  Cs  Cs2       1.0  0.6281229853630066  0.09700150042772293  0.6131364703178406  1.0000
+  As  As2       1.0  0.6287524700164795  0.09663449972867966  0.0051666442304849625  1.0000
+  Pt  Pt2       1.0  0.6288619041442871  0.5964515805244446  0.8997559547424316  1.0000

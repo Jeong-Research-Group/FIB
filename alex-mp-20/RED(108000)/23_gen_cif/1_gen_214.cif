@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be3Tl2In
+_chemical_formula_sum              "Be3 Tl2 In1"
+_cell_length_a       3.6831369620145247
+_cell_length_b       3.6830265950686525
+_cell_length_c       10.431708679447562
+_cell_angle_alpha    90.00610753426187
+_cell_angle_beta     89.99594737787955
+_cell_angle_gamma    119.996859642102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.9549281777174611  0.3926563735287383  0.1033450551490647  1.0000
+  Be  Be2       1.0  0.28827789652268515  0.05934262102164243  0.08282982726108902  1.0000
+  Be  Be3       1.0  0.6216067684382354  0.7260194216161571  0.12334512231207846  1.0000
+  Tl  Tl1       1.0  0.28747079143386906  0.06038457076103034  0.34225511394067304  1.0000
+  Tl  Tl2       1.0  0.6224304969136417  0.725110569971952  0.8639938128504244  1.0000
+  In  In1       1.0  0.9540523407209375  0.3914809786399468  0.6027802727770823  1.0000

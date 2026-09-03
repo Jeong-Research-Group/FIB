@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaTiGaTiC
+_chemical_formula_sum              "La1 Ti2 Ga1 C1"
+_cell_length_a       4.294095259271064
+_cell_length_b       4.294157051699675
+_cell_length_c       5.07670783996582
+_cell_angle_alpha    89.9940055983874
+_cell_angle_beta     89.98166344458384
+_cell_angle_gamma    89.99795344765415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5027183890342712  0.5485307574272156  0.4633961319923401  1.0000
+  Ti  Ti1       1.0  0.5022722482681274  0.04832780361175537  0.9632418751716614  1.0000
+  Ga  Ga1       1.0  0.0027144760824739933  0.04852115362882614  0.46365758776664734  1.0000
+  Ti  Ti2       1.0  0.002437928691506386  0.5479285717010499  0.9629127383232117  1.0000
+  C   C1        1.0  0.5023758411407471  0.5483666658401489  0.9632952809333801  1.0000

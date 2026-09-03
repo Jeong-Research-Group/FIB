@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V3Ga2Mo
+_chemical_formula_sum              "V3 Ga2 Mo1"
+_cell_length_a       3.256234856995455
+_cell_length_b       5.046826333882609
+_cell_length_c       5.853964642760511
+_cell_angle_alpha    104.33979340356734
+_cell_angle_beta     90.23788101115142
+_cell_angle_gamma    108.74074657946862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.8899560820860086  0.7030566819744574  0.8154363124433793  1.0000
+  V   V2        1.0  0.22918470988664633  0.3822257552036326  0.9654874141245692  1.0000
+  V   V3        1.0  0.5661305346675584  0.05892312554511488  0.11297749741413111  1.0000
+  Ga  Ga1       1.0  0.8886253734410955  0.700373964824106  0.28394192214492203  1.0000
+  Ga  Ga2       1.0  0.22990125378237908  0.3827282428469462  0.47707257795720037  1.0000
+  Mo  Mo1       1.0  0.5504458792336783  0.020203195944331124  0.6569734530600244  1.0000

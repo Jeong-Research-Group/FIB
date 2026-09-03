@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2Hg2TeSIBr
+_chemical_formula_sum              "Ag2 Hg2 Te1 S1 I1 Br1"
+_cell_length_a       4.690908876353631
+_cell_length_b       7.660424550148952
+_cell_length_c       7.4143475392896905
+_cell_angle_alpha    85.06155244791074
+_cell_angle_beta     89.99883554538471
+_cell_angle_gamma    89.99503235164414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9528362867064509  0.14961964992352658  0.48019571771621566  1.0000
+  Ag  Ag2       1.0  0.45282372298281204  0.37155303402919676  0.5029107393425571  1.0000
+  Hg  Hg1       1.0  0.9526084639707105  0.6487282052542678  0.8818555932337859  1.0000
+  Hg  Hg2       1.0  0.4528131012524806  0.27171864896042236  0.033908186164189495  1.0000
+  Te  Te1       1.0  0.4528632501021887  0.04882626963838881  0.32799896120772704  1.0000
+  S   S1        1.0  0.4526804267768011  0.5187010275097048  0.8010035105397992  1.0000
+  I   I1        1.0  0.9528196991441062  0.5465645578399106  0.29573616933205654  1.0000
+  Br  Br1       1.0  0.9528445779009687  0.0024688189690519427  0.8393351122834478  1.0000

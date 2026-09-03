@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tm2InBiO2
+_chemical_formula_sum              "Tm2 In1 Bi1 O2"
+_cell_length_a       3.940750199628778
+_cell_length_b       3.941780468412594
+_cell_length_c       7.994385601230564
+_cell_angle_alpha    90.00371424878136
+_cell_angle_beta     89.9977877815057
+_cell_angle_gamma    89.99999683130204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.5733695199336297  0.4232687332171323  0.42399079107674814  1.0000
+  Tm  Tm2       1.0  0.07332241301651432  0.92333175703312  0.6806151831450127  1.0000
+  In  In1       1.0  0.5731078528226291  0.4231340807501331  0.960250863864456  1.0000
+  Bi  Bi1       1.0  0.07303001884701735  0.9232757742559206  0.14489386058760595  1.0000
+  O   O1        1.0  0.5733282097429723  0.9232839441980086  0.5535139037669338  1.0000
+  O   O2        1.0  0.07334213329807485  0.42330811322286505  0.5536275875689161  1.0000

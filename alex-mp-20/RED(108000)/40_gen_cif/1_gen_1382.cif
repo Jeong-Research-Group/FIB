@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaCeGa2Au2
+_chemical_formula_sum              "La1 Ce1 Ga2 Au2"
+_cell_length_a       4.6279201311581035
+_cell_length_b       4.628856207289833
+_cell_length_c       7.525356645860192
+_cell_angle_alpha    90.00143354445129
+_cell_angle_beta     89.99956942036431
+_cell_angle_gamma    119.99507953119678
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.01881565223923928  0.08601011941357309  0.5664909418465421  1.0000
+  Ce  Ce1       1.0  0.018716808737726562  0.0860528972331224  0.06635333436229594  1.0000
+  Ga  Ga1       1.0  0.6854873087945891  0.41937434281357994  0.29353484512502676  1.0000
+  Ga  Ga2       1.0  0.3522707679892498  0.7526642958894564  0.8393229641056987  1.0000
+  Au  Au1       1.0  0.6856522847286687  0.4192544930786395  0.8346554853432314  1.0000
+  Au  Au2       1.0  0.35216814574064337  0.7528355057072632  0.2982963708467705  1.0000

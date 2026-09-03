@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba4SeS2Br
+_chemical_formula_sum              "Ba4 Se1 S2 Br1"
+_cell_length_a       6.548768415185634
+_cell_length_b       6.548709559341689
+_cell_length_c       6.545023069782845
+_cell_angle_alpha    89.99259527036124
+_cell_angle_beta     90.01307373035823
+_cell_angle_gamma    90.00453142346575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8922380624867545  0.07033771134058737  0.7979036550263107  1.0000
+  Ba  Ba2       1.0  0.8920231678715074  0.5712432437138849  0.2977852603404696  1.0000
+  Ba  Ba3       1.0  0.391881352697584  0.5710730968434405  0.798088109408184  1.0000
+  Ba  Ba4       1.0  0.39164806177867945  0.07069183765171902  0.29798391146825226  1.0000
+  Se  Se1       1.0  0.8921986930536299  0.5709602814231038  0.7979534043788631  1.0000
+  S   S1        1.0  0.8917883124634295  0.07143758820052075  0.29932930782310446  1.0000
+  S   S2        1.0  0.39193132702634037  0.5692580783103643  0.29823090657490064  1.0000
+  Br  Br1       1.0  0.39216836436001323  0.0707227876180625  0.7986231099645935  1.0000

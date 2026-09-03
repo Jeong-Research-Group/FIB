@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr2PtCoHf2PtCo
+_chemical_formula_sum              "Zr2 Pt2 Co2 Hf2"
+_cell_length_a       4.2766449149406105
+_cell_length_b       5.295902525894253
+_cell_length_c       6.639542579650879
+_cell_angle_alpha    109.1408698908222
+_cell_angle_beta     89.9821210685582
+_cell_angle_gamma    90.01970077112409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5735921859741211  0.21157445013523102  0.09137389063835145  1.0000
+  Zr  Zr2       1.0  0.5735321044921875  0.1908598244190216  0.5959012508392334  1.0000
+  Pt  Pt1       1.0  0.07349628955125809  0.3192114531993866  0.376111388206482  1.0000
+  Co  Co1       1.0  0.07248461246490479  0.3094330132007599  0.8707518577575685  1.0000
+  Hf  Hf1       1.0  0.07254952192306519  0.7793830037117004  0.7343579530715943  1.0000
+  Hf  Hf2       1.0  0.07312227785587311  0.7621995210647583  0.24052809178829196  1.0000
+  Pt  Pt2       1.0  0.5726403594017029  0.6576417684555054  0.9570801854133607  1.0000
+  Co  Co2       1.0  0.5736013650894165  0.6687042117118835  0.46212384104728704  1.0000

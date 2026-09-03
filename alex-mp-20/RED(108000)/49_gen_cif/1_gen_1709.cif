@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2CuNiP2
+_chemical_formula_sum              "Cs2 Cu1 Ni1 P2"
+_cell_length_a       3.999676265668118
+_cell_length_b       3.9998979041832903
+_cell_length_c       12.27000951828333
+_cell_angle_alpha    90.21924898913657
+_cell_angle_beta     90.01744503981233
+_cell_angle_gamma    89.99997592513566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.9900629841697082  0.7478644143947604  0.8700004369004184  1.0000
+  Cs  Cs2       1.0  0.490497073200073  0.25363747446138935  0.38710906528062594  1.0000
+  Cu  Cu1       1.0  0.9904402811537295  0.24990667203049471  0.12857412215849848  1.0000
+  Ni  Ni1       1.0  0.49036425176025034  0.750735445155775  0.12856438407087964  1.0000
+  P   P1        1.0  0.490338653982604  0.24961430228366352  0.03474910474284708  1.0000
+  P   P2        1.0  0.9904464535821459  0.7510512621507528  0.2222958703515974  1.0000

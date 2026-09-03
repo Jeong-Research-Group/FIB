@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeF4SnF2
+_chemical_formula_sum              "Ge1 F6 Sn1"
+_cell_length_a       5.815021519317902
+_cell_length_b       5.798440858372409
+_cell_length_c       6.006227493286133
+_cell_angle_alpha    60.658952521429
+_cell_angle_beta     60.729671188549744
+_cell_angle_gamma    59.630230821151436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6620823144912721  0.6860454082489014  0.8742179870605469  1.0000
+  F   F1        1.0  0.45443472266197205  0.9811222553253174  0.6562326550483704  1.0000
+  F   F2        1.0  0.8694137930870056  0.39245972037315374  0.09075247496366509  1.0000
+  F   F3        1.0  0.36876460909843445  0.5553821325302124  0.08361468464136124  1.0000
+  F   F4        1.0  0.7974478006362915  0.4731042683124542  0.6608518362045289  1.0000
+  Sn  Sn1       1.0  0.16188982129096985  0.18595558404922488  0.3747369349002838  1.0000
+  F   F5        1.0  0.955741286277771  0.8164652585983276  0.6628986597061157  1.0000
+  F   F6        1.0  0.5262755751609802  0.9002428650856018  0.08646353334188461  1.0000

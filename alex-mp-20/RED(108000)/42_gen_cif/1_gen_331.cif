@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2NiAu
+_chemical_formula_sum              "Li2 Ni1 Au1"
+_cell_length_a       2.75105536673967
+_cell_length_b       2.751036295781334
+_cell_length_c       7.3017438628084745
+_cell_angle_alpha    90.00040028877032
+_cell_angle_beta     90.00079293970089
+_cell_angle_gamma    89.98876914971564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.43171107466390296  0.6197258941985982  0.9590224154856377  1.0000
+  Li  Li2       1.0  0.43145295202723405  0.6198629776282917  0.42299768733589316  1.0000
+  Ni  Ni1       1.0  0.932361914159516  0.11885374573862043  0.19015704361504226  1.0000
+  Au  Au1       1.0  0.932082143147777  0.1195543818717135  0.6909930215726865  1.0000

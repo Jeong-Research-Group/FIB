@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NbHNbAl2NbAl
+_chemical_formula_sum              "Nb3 H1 Al3"
+_cell_length_a       3.7800372760361616
+_cell_length_b       5.139723176209023
+_cell_length_c       6.131883144378662
+_cell_angle_alpha    105.1864146430616
+_cell_angle_beta     89.79501487959858
+_cell_angle_gamma    111.4383058985816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2820585370063781  0.9051979184150695  0.6915343403816223  1.0000
+  H   H1        1.0  0.7209758758544923  0.7810682058334351  0.6441965699195862  1.0000
+  Nb  Nb2       1.0  0.5849547386169434  0.5113108158111572  0.33621323108673096  1.0000
+  Al  Al1       1.0  0.2628227770328522  0.8664492964744568  0.1878790408372879  1.0000
+  Al  Al2       1.0  0.9417408704757692  0.22438757121562958  0.5205032825469971  1.0000
+  Nb  Nb3       1.0  0.6103038787841797  0.5585849285125732  0.8644364476203918  1.0000
+  Al  Al3       1.0  0.9350864291191102  0.21089734137058258  0.022874200716614716  1.0000

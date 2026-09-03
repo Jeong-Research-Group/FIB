@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FeTeFeTeMnTe2Mn
+_chemical_formula_sum              "Fe2 Te4 Mn2"
+_cell_length_a       3.954545028412497
+_cell_length_b       6.080740617549067
+_cell_length_c       8.0077486038208
+_cell_angle_alpha    90.94578565673301
+_cell_angle_beta     89.99650544746792
+_cell_angle_gamma    90.02439311247767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2826687693595887  0.40997129678726196  0.9802067279815674  1.0000
+  Te  Te1       1.0  0.2835035920143128  0.1520427167415619  0.7119102478027344  1.0000
+  Fe  Fe2       1.0  0.7835803031921388  0.4251685440540314  0.20857207477092743  1.0000
+  Te  Te2       1.0  0.7828592658042909  0.6949240565299987  0.9586466550827026  1.0000
+  Mn  Mn1       1.0  0.7832707762718202  0.17629036307334903  0.47729402780532837  1.0000
+  Te  Te3       1.0  0.7825095057487489  0.6741562485694885  0.4787176549434662  1.0000
+  Te  Te4       1.0  0.2833822369575501  0.13488389551639557  0.2268638014793396  1.0000
+  Mn  Mn2       1.0  0.2839919328689576  0.645374596118927  0.7098364233970642  1.0000

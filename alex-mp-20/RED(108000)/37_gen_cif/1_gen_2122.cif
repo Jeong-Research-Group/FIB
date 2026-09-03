@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrYCoPb2
+_chemical_formula_sum              "Sr1 Y1 Co1 Pb2"
+_cell_length_a       5.032020659239329
+_cell_length_b       5.331126478048284
+_cell_length_c       5.330194121359141
+_cell_angle_alpha    89.98471973166174
+_cell_angle_beta     89.97415156722052
+_cell_angle_gamma    89.95773464350397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9601052271241616  0.0818955359592039  0.01131507281789287  1.0000
+  Y   Y1        1.0  0.9591569256729091  0.5819920435441224  0.5113565414650865  1.0000
+  Co  Co1       1.0  0.45922544541915916  0.5813921197031213  0.5114128080581767  1.0000
+  Pb  Pb1       1.0  0.46069123727655725  0.581793422364974  0.011487312636886121  1.0000
+  Pb  Pb2       1.0  0.46045165897864954  0.08168785172148803  0.5116200928438508  1.0000

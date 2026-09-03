@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zn2Cu2Pd3
+_chemical_formula_sum              "Zn2 Cu2 Pd3"
+_cell_length_a       3.5570884112480603
+_cell_length_b       4.798343968456073
+_cell_length_c       6.208308873001527
+_cell_angle_alpha    84.88440125638304
+_cell_angle_beta     90.00014717939872
+_cell_angle_gamma    68.24296795399857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.31705052878979356  0.32857775114810284  0.8924110558825092  1.0000
+  Zn  Zn2       1.0  0.4686636969011517  0.02529986816263195  0.3298750063639883  1.0000
+  Cu  Cu1       1.0  0.17561891014547562  0.6113810193261738  0.4747852300541942  1.0000
+  Cu  Cu2       1.0  0.6097570076073208  0.7431567214338871  0.7473107258580787  1.0000
+  Pd  Pd1       1.0  0.7530785414829427  0.4565358927388036  0.18745975086962263  1.0000
+  Pd  Pd2       1.0  0.03265675997218331  0.8972561906161778  0.03469068611584892  1.0000
+  Pd  Pd3       1.0  0.8926452667367826  0.1773337087778627  0.611112147003672  1.0000

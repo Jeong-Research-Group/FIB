@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiI2N2Cl
+_chemical_formula_sum              "Ni1 I2 N2 Cl1"
+_cell_length_a       3.785067355143136
+_cell_length_b       6.625051984446672
+_cell_length_c       6.645799524440029
+_cell_angle_alpha    93.22734319889977
+_cell_angle_beta     89.98729753389443
+_cell_angle_gamma    90.04486801620384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5172129652366411  0.6420982194520228  0.706725437542916  1.0000
+  I   I1        1.0  0.016905510736766168  0.43665969330186877  0.5014121972630454  1.0000
+  I   I2        1.0  0.01741167124483126  0.8486144803630132  0.911412233309327  1.0000
+  N   N1        1.0  0.5167321935685837  0.3237445732489989  0.0273374810217436  1.0000
+  N   N2        1.0  0.5168151728578401  0.4388467157858325  0.910094778953619  1.0000
+  Cl  Cl1       1.0  0.5175912546181627  0.8733502227812652  0.4762477857180538  1.0000

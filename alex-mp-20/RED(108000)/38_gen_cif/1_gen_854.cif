@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCdNi2H
+_chemical_formula_sum              "Mn1 Cd1 Ni2 H1"
+_cell_length_a       3.865806629922449
+_cell_length_b       3.796761232377401
+_cell_length_c       3.863681633655231
+_cell_angle_alpha    89.99986279647909
+_cell_angle_beta     90.00280430798209
+_cell_angle_gamma    89.99994492161744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7912061173688991  0.735306584257285  0.21901366058448823  1.0000
+  Cd  Cd1       1.0  0.2912552500928462  0.7353106612368471  0.718722473059036  1.0000
+  Ni  Ni1       1.0  0.7914424593441897  0.23546327024228322  0.7188305483301114  1.0000
+  Ni  Ni2       1.0  0.2912376869035564  0.23559650482634972  0.2188198812857451  1.0000
+  H   H1        1.0  0.7917620621137526  0.2348973694261496  0.21818813832530062  1.0000

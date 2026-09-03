@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4GeTe2Pb
+_chemical_formula_sum              "La4 Ge1 Te2 Pb1"
+_cell_length_a       6.445257120153613
+_cell_length_b       6.493723734906962
+_cell_length_c       6.493753638354604
+_cell_angle_alpha    89.99849328993471
+_cell_angle_beta     90.00307747736682
+_cell_angle_gamma    90.0039041726031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7448858703691779  0.6867647296705532  0.273863859633263  1.0000
+  La  La2       1.0  0.2444799351937863  0.686645064065491  0.7744329397021862  1.0000
+  La  La3       1.0  0.7447365538478118  0.18683318124906392  0.7742050241944735  1.0000
+  La  La4       1.0  0.24456067945160634  0.18688774029881491  0.2738363185632724  1.0000
+  Ge  Ge1       1.0  0.24483352197613306  0.18670139436544708  0.7734119757054221  1.0000
+  Te  Te1       1.0  0.7448071749763088  0.1868717743496423  0.27453821517349114  1.0000
+  Te  Te2       1.0  0.7440839354523539  0.6865710391688384  0.7737428127528649  1.0000
+  Pb  Pb1       1.0  0.24527498530142958  0.686564699886056  0.2743858806114749  1.0000

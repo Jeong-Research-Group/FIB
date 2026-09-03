@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnHCo2W
+_chemical_formula_sum              "Mn1 H1 Co2 W1"
+_cell_length_a       3.7201181571173136
+_cell_length_b       3.655812193133462
+_cell_length_c       3.6563260555267334
+_cell_angle_alpha    89.9262432894648
+_cell_angle_beta     89.88311747210982
+_cell_angle_gamma    89.8505443084599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8482530117034913  0.29220864176750183  0.11834118515253067  1.0000
+  H   H1        1.0  0.3475871086120606  0.29308754205703735  0.11762641370296478  1.0000
+  Co  Co1       1.0  0.34931805729866033  0.29168519377708435  0.6186291575431824  1.0000
+  Co  Co2       1.0  0.34901666641235357  0.7914196848869323  0.11778473109006882  1.0000
+  W   W1        1.0  0.8487337827682496  0.79221111536026  0.618098258972168  1.0000

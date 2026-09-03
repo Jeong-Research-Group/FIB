@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Pd2Rh2
+_chemical_formula_sum              "La2 Pd2 Rh2"
+_cell_length_a       3.972780057210345
+_cell_length_b       4.438790602222424
+_cell_length_c       7.724686232718408
+_cell_angle_alpha    90.00478009649066
+_cell_angle_beta     89.98835633589216
+_cell_angle_gamma    89.99959986864184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.13565181937881177  0.5948776238031198  0.03156715581564883  1.0000
+  La  La2       1.0  0.13596729646537212  0.09497540323345888  0.5530540870878966  1.0000
+  Pd  Pd1       1.0  0.6355925896652046  0.09498706807990379  0.20083997757714195  1.0000
+  Pd  Pd2       1.0  0.6360009377944492  0.5950233911372454  0.3834623948154637  1.0000
+  Rh  Rh1       1.0  0.6357531308757196  0.09503816323885114  0.867580659813927  1.0000
+  Rh  Rh2       1.0  0.6358877899217641  0.5950059027474929  0.7168469880860435  1.0000

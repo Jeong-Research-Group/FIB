@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZrCu2GeH
+_chemical_formula_sum              "Zr1 Cu2 Ge1 H1"
+_cell_length_a       3.8881823653323524
+_cell_length_b       3.8892760523959202
+_cell_length_c       4.237831638062295
+_cell_angle_alpha    89.9705459347624
+_cell_angle_beta     89.99086157370203
+_cell_angle_gamma    90.00022695938172
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.49082567169780833  0.5645645967810996  0.5136982299476772  1.0000
+  Cu  Cu1       1.0  0.49009179133505665  0.0647359704377649  0.013958650430186712  1.0000
+  Cu  Cu2       1.0  0.9904305210819396  0.5647905220779229  0.012962510683097813  1.0000
+  Ge  Ge1       1.0  0.9906947143068114  0.06450764711195266  0.5137558390860341  1.0000
+  H   H1        1.0  0.4903620405670677  0.5647566698144387  0.013405617276585208  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ca2Pr2
+_chemical_formula_sum              "Li2 Ca2 Pr2"
+_cell_length_a       3.7585721116344852
+_cell_length_b       3.7575978469988605
+_cell_length_c       14.03443005503185
+_cell_angle_alpha    90.04640680987174
+_cell_angle_beta     90.06977078327571
+_cell_angle_gamma    90.04528732948594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.349455338765061  0.7927637293851074  0.35886942140080735  1.0000
+  Li  Li2       1.0  0.8512530852766106  0.2923373499884033  0.2608869444849006  1.0000
+  Ca  Ca1       1.0  0.35140780284076617  0.7922567176642678  0.09858681771058216  1.0000
+  Ca  Ca2       1.0  0.849488304622228  0.2921762311925075  0.5214473905983006  1.0000
+  Pr  Pr1       1.0  0.8503091806597457  0.293054011582018  0.8975161708436612  1.0000
+  Pr  Pr2       1.0  0.350971234114937  0.7922872627821218  0.7227339339179318  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiZr3P4
+_chemical_formula_sum              "Li1 Zr3 P4"
+_cell_length_a       3.742963371633088
+_cell_length_b       5.28551458609883
+_cell_length_c       7.530590534210205
+_cell_angle_alpha    90.0383676778001
+_cell_angle_beta     89.96318095517408
+_cell_angle_gamma    90.00080846677226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.08002753555774687  0.9782721996307373  0.9229838252067567  1.0000
+  Zr  Zr1       1.0  0.08008093386888503  0.9787439703941344  0.4227265119552613  1.0000
+  Zr  Zr2       1.0  0.580202579498291  0.47902581095695496  0.6789073944091797  1.0000
+  Zr  Zr3       1.0  0.5800096392631531  0.47889915108680725  0.16755884885787964  1.0000
+  P   P1        1.0  0.5803577899932861  0.9783658385276794  0.17348307371139526  1.0000
+  P   P2        1.0  0.580350935459137  0.9788166880607605  0.6727337837219238  1.0000
+  P   P3        1.0  0.08039902895689009  0.47878775000572205  0.42324274778366094  1.0000
+  P   P4        1.0  0.07999455928802489  0.47868397831916804  0.9230576157569886  1.0000

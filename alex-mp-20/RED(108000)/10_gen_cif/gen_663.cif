@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2TeAuTe
+_chemical_formula_sum              "Li2 Te2 Au1"
+_cell_length_a       4.287140101775861
+_cell_length_b       4.291846054936092
+_cell_length_c       7.50067663192749
+_cell_angle_alpha    89.96650725592689
+_cell_angle_beta     89.9675864274415
+_cell_angle_gamma    119.92704482622189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.26484817266464233  0.8348612189292908  0.5661126375198364  1.0000
+  Li  Li2       1.0  0.9315832853317261  0.16735461354255676  0.180480495095253  1.0000
+  Te  Te1       1.0  0.9322677254676819  0.16778883337974548  0.8001617193222046  1.0000
+  Au  Au1       1.0  0.598907470703125  0.5016369819641113  0.9782506823539734  1.0000
+  Te  Te2       1.0  0.5984666347503662  0.5015128254890442  0.34894004464149475  1.0000

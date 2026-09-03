@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb3CSe2
+_chemical_formula_sum              "Tb3 C1 Se2"
+_cell_length_a       3.9833156896083013
+_cell_length_b       3.983087134490668
+_cell_length_c       13.38898072517632
+_cell_angle_alpha    81.44802914660872
+_cell_angle_beta     81.46244504231409
+_cell_angle_gamma    59.99693164456349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.01919151275463673  0.6075994107746026  0.4942199486687755  1.0000
+  Tb  Tb2       1.0  0.4178752486375689  0.0066605168440708315  0.29720030046787965  1.0000
+  Tb  Tb3       1.0  0.265528243631844  0.8518008422896839  0.7582317819117335  1.0000
+  C   C1        1.0  0.707806727227675  0.29640290791882673  0.4280663649813726  1.0000
+  Se  Se1       1.0  0.5617699882445552  0.14781435696743822  0.869936121590263  1.0000
+  Se  Se2       1.0  0.12258870966702881  0.711613893949421  0.18262328516999554  1.0000

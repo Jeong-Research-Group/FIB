@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbTe2Pb2Cl
+_chemical_formula_sum              "Sb1 Te2 Pb2 Cl1"
+_cell_length_a       4.490950686442819
+_cell_length_b       4.493150168400912
+_cell_length_c       12.66548934785863
+_cell_angle_alpha    89.97675201980434
+_cell_angle_beta     90.01692994484236
+_cell_angle_gamma    119.98447260617364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.7669049288621914  0.6165565822334257  0.9393869749092079  1.0000
+  Te  Te1       1.0  0.43291550136510354  0.9492405581712898  0.6421670378091557  1.0000
+  Te  Te2       1.0  0.43260541454098134  0.9478741838298583  0.0658156553182511  1.0000
+  Pb  Pb1       1.0  0.09948198235716355  0.28200097347238845  0.7931852513953356  1.0000
+  Pb  Pb2       1.0  0.765999791046132  0.6156838109379359  0.48590484421821145  1.0000
+  Cl  Cl1       1.0  0.09929876154796867  0.28246949056081483  0.36874076022970265  1.0000

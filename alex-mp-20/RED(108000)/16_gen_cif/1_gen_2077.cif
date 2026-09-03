@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaIn2Fe2C
+_chemical_formula_sum              "La1 In2 Fe2 C1"
+_cell_length_a       3.7383553382978154
+_cell_length_b       3.752651448254217
+_cell_length_c       8.315646770736201
+_cell_angle_alpha    103.07143471438432
+_cell_angle_beta     102.98296380040873
+_cell_angle_gamma    89.99984936556606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.24940605145341133  0.09423824627338367  0.6264754342337635  1.0000
+  In  In1       1.0  0.05157136223344988  0.8975004063807585  0.23088045795788356  1.0000
+  In  In2       1.0  0.4475259867753499  0.2921505165200711  0.021928268935634966  1.0000
+  Fe  Fe1       1.0  0.8654645657315654  0.7103036497520876  0.8583379821456256  1.0000
+  Fe  Fe2       1.0  0.632897163470839  0.4781034916227199  0.3937472944316092  1.0000
+  C   C1        1.0  0.7491994683644662  0.5941615640115867  0.6260263555297905  1.0000

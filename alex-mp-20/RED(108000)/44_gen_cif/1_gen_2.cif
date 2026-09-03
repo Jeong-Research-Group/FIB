@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaLa2InO
+_chemical_formula_sum              "Ca1 La2 In1 O1"
+_cell_length_a       5.089218381968504
+_cell_length_b       5.088949632542836
+_cell_length_c       4.923480532251029
+_cell_angle_alpha    89.99476354155361
+_cell_angle_beta     89.99611810571784
+_cell_angle_gamma    90.00009335996909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6396182498058576  0.8349617487158237  0.0173509656012087  1.0000
+  La  La1       1.0  0.14019496450740146  0.835474222598751  0.5172674182619966  1.0000
+  La  La2       1.0  0.6404770711329248  0.33513708339011034  0.5173336057429119  1.0000
+  In  In1       1.0  0.1399317562249614  0.33525819308050214  0.017089476190469615  1.0000
+  O   O1        1.0  0.6400135662618873  0.8350200684169435  0.5179782472676496  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2DyTe2
+_chemical_formula_sum              "Sm2 Dy1 Te2"
+_cell_length_a       4.170672116701607
+_cell_length_b       4.168752115876384
+_cell_length_c       10.721431773025376
+_cell_angle_alpha    89.97420351024286
+_cell_angle_beta     90.0203829949929
+_cell_angle_gamma    120.04561827670952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4508747932560643  0.45018058127551625  0.044596366278336866  1.0000
+  Sm  Sm2       1.0  0.11732386511966186  0.7830193027314661  0.3109777472741574  1.0000
+  Dy  Dy1       1.0  0.7844246273667991  0.11661949974865626  0.6777139660089984  1.0000
+  Te  Te1       1.0  0.4508559378319333  0.4497281221465814  0.5021499490029412  1.0000
+  Te  Te2       1.0  0.11756090740773582  0.7833837448382109  0.8535208516774984  1.0000

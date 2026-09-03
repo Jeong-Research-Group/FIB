@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2HgRuN
+_chemical_formula_sum              "Ca2 Hg1 Ru1 N1"
+_cell_length_a       3.823076118044227
+_cell_length_b       5.106485721483073
+_cell_length_c       5.106701537534855
+_cell_angle_alpha    89.99454676806579
+_cell_angle_beta     90.00585847183213
+_cell_angle_gamma    90.00167261290433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9942016996175852  0.9283309494968588  0.6417102771291296  1.0000
+  Ca  Ca2       1.0  0.9943797403494937  0.4281488381270455  0.14151479308705017  1.0000
+  Hg  Hg1       1.0  0.49444208268846174  0.4280050818779476  0.641849624099426  1.0000
+  Ru  Ru1       1.0  0.49447046735627126  0.9281557715149994  0.1411431154513972  1.0000
+  N   N1        1.0  0.9944059954277448  0.9281244300468326  0.1409394138242155  1.0000

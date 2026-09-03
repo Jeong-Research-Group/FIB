@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnFe2CoNi4
+_chemical_formula_sum              "Mn1 Fe2 Co1 Ni4"
+_cell_length_a       5.000512296780396
+_cell_length_b       5.032896714236208
+_cell_length_c       5.0067195700915645
+_cell_angle_alpha    119.9635834691876
+_cell_angle_beta     89.1695894557449
+_cell_angle_gamma    120.18520743318317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.18859679621685874  0.9336824490607653  0.730529322071282  1.0000
+  Fe  Fe1       1.0  0.6888491749870229  0.9333887873617869  0.23045159489715072  1.0000
+  Fe  Fe2       1.0  0.6879185312545723  0.4327076191841512  0.23015608512094152  1.0000
+  Co  Co1       1.0  0.1888744272613404  0.9342582419636195  0.23080783057443593  1.0000
+  Ni  Ni1       1.0  0.18847227182826315  0.4336514008922369  0.23008304293183857  1.0000
+  Ni  Ni2       1.0  0.6884936494367204  0.9334333356327645  0.7302814891701076  1.0000
+  Ni  Ni3       1.0  0.6883532036008172  0.43338296749189975  0.7303231877784643  1.0000
+  Ni  Ni4       1.0  0.18873920757697438  0.43378666158441836  0.730484521624006  1.0000

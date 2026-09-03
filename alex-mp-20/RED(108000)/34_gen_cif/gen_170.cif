@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZrPd2ZrZn2Pd
+_chemical_formula_sum              "Zr2 Pd3 Zn2"
+_cell_length_a       3.8829221266953984
+_cell_length_b       5.23190602160907
+_cell_length_c       6.745952606201172
+_cell_angle_alpha    108.06548975509448
+_cell_angle_beta     90.0269954120559
+_cell_angle_gamma    111.7225244281979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.018690295517444607  0.36235561966896057  0.4631570875644684  1.0000
+  Pd  Pd1       1.0  0.4001442193984985  0.12670987844467163  0.712341845035553  1.0000
+  Pd  Pd2       1.0  0.2767226099967956  0.8803567290306091  0.2720783054828643  1.0000
+  Zr  Zr2       1.0  0.7819520831108092  0.8897944092750549  0.9633293151855469  1.0000
+  Zn  Zn1       1.0  0.06307330727577212  0.45258444547653204  0.9146925210952759  1.0000
+  Zn  Zn2       1.0  0.7369001507759093  0.7990705966949463  0.51127028465271  1.0000
+  Pd  Pd3       1.0  0.5235429406166076  0.37314271926879883  0.15409594774246216  1.0000

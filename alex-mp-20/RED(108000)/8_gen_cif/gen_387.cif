@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrMnBMnB
+_chemical_formula_sum              "Pr1 Mn2 B2"
+_cell_length_a       3.581037422488169
+_cell_length_b       3.593524366104552
+_cell_length_c       5.433259010314941
+_cell_angle_alpha    90.21951796485482
+_cell_angle_beta     90.07984741205182
+_cell_angle_gamma    90.02761695856816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.10125451534986496  0.8274154067039491  0.5548412799835205  1.0000
+  Mn  Mn1       1.0  0.10164570063352585  0.32777678966522217  0.055247798562049866  1.0000
+  B   B1        1.0  0.6002434492111206  0.3274937868118286  0.2802187502384186  1.0000
+  Mn  Mn2       1.0  0.60123610496521  0.827052116394043  0.05522632971405983  1.0000
+  B   B2        1.0  0.6016749739646912  0.3272708058357239  0.8293405175209045  1.0000

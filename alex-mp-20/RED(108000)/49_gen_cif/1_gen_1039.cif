@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3NbCo2
+_chemical_formula_sum              "Sc3 Nb1 Co2"
+_cell_length_a       3.0711861466807253
+_cell_length_b       3.0711098445071396
+_cell_length_c       10.857893427792984
+_cell_angle_alpha    89.99777244379479
+_cell_angle_beta     90.0004349141371
+_cell_angle_gamma    89.99436964328741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.6163529828881209  0.2719184665279705  0.868549912910314  1.0000
+  Sc  Sc2       1.0  0.615995661172405  0.27105192096711556  0.16102561835366086  1.0000
+  Sc  Sc3       1.0  0.616106506234938  0.27170987310172956  0.5761490184068471  1.0000
+  Nb  Nb1       1.0  0.11600873036953158  0.7711761892400624  0.3685230508032947  1.0000
+  Co  Co1       1.0  0.11620789259864803  0.7716221637556109  0.01778025831739591  1.0000
+  Co  Co2       1.0  0.11620059992056282  0.7719583539549915  0.7193109883454867  1.0000

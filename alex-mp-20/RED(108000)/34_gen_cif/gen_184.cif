@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiNiNdSiNi2
+_chemical_formula_sum              "Si2 Ni3 Nd1"
+_cell_length_a       3.633395433481406
+_cell_length_b       5.295468637982705
+_cell_length_c       5.297012805938721
+_cell_angle_alpha    120.01206853066425
+_cell_angle_beta     90.00031669318048
+_cell_angle_gamma    89.97734676758242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.9693570137023925  0.5348001718521118  0.3114866614341736  1.0000
+  Ni  Ni1       1.0  0.4689239561557769  0.7013785243034364  0.14505517482757568  1.0000
+  Nd  Nd1       1.0  0.9688614010810851  0.20106293261051178  0.6444665193557739  1.0000
+  Si  Si2       1.0  0.9692564010620116  0.8677076101303102  0.9777840971946716  1.0000
+  Ni  Ni2       1.0  0.46902054548263544  0.2010919153690338  0.14484623074531555  1.0000
+  Ni  Ni3       1.0  0.4690306186676025  0.701124131679535  0.6448363065719604  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3Cd2Hg
+_chemical_formula_sum              "Lu3 Cd2 Hg1"
+_cell_length_a       3.6643228731834467
+_cell_length_b       5.189686401182629
+_cell_length_c       8.218672675676086
+_cell_angle_alpha    108.48819429141176
+_cell_angle_beta     90.00066725360345
+_cell_angle_gamma    89.99980640098714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7045829112809711  0.6366578973770217  0.9882042222343133  1.0000
+  Lu  Lu2       1.0  0.7044222904333334  0.30041445838405867  0.3149794440788733  1.0000
+  Lu  Lu3       1.0  0.7048399059956462  0.9723274850642004  0.6609199538491217  1.0000
+  Cd  Cd1       1.0  0.2046868783103846  0.46451631994494497  0.6463529452830434  1.0000
+  Cd  Cd2       1.0  0.20456093700892952  0.8083212797303292  0.3300165449444799  1.0000
+  Hg  Hg1       1.0  0.20451587819085057  0.13671421351540075  0.9878144562642075  1.0000

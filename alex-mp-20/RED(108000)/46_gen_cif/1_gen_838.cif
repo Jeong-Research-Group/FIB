@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2FeSi2Rh
+_chemical_formula_sum              "Ho2 Fe1 Si2 Rh1"
+_cell_length_a       4.083066597392051
+_cell_length_b       4.083296044056056
+_cell_length_c       6.582568991938292
+_cell_angle_alpha    90.00075297372945
+_cell_angle_beta     89.99063333499049
+_cell_angle_gamma    90.00000602271876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.6603619950017173  0.3179546870429761  0.5725450399011152  1.0000
+  Ho  Ho2       1.0  0.16015794712243578  0.8179278043874955  0.2102927877699081  1.0000
+  Fe  Fe1       1.0  0.1602970697330099  0.31794476910790265  0.8913686186045575  1.0000
+  Si  Si1       1.0  0.660236257027026  0.31795398365772964  0.08573345681772186  1.0000
+  Si  Si2       1.0  0.16043250118771188  0.817921336635913  0.6969264975126298  1.0000
+  Rh  Rh1       1.0  0.6603631455568159  0.8179355536625392  0.8913734322085894  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgAgLiMgLi3Ag
+_chemical_formula_sum              "Mg2 Ag2 Li4"
+_cell_length_a       3.9299429807271506
+_cell_length_b       4.328426869154004
+_cell_length_c       8.648016929626465
+_cell_angle_alpha    90.10779654009971
+_cell_angle_beta     89.92126407975192
+_cell_angle_gamma    90.02473461960393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.09815418720245361  0.15727297961711886  0.8564071655273438  1.0000
+  Ag  Ag1       1.0  0.5985821485519409  0.6573301553726196  0.3638165593147277  1.0000
+  Li  Li1       1.0  0.5985764861106873  0.6569408774375916  0.8522384166717529  1.0000
+  Mg  Mg2       1.0  0.09880020469427109  0.15684476494789124  0.3776680529117584  1.0000
+  Li  Li2       1.0  0.09870637953281403  0.6571681499481202  0.1247405931353569  1.0000
+  Li  Li3       1.0  0.598337709903717  0.15694682300090793  0.12509498000144958  1.0000
+  Li  Li4       1.0  0.09843797236680984  0.6569047570228577  0.6054368615150452  1.0000
+  Ag  Ag2       1.0  0.5986646413803101  0.15683142840862274  0.6182783246040344  1.0000

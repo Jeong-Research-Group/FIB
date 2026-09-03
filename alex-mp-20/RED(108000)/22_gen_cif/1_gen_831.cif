@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaIn3Ru
+_chemical_formula_sum              "Ca1 In3 Ru1"
+_cell_length_a       5.185378212195909
+_cell_length_b       5.185235499912355
+_cell_length_c       5.185584805200962
+_cell_angle_alpha    90.01090083309651
+_cell_angle_beta     90.04771131370919
+_cell_angle_gamma    89.91818748637763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.3851604682456439  0.5260790363800449  0.7219431058647223  1.0000
+  In  In1       1.0  0.8851307028979238  0.5260939807006091  0.2217297073137085  1.0000
+  In  In2       1.0  0.3851833122798372  0.026471832356349062  0.22203381777485523  1.0000
+  In  In3       1.0  0.8851425412832834  0.026553854547517436  0.7222210877963927  1.0000
+  Ru  Ru1       1.0  0.8851560890369341  0.026107442449415375  0.22223498525763588  1.0000

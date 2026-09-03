@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NdCu2Sn2Pd2
+_chemical_formula_sum              "Nd1 Cu2 Sn2 Pd2"
+_cell_length_a       4.500020550267917
+_cell_length_b       4.503684033647743
+_cell_length_c       8.242126375940138
+_cell_angle_alpha    74.28086096705864
+_cell_angle_beta     74.17776211742687
+_cell_angle_gamma    59.991115453941326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.1846208777837135  0.439765025094414  0.4699348976159043  1.0000
+  Cu  Cu1       1.0  0.328241806977708  0.5796907929963265  0.04504575904029026  1.0000
+  Cu  Cu2       1.0  0.04375252205250182  0.30340412297822505  0.8880757627058674  1.0000
+  Sn  Sn1       1.0  0.7540427561671329  0.009927486136305853  0.7629365702978017  1.0000
+  Sn  Sn2       1.0  0.9337510560380785  0.1878122590490082  0.22487985619533124  1.0000
+  Pd  Pd1       1.0  0.6365781243381546  0.8898556743083806  0.11703588742630155  1.0000
+  Pd  Pd2       1.0  0.43896046049992843  0.6941753389872423  0.7081830772097933  1.0000

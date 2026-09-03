@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2TiCo2Pt
+_chemical_formula_sum              "Sc2 Ti1 Co2 Pt1"
+_cell_length_a       3.0751007492206686
+_cell_length_b       3.0755908253116155
+_cell_length_c       9.837816719542952
+_cell_angle_alpha    89.99467288226307
+_cell_angle_beta     89.99795287611188
+_cell_angle_gamma    89.99988333193568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.1533109614835739  0.6304277901754085  0.541331399447326  1.0000
+  Sc  Sc2       1.0  0.15312474635452794  0.6299169125784101  0.91258825217456  1.0000
+  Ti  Ti1       1.0  0.15341965749896788  0.6300865329198247  0.22723579314844217  1.0000
+  Co  Co1       1.0  0.653225235609629  0.12986869151902852  0.08754764725166668  1.0000
+  Co  Co2       1.0  0.6534049895330541  0.13032188778893447  0.3671155881372139  1.0000
+  Pt  Pt1       1.0  0.6532289813552816  0.13021040084515254  0.7268140800113579  1.0000

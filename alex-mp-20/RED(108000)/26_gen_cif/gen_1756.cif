@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al4TiAlIrGa
+_chemical_formula_sum              "Al5 Ti1 Ir1 Ga1"
+_cell_length_a       3.9046320722604584
+_cell_length_b       3.903121409107836
+_cell_length_c       7.835458755493164
+_cell_angle_alpha    90.18105716218764
+_cell_angle_beta     90.11487946290721
+_cell_angle_gamma    90.04066262429973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7485612630844116  0.43057483434677124  0.26355093717575073  1.0000
+  Al  Al2       1.0  0.7481256723403931  0.43021151423454285  0.7430516481399536  1.0000
+  Al  Al3       1.0  0.24805399775505066  0.4303272068500519  0.5033203959465027  1.0000
+  Al  Al4       1.0  0.24826739728450775  0.9308310151100159  0.2638280689716339  1.0000
+  Ti  Ti1       1.0  0.7481504082679749  0.9301037192344666  0.00036346912384033203  1.0000
+  Al  Al5       1.0  0.24852313101291656  0.9298693537712097  0.743303120136261  1.0000
+  Ir  Ir1       1.0  0.7481613755226135  0.9299588799476624  0.5030637383460999  1.0000
+  Ga  Ga1       1.0  0.2483350783586502  0.43009433150291443  0.004017462022602558  1.0000

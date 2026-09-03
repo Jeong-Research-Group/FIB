@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgZr2SnN
+_chemical_formula_sum              "Mg1 Zr2 Sn1 N1"
+_cell_length_a       4.313586117753818
+_cell_length_b       4.558613312949562
+_cell_length_c       4.560471042528254
+_cell_angle_alpha    89.97930590452545
+_cell_angle_beta     89.99802853700139
+_cell_angle_gamma    89.9958182889562
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9529111295147237  0.979306815710566  0.419233625279768  1.0000
+  Zr  Zr1       1.0  0.4529612862700442  0.479675345189138  0.4186079982304439  1.0000
+  Zr  Zr2       1.0  0.4529616989403395  0.9795923982436284  0.9189721658944183  1.0000
+  Sn  Sn1       1.0  0.9530463501942866  0.4797202371819147  0.9184943026815041  1.0000
+  N   N1        1.0  0.4533668788294805  0.9797738680038507  0.41876222539480573  1.0000

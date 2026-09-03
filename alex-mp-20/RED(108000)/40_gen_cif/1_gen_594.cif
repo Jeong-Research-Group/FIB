@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2VFe4Si
+_chemical_formula_sum              "La2 V1 Fe4 Si1"
+_cell_length_a       4.105424931745351
+_cell_length_b       5.716638053735514
+_cell_length_c       7.099564140081188
+_cell_angle_alpha    114.41421505829794
+_cell_angle_beta     90.00031577887772
+_cell_angle_gamma    90.0027751979719
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.2266947423977341  0.277966417948604  0.33872162696399133  1.0000
+  La  La2       1.0  0.7266638488982771  0.27815010351478536  0.838010254771577  1.0000
+  V   V1        1.0  0.7267921212087068  0.7784740400883972  0.33832906377398303  1.0000
+  Fe  Fe1       1.0  0.22675888998947205  0.8283327049006213  0.5214903004276024  1.0000
+  Fe  Fe2       1.0  0.22669505571539095  0.7277311877015942  0.15548866211706097  1.0000
+  Fe  Fe3       1.0  0.7266935565488366  0.7408262444814264  0.6570529296739178  1.0000
+  Fe  Fe4       1.0  0.7268244508223741  0.8150549646329064  0.019463614803643114  1.0000
+  Si  Si1       1.0  0.22675612613551727  0.7776102834852647  0.8383255219134635  1.0000

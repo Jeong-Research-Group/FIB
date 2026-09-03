@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mn2NTiPt
+_chemical_formula_sum              "Mn2 N1 Ti1 Pt1"
+_cell_length_a       4.0730304741961
+_cell_length_b       3.90267526058924
+_cell_length_c       3.9076569080352783
+_cell_angle_alpha    90.02416771379072
+_cell_angle_beta     89.99803540996398
+_cell_angle_gamma    90.02784235420008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7135498523712158  0.6546838879585266  0.11515799164772034  1.0000
+  Mn  Mn2       1.0  0.7140330672264099  0.15430612862110138  0.6155044436454773  1.0000
+  N   N1        1.0  0.7137053608894348  0.15448127686977386  0.11540015786886215  1.0000
+  Ti  Ti1       1.0  0.21368248760700226  0.15434029698371887  0.1153533011674881  1.0000
+  Pt  Pt1       1.0  0.21381409466266632  0.6544952988624572  0.6152399182319641  1.0000

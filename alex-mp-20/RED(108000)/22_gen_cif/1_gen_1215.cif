@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2Ni3Pd
+_chemical_formula_sum              "Co2 Ni3 Pd1"
+_cell_length_a       2.570092418070468
+_cell_length_b       2.570094151311974
+_cell_length_c       10.633450466511091
+_cell_angle_alpha    89.9988952652198
+_cell_angle_beta     89.99951096618953
+_cell_angle_gamma    89.99967279849429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.11609778470430532  0.12489275668774001  0.7362368564090659  1.0000
+  Co  Co2       1.0  0.11636072984900808  0.12462964109147928  0.05434893846751268  1.0000
+  Ni  Ni1       1.0  0.11555703167055764  0.12446890987096464  0.3715105637742077  1.0000
+  Ni  Ni2       1.0  0.6163740944325964  0.6249651567251372  0.8938195448911588  1.0000
+  Ni  Ni3       1.0  0.6160390524552036  0.6244742387229402  0.21187318333610763  1.0000
+  Pd  Pd1       1.0  0.6153647265996868  0.624613653565422  0.5550437280115033  1.0000

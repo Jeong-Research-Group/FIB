@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2As2Rh2
+_chemical_formula_sum              "Tl2 As2 Rh2"
+_cell_length_a       4.04146361490888
+_cell_length_b       4.045317392184172
+_cell_length_c       8.871388868024223
+_cell_angle_alpha    89.99681847112885
+_cell_angle_beta     89.98716780698007
+_cell_angle_gamma    90.00014400804581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.7267049470416389  0.9512069787310967  0.9358091484835261  1.0000
+  Tl  Tl2       1.0  0.22622201104818143  0.45098036284687504  0.6375861288555409  1.0000
+  As  As1       1.0  0.2266315108697545  0.4511265355104604  0.12816568370205209  1.0000
+  As  As2       1.0  0.7264513622349361  0.9511001069298124  0.44759010172814573  1.0000
+  Rh  Rh1       1.0  0.2265525157933981  0.9510431699269324  0.28772310488299135  1.0000
+  Rh  Rh2       1.0  0.7264245074454909  0.45112017778333  0.2880083608552674  1.0000

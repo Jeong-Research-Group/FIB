@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgAs2H3
+_chemical_formula_sum              "Hg1 As2 H3"
+_cell_length_a       5.047608748152066
+_cell_length_b       5.474579037863517
+_cell_length_c       6.180743798356596
+_cell_angle_alpha    101.98179783143291
+_cell_angle_beta     106.69321250607335
+_cell_angle_gamma    110.31774466138022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.8714404258879308  0.95567425040226  0.96745508951128  1.0000
+  As  As1       1.0  0.8351869616803633  0.4387467482724009  0.9414428272806078  1.0000
+  As  As2       1.0  0.41809231955282866  0.2041764878352715  0.5117601374281564  1.0000
+  H   H1        1.0  0.5898614146345517  0.3867125701800934  0.048738142402457794  1.0000
+  H   H2        1.0  0.5988860756978643  0.04779091642331996  0.4405616127321099  1.0000
+  H   H3        1.0  0.23116309354402595  0.971784256609371  0.5870674867228894  1.0000

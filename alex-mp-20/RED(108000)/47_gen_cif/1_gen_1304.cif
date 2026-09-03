@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ho2InRu2
+_chemical_formula_sum              "Ho2 In1 Ru2"
+_cell_length_a       4.034122560577707
+_cell_length_b       4.031837505326564
+_cell_length_c       7.264128153490423
+_cell_angle_alpha    89.99217756857686
+_cell_angle_beta     106.1154389155431
+_cell_angle_gamma    89.9994412694835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.6576443168403626  0.73212617012675  0.2126790240429275  1.0000
+  Ho  Ho2       1.0  0.3775228757195056  0.7318133673713006  0.6517842197700761  1.0000
+  In  In1       1.0  0.01751559443737771  0.23173448860458776  0.9322495870821094  1.0000
+  Ru  Ru1       1.0  0.21483928510232886  0.23211022406796195  0.3272706503556615  1.0000
+  Ru  Ru2       1.0  0.8197807076302407  0.23202574389685837  0.5371663932877245  1.0000

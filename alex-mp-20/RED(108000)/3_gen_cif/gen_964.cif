@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PtAuPtAu
+_chemical_formula_sum              "Pt2 Au2"
+_cell_length_a       2.8801332656815863
+_cell_length_b       4.8631010262829975
+_cell_length_c       5.55650520324707
+_cell_angle_alpha    113.90461872948721
+_cell_angle_beta     105.20246592154541
+_cell_angle_gamma    90.12399812759799
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.7697771191596984  0.496238648891449  0.10903264582157134  1.0000
+  Au  Au1       1.0  0.5211875438690186  0.7480509281158447  0.6112383604049683  1.0000
+  Pt  Pt2       1.0  0.03161167353391647  0.2584327161312103  0.633068323135376  1.0000
+  Au  Au2       1.0  0.28063714504241943  0.0074403174221515656  0.13172855973243713  1.0000

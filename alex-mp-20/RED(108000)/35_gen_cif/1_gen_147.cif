@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti3NiI2
+_chemical_formula_sum              "Ti3 Ni1 I2"
+_cell_length_a       4.049175419159864
+_cell_length_b       4.0494409140754835
+_cell_length_c       10.283741648916703
+_cell_angle_alpha    90.02520286406912
+_cell_angle_beta     90.01305088892869
+_cell_angle_gamma    59.999296802232195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7835854273857633  0.18632627273868121  0.9945983324513137  1.0000
+  Ti  Ti2       1.0  0.7836114514339984  0.18595822401289566  0.6891897364721378  1.0000
+  Ti  Ti3       1.0  0.4502489746468549  0.8528400569717511  0.8536022903382029  1.0000
+  Ni  Ni1       1.0  0.11694504832216739  0.5194562953984665  0.8376185964883526  1.0000
+  I   I1        1.0  0.45029437904446873  0.8531588748994622  0.15930625338400559  1.0000
+  I   I2        1.0  0.1168770327328957  0.5191153193617558  0.5140327704967377  1.0000

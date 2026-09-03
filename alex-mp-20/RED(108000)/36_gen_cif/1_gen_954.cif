@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2SnPd2
+_chemical_formula_sum              "Dy2 Sn1 Pd2"
+_cell_length_a       4.592349409950541
+_cell_length_b       5.552921834724943
+_cell_length_c       5.549506070648555
+_cell_angle_alpha    64.4795231329366
+_cell_angle_beta     65.56304084231888
+_cell_angle_gamma    65.57041957415878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.3771442400643255  0.9552070450526555  0.7858622147421869  1.0000
+  Dy  Dy2       1.0  0.7852343859307537  0.5470435153180481  0.3779292886713814  1.0000
+  Sn  Sn1       1.0  0.5812759282433356  0.2509654207620174  0.0819851832444099  1.0000
+  Pd  Pd1       1.0  0.08146429366691217  0.5255864139423349  0.8070682497507579  1.0000
+  Pd  Pd2       1.0  0.08094585600236325  0.9770898202565472  0.3566875317614284  1.0000

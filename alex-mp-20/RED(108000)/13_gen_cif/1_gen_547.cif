@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfSb3Pb3
+_chemical_formula_sum              "Hf1 Sb3 Pb3"
+_cell_length_a       3.871726895610507
+_cell_length_b       5.700421053696319
+_cell_length_c       9.929192694457
+_cell_angle_alpha    90.61842480880921
+_cell_angle_beta     90.00205984581166
+_cell_angle_gamma    89.99977909138471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.01538809214351471  0.26580434267031144  0.10186242314287323  1.0000
+  Sb  Sb1       1.0  0.5154051560521621  0.256888263990676  0.3171661280203131  1.0000
+  Sb  Sb2       1.0  0.015528991422077339  0.7661287159106178  0.23545921193346925  1.0000
+  Sb  Sb3       1.0  0.5153524424822238  0.2612385126834784  0.8717294292137848  1.0000
+  Pb  Pb1       1.0  0.5154600089790203  0.7636728812010414  0.9867327500306521  1.0000
+  Pb  Pb2       1.0  0.015556435913125515  0.2603017633097964  0.5947664484152873  1.0000
+  Pb  Pb3       1.0  0.515837201046093  0.7596859653033735  0.5091428230142169  1.0000

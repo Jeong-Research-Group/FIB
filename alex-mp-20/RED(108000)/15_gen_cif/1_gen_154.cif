@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2CoSnN
+_chemical_formula_sum              "Ca2 Co1 Sn1 N1"
+_cell_length_a       5.283977488745709
+_cell_length_b       3.5435166485529166
+_cell_length_c       5.283929045690306
+_cell_angle_alpha    89.99912416398362
+_cell_angle_beta     90.1642758549146
+_cell_angle_gamma    89.99798919221058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9615897964130269  0.4523326185947866  0.2651148859570656  1.0000
+  Ca  Ca2       1.0  0.4615820890257993  0.45227189535664203  0.7650610817003507  1.0000
+  Co  Co1       1.0  0.4620638878387348  0.9523678627599214  0.26492779366162605  1.0000
+  Sn  Sn1       1.0  0.961402853293359  0.95242338096978  0.7647673743843489  1.0000
+  N   N1        1.0  0.4620605031504849  0.4523996464502309  0.2648808669943496  1.0000

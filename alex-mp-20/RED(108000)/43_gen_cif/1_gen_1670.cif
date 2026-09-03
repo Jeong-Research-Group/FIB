@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2SnIr2
+_chemical_formula_sum              "La2 Sn1 Ir2"
+_cell_length_a       4.298333630325894
+_cell_length_b       3.981091603679953
+_cell_length_c       7.572754484487599
+_cell_angle_alpha    105.24104519689881
+_cell_angle_beta     89.99565685547033
+_cell_angle_gamma    89.99710808292542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5582441501946207  0.9818977038088748  0.2682893848283537  1.0000
+  La  La2       1.0  0.557720149559755  0.7093090987500269  0.7242679620686907  1.0000
+  Sn  Sn1       1.0  0.058069870570324304  0.34568936406855527  0.9961840148392993  1.0000
+  Ir  Ir1       1.0  0.058005102469170275  0.15582373639804403  0.6165820508692735  1.0000
+  Ir  Ir2       1.0  0.057910669434728834  0.5354012844796283  0.3757636464203909  1.0000

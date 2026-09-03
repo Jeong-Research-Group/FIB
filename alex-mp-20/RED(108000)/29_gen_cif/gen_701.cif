@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2HAsMgH
+_chemical_formula_sum              "Na2 H2 As1 Mg1"
+_cell_length_a       4.527928949660474
+_cell_length_b       4.525215972379569
+_cell_length_c       6.667497158050537
+_cell_angle_alpha    89.96543491757178
+_cell_angle_beta     109.77792725343045
+_cell_angle_gamma    120.08619998520767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.45933225750923157  0.7490953803062439  0.4653088450431824  1.0000
+  Na  Na2       1.0  0.8724792003631591  0.9537738561630248  0.08838991820812225  1.0000
+  H   H1        1.0  0.6186699867248535  0.3277746438980102  0.2056245505809784  1.0000
+  As  As1       1.0  0.02797690033912657  0.5315758585929871  0.8244182467460632  1.0000
+  Mg  Mg1       1.0  0.3193088471889496  0.1772826910018921  0.7599210739135742  1.0000
+  H   H2        1.0  0.7130835056304932  0.3765967786312103  0.34862422943115234  1.0000

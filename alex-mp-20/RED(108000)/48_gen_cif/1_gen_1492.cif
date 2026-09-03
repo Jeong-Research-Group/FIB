@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2AlInSe4
+_chemical_formula_sum              "Li2 Al1 In1 Se4"
+_cell_length_a       5.811972589665032
+_cell_length_b       5.812711963061923
+_cell_length_c       7.249118646128068
+_cell_angle_alpha    113.61803487687344
+_cell_angle_beta     113.60421816018896
+_cell_angle_gamma    90.05175540925099
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8488915941260196  0.986153723194754  0.6043803602299322  1.0000
+  Li  Li2       1.0  0.35023054280199106  0.4859973094849463  0.605178285705995  1.0000
+  Al  Al1       1.0  0.6000788203806774  0.23673576791436513  0.10597308894864571  1.0000
+  In  In1       1.0  0.09922921559908542  0.7354972027031803  0.10503155104894016  1.0000
+  Se  Se1       1.0  0.242856863729598  0.34755136886380816  0.8600521344846949  1.0000
+  Se  Se2       1.0  0.7113476547904871  0.8794369424493744  0.860494094751624  1.0000
+  Se  Se3       1.0  0.4876755384782607  0.12430309415839219  0.3506212034464343  1.0000
+  Se  Se4       1.0  0.957498337280728  0.593696719431312  0.35179733578480665  1.0000

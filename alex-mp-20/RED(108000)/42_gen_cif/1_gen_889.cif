@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2Bi2S
+_chemical_formula_sum              "Lu2 Bi2 S1"
+_cell_length_a       3.6516363702083865
+_cell_length_b       3.651639371407674
+_cell_length_c       12.615202312634432
+_cell_angle_alpha    81.65377829816374
+_cell_angle_beta     81.65090318746408
+_cell_angle_gamma    60.00179394294254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.5750655869289872  0.060782170257998286  0.9702032054158585  1.0000
+  Lu  Lu2       1.0  0.8204029094196638  0.3062490705220096  0.23290679116663443  1.0000
+  Bi  Bi1       1.0  0.4211741342729216  0.9071322019764254  0.42927088004180364  1.0000
+  Bi  Bi2       1.0  0.9738439362729888  0.4595825108008625  0.7739226754991277  1.0000
+  S   S1        1.0  0.1977757097852201  0.6835515337509593  0.10151912288384356  1.0000

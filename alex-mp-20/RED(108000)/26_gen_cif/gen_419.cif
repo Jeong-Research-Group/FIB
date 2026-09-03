@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnLaTe2La2Te2
+_chemical_formula_sum              "Sn1 La3 Te4"
+_cell_length_a       4.541778566922717
+_cell_length_b       4.545908959038589
+_cell_length_c       15.406759262084961
+_cell_angle_alpha    89.96228620098115
+_cell_angle_beta     89.99811054199563
+_cell_angle_gamma    119.84404536337513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.8354997038841246  0.8066391348838805  0.928520679473877  1.0000
+  La  La1       1.0  0.5028432607650757  0.1393192857503891  0.16995935142040253  1.0000
+  Te  Te1       1.0  0.1693899035453796  0.4727515280246734  0.5556931495666504  1.0000
+  Te  Te2       1.0  0.1684930622577667  0.4727975726127624  0.04813796654343605  1.0000
+  La  La2       1.0  0.5025687217712402  0.13946187496185303  0.4333057105541229  1.0000
+  La  La3       1.0  0.8366026282310486  0.8063192367553711  0.6759306788444519  1.0000
+  Te  Te3       1.0  0.8360778093338013  0.8066895008087158  0.29868102073669434  1.0000
+  Te  Te4       1.0  0.5031161904335022  0.13989588618278503  0.8043670058250427  1.0000

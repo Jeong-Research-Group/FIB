@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2AuNi
+_chemical_formula_sum              "Fe2 Au1 Ni1"
+_cell_length_a       3.6921328970512426
+_cell_length_b       3.703316555834835
+_cell_length_c       4.664158344268799
+_cell_angle_alpha    113.41041496888901
+_cell_angle_beta     113.31954482816307
+_cell_angle_gamma    89.97962837199942
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5782945156097412  0.10664027184247972  0.9548342227935791  1.0000
+  Fe  Fe2       1.0  0.0794852077960968  0.604977548122406  0.9558583498001099  1.0000
+  Au  Au1       1.0  0.8287158608436584  0.8556702733039856  0.45492833852767944  1.0000
+  Ni  Ni1       1.0  0.3286513388156891  0.355889230966568  0.4553825259208679  1.0000

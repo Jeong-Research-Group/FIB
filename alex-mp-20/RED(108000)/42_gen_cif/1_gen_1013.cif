@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuPd2Au
+_chemical_formula_sum              "Cu1 Pd2 Au1"
+_cell_length_a       2.926674176342973
+_cell_length_b       2.9261384575225966
+_cell_length_c       7.108712556268215
+_cell_angle_alpha    89.9963294267745
+_cell_angle_beta     90.0018200651866
+_cell_angle_gamma    89.99775930603091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7251025878645848  0.36032117737755565  0.42228245184246005  1.0000
+  Pd  Pd1       1.0  0.225073485057468  0.8603052892196447  0.19729299327576721  1.0000
+  Pd  Pd2       1.0  0.22511629935113547  0.8602986406565781  0.6472686679173963  1.0000
+  Au  Au1       1.0  0.7250546337512818  0.3603063240300453  0.9222789052239648  1.0000

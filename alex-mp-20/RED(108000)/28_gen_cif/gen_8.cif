@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiSe2Tl2SeCaSe
+_chemical_formula_sum              "Ti1 Se4 Tl2 Ca1"
+_cell_length_a       6.770601186097491
+_cell_length_b       6.76874506990751
+_cell_length_c       6.7902326583862305
+_cell_angle_alpha    106.32804670785205
+_cell_angle_beta     106.33970551509192
+_cell_angle_gamma    115.53817972157492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.08201840519905094  0.9313969612121582  0.2129363864660263  1.0000
+  Se  Se1       1.0  0.051467608660459505  0.5605638027191162  0.21355047821998593  1.0000
+  Se  Se2       1.0  0.11466899514198299  0.964030086994171  0.8733197450637817  1.0000
+  Tl  Tl1       1.0  0.08217486739158632  0.4310851991176605  0.7122757434844971  1.0000
+  Tl  Tl2       1.0  0.5821050405502319  0.9318934082984923  0.7125511169433594  1.0000
+  Se  Se3       1.0  0.7103921771049501  0.9003707170486449  0.21269561350345612  1.0000
+  Ca  Ca1       1.0  0.5823537707328796  0.43147963285446167  0.2124703973531723  1.0000
+  Se  Se4       1.0  0.4529911279678344  0.30191695690155024  0.5527057647705078  1.0000

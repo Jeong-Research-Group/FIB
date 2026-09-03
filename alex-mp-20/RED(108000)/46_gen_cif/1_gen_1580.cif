@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuFe2Co2
+_chemical_formula_sum              "Lu1 Fe2 Co2"
+_cell_length_a       3.927929575765914
+_cell_length_b       3.9282218410031913
+_cell_length_c       5.400502292635401
+_cell_angle_alpha    111.33410230631263
+_cell_angle_beta     111.32207663095289
+_cell_angle_gamma    89.9988763318229
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.4031745536019504  0.0304692847087113  0.689954630328573  1.0000
+  Fe  Fe1       1.0  0.15308987131051233  0.28055432383585016  0.18980903629132678  1.0000
+  Fe  Fe2       1.0  0.6530893341814484  0.780259464212873  0.18978951018562468  1.0000
+  Co  Co1       1.0  0.7820806282873463  0.40948555877944537  0.4478081128096914  1.0000
+  Co  Co2       1.0  0.024260196060539075  0.6514933489446461  0.9321064156045671  1.0000

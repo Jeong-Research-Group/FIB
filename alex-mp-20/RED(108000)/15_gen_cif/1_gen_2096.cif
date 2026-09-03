@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Sn2Ge2
+_chemical_formula_sum              "Cs2 Sn2 Ge2"
+_cell_length_a       4.578910937154345
+_cell_length_b       6.487034943593285
+_cell_length_c       7.894321468326376
+_cell_angle_alpha    90.09285266548117
+_cell_angle_beta     89.97543884774933
+_cell_angle_gamma    89.93997493042767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.02205906755799713  0.4061673168688533  0.16063355733719475  1.0000
+  Cs  Cs2       1.0  0.5216554491969342  0.40568471852343585  0.6603984193404897  1.0000
+  Sn  Sn1       1.0  0.02149115545512474  0.9531202324399867  0.8444115999559088  1.0000
+  Sn  Sn2       1.0  0.021665724074887507  0.8605959374719263  0.477052679365915  1.0000
+  Ge  Ge1       1.0  0.5216293980686658  0.8423709921568042  0.009873196622955428  1.0000
+  Ge  Ge2       1.0  0.5214907294738655  0.9660188857637485  0.309878277337566  1.0000

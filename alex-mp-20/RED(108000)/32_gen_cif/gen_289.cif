@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrCoPrCoBr
+_chemical_formula_sum              "Pr2 Co2 Br1"
+_cell_length_a       4.038804633273979
+_cell_length_b       4.039170307001761
+_cell_length_c       8.950114250183105
+_cell_angle_alpha    76.7343141646146
+_cell_angle_beta     76.73554972119577
+_cell_angle_gamma    59.61661433464326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7726542949676511  0.9015963673591614  0.6841095089912415  1.0000
+  Co  Co1       1.0  0.031034845858812315  0.1639727056026459  0.9061514735221863  1.0000
+  Pr  Pr2       1.0  0.6276389360427855  0.7589098811149598  0.11778546124696734  1.0000
+  Co  Co2       1.0  0.3682031333446502  0.5002057552337646  0.8975663781166077  1.0000
+  Br  Br1       1.0  0.20074540376663202  0.33024021983146673  0.40094026923179626  1.0000

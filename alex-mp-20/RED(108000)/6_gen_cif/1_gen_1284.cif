@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeMgGe2Pd2
+_chemical_formula_sum              "Ce1 Mg1 Ge2 Pd2"
+_cell_length_a       4.383751485450439
+_cell_length_b       4.383500923912211
+_cell_length_c       6.8974573076295735
+_cell_angle_alpha    89.99586932890134
+_cell_angle_beta     90.00569103353052
+_cell_angle_gamma    119.9965421325865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.8944612797372348  0.563926745222443  0.7507221398899897  1.0000
+  Mg  Mg1       1.0  0.8944636302258481  0.5639282715791809  0.2507323277265296  1.0000
+  Ge  Ge1       1.0  0.5611349885991642  0.8972241884363161  0.01379063447959767  1.0000
+  Ge  Ge2       1.0  0.22776468603463898  0.2306366695153527  0.4877007223517753  1.0000
+  Pd  Pd1       1.0  0.5611439190075208  0.8973665705172233  0.41455225209927943  1.0000
+  Pd  Pd2       1.0  0.22773962794710217  0.2304971126325642  0.08684226359259288  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be2Hg2Au2
+_chemical_formula_sum              "Be2 Hg2 Au2"
+_cell_length_a       3.366473018856321
+_cell_length_b       3.3761954389615614
+_cell_length_c       9.761601787981256
+_cell_angle_alpha    98.17464790811647
+_cell_angle_beta     90.00266859731308
+_cell_angle_gamma    90.00080190904117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.7678988078160955  0.9610343194365377  0.6520434876185446  1.0000
+  Be  Be2       1.0  0.2679124115220186  0.46050727694156557  0.6524869634325396  1.0000
+  Hg  Hg1       1.0  0.7679094925228817  0.5336217995526887  0.026057910510044854  1.0000
+  Hg  Hg2       1.0  0.26790961824536597  0.8879263187475916  0.2784676984104716  1.0000
+  Au  Au1       1.0  0.7678851932011478  0.39539996703028923  0.4873603006592974  1.0000
+  Au  Au2       1.0  0.26792840309174754  0.026145377631169208  0.8171696856688112  1.0000

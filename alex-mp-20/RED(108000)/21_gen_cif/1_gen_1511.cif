@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiHf2Ga4Pd
+_chemical_formula_sum              "Li1 Hf2 Ga4 Pd1"
+_cell_length_a       4.130062268426349
+_cell_length_b       3.9709429253988056
+_cell_length_c       8.207822525820875
+_cell_angle_alpha    90.00164054607085
+_cell_angle_beta     90.00080111836263
+_cell_angle_gamma    89.9987179006263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6059212936692446  0.7713549334581942  0.6608231011222188  1.0000
+  Hf  Hf1       1.0  0.1059677083179374  0.7712528335550103  0.40918235336099906  1.0000
+  Hf  Hf2       1.0  0.10594971495805273  0.7711633012214021  0.91277658763188  1.0000
+  Ga  Ga1       1.0  0.10631985281813523  0.2711305515941174  0.1610631997481792  1.0000
+  Ga  Ga2       1.0  0.6058604553345296  0.2713476068589529  0.41127504592152464  1.0000
+  Ga  Ga3       1.0  0.10571754692044803  0.27122153368106794  0.6610797927065536  1.0000
+  Ga  Ga4       1.0  0.6058340755067063  0.2712506660345241  0.9105370680284222  1.0000
+  Pd  Pd1       1.0  0.6065289078070846  0.7709707883739162  0.16067212769426412  1.0000

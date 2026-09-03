@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2La2H2
+_chemical_formula_sum              "Zn2 La2 H2"
+_cell_length_a       4.4049484659676414
+_cell_length_b       4.946775452372442
+_cell_length_c       4.945492267608643
+_cell_angle_alpha    90.35846448112547
+_cell_angle_beta     90.10146495759285
+_cell_angle_gamma    90.08050311095754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.42576998472213745  0.017404906451702118  0.6207582950592041  1.0000
+  Zn  Zn2       1.0  0.41639119386672974  0.5193784832954407  0.12125327438116072  1.0000
+  La  La1       1.0  0.933462381362915  0.01741742342710495  0.12225876748561858  1.0000
+  La  La2       1.0  0.9122925400733948  0.5171139240264893  0.6218931674957275  1.0000
+  H   H1        1.0  0.8268939256668091  0.5189380645751953  0.12116578221321105  1.0000
+  H   H2        1.0  0.00012552738189697266  0.017143748700618744  0.6213222146034241  1.0000

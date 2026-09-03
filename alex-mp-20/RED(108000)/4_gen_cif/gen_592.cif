@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiIr2GaIr2
+_chemical_formula_sum              "Ni1 Ir4 Ga1"
+_cell_length_a       3.805058841073435
+_cell_length_b       3.8221039334057743
+_cell_length_c       6.037252426147461
+_cell_angle_alpha    90.03396220372034
+_cell_angle_beta     108.32448302084755
+_cell_angle_gamma    89.93632464994573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5755758881568909  0.7297399044036864  0.992363929748535  1.0000
+  Ir  Ir1       1.0  0.41447797417640686  0.22974239289760587  0.6703274846076965  1.0000
+  Ir  Ir2       1.0  0.0751083642244339  0.22960636019706723  0.9922904968261718  1.0000
+  Ga  Ga1       1.0  0.7396808862686157  0.2294167727231979  0.321135014295578  1.0000
+  Ir  Ir3       1.0  0.2433396577835083  0.7298321723937987  0.32828477025032043  1.0000
+  Ir  Ir4       1.0  0.9128229022026062  0.7296058535575867  0.6666963696479797  1.0000

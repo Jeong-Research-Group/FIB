@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zn2Cd2Rh
+_chemical_formula_sum              "Zn2 Cd2 Rh1"
+_cell_length_a       3.669659554252824
+_cell_length_b       5.301756745217849
+_cell_length_c       5.050789266894927
+_cell_angle_alpha    83.70871113445946
+_cell_angle_beta     111.30426267277839
+_cell_angle_gamma    110.2618144136981
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.4272590585689488  0.4386852629192326  0.0032789139560522873  1.0000
+  Zn  Zn2       1.0  0.1986672297183246  0.7461248923727274  0.23764250088775596  1.0000
+  Cd  Cd1       1.0  0.6163166400861956  0.9901827248401528  0.829303823447679  1.0000
+  Cd  Cd2       1.0  0.00955628200094478  0.1944754455312145  0.4115774036195278  1.0000
+  Rh  Rh1       1.0  0.8129033013811038  0.5922606102722345  0.6204191738653634  1.0000

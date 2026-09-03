@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Sr2TlAuO
+_chemical_formula_sum              "Na2 Sr2 Tl1 Au1 O1"
+_cell_length_a       3.62966043239065
+_cell_length_b       6.427506524473232
+_cell_length_c       9.189396280908328
+_cell_angle_alpha    118.90151990280062
+_cell_angle_beta     89.99604719522935
+_cell_angle_gamma    90.00879687234092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5731762132740869  0.9811639334133077  0.9014516426629815  1.0000
+  Na  Na2       1.0  0.5734959831176674  0.883240512057761  0.21933830252738237  1.0000
+  Sr  Sr1       1.0  0.07341906994634229  0.42766789290488905  0.864705781183357  1.0000
+  Sr  Sr2       1.0  0.07294444061012309  0.43683730329275533  0.2560744345135286  1.0000
+  Tl  Tl1       1.0  0.5731187569617742  0.9324950127032917  0.5603662414664867  1.0000
+  Au  Au1       1.0  0.5728309859954512  0.432360655530411  0.5603620034089553  1.0000
+  O   O1        1.0  0.5731889201164337  0.4319068590210707  0.060186752547845654  1.0000

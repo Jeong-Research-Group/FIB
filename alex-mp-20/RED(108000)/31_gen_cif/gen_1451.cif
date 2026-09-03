@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr3PbO
+_chemical_formula_sum              "Pr3 Pb1 O1"
+_cell_length_a       5.0301989316787425
+_cell_length_b       5.026691839964381
+_cell_length_c       5.036410331726074
+_cell_angle_alpha    90.0699026570252
+_cell_angle_beta     90.12157987450476
+_cell_angle_gamma    90.06874835752708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.527993381023407  0.92592453956604  0.759922206401825  1.0000
+  Pr  Pr2       1.0  0.5278141498565674  0.4260135293006897  0.2598223388195038  1.0000
+  Pr  Pr3       1.0  0.027898874133825302  0.9260879158973694  0.2599323093891144  1.0000
+  Pb  Pb1       1.0  0.027769967913627625  0.42598345875740046  0.7598373889923096  1.0000
+  O   O1        1.0  0.527964174747467  0.9261951446533203  0.26005056500434875  1.0000

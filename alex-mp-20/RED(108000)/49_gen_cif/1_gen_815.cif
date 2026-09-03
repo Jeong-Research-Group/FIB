@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Ni2Br2
+_chemical_formula_sum              "Tb2 Ni2 Br2"
+_cell_length_a       3.985538171153928
+_cell_length_b       3.985573422030641
+_cell_length_c       11.353453369601544
+_cell_angle_alpha    89.99412469835971
+_cell_angle_beta     89.96194897722553
+_cell_angle_gamma    119.94076833207195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.08032110504312072  0.5110512098252281  0.528435245104995  1.0000
+  Tb  Tb2       1.0  0.08169468466881485  0.5115296887351456  0.205281309567365  1.0000
+  Ni  Ni1       1.0  0.4143433497137394  0.1775908648923849  0.37270781269677294  1.0000
+  Ni  Ni2       1.0  0.7473108146092308  0.8439901941504808  0.3613990386078072  1.0000
+  Br  Br1       1.0  0.7475625243376306  0.8444639898067291  0.6962623780915771  1.0000
+  Br  Br2       1.0  0.4139837514363531  0.1782382716482086  0.0374483700255484  1.0000

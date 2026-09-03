@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyY2Cu2Pd
+_chemical_formula_sum              "Dy1 Y2 Cu2 Pd1"
+_cell_length_a       3.484017403419427
+_cell_length_b       4.930279485769215
+_cell_length_c       7.806494138593455
+_cell_angle_alpha    108.46664727503457
+_cell_angle_beta     90.02134244040616
+_cell_angle_gamma    90.009964667679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6889571204051108  0.46563559594606135  0.04182473834598009  1.0000
+  Y   Y1        1.0  0.6886875119162812  0.7990919616451941  0.7084754553976294  1.0000
+  Y   Y2        1.0  0.6887288129070585  0.13146392380911698  0.3734360439255979  1.0000
+  Cu  Cu1       1.0  0.1887888915813404  0.6293664856820698  0.368781401765901  1.0000
+  Cu  Cu2       1.0  0.18855200929163662  0.9675375671290165  0.04595316371667823  1.0000
+  Pd  Pd1       1.0  0.18872075628308987  0.2996388341300518  0.7096232787901076  1.0000

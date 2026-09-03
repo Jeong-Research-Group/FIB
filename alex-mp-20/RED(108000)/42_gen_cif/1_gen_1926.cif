@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ho2Ni2P2H2
+_chemical_formula_sum              "Ho2 Ni2 P2 H2"
+_cell_length_a       3.714779141351364
+_cell_length_b       3.7150798906264226
+_cell_length_c       7.630892495277662
+_cell_angle_alpha    89.9968148426147
+_cell_angle_beta     89.99262575409543
+_cell_angle_gamma    89.96658178875009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.029129576903864397  0.035155595234659234  0.5744910130178553  1.0000
+  Ho  Ho2       1.0  0.5286766111197518  0.5347689637466914  0.22481998307682796  1.0000
+  Ni  Ni1       1.0  0.028872523620773343  0.5352295946705874  0.8994993741935065  1.0000
+  Ni  Ni2       1.0  0.528709234701404  0.03518389832922302  0.8993437928182481  1.0000
+  P   P1        1.0  0.02847802874415865  0.03493750919263409  0.07709484456216195  1.0000
+  P   P2        1.0  0.5291423083440558  0.5353752187593889  0.721833724707944  1.0000
+  H   H1        1.0  0.5286060774471604  0.03490449388226866  0.39975990136407213  1.0000
+  H   H2        1.0  0.028890948407845146  0.5346364406425784  0.40006168910733414  1.0000

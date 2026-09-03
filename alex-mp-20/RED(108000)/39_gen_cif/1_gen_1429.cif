@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdInHg2Pb
+_chemical_formula_sum              "Cd1 In1 Hg2 Pb1"
+_cell_length_a       4.441120950255821
+_cell_length_b       4.448491419517346
+_cell_length_c       7.745783633993787
+_cell_angle_alpha    106.59228332357814
+_cell_angle_beta     106.60233480722715
+_cell_angle_gamma    89.99946834886848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.032705840757213035  0.04138536676435821  0.43393027143796004  1.0000
+  In  In1       1.0  0.532567790136974  0.5412666005921263  0.4339474629508958  1.0000
+  Hg  Hg1       1.0  0.3866970845594231  0.8954549163588733  0.14166823344903914  1.0000
+  Hg  Hg2       1.0  0.1779973303731889  0.6866084600815172  0.7264431099610599  1.0000
+  Pb  Pb1       1.0  0.7819803430407916  0.2901573227211966  0.9336794624238693  1.0000

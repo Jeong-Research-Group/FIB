@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnFeHPd2
+_chemical_formula_sum              "Zn1 Fe1 H1 Pd2"
+_cell_length_a       3.7605846304275548
+_cell_length_b       4.013285475743754
+_cell_length_c       4.010364660556631
+_cell_angle_alpha    90.00111355561866
+_cell_angle_beta     89.99661572311443
+_cell_angle_gamma    89.99974310407259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.11560918248959814  0.026012459070788536  0.7672037360055263  1.0000
+  Fe  Fe1       1.0  0.11532375432625692  0.5260620531498568  0.2668643971435235  1.0000
+  H   H1        1.0  0.6151719680516406  0.5260531553537395  0.26714252917875403  1.0000
+  Pd  Pd1       1.0  0.6156557222367783  0.5263118769605378  0.7669495069741037  1.0000
+  Pd  Pd2       1.0  0.615351002738779  0.02606848809258982  0.2668262493622459  1.0000

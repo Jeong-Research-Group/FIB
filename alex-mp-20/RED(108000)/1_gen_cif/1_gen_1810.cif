@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaCu2HRh
+_chemical_formula_sum              "Ga1 Cu2 H1 Rh1"
+_cell_length_a       3.8343338145278025
+_cell_length_b       3.7915394178497777
+_cell_length_c       3.793273618755785
+_cell_angle_alpha    90.01849174392984
+_cell_angle_beta     90.01852326941068
+_cell_angle_gamma    90.00668510421485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.828586183809392  0.8414583737145466  0.507496131337291  1.0000
+  Cu  Cu1       1.0  0.32795235186837096  0.3416959825720424  0.5077191701642589  1.0000
+  Cu  Cu2       1.0  0.32872012263561257  0.8416005784489279  0.007610440689146663  1.0000
+  H   H1        1.0  0.32846567266159027  0.34126715085057857  0.0070589732029496255  1.0000
+  Rh  Rh1       1.0  0.8283047754290309  0.34150480871598704  0.008086432114598788  1.0000

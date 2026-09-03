@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaZn2CuIrCu
+_chemical_formula_sum              "Ga1 Zn2 Cu2 Ir1"
+_cell_length_a       3.056453898229734
+_cell_length_b       4.226380042995709
+_cell_length_c       6.609277248382568
+_cell_angle_alpha    108.84538040338063
+_cell_angle_beta     90.04418017045165
+_cell_angle_gamma    90.04221307751483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6311162710189819  0.2684638500213623  0.599902331829071  1.0000
+  Zn  Zn1       1.0  0.6308311223983765  0.9306578040122987  0.9267381429672241  1.0000
+  Zn  Zn2       1.0  0.6307888031005859  0.5982514023780824  0.26066601276397705  1.0000
+  Cu  Cu1       1.0  0.13073930144309998  0.768882691860199  0.6011883020401001  1.0000
+  Ir  Ir1       1.0  0.13087618350982666  0.1017671898007393  0.26719704270362854  1.0000
+  Cu  Cu2       1.0  0.13086462020874023  0.4314382076263428  0.9272663593292236  1.0000

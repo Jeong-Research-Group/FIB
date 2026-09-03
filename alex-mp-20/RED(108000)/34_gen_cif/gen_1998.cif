@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni3Ir2Ni
+_chemical_formula_sum              "Ni4 Ir2"
+_cell_length_a       3.7207113876326203
+_cell_length_b       3.7306802197595843
+_cell_length_c       5.570859432220459
+_cell_angle_alpha    90.0408060536879
+_cell_angle_beta     109.56358884470879
+_cell_angle_gamma    90.00463337516445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.505348265171051  0.8670525550842286  0.772808313369751  1.0000
+  Ni  Ni2       1.0  0.004910111427307129  0.36696445941925054  0.7725820541381836  1.0000
+  Ni  Ni3       1.0  0.16712172329425812  0.8670538663864137  0.09457499533891678  1.0000
+  Ir  Ir1       1.0  0.33595195412635803  0.36685651540756226  0.4336991310119629  1.0000
+  Ir  Ir2       1.0  0.8360963463783264  0.8667004108428956  0.4334898293018341  1.0000
+  Ni  Ni4       1.0  0.6668528914451599  0.3668703734874726  0.0945986807346344  1.0000

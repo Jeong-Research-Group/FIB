@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdCaBPd2
+_chemical_formula_sum              "Pd3 Ca1 B1"
+_cell_length_a       4.303335987965787
+_cell_length_b       4.301474170365551
+_cell_length_c       4.307934761047363
+_cell_angle_alpha    89.98923129663984
+_cell_angle_beta     89.97785902975696
+_cell_angle_gamma    89.98465506989157
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.13844381272792816  0.7875353097915649  0.8045663833618164  1.0000
+  Ca  Ca1       1.0  0.6377268433570862  0.2876514196395874  0.8048441410064697  1.0000
+  B   B1        1.0  0.13797126710414886  0.7876526713371277  0.3044908940792084  1.0000
+  Pd  Pd2       1.0  0.6386061310768127  0.7875334620475769  0.3047339618206024  1.0000
+  Pd  Pd3       1.0  0.13837513327598572  0.28752732276916504  0.30490872263908386  1.0000

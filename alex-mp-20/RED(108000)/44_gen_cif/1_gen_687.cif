@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HoP2HRh2
+_chemical_formula_sum              "Ho1 P2 H1 Rh2"
+_cell_length_a       3.9666396867083953
+_cell_length_b       3.966116805191134
+_cell_length_c       5.153065305271118
+_cell_angle_alpha    89.9938460106099
+_cell_angle_beta     89.95136244142934
+_cell_angle_gamma    90.00111948460231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.7949216088494306  0.5902647359815384  0.642345499564947  1.0000
+  P   P1        1.0  0.2947554028300692  0.09029721845631167  0.4294039568592331  1.0000
+  P   P2        1.0  0.2946815200120941  0.09038136929679384  0.8556600180240812  1.0000
+  H   H1        1.0  0.7943550898882968  0.5908023344543911  0.14268460022427842  1.0000
+  Rh  Rh1       1.0  0.794832944528599  0.09042528186738856  0.14274950376340642  1.0000
+  Rh  Rh2       1.0  0.29493942595022205  0.5903609835331913  0.1420887569376495  1.0000

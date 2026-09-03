@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnAgGaSnP2
+_chemical_formula_sum              "Sn2 Ag1 Ga1 P2"
+_cell_length_a       3.823782899612767
+_cell_length_b       6.532934405733459
+_cell_length_c       5.594142436981201
+_cell_angle_alpha    90.48232995297741
+_cell_angle_beta     90.01931144958266
+_cell_angle_gamma    106.68530695924808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.6672929525375366  0.7440899014472961  0.4003199338912964  1.0000
+  Ag  Ag1       1.0  0.019024889916181602  0.4391548335552216  0.9018369317054749  1.0000
+  Ga  Ga1       1.0  0.9672332406044006  0.34947022795677185  0.40269413590431213  1.0000
+  Sn  Sn2       1.0  0.3198762834072113  0.04379015043377877  0.9022455811500549  1.0000
+  P   P1        1.0  0.6604124903678894  0.7244909405708313  0.9011744856834412  1.0000
+  P   P2        1.0  0.334690660238266  0.07891453057527542  0.4018024206161499  1.0000

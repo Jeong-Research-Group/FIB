@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3GaCo2
+_chemical_formula_sum              "Lu3 Ga1 Co2"
+_cell_length_a       3.3099543145350863
+_cell_length_b       3.3100329702224616
+_cell_length_c       10.347668727565507
+_cell_angle_alpha    89.99481932232982
+_cell_angle_beta     89.99506317696459
+_cell_angle_gamma    89.98851306576357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.2544752928040272  0.8756534726651002  0.48923292222948234  1.0000
+  Lu  Lu2       1.0  0.25476964837060245  0.8761025559039458  0.8643116073132598  1.0000
+  Lu  Lu3       1.0  0.2544918848932667  0.8757491930176515  0.17671365069473  1.0000
+  Ga  Ga1       1.0  0.7546164387100779  0.37600817251576174  0.6767679961922559  1.0000
+  Co  Co1       1.0  0.7544408564051007  0.3758788003780101  0.01616166692552223  1.0000
+  Co  Co2       1.0  0.7545435509546866  0.3757716543198249  0.3376277692380104  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OPrOPrBi2
+_chemical_formula_sum              "O2 Pr2 Bi2"
+_cell_length_a       4.309975814777074
+_cell_length_b       4.308555642650249
+_cell_length_c       8.012117385864258
+_cell_angle_alpha    90.15268454584616
+_cell_angle_beta     90.01704382777551
+_cell_angle_gamma    89.90554097913723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.36809635162353516  0.9832657575607301  0.05981958657503128  1.0000
+  Pr  Pr1       1.0  0.36860623955726624  0.481981635093689  0.9311563372612  1.0000
+  O   O2        1.0  0.8687402009963989  0.48213925957679754  0.06048736348748207  1.0000
+  Pr  Pr2       1.0  0.8681843280792236  0.9829316139221193  0.18972110748291016  1.0000
+  Bi  Bi1       1.0  0.868765115737915  0.9816529154777528  0.6270227432250977  1.0000
+  Bi  Bi2       1.0  0.36824852228164673  0.4814110994338989  0.49170562624931335  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Mg2Ga4
+_chemical_formula_sum              "Li2 Mg2 Ga4"
+_cell_length_a       5.0461557566971065
+_cell_length_b       5.0054094209971005
+_cell_length_c       5.854675834810516
+_cell_angle_alpha    88.92566076106547
+_cell_angle_beta     89.84907037015638
+_cell_angle_gamma    89.8000130406956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6098301080932704  0.5123603888634662  0.13341705790121733  1.0000
+  Li  Li2       1.0  0.1098813414350063  0.3981959934928005  0.8568885025753127  1.0000
+  Mg  Mg1       1.0  0.10920179406868873  0.8896532652626492  0.13554565532337307  1.0000
+  Mg  Mg2       1.0  0.610204801674945  0.021025539030402274  0.8548228572554235  1.0000
+  Ga  Ga1       1.0  0.6082856683550857  0.03183287877340958  0.36549115507715074  1.0000
+  Ga  Ga2       1.0  0.11072722243005151  0.8796338659488333  0.6248694496771107  1.0000
+  Ga  Ga3       1.0  0.6107115246175477  0.5255089177897406  0.6125802992759174  1.0000
+  Ga  Ga4       1.0  0.1100262161146009  0.38566493457519596  0.3779199702415313  1.0000

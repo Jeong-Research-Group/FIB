@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaSi2AuO2
+_chemical_formula_sum              "Ga1 Si2 Au1 O2"
+_cell_length_a       4.2275617323428385
+_cell_length_b       3.888451896275469
+_cell_length_c       7.471936163361837
+_cell_angle_alpha    117.1548102382723
+_cell_angle_beta     106.47305809916435
+_cell_angle_gamma    89.95098805094304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.2538536656066688  0.9316787654182904  0.33594817739041083  1.0000
+  Si  Si1       1.0  0.5730105883028885  0.5676791251693614  0.9755178494254707  1.0000
+  Si  Si2       1.0  0.456329071102637  0.8280137577677473  0.7410052024547039  1.0000
+  Au  Au1       1.0  0.021496903164260964  0.19828187978361428  0.871939846075949  1.0000
+  O   O1        1.0  0.7050750065395458  0.8604516977052177  0.23859817124611868  1.0000
+  O   O2        1.0  0.3240284278206366  0.5488066814642241  0.47579348666674487  1.0000

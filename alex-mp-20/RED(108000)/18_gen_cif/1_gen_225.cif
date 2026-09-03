@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu3SiNi2
+_chemical_formula_sum              "Cu3 Si1 Ni2"
+_cell_length_a       3.954497214058016
+_cell_length_b       3.9552837072783893
+_cell_length_c       5.024214274819913
+_cell_angle_alpha    90.07930793563884
+_cell_angle_beta     89.93762951920581
+_cell_angle_gamma    119.94582370758465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.10067961982579343  0.2522504399124617  0.7629661190221474  1.0000
+  Cu  Cu2       1.0  0.4340055533135849  0.9189111760169733  0.46642193837284424  1.0000
+  Cu  Cu3       1.0  0.7672936089317222  0.5855108118180988  0.6159771639596513  1.0000
+  Si  Si1       1.0  0.767437532259068  0.5857023679687718  0.11589117208583519  1.0000
+  Ni  Ni1       1.0  0.4341156823547401  0.918856120486663  0.9761551679934781  1.0000
+  Ni  Ni2       1.0  0.10068346376413775  0.25245961692627567  0.25315173959257126  1.0000

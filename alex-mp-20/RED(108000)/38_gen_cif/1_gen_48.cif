@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2Fe2As2
+_chemical_formula_sum              "Rb2 Fe2 As2"
+_cell_length_a       3.8970379702857247
+_cell_length_b       3.896991987963782
+_cell_length_c       11.535921200260335
+_cell_angle_alpha    90.01084799266329
+_cell_angle_beta     89.92220982565064
+_cell_angle_gamma    90.00204146098861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.770805895321984  0.9463880940846588  0.5533287824802492  1.0000
+  Rb  Rb2       1.0  0.2730349471313942  0.4462169329593462  0.9810642248177652  1.0000
+  Fe  Fe1       1.0  0.2722269848108441  0.9462703688325956  0.26719221807093796  1.0000
+  Fe  Fe2       1.0  0.7721991962596965  0.44621304016128355  0.26718784272115964  1.0000
+  As  As1       1.0  0.2717223828881612  0.4463566125442202  0.3789107614236188  1.0000
+  As  As2       1.0  0.772664070488664  0.9461317916421784  0.1554201963625309  1.0000

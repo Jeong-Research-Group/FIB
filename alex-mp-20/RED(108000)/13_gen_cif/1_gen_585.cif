@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2InHgTe2
+_chemical_formula_sum              "Cd2 In1 Hg1 Te2"
+_cell_length_a       4.435174856222729
+_cell_length_b       6.345213561387897
+_cell_length_c       7.3194534230484996
+_cell_angle_alpha    75.04516446279241
+_cell_angle_beta     90.00045695958059
+_cell_angle_gamma    89.97935737687202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.31970600218142087  0.7904052850906697  0.49896011365119197  1.0000
+  Cd  Cd2       1.0  0.3194931965053037  0.44516654365693603  0.3242673917425666  1.0000
+  In  In1       1.0  0.8191879146404986  0.02911156725076872  0.9460999052850266  1.0000
+  Hg  Hg1       1.0  0.8198209054648584  0.43342963159265496  0.6559668558733105  1.0000
+  Te  Te1       1.0  0.31940812783938793  0.7331914799844819  0.9230500654259068  1.0000
+  Te  Te2       1.0  0.8195558078837845  0.10954952602954916  0.3280825564069314  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca3LaH
+_chemical_formula_sum              "Ca3 La1 H1"
+_cell_length_a       5.393498848655444
+_cell_length_b       5.403391000193631
+_cell_length_c       5.428061118414518
+_cell_angle_alpha    90.00661413068738
+_cell_angle_beta     90.01560758228109
+_cell_angle_gamma    89.9970390145428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7145737064325366  0.1837195828726587  0.3938875660717465  1.0000
+  Ca  Ca2       1.0  0.21421928751937394  0.18369093658021776  0.8942061950449365  1.0000
+  Ca  Ca3       1.0  0.21406491490599877  0.6840734671708089  0.3940542606051319  1.0000
+  La  La1       1.0  0.7141384963663426  0.6839068758592095  0.893684128661417  1.0000
+  H   H1        1.0  0.2143724235075303  0.18400987407175706  0.3938992994101067  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgScTa2N
+_chemical_formula_sum              "Mg1 Sc1 Ta2 N1"
+_cell_length_a       4.219548352764417
+_cell_length_b       4.219285061053663
+_cell_length_c       4.63932341161505
+_cell_angle_alpha    90.00003221476646
+_cell_angle_beta     89.99749214814524
+_cell_angle_gamma    89.99990823384822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.37732000056567166  0.5008138157124045  0.10925945272319385  1.0000
+  Sc  Sc1       1.0  0.8773939992488861  0.0009563236203024269  0.10934265902280411  1.0000
+  Ta  Ta1       1.0  0.37720768397100896  0.000814690569740845  0.6092638821838113  1.0000
+  Ta  Ta2       1.0  0.8775661453298677  0.5007261904863675  0.6094351115934458  1.0000
+  N   N1        1.0  0.8771555208427523  0.0007043779775424968  0.6094066820478091  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr3AgAu2
+_chemical_formula_sum              "Pr3 Ag1 Au2"
+_cell_length_a       3.7614114580715925
+_cell_length_b       3.7632081983375785
+_cell_length_c       11.283934218692186
+_cell_angle_alpha    90.02107678141257
+_cell_angle_beta     90.06546286062967
+_cell_angle_gamma    90.08381830469322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.09961552167988448  0.4827073028471782  0.1761163023698567  1.0000
+  Pr  Pr2       1.0  0.09938411490850747  0.48268858194552733  0.5198759191983595  1.0000
+  Pr  Pr3       1.0  0.09947874059702229  0.482967609183101  0.8486337291718116  1.0000
+  Ag  Ag1       1.0  0.5995702323218572  0.9827802703843627  0.34854505041983913  1.0000
+  Au  Au1       1.0  0.5993184276987257  0.9829443050400777  0.015534927952674664  1.0000
+  Au  Au2       1.0  0.5990920645178678  0.9827307464873867  0.6802476005006598  1.0000

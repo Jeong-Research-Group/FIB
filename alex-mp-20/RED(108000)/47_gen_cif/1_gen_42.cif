@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ni2As2
+_chemical_formula_sum              "Li2 Ni2 As2"
+_cell_length_a       4.097458237792359
+_cell_length_b       3.976160729257373
+_cell_length_c       6.765610734760037
+_cell_angle_alpha    73.34558956658657
+_cell_angle_beta     77.79347939194982
+_cell_angle_gamma    60.87702748782918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2751009485433726  0.36619585013363937  0.6612375613103528  1.0000
+  Li  Li2       1.0  0.6083352364564514  0.5520923696727267  0.9283854661046428  1.0000
+  Ni  Ni1       1.0  0.980855735118027  0.12277473175064559  0.4348899456199678  1.0000
+  Ni  Ni2       1.0  0.902580075636855  0.7955242372164937  0.1547298457648059  1.0000
+  As  As1       1.0  0.24886774145315202  0.15462647905191398  0.08789581343416647  1.0000
+  As  As2       1.0  0.6345694074066649  0.7636625355454698  0.5017289961682021  1.0000

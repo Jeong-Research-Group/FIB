@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaPr2PbO
+_chemical_formula_sum              "Ca1 Pr2 Pb1 O1"
+_cell_length_a       5.051945096393903
+_cell_length_b       4.876437503580478
+_cell_length_c       5.0524139234657595
+_cell_angle_alpha    90.00359368073606
+_cell_angle_beta     89.99948157006409
+_cell_angle_gamma    90.00128759054428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.978281193461166  0.6242087313046814  0.1275366862463999  1.0000
+  Pr  Pr1       1.0  0.9773645292705343  0.12388834248394556  0.6272398996632597  1.0000
+  Pr  Pr2       1.0  0.47785685487317725  0.12344534127732869  0.12704565242730465  1.0000
+  Pb  Pb1       1.0  0.47763465630471735  0.6242718968752246  0.6271893014092651  1.0000
+  O   O1        1.0  0.9781272607257967  0.12405232685278378  0.12729373457492088  1.0000

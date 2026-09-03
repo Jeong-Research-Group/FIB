@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Ru2Pb2C
+_chemical_formula_sum              "Na2 Ru2 Pb2 C1"
+_cell_length_a       4.1776829991881215
+_cell_length_b       4.177299333379958
+_cell_length_c       8.811892107659357
+_cell_angle_alpha    103.69924952267405
+_cell_angle_beta     103.73043088262156
+_cell_angle_gamma    89.99940947458143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6482915383965488  0.2195010177594488  0.9637595029311448  1.0000
+  Na  Na2       1.0  0.9918864352761124  0.5624446050527728  0.6498695700859077  1.0000
+  Ru  Ru1       1.0  0.8199110192248732  0.8911349970456921  0.30673628019571203  1.0000
+  Ru  Ru2       1.0  0.3197765089336275  0.3911249585697409  0.30689010928407257  1.0000
+  Pb  Pb1       1.0  0.43727825637499435  0.008225094474055058  0.5417960850897149  1.0000
+  Pb  Pb2       1.0  0.20260217563631633  0.7739495928269744  0.07198892856200093  1.0000
+  C   C1        1.0  0.8203395933791978  0.39040155052432557  0.3069477613946223  1.0000

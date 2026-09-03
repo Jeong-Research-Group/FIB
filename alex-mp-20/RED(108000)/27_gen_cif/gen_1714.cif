@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlSnPd2AlPd2
+_chemical_formula_sum              "Al2 Sn1 Pd4"
+_cell_length_a       3.8042438462363157
+_cell_length_b       5.045101167995601
+_cell_length_c       6.404775619506836
+_cell_angle_alpha    98.73007036953983
+_cell_angle_beta     90.00863586331886
+_cell_angle_gamma    112.1693972294078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.007716929540038107  0.302968829870224  0.3772014379501343  1.0000
+  Sn  Sn1       1.0  0.16583877801895142  0.6166558861732483  0.8790573477745056  1.0000
+  Pd  Pd1       1.0  0.8732408881187439  0.03188617154955864  0.9536183476448058  1.0000
+  Pd  Pd2       1.0  0.48400261998176575  0.25360631942749023  0.6667225956916809  1.0000
+  Al  Al2       1.0  0.7510262727737427  0.7883196473121643  0.5444422960281372  1.0000
+  Pd  Pd3       1.0  0.5831690430641174  0.45114743709564215  0.1642483025789261  1.0000
+  Pd  Pd4       1.0  0.30219346284866333  0.892078697681427  0.2911262810230255  1.0000

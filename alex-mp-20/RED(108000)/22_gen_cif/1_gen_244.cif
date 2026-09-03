@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3Tl2Hg
+_chemical_formula_sum              "Sc3 Tl2 Hg1"
+_cell_length_a       3.4993056944817105
+_cell_length_b       3.4991115355744387
+_cell_length_c       11.35337904679981
+_cell_angle_alpha    90.00595404260162
+_cell_angle_beta     90.00716469659861
+_cell_angle_gamma    90.00515899219063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.021457985011569723  0.8209342717182393  0.6406878812132712  1.0000
+  Sc  Sc2       1.0  0.021418672122923407  0.821081253191792  0.3262359647795043  1.0000
+  Sc  Sc3       1.0  0.021587365972587  0.8214001183985988  0.983750242565702  1.0000
+  Tl  Tl1       1.0  0.5215533169274401  0.32127441698134335  0.15558712923480567  1.0000
+  Tl  Tl2       1.0  0.5214889199402092  0.32124729791984646  0.8115566348387004  1.0000
+  Hg  Hg1       1.0  0.5215949951359311  0.3211005664156153  0.48353260081996063  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnNi2Ge
+_chemical_formula_sum              "Mn1 Ni2 Ge1"
+_cell_length_a       3.5474905311297613
+_cell_length_b       3.7018572284532705
+_cell_length_c       3.7017821122432166
+_cell_angle_alpha    90.01349032163448
+_cell_angle_beta     90.00230661775888
+_cell_angle_gamma    90.00597855508937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5260933483805023  0.29848883874496457  0.7764726703380431  1.0000
+  Ni  Ni1       1.0  0.02609986186670277  0.29842863022007216  0.276482541194877  1.0000
+  Ni  Ni2       1.0  0.026057173811556242  0.798462822691701  0.7764743438097735  1.0000
+  Ge  Ge1       1.0  0.5260797984903205  0.7984869452905297  0.2764769607556134  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc2Co2ScCo2Hf
+_chemical_formula_sum              "Sc3 Co4 Hf1"
+_cell_length_a       4.40037159070872
+_cell_length_b       4.401156902689107
+_cell_length_c       6.25891637802124
+_cell_angle_alpha    89.9992511836615
+_cell_angle_beta     89.99235269247485
+_cell_angle_gamma    89.97359699437081
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5211315155029297  0.6927550435066223  0.7251856327056884  1.0000
+  Sc  Sc2       1.0  0.5208662152290344  0.6923781633377075  0.22506374120712277  1.0000
+  Co  Co1       1.0  0.021006010472774506  0.692417323589325  0.9782384037971495  1.0000
+  Co  Co2       1.0  0.5208601355552673  0.19248268008232117  0.9786852598190307  1.0000
+  Sc  Sc3       1.0  0.0211285799741745  0.1926572322845459  0.7245690822601317  1.0000
+  Co  Co3       1.0  0.020860381424427032  0.6924898624420166  0.4705036878585815  1.0000
+  Co  Co4       1.0  0.5207875967025757  0.19236433506011963  0.47053819894790644  1.0000
+  Hf  Hf1       1.0  0.020950965583324432  0.19230064749717712  0.2239045202732086  1.0000

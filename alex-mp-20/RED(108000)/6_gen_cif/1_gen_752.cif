@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaTbSc2Fe
+_chemical_formula_sum              "Ca1 Tb1 Sc2 Fe1"
+_cell_length_a       5.017596161504852
+_cell_length_b       5.018991596699047
+_cell_length_c       5.250612450242647
+_cell_angle_alpha    89.99306696764388
+_cell_angle_beta     89.99892823025027
+_cell_angle_gamma    89.9888144043687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.4339922605101184  0.5551943354060151  0.21381231990109759  1.0000
+  Tb  Tb1       1.0  0.9339407585627435  0.05551719302234259  0.21377030952333265  1.0000
+  Sc  Sc1       1.0  0.934199013777053  0.5561053730476383  0.7136633325701901  1.0000
+  Sc  Sc2       1.0  0.4342222963898638  0.05553876445715649  0.7137489584621468  1.0000
+  Fe  Fe1       1.0  0.9336193110824681  0.05586271228317929  0.7140805460184709  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCd2In2Hg
+_chemical_formula_sum              "Li1 Cd2 In2 Hg1"
+_cell_length_a       4.478239626302364
+_cell_length_b       4.6452793273427
+_cell_length_c       7.2363286861134535
+_cell_angle_alpha    108.25825195920984
+_cell_angle_beta     90.16160459438422
+_cell_angle_gamma    90.02404135633162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7715051673521008  0.004232210041581691  0.31725316850869906  1.0000
+  Cd  Cd1       1.0  0.26443008830270004  0.8278353337959395  0.9779704364629853  1.0000
+  Cd  Cd2       1.0  0.7682190256337619  0.6502463476373864  0.6335076495532789  1.0000
+  In  In1       1.0  0.7660024857470968  0.31740335996954805  0.9756943021560045  1.0000
+  In  In2       1.0  0.27093837166894197  0.5042391988660637  0.3089133026071784  1.0000
+  Hg  Hg1       1.0  0.2677465476378792  0.1470915181170449  0.6240298978895713  1.0000

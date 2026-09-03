@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PdAgO2MgAgO2
+_chemical_formula_sum              "Pd1 Ag2 O4 Mg1"
+_cell_length_a       3.148837647844099
+_cell_length_b       5.403258639943522
+_cell_length_c       6.582056522369385
+_cell_angle_alpha    99.18591064018871
+_cell_angle_beta     103.77871434073914
+_cell_angle_gamma    89.88538492148668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.9262129664421083  0.17815102636814117  0.06081870198249818  1.0000
+  Ag  Ag1       1.0  0.1758437305688858  0.9319393634796143  0.5569095015525818  1.0000
+  O   O1        1.0  0.006744687911123035  0.8819708824157715  0.22504371404647827  1.0000
+  O   O2        1.0  0.5074596405029297  0.3657516241073609  0.22620339691638947  1.0000
+  Mg  Mg1       1.0  0.42581039667129517  0.6779627799987794  0.06029337272047998  1.0000
+  Ag  Ag2       1.0  0.6785652041435242  0.42630299925804144  0.5640159845352173  1.0000
+  O   O3        1.0  0.344927042722702  0.9913562536239624  0.894992470741272  1.0000
+  O   O4        1.0  0.8446637988090515  0.4744148254394531  0.8959879875183105  1.0000

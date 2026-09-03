@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaP2Rh2
+_chemical_formula_sum              "Na1 P2 Rh2"
+_cell_length_a       4.023918841714877
+_cell_length_b       4.024558227295911
+_cell_length_c       5.628862938633195
+_cell_angle_alpha    110.94328740352623
+_cell_angle_beta     110.94277803411262
+_cell_angle_gamma    89.99996304718576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3481317643374924  0.8856143527350793  0.2994591676165528  1.0000
+  P   P1        1.0  0.9685046185794354  0.5063388129046503  0.5410699333377633  1.0000
+  P   P2        1.0  0.7272174694312176  0.26487512655309964  0.058419374518320966  1.0000
+  Rh  Rh1       1.0  0.09779376725701959  0.1355797669615802  0.799612813846452  1.0000
+  Rh  Rh2       1.0  0.5978727726746305  0.6356107209756511  0.7998649122533188  1.0000

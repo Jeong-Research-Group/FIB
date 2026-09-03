@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Ta2Au2
+_chemical_formula_sum              "Hf2 Ta2 Au2"
+_cell_length_a       4.835559366352314
+_cell_length_b       3.430565763080345
+_cell_length_c       7.197655873307044
+_cell_angle_alpha    103.78711009478619
+_cell_angle_beta     89.99593989977465
+_cell_angle_gamma    90.0000139591556
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8747264758430939  0.7816716867824411  0.17625239235959897  1.0000
+  Hf  Hf2       1.0  0.37468291248401  0.9576142593481027  0.5281072793597817  1.0000
+  Ta  Ta1       1.0  0.37477003793050917  0.6343106748760761  0.8814650637892772  1.0000
+  Ta  Ta2       1.0  0.3746761743390259  0.28702779928956956  0.18707787717160976  1.0000
+  Au  Au1       1.0  0.8747235599942247  0.4446824441769058  0.5022677190156966  1.0000
+  Au  Au2       1.0  0.8746816979209632  0.11432927596785976  0.8415758070755385  1.0000

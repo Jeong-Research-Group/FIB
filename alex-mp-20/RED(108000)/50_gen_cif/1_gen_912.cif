@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2V3Ni3
+_chemical_formula_sum              "Mn2 V3 Ni3"
+_cell_length_a       3.3042483095312
+_cell_length_b       5.273518328454479
+_cell_length_c       5.2732398864700905
+_cell_angle_alpha    87.78990375035538
+_cell_angle_beta     89.99829640020663
+_cell_angle_gamma    89.99912812110645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8918829562559355  0.7007926527232208  0.03212255145910529  1.0000
+  Mn  Mn2       1.0  0.8916345656740248  0.19509046242224376  0.5266647950317715  1.0000
+  V   V1        1.0  0.3918807992312638  0.44811723822124366  0.2798558897340282  1.0000
+  V   V2        1.0  0.39180034525963964  0.44808342617732494  0.779750129561602  1.0000
+  V   V3        1.0  0.39180813348736154  0.9481533504556695  0.7796580470170084  1.0000
+  Ni  Ni1       1.0  0.8917642240798144  0.7067040223078311  0.5209002366955623  1.0000
+  Ni  Ni2       1.0  0.3916730542787635  0.9481129461458573  0.2797159906664714  1.0000
+  Ni  Ni3       1.0  0.8918602993474121  0.18925798093205332  0.038170467239529424  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrSnSrIn2Sn
+_chemical_formula_sum              "Sr2 Sn2 In2"
+_cell_length_a       5.002951285191674
+_cell_length_b       4.996556792375172
+_cell_length_c       7.850265979766846
+_cell_angle_alpha    90.02589575034052
+_cell_angle_beta     89.94244449716062
+_cell_angle_gamma    89.96108408707256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.31144317984580994  0.33672088384628296  0.33634158968925476  1.0000
+  Sn  Sn1       1.0  0.31110087037086487  0.3366169333457947  0.780640721321106  1.0000
+  Sr  Sr2       1.0  0.8116077184677124  0.8369048833847045  0.6960583925247192  1.0000
+  In  In1       1.0  0.8113183379173279  0.33709418773651123  0.016548890620470047  1.0000
+  In  In2       1.0  0.3118441104888916  0.8365249633789061  0.014958178624510765  1.0000
+  Sn  Sn2       1.0  0.8118003606796265  0.8370009064674376  0.2530211806297302  1.0000

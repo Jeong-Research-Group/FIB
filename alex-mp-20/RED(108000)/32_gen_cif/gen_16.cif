@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgYHgY2Sn
+_chemical_formula_sum              "Hg2 Y3 Sn1"
+_cell_length_a       5.2827397905749915
+_cell_length_b       5.281400932786411
+_cell_length_c       6.515146732330322
+_cell_angle_alpha    89.98229182331443
+_cell_angle_beta     89.98628748543199
+_cell_angle_gamma    119.96411599361578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.12510776519775393  0.49995234608650213  0.5730320811271667  1.0000
+  Y   Y1        1.0  0.45771962404251093  0.16617874801158905  0.7138762474060059  1.0000
+  Hg  Hg2       1.0  0.7917057275772094  0.8327590823173523  0.8546791672706604  1.0000
+  Y   Y2        1.0  0.12535516917705536  0.4993653297424317  0.05525696277618408  1.0000
+  Y   Y3        1.0  0.7917516827583312  0.8335037231445314  0.3725680708885193  1.0000
+  Sn  Sn1       1.0  0.45793002843856806  0.16600929200649261  0.21361267566680908  1.0000

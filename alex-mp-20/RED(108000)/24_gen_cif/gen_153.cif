@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgF2KF2H
+_chemical_formula_sum              "Mg1 F4 K1 H1"
+_cell_length_a       3.1638548435678064
+_cell_length_b       5.57005459286602
+_cell_length_c       5.343844413757324
+_cell_angle_alpha    91.22783818235558
+_cell_angle_beta     90.08330349016856
+_cell_angle_gamma    90.05239688446534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7296802997589111  0.6302040219306946  0.13274206221103668  1.0000
+  F   F1        1.0  0.22989521920681  0.8385964632034302  0.2445520758628845  1.0000
+  F   F2        1.0  0.7313573360443115  0.4778922498226166  0.48263648152351374  1.0000
+  K   K1        1.0  0.23003852367401123  0.13190554082393646  0.6313095688819885  1.0000
+  F   F3        1.0  0.7308430671691895  0.7835906147956848  0.7805371284484863  1.0000
+  F   F4        1.0  0.23002111911773682  0.4228648245334625  0.019135216251015663  1.0000
+  H   H1        1.0  0.7291231155395508  0.6309463977813721  0.6311005353927612  1.0000

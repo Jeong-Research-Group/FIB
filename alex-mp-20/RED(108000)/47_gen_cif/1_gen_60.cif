@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2Bi4Pd2
+_chemical_formula_sum              "Sr2 Bi4 Pd2"
+_cell_length_a       4.769934125852258
+_cell_length_b       4.771142830474629
+_cell_length_c       10.269774137964847
+_cell_angle_alpha    89.99806639099076
+_cell_angle_beta     89.9869475780041
+_cell_angle_gamma    90.00233219428875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.16735297007782413  0.6346403006214762  0.7651227189570841  1.0000
+  Sr  Sr2       1.0  0.6676703547512735  0.13478491793562297  0.28445602776721857  1.0000
+  Bi  Bi1       1.0  0.16741638544853435  0.6344075234859057  0.3808930129298397  1.0000
+  Bi  Bi2       1.0  0.16782951052445017  0.13460227095961347  0.024738646450443717  1.0000
+  Bi  Bi3       1.0  0.6674023896303751  0.6349049255859923  0.02503567332438568  1.0000
+  Bi  Bi4       1.0  0.6673610780047785  0.13488443671301545  0.6689558421261093  1.0000
+  Pd  Pd1       1.0  0.16744681874239703  0.1344740399021361  0.5251339001888324  1.0000
+  Pd  Pd2       1.0  0.6674261734935045  0.6348436660740404  0.5251605834195451  1.0000

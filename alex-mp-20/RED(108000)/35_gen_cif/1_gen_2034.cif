@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2NiSCl
+_chemical_formula_sum              "Sm2 Ni1 S1 Cl1"
+_cell_length_a       3.8757478269784835
+_cell_length_b       3.8757420683298394
+_cell_length_c       7.422798042285717
+_cell_angle_alpha    105.14368309892197
+_cell_angle_beta     105.14706700777022
+_cell_angle_gamma    89.99999388394508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4073669244549942  0.31135415906624436  0.7750539828293248  1.0000
+  Sm  Sm2       1.0  0.16383306294337252  0.06757031497980302  0.28697181494906066  1.0000
+  Ni  Ni1       1.0  0.7894524179891412  0.6933048659848373  0.5390980839293303  1.0000
+  S   S1        1.0  0.9536777815112458  0.8576361194697373  0.8675305060681391  1.0000
+  Cl  Cl1       1.0  0.6183884479718916  0.5220311522845857  0.19593355444715754  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SmSiGaIr2GaSmGaIr2
+_chemical_formula_sum              "Sm2 Si1 Ga3 Ir4"
+_cell_length_a       4.262976743432224
+_cell_length_b       4.263228677062358
+_cell_length_c       9.945708274841309
+_cell_angle_alpha    90.04324443383943
+_cell_angle_beta     90.04850367721907
+_cell_angle_gamma    90.05792250841826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4367715120315552  0.7747870087623596  0.5923632979393005  1.0000
+  Si  Si1       1.0  0.9371222257614136  0.7751492857933046  0.33895838260650635  1.0000
+  Ga  Ga1       1.0  0.4369869530200958  0.7750213146209717  0.9684141278266907  1.0000
+  Ir  Ir1       1.0  0.4371430277824402  0.27491965889930725  0.8390570878982544  1.0000
+  Ir  Ir2       1.0  0.9371590614318848  0.27542877197265625  0.45940661430358887  1.0000
+  Ga  Ga2       1.0  0.4371741712093353  0.27520689368247986  0.3385496139526367  1.0000
+  Sm  Sm2       1.0  0.9374953508377075  0.27510789036750793  0.08525259792804718  1.0000
+  Ga  Ga3       1.0  0.9368176460266113  0.27516153454780584  0.7092694044113159  1.0000
+  Ir  Ir3       1.0  0.9370819330215454  0.7751110792160034  0.8389756679534912  1.0000
+  Ir  Ir4       1.0  0.4373399615287781  0.7748430371284485  0.21812014281749725  1.0000

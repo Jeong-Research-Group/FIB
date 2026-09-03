@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2FeNi
+_chemical_formula_sum              "Sc2 Fe1 Ni1"
+_cell_length_a       3.1637808866908324
+_cell_length_b       4.408769283963461
+_cell_length_c       4.408764783559851
+_cell_angle_alpha    89.94106159584781
+_cell_angle_beta     89.99924978573938
+_cell_angle_gamma    89.9988500213063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8793144304782426  0.9893598777016586  0.5997375552098262  1.0000
+  Sc  Sc2       1.0  0.8794839566928329  0.48956507436383095  0.09975562690674901  1.0000
+  Fe  Fe1       1.0  0.3794832116245892  0.9897876831578871  0.09970460212812753  1.0000
+  Ni  Ni1       1.0  0.3794453602090196  0.48934903007166264  0.5997076182108759  1.0000

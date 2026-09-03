@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiP4Rh3
+_chemical_formula_sum              "Ni1 P4 Rh3"
+_cell_length_a       2.96747917427859
+_cell_length_b       4.959292235450899
+_cell_length_c       7.351464526999747
+_cell_angle_alpha    90.94988318122269
+_cell_angle_beta     90.00022146699837
+_cell_angle_gamma    89.99899582604303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8708078284803209  0.5869873722202891  0.5139589760718298  1.0000
+  P   P1        1.0  0.8709193818357852  0.08716420711116257  0.013424393735883404  1.0000
+  P   P2        1.0  0.8709047408349704  0.08623057760649737  0.513802586397424  1.0000
+  P   P3        1.0  0.3707342023788531  0.7183081864738127  0.7535878115839502  1.0000
+  P   P4        1.0  0.3709066047904008  0.45566409710897887  0.27414218379431077  1.0000
+  Rh  Rh1       1.0  0.8708879161862592  0.5879270203827212  0.013421142143568971  1.0000
+  Rh  Rh2       1.0  0.37087316339929344  0.2187142845526385  0.7649549656835766  1.0000
+  Rh  Rh3       1.0  0.3708719330517196  0.9557270458704501  0.2620322494535352  1.0000

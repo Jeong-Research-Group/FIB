@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2FeRhO4
+_chemical_formula_sum              "Li2 Fe1 Rh1 O4"
+_cell_length_a       3.052018023219679
+_cell_length_b       5.160062094682353
+_cell_length_c       5.144880856482087
+_cell_angle_alpha    108.9523229946025
+_cell_angle_beta     89.96040138983308
+_cell_angle_gamma    89.96830526320005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5589923682083988  0.5463077306058396  0.5130527925871747  1.0000
+  Li  Li2       1.0  0.05861093865129289  0.04597932477246391  0.5124099706394561  1.0000
+  Fe  Fe1       1.0  0.05870136348606722  0.5456487536582252  0.012669994156555937  1.0000
+  Rh  Rh1       1.0  0.558685606408996  0.04567393664469306  0.012632429926157466  1.0000
+  O   O1        1.0  0.5590650764929975  0.31178861412227843  0.7766628694192006  1.0000
+  O   O2        1.0  0.05815898569950638  0.2871565605311495  0.2408872803719453  1.0000
+  O   O3        1.0  0.059171438104184626  0.8040959801031461  0.7843248730931229  1.0000
+  O   O4        1.0  0.5584462589598281  0.7795564627384334  0.24859068780419194  1.0000

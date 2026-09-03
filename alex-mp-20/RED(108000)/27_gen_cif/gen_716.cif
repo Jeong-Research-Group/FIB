@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgSnHo2SnY
+_chemical_formula_sum              "Mg1 Sn2 Ho2 Y1"
+_cell_length_a       4.30787259612661
+_cell_length_b       4.905120580823084
+_cell_length_c       7.903473854064941
+_cell_angle_alpha    108.00060234430089
+_cell_angle_beta     89.94863264874998
+_cell_angle_gamma    90.00375910742332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.43996304273605347  0.9196605086326599  0.34421172738075256  1.0000
+  Sn  Sn1       1.0  0.44011229276657104  0.5744578242301941  0.6533392071723938  1.0000
+  Ho  Ho1       1.0  0.9399580359458923  0.09162770211696625  0.6874850988388062  1.0000
+  Ho  Ho2       1.0  0.9395406246185303  0.7480726838111877  0.0011089378967881203  1.0000
+  Sn  Sn2       1.0  0.43996405601501465  0.2649347484111786  0.0351102240383625  1.0000
+  Y   Y1        1.0  0.9400448799133301  0.4199205935001374  0.34421706199645996  1.0000

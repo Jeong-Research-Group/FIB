@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2CdCo
+_chemical_formula_sum              "Lu2 Cd1 Co1"
+_cell_length_a       3.5003798212139623
+_cell_length_b       4.907701510707977
+_cell_length_c       4.9063639640808105
+_cell_angle_alpha    90.00496122206405
+_cell_angle_beta     89.96285310509977
+_cell_angle_gamma    89.96551688301152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.9869617819786072  0.49109727144241333  0.471434623003006  1.0000
+  Lu  Lu2       1.0  0.9874553084373474  0.991897463798523  0.9714135527610779  1.0000
+  Cd  Cd1       1.0  0.4871256649494171  0.9912170171737671  0.4714778661727905  1.0000
+  Co  Co1       1.0  0.4874346852302551  0.4917269945144654  0.9712302684783936  1.0000

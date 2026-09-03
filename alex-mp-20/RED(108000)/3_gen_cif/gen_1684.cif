@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeSn2GeZn2
+_chemical_formula_sum              "Ge2 Sn2 Zn2"
+_cell_length_a       3.7837661639213787
+_cell_length_b       3.7838013110391318
+_cell_length_c       10.84571647644043
+_cell_angle_alpha    89.67585538760677
+_cell_angle_beta     89.63356971339891
+_cell_angle_gamma    59.79074141838566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.05508863180875781  0.5266557335853577  0.8358217477798462  1.0000
+  Sn  Sn1       1.0  0.7222719192504883  0.1930801123380661  0.15700215101242065  1.0000
+  Sn  Sn2       1.0  0.3884425461292267  0.8588148951530457  0.5136643052101135  1.0000
+  Ge  Ge2       1.0  0.055813789367675753  0.5260160565376282  0.33678507804870605  1.0000
+  Zn  Zn1       1.0  0.387610286474228  0.8590427041053771  0.9763798117637634  1.0000
+  Zn  Zn2       1.0  0.7223077416419983  0.19325858354568481  0.694280207157135  1.0000

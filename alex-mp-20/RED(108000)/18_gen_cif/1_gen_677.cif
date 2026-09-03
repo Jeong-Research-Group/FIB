@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2NdMgTl2
+_chemical_formula_sum              "Tb2 Nd1 Mg1 Tl2"
+_cell_length_a       5.193325197972283
+_cell_length_b       5.194546754023473
+_cell_length_c       7.360019397626715
+_cell_angle_alpha    90.0091278855288
+_cell_angle_beta     90.01393981164927
+_cell_angle_gamma    120.00048930664953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6470875295160438  0.7601144757195493  0.14536029640330622  1.0000
+  Tb  Tb2       1.0  0.9801720865108849  0.4265808050206231  0.3793388526650397  1.0000
+  Nd  Nd1       1.0  0.9802403673606795  0.4267072146313551  0.8601559975561336  1.0000
+  Mg  Mg1       1.0  0.647102613894469  0.7599701205924227  0.6194270334271968  1.0000
+  Tl  Tl1       1.0  0.31365798335106077  0.09326153466377979  0.5757281264614642  1.0000
+  Tl  Tl2       1.0  0.3136090054006555  0.09339202501120117  0.08906417457305872  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       LuAl
+_chemical_formula_sum              "Lu1 Al1"
+_cell_length_a       3.510586003566636
+_cell_length_b       3.5177859937335048
+_cell_length_c       3.51989483833313
+_cell_angle_alpha    90.24947516062396
+_cell_angle_beta     90.08938235959245
+_cell_angle_gamma    90.25381234635594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.5448309183120728  0.3939548134803772  0.2834062874317169  1.0000
+  Al  Al1       1.0  0.043868813663721085  0.8963856101036072  0.7818004488945007  1.0000

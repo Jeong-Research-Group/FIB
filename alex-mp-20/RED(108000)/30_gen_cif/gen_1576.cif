@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuNiYNi3
+_chemical_formula_sum              "Cu1 Ni4 Y1"
+_cell_length_a       4.875500013940791
+_cell_length_b       4.877678471585861
+_cell_length_c       4.87652063369751
+_cell_angle_alpha    60.05614033664163
+_cell_angle_beta     59.99348587446309
+_cell_angle_gamma    60.05870828087097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.06272705644369125  0.42651793360710144  0.05027910694479942  1.0000
+  Ni  Ni1       1.0  0.4369089603424072  0.8001111149787902  0.42491647601127625  1.0000
+  Y   Y1        1.0  0.8123670220375061  0.176096573472023  0.8005388975143434  1.0000
+  Ni  Ni2       1.0  0.43630272150039673  0.800341010093689  0.9279959201812744  1.0000
+  Ni  Ni3       1.0  0.9404495954513549  0.8000415563583374  0.42441385984420776  1.0000
+  Ni  Ni4       1.0  0.43655300140380865  0.3045203983783722  0.42469221353530884  1.0000

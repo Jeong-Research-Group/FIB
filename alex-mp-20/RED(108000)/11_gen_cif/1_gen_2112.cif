@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2GaSb
+_chemical_formula_sum              "Li2 Ga1 Sb1"
+_cell_length_a       4.350929534640944
+_cell_length_b       4.117043425638666
+_cell_length_c       4.351620408198277
+_cell_angle_alpha    90.00634567323837
+_cell_angle_beta     89.99844813671076
+_cell_angle_gamma    89.99804228566553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.038941617771548136  0.34367614783173445  0.25374363356450474  1.0000
+  Li  Li2       1.0  0.5390237512699341  0.34369158318117804  0.7531270990624842  1.0000
+  Ga  Ga1       1.0  0.5385167420291052  0.8430187004818416  0.2530942514106674  1.0000
+  Sb  Sb1       1.0  0.03922626209835352  0.8434879931142593  0.7536074100282468  1.0000

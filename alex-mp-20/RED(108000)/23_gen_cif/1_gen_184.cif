@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2Hg2Au2
+_chemical_formula_sum              "Ga2 Hg2 Au2"
+_cell_length_a       4.2258547642444375
+_cell_length_b       6.341684855994487
+_cell_length_c       5.601461558673377
+_cell_angle_alpha    89.4032279752066
+_cell_angle_beta     88.4477798148728
+_cell_angle_gamma    70.59888035967275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.45709037152809495  0.9337538527917237  0.02764663491555146  1.0000
+  Ga  Ga2       1.0  0.6020455589454785  0.646934401270101  0.531475651621769  1.0000
+  Hg  Hg1       1.0  0.028354742045732226  0.29055912130675676  0.7795101238249083  1.0000
+  Hg  Hg2       1.0  0.5257252189411148  0.2916722812262722  0.2778187650662784  1.0000
+  Au  Au1       1.0  0.028770634126420384  0.7915055804039951  0.7793760642888639  1.0000
+  Au  Au2       1.0  0.02983757119544827  0.7915214102866323  0.27967870126834377  1.0000

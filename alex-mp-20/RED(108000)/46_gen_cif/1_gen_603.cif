@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca3Cd2GaPb2
+_chemical_formula_sum              "Ca3 Cd2 Ga1 Pb2"
+_cell_length_a       5.225918896948024
+_cell_length_b       5.226072072220413
+_cell_length_c       9.833204213074152
+_cell_angle_alpha    74.58445985301051
+_cell_angle_beta     74.58506272603871
+_cell_angle_gamma    60.00182929497857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8764940594986403  0.09685085212666589  0.5281611067826346  1.0000
+  Ca  Ca2       1.0  0.7448825923336106  0.965468824419326  0.9227478309610272  1.0000
+  Ca  Ca3       1.0  0.6134106492752432  0.8336108628557555  0.3175299665573622  1.0000
+  Cd  Cd1       1.0  0.34756875402016707  0.5679399097532928  0.1146539752474853  1.0000
+  Cd  Cd2       1.0  0.14229827788801386  0.3629447346037732  0.7305474592115032  1.0000
+  Ga  Ga1       1.0  0.24507213756839508  0.46518837196675605  0.4225130643947177  1.0000
+  Pb  Pb1       1.0  0.00985027126498157  0.23019983760959184  0.1277905550793504  1.0000
+  Pb  Pb2       1.0  0.47976082832064115  0.7003711921652206  0.7182840876360493  1.0000

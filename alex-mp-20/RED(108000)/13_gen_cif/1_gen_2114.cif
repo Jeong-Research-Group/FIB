@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2Y2SiAsSe2
+_chemical_formula_sum              "Ce2 Y2 Si1 As1 Se2"
+_cell_length_a       4.162347935056253
+_cell_length_b       7.234735507378869
+_cell_length_c       7.218938703775795
+_cell_angle_alpha    109.38806747790746
+_cell_angle_beta     89.99834134827731
+_cell_angle_gamma    90.00067389513788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.005193243437203037  0.6341281172547221  0.426051920920424  1.0000
+  Ce  Ce2       1.0  0.5052845733083681  0.6294250652520423  0.9097347974835125  1.0000
+  Y   Y1        1.0  0.5055195691181931  0.1414955739559313  0.4309104920546461  1.0000
+  Y   Y2        1.0  0.005253957777230781  0.13377432076092194  0.9061492820211547  1.0000
+  Si  Si1       1.0  0.005446754862604248  0.38231451315671966  0.6681872187703464  1.0000
+  As  As1       1.0  0.5051442242318692  0.8889071180428211  0.669903777120363  1.0000
+  Se  Se1       1.0  0.005204961844360305  0.8937217178791552  0.17061654927911102  1.0000
+  Se  Se2       1.0  0.5051575346478285  0.3752471595583807  0.16512690264196342  1.0000

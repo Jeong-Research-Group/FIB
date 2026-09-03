@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3Al3Pd2
+_chemical_formula_sum              "Li3 Al3 Pd2"
+_cell_length_a       4.304591309151927
+_cell_length_b       5.260166452413429
+_cell_length_c       5.260011014060714
+_cell_angle_alpha    103.52699641689729
+_cell_angle_beta     90.00243510201571
+_cell_angle_gamma    90.00107537241001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.13905445230235708  0.726973537905673  0.03828644319929952  1.0000
+  Li  Li2       1.0  0.13901927417392027  0.22684933233825363  0.03842853320297076  1.0000
+  Li  Li3       1.0  0.13908383619190576  0.7265677367736206  0.5382268064302634  1.0000
+  Al  Al1       1.0  0.1389947655343261  0.2265701739005827  0.5384133868770334  1.0000
+  Al  Al2       1.0  0.6390654101318222  0.9670371337255315  0.7978463675899895  1.0000
+  Al  Al3       1.0  0.6390337386148554  0.48611506857528686  0.2791708112769117  1.0000
+  Pd  Pd1       1.0  0.638983572595084  0.9899672521438361  0.30176638918905463  1.0000
+  Pd  Pd2       1.0  0.6390342200778379  0.4631749096444975  0.7752809300845316  1.0000

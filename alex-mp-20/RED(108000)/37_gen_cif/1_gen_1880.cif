@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cr2P3W
+_chemical_formula_sum              "Cr2 P3 W1"
+_cell_length_a       2.9163670271725817
+_cell_length_b       4.04250819881015
+_cell_length_c       6.866715931408952
+_cell_angle_alpha    98.31038786133288
+_cell_angle_beta     102.26342410755157
+_cell_angle_gamma    90.00075977802531
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.9266863499136283  0.6150078780906381  0.90909186220422  1.0000
+  Cr  Cr2       1.0  0.25572913626765237  0.7691333916580051  0.5670414891715201  1.0000
+  P   P1        1.0  0.4142844546917197  0.10913099826844518  0.884340910075175  1.0000
+  P   P2        1.0  0.09144443488035257  0.9281166974341266  0.23838177040887792  1.0000
+  P   P3        1.0  0.7687892423736516  0.2919409018484319  0.593326630247061  1.0000
+  W   W1        1.0  0.5916493112398161  0.43696153967846035  0.2387899285046252  1.0000

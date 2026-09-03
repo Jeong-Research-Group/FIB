@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4Si2Pd2
+_chemical_formula_sum              "Li4 Si2 Pd2"
+_cell_length_a       4.195878351730183
+_cell_length_b       4.196562248409052
+_cell_length_c       5.94937612601101
+_cell_angle_alpha    89.99414942565116
+_cell_angle_beta     90.0013393808354
+_cell_angle_gamma    89.99999206245747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.03560317724006879  0.6380973185490385  0.4066970020749399  1.0000
+  Li  Li2       1.0  0.5363479089487752  0.13848910241293463  0.90675901424736  1.0000
+  Li  Li3       1.0  0.03558107740164143  0.13859863348656024  0.15587316857689082  1.0000
+  Li  Li4       1.0  0.5353524606446819  0.6377557103908953  0.6570066136776535  1.0000
+  Si  Si1       1.0  0.5367235017357357  0.6374294478025956  0.1559896029891752  1.0000
+  Si  Si2       1.0  0.03656298160507792  0.13825840518308288  0.6565752469395942  1.0000
+  Pd  Pd1       1.0  0.03549678368948325  0.6384778028729837  0.9069742900716435  1.0000
+  Pd  Pd2       1.0  0.5356300686366485  0.13774279803630227  0.4063342192256858  1.0000

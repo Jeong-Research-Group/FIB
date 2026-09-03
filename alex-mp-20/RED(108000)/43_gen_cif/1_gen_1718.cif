@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Be3Co
+_chemical_formula_sum              "Be3 Co1"
+_cell_length_a       3.2061818089828735
+_cell_length_b       3.229041291256308
+_cell_length_c       3.22903236821739
+_cell_angle_alpha    89.99804541711379
+_cell_angle_beta     89.99865132843208
+_cell_angle_gamma    89.99757996489373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.2176861550425245  0.6199896153745419  0.2528160857758839  1.0000
+  Be  Be2       1.0  0.21756228822820958  0.11973082922258106  0.752716087069998  1.0000
+  Be  Be3       1.0  0.7176239581098901  0.12002137921829897  0.25274586617577416  1.0000
+  Co  Co1       1.0  0.7176542349770895  0.6198395494855675  0.7527366309527103  1.0000

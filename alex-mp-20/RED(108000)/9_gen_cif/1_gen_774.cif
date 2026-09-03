@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tl2CdIn
+_chemical_formula_sum              "Tl2 Cd1 In1"
+_cell_length_a       4.262756740255215
+_cell_length_b       5.261470676393049
+_cell_length_c       5.261172566878603
+_cell_angle_alpha    89.99930548104511
+_cell_angle_beta     90.00083351893748
+_cell_angle_gamma    90.04216050540194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.5465512851915583  0.09634379836400507  0.48487319812833485  1.0000
+  Tl  Tl2       1.0  0.5466040845414105  0.5964838164226548  0.9857299335281917  1.0000
+  Cd  Cd1       1.0  0.04681086556962399  0.5964861136977029  0.4855380227425984  1.0000
+  In  In1       1.0  0.046756987152148766  0.09608558953529028  0.9852639335157171  1.0000

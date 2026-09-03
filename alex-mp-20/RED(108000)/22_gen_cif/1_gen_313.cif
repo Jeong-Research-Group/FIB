@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaCoGe2Rh
+_chemical_formula_sum              "Ca1 Co1 Ge2 Rh1"
+_cell_length_a       4.0976400388570156
+_cell_length_b       4.098639884046956
+_cell_length_c       5.960297377853288
+_cell_angle_alpha    110.0797539598361
+_cell_angle_beta     110.06606602556536
+_cell_angle_gamma    89.999377367047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.47229865766302925  0.8564872736865762  0.7079000118004034  1.0000
+  Co  Co1       1.0  0.2226178696906407  0.10613692335713293  0.2080620012709167  1.0000
+  Ge  Ge1       1.0  0.8445047564379986  0.22766084360081607  0.4523262977659036  1.0000
+  Ge  Ge2       1.0  0.10112446344752048  0.48443920030235943  0.9638699122982896  1.0000
+  Rh  Rh1       1.0  0.7228277725013385  0.6059381770068893  0.20825774796175997  1.0000

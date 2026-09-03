@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NdEu2GaO
+_chemical_formula_sum              "Nd1 Eu2 Ga1 O1"
+_cell_length_a       4.980087053500467
+_cell_length_b       4.980644405709059
+_cell_length_c       4.922003970532091
+_cell_angle_alpha    90.03181696948106
+_cell_angle_beta     90.0275749675665
+_cell_angle_gamma    90.02410734828315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.6032198322285418  0.06945216851235256  0.38982142207503334  1.0000
+  Eu  Eu1       1.0  0.6032415526855119  0.5697411621296177  0.8894354169192721  1.0000
+  Eu  Eu2       1.0  0.10344376587237311  0.06976061165729742  0.8894980252919528  1.0000
+  Ga  Ga1       1.0  0.10312386550612783  0.5693627457306238  0.39002792467010844  1.0000
+  O   O1        1.0  0.6035692819432947  0.06990885342091992  0.889892008925241  1.0000

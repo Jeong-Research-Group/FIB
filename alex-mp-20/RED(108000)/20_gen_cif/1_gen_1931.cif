@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaNd2GeC
+_chemical_formula_sum              "La1 Nd2 Ge1 C1"
+_cell_length_a       5.090854403730284
+_cell_length_b       5.061646876830421
+_cell_length_c       5.061598541795716
+_cell_angle_alpha    90.01728985886088
+_cell_angle_beta     90.02057412019462
+_cell_angle_gamma    90.01406170964195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4904742045218384  0.6818240820504342  0.46362797958779006  1.0000
+  Nd  Nd1       1.0  0.990423411365739  0.6815271586229593  0.963512919369367  1.0000
+  Nd  Nd2       1.0  0.9904406614739444  0.1813884639132979  0.46359823386909627  1.0000
+  Ge  Ge1       1.0  0.4904843159176214  0.18159970395515215  0.9634972732883954  1.0000
+  C   C1        1.0  0.9905106793202423  0.6817761877296312  0.46339978585177344  1.0000

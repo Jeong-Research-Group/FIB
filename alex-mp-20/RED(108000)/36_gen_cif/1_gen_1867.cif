@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Nb2Fe2
+_chemical_formula_sum              "Sm2 Nb2 Fe2"
+_cell_length_a       4.392310785568883
+_cell_length_b       4.393399128836592
+_cell_length_c       6.403442646792968
+_cell_angle_alpha    89.9807460647604
+_cell_angle_beta     89.99105406150866
+_cell_angle_gamma    89.99975832709475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.8861281529957988  0.7561592319456714  0.8950089497372679  1.0000
+  Sm  Sm2       1.0  0.385833454707173  0.25601183834896557  0.6425832549344298  1.0000
+  Nb  Nb1       1.0  0.38601839299684754  0.7560591248367772  0.2689199614172953  1.0000
+  Nb  Nb2       1.0  0.8859235670890886  0.25620314781734604  0.2685930795170604  1.0000
+  Fe  Fe1       1.0  0.38612662261679037  0.25646277759473535  0.08400852639908693  1.0000
+  Fe  Fe2       1.0  0.885644469746781  0.7557576367540251  0.4535459385460977  1.0000

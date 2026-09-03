@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiInLi2InGa
+_chemical_formula_sum              "Li3 In2 Ga1"
+_cell_length_a       3.346302063121322
+_cell_length_b       3.348405367155115
+_cell_length_c       9.842384338378906
+_cell_angle_alpha    89.62361809891516
+_cell_angle_beta     89.82952099400454
+_cell_angle_gamma    89.90498091285727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6758028864860535  0.6991778016090393  0.056289784610271454  1.0000
+  In  In1       1.0  0.1760655641555786  0.19978132843971252  0.8832207918167114  1.0000
+  Li  Li2       1.0  0.6759056448936462  0.6991763710975647  0.7002751231193542  1.0000
+  Li  Li3       1.0  0.6752350926399231  0.699099600315094  0.3468765318393707  1.0000
+  In  In2       1.0  0.1757417917251587  0.1987445205450058  0.5192854404449463  1.0000
+  Ga  Ga1       1.0  0.1756613701581955  0.19930450618267057  0.2016453891992569  1.0000

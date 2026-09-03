@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSn2Au2
+_chemical_formula_sum              "Na1 Sn2 Au2"
+_cell_length_a       5.060024109003369
+_cell_length_b       5.009396328973487
+_cell_length_c       5.567930015250001
+_cell_angle_alpha    89.99696235742806
+_cell_angle_beta     77.55431878802592
+_cell_angle_gamma    60.329818421037395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5055886406716285  0.41503041857403833  0.9921215346502494  1.0000
+  Sn  Sn1       1.0  0.9393432728643999  0.6980585969152103  0.7158164104884138  1.0000
+  Sn  Sn2       1.0  0.07180873173378485  0.13180086441913028  0.26847840336459744  1.0000
+  Au  Au1       1.0  0.2648204953917527  0.035378449092778284  0.7292971778501666  1.0000
+  Au  Au2       1.0  0.7462457518885994  0.7944930134180195  0.2550914716175743  1.0000

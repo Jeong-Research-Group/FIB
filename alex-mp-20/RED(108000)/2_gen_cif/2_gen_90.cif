@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2CdIn3
+_chemical_formula_sum              "Ti2 Cd1 In3"
+_cell_length_a       3.09691822569434
+_cell_length_b       4.9810010769090844
+_cell_length_c       8.196956025665095
+_cell_angle_alpha    90.03850692116553
+_cell_angle_beta     90.00223055564159
+_cell_angle_gamma    89.9997802259648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.49492519535158436  0.35668113145960295  0.6875244881378306  1.0000
+  Ti  Ti2       1.0  0.49510171241533035  0.8565011092814119  0.14822928246515238  1.0000
+  Cd  Cd1       1.0  0.9950186489638568  0.8565708469447904  0.49143754821778246  1.0000
+  In  In1       1.0  0.9951933186835041  0.35659536951105864  0.006256955391033265  1.0000
+  In  In2       1.0  0.9951557999172876  0.35642508153619445  0.34951189825200324  1.0000
+  In  In3       1.0  0.9951221027643796  0.8565263328430022  0.8278516783216908  1.0000

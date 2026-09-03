@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaCa3C
+_chemical_formula_sum              "Ba1 Ca3 C1"
+_cell_length_a       5.4589162848832755
+_cell_length_b       5.458710235867522
+_cell_length_c       5.460241897968481
+_cell_angle_alpha    90.00271263531255
+_cell_angle_beta     90.00343202167073
+_cell_angle_gamma    90.00381714126756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9137545200790328  0.7794359732416354  0.5783842601102326  1.0000
+  Ca  Ca1       1.0  0.9140909804214816  0.2792551525353428  0.07824940080455492  1.0000
+  Ca  Ca2       1.0  0.41385615782349233  0.2790112979208525  0.5781297483417713  1.0000
+  Ca  Ca3       1.0  0.41390993982782054  0.7791458019573441  0.07829371207108148  1.0000
+  C   C1        1.0  0.41436675724215966  0.27900669419276974  0.0784439861953657  1.0000

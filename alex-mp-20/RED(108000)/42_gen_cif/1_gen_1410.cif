@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2Ge2Pt2
+_chemical_formula_sum              "Rb2 Ge2 Pt2"
+_cell_length_a       4.388231852220973
+_cell_length_b       4.410353981826001
+_cell_length_c       10.982819680978524
+_cell_angle_alpha    90.02005879264134
+_cell_angle_beta     89.98217165845246
+_cell_angle_gamma    89.97163058898477
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.03409948985702081  0.03172445396146747  0.21568718570300124  1.0000
+  Rb  Rb2       1.0  0.5342193365069456  0.5325331708766207  0.7926602771701396  1.0000
+  Ge  Ge1       1.0  0.5339944731249816  0.5318584299879064  0.39165498937619386  1.0000
+  Ge  Ge2       1.0  0.03427687386441172  0.03232624999549841  0.6169129260814139  1.0000
+  Pt  Pt1       1.0  0.5343635726887149  0.03195494593767474  0.5031346856840535  1.0000
+  Pt  Pt2       1.0  0.033909992696070965  0.5322321470253961  0.5055095246964386  1.0000

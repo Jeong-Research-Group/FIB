@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Er2Ni2Ge2H
+_chemical_formula_sum              "Er2 Ni2 Ge2 H1"
+_cell_length_a       4.097084989918454
+_cell_length_b       4.09735924562882
+_cell_length_c       7.655064242609492
+_cell_angle_alpha    90.00395162014995
+_cell_angle_beta     90.00213027311727
+_cell_angle_gamma    120.00510831832347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.997347427746256  0.9799520469910452  0.026837790251798634  1.0000
+  Er  Er2       1.0  0.9973596208436685  0.9800343056892409  0.5320663847182622  1.0000
+  Ni  Ni1       1.0  0.6639319633090877  0.3133724032174673  0.7539988991520116  1.0000
+  Ni  Ni2       1.0  0.3308278973070677  0.6466756841523096  0.26749782762753616  1.0000
+  Ge  Ge1       1.0  0.6641578793631392  0.31330744343206696  0.30304115689581107  1.0000
+  Ge  Ge2       1.0  0.33062759823557514  0.6467013292082517  0.7769258164918897  1.0000
+  H   H1        1.0  0.330488332510942  0.6465468931580023  0.055931791055837975  1.0000

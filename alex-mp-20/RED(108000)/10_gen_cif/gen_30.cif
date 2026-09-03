@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnNiIr3MnIr2
+_chemical_formula_sum              "Mn2 Ni1 Ir5"
+_cell_length_a       3.7954324393677226
+_cell_length_b       3.8006112536371073
+_cell_length_c       7.4336838722229
+_cell_angle_alpha    90.06725937703393
+_cell_angle_beta     90.01380631654422
+_cell_angle_gamma    90.02392182677379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7892868518829347  0.8532058000564574  0.8249118328094482  1.0000
+  Ni  Ni1       1.0  0.7893336415290834  0.8534902334213257  0.32469087839126587  1.0000
+  Ir  Ir1       1.0  0.789333999156952  0.3534342348575592  0.5838766694068909  1.0000
+  Ir  Ir2       1.0  0.28974273800849915  0.8531820774078369  0.06623681634664536  1.0000
+  Ir  Ir3       1.0  0.2893078029155731  0.35335555672645563  0.32487916946411133  1.0000
+  Mn  Mn2       1.0  0.28911080956459045  0.35312286019325256  0.8248749375343323  1.0000
+  Ir  Ir4       1.0  0.7891545891761781  0.3531336784362793  0.06580926477909088  1.0000
+  Ir  Ir5       1.0  0.2888697385787964  0.8533145189285278  0.5837053060531616  1.0000

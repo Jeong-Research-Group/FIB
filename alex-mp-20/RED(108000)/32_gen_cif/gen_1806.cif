@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ir2CaRhB
+_chemical_formula_sum              "Ir2 Ca1 Rh1 B1"
+_cell_length_a       4.247446379503421
+_cell_length_b       4.215457288697095
+_cell_length_c       4.219694137573242
+_cell_angle_alpha    89.97746287877926
+_cell_angle_beta     89.95564042351346
+_cell_angle_gamma    89.89505664588651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.10420390963554382  0.8878229260444641  0.8732613325119019  1.0000
+  Ir  Ir2       1.0  0.10411612689495087  0.38864773511886597  0.37388545274734497  1.0000
+  Ca  Ca1       1.0  0.6040782332420349  0.3877461552619934  0.8737328052520752  1.0000
+  Rh  Rh1       1.0  0.6020861864089966  0.8881323933601379  0.37384364008903503  1.0000
+  B   B1        1.0  0.101015105843544  0.8882309794425964  0.37337395548820496  1.0000

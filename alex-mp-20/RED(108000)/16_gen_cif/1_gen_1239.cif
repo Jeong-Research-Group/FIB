@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2AlIr2
+_chemical_formula_sum              "Y2 Al1 Ir2"
+_cell_length_a       4.044582091379401
+_cell_length_b       5.614645699658775
+_cell_length_c       5.613861573658455
+_cell_angle_alpha    101.16086051664976
+_cell_angle_beta     111.11458990329629
+_cell_angle_gamma    111.11659708791811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.885015434865151  0.07516133842181859  0.2997434308624976  1.0000
+  Y   Y2        1.0  0.8850479618820212  0.46988531862400135  0.9049434027769675  1.0000
+  Al  Al1       1.0  0.3850264107552737  0.7726360883574442  0.6022763107485192  1.0000
+  Ir  Ir1       1.0  0.6250481857734311  0.5126202276539594  0.3423986570684837  1.0000
+  Ir  Ir2       1.0  0.14496561211614448  0.03242494526198702  0.8623412415541981  1.0000

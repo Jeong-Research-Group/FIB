@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaLa3Fe
+_chemical_formula_sum              "Na1 La3 Fe1"
+_cell_length_a       5.486937435130717
+_cell_length_b       5.460791476183052
+_cell_length_c       5.484718025220157
+_cell_angle_alpha    90.00081669905255
+_cell_angle_beta     89.99844304932998
+_cell_angle_gamma    90.00105205349439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9965575025417795  0.37429527067492285  0.8215400409728265  1.0000
+  La  La1       1.0  0.49653172137372176  0.375947410079598  0.32125618412786966  1.0000
+  La  La2       1.0  0.49607384934043525  0.8727243820043021  0.8209595759732154  1.0000
+  La  La3       1.0  0.9961928452777853  0.8729834772037486  0.32138088837085077  1.0000
+  Fe  Fe1       1.0  0.49623843648828325  0.8613442890443336  0.3214215162695805  1.0000

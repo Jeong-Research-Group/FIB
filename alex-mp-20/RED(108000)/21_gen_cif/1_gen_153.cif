@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgNb2AlN
+_chemical_formula_sum              "Mg1 Nb2 Al1 N1"
+_cell_length_a       4.2936020034361535
+_cell_length_b       4.292251150102816
+_cell_length_c       4.223280788048523
+_cell_angle_alpha    90.00865370929313
+_cell_angle_beta     90.01143150357473
+_cell_angle_gamma    90.04594972425564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.48728021307986086  0.6479134799291256  0.3624015768121956  1.0000
+  Nb  Nb1       1.0  0.9871627843470332  0.6480704756014263  0.8628081619339375  1.0000
+  Nb  Nb2       1.0  0.487015451311779  0.1475417543143826  0.8629693798441898  1.0000
+  Al  Al1       1.0  0.9869349411204333  0.14811448342749803  0.362625948298109  1.0000
+  N   N1        1.0  0.9875213340287746  0.1480000399278586  0.8630375874631928  1.0000

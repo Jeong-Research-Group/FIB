@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Y2ZnAu2
+_chemical_formula_sum              "Li2 Y2 Zn1 Au2"
+_cell_length_a       4.558654793044417
+_cell_length_b       4.556721556043364
+_cell_length_c       8.359694306316403
+_cell_angle_alpha    105.80187162152161
+_cell_angle_beta     89.99599213376663
+_cell_angle_gamma    120.00544039749497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3625667396319657  0.7062563254760555  0.8314981161796311  1.0000
+  Li  Li2       1.0  0.8374545937532021  0.6558734160571743  0.2561992397091396  1.0000
+  Y   Y1        1.0  0.9595198805129574  0.9000785717663962  0.6221945233360873  1.0000
+  Y   Y2        1.0  0.10561738129607849  0.19176885114850584  0.05989016525868222  1.0000
+  Zn  Zn1       1.0  0.5359144758197989  0.05262365034275413  0.3508820749709372  1.0000
+  Au  Au1       1.0  0.7096064154654502  0.39923441470497845  0.8714821636138778  1.0000
+  Au  Au2       1.0  0.22820043983496474  0.437507449848545  0.4285622872019126  1.0000

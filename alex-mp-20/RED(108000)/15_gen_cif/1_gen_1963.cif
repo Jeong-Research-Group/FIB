@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnTe2Au2
+_chemical_formula_sum              "Sn1 Te2 Au2"
+_cell_length_a       4.47248457579875
+_cell_length_b       4.471954185726133
+_cell_length_c       8.85781521366586
+_cell_angle_alpha    89.86971779281221
+_cell_angle_beta     90.20271648774046
+_cell_angle_gamma    119.96969007383326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.7013067951958963  0.16887162759750146  0.22899352854078028  1.0000
+  Te  Te1       1.0  0.03631216825334686  0.8352438217532041  0.5164943773448845  1.0000
+  Te  Te2       1.0  0.3663614983766839  0.5025107557620997  0.9414885250544678  1.0000
+  Au  Au1       1.0  0.03348119577396399  0.8357836074999289  0.0387366078699859  1.0000
+  Au  Au2       1.0  0.36918757186322093  0.5019702253320375  0.4192391456479755  1.0000

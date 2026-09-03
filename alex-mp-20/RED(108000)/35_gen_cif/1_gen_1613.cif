@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti3CuPt2
+_chemical_formula_sum              "Ti3 Cu1 Pt2"
+_cell_length_a       2.8304092889807064
+_cell_length_b       2.830403525795906
+_cell_length_c       11.38342590355831
+_cell_angle_alpha    90.0189413950493
+_cell_angle_beta     89.99995544507104
+_cell_angle_gamma    90.00041496454125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5781032505079625  0.5780344110327506  0.4491024761648498  1.0000
+  Ti  Ti2       1.0  0.5773284072997382  0.579435058586159  0.10812271111274672  1.0000
+  Ti  Ti3       1.0  0.5780352198936755  0.5783682410422333  0.7899372919978807  1.0000
+  Cu  Cu1       1.0  0.07754134175362679  0.07918551257789967  0.9491588088487586  1.0000
+  Pt  Pt1       1.0  0.07841449667997284  0.07763504084322963  0.6184339920497502  1.0000
+  Pt  Pt2       1.0  0.07762484056382721  0.07884988022789956  0.2795917806401124  1.0000

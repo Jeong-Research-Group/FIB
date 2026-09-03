@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li3CdAsPd2
+_chemical_formula_sum              "Li3 Cd1 As1 Pd2"
+_cell_length_a       4.283724451167254
+_cell_length_b       4.093560814444063
+_cell_length_c       6.707944722427198
+_cell_angle_alpha    89.981921383024
+_cell_angle_beta     89.99682592880795
+_cell_angle_gamma    90.00745162140012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2595011838081553  0.3606383070320172  0.1482616311692681  1.0000
+  Li  Li2       1.0  0.7598618942289808  0.36131727170862915  0.8522226081381284  1.0000
+  Li  Li3       1.0  0.25959126914993824  0.361574913065982  0.5562890329704318  1.0000
+  Cd  Cd1       1.0  0.25993240185522015  0.861403060445863  0.8520282031780382  1.0000
+  As  As1       1.0  0.7595134735693303  0.3613780412248928  0.3521557269093074  1.0000
+  Pd  Pd1       1.0  0.7598319567650375  0.861347176104572  0.5713584714396343  1.0000
+  Pd  Pd2       1.0  0.7596500898775804  0.8613760243192249  0.13274399146356503  1.0000

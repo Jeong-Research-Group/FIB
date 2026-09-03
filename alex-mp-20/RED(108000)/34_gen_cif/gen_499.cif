@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PNi2PCs2
+_chemical_formula_sum              "P2 Ni2 Cs2"
+_cell_length_a       4.0087505871055775
+_cell_length_b       4.010556888250374
+_cell_length_c       11.478503227233887
+_cell_angle_alpha    89.76063170080953
+_cell_angle_beta     89.746459052254
+_cell_angle_gamma    89.9848463155384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.8550107479095459  0.24292396008968353  0.6399908661842346  1.0000
+  Ni  Ni1       1.0  0.8541382551193237  0.7418531775474548  0.7291427850723267  1.0000
+  Ni  Ni2       1.0  0.354079931974411  0.2421122044324875  0.7293246388435364  1.0000
+  P   P2        1.0  0.3527336120605469  0.7409795522689819  0.8185683488845825  1.0000
+  Cs  Cs1       1.0  0.8512430191040039  0.2378987967967987  0.998946785926819  1.0000
+  Cs  Cs2       1.0  0.3569374978542328  0.7447441220283508  0.460786908864975  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti3Fe2Ru
+_chemical_formula_sum              "Ti3 Fe2 Ru1"
+_cell_length_a       3.0043954736062446
+_cell_length_b       3.0044128880010628
+_cell_length_c       8.998817715013407
+_cell_angle_alpha    89.99975045912558
+_cell_angle_beta     90.0003373853837
+_cell_angle_gamma    90.00114862279871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5838348677100466  0.8839602163221327  0.9347693682978111  1.0000
+  Ti  Ti2       1.0  0.5837768536746979  0.8841086717049488  0.5866801660472585  1.0000
+  Ti  Ti3       1.0  0.583536164166483  0.8843610587776215  0.26067861027443345  1.0000
+  Fe  Fe1       1.0  0.08359636778314299  0.3842581516792081  0.0976855164626322  1.0000
+  Fe  Fe2       1.0  0.08385233646502187  0.3850096305867373  0.4240893471020284  1.0000
+  Ru  Ru1       1.0  0.08384269215717413  0.38405526195280504  0.760824522080904  1.0000

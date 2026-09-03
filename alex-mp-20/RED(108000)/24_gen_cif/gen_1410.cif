@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li4InSn2
+_chemical_formula_sum              "Li4 In1 Sn2"
+_cell_length_a       4.403884517480302
+_cell_length_b       5.137373993041943
+_cell_length_c       6.837042808532715
+_cell_angle_alpha    84.00285769882005
+_cell_angle_beta     90.63108464177851
+_cell_angle_gamma    115.71914033191224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6991332173347473  0.40785565972328186  0.13268619775772095  1.0000
+  Li  Li2       1.0  0.9653198719024659  0.93682461977005  0.29339510202407837  1.0000
+  Li  Li3       1.0  0.1215353235602379  0.25012895464897156  0.8608828783035278  1.0000
+  Li  Li4       1.0  0.5438295602798462  0.09410268068313599  0.565689206123352  1.0000
+  In  In1       1.0  0.833236575126648  0.6725434064865112  0.7126362919807434  1.0000
+  Sn  Sn1       1.0  0.24916775524616244  0.5047370195388794  0.41880932450294495  1.0000
+  Sn  Sn2       1.0  0.41655677556991577  0.8407438397407532  0.00668424926698207  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2HoCuP2
+_chemical_formula_sum              "Li2 Ho1 Cu1 P2"
+_cell_length_a       4.024847847947855
+_cell_length_b       4.024685231566046
+_cell_length_c       6.520846532388316
+_cell_angle_alpha    90.01834017877091
+_cell_angle_beta     89.97169233446121
+_cell_angle_gamma    119.97835488282873
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.11530862660288811  0.8773548578202951  0.708079583970353  1.0000
+  Li  Li2       1.0  0.7811626632054366  0.21045421875362536  0.5698638655911586  1.0000
+  Ho  Ho1       1.0  0.7813149460634924  0.21039027576266978  0.06636256905419587  1.0000
+  Cu  Cu1       1.0  0.4480815569640042  0.5439150704448577  0.41519631180876115  1.0000
+  P   P1        1.0  0.4482727469916808  0.5435202633461842  0.8094116105716544  1.0000
+  P   P2        1.0  0.11460969880355851  0.8773246896578626  0.3207668625897448  1.0000

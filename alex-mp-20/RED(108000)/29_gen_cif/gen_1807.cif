@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiPbLiInPb
+_chemical_formula_sum              "Li2 Pb2 In1"
+_cell_length_a       3.4717742933010607
+_cell_length_b       4.936965509388952
+_cell_length_c       7.508054733276367
+_cell_angle_alpha    89.78470812147333
+_cell_angle_beta     103.29093576876726
+_cell_angle_gamma    90.03104571570404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.797862708568573  0.25671783089637756  0.15427866578102115  1.0000
+  Pb  Pb1       1.0  0.3196175992488861  0.7564561367034912  0.19546408951282504  1.0000
+  Li  Li2       1.0  0.13110265135765076  0.25351399183273315  0.8204938769340516  1.0000
+  In  In1       1.0  0.46538281440734863  0.25526127219200134  0.48836070299148565  1.0000
+  Pb  Pb2       1.0  0.6139163374900818  0.7536485195159912  0.7897899746894838  1.0000

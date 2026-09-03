@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HoSc2SnC
+_chemical_formula_sum              "Ho1 Sc2 Sn1 C1"
+_cell_length_a       4.571382109832799
+_cell_length_b       4.571373136206943
+_cell_length_c       4.818189629909469
+_cell_angle_alpha    90.00080202101383
+_cell_angle_beta     89.99643079251965
+_cell_angle_gamma    89.99850640431438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9166171081392185  0.6085811197689285  0.1934401977200471  1.0000
+  Sc  Sc1       1.0  0.4170249664856189  0.6084040882471604  0.6934540667013984  1.0000
+  Sc  Sc2       1.0  0.9170846866083158  0.10837923260471818  0.6933486455189458  1.0000
+  Sn  Sn1       1.0  0.4165492481362458  0.10857949776386017  0.19358012700052857  1.0000
+  C   C1        1.0  0.9168443858414177  0.6086871133454306  0.6936956334347751  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2GaAuGaAu
+_chemical_formula_sum              "Sm2 Ga2 Au2"
+_cell_length_a       4.5614600334268145
+_cell_length_b       4.561923089004393
+_cell_length_c       7.30264139175415
+_cell_angle_alpha    89.99055635293257
+_cell_angle_beta     90.00468801434363
+_cell_angle_gamma    119.96966435928158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.9538072943687439  0.5581738948822021  0.7443843483924866  1.0000
+  Sm  Sm2       1.0  0.9537350535392761  0.5582219362258911  0.2441125214099884  1.0000
+  Ga  Ga1       1.0  0.28675055503845215  0.2242482602596283  0.4945499002933502  1.0000
+  Au  Au1       1.0  0.6204301118850708  0.8914043307304382  0.49497976899147034  1.0000
+  Ga  Ga2       1.0  0.6209937930107117  0.8921469449996948  0.9931250810623169  1.0000
+  Au  Au2       1.0  0.2871744930744171  0.22499951720237732  0.9943639636039734  1.0000

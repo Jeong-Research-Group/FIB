@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSr3Fe
+_chemical_formula_sum              "Na1 Sr3 Fe1"
+_cell_length_a       5.940041318070305
+_cell_length_b       5.94014613536467
+_cell_length_c       5.939823525608226
+_cell_angle_alpha    89.98714042137128
+_cell_angle_beta     89.98060330893682
+_cell_angle_gamma    89.99154496217844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4649041850639136  0.6305661881416236  0.98679816222756  1.0000
+  Sr  Sr1       1.0  0.9645836083874011  0.13054874687165505  0.9871257928331717  1.0000
+  Sr  Sr2       1.0  0.9653699286962089  0.6309000755059884  0.48670610377160284  1.0000
+  Sr  Sr3       1.0  0.46555308187629524  0.13174429673293037  0.48661884838812847  1.0000
+  Fe  Fe1       1.0  0.9653061967673535  0.13175052267703394  0.4868990485427405  1.0000

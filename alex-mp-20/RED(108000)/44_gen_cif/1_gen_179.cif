@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2GaPt2
+_chemical_formula_sum              "Sc2 Ga1 Pt2"
+_cell_length_a       4.301004978067013
+_cell_length_b       5.230826082442308
+_cell_length_c       5.234257469398818
+_cell_angle_alpha    95.69949701713496
+_cell_angle_beta     114.25549952043112
+_cell_angle_gamma    114.26405125876995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.12924560870501084  0.24816336622452942  0.2824737253021901  1.0000
+  Sc  Sc2       1.0  0.12963680613361994  0.6445347465108521  0.8873341580290179  1.0000
+  Ga  Ga1       1.0  0.6294240764790384  0.946383094033009  0.5847422546849145  1.0000
+  Pt  Pt1       1.0  0.3908324539130045  0.20807205863532338  0.8462751231293356  1.0000
+  Pt  Pt2       1.0  0.8676765816113079  0.6842112832966765  0.3233916647985767  1.0000

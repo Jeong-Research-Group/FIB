@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Cd3Ga
+_chemical_formula_sum              "Mg2 Cd3 Ga1"
+_cell_length_a       3.1556468934279778
+_cell_length_b       6.140594836629183
+_cell_length_c       7.326400279998779
+_cell_angle_alpha    108.8064695163233
+_cell_angle_beta     90.01386778823506
+_cell_angle_gamma    104.85793874872265
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6303816437721252  0.5926265120506287  0.31249722838401794  1.0000
+  Mg  Mg2       1.0  0.017322763800621036  0.36863070726394653  0.6034753322601318  1.0000
+  Cd  Cd1       1.0  0.2905216813087464  0.9147151112556459  0.6502728462219238  1.0000
+  Cd  Cd2       1.0  0.3509328365325928  0.03449209779500961  0.26203203201293945  1.0000
+  Cd  Cd3       1.0  0.9573149681091309  0.24604541063308716  0.9852407574653625  1.0000
+  Ga  Ga1       1.0  0.6756338477134705  0.6839320659637451  0.9312291741371155  1.0000

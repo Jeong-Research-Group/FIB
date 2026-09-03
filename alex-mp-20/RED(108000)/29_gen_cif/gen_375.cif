@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd2Ge2BiPd3
+_chemical_formula_sum              "Pd5 Ge2 Bi1"
+_cell_length_a       5.6992103555752065
+_cell_length_b       5.703478716419053
+_cell_length_c       5.701687812805176
+_cell_angle_alpha    97.42413785355212
+_cell_angle_beta     118.78095042131199
+_cell_angle_gamma    112.82204796688612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.12316496670246126  0.7818693518638611  0.8759811520576477  1.0000
+  Pd  Pd2       1.0  0.12418856471776957  0.28265213966369623  0.8757138848304749  1.0000
+  Ge  Ge1       1.0  0.12489971518516538  0.7826268672943115  0.37748271226882935  1.0000
+  Ge  Ge2       1.0  0.6233538985252379  0.7820227742195128  0.875995934009552  1.0000
+  Bi  Bi1       1.0  0.6241486668586731  0.28208816051483154  0.37674885988235474  1.0000
+  Pd  Pd3       1.0  0.625021755695343  0.781826376914978  0.37571272253990173  1.0000
+  Pd  Pd4       1.0  0.12410324066877365  0.2812270224094391  0.37536537647247314  1.0000
+  Pd  Pd5       1.0  0.6269321441650391  0.2852992117404938  0.878764271736145  1.0000

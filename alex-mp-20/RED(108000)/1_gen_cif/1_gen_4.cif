@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3PtAu2
+_chemical_formula_sum              "Na3 Pt1 Au2"
+_cell_length_a       4.6983075945086235
+_cell_length_b       5.7510644363804975
+_cell_length_c       5.553040476834087
+_cell_angle_alpha    97.87192629120011
+_cell_angle_beta     115.03264938949886
+_cell_angle_gamma    90.00721611166172
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5515725224531111  0.29380976354683397  0.3177740050157599  1.0000
+  Na  Na2       1.0  0.9676954216933557  0.79383766934188  0.15004874689068665  1.0000
+  Na  Na3       1.0  0.25524659545891987  0.5474235287133995  0.7251770821456445  1.0000
+  Pt  Pt1       1.0  0.6733583860734232  0.8204139662247866  0.5615370380368135  1.0000
+  Au  Au1       1.0  0.2505416017723209  0.03926987628418907  0.715813204654269  1.0000
+  Au  Au2       1.0  0.8481094899214192  0.273221436337255  0.9108456761419481  1.0000

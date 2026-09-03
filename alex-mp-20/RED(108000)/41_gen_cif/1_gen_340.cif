@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu3SiTeSe3
+_chemical_formula_sum              "Cu3 Si1 Te1 Se3"
+_cell_length_a       5.161557498521627
+_cell_length_b       5.161898886611641
+_cell_length_c       6.753341236513759
+_cell_angle_alpha    90.4372446827586
+_cell_angle_beta     89.31994166002872
+_cell_angle_gamma    89.03342169761684
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.1351676853542892  0.4768992164598256  0.9770702390143265  1.0000
+  Cu  Cu2       1.0  0.6230370097421432  0.47707503999275247  0.4976997266424688  1.0000
+  Cu  Cu3       1.0  0.6229153388991244  0.9617595320101051  0.9798566862218608  1.0000
+  Si  Si1       1.0  0.1396768037326048  0.9556897204176359  0.5008614120755327  1.0000
+  Te  Te1       1.0  0.8777481717764029  0.22130410774444514  0.23314656796166916  1.0000
+  Se  Se1       1.0  0.880579048725771  0.2179704988018543  0.7384661750675428  1.0000
+  Se  Se2       1.0  0.3797246820884647  0.7216031714374591  0.7413664766329371  1.0000
+  Se  Se3       1.0  0.37719347176255436  0.7184884020722294  0.2367108606908369  1.0000

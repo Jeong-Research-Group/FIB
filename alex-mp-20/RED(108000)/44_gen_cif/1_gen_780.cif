@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Dy2InGa
+_chemical_formula_sum              "Dy2 In1 Ga1"
+_cell_length_a       3.693550095873127
+_cell_length_b       5.193615628666171
+_cell_length_c       5.194357291321864
+_cell_angle_alpha    90.0033208317448
+_cell_angle_beta     89.99793149258987
+_cell_angle_gamma    89.97791847236353
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.9511949821591096  0.3699495503292475  0.14361840514638194  1.0000
+  Dy  Dy2       1.0  0.951126882833482  0.8698836716756789  0.6434833057725562  1.0000
+  In  In1       1.0  0.4511639031332012  0.3702925896209135  0.6435304766474691  1.0000
+  Ga  Ga1       1.0  0.45108889916421796  0.8696563820706726  0.14346398358727314  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2Al3Ga3
+_chemical_formula_sum              "Mn2 Al3 Ga3"
+_cell_length_a       3.7649096301746985
+_cell_length_b       3.766042816967597
+_cell_length_c       8.037539081040858
+_cell_angle_alpha    90.03716218368162
+_cell_angle_beta     90.00516461419576
+_cell_angle_gamma    90.01150804072302
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5447414596426323  0.21366915030848632  0.5317309050337075  1.0000
+  Mn  Mn2       1.0  0.04532183291667688  0.7131026856625075  0.034851901924288026  1.0000
+  Al  Al1       1.0  0.045708368736180345  0.21340690097551163  0.2832121633718953  1.0000
+  Al  Al2       1.0  0.545600488055338  0.7138465199567047  0.28358009373627674  1.0000
+  Al  Al3       1.0  0.5460397057439608  0.713297697724387  0.7828328372317658  1.0000
+  Ga  Ga1       1.0  0.045020033536957695  0.7136257299851007  0.530748838580221  1.0000
+  Ga  Ga2       1.0  0.045301871851459966  0.21409943665049785  0.7818576593405384  1.0000
+  Ga  Ga3       1.0  0.5453701460919773  0.21322244267196233  0.03500122442817121  1.0000

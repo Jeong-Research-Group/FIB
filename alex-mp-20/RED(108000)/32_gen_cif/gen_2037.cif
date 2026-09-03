@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zr4SiHSi
+_chemical_formula_sum              "Zr4 Si2 H1"
+_cell_length_a       5.433056898666738
+_cell_length_b       5.42785232450046
+_cell_length_c       5.430440902709961
+_cell_angle_alpha    119.47122501687002
+_cell_angle_beta     104.40560749420627
+_cell_angle_gamma    104.51144273133735
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8453412652015686  0.7482345700263977  0.4650545120239258  1.0000
+  Zr  Zr2       1.0  0.16867107152938843  0.23986239731311795  0.2815035283565521  1.0000
+  Zr  Zr3       1.0  0.16808928549289703  0.5652400255203247  0.9566417336463928  1.0000
+  Zr  Zr4       1.0  0.4920283555984497  0.07303294539451599  0.789600133895874  1.0000
+  Si  Si1       1.0  0.6684291362762451  0.15625205636024475  0.37235400080680847  1.0000
+  H   H1        1.0  0.16879838705062866  0.656607449054718  0.37321534752845764  1.0000
+  Si  Si2       1.0  0.6677867770195007  0.6568631529808044  0.8724164366722107  1.0000

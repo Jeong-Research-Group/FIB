@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeNi2RuNi2
+_chemical_formula_sum              "Fe1 Ni4 Ru1"
+_cell_length_a       4.634375227014767
+_cell_length_b       4.635854850773233
+_cell_length_c       4.6342082023620605
+_cell_angle_alpha    60.00669688329107
+_cell_angle_beta     59.95463053757894
+_cell_angle_gamma    60.01138986753927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9630882740020753  0.2685582637786865  0.6238598227500916  1.0000
+  Ni  Ni1       1.0  0.8381761908531188  0.6432043313980104  0.9985012412071228  1.0000
+  Ni  Ni2       1.0  0.33780825138092035  0.6433911919593812  0.4993012845516205  1.0000
+  Ru  Ru1       1.0  0.7131997346878052  0.01818143390119076  0.3739226162433624  1.0000
+  Ni  Ni3       1.0  0.33861285448074335  0.642643690109253  0.9987524747848511  1.0000
+  Ni  Ni4       1.0  0.33837562799453735  0.14335325360298157  0.998882532119751  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AgBeAu2Ag
+_chemical_formula_sum              "Ag2 Be1 Au2"
+_cell_length_a       2.8745482520203303
+_cell_length_b       4.356230858400504
+_cell_length_c       6.640026092529297
+_cell_angle_alpha    90.01359458157037
+_cell_angle_beta     90.01123133593606
+_cell_angle_gamma    90.00932571228768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7100468873977661  0.5802657008171082  0.9926328063011168  1.0000
+  Be  Be1       1.0  0.7107349634170532  0.07967375218868256  0.49275594949722284  1.0000
+  Au  Au1       1.0  0.21036344766616819  0.08036001026630402  0.7781351804733275  1.0000
+  Au  Au2       1.0  0.2101333141326904  0.08044986426830292  0.20745377242565152  1.0000
+  Ag  Ag2       1.0  0.21015155315399167  0.5803061127662659  0.4930110871791839  1.0000

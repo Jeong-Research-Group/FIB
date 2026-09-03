@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb2HgPd2
+_chemical_formula_sum              "Tb2 Hg1 Pd2"
+_cell_length_a       4.680096334708386
+_cell_length_b       5.532836854973016
+_cell_length_c       5.52993542147445
+_cell_angle_alpha    93.9311809175515
+_cell_angle_beta     64.96410459502259
+_cell_angle_gamma    64.97704203613617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.1076481795635868  0.8472954320075512  0.2772674685414664  1.0000
+  Tb  Tb2       1.0  0.10780531388654596  0.43439003018474726  0.6901328382095994  1.0000
+  Hg  Hg1       1.0  0.6076883731607813  0.1407551128451001  0.9837218846234921  1.0000
+  Pd  Pd1       1.0  0.3848090379549882  0.863999710776705  0.7062852785139813  1.0000
+  Pd  Pd2       1.0  0.8304307240699694  0.41802307502824204  0.26102488452023676  1.0000

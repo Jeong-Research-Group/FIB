@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2CaCdInSn2
+_chemical_formula_sum              "Li2 Ca1 Cd1 In1 Sn2"
+_cell_length_a       4.859582814476596
+_cell_length_b       4.85792484560248
+_cell_length_c       8.976397107753174
+_cell_angle_alpha    74.34021650504458
+_cell_angle_beta     74.31924627862404
+_cell_angle_gamma    59.96538320651181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8606371596614186  0.5380319030404744  0.2926043172697515  1.0000
+  Li  Li2       1.0  0.14576655286292192  0.8227233571217942  0.43775071208026767  1.0000
+  Ca  Ca1       1.0  0.010496833732928734  0.6873712212530266  0.8427225540284565  1.0000
+  Cd  Cd1       1.0  0.4444759241383322  0.12134251742171692  0.5411127440533666  1.0000
+  In  In1       1.0  0.26779254968786836  0.9452532138774157  0.07047270520496525  1.0000
+  Sn  Sn1       1.0  0.5658581490531737  0.24309981813304019  0.17657886181890298  1.0000
+  Sn  Sn2       1.0  0.7474035622966801  0.42417318687625466  0.6324426876455683  1.0000

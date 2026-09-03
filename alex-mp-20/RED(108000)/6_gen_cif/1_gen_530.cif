@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4SiAs2S
+_chemical_formula_sum              "Sm4 Si1 As2 S1"
+_cell_length_a       5.90202781782214
+_cell_length_b       5.912946644753148
+_cell_length_c       5.912925430466502
+_cell_angle_alpha    89.99836854438742
+_cell_angle_beta     89.99927830599492
+_cell_angle_gamma    89.99848624870044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.2314871862189969  0.6689368997423656  0.7565058587563463  1.0000
+  Sm  Sm2       1.0  0.7319709872136001  0.6688932604984643  0.2567025781222282  1.0000
+  Sm  Sm3       1.0  0.7313882708728384  0.1686570541489686  0.7565013347076459  1.0000
+  Sm  Sm4       1.0  0.23148726619537624  0.16862456430474873  0.2565218204508191  1.0000
+  Si  Si1       1.0  0.23171486083121998  0.16885317548763656  0.7566128895792137  1.0000
+  As  As1       1.0  0.7315180036353452  0.1688537549836865  0.2565523132288326  1.0000
+  As  As2       1.0  0.7314526209365886  0.6689298677943013  0.7566813291168878  1.0000
+  S   S1        1.0  0.23192239201433543  0.6685077192554596  0.2563143270148239  1.0000

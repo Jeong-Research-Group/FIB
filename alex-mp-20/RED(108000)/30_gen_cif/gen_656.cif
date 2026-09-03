@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgAgTi2Ag2
+_chemical_formula_sum              "Mg1 Ag3 Ti2"
+_cell_length_a       3.2284453585878508
+_cell_length_b       3.23192624436384
+_cell_length_c       10.067874908447266
+_cell_angle_alpha    90.27326471598931
+_cell_angle_beta     90.27439169403428
+_cell_angle_gamma    90.12797975351533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.4574309885501862  0.3853631019592285  0.8772214651107788  1.0000
+  Ag  Ag1       1.0  0.9575693011283876  0.8846525549888611  0.7138407230377197  1.0000
+  Ti  Ti1       1.0  0.4562163650989533  0.38524380326271057  0.21736465394496918  1.0000
+  Ti  Ti2       1.0  0.9569598436355592  0.8849282264709473  0.3784967064857483  1.0000
+  Ag  Ag2       1.0  0.45663699507713323  0.3875672221183777  0.5391332507133484  1.0000
+  Ag  Ag3       1.0  0.9559301733970643  0.8843613862991333  0.05207931250333786  1.0000

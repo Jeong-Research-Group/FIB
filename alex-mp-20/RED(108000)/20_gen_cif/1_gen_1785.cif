@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti3MnSn2
+_chemical_formula_sum              "Ti3 Mn1 Sn2"
+_cell_length_a       3.9415697115941586
+_cell_length_b       3.9220401692016837
+_cell_length_c       7.219796383791019
+_cell_angle_alpha    89.99181741949806
+_cell_angle_beta     89.99909453283827
+_cell_angle_gamma    90.00018645633843
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6493401891042879  0.7520328001717417  0.17203417305030777  1.0000
+  Ti  Ti2       1.0  0.1492403831531528  0.25232952414033216  0.8393643780330626  1.0000
+  Ti  Ti3       1.0  0.6496185624537353  0.25196636254306465  0.5057150137813609  1.0000
+  Mn  Mn1       1.0  0.1495553834994226  0.7517577116715992  0.5061455418073827  1.0000
+  Sn  Sn1       1.0  0.14945094280205026  0.2519265194572714  0.22628447451040257  1.0000
+  Sn  Sn2       1.0  0.649422173817493  0.7518486734035666  0.7854052744144827  1.0000

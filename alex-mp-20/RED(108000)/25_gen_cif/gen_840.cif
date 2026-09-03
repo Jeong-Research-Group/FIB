@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2CaLi2Cd
+_chemical_formula_sum              "Cd3 Ca1 Li2"
+_cell_length_a       4.838218336630265
+_cell_length_b       4.839175016927984
+_cell_length_c       6.836821556091309
+_cell_angle_alpha    89.93004087151097
+_cell_angle_beta     90.02856635673446
+_cell_angle_gamma    119.99074492792299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9661062955856323  0.6699566841125488  0.6825072765350342  1.0000
+  Cd  Cd2       1.0  0.6328347325325012  0.0030876318924129014  0.918218731880188  1.0000
+  Ca  Ca1       1.0  0.9658362865447998  0.6699689030647278  0.18220166862010956  1.0000
+  Li  Li1       1.0  0.29953938722610474  0.33662736415863037  0.8636432886123657  1.0000
+  Li  Li2       1.0  0.6329033374786377  0.0031022364273667336  0.5006435513496399  1.0000
+  Cd  Cd3       1.0  0.2998022437095642  0.3367539942264557  0.44640132784843445  1.0000

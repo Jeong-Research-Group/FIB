@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CrMo2W2
+_chemical_formula_sum              "Cr1 Mo2 W2"
+_cell_length_a       2.7260276174089464
+_cell_length_b       4.409115566939216
+_cell_length_c       6.976560549604356
+_cell_angle_alpha    108.42074517841911
+_cell_angle_beta     105.11315091166449
+_cell_angle_gamma    89.99992268606124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2328774765980141  0.5073260689788489  0.22499749380716438  1.0000
+  Mo  Mo1       1.0  0.6356244037902216  0.30945440951777553  0.8292726909716379  1.0000
+  Mo  Mo2       1.0  0.4313521595614098  0.9087231318239911  0.027891717991102884  1.0000
+  W   W1        1.0  0.8216538850755662  0.70376138590494  0.6180484475392631  1.0000
+  W   W2        1.0  0.03361489674665981  0.10320736166415848  0.4169387498548299  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       In2SnBi
+_chemical_formula_sum              "In2 Sn1 Bi1"
+_cell_length_a       4.987319211064082
+_cell_length_b       4.928802402137058
+_cell_length_c       4.946686207546598
+_cell_angle_alpha    89.83483259600278
+_cell_angle_beta     89.7862485740594
+_cell_angle_gamma    89.96222213202964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7406603640458964  0.8352748700000239  0.1850980713333086  1.0000
+  In  In2       1.0  0.7407526831200343  0.33556717543007664  0.6849809935172548  1.0000
+  Sn  Sn1       1.0  0.24081376516250438  0.8352155774329124  0.6849835187519807  1.0000
+  Bi  Bi1       1.0  0.24065336738119725  0.33488747264553004  0.18487734431304895  1.0000

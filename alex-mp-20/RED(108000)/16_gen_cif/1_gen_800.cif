@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3SiSn2
+_chemical_formula_sum              "Li3 Si1 Sn2"
+_cell_length_a       4.693661341325936
+_cell_length_b       4.695670275333559
+_cell_length_c       5.81881363269548
+_cell_angle_alpha    89.97689209627083
+_cell_angle_beta     89.97632128718156
+_cell_angle_gamma    119.99505189120615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6841806098348997  0.6601511595906366  0.28699494550590865  1.0000
+  Li  Li2       1.0  0.017408995045173885  0.32681809241553184  0.6286079208155557  1.0000
+  Li  Li3       1.0  0.35063319416306393  0.9934343768579246  0.9727851467570845  1.0000
+  Si  Si1       1.0  0.01718811674677471  0.3269610091931821  0.12940745021152034  1.0000
+  Sn  Sn1       1.0  0.350887938157157  0.993543666009754  0.4583975492466527  1.0000
+  Sn  Sn2       1.0  0.6840138556370615  0.6600499110005296  0.8012982133673185  1.0000

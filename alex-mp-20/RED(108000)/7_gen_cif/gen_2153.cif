@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnMoWMnW2
+_chemical_formula_sum              "Mn2 Mo1 W3"
+_cell_length_a       3.101920777257226
+_cell_length_b       5.046218331803275
+_cell_length_c       6.11804723739624
+_cell_angle_alpha    107.08102801854525
+_cell_angle_beta     89.94625574714307
+_cell_angle_gamma    107.87971512602734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7989698648452759  0.8449468016624451  0.31515711545944214  1.0000
+  Mo  Mo1       1.0  0.4678447246551513  0.1813296675682068  0.654656171798706  1.0000
+  W   W1        1.0  0.4678055047988891  0.18133112788200378  0.15445879101753235  1.0000
+  Mn  Mn2       1.0  0.1359274983406067  0.5169503688812256  0.9942247271537782  1.0000
+  W   W2        1.0  0.7986591458320618  0.8424008488655089  0.8276909589767456  1.0000
+  W   W3        1.0  0.13714982569217682  0.5200899839401245  0.4815539121627808  1.0000

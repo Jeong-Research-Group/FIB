@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuTi2AlCuAl
+_chemical_formula_sum              "Cu2 Ti2 Al2"
+_cell_length_a       2.8839615887312107
+_cell_length_b       4.207895778119963
+_cell_length_c       7.355481147766113
+_cell_angle_alpha    89.99409439090256
+_cell_angle_beta     89.78441440773658
+_cell_angle_gamma    89.87511933169232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.14931507408618927  0.9195595383644104  0.04388335347175598  1.0000
+  Ti  Ti1       1.0  0.647804319858551  0.9188576340675354  0.7044357657432556  1.0000
+  Ti  Ti2       1.0  0.14837384223937988  0.4190572500228882  0.4903542995452881  1.0000
+  Al  Al1       1.0  0.1486172378063202  0.4198160469532013  0.8612842559814453  1.0000
+  Cu  Cu2       1.0  0.6473734974861145  0.41863203048706055  0.15272600948810577  1.0000
+  Al  Al2       1.0  0.6476872563362122  0.9182708859443665  0.33519092202186584  1.0000

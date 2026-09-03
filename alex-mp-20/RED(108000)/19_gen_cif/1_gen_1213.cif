@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2Sb3PAu2
+_chemical_formula_sum              "Sr2 Sb3 P1 Au2"
+_cell_length_a       4.440890012582607
+_cell_length_b       4.442260242325738
+_cell_length_c       10.943046852855405
+_cell_angle_alpha    89.95840833595028
+_cell_angle_beta     90.01066086890442
+_cell_angle_gamma    90.00058469227287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.47175337292269637  0.6702444521225026  0.7588364855700781  1.0000
+  Sr  Sr2       1.0  0.9709402874520304  0.1710113701101776  0.26156068711299046  1.0000
+  Sb  Sb1       1.0  0.9711216576597728  0.6716881840490082  0.008969650953262824  1.0000
+  Sb  Sb2       1.0  0.9715424910993075  0.17040975878852618  0.6583083469412929  1.0000
+  Sb  Sb3       1.0  0.47168894687327506  0.16935021815298326  0.008687890952453642  1.0000
+  P   P1        1.0  0.471626644091564  0.6706881101487453  0.3721538702609054  1.0000
+  Au  Au1       1.0  0.9715655875715878  0.670630813885037  0.4928169381178581  1.0000
+  Au  Au2       1.0  0.4712231236568479  0.17038603139939157  0.49213224220952023  1.0000

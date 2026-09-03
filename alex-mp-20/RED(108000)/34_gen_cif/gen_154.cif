@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ti2PdRu
+_chemical_formula_sum              "Ti2 Pd1 Ru1"
+_cell_length_a       3.1506613857010413
+_cell_length_b       4.396234457912418
+_cell_length_c       4.397974967956543
+_cell_angle_alpha    90.025117111332
+_cell_angle_beta     90.02865515113506
+_cell_angle_gamma    90.04282779331305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7191214561462402  0.4646704494953156  0.6372156739234924  1.0000
+  Ti  Ti2       1.0  0.718379020690918  0.9643898606300354  0.13676932454109192  1.0000
+  Pd  Pd1       1.0  0.21899469196796417  0.9644790291786194  0.6371681690216064  1.0000
+  Ru  Ru1       1.0  0.21873746812343597  0.4645770490169525  0.13698583841323853  1.0000

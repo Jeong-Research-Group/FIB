@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2LiS2BiS2
+_chemical_formula_sum              "Ag2 Li1 S4 Bi1"
+_cell_length_a       3.82242743033243
+_cell_length_b       6.810954459839094
+_cell_length_c       6.848438262939453
+_cell_angle_alpha    112.20639390372955
+_cell_angle_beta     90.0436883969295
+_cell_angle_gamma    90.07657576068026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.40488123893737793  0.6899978518486023  0.26259955763816833  1.0000
+  Ag  Ag2       1.0  0.4051211178302765  0.18981248140335083  0.7624124884605408  1.0000
+  Li  Li1       1.0  0.9050294160842896  0.689645290374756  0.7630025148391724  1.0000
+  S   S1        1.0  0.4054909646511078  0.49280425906181335  0.4937672019004821  1.0000
+  S   S2        1.0  0.9035853147506714  0.9817519187927247  0.5541639924049377  1.0000
+  Bi  Bi1       1.0  0.9053176641464233  0.19087179005146027  0.2620154023170471  1.0000
+  S   S3        1.0  0.9076551795005798  0.3965933620929718  0.9703574776649475  1.0000
+  S   S4        1.0  0.404855877161026  0.8886145353317261  0.03268582373857492  1.0000

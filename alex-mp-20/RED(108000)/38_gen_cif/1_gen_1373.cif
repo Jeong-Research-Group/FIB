@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiZn2Ga
+_chemical_formula_sum              "Li1 Zn2 Ga1"
+_cell_length_a       4.419042800286088
+_cell_length_b       4.418997734904053
+_cell_length_c       4.420551514506564
+_cell_angle_alpha    60.03024668611573
+_cell_angle_beta     60.040629285261446
+_cell_angle_gamma    60.014419616973974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9012905003407512  0.41868172149407706  0.9181848179084389  1.0000
+  Zn  Zn1       1.0  0.40124535202078604  0.9187341905113146  0.4181305096514635  1.0000
+  Zn  Zn2       1.0  0.15121205891953804  0.6687306376320158  0.16806581295444334  1.0000
+  Ga  Ga1       1.0  0.65113370378848  0.16867864421349363  0.6681931118815104  1.0000

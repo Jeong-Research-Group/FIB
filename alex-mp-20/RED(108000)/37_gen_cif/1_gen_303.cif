@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuFe2Ge2
+_chemical_formula_sum              "Lu1 Fe2 Ge2"
+_cell_length_a       3.922467903348042
+_cell_length_b       3.9223029205636046
+_cell_length_c       5.829243852812116
+_cell_angle_alpha    109.63565259418748
+_cell_angle_beta     109.63332535354192
+_cell_angle_gamma    90.0124519337579
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.9975535631584955  0.9960942660109374  0.7218149509092896  1.0000
+  Fe  Fe1       1.0  0.24720698352825518  0.7463852664068759  0.2218171468558306  1.0000
+  Fe  Fe2       1.0  0.7480371320937148  0.24592458863847289  0.2219534964100728  1.0000
+  Ge  Ge1       1.0  0.6203550298729584  0.6190317244178923  0.9679821219105769  1.0000
+  Ge  Ge2       1.0  0.37479028085862115  0.37322238645903194  0.47589771809618137  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HgRh2NiN
+_chemical_formula_sum              "Hg1 Rh2 Ni1 N1"
+_cell_length_a       3.923687495576679
+_cell_length_b       4.139721900153421
+_cell_length_c       4.138974189758301
+_cell_angle_alpha    90.00686684464864
+_cell_angle_beta     90.00792552442853
+_cell_angle_gamma    89.97914310741214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.16905300319194794  0.4204526543617249  0.7671055793762207  1.0000
+  Rh  Rh1       1.0  0.668947696685791  0.9202702641487123  0.7668318152427673  1.0000
+  Rh  Rh2       1.0  0.6688764095306396  0.4205453097820282  0.26698774099349976  1.0000
+  Ni  Ni1       1.0  0.16885478794574738  0.9204328656196594  0.26685604453086853  1.0000
+  N   N1        1.0  0.6694382429122925  0.9205679893493652  0.26741358637809753  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Ga2CuRh
+_chemical_formula_sum              "Tb2 Ga2 Cu1 Rh1"
+_cell_length_a       4.4135448255512175
+_cell_length_b       4.4139960838286365
+_cell_length_c       7.011999384498415
+_cell_angle_alpha    90.01227624273349
+_cell_angle_beta     90.00236533532761
+_cell_angle_gamma    119.97168969502772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.9616521861972646  0.22998072719809295  0.028667310451491703  1.0000
+  Tb  Tb2       1.0  0.9616331114639943  0.22964049071877515  0.5237622994942488  1.0000
+  Ga  Ga1       1.0  0.2946632335323778  0.8966463896755317  0.2767177052057826  1.0000
+  Ga  Ga2       1.0  0.6284269907272845  0.5631367581950248  0.7765066861181396  1.0000
+  Cu  Cu1       1.0  0.2944383783331474  0.8967906413955995  0.7752036903946421  1.0000
+  Rh  Rh1       1.0  0.6283975725832088  0.5627759704160129  0.27489991159146393  1.0000

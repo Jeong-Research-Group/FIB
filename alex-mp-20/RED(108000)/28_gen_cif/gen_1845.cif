@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrKCrBr2
+_chemical_formula_sum              "Br3 K1 Cr1"
+_cell_length_a       5.3015909204070635
+_cell_length_b       5.302587147656029
+_cell_length_c       5.311601161956787
+_cell_angle_alpha    89.98804967355015
+_cell_angle_beta     89.99893699499505
+_cell_angle_gamma    89.97654763494187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.887820303440094  0.5975370407104492  0.1447984278202057  1.0000
+  K   K1        1.0  0.888863205909729  0.09720363467931747  0.6447926759719849  1.0000
+  Cr  Cr1       1.0  0.3886141777038574  0.5979014039039611  0.14455316960811615  1.0000
+  Br  Br2       1.0  0.3887351155281067  0.5975130200386047  0.6442720293998718  1.0000
+  Br  Br3       1.0  0.3882352411746979  0.09740196168422699  0.14441202580928802  1.0000

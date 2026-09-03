@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2NdTl2SiGe
+_chemical_formula_sum              "Li2 Nd1 Tl2 Si1 Ge1"
+_cell_length_a       4.711924872966204
+_cell_length_b       4.686436276487229
+_cell_length_c       8.453273125345637
+_cell_angle_alpha    74.1257336169624
+_cell_angle_beta     73.78010457359132
+_cell_angle_gamma    59.86905651968071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.590056857894207  0.14402739328854766  0.25983823993542454  1.0000
+  Li  Li2       1.0  0.2971202420386008  0.8484674828686215  0.14107922916982257  1.0000
+  Nd  Nd1       1.0  0.44586390903275963  0.9976246412804892  0.6939863756936412  1.0000
+  Tl  Tl1       1.0  0.009493823711704737  0.5613826445520995  0.0031819309320716663  1.0000
+  Tl  Tl2       1.0  0.8769641758826231  0.42906782363772394  0.4006128618800785  1.0000
+  Si  Si1       1.0  0.18327882876458154  0.7343198864209033  0.48283501795669675  1.0000
+  Ge  Ge1       1.0  0.7082954560151092  0.2609854458748071  0.9056831608274476  1.0000

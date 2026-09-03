@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbIn2CoInSb
+_chemical_formula_sum              "Sb2 In3 Co1"
+_cell_length_a       4.481028085207421
+_cell_length_b       4.483141437101801
+_cell_length_c       9.166729927062988
+_cell_angle_alpha    75.93143182273967
+_cell_angle_beta     75.9386091496917
+_cell_angle_gamma    59.96151397461695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.16478832066059113  0.3756288588047027  0.29057738184928894  1.0000
+  In  In1       1.0  0.9623225927352905  0.17291128635406494  0.8986481428146362  1.0000
+  In  In2       1.0  0.7606684565544127  0.9708165526390076  0.505176305770874  1.0000
+  Co  Co1       1.0  0.2603952586650849  0.4705142974853515  0.005820308811962617  1.0000
+  In  In3       1.0  0.5578495264053345  0.7685315608978271  0.11181490123271942  1.0000
+  Sb  Sb2       1.0  0.3558321297168733  0.5655651092529296  0.7209928631782532  1.0000

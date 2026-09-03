@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Fe2Ge2
+_chemical_formula_sum              "Sm2 Fe2 Ge2"
+_cell_length_a       4.153898747655871
+_cell_length_b       4.153845923796377
+_cell_length_c       6.68248912237795
+_cell_angle_alpha    89.9829199194605
+_cell_angle_beta     90.00851499000949
+_cell_angle_gamma    90.00001719192264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.29571147701482375  0.34418914638792647  0.6519311019336536  1.0000
+  Sm  Sm2       1.0  0.7956074334506683  0.8445697448695626  0.029261397273138385  1.0000
+  Fe  Fe1       1.0  0.7956671590744337  0.3443367631547004  0.34061715001942705  1.0000
+  Fe  Fe2       1.0  0.2956519921301153  0.8443947434836379  0.3406322129868526  1.0000
+  Ge  Ge1       1.0  0.2955566660445735  0.3445621085378747  0.15301546928164153  1.0000
+  Ge  Ge2       1.0  0.7957432701490663  0.8442016330476274  0.5282294843127804  1.0000

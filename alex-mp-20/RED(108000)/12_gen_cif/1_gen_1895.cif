@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiFe2Sn2
+_chemical_formula_sum              "Li1 Fe2 Sn2"
+_cell_length_a       4.376406464147375
+_cell_length_b       4.376400384437763
+_cell_length_c       5.275283511152894
+_cell_angle_alpha    89.9977554389729
+_cell_angle_beta     89.99984639105911
+_cell_angle_gamma    119.99130234479604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2010812636852492  0.632897273165873  0.36289107779245183  1.0000
+  Fe  Fe1       1.0  0.867691569854325  0.9662037182510657  0.6361371101861135  1.0000
+  Fe  Fe2       1.0  0.20101978466352283  0.632857566220505  0.8391770062642324  1.0000
+  Sn  Sn1       1.0  0.8674976286458752  0.9660222645509651  0.12028985529826346  1.0000
+  Sn  Sn2       1.0  0.5343562719597856  0.2995117002716211  0.6322023811023961  1.0000

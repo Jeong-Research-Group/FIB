@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2InCu
+_chemical_formula_sum              "Sc2 In1 Cu1"
+_cell_length_a       3.5210197992726155
+_cell_length_b       4.789073258437837
+_cell_length_c       4.788919358778089
+_cell_angle_alpha    89.93810555394431
+_cell_angle_beta     89.98619432419716
+_cell_angle_gamma    89.99200006568937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9723234881655013  0.17567183712406914  0.20931730194511525  1.0000
+  Sc  Sc2       1.0  0.9724020760934602  0.6756659559989587  0.7090528894096766  1.0000
+  In  In1       1.0  0.47224921945021286  0.6757146030215411  0.20902943937975255  1.0000
+  Cu  Cu1       1.0  0.47236612453767857  0.1754379034706184  0.7094106600269697  1.0000

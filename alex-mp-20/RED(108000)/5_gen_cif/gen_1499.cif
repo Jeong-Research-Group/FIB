@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgLaSnLaH
+_chemical_formula_sum              "Mg1 La2 Sn1 H1"
+_cell_length_a       4.645895039933762
+_cell_length_b       5.066338179654943
+_cell_length_c       5.071669578552246
+_cell_angle_alpha    89.94877608799163
+_cell_angle_beta     90.00709907116386
+_cell_angle_gamma    89.94792230971882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.11389998346567154  0.18167747557163239  0.5598680377006531  1.0000
+  La  La1       1.0  0.6142760515213013  0.18118984997272491  0.058566875755786896  1.0000
+  Sn  Sn1       1.0  0.11473197489976883  0.6814557313919067  0.05889452248811722  1.0000
+  La  La2       1.0  0.6143345236778259  0.6812015771865845  0.5584174990653992  1.0000
+  H   H1        1.0  0.6150710582733154  0.18142051994800568  0.5585116147994995  1.0000

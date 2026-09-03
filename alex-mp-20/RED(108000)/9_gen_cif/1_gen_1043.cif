@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2CoCu
+_chemical_formula_sum              "Lu2 Co1 Cu1"
+_cell_length_a       3.317375300441616
+_cell_length_b       4.7012223802674775
+_cell_length_c       4.701200790296815
+_cell_angle_alpha    89.99386133712035
+_cell_angle_beta     90.00012343932977
+_cell_angle_gamma    89.99947608181309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.0746814685430574  0.5448220345734816  0.3236558378868546  1.0000
+  Lu  Lu2       1.0  0.07479529835586063  0.045165395126196745  0.8237336901709102  1.0000
+  Co  Co1       1.0  0.5746323030147908  0.5451372128205543  0.8238122676292763  1.0000
+  Cu  Cu1       1.0  0.574569879413748  0.044801272958205254  0.3236963884282403  1.0000

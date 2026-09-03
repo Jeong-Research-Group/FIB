@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeGaFe4GaFe
+_chemical_formula_sum              "Ge1 Ga2 Fe5"
+_cell_length_a       4.00698691290944
+_cell_length_b       5.014624513926273
+_cell_length_c       5.013691425323486
+_cell_angle_alpha    107.38591949388749
+_cell_angle_beta     89.94682947751464
+_cell_angle_gamma    89.96003907153573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5191619396209717  0.8830382227897644  0.6814691424369812  1.0000
+  Ga  Ga1       1.0  0.018820691853761673  0.1577937752008438  0.4070667326450348  1.0000
+  Fe  Fe1       1.0  0.5190950632095337  0.3821101784706116  0.679251790046692  1.0000
+  Fe  Fe2       1.0  0.019324831664562225  0.6556268930435181  0.4535556137561798  1.0000
+  Fe  Fe3       1.0  0.5182256698608398  0.882363498210907  0.18175481259822848  1.0000
+  Fe  Fe4       1.0  0.5183387994766235  0.3824447989463806  0.1806508302688599  1.0000
+  Ga  Ga2       1.0  0.019119059666991234  0.6080113053321838  0.9551541209220886  1.0000
+  Fe  Fe5       1.0  0.019144849851727486  0.1104389801621437  0.9085123538970947  1.0000

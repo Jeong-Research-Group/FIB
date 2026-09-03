@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pb2FeW2
+_chemical_formula_sum              "Pb2 Fe1 W2"
+_cell_length_a       3.0797638112583554
+_cell_length_b       4.619691057601926
+_cell_length_c       8.519868850708008
+_cell_angle_alpha    91.33337825722971
+_cell_angle_beta     89.95679472704538
+_cell_angle_gamma    108.25350552019913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5759714245796204  0.34874334931373596  0.21720023453235626  1.0000
+  Pb  Pb2       1.0  0.7346540093421935  0.6647008061408997  0.8325527906417847  1.0000
+  Fe  Fe1       1.0  0.4314085245132446  0.05925105139613151  0.6429187059402466  1.0000
+  W   W1        1.0  0.8685064315795897  0.9327900409698486  0.41548785567283636  1.0000
+  W   W2        1.0  0.14554892480373383  0.4837343692779541  0.5416024327278137  1.0000

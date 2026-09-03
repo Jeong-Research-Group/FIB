@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta4Fe2W2
+_chemical_formula_sum              "Ta4 Fe2 W2"
+_cell_length_a       4.4603292560822965
+_cell_length_b       5.256472460552437
+_cell_length_c       5.508492960695443
+_cell_angle_alpha    100.00595259889448
+_cell_angle_beta     89.98800405825006
+_cell_angle_gamma    89.99083572407983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.9130860310568503  0.9159736073075478  0.08355217796401974  1.0000
+  Ta  Ta2       1.0  0.4128035641151144  0.6747259616504508  0.711318739317612  1.0000
+  Ta  Ta3       1.0  0.9129808308252617  0.3848238850251203  0.8314486885971818  1.0000
+  Ta  Ta4       1.0  0.41292134264614366  0.6471836705553978  0.20831132262152013  1.0000
+  Fe  Fe1       1.0  0.4132021377991533  0.15407974623306767  0.9649014128947753  1.0000
+  Fe  Fe2       1.0  0.9125170057867825  0.9008090477883641  0.5795765277945707  1.0000
+  W   W1        1.0  0.9129427945596029  0.4040245408471823  0.3412688688708389  1.0000
+  W   W2        1.0  0.4128104087871239  0.15452749482635444  0.46240064172774425  1.0000

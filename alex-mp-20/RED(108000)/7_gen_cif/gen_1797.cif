@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiPdCaAgCa2PdCa
+_chemical_formula_sum              "Li1 Pd2 Ca4 Ag1"
+_cell_length_a       3.99881098639026
+_cell_length_b       4.599320568994219
+_cell_length_c       11.31867504119873
+_cell_angle_alpha    89.84492306195611
+_cell_angle_beta     89.94797012163299
+_cell_angle_gamma    89.98240793837878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.20952706038951874  0.08004371076822282  0.4570869207382202  1.0000
+  Pd  Pd1       1.0  0.7097188830375671  0.08040061593055725  0.9740316867828369  1.0000
+  Ca  Ca1       1.0  0.21082644164562225  0.08016198873519897  0.775127112865448  1.0000
+  Ag  Ag1       1.0  0.20992527902126312  0.5794167518615723  0.3288215398788452  1.0000
+  Ca  Ca2       1.0  0.7099704146385193  0.5818434953689575  0.5631607174873352  1.0000
+  Ca  Ca3       1.0  0.7101953625679016  0.07904052734375  0.22948549687862396  1.0000
+  Pd  Pd2       1.0  0.7096405625343323  0.5806315541267395  0.8210088610649109  1.0000
+  Ca  Ca4       1.0  0.21039871871471405  0.579777479171753  0.02396661415696144  1.0000

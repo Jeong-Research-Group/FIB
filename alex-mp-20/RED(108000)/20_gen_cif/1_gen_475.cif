@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy2Y3ZrSi
+_chemical_formula_sum              "Dy2 Y3 Zr1 Si1"
+_cell_length_a       4.570712025545403
+_cell_length_b       5.1630642106021805
+_cell_length_c       8.530258144879454
+_cell_angle_alpha    89.94099647360382
+_cell_angle_beta     90.00607436102356
+_cell_angle_gamma    90.00042688373198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.8616871023127723  0.7377419648412381  0.30939496434353503  1.0000
+  Dy  Dy2       1.0  0.36175011736879015  0.2376398210355731  0.3088732855468199  1.0000
+  Y   Y1        1.0  0.8617381547337933  0.23737758748743004  0.5976318738742685  1.0000
+  Y   Y2        1.0  0.3616583444922819  0.7378953235869014  0.9747061147630983  1.0000
+  Y   Y3        1.0  0.8615248367057392  0.23802049815067727  0.9899860224706013  1.0000
+  Zr  Zr1       1.0  0.3617722429941543  0.7373510403924549  0.5879580284805713  1.0000
+  Si  Si1       1.0  0.8617195732114272  0.7375365066991088  0.7785154180065432  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Rh2GaBeH
+_chemical_formula_sum              "Rh2 Ga1 Be1 H1"
+_cell_length_a       3.1422891902968124
+_cell_length_b       4.084655050052429
+_cell_length_c       4.08791446685791
+_cell_angle_alpha    89.98027691727144
+_cell_angle_beta     90.07770273046422
+_cell_angle_gamma    90.08139103721832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.6052615642547607  0.7408167123794556  0.7891108393669128  1.0000
+  Rh  Rh2       1.0  0.6041348576545715  0.24045920372009277  0.28879320621490473  1.0000
+  Ga  Ga1       1.0  0.10421163588762283  0.7405867576599121  0.28874671459198  1.0000
+  Be  Be1       1.0  0.10484404116868973  0.2409200221300125  0.7898646593093872  1.0000
+  H   H1        1.0  0.6055862307548523  0.24206121265888214  0.788771390914917  1.0000

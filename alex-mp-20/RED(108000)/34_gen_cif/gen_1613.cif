@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga2LiCuLiCuLi
+_chemical_formula_sum              "Ga2 Li3 Cu2"
+_cell_length_a       2.6919189066522384
+_cell_length_b       4.379584997961422
+_cell_length_c       8.588118553161621
+_cell_angle_alpha    104.8786189435588
+_cell_angle_beta     90.10011940478711
+_cell_angle_gamma    90.06228699684574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.09783971309661865  0.7383351922035218  0.9971279501914978  1.0000
+  Ga  Ga2       1.0  0.09810508042573929  0.008185476996004583  0.5367161631584167  1.0000
+  Li  Li1       1.0  0.5986724495887756  0.46164527535438543  0.443163126707077  1.0000
+  Cu  Cu1       1.0  0.5980564951896667  0.8719591498374939  0.2634187340736389  1.0000
+  Li  Li2       1.0  0.09856443852186203  0.32062074542045593  0.16067229211330414  1.0000
+  Cu  Cu2       1.0  0.09874920547008514  0.5923779010772705  0.7055001854896545  1.0000
+  Li  Li3       1.0  0.5974413752555847  0.15444116294384003  0.8297153115272522  1.0000

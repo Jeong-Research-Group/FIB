@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuMnCuAu
+_chemical_formula_sum              "Cu2 Mn1 Au1"
+_cell_length_a       3.1086442506135397
+_cell_length_b       3.10852766550912
+_cell_length_c       5.862102031707764
+_cell_angle_alpha    90.00329465546359
+_cell_angle_beta     89.96103627610738
+_cell_angle_gamma    90.03778028089323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9816706776618959  0.7200348973274231  0.3574943244457245  1.0000
+  Mn  Mn1       1.0  0.9816139340400697  0.7199044227600098  0.904370903968811  1.0000
+  Cu  Cu2       1.0  0.4816627502441407  0.22007547318935392  0.14110960066318512  1.0000
+  Au  Au1       1.0  0.48195976018905645  0.22019585967063904  0.6282929182052612  1.0000

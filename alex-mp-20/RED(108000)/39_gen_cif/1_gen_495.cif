@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaNiP2Pt
+_chemical_formula_sum              "Ba1 Ni1 P2 Pt1"
+_cell_length_a       4.06856362547098
+_cell_length_b       4.068080341433389
+_cell_length_c       6.734887386243872
+_cell_angle_alpha    107.58371790341194
+_cell_angle_beta     107.58608960280927
+_cell_angle_gamma    89.9971694018862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5105255182416202  0.6688399589526886  0.3555791708488669  1.0000
+  Ni  Ni1       1.0  0.2602895510905665  0.9189057833645753  0.855736896300823  1.0000
+  P   P1        1.0  0.1620686663501186  0.3205743250113267  0.6593653970550001  1.0000
+  P   P2        1.0  0.8586232296241767  0.017146234502156518  0.052108397899000174  1.0000
+  Pt  Pt1       1.0  0.760221731051074  0.41888207418000795  0.8556544764861843  1.0000

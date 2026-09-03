@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClPr2ClN
+_chemical_formula_sum              "Cl2 Pr2 N1"
+_cell_length_a       3.8324230364245095
+_cell_length_b       3.8321749437994135
+_cell_length_c       10.26974105834961
+_cell_angle_alpha    90.03885262024595
+_cell_angle_beta     90.0227880155271
+_cell_angle_gamma    120.00489737526091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2526553273200989  0.03704051673412323  0.6968198418617249  1.0000
+  Pr  Pr1       1.0  0.2538720965385437  0.037118539214134216  0.14699579775333405  1.0000
+  Pr  Pr2       1.0  0.5857747793197633  0.7034236192703248  0.8752613067626953  1.0000
+  Cl  Cl2       1.0  0.5852107405662538  0.7038155794143677  0.3254607915878296  1.0000
+  N   N1        1.0  0.9194757938385012  0.37038144469261175  0.010661829262971878  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbBiInTe3
+_chemical_formula_sum              "Pb1 Bi1 In1 Te3"
+_cell_length_a       4.61345300108993
+_cell_length_b       6.482808205269981
+_cell_length_c       8.014488220214844
+_cell_angle_alpha    114.15894701145304
+_cell_angle_beta     73.24804094473541
+_cell_angle_gamma    90.04424134750856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5540794134140015  0.36657306551933283  0.37155354022979736  1.0000
+  Bi  Bi1       1.0  0.8889926671981812  0.03282666951417923  0.7019762992858887  1.0000
+  In  In1       1.0  0.22125801444053653  0.6995069384574889  0.03616622835397715  1.0000
+  Te  Te1       1.0  0.2277231365442276  0.19356441497802734  0.024331629276275628  1.0000
+  Te  Te2       1.0  0.5485933423042297  0.872400164604187  0.382185697555542  1.0000
+  Te  Te3       1.0  0.8879684209823608  0.5338898301124573  0.7031114101409912  1.0000

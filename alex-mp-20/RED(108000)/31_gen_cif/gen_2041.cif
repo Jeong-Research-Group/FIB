@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mo2CrRuGaRu
+_chemical_formula_sum              "Mo2 Cr1 Ru2 Ga1"
+_cell_length_a       3.08053578656491
+_cell_length_b       3.077475729273716
+_cell_length_c       9.08566665649414
+_cell_angle_alpha    89.94586642757244
+_cell_angle_beta     90.0426023947603
+_cell_angle_gamma    90.00042597620143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.6994852423667908  0.8449101448059082  0.7496841549873352  1.0000
+  Mo  Mo2       1.0  0.6991478800773621  0.8455832004547118  0.39440757036209106  1.0000
+  Cr  Cr1       1.0  0.19912193715572357  0.34539237618446356  0.8981069326400757  1.0000
+  Ru  Ru1       1.0  0.1992376297712326  0.34503141045570374  0.22873637080192566  1.0000
+  Ga  Ga1       1.0  0.698798418045044  0.8454278707504272  0.06126808002591133  1.0000
+  Ru  Ru2       1.0  0.199503093957901  0.34547826647758484  0.5676729679107666  1.0000

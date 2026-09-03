@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaCuPd2P
+_chemical_formula_sum              "Ca1 Cu1 Pd2 P1"
+_cell_length_a       4.383487636691797
+_cell_length_b       4.610108579357679
+_cell_length_c       4.601903438568115
+_cell_angle_alpha    90.01703699731456
+_cell_angle_beta     90.03648937590663
+_cell_angle_gamma    90.01843035619004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.3619191348552704  0.916871964931488  0.061601560562849045  1.0000
+  Cu  Cu1       1.0  0.3603820204734802  0.41766875982284546  0.5615552067756653  1.0000
+  Pd  Pd1       1.0  0.8608943223953247  0.41765215992927557  0.06081957742571831  1.0000
+  Pd  Pd2       1.0  0.8611109852790833  0.9163957834243776  0.561169445514679  1.0000
+  P   P1        1.0  0.8602672815322876  0.4165722727775574  0.5611212253570557  1.0000

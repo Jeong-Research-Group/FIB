@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba2Pb2Cd2Pb2
+_chemical_formula_sum              "Ba2 Pb4 Cd2"
+_cell_length_a       5.67768128441141
+_cell_length_b       6.900793490254464
+_cell_length_c       7.0645623207092285
+_cell_angle_alpha    89.82195995564894
+_cell_angle_beta     90.05069617000376
+_cell_angle_gamma    90.14437222782499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.16327914595603943  0.8026066422462463  0.09273848682641983  1.0000
+  Ba  Ba2       1.0  0.6629580855369568  0.5622498393058777  0.5922620296478271  1.0000
+  Pb  Pb1       1.0  0.662685751914978  0.4376231729984284  0.0930706337094307  1.0000
+  Pb  Pb2       1.0  0.16282601654529572  0.9477602243423462  0.5924495458602905  1.0000
+  Cd  Cd1       1.0  0.1625879853963852  0.32699504494667053  0.8452226519584656  1.0000
+  Cd  Cd2       1.0  0.16226497292518616  0.3287902772426606  0.33993393182754517  1.0000
+  Pb  Pb3       1.0  0.6630558371543884  0.05039776861667633  0.8463221192359924  1.0000
+  Pb  Pb4       1.0  0.6629953980445862  0.04815077781677246  0.33817100524902344  1.0000

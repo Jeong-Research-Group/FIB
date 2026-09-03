@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2In3Sn2
+_chemical_formula_sum              "Cd2 In3 Sn2"
+_cell_length_a       4.704147498427804
+_cell_length_b       5.82847264389354
+_cell_length_c       7.736042081316744
+_cell_angle_alpha    80.52678126050131
+_cell_angle_beta     90.01225920250285
+_cell_angle_gamma    113.82095305875993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9982244266212669  0.057637236235896075  0.4761091484309037  1.0000
+  Cd  Cd2       1.0  0.1375979202825117  0.3367310726382066  0.057921221966172075  1.0000
+  In  In1       1.0  0.28696939689219964  0.635040086654398  0.621185558794352  1.0000
+  In  In2       1.0  0.8482066679448013  0.7589401036467003  0.9108016554446392  1.0000
+  In  In3       1.0  0.7075052366118043  0.47601655850930935  0.3389113609977031  1.0000
+  Sn  Sn1       1.0  0.42718721329859244  0.9159100087342795  0.19455145857507147  1.0000
+  Sn  Sn2       1.0  0.5675852461181874  0.19673951651430377  0.7663711899905752  1.0000

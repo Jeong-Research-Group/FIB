@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfLiRh2Li2
+_chemical_formula_sum              "Hf1 Li3 Rh2"
+_cell_length_a       3.128005401358159
+_cell_length_b       4.407194019499055
+_cell_length_c       7.024837017059326
+_cell_angle_alpha    71.51136883342207
+_cell_angle_beta     89.59327155133809
+_cell_angle_gamma    89.58379123826352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8066903352737427  0.7056084275245667  0.26086753606796265  1.0000
+  Li  Li1       1.0  0.8060863018035889  0.34532657265663147  0.9835258126258851  1.0000
+  Rh  Rh1       1.0  0.305016428232193  0.18689970672130582  0.3030253648757935  1.0000
+  Rh  Rh2       1.0  0.30939337611198425  0.8602122068405151  0.9522327184677125  1.0000
+  Li  Li2       1.0  0.3056667745113373  0.49969869852066034  0.673647165298462  1.0000
+  Li  Li3       1.0  0.8063106536865234  0.025645863264799118  0.6213459372520448  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaPdSnPdSn3PdCaAu
+_chemical_formula_sum              "Ca2 Pd3 Sn4 Au1"
+_cell_length_a       4.541559712271167
+_cell_length_b       4.540385593608914
+_cell_length_c       11.253954887390137
+_cell_angle_alpha    90.03452227937697
+_cell_angle_beta     90.04573062385305
+_cell_angle_gamma    90.122023822264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.518610417842865  0.5646910667419434  0.8108695149421692  1.0000
+  Pd  Pd1       1.0  0.5187077522277832  0.5646482110023499  0.42209759354591375  1.0000
+  Sn  Sn1       1.0  0.0184978935867548  0.06493282318115234  0.9214891195297242  1.0000
+  Pd  Pd2       1.0  0.018755674362182617  0.06456618010997772  0.6888464093208313  1.0000
+  Sn  Sn2       1.0  0.5187177658081055  0.06447945535182954  0.5554871559143066  1.0000
+  Sn  Sn3       1.0  0.5187764167785645  0.5647135376930238  0.18932877480983734  1.0000
+  Sn  Sn4       1.0  0.018940264359116554  0.5645882487297058  0.5555948615074158  1.0000
+  Pd  Pd3       1.0  0.018573097884655  0.5649987459182739  0.055326484143733985  1.0000
+  Ca  Ca2       1.0  0.018988847732543945  0.06456927210092546  0.30050498247146606  1.0000
+  Au  Au1       1.0  0.5186129808425903  0.06475699692964554  0.05562696978449822  1.0000

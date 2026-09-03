@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2InGa2Pb2
+_chemical_formula_sum              "Cd2 In1 Ga2 Pb2"
+_cell_length_a       4.622617893773091
+_cell_length_b       7.889312840915888
+_cell_length_c       5.956066475664388
+_cell_angle_alpha    109.6191508899579
+_cell_angle_beta     112.83549799320805
+_cell_angle_gamma    89.9866790028533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7248143525349122  0.9974683186551092  0.4633379064022405  1.0000
+  Cd  Cd2       1.0  0.9564020962557047  0.8821762188199601  0.9266747896836293  1.0000
+  In  In1       1.0  0.8402401909829453  0.43971143982995003  0.6943090459048846  1.0000
+  Ga  Ga1       1.0  0.18387774853518227  0.22065765754721137  0.3821703425995983  1.0000
+  Ga  Ga2       1.0  0.4965372677977336  0.6591750970561308  0.006365344726191209  1.0000
+  Pb  Pb1       1.0  0.48964103067020676  0.2418185291110788  0.9929876370771237  1.0000
+  Pb  Pb2       1.0  0.19134635075277653  0.6380180536510205  0.3959221723517266  1.0000

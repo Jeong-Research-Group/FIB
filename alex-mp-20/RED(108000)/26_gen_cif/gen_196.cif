@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrBIr2CeGe
+_chemical_formula_sum              "Ir3 B1 Ce1 Ge1"
+_cell_length_a       4.113302472047362
+_cell_length_b       4.116632976156951
+_cell_length_c       5.926697254180908
+_cell_angle_alpha    90.00776159916018
+_cell_angle_beta     89.96614525684849
+_cell_angle_gamma    89.97171185891187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.8853296637535095  0.26344990730285645  0.09898694604635239  1.0000
+  B   B1        1.0  0.38585492968559265  0.2636528015136719  0.1116962805390358  1.0000
+  Ir  Ir2       1.0  0.3849666714668274  0.7635926008224487  0.09819523990154266  1.0000
+  Ir  Ir3       1.0  0.8854305744171143  0.7633422613143921  0.7649145722389221  1.0000
+  Ce  Ce1       1.0  0.38495880365371704  0.2632526457309723  0.6176369786262512  1.0000
+  Ge  Ge1       1.0  0.8854014873504639  0.7634745836257935  0.3688875734806061  1.0000

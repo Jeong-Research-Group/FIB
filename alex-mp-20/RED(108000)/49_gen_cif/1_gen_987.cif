@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeNiHIrRh
+_chemical_formula_sum              "Ce1 Ni1 H1 Ir1 Rh1"
+_cell_length_a       4.0343973929600185
+_cell_length_b       3.986800163348479
+_cell_length_c       4.173588373331489
+_cell_angle_alpha    89.99127902578961
+_cell_angle_beta     90.00101665533955
+_cell_angle_gamma    89.99907225593203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7755762902844973  0.8626104688715182  0.08256167642698718  1.0000
+  Ni  Ni1       1.0  0.27544767270249937  0.8618878192561134  0.5825470066298326  1.0000
+  H   H1        1.0  0.27551880282065727  0.36221357530588083  0.5828379390998891  1.0000
+  Ir  Ir1       1.0  0.7753678328012215  0.36243732171749143  0.5827039198407203  1.0000
+  Rh  Rh1       1.0  0.27531938800155575  0.36253274079732917  0.0828449596996947  1.0000

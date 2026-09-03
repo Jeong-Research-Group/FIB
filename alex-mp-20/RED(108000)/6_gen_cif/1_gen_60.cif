@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiAgSn2Bi2
+_chemical_formula_sum              "Ni1 Ag1 Sn2 Bi2"
+_cell_length_a       4.731201347290712
+_cell_length_b       4.730981052334038
+_cell_length_c       6.839147801785472
+_cell_angle_alpha    89.93389689419313
+_cell_angle_beta     89.92219606676672
+_cell_angle_gamma    90.00625244381378
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.857814713097664  0.8483069423183319  0.9946966238576795  1.0000
+  Ag  Ag1       1.0  0.357967818953811  0.34830238696856003  0.9943382487170764  1.0000
+  Sn  Sn1       1.0  0.35826544551328104  0.8487460559745696  0.7488740201799327  1.0000
+  Sn  Sn2       1.0  0.8572831601603356  0.3482711733675272  0.23981455262379214  1.0000
+  Bi  Bi1       1.0  0.858391135175405  0.34906132603220175  0.7254100301754862  1.0000
+  Bi  Bi2       1.0  0.35684036046885087  0.8480787521443713  0.2633854060541196  1.0000

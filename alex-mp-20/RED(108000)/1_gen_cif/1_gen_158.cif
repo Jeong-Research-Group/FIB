@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2ScSnH
+_chemical_formula_sum              "Lu2 Sc1 Sn1 H1"
+_cell_length_a       4.568375032264468
+_cell_length_b       4.68186301286561
+_cell_length_c       4.6811826491778765
+_cell_angle_alpha    90.00002031315299
+_cell_angle_beta     89.99994963231259
+_cell_angle_gamma    90.00001717656399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.9166389305358235  0.27166000048966993  0.307371438838371  1.0000
+  Lu  Lu2       1.0  0.9166067841661236  0.7716038462781729  0.8073857995763336  1.0000
+  Sc  Sc1       1.0  0.4165231785845218  0.771580719927447  0.3072891099826971  1.0000
+  Sn  Sn1       1.0  0.41661347470439214  0.27162624439028105  0.8076208610840683  1.0000
+  H   H1        1.0  0.9166732446157717  0.771370769826856  0.3069605313233994  1.0000

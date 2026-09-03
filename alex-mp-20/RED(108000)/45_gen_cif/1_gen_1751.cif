@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeCoAs2H
+_chemical_formula_sum              "Fe1 Co1 As2 H1"
+_cell_length_a       3.563813142217836
+_cell_length_b       3.5343389524953617
+_cell_length_c       6.022835191936864
+_cell_angle_alpha    107.11763944609713
+_cell_angle_beta     107.24339021057904
+_cell_angle_gamma    90.00135877881388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.8819239690091701  0.6884467453950722  0.015103423215579562  1.0000
+  Co  Co1       1.0  0.38218856765780945  0.18840634679219362  0.01614701952123566  1.0000
+  As  As1       1.0  0.02828163462324525  0.33511003843262727  0.3083827729786515  1.0000
+  As  As2       1.0  0.7353424520639577  0.04198543245843045  0.7239506858863364  1.0000
+  H   H1        1.0  0.38198316524786313  0.6867265769692982  0.015312018575428155  1.0000

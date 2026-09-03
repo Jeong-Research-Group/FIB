@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu3SnPt4
+_chemical_formula_sum              "Cu3 Sn1 Pt4"
+_cell_length_a       3.6706608601577555
+_cell_length_b       5.687779393578241
+_cell_length_c       5.687733540535538
+_cell_angle_alpha    90.00087408126372
+_cell_angle_beta     90.00032913786242
+_cell_angle_gamma    90.00046545647753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8083805992648211  0.41266998571650565  0.3775418604734891  1.0000
+  Cu  Cu2       1.0  0.8083928324124455  0.9130517178978512  0.3776546839912746  1.0000
+  Cu  Cu3       1.0  0.8084540058179551  0.9129908192677371  0.87807088283538  1.0000
+  Sn  Sn1       1.0  0.8083687577378594  0.4129165607717127  0.8776536864780389  1.0000
+  Pt  Pt1       1.0  0.3084276778111268  0.6684579693371517  0.6221525825336459  1.0000
+  Pt  Pt2       1.0  0.3083541047159449  0.6683225177545683  0.13328125601291418  1.0000
+  Pt  Pt3       1.0  0.30836199965936717  0.15733013052119024  0.6223327252719011  1.0000
+  Pt  Pt4       1.0  0.3084024847714908  0.1573966192906891  0.13325084082077565  1.0000

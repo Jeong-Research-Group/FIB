@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4HN2O
+_chemical_formula_sum              "Tb4 H1 N2 O1"
+_cell_length_a       3.478319257539678
+_cell_length_b       6.025621063303889
+_cell_length_c       6.004293985285029
+_cell_angle_alpha    109.4351233811606
+_cell_angle_beta     89.99975392920176
+_cell_angle_gamma    90.00136480343106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.7389186820339069  0.4956776455778195  0.9814449613044909  1.0000
+  Tb  Tb2       1.0  0.7390939000098733  0.9938807912691233  0.5062787642566544  1.0000
+  Tb  Tb3       1.0  0.23879563610474117  0.5057045224848871  0.5107506145713503  1.0000
+  Tb  Tb4       1.0  0.23898279607240655  0.9833978659315974  0.9766440673732132  1.0000
+  H   H1        1.0  0.7377465570614179  0.24442261899819856  0.24313119101261785  1.0000
+  N   N1        1.0  0.7388787781001159  0.7446714244194302  0.7436941504607687  1.0000
+  N   N2        1.0  0.2390803629205002  0.24455588602661957  0.7437336779125302  1.0000
+  O   O1        1.0  0.2389601113732167  0.7448055838212003  0.2434239605240471  1.0000

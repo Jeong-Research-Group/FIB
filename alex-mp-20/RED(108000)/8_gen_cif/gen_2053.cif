@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiC2TiClWCl
+_chemical_formula_sum              "Ti2 C2 Cl2 W1"
+_cell_length_a       3.1502608736824738
+_cell_length_b       3.1503471006513672
+_cell_length_c       12.124853134155273
+_cell_angle_alpha    82.45703510873257
+_cell_angle_beta     82.60658201275044
+_cell_angle_gamma    60.03114709644858
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7531821727752686  0.8670472502708435  0.7427614331245422  1.0000
+  C   C1        1.0  0.44549188017845154  0.561089277267456  0.6612980365753174  1.0000
+  C   C2        1.0  0.5186659097671509  0.6368899345397949  0.44319310784339905  1.0000
+  Ti  Ti2       1.0  0.8803524971008301  0.9977104663848876  0.3602963089942932  1.0000
+  Cl  Cl1       1.0  0.26058453321456915  0.3786548674106598  0.21734416484832764  1.0000
+  W   W1        1.0  0.14840579032897946  0.26505497097969055  0.5527194738388062  1.0000
+  Cl  Cl2       1.0  0.04018307104706764  0.1536720097064972  0.8880770206451416  1.0000

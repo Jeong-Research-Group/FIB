@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2Ti2Ir2
+_chemical_formula_sum              "Dy2 Ti2 Ir2"
+_cell_length_a       4.367104624559587
+_cell_length_b       4.366429881383946
+_cell_length_c       6.620875241643483
+_cell_angle_alpha    89.96602317405973
+_cell_angle_beta     89.96300197995342
+_cell_angle_gamma    89.99759546670313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6320070638700992  0.352121166685187  0.43477203866605846  1.0000
+  Dy  Dy2       1.0  0.13210943580314255  0.852077900965987  0.7123622519634365  1.0000
+  Ti  Ti1       1.0  0.13215404483606916  0.3523262368249802  0.07351282290403634  1.0000
+  Ti  Ti2       1.0  0.6320095255389411  0.8525292201557224  0.07368946394938469  1.0000
+  Ir  Ir1       1.0  0.6323846265652268  0.35269331205251847  0.8695399018883145  1.0000
+  Ir  Ir2       1.0  0.13168869364900027  0.8520534950353919  0.2777735237453545  1.0000

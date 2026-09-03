@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaTiFe4
+_chemical_formula_sum              "La1 Ti1 Fe4"
+_cell_length_a       5.07700881370129
+_cell_length_b       5.077039306112027
+_cell_length_c       5.076293366204628
+_cell_angle_alpha    60.0025626295421
+_cell_angle_beta     59.999978512730856
+_cell_angle_gamma    60.00764354067399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.39887518487088014  0.5781910448898564  0.013075880366736386  1.0000
+  Ti  Ti1       1.0  0.14847086203188586  0.3279407543790621  0.7633225096532702  1.0000
+  Fe  Fe1       1.0  0.2704667964556575  0.9542036397499872  0.38910606395857655  1.0000
+  Fe  Fe2       1.0  0.7749253675320183  0.9544078030895194  0.8845565298705982  1.0000
+  Fe  Fe3       1.0  0.774887068178783  0.9542199144972362  0.38913644161856437  1.0000
+  Fe  Fe4       1.0  0.7750553513327053  0.4493779256052477  0.38911838979048935  1.0000

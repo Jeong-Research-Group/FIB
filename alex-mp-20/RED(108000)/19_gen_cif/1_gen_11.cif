@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2Ti2PPb2
+_chemical_formula_sum              "Ca2 Ti2 P1 Pb2"
+_cell_length_a       4.639939359777424
+_cell_length_b       4.751116927676418
+_cell_length_c       8.478331327435024
+_cell_angle_alpha    106.26392728413754
+_cell_angle_beta     90.01219485686441
+_cell_angle_gamma    90.01021490935402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.43126440382344833  0.23241963884242636  0.10948976569772674  1.0000
+  Ca  Ca2       1.0  0.43109672744810046  0.8923283424984625  0.4310528803047794  1.0000
+  Ti  Ti1       1.0  0.4309734803975974  0.5627273781456056  0.770481976320321  1.0000
+  Ti  Ti2       1.0  0.930968522354626  0.06267061171346779  0.7702213150509174  1.0000
+  P   P1        1.0  0.4309607417915638  0.06253642753195648  0.7701934932955302  1.0000
+  Pb  Pb1       1.0  0.9310167700663696  0.4388495966953773  0.5237475408250792  1.0000
+  Pb  Pb2       1.0  0.931226995519109  0.6860998271949619  0.016940252097763637  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnZr2MgMn2
+_chemical_formula_sum              "Mn3 Zr2 Mg1"
+_cell_length_a       5.067962458311466
+_cell_length_b       5.069140739822413
+_cell_length_c       5.229036331176758
+_cell_angle_alpha    60.91847246851705
+_cell_angle_beta     60.92857263247254
+_cell_angle_gamma    59.957492175692686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7749143838882446  0.43270960450172424  0.010168292559683238  1.0000
+  Zr  Zr1       1.0  0.8947937488555908  0.05202161520719528  0.6521245241165161  1.0000
+  Zr  Zr2       1.0  0.6543798446655275  0.8130931258201599  0.3694726228713989  1.0000
+  Mg  Mg1       1.0  0.2749662697315216  0.43242567777633667  0.509985625743866  1.0000
+  Mn  Mn2       1.0  0.2741070091724396  0.9327306151390076  0.01047213189303875  1.0000
+  Mn  Mn3       1.0  0.2743758261203766  0.4322675168514251  0.011337014846503735  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RhMgRhFeB
+_chemical_formula_sum              "Rh2 Mg1 Fe1 B1"
+_cell_length_a       3.922791957863631
+_cell_length_b       4.09765819854062
+_cell_length_c       4.092676162719727
+_cell_angle_alpha    89.95143985953591
+_cell_angle_beta     90.00011861769134
+_cell_angle_gamma    89.99989322145325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.7206026315689086  0.38563108444213867  0.22347678244113922  1.0000
+  Mg  Mg1       1.0  0.22109460830688474  0.88576740026474  0.223680317401886  1.0000
+  Rh  Rh2       1.0  0.7206152081489562  0.8855202794075012  0.7235774993896484  1.0000
+  Fe  Fe1       1.0  0.2210704684257507  0.385966271162033  0.7235308885574341  1.0000
+  B   B1        1.0  0.7201780080795287  0.38579678535461426  0.7239232063293457  1.0000

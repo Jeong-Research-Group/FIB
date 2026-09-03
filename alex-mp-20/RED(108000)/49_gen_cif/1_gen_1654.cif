@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Fe2I2
+_chemical_formula_sum              "Sr2 Fe2 I2"
+_cell_length_a       4.296852658910213
+_cell_length_b       4.296629462374296
+_cell_length_c       12.916768643043703
+_cell_angle_alpha    89.24862926232018
+_cell_angle_beta     90.82069866924903
+_cell_angle_gamma    120.00626315199962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.349584157593839  0.8225604873757246  0.6690876702061958  1.0000
+  Sr  Sr2       1.0  0.3616402525713393  0.8144187689272872  0.019852545771514903  1.0000
+  Fe  Fe1       1.0  0.021696063072441308  0.15244881678571884  0.8438580426107216  1.0000
+  Fe  Fe2       1.0  0.6884942816455165  0.48571228780959697  0.8448165105958693  1.0000
+  I   I1        1.0  0.03392769125354361  0.143074700478487  0.17979168374232504  1.0000
+  I   I2        1.0  0.6778489037750711  0.4930972835435742  0.5092730267709604  1.0000

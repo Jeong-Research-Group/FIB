@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaTbNi2P2
+_chemical_formula_sum              "Ca1 Tb1 Ni2 P2"
+_cell_length_a       3.8911815924745667
+_cell_length_b       3.8909972034444724
+_cell_length_c       8.020966080637386
+_cell_angle_alpha    90.00413156718491
+_cell_angle_beta     90.00836968106847
+_cell_angle_gamma    120.00439260000651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.4084061912327503  0.4453908121070255  0.23012294798933666  1.0000
+  Tb  Tb1       1.0  0.4086976071499705  0.4454899003932628  0.7301296978211306  1.0000
+  Ni  Ni1       1.0  0.7418189740645729  0.11199707846044057  0.4864184004431148  1.0000
+  Ni  Ni2       1.0  0.0754596664026393  0.7789228695116706  0.973864029429806  1.0000
+  P   P1        1.0  0.7421117108900842  0.11219860456442966  0.9703461686002209  1.0000
+  P   P2        1.0  0.07516719999116048  0.7787502313817859  0.489706407903838  1.0000

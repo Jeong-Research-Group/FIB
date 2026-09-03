@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Fe2P2
+_chemical_formula_sum              "Mg2 Fe2 P2"
+_cell_length_a       3.799589636481729
+_cell_length_b       3.8006048527275818
+_cell_length_c       5.800778736122903
+_cell_angle_alpha    89.99423130584498
+_cell_angle_beta     89.99753861861554
+_cell_angle_gamma    89.99896881926902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2183079410101279  0.5282784986066503  0.7360699704251542  1.0000
+  Mg  Mg2       1.0  0.7181373619512332  0.02797409371342726  0.40370728178964643  1.0000
+  Fe  Fe1       1.0  0.7178904525135471  0.5280658551874565  0.06954796921018686  1.0000
+  Fe  Fe2       1.0  0.21789971740328065  0.027994978930485623  0.07015297216823317  1.0000
+  P   P1        1.0  0.7179190651207085  0.028115074761390947  0.8607740045050692  1.0000
+  P   P2        1.0  0.21786420583561614  0.5279482778972701  0.27896948627718576  1.0000

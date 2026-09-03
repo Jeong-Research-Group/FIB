@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeSnSe2MnK
+_chemical_formula_sum              "Se3 Sn1 Mn1 K1"
+_cell_length_a       4.262362225511687
+_cell_length_b       6.5386757671117985
+_cell_length_c       7.156591892242432
+_cell_angle_alpha    104.44813302454376
+_cell_angle_beta     90.05727363540574
+_cell_angle_gamma    90.02393549161043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.0071347481571137905  0.8302809596061705  0.7832761406898497  1.0000
+  Sn  Sn1       1.0  0.5085657238960266  0.8189498782157898  0.05878640711307522  1.0000
+  Se  Se2       1.0  0.008544836193323135  0.032249249517917626  0.32275193929672236  1.0000
+  Se  Se3       1.0  0.5083763599395752  0.39268016815185547  0.042477622628211954  1.0000
+  Mn  Mn1       1.0  0.008189362473785877  0.18673455715179443  0.033898383378982544  1.0000
+  K   K1        1.0  0.5080201029777527  0.4141437709331512  0.545822024345398  1.0000

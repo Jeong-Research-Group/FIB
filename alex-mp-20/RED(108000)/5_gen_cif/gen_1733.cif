@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NbMnNbGeN
+_chemical_formula_sum              "Nb2 Mn1 Ge1 N1"
+_cell_length_a       3.703822995212289
+_cell_length_b       4.287673802305558
+_cell_length_c       4.2902512550354
+_cell_angle_alpha    89.9301091838889
+_cell_angle_beta     90.04411186952214
+_cell_angle_gamma    90.03877748888893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.4486247599124908  0.5616434812545776  0.7165622115135193  1.0000
+  Mn  Mn1       1.0  0.9483852982521056  0.061969805508852  0.7166613340377808  1.0000
+  Nb  Nb2       1.0  0.44894239306449885  0.06148223951458931  0.21648557484149933  1.0000
+  Ge  Ge1       1.0  0.9480187892913817  0.5610360503196716  0.21694128215312958  1.0000
+  N   N1        1.0  0.4478427171707153  0.06165048852562904  0.7167270183563232  1.0000

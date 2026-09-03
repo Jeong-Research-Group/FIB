@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NdSmSn2Rh2
+_chemical_formula_sum              "Nd1 Sm1 Sn2 Rh2"
+_cell_length_a       4.75739431962435
+_cell_length_b       4.75742848559499
+_cell_length_c       6.915781696283158
+_cell_angle_alpha    90.00041228578839
+_cell_angle_beta     90.00093784840305
+_cell_angle_gamma    59.994705486017445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.9156113582729885  0.2176718774239225  0.045192579457275915  1.0000
+  Sm  Sm1       1.0  0.9158287377708231  0.21765915577640066  0.545246398861541  1.0000
+  Sn  Sn1       1.0  0.5823609734327354  0.8843573850109492  0.7874626708670323  1.0000
+  Sn  Sn2       1.0  0.24913164765759213  0.5508611102892018  0.30317434882287925  1.0000
+  Rh  Rh1       1.0  0.24915471286743862  0.5509100636517851  0.7802732123269306  1.0000
+  Rh  Rh2       1.0  0.5823506794274347  0.8841840388272051  0.30932798230822484  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2Hg4Bi
+_chemical_formula_sum              "K2 Hg4 Bi1"
+_cell_length_a       5.293156039484709
+_cell_length_b       6.565842102168771
+_cell_length_c       8.060379028320312
+_cell_angle_alpha    110.41744449641621
+_cell_angle_beta     89.97859669060347
+_cell_angle_gamma    113.66134769954553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7558743357658386  0.6482396125793458  0.5795599818229675  1.0000
+  K   K2        1.0  0.46451929211616516  0.06613238900899888  0.025884516537189487  1.0000
+  Hg  Hg1       1.0  0.21588630974292755  0.5681435465812683  0.23859071731567383  1.0000
+  Hg  Hg2       1.0  0.004474488086998463  0.1456158459186554  0.36864909529685974  1.0000
+  Hg  Hg3       1.0  0.45365431904792786  0.04389021173119545  0.5614626407623291  1.0000
+  Hg  Hg4       1.0  0.7676627039909363  0.6713887453079225  0.04381931945681572  1.0000
+  Bi  Bi1       1.0  0.10970260947942734  0.35649681091308594  0.8031507730484009  1.0000

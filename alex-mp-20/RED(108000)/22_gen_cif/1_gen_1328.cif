@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2NiPtO4
+_chemical_formula_sum              "Li2 Ni1 Pt1 O4"
+_cell_length_a       3.0724960044380696
+_cell_length_b       5.158753011888832
+_cell_length_c       5.279139786126779
+_cell_angle_alpha    100.80287826936514
+_cell_angle_beta     89.99501259618148
+_cell_angle_gamma    107.33377015433322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8985451558302302  0.7222142564515781  0.8953332470372594  1.0000
+  Li  Li2       1.0  0.4053029906009063  0.7360005285463759  0.339481093822541  1.0000
+  Ni  Ni1       1.0  0.6517657117749086  0.22911093691503948  0.11712127541315955  1.0000
+  Pt  Pt1       1.0  0.1516710792577696  0.22923369197435997  0.6171005903934192  1.0000
+  O   O1        1.0  0.0357297539405943  0.9973857384508912  0.2465042092452056  1.0000
+  O   O2        1.0  0.26744003706335057  0.46084133935037336  0.9877883149680765  1.0000
+  O   O3        1.0  0.5397309495781747  0.005612456295663648  0.7334418980546231  1.0000
+  O   O4        1.0  0.7635295410672145  0.45287990286747853  0.5006462944701162  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrGa2Pt2Au
+_chemical_formula_sum              "Pr1 Ga2 Pt2 Au1"
+_cell_length_a       4.39952999266672
+_cell_length_b       4.3994898241059435
+_cell_length_c       6.972747805386021
+_cell_angle_alpha    89.99811954534665
+_cell_angle_beta     90.00115393320583
+_cell_angle_gamma    120.00289362081968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6333747612592346  0.3061689586096059  0.7274991297754362  1.0000
+  Ga  Ga1       1.0  0.9667149226967339  0.9728351494886776  0.03165896442764015  1.0000
+  Ga  Ga2       1.0  0.3000213330528447  0.639504398464551  0.42332275199138214  1.0000
+  Pt  Pt1       1.0  0.9666973503851839  0.9728045604337429  0.4325868231830208  1.0000
+  Pt  Pt2       1.0  0.3000399179458087  0.639532104949069  0.022274443760600025  1.0000
+  Au  Au1       1.0  0.6333843343828898  0.30616959311373454  0.22756031739066493  1.0000

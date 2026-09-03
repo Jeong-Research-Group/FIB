@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SiCa2SiInPd2In
+_chemical_formula_sum              "Si2 Ca2 In2 Pd2"
+_cell_length_a       4.506828074211531
+_cell_length_b       5.706124808962681
+_cell_length_c       6.872921466827393
+_cell_angle_alpha    90.33541944159758
+_cell_angle_beta     90.01881284721199
+_cell_angle_gamma    113.16044939289301
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.27324336767196655  0.8675584197044373  0.06260622292757034  1.0000
+  Ca  Ca1       1.0  0.8361362218856812  0.9940864443778991  0.7804609537124634  1.0000
+  Ca  Ca2       1.0  0.006521657109260559  0.3338194191455841  0.2794654667377472  1.0000
+  Si  Si2       1.0  0.5713911056518555  0.46404209733009344  0.5613237023353577  1.0000
+  In  In1       1.0  0.30373966693878174  0.9275929927825927  0.4562462866306305  1.0000
+  Pd  Pd1       1.0  0.12432920187711717  0.5713397860527039  0.7510908246040344  1.0000
+  Pd  Pd2       1.0  0.7190338969230652  0.7580448985099792  0.2506251037120819  1.0000
+  In  In2       1.0  0.5390380620956421  0.4001427590847015  0.9546110033988953  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2SnHg
+_chemical_formula_sum              "Li2 Sn1 Hg1"
+_cell_length_a       3.3023465384335746
+_cell_length_b       4.872878167959322
+_cell_length_c       4.871352611344616
+_cell_angle_alpha    89.94201900038189
+_cell_angle_beta     89.89534086426988
+_cell_angle_gamma    89.97488249058452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9295988801293684  0.7346218863468769  0.48184958651800736  1.0000
+  Li  Li2       1.0  0.9295850587885361  0.23595622824665258  0.9826095443294667  1.0000
+  Sn  Sn1       1.0  0.4295666104822047  0.7356065785192148  0.9821771865943834  1.0000
+  Hg  Hg1       1.0  0.4296219494343861  0.23528299334939035  0.48217061482868073  1.0000

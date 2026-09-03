@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2GaCo2Si
+_chemical_formula_sum              "Ho2 Ga1 Co2 Si1"
+_cell_length_a       4.035429800545909
+_cell_length_b       4.035394192181434
+_cell_length_c       6.622509102979952
+_cell_angle_alpha    90.00606724500196
+_cell_angle_beta     89.99370740944715
+_cell_angle_gamma    89.99969966554781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9484959107459588  0.49880852696666256  0.03491471600075196  1.0000
+  Ho  Ho2       1.0  0.44834808364519557  0.9989753895189316  0.6603774604337185  1.0000
+  Ga  Ga1       1.0  0.9483349295428036  0.4989017449522709  0.5477992423576782  1.0000
+  Co  Co1       1.0  0.94848267457469  0.9988142522951468  0.33782592967212166  1.0000
+  Co  Co2       1.0  0.44839771175866283  0.49888040900951086  0.3378610278639356  1.0000
+  Si  Si1       1.0  0.4485220738752341  0.9988354158964646  0.15961568451056826  1.0000

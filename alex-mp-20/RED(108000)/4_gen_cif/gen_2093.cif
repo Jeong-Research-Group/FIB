@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaSm3Ir2
+_chemical_formula_sum              "Ca1 Sm3 Ir2"
+_cell_length_a       3.4900219464697764
+_cell_length_b       3.4877608850978876
+_cell_length_c       13.286320686340332
+_cell_angle_alpha    89.9607562394981
+_cell_angle_beta     89.99786465524397
+_cell_angle_gamma    89.91056800054861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.14759814739227295  0.07357649505138397  0.6283745765686035  1.0000
+  Sm  Sm1       1.0  0.14750808477401733  0.0751306563615799  0.8808169364929199  1.0000
+  Sm  Sm2       1.0  0.6473261713981628  0.5743722915649414  0.12413190305233002  1.0000
+  Sm  Sm3       1.0  0.6474853157997131  0.5739076733589172  0.38014674186706543  1.0000
+  Ir  Ir1       1.0  0.14734409749507904  0.07434007525444031  0.25162118673324585  1.0000
+  Ir  Ir2       1.0  0.647727370262146  0.5739015936851501  0.7639904022216797  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiMg3InHg3
+_chemical_formula_sum              "Li1 Mg3 In1 Hg3"
+_cell_length_a       3.5317747765685943
+_cell_length_b       4.888275575737737
+_cell_length_c       9.903473837732262
+_cell_angle_alpha    89.9971115542198
+_cell_angle_beta     89.9964109397228
+_cell_angle_gamma    90.00371380853392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2937247349833257  0.8019224888818632  0.009762721645957012  1.0000
+  Mg  Mg1       1.0  0.2935841382953784  0.3016632030657432  0.7527953461423119  1.0000
+  Mg  Mg2       1.0  0.2939210511447806  0.3023919520506959  0.2663007675265997  1.0000
+  Mg  Mg3       1.0  0.2939327011492291  0.8022774114360902  0.5096077253870916  1.0000
+  In  In1       1.0  0.7937853333814957  0.30214458829856455  0.009544250402716082  1.0000
+  Hg  Hg1       1.0  0.7940712038367145  0.302470363149009  0.509541230467878  1.0000
+  Hg  Hg2       1.0  0.7939330151792434  0.8024573186170018  0.2467414576130033  1.0000
+  Hg  Hg3       1.0  0.7936920270768378  0.8019736125392218  0.7727277413082204  1.0000

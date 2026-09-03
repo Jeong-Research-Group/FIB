@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaSi2IrPt2
+_chemical_formula_sum              "Ca1 Si2 Ir1 Pt2"
+_cell_length_a       4.19086355219651
+_cell_length_b       4.190005462421486
+_cell_length_c       6.806928120922208
+_cell_angle_alpha    89.99088748235006
+_cell_angle_beta     90.0048419754497
+_cell_angle_gamma    120.00306179297036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.30030028267544506  0.31878787276512366  0.6964767653332071  1.0000
+  Si  Si1       1.0  0.6334949017931141  0.9852034544302142  0.021078235099311244  1.0000
+  Si  Si2       1.0  0.9670878135216723  0.6521404410354069  0.37192065552110115  1.0000
+  Ir  Ir1       1.0  0.3002533087755682  0.3187276819417304  0.1964290249942666  1.0000
+  Pt  Pt1       1.0  0.6337266214808781  0.9853706721136625  0.40217984089768344  1.0000
+  Pt  Pt2       1.0  0.9668618039161214  0.6519888949516603  0.9907964521892966  1.0000

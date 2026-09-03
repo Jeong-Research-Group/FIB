@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnRh2Au
+_chemical_formula_sum              "Sn1 Rh2 Au1"
+_cell_length_a       3.6596607849552334
+_cell_length_b       4.273953721535207
+_cell_length_c       4.273682062847503
+_cell_angle_alpha    90.00819482146213
+_cell_angle_beta     89.99904633558224
+_cell_angle_gamma    89.9956715142162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.3122754054064085  0.6360664607287178  0.12338378812949466  1.0000
+  Rh  Rh1       1.0  0.8124437877654451  0.6361687823941742  0.6234475593328916  1.0000
+  Rh  Rh2       1.0  0.8120082348793058  0.13619650884356435  0.12384108984437489  1.0000
+  Au  Au1       1.0  0.3122032374260625  0.13603466872078296  0.6236724600384499  1.0000

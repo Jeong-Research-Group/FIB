@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2DyMgN
+_chemical_formula_sum              "Sm2 Dy1 Mg1 N1"
+_cell_length_a       4.82888673239795
+_cell_length_b       5.032276262441418
+_cell_length_c       5.030763217833369
+_cell_angle_alpha    90.01153765721055
+_cell_angle_beta     90.05005137404736
+_cell_angle_gamma    90.06262326003217
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7009275659868521  0.9786370710175479  0.822403547232368  1.0000
+  Sm  Sm2       1.0  0.7011422709155611  0.4790982172401926  0.32269143280357343  1.0000
+  Dy  Dy1       1.0  0.20109372129393735  0.9791151555854638  0.3226903675605756  1.0000
+  Mg  Mg1       1.0  0.2010019283284664  0.4786539089951446  0.8223943640501508  1.0000
+  N   N1        1.0  0.7009675018830853  0.9788543737114572  0.32280342567993514  1.0000

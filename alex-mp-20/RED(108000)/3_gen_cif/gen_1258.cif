@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaClHgClCaCl2
+_chemical_formula_sum              "Ca2 Cl4 Hg1"
+_cell_length_a       4.082161663584752
+_cell_length_b       7.125423964401085
+_cell_length_c       10.351730346679688
+_cell_angle_alpha    102.9380759865279
+_cell_angle_beta     90.44953821627114
+_cell_angle_gamma    90.17967063379882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.020638171583414078  0.3140741288661957  0.8087902069091798  1.0000
+  Cl  Cl1       1.0  0.021035196259617805  0.6019030809402466  0.6683533787727356  1.0000
+  Hg  Hg1       1.0  0.020913759246468544  0.8158674240112305  0.3078758418560028  1.0000
+  Cl  Cl2       1.0  0.521773636341095  0.10134479403495789  0.6674895286560059  1.0000
+  Ca  Ca2       1.0  0.5210345983505249  0.813414454460144  0.8070332407951356  1.0000
+  Cl  Cl3       1.0  0.02183578349649906  0.0245487280189991  0.9442193508148194  1.0000
+  Cl  Cl4       1.0  0.5221440196037292  0.5266168713569641  0.9453818798065187  1.0000

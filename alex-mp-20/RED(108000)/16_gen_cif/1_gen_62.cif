@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Te4Mo2
+_chemical_formula_sum              "Li2 Te4 Mo2"
+_cell_length_a       3.671800470016186
+_cell_length_b       6.478761703340832
+_cell_length_c       9.345764117131424
+_cell_angle_alpha    123.96286822039669
+_cell_angle_beta     90.02501547720628
+_cell_angle_gamma    89.9926997347382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7830938459317084  0.13458479992335645  0.7304987368928513  1.0000
+  Li  Li2       1.0  0.2845953781340143  0.44328667739707345  0.593396863662987  1.0000
+  Te  Te1       1.0  0.7838069678482875  0.35818462228138714  0.33878472215883326  1.0000
+  Te  Te2       1.0  0.7836422856768478  0.6585484334546233  0.8976719267524148  1.0000
+  Te  Te3       1.0  0.28370807436560724  0.22096478879256717  0.9858259512449258  1.0000
+  Te  Te4       1.0  0.28403192440496333  0.920780972402988  0.42643534083996637  1.0000
+  Mo  Mo1       1.0  0.28386259740419456  0.9551649473989162  0.1496293244422409  1.0000
+  Mo  Mo2       1.0  0.7837938035688208  0.6238459994098873  0.174648955956283  1.0000

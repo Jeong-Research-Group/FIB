@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeNi2Sb
+_chemical_formula_sum              "Fe1 Ni2 Sb1"
+_cell_length_a       3.746447151469416
+_cell_length_b       3.746392717485295
+_cell_length_c       3.75965072950429
+_cell_angle_alpha    89.99057010729517
+_cell_angle_beta     90.00265635455305
+_cell_angle_gamma    90.00904358932361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3616595957159054  0.9743462410409537  0.7941643133273656  1.0000
+  Ni  Ni1       1.0  0.3615733340736073  0.4743576038580091  0.2941005551975179  1.0000
+  Ni  Ni2       1.0  0.8615580778768425  0.9746247603897845  0.29443753724914395  1.0000
+  Sb  Sb1       1.0  0.8616073088965635  0.4745362720649918  0.7942501939232229  1.0000

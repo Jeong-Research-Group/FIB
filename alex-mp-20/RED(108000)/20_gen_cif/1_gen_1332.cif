@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Hg2Au2
+_chemical_formula_sum              "Ca2 Hg2 Au2"
+_cell_length_a       4.8485688630661885
+_cell_length_b       4.847378366941664
+_cell_length_c       7.392401173271691
+_cell_angle_alpha    90.01144565786295
+_cell_angle_beta     90.0019156478269
+_cell_angle_gamma    120.01140460977406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.1552936821743383  0.7253156523261297  0.10557069710632407  1.0000
+  Ca  Ca2       1.0  0.15520563989432234  0.7249870666068943  0.6410031094073223  1.0000
+  Hg  Hg1       1.0  0.8218676866012941  0.05851314937503276  0.33149779179744177  1.0000
+  Hg  Hg2       1.0  0.488508673971944  0.39182167410723995  0.41375773571041724  1.0000
+  Au  Au1       1.0  0.8216817506121531  0.05851331059387477  0.892654710774098  1.0000
+  Au  Au2       1.0  0.4883474894553947  0.39164443871636156  0.85360234878333  1.0000

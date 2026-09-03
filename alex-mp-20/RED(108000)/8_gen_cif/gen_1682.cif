@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Dy2SiNiGeNiGeNiGeNi
+_chemical_formula_sum              "Dy2 Si1 Ni4 Ge3"
+_cell_length_a       4.0513148800715415
+_cell_length_b       4.047035077893327
+_cell_length_c       9.71790599822998
+_cell_angle_alpha    89.81196056065511
+_cell_angle_beta     89.86352167656597
+_cell_angle_gamma    89.80037656530601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7521234154701233  0.7842164635658264  0.03289923444390297  1.0000
+  Dy  Dy2       1.0  0.2517682611942291  0.2845577895641327  0.5399400591850281  1.0000
+  Si  Si1       1.0  0.2523961663246155  0.284671425819397  0.9132853150367737  1.0000
+  Ni  Ni1       1.0  0.2521977126598358  0.2844366431236267  0.14963361620903015  1.0000
+  Ge  Ge1       1.0  0.7518281936645508  0.7842144966125488  0.6592086553573608  1.0000
+  Ni  Ni2       1.0  0.751714825630188  0.7841066122055054  0.4170268476009369  1.0000
+  Ge  Ge2       1.0  0.2518540918827057  0.7844809889793396  0.2855948507785797  1.0000
+  Ni  Ni3       1.0  0.2518465220928192  0.7844948172569275  0.7920418381690979  1.0000
+  Ge  Ge3       1.0  0.7519961595535278  0.2839880585670471  0.2857343256473541  1.0000
+  Ni  Ni4       1.0  0.7521224021911621  0.28412315249443054  0.7921242117881775  1.0000

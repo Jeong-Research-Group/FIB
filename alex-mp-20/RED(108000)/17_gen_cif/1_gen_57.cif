@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCa3Rh2
+_chemical_formula_sum              "Li1 Ca3 Rh2"
+_cell_length_a       4.973828811477795
+_cell_length_b       4.9820695904372485
+_cell_length_c       6.149159139609278
+_cell_angle_alpha    90.0136283354301
+_cell_angle_beta     90.0830394948991
+_cell_angle_gamma    120.02072504231327
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6918087416339398  0.17752213428902466  0.4470512242510482  1.0000
+  Ca  Ca1       1.0  0.025086631141638012  0.8442911079249038  0.6460363149125588  1.0000
+  Ca  Ca2       1.0  0.6917594451564137  0.1776130091070627  0.9471924840301125  1.0000
+  Ca  Ca3       1.0  0.3584612119014534  0.510949976149334  0.24798595748436714  1.0000
+  Rh  Rh1       1.0  0.35818252065644646  0.5108013884403342  0.7580205850666164  1.0000
+  Rh  Rh2       1.0  0.025442638149800793  0.8446212167712029  0.13597236212375088  1.0000

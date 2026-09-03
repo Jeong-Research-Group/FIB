@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuLa2Cd2Cu
+_chemical_formula_sum              "Cu2 La2 Cd2"
+_cell_length_a       4.311657109440412
+_cell_length_b       4.326029410760071
+_cell_length_c       7.879378795623779
+_cell_angle_alpha    89.9701545767035
+_cell_angle_beta     89.98451163449653
+_cell_angle_gamma    90.00148465563419
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.4940674901008606  0.4076022207736969  0.4759664237499237  1.0000
+  La  La1       1.0  0.9940692782402039  0.9072664380073547  0.576789379119873  1.0000
+  La  La2       1.0  0.49405837059020996  0.4075598120689392  0.8942729234695435  1.0000
+  Cd  Cd1       1.0  0.994085431098938  0.4073631167411804  0.23508378863334656  1.0000
+  Cd  Cd2       1.0  0.4941783547401428  0.9075530767440796  0.2357104867696762  1.0000
+  Cu  Cu2       1.0  0.9940732717514038  0.907718300819397  0.9953555464744568  1.0000

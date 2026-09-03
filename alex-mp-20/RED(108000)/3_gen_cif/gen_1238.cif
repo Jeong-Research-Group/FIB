@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       In3GaSn2
+_chemical_formula_sum              "In3 Ga1 Sn2"
+_cell_length_a       4.6657985403880184
+_cell_length_b       4.661179936246347
+_cell_length_c       7.588055610656738
+_cell_angle_alpha    91.01334979390445
+_cell_angle_beta     92.71095270611714
+_cell_angle_gamma    90.09690921177446
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.3971298336982727  0.5212982892990112  0.3331950306892395  1.0000
+  In  In2       1.0  0.3725081980228424  0.016139887273311615  0.020043227821588516  1.0000
+  In  In3       1.0  0.9204763174057007  0.5254834294319153  0.6451452374458313  1.0000
+  Ga  Ga1       1.0  0.8966209292411804  0.021289605647325516  0.33156031370162964  1.0000
+  Sn  Sn1       1.0  0.41892769932746887  0.02416728250682354  0.6254149079322815  1.0000
+  Sn  Sn2       1.0  0.8747177720069885  0.5181963443756104  0.04007972404360771  1.0000

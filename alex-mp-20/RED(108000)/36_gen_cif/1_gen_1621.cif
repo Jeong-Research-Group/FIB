@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Tl3Sn2Pb
+_chemical_formula_sum              "Li2 Tl3 Sn2 Pb1"
+_cell_length_a       4.656489782437601
+_cell_length_b       4.656195935567534
+_cell_length_c       9.965929825208656
+_cell_angle_alpha    89.99824894988652
+_cell_angle_beta     90.00082514485896
+_cell_angle_gamma    89.99805842141899
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6262182642003745  0.5648422698853826  0.6957783118622507  1.0000
+  Li  Li2       1.0  0.626666137242904  0.5651926676347816  0.22007704017548185  1.0000
+  Tl  Tl1       1.0  0.6261438620003729  0.06486062782233297  0.9577217605956854  1.0000
+  Tl  Tl2       1.0  0.126121502551359  0.0645609226931741  0.701056765603043  1.0000
+  Tl  Tl3       1.0  0.12599741674860102  0.06451179655222383  0.2151170767877048  1.0000
+  Sn  Sn1       1.0  0.12650299399904058  0.5649048720147809  0.45788039096215466  1.0000
+  Sn  Sn2       1.0  0.6262702206435721  0.06518645599098834  0.4575655682440718  1.0000
+  Pb  Pb1       1.0  0.12633192974642402  0.5645595611236218  0.9583596908288702  1.0000

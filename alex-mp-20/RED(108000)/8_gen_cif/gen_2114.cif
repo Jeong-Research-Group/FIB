@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnFeRh2C
+_chemical_formula_sum              "Zn1 Fe1 Rh2 C1"
+_cell_length_a       3.7978458889440776
+_cell_length_b       4.04836027411758
+_cell_length_c       4.042479515075684
+_cell_angle_alpha    90.20594638528627
+_cell_angle_beta     90.09125382753385
+_cell_angle_gamma    90.05193926315432
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0680588111281395  0.18515990674495697  0.5168560147285461  1.0000
+  Fe  Fe1       1.0  0.06847105920314789  0.685137927532196  0.016913246363401413  1.0000
+  Rh  Rh1       1.0  0.5687077641487122  0.18503887951374054  0.017355751246213913  1.0000
+  Rh  Rh2       1.0  0.5684234499931335  0.6852046251296996  0.5174849629402161  1.0000
+  C   C1        1.0  0.5683059692382812  0.6851131916046143  0.01743040233850479  1.0000

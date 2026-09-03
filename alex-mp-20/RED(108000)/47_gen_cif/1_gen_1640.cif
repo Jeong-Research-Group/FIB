@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Hg2Pd2Au
+_chemical_formula_sum              "Li2 Hg2 Pd2 Au1"
+_cell_length_a       4.091130089296403
+_cell_length_b       4.998760103330938
+_cell_length_c       6.563921471179906
+_cell_angle_alpha    98.86930689512457
+_cell_angle_beta     90.00095698531261
+_cell_angle_gamma    114.15520266318883
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1363122658888032  0.43471404919489787  0.3503799523942946  1.0000
+  Li  Li2       1.0  0.7248733700993926  0.6121592085570924  0.018174368273208896  1.0000
+  Hg  Hg1       1.0  0.8421702487071924  0.8467904252205568  0.465215235172005  1.0000
+  Hg  Hg2       1.0  0.01884255291518409  0.19974853585114513  0.9032312111430637  1.0000
+  Pd  Pd1       1.0  0.5689574171544339  0.30019289602952715  0.605983730862453  1.0000
+  Pd  Pd2       1.0  0.291998143886453  0.7462342961011996  0.7624440267671435  1.0000
+  Au  Au1       1.0  0.430471569276423  0.023203417380442643  0.18423458453701236  1.0000

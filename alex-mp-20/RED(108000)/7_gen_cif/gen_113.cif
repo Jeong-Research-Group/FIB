@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be2FeB2Co
+_chemical_formula_sum              "Be2 Fe1 B2 Co1"
+_cell_length_a       2.64036212024128
+_cell_length_b       3.333178916044674
+_cell_length_c       5.520890712738037
+_cell_angle_alpha    89.86181412193056
+_cell_angle_beta     103.68432108837055
+_cell_angle_gamma    89.98008567109639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.3940991163253784  0.8345697522163391  0.10797256976366043  1.0000
+  Be  Be2       1.0  0.21680748462677002  0.33370351791381836  0.7531504034996033  1.0000
+  Fe  Fe1       1.0  0.5343003869056702  0.3348554074764251  0.38793203234672546  1.0000
+  B   B1        1.0  0.07867909967899323  0.8338491320610046  0.47649216651916504  1.0000
+  B   B2        1.0  0.868536114692688  0.3341007828712463  0.05956520885229111  1.0000
+  Co  Co1       1.0  0.7293238639831543  0.8346034288406373  0.7790864109992981  1.0000

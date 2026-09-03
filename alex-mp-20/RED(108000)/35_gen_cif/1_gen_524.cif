@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       In2HgSb2
+_chemical_formula_sum              "In2 Hg1 Sb2"
+_cell_length_a       4.386158865627911
+_cell_length_b       4.385903777168937
+_cell_length_c       9.009002488926969
+_cell_angle_alpha    75.92037880656905
+_cell_angle_beta     75.91277847252687
+_cell_angle_gamma    59.995936926611854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.37625445329827834  0.08166363067093364  0.221736688256328  1.0000
+  In  In2       1.0  0.5762462074200949  0.2817382176987518  0.6213145074479625  1.0000
+  Hg  Hg1       1.0  0.7795567380324291  0.4852168476849087  0.011234180726050617  1.0000
+  Sb  Sb1       1.0  0.17705477093311614  0.8827204746061945  0.8186023377444807  1.0000
+  Sb  Sb2       1.0  0.9801689397690753  0.685514071812932  0.4100903406335278  1.0000

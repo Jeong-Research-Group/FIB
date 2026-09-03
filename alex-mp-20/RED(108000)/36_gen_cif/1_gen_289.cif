@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2MnNb
+_chemical_formula_sum              "Ta2 Mn1 Nb1"
+_cell_length_a       3.222273181742274
+_cell_length_b       4.509249542596298
+_cell_length_c       4.508455348496493
+_cell_angle_alpha    89.99968370452947
+_cell_angle_beta     89.99729545062723
+_cell_angle_gamma    89.99763963965486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.7242636033276767  0.6338051746151487  0.645804110705855  1.0000
+  Ta  Ta2       1.0  0.7247253154637727  0.13384299145274872  0.14590546472553745  1.0000
+  Mn  Mn1       1.0  0.2242343625656443  0.13392981996053474  0.645683562261353  1.0000
+  Nb  Nb1       1.0  0.22449301602498037  0.633852178466371  0.14590481509957645  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K2NaGaH4Pd
+_chemical_formula_sum              "K2 Na1 Ga1 H4 Pd1"
+_cell_length_a       4.9154544417306365
+_cell_length_b       6.061318301854471
+_cell_length_c       6.70749863569005
+_cell_angle_alpha    89.82352777136605
+_cell_angle_beta     68.5307306814988
+_cell_angle_gamma    89.98655357133161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.6975532108900325  0.19002543313477566  0.6384291462143218  1.0000
+  K   K2        1.0  0.2927150141689333  0.6921789753096458  0.4486480519887006  1.0000
+  Na  Na1       1.0  0.9859306649090388  0.19438472833539538  0.062036478191545674  1.0000
+  Ga  Ga1       1.0  0.5707244730483789  0.6887340871812713  0.8921540922135561  1.0000
+  H   H1        1.0  0.09579137048005425  0.48892919036306665  0.8440631137462524  1.0000
+  H   H2        1.0  0.09569990223263575  0.9002619873802569  0.8437975066879302  1.0000
+  H   H3        1.0  0.8931016397408484  0.5041917694055664  0.2478734117688933  1.0000
+  H   H4        1.0  0.8927904231359606  0.8834027337947297  0.2478668222493681  1.0000
+  Pd  Pd1       1.0  0.9952325021526367  0.6942649611231517  0.043558415745372905  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OHGaHFO
+_chemical_formula_sum              "O2 H2 Ga1 F1"
+_cell_length_a       3.034818893151904
+_cell_length_b       4.036259748120162
+_cell_length_c       4.80053186416626
+_cell_angle_alpha    64.85416964845291
+_cell_angle_beta     89.85995630105708
+_cell_angle_gamma    89.93480151859198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2826448976993561  0.7850481271743774  0.28176903724670405  1.0000
+  H   H1        1.0  0.2830057442188263  0.2214076668024063  0.03288865089416504  1.0000
+  Ga  Ga1       1.0  0.7823535203933716  0.6324588060379028  0.577316164970398  1.0000
+  H   H2        1.0  0.2827184498310089  0.6720719933509827  0.12357572466135025  1.0000
+  F   F1        1.0  0.7813718318939209  0.12861579656600952  0.5785704255104065  1.0000
+  O   O2        1.0  0.28198230266571045  0.49218684434890747  0.8756282925605774  1.0000

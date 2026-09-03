@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2FeGa2Fe
+_chemical_formula_sum              "La2 Fe2 Ga2"
+_cell_length_a       4.309977733960301
+_cell_length_b       4.307910068094395
+_cell_length_c       7.071733474731445
+_cell_angle_alpha    89.98749642817792
+_cell_angle_beta     89.98243525724854
+_cell_angle_gamma    89.96938959298976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.03521052002906799  0.6916656494140625  0.4552595317363739  1.0000
+  La  La2       1.0  0.5354592800140381  0.19150777161121368  0.038712549954652786  1.0000
+  Fe  Fe1       1.0  0.03539944067597389  0.19056382775306702  0.7466561794281006  1.0000
+  Ga  Ga1       1.0  0.5352082848548889  0.19168208539485931  0.5697053670883179  1.0000
+  Ga  Ga2       1.0  0.035522039979696274  0.69130939245224  0.9246342182159424  1.0000
+  Fe  Fe2       1.0  0.5352827310562134  0.6924619674682617  0.7475047707557678  1.0000

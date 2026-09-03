@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4CaIn3
+_chemical_formula_sum              "Li4 Ca1 In3"
+_cell_length_a       3.593341491676217
+_cell_length_b       3.5917823199502763
+_cell_length_c       13.63723470290813
+_cell_angle_alpha    90.0013141114502
+_cell_angle_beta     89.99978332137098
+_cell_angle_gamma    89.99645405587246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4188231059753139  0.5390477896143425  0.07257318567188253  1.0000
+  Li  Li2       1.0  0.9180963759246875  0.03928788334063732  0.7316928060577113  1.0000
+  Li  Li3       1.0  0.918443766666492  0.04002976975345273  0.5092731603452345  1.0000
+  Li  Li4       1.0  0.9180884054927707  0.03881261443935439  0.9586162747418  1.0000
+  Ca  Ca1       1.0  0.4187652096470298  0.5395859404268502  0.3389508978740525  1.0000
+  In  In1       1.0  0.4183172435557401  0.5392555674025171  0.8479739546280652  1.0000
+  In  In2       1.0  0.91839758093924  0.039053844952608455  0.18152065862399333  1.0000
+  In  In3       1.0  0.41840037455636075  0.5395261143157086  0.611498516406065  1.0000

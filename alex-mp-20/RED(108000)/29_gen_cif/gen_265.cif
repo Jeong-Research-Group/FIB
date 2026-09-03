@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrNiGeNiCrGe
+_chemical_formula_sum              "Cr2 Ni2 Ge2"
+_cell_length_a       3.3249759434992456
+_cell_length_b       3.9483201700920483
+_cell_length_c       6.121152400970459
+_cell_angle_alpha    108.53947759368403
+_cell_angle_beta     89.78862863983474
+_cell_angle_gamma    89.90659966038773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.30619993805885315  0.1819867044687271  0.24528865516185758  1.0000
+  Ni  Ni1       1.0  0.807229518890381  0.3516097366809845  0.5842339992523193  1.0000
+  Ge  Ge1       1.0  0.30705779790878296  0.8373852372169494  0.5564606785774231  1.0000
+  Ni  Ni2       1.0  0.807076394557953  0.68552565574646  0.25218474864959717  1.0000
+  Cr  Cr2       1.0  0.8062264323234559  0.014531988650560379  0.9129952192306517  1.0000
+  Ge  Ge2       1.0  0.30599838495254517  0.5262673497200012  0.9362245202064513  1.0000

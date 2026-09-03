@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuRe2Ni2Ru
+_chemical_formula_sum              "Ru2 Re2 Ni2"
+_cell_length_a       4.242919157434022
+_cell_length_b       4.642714488693183
+_cell_length_c       4.680415630340576
+_cell_angle_alpha    119.9844169509159
+_cell_angle_beta     90.0171121303141
+_cell_angle_gamma    90.02362130053041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.6479337811470032  0.38197132945060724  0.6383634805679321  1.0000
+  Re  Re1       1.0  0.1469278633594513  0.046219933778047555  0.3002817630767822  1.0000
+  Re  Re2       1.0  0.6466854214668274  0.040024057030677795  0.9563316106796265  1.0000
+  Ni  Ni1       1.0  0.14704529941082  0.7112907767295837  0.6303295493125916  1.0000
+  Ni  Ni2       1.0  0.14668665826320648  0.3744406998157501  0.9580801129341125  1.0000
+  Ru  Ru2       1.0  0.6473827958106995  0.7013764977455139  0.29674458503723145  1.0000

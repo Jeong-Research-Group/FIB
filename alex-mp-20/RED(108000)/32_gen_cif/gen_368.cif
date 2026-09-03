@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2TmSn
+_chemical_formula_sum              "Tb2 Tm1 Sn1"
+_cell_length_a       4.795280586453856
+_cell_length_b       4.821488290968889
+_cell_length_c       4.821585178375244
+_cell_angle_alpha    89.9770325773008
+_cell_angle_beta     89.98666314609758
+_cell_angle_gamma    89.97427318383792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6680954694747925  0.4896407425403595  0.5261358618736267  1.0000
+  Tb  Tb2       1.0  0.6681991219520569  0.989487886428833  0.026156511157751083  1.0000
+  Tm  Tm1       1.0  0.16808955371379852  0.9896147251129149  0.5261842012405396  1.0000
+  Sn  Sn1       1.0  0.16804003715515137  0.48953917622566223  0.026059692725539207  1.0000

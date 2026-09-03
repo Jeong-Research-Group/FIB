@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2TlPtC
+_chemical_formula_sum              "Sc2 Tl1 Pt1 C1"
+_cell_length_a       4.221526541801565
+_cell_length_b       4.545451182825417
+_cell_length_c       4.545524402964254
+_cell_angle_alpha    90.00004341685957
+_cell_angle_beta     89.99974636480113
+_cell_angle_gamma    90.00001131753372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.29881306259163154  0.533621276979222  0.27189301542095645  1.0000
+  Sc  Sc2       1.0  0.2988324798419054  0.033425942980911415  0.7719147010727337  1.0000
+  Tl  Tl1       1.0  0.7987701617251322  0.5332806327659446  0.7719637687908814  1.0000
+  Pt  Pt1       1.0  0.7986938229422179  0.03354832933412481  0.2718596049253129  1.0000
+  C   C1        1.0  0.29868354092412064  0.033640805765847055  0.271947461314504  1.0000

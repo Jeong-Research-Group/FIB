@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti3CoN
+_chemical_formula_sum              "Ti3 Co1 N1"
+_cell_length_a       4.0502031241047876
+_cell_length_b       4.050169958133518
+_cell_length_c       4.04967598290084
+_cell_angle_alpha    89.98813766535068
+_cell_angle_beta     90.0169405254493
+_cell_angle_gamma    90.02195356030273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.1772188474554895  0.9533903742848555  0.9249312613805987  1.0000
+  Ti  Ti2       1.0  0.6767418703686336  0.9536799010771162  0.42541702947046245  1.0000
+  Ti  Ti3       1.0  0.17704693555082449  0.4529971595112143  0.4252018117956283  1.0000
+  Co  Co1       1.0  0.677708119511663  0.45377901268161763  0.9251499218406048  1.0000
+  N   N1        1.0  0.17636498238206524  0.9527543992487478  0.4253462443143818  1.0000

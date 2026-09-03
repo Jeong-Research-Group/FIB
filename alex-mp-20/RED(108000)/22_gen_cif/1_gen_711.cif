@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc3PbC
+_chemical_formula_sum              "Sc3 Pb1 C1"
+_cell_length_a       4.5647977490908795
+_cell_length_b       4.563724678640713
+_cell_length_c       4.566442552084713
+_cell_angle_alpha    90.01082575715012
+_cell_angle_beta     90.0054465305821
+_cell_angle_gamma    89.99110991768143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.44372500806306286  0.4459593273277709  0.16625090295379316  1.0000
+  Sc  Sc2       1.0  0.9438955582617898  0.9464575410808619  0.16602181045517955  1.0000
+  Sc  Sc3       1.0  0.44399018211379887  0.9461907820049225  0.6660252695460805  1.0000
+  Pb  Pb1       1.0  0.9439243890509549  0.4464121827748223  0.6661041333107948  1.0000
+  C   C1        1.0  0.44392630419656665  0.9462654707880589  0.16641947188355413  1.0000

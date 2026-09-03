@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiCaP3
+_chemical_formula_sum              "Li1 Ca1 P3"
+_cell_length_a       4.175926732908901
+_cell_length_b       3.9959094200908436
+_cell_length_c       5.314985242473346
+_cell_angle_alpha    89.99807033883992
+_cell_angle_beta     90.00401976839974
+_cell_angle_gamma    89.99988680102345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.31270670162682024  0.07859035704093395  0.3469372515539407  1.0000
+  Ca  Ca1       1.0  0.8126031129579679  0.07858131324601272  0.8467469323382238  1.0000
+  P   P1        1.0  0.8123827614361778  0.578395509551578  0.34636375926280755  1.0000
+  P   P2        1.0  0.3126197094123145  0.5785422607553488  0.6377136549770384  1.0000
+  P   P3        1.0  0.3125589607388453  0.5785897264597802  0.056239350722044466  1.0000

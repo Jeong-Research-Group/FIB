@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2NaCd2Ga
+_chemical_formula_sum              "Ba2 Na1 Cd2 Ga1"
+_cell_length_a       5.181849230325148
+_cell_length_b       5.186814059888203
+_cell_length_c       7.9566910278223375
+_cell_angle_alpha    89.99078063159561
+_cell_angle_beta     89.99360916856955
+_cell_angle_gamma    90.00019927120427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.21442855665643265  0.533474300236833  0.24878585641182221  1.0000
+  Ba  Ba2       1.0  0.7143847957764008  0.033724135782028306  0.8805965943250348  1.0000
+  Na  Na1       1.0  0.7144902825570872  0.03382664647578139  0.36075169042774774  1.0000
+  Cd  Cd1       1.0  0.713898752819855  0.5338160846005272  0.5848550236655002  1.0000
+  Cd  Cd2       1.0  0.2141461583499286  0.03323597048033999  0.5841168071383745  1.0000
+  Ga  Ga1       1.0  0.21425470884734343  0.5333073877375377  0.77013505933845  1.0000

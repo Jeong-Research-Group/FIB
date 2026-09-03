@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCu2PbSe2
+_chemical_formula_sum              "Li1 Cu2 Pb1 Se2"
+_cell_length_a       4.041737181460785
+_cell_length_b       4.04121600919213
+_cell_length_c       8.382473734632763
+_cell_angle_alpha    89.99793895370226
+_cell_angle_beta     89.99930391308808
+_cell_angle_gamma    59.98734200783221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9814821555134627  0.00380938317983119  0.096240189480246  1.0000
+  Cu  Cu1       1.0  0.31487609354186025  0.3372511649215755  0.36671517998942116  1.0000
+  Cu  Cu2       1.0  0.6482199057740707  0.6701804413347012  0.8244469227943872  1.0000
+  Pb  Pb1       1.0  0.9812410093026566  0.00394262629554954  0.5963822421162944  1.0000
+  Se  Se1       1.0  0.31490272473401454  0.33700294579373685  0.899440411884027  1.0000
+  Se  Se2       1.0  0.6482434496911269  0.6704732786399017  0.2934202996287217  1.0000

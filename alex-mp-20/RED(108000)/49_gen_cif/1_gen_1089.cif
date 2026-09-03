@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb2AlOsRu2
+_chemical_formula_sum              "Nb2 Al1 Os1 Ru2"
+_cell_length_a       3.128766204491003
+_cell_length_b       3.128810933377107
+_cell_length_c       9.46543885710527
+_cell_angle_alpha    89.99406904282444
+_cell_angle_beta     89.9987785703316
+_cell_angle_gamma    89.9998209884876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.23851678792548311  0.8503471710563518  0.23831598307054028  1.0000
+  Nb  Nb2       1.0  0.23848266681482025  0.8505396555534588  0.5940831206133619  1.0000
+  Al  Al1       1.0  0.2385876703410442  0.850620324026145  0.9152095814653228  1.0000
+  Os  Os1       1.0  0.7384897990352255  0.3504056893177133  0.07529711944633062  1.0000
+  Ru  Ru1       1.0  0.7386504525323417  0.3508083177962205  0.7582248802446148  1.0000
+  Ru  Ru2       1.0  0.7382616241823615  0.35018956972258575  0.41716449577073295  1.0000

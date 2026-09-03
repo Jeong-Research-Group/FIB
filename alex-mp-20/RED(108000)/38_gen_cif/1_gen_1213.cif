@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Yb2H5F
+_chemical_formula_sum              "Yb2 H5 F1"
+_cell_length_a       3.658809222869031
+_cell_length_b       3.6586466950140326
+_cell_length_c       5.515713195751213
+_cell_angle_alpha    89.99833868092485
+_cell_angle_beta     90.00022293338154
+_cell_angle_gamma    90.00179183261868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.1186422105115499  0.22519069214409582  0.711221593247839  1.0000
+  Yb  Yb2       1.0  0.6183566643327646  0.7258003347534311  0.2110693453536151  1.0000
+  H   H1        1.0  0.11857787937407631  0.7253255212412898  0.4165582186601163  1.0000
+  H   H2        1.0  0.6186338548279324  0.2255384485698943  0.005489751780513474  1.0000
+  H   H3        1.0  0.1183822142515741  0.7250247758807854  0.005811971342814193  1.0000
+  H   H4        1.0  0.11838042609815254  0.22548721804279637  0.2120474193320638  1.0000
+  H   H5        1.0  0.6188167808874692  0.22569404321532524  0.416461948674128  1.0000
+  F   F1        1.0  0.6181916103463726  0.7260984537042331  0.7108194832262583  1.0000

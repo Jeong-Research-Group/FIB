@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiV2Ir2
+_chemical_formula_sum              "Ti1 V2 Ir2"
+_cell_length_a       2.9373291524817304
+_cell_length_b       3.963670363677574
+_cell_length_c       6.6533620909550715
+_cell_angle_alpha    89.92569841976099
+_cell_angle_beta     89.99372660057556
+_cell_angle_gamma    89.98608022298217
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6530629826828853  0.5053451058370702  0.8754498626036165  1.0000
+  V   V1        1.0  0.6526337329237272  0.004727961489485813  0.37364752961077013  1.0000
+  V   V2        1.0  0.15271661610364387  0.5054736018774961  0.37389956195083546  1.0000
+  Ir  Ir1       1.0  0.15247289497943237  0.00488926474103686  0.6766460926886525  1.0000
+  Ir  Ir2       1.0  0.15222876324284698  0.004976268896527288  0.07079769600785996  1.0000

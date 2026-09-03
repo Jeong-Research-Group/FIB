@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaPt2CaPtAu
+_chemical_formula_sum              "Ca2 Pt3 Au1"
+_cell_length_a       5.551768198803251
+_cell_length_b       5.519530200191703
+_cell_length_c       5.516516208648682
+_cell_angle_alpha    59.92723345288206
+_cell_angle_beta     60.1362236223431
+_cell_angle_gamma    60.1695527851405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.738241970539093  0.6924519538879395  0.7774770855903625  1.0000
+  Pt  Pt1       1.0  0.10714706033468249  0.5689258575439453  0.1544415056705475  1.0000
+  Pt  Pt2       1.0  0.10723979771137238  0.06964452564716338  0.6538376808166504  1.0000
+  Ca  Ca2       1.0  0.4732342064380647  0.4469884634017944  0.5317041277885437  1.0000
+  Pt  Pt3       1.0  0.10749219357967377  0.0692921057343483  0.15393328666687012  1.0000
+  Au  Au1       1.0  0.6077649593353271  0.0693444162607193  0.1537211686372757  1.0000

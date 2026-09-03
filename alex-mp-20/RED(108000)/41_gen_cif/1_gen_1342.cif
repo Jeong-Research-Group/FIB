@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Nb2Co2
+_chemical_formula_sum              "Hf2 Nb2 Co2"
+_cell_length_a       3.2158150015852742
+_cell_length_b       3.215918817586605
+_cell_length_c       9.685234472916457
+_cell_angle_alpha    90.00728426861961
+_cell_angle_beta     90.00910538122761
+_cell_angle_gamma    90.00759969616652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.5540504610873089  0.057106803723603404  0.6170511973067415  1.0000
+  Hf  Hf2       1.0  0.5537754845649412  0.05694694937659808  0.9343190770897781  1.0000
+  Nb  Nb1       1.0  0.5533926470377687  0.0574602636455299  0.3038963329043879  1.0000
+  Nb  Nb2       1.0  0.05351263501590773  0.5572359317086096  0.1287580961351497  1.0000
+  Co  Co1       1.0  0.05357373040482231  0.5572256801156734  0.45900534673716153  1.0000
+  Co  Co2       1.0  0.05425227337259352  0.5570525888501466  0.7726580748092778  1.0000

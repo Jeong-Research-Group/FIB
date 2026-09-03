@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbHoF2O
+_chemical_formula_sum              "Rb1 Ho1 F2 O1"
+_cell_length_a       4.348148082058566
+_cell_length_b       4.52635734435962
+_cell_length_c       4.530194282531738
+_cell_angle_alpha    90.04818948674126
+_cell_angle_beta     90.01793175183546
+_cell_angle_gamma    89.9481955195664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.7453264594078064  0.45638599991798395  0.4963616132736206  1.0000
+  Ho  Ho1       1.0  0.24566037952899933  0.9568947553634644  0.9967547655105591  1.0000
+  F   F1        1.0  0.24559172987937927  0.45660045742988586  0.9968727827072144  1.0000
+  F   F2        1.0  0.24503430724143982  0.9564339518547058  0.49637916684150696  1.0000
+  O   O1        1.0  0.7451962828636169  0.9562054872512817  0.9965860247612  1.0000

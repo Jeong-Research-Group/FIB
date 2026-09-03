@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaNb2HNb
+_chemical_formula_sum              "Ga1 Nb3 H1"
+_cell_length_a       4.1466039358659055
+_cell_length_b       4.14607437674864
+_cell_length_c       4.1452107429504395
+_cell_angle_alpha    90.01137476915252
+_cell_angle_beta     90.02359397880713
+_cell_angle_gamma    90.0400410709835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9371873736381531  0.9560576677322388  0.5481371879577637  1.0000
+  Nb  Nb1       1.0  0.9373507499694824  0.45593100786209106  0.04741278663277626  1.0000
+  Nb  Nb2       1.0  0.43671509623527527  0.9557146430015564  0.04785682633519173  1.0000
+  H   H1        1.0  0.4372953474521637  0.45563843846321106  0.047737959772348404  1.0000
+  Nb  Nb3       1.0  0.4366878569126129  0.45627692341804504  0.5475311279296875  1.0000

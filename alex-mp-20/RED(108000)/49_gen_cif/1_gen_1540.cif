@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiDy2Pb3
+_chemical_formula_sum              "Li1 Dy2 Pb3"
+_cell_length_a       3.5047580981175153
+_cell_length_b       5.059663832795299
+_cell_length_c       9.291088640256422
+_cell_angle_alpha    89.97816010743385
+_cell_angle_beta     90.08405012040194
+_cell_angle_gamma    90.00188310235472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5686662683285559  0.16179625383455123  0.03328245951212096  1.0000
+  Dy  Dy1       1.0  0.06778326633838276  0.16116724507143  0.713627538818778  1.0000
+  Dy  Dy2       1.0  0.06861130753703705  0.6617090687527408  0.22215362649694026  1.0000
+  Pb  Pb1       1.0  0.5693013187363999  0.16168446638650583  0.33777664189390366  1.0000
+  Pb  Pb2       1.0  0.5668326569023158  0.6617066265182578  0.9099925966818764  1.0000
+  Pb  Pb3       1.0  0.568190594284843  0.6612008758090637  0.5602420253125373  1.0000

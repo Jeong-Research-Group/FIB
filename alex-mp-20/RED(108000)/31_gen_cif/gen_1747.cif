@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pd3InPdHo
+_chemical_formula_sum              "Pd4 In1 Ho1"
+_cell_length_a       5.369673109630794
+_cell_length_b       5.371597798469797
+_cell_length_c       5.370491981506348
+_cell_angle_alpha    59.9844238260573
+_cell_angle_beta     60.027822569072804
+_cell_angle_gamma    60.03662591571359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.4486512839794159  0.6672686338424683  0.8789565563201904  1.0000
+  Pd  Pd2       1.0  0.9477159976959229  0.16856281459331512  0.8786013722419739  1.0000
+  Pd  Pd3       1.0  0.9475768208503723  0.6676723957061768  0.37947431206703186  1.0000
+  In  In1       1.0  0.5730958580970764  0.2925250232219696  0.5033484101295471  1.0000
+  Pd  Pd4       1.0  0.9475060701370241  0.6676045060157775  0.8783174753189087  1.0000
+  Ho  Ho1       1.0  0.3230944275856018  0.04336049035191536  0.25381648540496826  1.0000

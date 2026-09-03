@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgLiMgLiNiLi
+_chemical_formula_sum              "Mg2 Li3 Ni1"
+_cell_length_a       4.399361080369327
+_cell_length_b       6.104982948295069
+_cell_length_c       4.913547039031982
+_cell_angle_alpha    58.15304422206256
+_cell_angle_beta     63.26349935423168
+_cell_angle_gamma    68.9016018457221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.4347707331180573  0.740369439125061  0.3250868916511536  1.0000
+  Li  Li1       1.0  0.06473462283611298  0.42469343543052673  0.38059329986572266  1.0000
+  Mg  Mg2       1.0  0.7440149784088136  0.10473518073558807  0.34317839145660395  1.0000
+  Li  Li2       1.0  0.10568866878747939  0.8802542090415955  0.8421984314918518  1.0000
+  Ni  Ni1       1.0  0.7539404630661012  0.6054468750953674  0.8211169838905334  1.0000
+  Li  Li3       1.0  0.38443213701248174  0.2947728633880615  0.8722491264343262  1.0000

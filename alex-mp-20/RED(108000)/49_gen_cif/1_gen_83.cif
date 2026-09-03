@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2TiAl3
+_chemical_formula_sum              "Ta2 Ti1 Al3"
+_cell_length_a       4.120974566370873
+_cell_length_b       4.025620527180645
+_cell_length_c       6.317435876226544
+_cell_angle_alpha    108.5774491592773
+_cell_angle_beta     89.99971526974544
+_cell_angle_gamma    90.00011396188101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.7862387009005427  0.3908900731862127  0.5483315168815986  1.0000
+  Ta  Ta2       1.0  0.7862629386827993  0.7218931238285019  0.21177925662140692  1.0000
+  Ti  Ti1       1.0  0.7862098579042797  0.056658450798872606  0.8801904807503561  1.0000
+  Al  Al1       1.0  0.2862400599817589  0.5563869965891424  0.8799616663367877  1.0000
+  Al  Al2       1.0  0.28627933958990653  0.22211393148316264  0.21222818237002258  1.0000
+  Al  Al3       1.0  0.28623906585749354  0.891256532962544  0.5487717110471018  1.0000

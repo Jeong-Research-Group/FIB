@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3In2Au
+_chemical_formula_sum              "Sc3 In2 Au1"
+_cell_length_a       3.4027547556001743
+_cell_length_b       3.4016040321354892
+_cell_length_c       11.380625742905796
+_cell_angle_alpha    89.99939440437596
+_cell_angle_beta     89.99888391973784
+_cell_angle_gamma    90.03321756009393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.43243333947219276  0.43891689646217474  0.21632155893106553  1.0000
+  Sc  Sc2       1.0  0.4324914093980605  0.4388787707755802  0.9191204642794383  1.0000
+  Sc  Sc3       1.0  0.432501849836157  0.4387209924189314  0.5678434960460289  1.0000
+  In  In1       1.0  0.9325138595701211  0.9387859851489181  0.7419323656412852  1.0000
+  In  In2       1.0  0.9324436353309777  0.9388353355488324  0.3936920110783856  1.0000
+  Au  Au1       1.0  0.9324827477537336  0.938928973129669  0.06760211103688803  1.0000

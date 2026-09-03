@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2LaYHg2
+_chemical_formula_sum              "Li2 La1 Y1 Hg2"
+_cell_length_a       4.921543692113451
+_cell_length_b       4.921414982245977
+_cell_length_c       6.927189900328607
+_cell_angle_alpha    90.00746489165957
+_cell_angle_beta     90.00169551362374
+_cell_angle_gamma    119.95254563423902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7123764353569548  0.36908105800807023  0.6490019409635428  1.0000
+  Li  Li2       1.0  0.37892865429518363  0.7020749486447798  0.10461123732249293  1.0000
+  La  La1       1.0  0.04505760912674829  0.03599364662312574  0.3781529951952739  1.0000
+  Y   Y1        1.0  0.04493722524995548  0.03583258877977697  0.8763868473839996  1.0000
+  Hg  Hg1       1.0  0.3787388681177432  0.7022908580235298  0.6504294298270155  1.0000
+  Hg  Hg2       1.0  0.7130509038512148  0.3690786893482176  0.10438175178137138  1.0000

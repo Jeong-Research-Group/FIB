@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2Hg2Rh2
+_chemical_formula_sum              "Ga2 Hg2 Rh2"
+_cell_length_a       4.271010917733596
+_cell_length_b       4.271425096401479
+_cell_length_c       6.184346080808567
+_cell_angle_alpha    89.9779107468127
+_cell_angle_beta     89.96443140392557
+_cell_angle_gamma    90.0031583829991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.26084038317699637  0.1328787873287595  0.7687272628557683  1.0000
+  Ga  Ga2       1.0  0.761374224860071  0.6331045157570532  0.32902606950499225  1.0000
+  Hg  Hg1       1.0  0.26160104474056195  0.13333176638603364  0.20346642446917423  1.0000
+  Hg  Hg2       1.0  0.7609971277427883  0.6328428718800749  0.8943151819603031  1.0000
+  Rh  Rh1       1.0  0.2611142474539891  0.6329872863590345  0.5489249684350868  1.0000
+  Rh  Rh2       1.0  0.7610717206490263  0.13292409921273013  0.5488228705438224  1.0000

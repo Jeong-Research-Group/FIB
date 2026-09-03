@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta3V2Cr3
+_chemical_formula_sum              "Ta3 V2 Cr3"
+_cell_length_a       4.334642654406483
+_cell_length_b       5.346377359556051
+_cell_length_c       5.347105545926862
+_cell_angle_alpha    109.5039387989328
+_cell_angle_beta     90.00498569793639
+_cell_angle_gamma    90.00796826549553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5247807545926226  0.31170401006098425  0.24046494034853025  1.0000
+  Ta  Ta2       1.0  0.025002552552222546  0.06548295667733701  0.4970355638601916  1.0000
+  Ta  Ta3       1.0  0.5247770799270386  0.8088538549298555  0.7433654533805683  1.0000
+  V   V1        1.0  0.024709840010710513  0.5575786105592572  0.9886648175709564  1.0000
+  V   V2        1.0  0.5250024081426955  0.8022118022547207  0.2338642707741142  1.0000
+  Cr  Cr1       1.0  0.024852661296808135  0.5609189837821227  0.4919695894849014  1.0000
+  Cr  Cr2       1.0  0.024587758261003338  0.06039520384227225  0.9924469276739872  1.0000
+  Cr  Cr3       1.0  0.5250248086078834  0.31800054503121605  0.7498059319273316  1.0000

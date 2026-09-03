@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CsIn2Hg3
+_chemical_formula_sum              "Cs1 In2 Hg3"
+_cell_length_a       5.176328982023397
+_cell_length_b       5.180224096406633
+_cell_length_c       9.286890854836178
+_cell_angle_alpha    90.08456347581674
+_cell_angle_beta     90.02547500592702
+_cell_angle_gamma    119.96739101385359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.3183748045048811  0.9429207481798794  0.6681999039754701  1.0000
+  In  In1       1.0  0.6507655751701795  0.6089361044588925  0.33846889255131923  1.0000
+  In  In2       1.0  0.6520270515044064  0.6111883888905845  0.008488655689416784  1.0000
+  Hg  Hg1       1.0  0.31797446375758465  0.9450673460148613  0.16577262441873483  1.0000
+  Hg  Hg2       1.0  0.9849688746299181  0.27730437211589953  0.9651215010433415  1.0000
+  Hg  Hg3       1.0  0.9842480131268062  0.275560042996549  0.3636557750115061  1.0000

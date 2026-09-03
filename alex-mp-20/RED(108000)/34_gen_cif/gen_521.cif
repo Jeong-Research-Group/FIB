@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuRuCoBAg
+_chemical_formula_sum              "Lu1 Ru1 Co1 B1 Ag1"
+_cell_length_a       4.01840793012916
+_cell_length_b       4.218093445002864
+_cell_length_c       4.341047763824463
+_cell_angle_alpha    89.9911983907429
+_cell_angle_beta     89.96907540759425
+_cell_angle_gamma    90.01840986376172
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.4088512361049652  0.612562894821167  0.530767560005188  1.0000
+  Ru  Ru1       1.0  0.9089778065681458  0.6116428971290588  0.03016233816742897  1.0000
+  Co  Co1       1.0  0.4094720482826233  0.11160552501678467  0.03019069693982601  1.0000
+  B   B1        1.0  0.9090553522109985  0.11081244796514511  0.029936037957668304  1.0000
+  Ag  Ag1       1.0  0.9091915488243103  0.11206865310668945  0.5300070643424988  1.0000

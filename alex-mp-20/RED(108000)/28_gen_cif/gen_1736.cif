@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtPdPtTmCa
+_chemical_formula_sum              "Pt2 Pd1 Tm1 Ca1"
+_cell_length_a       4.501199860278216
+_cell_length_b       5.458805896921414
+_cell_length_c       5.45820426940918
+_cell_angle_alpha    61.71127748420051
+_cell_angle_beta     65.6681491098328
+_cell_angle_gamma    65.66065087194012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.9751473069190979  0.5088273882865906  0.9701246619224548  1.0000
+  Pd  Pd1       1.0  0.4751956760883331  0.7737631797790527  0.7043204307556152  1.0000
+  Pt  Pt2       1.0  0.9748993515968323  0.03960181027650833  0.4398040473461151  1.0000
+  Tm  Tm1       1.0  0.6722255945205688  0.07659434527158737  0.007541759870946407  1.0000
+  Ca  Ca1       1.0  0.2720654010772705  0.4765593111515045  0.4071449339389801  1.0000

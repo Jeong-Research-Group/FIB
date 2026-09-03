@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta3AlN
+_chemical_formula_sum              "Ta3 Al1 N1"
+_cell_length_a       4.250262585554716
+_cell_length_b       4.255609912230513
+_cell_length_c       4.25400843944657
+_cell_angle_alpha    89.98539293137414
+_cell_angle_beta     90.00436434485914
+_cell_angle_gamma    89.99572951897902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.11072996582608047  0.014006286824857921  0.025339268748011286  1.0000
+  Ta  Ta2       1.0  0.1107651431026765  0.5147490500609303  0.5257810822982851  1.0000
+  Ta  Ta3       1.0  0.6107852549915305  0.013967679122242406  0.5256661905529229  1.0000
+  Al  Al1       1.0  0.6107229207349951  0.5143202108031356  0.025437165483391765  1.0000
+  N   N1        1.0  0.11086659459749618  0.014470116554770217  0.5251936829819931  1.0000

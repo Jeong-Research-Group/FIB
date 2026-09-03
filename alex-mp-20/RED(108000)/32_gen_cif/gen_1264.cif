@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtPNdPt2
+_chemical_formula_sum              "Pt3 P1 Nd1"
+_cell_length_a       4.177776457173543
+_cell_length_b       4.183435469159781
+_cell_length_c       5.303347110748291
+_cell_angle_alpha    90.006757561597
+_cell_angle_beta     89.92627744214941
+_cell_angle_gamma    89.9387220406557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.4028412401676178  0.4051732122898101  0.4162524342536926  1.0000
+  P   P1        1.0  0.40217646956443787  0.9054100513458252  0.20406125485897064  1.0000
+  Nd  Nd1       1.0  0.902606189250946  0.4056287407875061  0.9236917495727539  1.0000
+  Pt  Pt2       1.0  0.9026480317115784  0.9054431915283203  0.41639044880867004  1.0000
+  Pt  Pt3       1.0  0.40251150727272034  0.9054692387580872  0.7763437628746033  1.0000

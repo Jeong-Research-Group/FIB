@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CoGe
+_chemical_formula_sum              "Li2 Co1 Ge1"
+_cell_length_a       2.94361785894958
+_cell_length_b       2.9425888578490236
+_cell_length_c       6.888806244218207
+_cell_angle_alpha    90.00451821682287
+_cell_angle_beta     89.99568197580138
+_cell_angle_gamma    89.9999311166524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.13064808381185034  0.09707469373245096  0.5088294206615497  1.0000
+  Li  Li2       1.0  0.6308509105177319  0.5970046499046742  0.18036968184780913  1.0000
+  Co  Co1       1.0  0.1307403883655374  0.09689851830184881  0.9328107608399847  1.0000
+  Ge  Ge1       1.0  0.6307907086219845  0.5968592113204472  0.7656715609871946  1.0000

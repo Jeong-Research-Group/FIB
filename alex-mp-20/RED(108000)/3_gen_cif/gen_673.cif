@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PBaPdBaPZn
+_chemical_formula_sum              "P2 Ba2 Pd1 Zn1"
+_cell_length_a       4.789346401537876
+_cell_length_b       4.257854093618783
+_cell_length_c       7.357460975646973
+_cell_angle_alpha    90.05575733743535
+_cell_angle_beta     90.10028334492311
+_cell_angle_gamma    89.99839741001574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.4034615159034729  0.12499390542507173  0.6525514721870421  1.0000
+  Ba  Ba1       1.0  0.9031618237495422  0.12487657368183136  0.9801822900772094  1.0000
+  Pd  Pd1       1.0  0.40310078859329224  0.6249888539314271  0.8190294504165648  1.0000
+  Ba  Ba2       1.0  0.9029833674430847  0.625614106655121  0.4945416450500488  1.0000
+  P   P2        1.0  0.40410926938056946  0.6247732639312745  0.15577799081802365  1.0000
+  Zn  Zn1       1.0  0.4041338860988617  0.12495345622301103  0.32305541634559626  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrTb2ErPrEr
+_chemical_formula_sum              "Pr2 Tb2 Er2"
+_cell_length_a       5.0909129437349065
+_cell_length_b       6.185809730602405
+_cell_length_c       7.153644561767578
+_cell_angle_alpha    106.26725285002965
+_cell_angle_beta     89.98731201383171
+_cell_angle_gamma    114.28863263057252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5253371000289917  0.181241974234581  0.09921101480722429  1.0000
+  Tb  Tb1       1.0  0.8601607084274292  0.8503983616828918  0.7679575681686402  1.0000
+  Tb  Tb2       1.0  0.860517144203186  0.8507202863693237  0.2679893970489502  1.0000
+  Er  Er1       1.0  0.19269688427448273  0.5158056020736694  0.9328277707099916  1.0000
+  Pr  Pr2       1.0  0.1956578940153122  0.5206376910209656  0.43653777241706854  1.0000
+  Er  Er2       1.0  0.5279865860939026  0.1858227401971817  0.6031316518783569  1.0000

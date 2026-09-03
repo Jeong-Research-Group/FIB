@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuIn2CoSn
+_chemical_formula_sum              "Lu1 In2 Co1 Sn1"
+_cell_length_a       4.877890833600825
+_cell_length_b       5.027745224317204
+_cell_length_c       5.004698947171644
+_cell_angle_alpha    89.99905725618684
+_cell_angle_beta     90.02622468342405
+_cell_angle_gamma    89.99595089162779
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7435641778665144  0.39120603750484495  0.48565811307410267  1.0000
+  In  In1       1.0  0.2433833652839494  0.8907337931837638  0.4862045437057435  1.0000
+  In  In2       1.0  0.7436028440490106  0.8911495013695641  0.9862491589887163  1.0000
+  Co  Co1       1.0  0.7444611960900335  0.3908251466709672  0.9857117454219172  1.0000
+  Sn  Sn1       1.0  0.24441103764345093  0.3914394073700137  0.9857265492205523  1.0000

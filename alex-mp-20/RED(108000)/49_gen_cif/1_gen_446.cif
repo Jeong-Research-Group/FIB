@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Cu2Au2
+_chemical_formula_sum              "Sm2 Cu2 Au2"
+_cell_length_a       4.5056297249448605
+_cell_length_b       4.506483157519379
+_cell_length_c       7.1884246412555814
+_cell_angle_alpha    90.00049293413407
+_cell_angle_beta     89.99883032691866
+_cell_angle_gamma    120.00661192192159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.8128081617942  0.7889692539803781  0.9449189852185966  1.0000
+  Sm  Sm2       1.0  0.8127062539960663  0.7889848249517223  0.44514638606964024  1.0000
+  Cu  Cu1       1.0  0.14614329402032394  0.45571098714975244  0.6929093930934042  1.0000
+  Cu  Cu2       1.0  0.4791559021862322  0.12225362746877132  0.19472044543984907  1.0000
+  Au  Au1       1.0  0.14584607471667604  0.4557034575643734  0.19500222459160657  1.0000
+  Au  Au2       1.0  0.4795542797702701  0.12233245047158185  0.6958360863622155  1.0000

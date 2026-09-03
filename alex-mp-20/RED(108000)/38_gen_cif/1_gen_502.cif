@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Cu2Sn2
+_chemical_formula_sum              "Zr2 Cu2 Sn2"
+_cell_length_a       4.221876867155596
+_cell_length_b       4.399704104186829
+_cell_length_c       6.464606479531238
+_cell_angle_alpha    90.0165995124717
+_cell_angle_beta     109.07580876668207
+_cell_angle_gamma    89.99687806850689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5067031045945597  0.4429404912611701  0.25968472375565105  1.0000
+  Zr  Zr2       1.0  0.32493806613669474  0.9428327881438623  0.8963131347441496  1.0000
+  Cu  Cu1       1.0  0.16420263785601114  0.4430275185083133  0.5749965133926389  1.0000
+  Cu  Cu2       1.0  0.6675534909947073  0.9427978033086213  0.5808332295039478  1.0000
+  Sn  Sn1       1.0  0.02949037845730744  0.9429014568877391  0.30521983448932205  1.0000
+  Sn  Sn2       1.0  0.8023955516677784  0.44299427978519135  0.8507044217717025  1.0000

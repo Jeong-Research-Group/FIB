@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ce2CuBRh
+_chemical_formula_sum              "Ce2 Cu1 B1 Rh1"
+_cell_length_a       3.9792063822745223
+_cell_length_b       5.068391859740673
+_cell_length_c       5.063411235809326
+_cell_angle_alpha    89.8330453742446
+_cell_angle_beta     89.8805903116988
+_cell_angle_gamma    89.93998563213218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.4999778270721436  0.8696586489677429  0.7209532260894775  1.0000
+  Ce  Ce2       1.0  0.5002651214599609  0.3701303005218506  0.221670463681221  1.0000
+  Cu  Cu1       1.0  0.00019472930580377581  0.37064534425735474  0.7209484577178955  1.0000
+  B   B1        1.0  0.4998477697372437  0.8694392442703248  0.22123423218727112  1.0000
+  Rh  Rh1       1.0  0.9997966289520265  0.869318664073944  0.2211102545261383  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2MgInN
+_chemical_formula_sum              "Sm2 Mg1 In1 N1"
+_cell_length_a       4.455592728329353
+_cell_length_b       4.979826695384985
+_cell_length_c       4.979754955552527
+_cell_angle_alpha    90.00452113389433
+_cell_angle_beta     90.00334972211432
+_cell_angle_gamma    90.00668699326648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.680606637932527  0.5296007300264439  0.21175199948904017  1.0000
+  Sm  Sm2       1.0  0.6805979191937835  0.029591238802722457  0.7118721346041146  1.0000
+  Mg  Mg1       1.0  0.1803942306471677  0.0300937142736039  0.2110122584552996  1.0000
+  In  In1       1.0  0.18035698131654773  0.5297393175369816  0.7115300890726405  1.0000
+  N   N1        1.0  0.6803115656250347  0.02959888257471529  0.21170395193178  1.0000

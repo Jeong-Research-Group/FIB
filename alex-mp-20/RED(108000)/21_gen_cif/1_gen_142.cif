@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Se2I2
+_chemical_formula_sum              "Eu2 Se2 I2"
+_cell_length_a       4.36502488593761
+_cell_length_b       4.3647667334468245
+_cell_length_c       9.920481013060378
+_cell_angle_alpha    90.0002688398906
+_cell_angle_beta     89.9996633004711
+_cell_angle_gamma    90.02677013757295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.6648693814350988  0.44137848071741886  0.13042538259022607  1.0000
+  Eu  Eu2       1.0  0.1648615983319698  0.9413469064858476  0.5635369184858916  1.0000
+  Se  Se1       1.0  0.6648530207528158  0.941382667019961  0.34701046901955723  1.0000
+  Se  Se2       1.0  0.1648502003410064  0.44137035970046057  0.3469634109322029  1.0000
+  I   I1        1.0  0.16490938121221096  0.941231426842384  0.9912597662154223  1.0000
+  I   I2        1.0  0.6648997636783591  0.44125031649522706  0.7027437041266371  1.0000

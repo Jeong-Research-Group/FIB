@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Ge2H2
+_chemical_formula_sum              "Ca2 Ge2 H2"
+_cell_length_a       4.204014395419008
+_cell_length_b       4.02572446914735
+_cell_length_c       6.5480600325120415
+_cell_angle_alpha    89.99898925413635
+_cell_angle_beta     108.7128106633817
+_cell_angle_gamma    89.99852346834557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.10738410791774357  0.6949417189081888  0.9065457446415955  1.0000
+  Ca  Ca2       1.0  0.4308112797927258  0.1950159432821305  0.5528973469278956  1.0000
+  Ge  Ge1       1.0  0.7132493972826306  0.19467217753100025  0.11884005016414736  1.0000
+  Ge  Ge2       1.0  0.8247298574398543  0.6946600938118264  0.34062865578728757  1.0000
+  H   H1        1.0  0.5255858287267897  0.695258978732473  0.7428316453405517  1.0000
+  H   H2        1.0  0.01266530619945162  0.1951453341103786  0.7168181795097085  1.0000

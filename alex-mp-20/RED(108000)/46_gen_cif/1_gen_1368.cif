@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2Pb3N
+_chemical_formula_sum              "Tl2 Pb3 N1"
+_cell_length_a       3.5026764579577256
+_cell_length_b       5.998650541141199
+_cell_length_c       8.821034491975478
+_cell_angle_alpha    108.6229131967503
+_cell_angle_beta     89.89191503131605
+_cell_angle_gamma    90.0311170415609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8443865655657847  0.8382146479856142  0.4905413187126054  1.0000
+  Tl  Tl2       1.0  0.8428065392076063  0.19211246652721442  0.24005734701994086  1.0000
+  Pb  Pb1       1.0  0.8450715199770756  0.44880866308857187  0.6940192895493257  1.0000
+  Pb  Pb2       1.0  0.34432631574696343  0.030782236778330325  0.8658260330395297  1.0000
+  Pb  Pb3       1.0  0.3412211764577373  0.6361493742216694  0.11517288686770953  1.0000
+  N   N1        1.0  0.34440008382337733  0.6417751367700727  0.8566509746593851  1.0000

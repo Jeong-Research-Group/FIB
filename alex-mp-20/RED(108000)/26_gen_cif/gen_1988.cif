@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiGeFe2
+_chemical_formula_sum              "Li1 Ge1 Fe2"
+_cell_length_a       4.049955648809382
+_cell_length_b       4.045859718269777
+_cell_length_c       4.0465407371521
+_cell_angle_alpha    59.93519703129566
+_cell_angle_beta     59.9475726212692
+_cell_angle_gamma    60.001987263672504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5091571807861329  0.3310462534427643  0.7066100239753723  1.0000
+  Ge  Ge1       1.0  0.009529175236821185  0.8308032751083373  0.2063674777746201  1.0000
+  Fe  Fe1       1.0  0.7592435479164125  0.5813641548156738  0.9571281671524048  1.0000
+  Fe  Fe2       1.0  0.258940875530243  0.08117322623729704  0.45710891485214233  1.0000

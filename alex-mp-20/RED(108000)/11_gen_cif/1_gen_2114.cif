@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K3LiPb2
+_chemical_formula_sum              "K3 Li1 Pb2"
+_cell_length_a       5.05674072472239
+_cell_length_b       5.053683660918519
+_cell_length_c       13.426255925958657
+_cell_angle_alpha    79.13122651108027
+_cell_angle_beta     79.14289570009613
+_cell_angle_gamma    60.099858202174794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.32201012564159404  0.4739302790941564  0.4893355083241548  1.0000
+  K   K2        1.0  0.7494007728755399  0.9007353897439657  0.21641326031020702  1.0000
+  K   K3        1.0  0.5661490300309081  0.7171941612068784  0.7623189218958395  1.0000
+  Li  Li1       1.0  0.8341333659661986  0.985771116042848  0.9591974609107511  1.0000
+  Pb  Pb1       1.0  0.4710848516280418  0.6232455163485064  0.04847148001476427  1.0000
+  Pb  Pb2       1.0  0.17459366535444898  0.3260364041890846  0.9378767551343169  1.0000

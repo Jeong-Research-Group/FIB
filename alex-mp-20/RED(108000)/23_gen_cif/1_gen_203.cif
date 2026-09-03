@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y3CdNi2
+_chemical_formula_sum              "Y3 Cd1 Ni2"
+_cell_length_a       3.4318383007169664
+_cell_length_b       3.4331877062979697
+_cell_length_c       11.03505720804712
+_cell_angle_alpha    90.05882239777087
+_cell_angle_beta     90.02594747090059
+_cell_angle_gamma    90.0963175958664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.3814634319748325  0.16087575601274035  0.004390256325256022  1.0000
+  Y   Y2        1.0  0.38199528652107356  0.16173228585738977  0.7031010880826151  1.0000
+  Y   Y3        1.0  0.38222078741619764  0.16212141355600085  0.4020231287986304  1.0000
+  Cd  Cd1       1.0  0.8816835853435391  0.6612937134102385  0.2035923075978216  1.0000
+  Ni  Ni1       1.0  0.8824333060078047  0.6622650165764411  0.5477511007683975  1.0000
+  Ni  Ni2       1.0  0.8816368183940044  0.6612939809294264  0.8585138842521309  1.0000

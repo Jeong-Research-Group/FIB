@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pd3TiPdSn
+_chemical_formula_sum              "Pd4 Ti1 Sn1"
+_cell_length_a       4.84045384444752
+_cell_length_b       4.837248839027365
+_cell_length_c       4.960702896118164
+_cell_angle_alpha    60.73528066228348
+_cell_angle_beta     82.25248428781887
+_cell_angle_gamma    74.21689627619114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.7136577963829039  0.8244773149490358  0.1850898414850235  1.0000
+  Pd  Pd2       1.0  0.7104381918907166  0.14716024696826935  0.5439956784248352  1.0000
+  Pd  Pd3       1.0  0.21100889146327972  0.6507285237312317  0.5368610620498657  1.0000
+  Ti  Ti1       1.0  0.21208037436008453  0.9857808947563171  0.8646568059921265  1.0000
+  Pd  Pd4       1.0  0.2130536437034607  0.3203088343143463  0.19276678562164307  1.0000
+  Sn  Sn1       1.0  0.7117237448692322  0.48635056614875793  0.8648523092269897  1.0000

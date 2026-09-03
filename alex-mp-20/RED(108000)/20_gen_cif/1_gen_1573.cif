@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Sb2H2
+_chemical_formula_sum              "Pr2 Sb2 H2"
+_cell_length_a       4.847539109201978
+_cell_length_b       3.9535541355817485
+_cell_length_c       6.844826784316657
+_cell_angle_alpha    89.9348611059786
+_cell_angle_beta     90.00369304162145
+_cell_angle_gamma    90.00068912450675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3227047630266284  0.6789597305413758  0.6919548063765013  1.0000
+  Pr  Pr2       1.0  0.32399160848306224  0.17883322779394878  0.19203547108386057  1.0000
+  Sb  Sb1       1.0  0.8241234008022272  0.6790925904718174  0.0251947199403358  1.0000
+  Sb  Sb2       1.0  0.8216834580980309  0.17993285658545227  0.5260256460356318  1.0000
+  H   H1        1.0  0.32713408784201653  0.17812029920571443  0.8595692873458393  1.0000
+  H   H2        1.0  0.3217896152684049  0.6784617316893743  0.35751370125281345  1.0000

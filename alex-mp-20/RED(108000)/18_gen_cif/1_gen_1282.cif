@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2YMgO
+_chemical_formula_sum              "Ca2 Y1 Mg1 O1"
+_cell_length_a       4.622175513660959
+_cell_length_b       5.116014209870582
+_cell_length_c       5.115883700318255
+_cell_angle_alpha    89.99985431422317
+_cell_angle_beta     89.99996479846462
+_cell_angle_gamma    90.00000675602136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8881489199400493  0.5571600406032073  0.6665174766229093  1.0000
+  Ca  Ca2       1.0  0.8886717515773249  0.05706272212807007  0.16640644597347565  1.0000
+  Y   Y1        1.0  0.38835780388177227  0.05729729627393262  0.6661613037042124  1.0000
+  Mg  Mg1       1.0  0.3882637657232079  0.5573237485270017  0.1662952142290018  1.0000
+  O   O1        1.0  0.8882642965219066  0.05732154884797365  0.6659457835016355  1.0000

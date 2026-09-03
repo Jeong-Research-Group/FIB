@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2Os3Pd
+_chemical_formula_sum              "Ga2 Os3 Pd1"
+_cell_length_a       2.8628461588981606
+_cell_length_b       4.498585355600363
+_cell_length_c       6.959279084209836
+_cell_angle_alpha    100.61505657543606
+_cell_angle_beta     89.98968871871291
+_cell_angle_gamma    90.01105883282857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9941828493499966  0.9983965390387364  0.0348502599800211  1.0000
+  Ga  Ga2       1.0  0.9940080897657438  0.617031522368207  0.36705510193445906  1.0000
+  Os  Os1       1.0  0.9934736627524021  0.24608342317813175  0.7387382150553726  1.0000
+  Os  Os2       1.0  0.49392205741103123  0.7182185571652989  0.6769574183436564  1.0000
+  Os  Os3       1.0  0.49386230907432316  0.5184041048060627  0.043614900603138024  1.0000
+  Pd  Pd1       1.0  0.4940718303042855  0.12562003349739764  0.3742493929493699  1.0000

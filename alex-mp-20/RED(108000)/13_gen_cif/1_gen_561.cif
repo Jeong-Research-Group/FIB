@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb3In2Hg
+_chemical_formula_sum              "Tb3 In2 Hg1"
+_cell_length_a       3.704315695141505
+_cell_length_b       3.7033445799919456
+_cell_length_c       11.723948873312608
+_cell_angle_alpha    89.99536297398936
+_cell_angle_beta     89.99912103810068
+_cell_angle_gamma    90.00043935398224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.7411522010464748  0.7246014043063074  0.48905734966724884  1.0000
+  Tb  Tb2       1.0  0.7410315078144726  0.7242074833267087  0.8281676163556435  1.0000
+  Tb  Tb3       1.0  0.7411485760548531  0.724783844118918  0.14969967208115398  1.0000
+  In  In1       1.0  0.2410800159602663  0.22438870555113366  0.6586762094082718  1.0000
+  In  In2       1.0  0.24117295363239355  0.2247843537457438  0.31935289907336595  1.0000
+  Hg  Hg1       1.0  0.24106062972779702  0.22425475960013508  0.9887502273305583  1.0000

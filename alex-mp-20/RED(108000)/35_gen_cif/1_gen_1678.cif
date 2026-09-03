@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiCoCu2Se3
+_chemical_formula_sum              "Li1 Co1 Cu2 Se3"
+_cell_length_a       3.5888987882359666
+_cell_length_b       6.378181203210807
+_cell_length_c       6.18487996723293
+_cell_angle_alpha    119.04898196157805
+_cell_angle_beta     89.99980242943998
+_cell_angle_gamma    90.00141129102254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4585559822138862  0.5491079202140224  0.9406547125319205  1.0000
+  Co  Co1       1.0  0.4586147156472631  0.38652098250544886  0.3765017894483341  1.0000
+  Cu  Cu1       1.0  0.9585927899435597  0.18846575475465696  0.9083287155502066  1.0000
+  Cu  Cu2       1.0  0.9586349189879202  0.7223593154897232  0.7157172910192372  1.0000
+  Se  Se1       1.0  0.458657246913532  0.9804770817531446  0.9969714585180435  1.0000
+  Se  Se2       1.0  0.9585908366582446  0.28497463539591605  0.5720666934083357  1.0000
+  Se  Se3       1.0  0.9586748172348657  0.5858732206677296  0.2758082001501227  1.0000

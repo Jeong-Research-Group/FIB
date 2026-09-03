@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4CBr2N
+_chemical_formula_sum              "La4 C1 Br2 N1"
+_cell_length_a       3.837330975884013
+_cell_length_b       6.632561656816388
+_cell_length_c       7.934975622913682
+_cell_angle_alpha    106.26887406601925
+_cell_angle_beta     90.00142148627452
+_cell_angle_gamma    89.9983415294067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4062761491011682  0.9930509304058812  0.041805741054784885  1.0000
+  La  La2       1.0  0.40628204247534255  0.5382688094350444  0.676913108603394  1.0000
+  La  La3       1.0  0.906286771224696  0.49552734333293985  0.0428010717331698  1.0000
+  La  La4       1.0  0.9062773426202582  0.03571044630531977  0.6758106023946886  1.0000
+  C   C1        1.0  0.40617083083424443  0.2656466707438613  0.8593466489837462  1.0000
+  Br  Br1       1.0  0.9063157154124678  0.2657222798734  0.35937671133483795  1.0000
+  Br  Br2       1.0  0.40631637959172096  0.7656875879285585  0.3592985474026281  1.0000
+  N   N1        1.0  0.9061763331425245  0.7656299002167403  0.8593655778639592  1.0000

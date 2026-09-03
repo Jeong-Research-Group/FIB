@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuNiAlCu3
+_chemical_formula_sum              "Cu4 Ni1 Al1"
+_cell_length_a       2.7290909577160654
+_cell_length_b       3.370559056901048
+_cell_length_c       7.907010555267334
+_cell_angle_alpha    89.96064695452505
+_cell_angle_beta     89.86216929131629
+_cell_angle_gamma    90.01425027909453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.20164093375205994  0.6952701807022095  0.7126612663269043  1.0000
+  Ni  Ni1       1.0  0.7011904716491699  0.19493365287780762  0.8761211037635802  1.0000
+  Al  Al1       1.0  0.20151029527187347  0.6954999566078187  0.3747943639755249  1.0000
+  Cu  Cu2       1.0  0.20047524571418762  0.6952985525131226  0.03678922355175018  1.0000
+  Cu  Cu3       1.0  0.700857937335968  0.1950252652168274  0.2022855430841446  1.0000
+  Cu  Cu4       1.0  0.7015818357467651  0.19543440639972687  0.547142505645752  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Hf2CuPt
+_chemical_formula_sum              "Hf2 Cu1 Pt1"
+_cell_length_a       3.3985523865423946
+_cell_length_b       4.572209081986727
+_cell_length_c       4.56762064806611
+_cell_angle_alpha    90.25202951665379
+_cell_angle_beta     90.11922080128387
+_cell_angle_gamma    90.11858548388169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.5463013043005823  0.015456997101471692  0.08085920855809338  1.0000
+  Hf  Hf2       1.0  0.5460094478265319  0.5159596194964433  0.5815256679721521  1.0000
+  Cu  Cu1       1.0  0.04596432812572066  0.01755431664240111  0.5807217739372925  1.0000
+  Pt  Pt1       1.0  0.04630905300496452  0.5144543032540239  0.08162411101977143  1.0000

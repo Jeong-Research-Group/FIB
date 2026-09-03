@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2ZnGaGeIr
+_chemical_formula_sum              "Na2 Zn1 Ga1 Ge1 Ir1"
+_cell_length_a       4.117282289165947
+_cell_length_b       4.0960613420058065
+_cell_length_c       7.419526289558189
+_cell_angle_alpha    90.0143726231825
+_cell_angle_beta     90.0230958620175
+_cell_angle_gamma    89.99781127271184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.686489832123835  0.4328129767808798  0.5602399579811593  1.0000
+  Na  Na2       1.0  0.18668868973653074  0.9330610335383148  0.2553754082061671  1.0000
+  Zn  Zn1       1.0  0.18659517280405863  0.4328032693021767  0.9133427092620157  1.0000
+  Ga  Ga1       1.0  0.18639240492825587  0.9327403519355123  0.709057217719454  1.0000
+  Ge  Ge1       1.0  0.6868231019861549  0.43287469195662415  0.11155185031607429  1.0000
+  Ir  Ir1       1.0  0.6865135646533496  0.9327226702456312  0.913571601820774  1.0000

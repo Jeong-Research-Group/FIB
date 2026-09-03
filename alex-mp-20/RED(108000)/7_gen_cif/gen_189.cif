@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OBi2OBr2
+_chemical_formula_sum              "O2 Bi2 Br2"
+_cell_length_a       3.9516458858763652
+_cell_length_b       3.9557947652395953
+_cell_length_c       9.162052154541016
+_cell_angle_alpha    90.14726821745333
+_cell_angle_beta     90.06644658341072
+_cell_angle_gamma    90.0755580544929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8278632164001466  0.5208702087402344  0.2420390397310257  1.0000
+  Bi  Bi1       1.0  0.8280385732650758  0.020552204921841618  0.10137170553207397  1.0000
+  Bi  Bi2       1.0  0.32688626646995544  0.5214225649833678  0.3828204274177551  1.0000
+  O   O2        1.0  0.3272528648376465  0.021474054083228108  0.24218279123306274  1.0000
+  Br  Br1       1.0  0.3271721601486206  0.5198314785957336  0.9254676103591919  1.0000
+  Br  Br2       1.0  0.8274493813514711  0.021935652941465378  0.5592465400695801  1.0000

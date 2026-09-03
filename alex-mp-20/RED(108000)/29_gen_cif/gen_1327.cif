@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlTm2Al2Lu2Tm
+_chemical_formula_sum              "Al3 Tm3 Lu2"
+_cell_length_a       4.703428748939407
+_cell_length_b       4.695409348387743
+_cell_length_c       8.781435012817383
+_cell_angle_alpha    89.99160137171167
+_cell_angle_beta     90.00226329711131
+_cell_angle_gamma    90.0106644297828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.08641133457422256  0.8273475766181945  0.1544881910085678  1.0000
+  Tm  Tm1       1.0  0.5863445401191711  0.8274420499801636  0.3826208710670471  1.0000
+  Tm  Tm2       1.0  0.5866047143936157  0.8277654647827147  0.9265762567520142  1.0000
+  Al  Al2       1.0  0.5863735675811768  0.3274136781692505  0.6547351479530334  1.0000
+  Al  Al3       1.0  0.5862928628921509  0.3273889422416687  0.15469467639923096  1.0000
+  Lu  Lu1       1.0  0.08639916777610779  0.3276597559452057  0.9262887835502625  1.0000
+  Lu  Lu2       1.0  0.08630074560642242  0.32740175724029535  0.38272732496261597  1.0000
+  Tm  Tm3       1.0  0.08666866272687912  0.8274906277656554  0.6546197533607483  1.0000

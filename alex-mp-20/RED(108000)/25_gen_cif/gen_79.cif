@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiBRhB3Rh
+_chemical_formula_sum              "Ni1 B4 Rh2"
+_cell_length_a       3.065488675673421
+_cell_length_b       4.091043990349731
+_cell_length_c       5.711336135864258
+_cell_angle_alpha    71.18635434052408
+_cell_angle_beta     74.80059837451243
+_cell_angle_gamma    68.40143516776759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5563759803771972  0.46520656347274786  0.33577561378479004  1.0000
+  B   B1        1.0  0.24117715656757355  0.022720705717802048  0.40786805748939514  1.0000
+  Rh  Rh1       1.0  0.3618820905685425  0.19184648990631104  0.9964866042137145  1.0000
+  B   B2        1.0  0.8680693507194519  0.9062938094139099  0.27193692326545715  1.0000
+  B   B3        1.0  0.026891186833381656  0.17167799174785614  0.6898692846298218  1.0000
+  B   B4        1.0  0.07852737605571741  0.7666738629341127  0.9875389337539672  1.0000
+  Rh  Rh2       1.0  0.747552752494812  0.740506112575531  0.6807147264480591  1.0000

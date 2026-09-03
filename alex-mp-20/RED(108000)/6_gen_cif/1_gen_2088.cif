@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3FeRu2
+_chemical_formula_sum              "Sc3 Fe1 Ru2"
+_cell_length_a       3.21870858565985
+_cell_length_b       3.2187165823121693
+_cell_length_c       9.583422374656628
+_cell_angle_alpha    90.00117385832685
+_cell_angle_beta     89.99867711252077
+_cell_angle_gamma    90.00008378395722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8776710528736815  0.7384005001014269  0.10398717487191517  1.0000
+  Sc  Sc2       1.0  0.8775505939148212  0.7381297547964668  0.7726949082541962  1.0000
+  Sc  Sc3       1.0  0.8774890556604404  0.7383038524981895  0.4353158422833823  1.0000
+  Fe  Fe1       1.0  0.3774182678632708  0.23812075036394892  0.604144498538753  1.0000
+  Ru  Ru1       1.0  0.3776718034793779  0.23826492360901036  0.9313699226970183  1.0000
+  Ru  Ru2       1.0  0.37757192290996794  0.23841285515608956  0.276571521792876  1.0000

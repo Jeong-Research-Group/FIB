@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mn2AlFe
+_chemical_formula_sum              "Mn2 Al1 Fe1"
+_cell_length_a       2.8600282021907386
+_cell_length_b       2.860699247454805
+_cell_length_c       5.586371583770491
+_cell_angle_alpha    90.00002785777599
+_cell_angle_beta     90.00073281077341
+_cell_angle_gamma    89.99999945156794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.18537836890549694  0.7842057950351532  0.41956035724504637  1.0000
+  Mn  Mn2       1.0  0.1857748734040891  0.7841147233702775  0.8855318548725737  1.0000
+  Al  Al1       1.0  0.6855786895306087  0.2841501942642711  0.15247380119824502  1.0000
+  Fe  Fe1       1.0  0.6855743016246952  0.28435088376603035  0.6523367418361128  1.0000

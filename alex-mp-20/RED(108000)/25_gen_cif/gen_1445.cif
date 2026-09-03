@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3Ga2Cu
+_chemical_formula_sum              "Lu3 Ga2 Cu1"
+_cell_length_a       3.363431215542923
+_cell_length_b       3.3624615907515154
+_cell_length_c       11.02353286743164
+_cell_angle_alpha    89.99317914543752
+_cell_angle_beta     89.99929216477
+_cell_angle_gamma    90.0097355241143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.03309163451194763  0.12391455471515654  0.6103186011314392  1.0000
+  Lu  Lu2       1.0  0.033232785761356354  0.12419454008340834  0.9225541949272156  1.0000
+  Lu  Lu3       1.0  0.033389098942279816  0.12327559292316437  0.26598626375198364  1.0000
+  Ga  Ga1       1.0  0.5332130193710327  0.6235870122909546  0.09222640842199326  1.0000
+  Ga  Ga2       1.0  0.5328971743583679  0.623681604862213  0.4401346743106842  1.0000
+  Cu  Cu1       1.0  0.5331923365592957  0.624409019947052  0.7660190463066101  1.0000

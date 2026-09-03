@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2ReSi
+_chemical_formula_sum              "Li2 Re1 Si1"
+_cell_length_a       3.1581605891798095
+_cell_length_b       3.128593004341537
+_cell_length_c       5.767992229747648
+_cell_angle_alpha    90.02180912287247
+_cell_angle_beta     89.965297718236
+_cell_angle_gamma    89.9999994745185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8606989056023574  0.5665070692701292  0.01495960450808845  1.0000
+  Li  Li2       1.0  0.36113359604794754  0.06614168973591353  0.7677225453231666  1.0000
+  Re  Re1       1.0  0.8615644266279718  0.5657393382530653  0.48180458209132054  1.0000
+  Si  Si1       1.0  0.36174593913408665  0.06568988332260327  0.3021883700841162  1.0000

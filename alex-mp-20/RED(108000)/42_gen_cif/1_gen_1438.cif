@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdHg2Bi2
+_chemical_formula_sum              "Cd1 Hg2 Bi2"
+_cell_length_a       5.113781422840702
+_cell_length_b       5.9543023944104405
+_cell_length_c       5.829875630685078
+_cell_angle_alpha    81.78644960770232
+_cell_angle_beta     63.822318123522585
+_cell_angle_gamma    64.55519235934094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.4766497613871227  0.5115258853257673  0.4363088684132125  1.0000
+  Hg  Hg1       1.0  0.07847279464064534  0.11240143349879886  0.628851955977065  1.0000
+  Hg  Hg2       1.0  0.2788069827540296  0.3128006006732548  0.027947015450573237  1.0000
+  Bi  Bi1       1.0  0.8666158746061188  0.9159678414576449  0.24956226475386808  1.0000
+  Bi  Bi2       1.0  0.6833312246257885  0.7024664452753424  0.8310246790879143  1.0000

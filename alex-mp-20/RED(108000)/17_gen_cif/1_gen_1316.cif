@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2SiTe
+_chemical_formula_sum              "Sm2 Si1 Te1"
+_cell_length_a       4.312321183852094
+_cell_length_b       4.312315473226019
+_cell_length_c       7.632205490736004
+_cell_angle_alpha    73.58622256560672
+_cell_angle_beta     73.58866142501225
+_cell_angle_gamma    60.00229599087293
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5531936534594152  0.3734847161652074  0.030544908152714278  1.0000
+  Sm  Sm2       1.0  0.033778453196441974  0.854214203218216  0.589063332015367  1.0000
+  Si  Si1       1.0  0.2935090137049879  0.1142480785384303  0.8100909796364729  1.0000
+  Te  Te1       1.0  0.7932905423986966  0.6142320778801108  0.30967985243169743  1.0000

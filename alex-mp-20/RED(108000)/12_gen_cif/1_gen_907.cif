@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaTl2BiPb2
+_chemical_formula_sum              "Na1 Tl2 Bi1 Pb2"
+_cell_length_a       5.086944996786205
+_cell_length_b       6.182437516617044
+_cell_length_c       7.050839373924383
+_cell_angle_alpha    73.08566971951892
+_cell_angle_beta     90.00854156921409
+_cell_angle_gamma    65.7091087289184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3038210362407345  0.5499334794465636  0.007986505100866547  1.0000
+  Tl  Tl1       1.0  0.3026058976638107  0.5510560451275414  0.5079371612395204  1.0000
+  Tl  Tl2       1.0  0.965981711565604  0.22432993108616772  0.8389098273389347  1.0000
+  Bi  Bi1       1.0  0.976266587552122  0.2049018531710274  0.3337339327310683  1.0000
+  Pb  Pb1       1.0  0.627248509367262  0.9022887838034733  0.6596590884143744  1.0000
+  Pb  Pb2       1.0  0.6347908886306622  0.8883125186552857  0.17812586383136159  1.0000

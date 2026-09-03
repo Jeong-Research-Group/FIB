@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfTi2HgC
+_chemical_formula_sum              "Hf1 Ti2 Hg1 C1"
+_cell_length_a       4.262190599135777
+_cell_length_b       4.261328643934501
+_cell_length_c       4.460876463280402
+_cell_angle_alpha    89.98446320257824
+_cell_angle_beta     90.02433889884114
+_cell_angle_gamma    89.998384007922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.697428721871125  0.0395117667105332  0.28077585722147874  1.0000
+  Ti  Ti1       1.0  0.6972623404860777  0.5396317064693072  0.780870470513008  1.0000
+  Ti  Ti2       1.0  0.19685593886623476  0.03967151305066178  0.7808502979170626  1.0000
+  Hg  Hg1       1.0  0.19718859590015936  0.5396882811633054  0.28094501844580183  1.0000
+  C   C1        1.0  0.6972271220837881  0.03954557212078235  0.7810223005621855  1.0000

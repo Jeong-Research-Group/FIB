@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiNbVHPd
+_chemical_formula_sum              "Li1 Nb1 V1 H1 Pd1"
+_cell_length_a       3.5671023890329305
+_cell_length_b       4.071438613754963
+_cell_length_c       4.315579414650053
+_cell_angle_alpha    90.0116642123182
+_cell_angle_beta     90.00605268294214
+_cell_angle_gamma    90.01211305022659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6243787723792816  0.0030648558209878324  0.15887819833089895  1.0000
+  Nb  Nb1       1.0  0.6242414241229123  0.5034611036960281  0.6589093620492201  1.0000
+  V   V1        1.0  0.12410107186667854  0.0039269273457002785  0.6586504481316227  1.0000
+  H   H1        1.0  0.6241021465587019  0.0035471046490111314  0.659489464532719  1.0000
+  Pd  Pd1       1.0  0.12420652549825834  0.5034459923881757  0.15884019156649293  1.0000

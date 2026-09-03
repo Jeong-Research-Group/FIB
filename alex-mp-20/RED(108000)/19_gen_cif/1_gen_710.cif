@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Zn2AgAu
+_chemical_formula_sum              "Sc2 Zn2 Ag1 Au1"
+_cell_length_a       3.1558182365107466
+_cell_length_b       4.518728285737952
+_cell_length_c       7.831373029332171
+_cell_angle_alpha    90.02544119564106
+_cell_angle_beta     89.96711289993134
+_cell_angle_gamma    89.95021001429787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.045037802577880155  0.9745155333797695  0.7381755013600652  1.0000
+  Sc  Sc2       1.0  0.045278527540028396  0.47454152756323076  0.25720499860265533  1.0000
+  Zn  Zn1       1.0  0.5449018178349649  0.474560354225542  0.9170089192191583  1.0000
+  Zn  Zn2       1.0  0.545244802453298  0.9744556409708696  0.4105347174747706  1.0000
+  Ag  Ag1       1.0  0.5452974078965274  0.9745725893139996  0.07991151145691122  1.0000
+  Au  Au1       1.0  0.5453245266450829  0.47439226238072224  0.5815182143893719  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2NaTl2Ir
+_chemical_formula_sum              "K2 Na1 Tl2 Ir1"
+_cell_length_a       4.254945792096719
+_cell_length_b       5.255679637791909
+_cell_length_c       9.61771916351608
+_cell_angle_alpha    105.85947857444418
+_cell_angle_beta     102.71081780064954
+_cell_angle_gamma    89.99985014993221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9132208772698172  0.569941160721409  0.5882499043838634  1.0000
+  K   K2        1.0  0.24895244880291215  0.9074753336848211  0.26414857718195023  1.0000
+  Na  Na1       1.0  0.5822748635319172  0.738497405251336  0.9261608324424673  1.0000
+  Tl  Tl1       1.0  0.6796559201750677  0.33752709668091785  0.12412973796902103  1.0000
+  Tl  Tl2       1.0  0.4828790130858058  0.13957750733550636  0.7281587518337415  1.0000
+  Ir  Ir1       1.0  0.08123884189838969  0.23849355553542353  0.9260857031610694  1.0000

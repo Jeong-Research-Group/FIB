@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgTlMgTl2InCd2
+_chemical_formula_sum              "Mg2 Tl3 In1 Cd2"
+_cell_length_a       3.4642926462316734
+_cell_length_b       5.07909889532942
+_cell_length_c       12.14771842956543
+_cell_angle_alpha    90.05211684419677
+_cell_angle_beta     90.04510907470377
+_cell_angle_gamma    89.9421303099252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.13193322718143463  0.4592801928520202  0.8916892409324647  1.0000
+  Tl  Tl1       1.0  0.13190287351608276  0.9587297439575195  0.5504153370857239  1.0000
+  Mg  Mg2       1.0  0.6337334513664246  0.9592556357383728  0.7910019755363465  1.0000
+  Tl  Tl2       1.0  0.6300492286682129  0.9589880704879761  0.03457266092300415  1.0000
+  Tl  Tl3       1.0  0.6306230425834656  0.45888751745224  0.39024743437767034  1.0000
+  In  In1       1.0  0.6323009729385376  0.4595783352851867  0.6667795181274414  1.0000
+  Cd  Cd1       1.0  0.13069045543670654  0.4596410095691681  0.14128932356834412  1.0000
+  Cd  Cd2       1.0  0.12928469479084015  0.9586579203605652  0.2812038064002991  1.0000

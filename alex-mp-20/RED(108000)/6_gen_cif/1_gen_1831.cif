@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCaAs2Pd2
+_chemical_formula_sum              "Sr1 Ca1 As2 Pd2"
+_cell_length_a       4.290603836835029
+_cell_length_b       4.290542037990237
+_cell_length_c       8.706015491149568
+_cell_angle_alpha    90.00387556437909
+_cell_angle_beta     89.99988073045688
+_cell_angle_gamma    120.00407885014408
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.7839160846853688  0.3017594677620253  0.03991116616767461  1.0000
+  Ca  Ca1       1.0  0.783980483391228  0.30173416701018146  0.5397381325832505  1.0000
+  As  As1       1.0  0.45091705268411336  0.6350566288384766  0.3005604083145927  1.0000
+  As  As2       1.0  0.11725660002612436  0.9683176604866239  0.7790820804956043  1.0000
+  Pd  Pd1       1.0  0.4504975150465928  0.6350593526011662  0.7765137545172577  1.0000
+  Pd  Pd2       1.0  0.11750795683768261  0.9684314250926964  0.30317059789240647  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrGaFe3C
+_chemical_formula_sum              "Pr1 Ga1 Fe3 C1"
+_cell_length_a       3.9303829735713443
+_cell_length_b       3.930333584897042
+_cell_length_c       5.53626024282771
+_cell_angle_alpha    89.99967210080806
+_cell_angle_beta     89.99983589556096
+_cell_angle_gamma    89.99914741304252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.8490816168058273  0.5081119676294433  0.8381005496619298  1.0000
+  Ga  Ga1       1.0  0.3490934210299992  0.008141952661507511  0.6031696445688236  1.0000
+  Fe  Fe1       1.0  0.34909273683300085  0.008106224827945012  0.07742626357480632  1.0000
+  Fe  Fe2       1.0  0.8490886927998295  0.008248166398236164  0.3269265873084882  1.0000
+  Fe  Fe3       1.0  0.34911405595089623  0.5081429770654351  0.3269378513456862  1.0000
+  C   C1        1.0  0.8491118543735126  0.5082327277700673  0.3288982171793587  1.0000

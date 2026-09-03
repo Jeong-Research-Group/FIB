@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2HoS3Cl
+_chemical_formula_sum              "Ca2 Ho1 S3 Cl1"
+_cell_length_a       5.538774897723123
+_cell_length_b       5.536362606595829
+_cell_length_c       7.138362372512294
+_cell_angle_alpha    112.82229053380527
+_cell_angle_beta     112.82375136408517
+_cell_angle_gamma    90.00049445454552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0058889059061729065  0.6751819970889038  0.5286459045608398  1.0000
+  Ca  Ca2       1.0  0.4691480088059944  0.13840947870315082  0.45531200165248087  1.0000
+  Ho  Ho1       1.0  0.7374697206223377  0.906821733282822  0.9917298290270411  1.0000
+  S   S1        1.0  0.23755455092761  0.9069354278156575  0.9919929245592705  1.0000
+  S   S2        1.0  0.961168928496574  0.13044336209424776  0.43936816477172286  1.0000
+  S   S3        1.0  0.5136078170351301  0.6830020392616936  0.5441008527703336  1.0000
+  Cl  Cl1       1.0  0.7376243457261232  0.4064915614942679  0.9916942407274743  1.0000

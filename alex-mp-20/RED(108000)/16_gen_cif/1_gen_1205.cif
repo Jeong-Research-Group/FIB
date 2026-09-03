@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Ni2C2
+_chemical_formula_sum              "Y2 Ni2 C2"
+_cell_length_a       3.3704708612039256
+_cell_length_b       5.235369227363246
+_cell_length_c       5.508939546854141
+_cell_angle_alpha    99.88502228778599
+_cell_angle_beta     107.76028711898337
+_cell_angle_gamma    108.84301737926981
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5916722427341338  0.5201216319595703  0.2745879398909667  1.0000
+  Y   Y2        1.0  0.0730144239621291  0.13668269897754856  0.6241640025792908  1.0000
+  Ni  Ni1       1.0  0.9483665708405069  0.6642158425327159  0.8456550889702715  1.0000
+  Ni  Ni2       1.0  0.7163387434586956  0.9925893226629667  0.053178549432411425  1.0000
+  C   C1        1.0  0.37104459365326614  0.6777786497015831  0.6769048334952992  1.0000
+  C   C2        1.0  0.29358206688439503  0.9789621053653051  0.2218616169734934  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Yb2CaYbIn2
+_chemical_formula_sum              "Yb3 Ca1 In2"
+_cell_length_a       4.0502188990336485
+_cell_length_b       5.4038932254059135
+_cell_length_c       9.612166404724121
+_cell_angle_alpha    106.38574909855583
+_cell_angle_beta     102.3021847572224
+_cell_angle_gamma    89.99690151255103
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.5070772171020508  0.3785565197467804  0.40412676334381104  1.0000
+  Yb  Yb2       1.0  0.6896495819091796  0.060825843364000313  0.767926037311554  1.0000
+  Ca  Ca1       1.0  0.007453565485775471  0.8785569071769714  0.4037759304046631  1.0000
+  Yb  Yb3       1.0  0.32608297467231745  0.6959263682365417  0.04042675718665123  1.0000
+  In  In1       1.0  0.872602880001068  0.24320705235004425  0.13345755636692047  1.0000
+  In  In2       1.0  0.14268043637275696  0.514630913734436  0.6748238205909729  1.0000

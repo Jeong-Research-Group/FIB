@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2TiSe3
+_chemical_formula_sum              "Tb2 Ti1 Se3"
+_cell_length_a       4.026209833148048
+_cell_length_b       5.672800832980464
+_cell_length_c       6.878357404634553
+_cell_angle_alpha    114.59223429468216
+_cell_angle_beta     107.01041439276466
+_cell_angle_gamma    90.01934568316793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4487407138954469  0.2857936176215434  0.7991152135105463  1.0000
+  Tb  Tb2       1.0  0.7948649195753669  0.6305933082021556  0.4924962948193864  1.0000
+  Ti  Ti1       1.0  0.12311719753597734  0.9602593674212843  0.1484242555063965  1.0000
+  Se  Se1       1.0  0.7754653692618202  0.1110107940033068  0.4520692275917962  1.0000
+  Se  Se2       1.0  0.1221458857382738  0.45897182110724566  0.14627271655393193  1.0000
+  Se  Se3       1.0  0.46967865612739895  0.8067092426319395  0.8416057167968984  1.0000

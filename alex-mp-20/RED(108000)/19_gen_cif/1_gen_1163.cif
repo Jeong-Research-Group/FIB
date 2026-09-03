@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cd2In2Hg
+_chemical_formula_sum              "Cd2 In2 Hg1"
+_cell_length_a       3.2761419271499785
+_cell_length_b       5.967023110322976
+_cell_length_c       7.36007882782006
+_cell_angle_alpha    105.7476761507329
+_cell_angle_beta     90.07054726048396
+_cell_angle_gamma    105.818251802369
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.276053258457033  0.30456200264927497  0.9546128612886301  1.0000
+  Cd  Cd2       1.0  0.6468300181793625  0.04374158799535097  0.6030843263781894  1.0000
+  In  In1       1.0  0.08032768459540501  0.9111997358837615  0.2078719828745748  1.0000
+  In  In2       1.0  0.8435843487608077  0.4387936897763962  0.35000135029836  1.0000
+  Hg  Hg1       1.0  0.9608700861278068  0.674607223958423  0.7789609382010674  1.0000

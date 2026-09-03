@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbCaTl2Au2
+_chemical_formula_sum              "Rb1 Ca1 Tl2 Au2"
+_cell_length_a       4.97825268535223
+_cell_length_b       4.977118434118056
+_cell_length_c       8.888182676802284
+_cell_angle_alpha    89.97007956784606
+_cell_angle_beta     90.003480607761
+_cell_angle_gamma    119.98908115684452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.03434084347390531  0.8863490219452488  0.0014639701501640513  1.0000
+  Ca  Ca1       1.0  0.03389968951652837  0.8872620863212819  0.5031872588964884  1.0000
+  Tl  Tl1       1.0  0.7008671814407295  0.22113595284213586  0.2958806406605504  1.0000
+  Tl  Tl2       1.0  0.7005546493613826  0.2198084319954418  0.7083883013860388  1.0000
+  Au  Au1       1.0  0.36695860050231294  0.5527679800660624  0.6720184589008702  1.0000
+  Au  Au2       1.0  0.36741003962508756  0.5545668217240607  0.33918908318668234  1.0000

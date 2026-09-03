@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrInHg2Pd
+_chemical_formula_sum              "Sr1 In1 Hg2 Pd1"
+_cell_length_a       5.183707097476059
+_cell_length_b       5.324640780951465
+_cell_length_c       5.324540943288504
+_cell_angle_alpha    90.04157653772019
+_cell_angle_beta     90.13989824634768
+_cell_angle_gamma    89.97369648171482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.7792801196484472  0.5707857150397442  0.9949691330397699  1.0000
+  In  In1       1.0  0.7801444894685193  0.07045477046106549  0.4950742869673683  1.0000
+  Hg  Hg1       1.0  0.2796007414420966  0.5708075218823704  0.49524127767830545  1.0000
+  Hg  Hg2       1.0  0.27985603480107846  0.07074546750772333  0.9956080433228192  1.0000
+  Pd  Pd1       1.0  0.2802345066600735  0.0709272110118328  0.495511241213249  1.0000

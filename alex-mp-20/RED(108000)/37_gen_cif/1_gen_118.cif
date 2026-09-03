@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnNi2HRh
+_chemical_formula_sum              "Zn1 Ni2 H1 Rh1"
+_cell_length_a       3.675964547928137
+_cell_length_b       3.677072998689934
+_cell_length_c       3.8447271395673517
+_cell_angle_alpha    89.99961347652604
+_cell_angle_beta     89.98582328993434
+_cell_angle_gamma    89.96646699877996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9549359251840234  0.8758653974002418  0.37798365956053076  1.0000
+  Ni  Ni1       1.0  0.955035179835499  0.3757784918288548  0.8779491272991599  1.0000
+  Ni  Ni2       1.0  0.45533971252843686  0.8757000580074334  0.8781298969195531  1.0000
+  H   H1        1.0  0.45440044489812126  0.37552702067938604  0.8778322528975904  1.0000
+  Rh  Rh1       1.0  0.45499173632669004  0.3756229086980569  0.3779966254988482  1.0000

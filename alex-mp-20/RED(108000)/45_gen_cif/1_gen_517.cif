@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2MgGeN
+_chemical_formula_sum              "Dy2 Mg1 Ge1 N1"
+_cell_length_a       4.221412862806206
+_cell_length_b       4.7735259434694655
+_cell_length_c       4.773700765374899
+_cell_angle_alpha    90.00032426029648
+_cell_angle_beta     89.99833237064304
+_cell_angle_gamma    89.9976106434656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.19047202206114136  0.23809156594555225  0.022673045216293885  1.0000
+  Dy  Dy2       1.0  0.19093255168773604  0.7382511690707612  0.5229801076481319  1.0000
+  Mg  Mg1       1.0  0.6907133361708657  0.7380234368459839  0.022679889864559315  1.0000
+  Ge  Ge1       1.0  0.6908278251267217  0.23805264233224332  0.5228949584338232  1.0000
+  N   N1        1.0  0.19141233808429056  0.737923568970264  0.022548610655457952  1.0000

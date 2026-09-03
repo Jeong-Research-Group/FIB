@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtCaPtGaCu
+_chemical_formula_sum              "Pt2 Ca1 Ga1 Cu1"
+_cell_length_a       4.057179437621342
+_cell_length_b       4.056154224314552
+_cell_length_c       6.35230827331543
+_cell_angle_alpha    108.13181845872325
+_cell_angle_beta     108.45377853086707
+_cell_angle_gamma    89.98308406979801
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.9116232991218568  0.3704945743083954  0.7956332564353943  1.0000
+  Ca  Ca1       1.0  0.29669815301895147  0.7554308176040649  0.5649347901344299  1.0000
+  Pt  Pt2       1.0  0.681905508041382  0.13991962373256686  0.33508068323135376  1.0000
+  Ga  Ga1       1.0  0.5463984608650208  0.5055379271507263  0.0648951306939125  1.0000
+  Cu  Cu1       1.0  0.046952169388532645  0.005295190960168839  0.0651618018746376  1.0000

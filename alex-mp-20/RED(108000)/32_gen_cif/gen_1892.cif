@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pd2Si2Zn
+_chemical_formula_sum              "Pd2 Si2 Zn1"
+_cell_length_a       4.226423765880393
+_cell_length_b       4.22489005224341
+_cell_length_c       5.083887100219727
+_cell_angle_alpha    90.02148345107591
+_cell_angle_beta     90.0062931089715
+_cell_angle_gamma    120.01683454457122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.04331131651997561  0.8596077561378478  0.538403332233429  1.0000
+  Pd  Pd2       1.0  0.7105209231376648  0.1927943378686905  0.17127873003482819  1.0000
+  Si  Si1       1.0  0.7098391056060791  0.19293290376663208  0.6958773136138916  1.0000
+  Si  Si2       1.0  0.04461059719324112  0.8587369322776794  0.013520568609237671  1.0000
+  Zn  Zn1       1.0  0.3769656717777252  0.5266252756118774  0.3538055419921875  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnCo2Ir
+_chemical_formula_sum              "Mn1 Co2 Ir1"
+_cell_length_a       2.6676212108738677
+_cell_length_b       4.480053030730735
+_cell_length_c       4.480104431677786
+_cell_angle_alpha    108.94436370386207
+_cell_angle_beta     89.99439351608162
+_cell_angle_gamma    89.99404248885746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.012708908811173305  0.2040433843374389  0.37046516195286705  1.0000
+  Co  Co1       1.0  0.5128890179185328  0.7038812318645691  0.36975281228152934  1.0000
+  Co  Co2       1.0  0.5129287233592279  0.20394098061553395  0.8709999582756148  1.0000
+  Ir  Ir1       1.0  0.012481456839000087  0.7037548242103636  0.8696386337122978  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba3SnN
+_chemical_formula_sum              "Ba3 Sn1 N1"
+_cell_length_a       5.602294878131544
+_cell_length_b       5.605088075388031
+_cell_length_c       5.610224357318224
+_cell_angle_alpha    89.99738456183546
+_cell_angle_beta     90.00279729870235
+_cell_angle_gamma    89.97800126590326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.26819018388201404  0.4151908795801028  0.5711003400479769  1.0000
+  Ba  Ba2       1.0  0.26793968879423397  0.915411578882169  0.07120773119449829  1.0000
+  Ba  Ba3       1.0  0.7678759836207302  0.4153422819138526  0.07092870204645822  1.0000
+  Sn  Sn1       1.0  0.7676460892965384  0.9155125848477885  0.5712904590604738  1.0000
+  N   N1        1.0  0.2675157091924776  0.41584819967536124  0.07125023193325156  1.0000

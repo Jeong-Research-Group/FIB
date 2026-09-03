@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrLa2NdIr
+_chemical_formula_sum              "Sr1 La2 Nd1 Ir1"
+_cell_length_a       5.806048402795727
+_cell_length_b       5.770636627581037
+_cell_length_c       5.770825387646135
+_cell_angle_alpha    89.99768043563111
+_cell_angle_beta     90.0015227650787
+_cell_angle_gamma    89.99545283218924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6878496504867213  0.8792986838372023  0.23932309447677372  1.0000
+  La  La1       1.0  0.18779975695882226  0.3800571766111175  0.23928964387273186  1.0000
+  La  La2       1.0  0.18794167488940658  0.8798825115074705  0.7391244279869975  1.0000
+  Nd  Nd1       1.0  0.6878270702497902  0.3797778618199914  0.7390618586916707  1.0000
+  Ir  Ir1       1.0  0.1877487052810736  0.37994489216170146  0.7390347177892089  1.0000

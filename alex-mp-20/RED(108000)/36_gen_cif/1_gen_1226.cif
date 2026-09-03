@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfCo2Si3Rh
+_chemical_formula_sum              "Hf1 Co2 Si3 Rh1"
+_cell_length_a       3.7725927981713308
+_cell_length_b       3.8145464328269627
+_cell_length_c       6.834090184340609
+_cell_angle_alpha    106.22668222667299
+_cell_angle_beta     90.0071298437652
+_cell_angle_gamma    90.00000590018222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.3235580362110696  0.5404968009081581  0.0843001036665538  1.0000
+  Co  Co1       1.0  0.3237877042693191  0.21352030455297452  0.4293344156976481  1.0000
+  Co  Co2       1.0  0.8238673227723395  0.7133000661971927  0.429257676093255  1.0000
+  Si  Si1       1.0  0.3238807506792689  0.8174951883917878  0.6367251902494142  1.0000
+  Si  Si2       1.0  0.8238567873047448  0.32406367787999873  0.6502661936091007  1.0000
+  Si  Si3       1.0  0.8236550415275181  0.11019244060815958  0.2235240101534994  1.0000
+  Rh  Rh1       1.0  0.8238686329840345  0.9324003202274969  0.8667239718117647  1.0000

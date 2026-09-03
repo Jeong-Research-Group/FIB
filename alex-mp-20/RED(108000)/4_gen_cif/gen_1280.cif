@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuFePtCFe
+_chemical_formula_sum              "Cu1 Fe2 Pt1 C1"
+_cell_length_a       3.7911040256031474
+_cell_length_b       3.7943394308657012
+_cell_length_c       4.124152660369873
+_cell_angle_alpha    90.10757798553115
+_cell_angle_beta     90.0395014898779
+_cell_angle_gamma    90.08094707543533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.29417648911476135  0.5365128517150879  0.5079943537712097  1.0000
+  Fe  Fe1       1.0  0.7938223481178284  0.5366887450218201  0.007460189517587423  1.0000
+  Pt  Pt1       1.0  0.7942436337471008  0.036144562065601356  0.5071888566017151  1.0000
+  C   C1        1.0  0.7938934564590454  0.036367565393447876  0.007118831854313612  1.0000
+  Fe  Fe2       1.0  0.2943047881126404  0.036577772349119186  0.007430999539792538  1.0000

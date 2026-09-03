@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2SmSnN
+_chemical_formula_sum              "Ca2 Sm1 Sn1 N1"
+_cell_length_a       4.884379617668131
+_cell_length_b       4.884260421554129
+_cell_length_c       4.933605464534464
+_cell_angle_alpha    89.99748311172291
+_cell_angle_beta     89.99970748346746
+_cell_angle_gamma    89.9997983625737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6609871181254707  0.4592678784639167  0.4909271777150586  1.0000
+  Ca  Ca2       1.0  0.16110113424117567  0.9593978683886745  0.4910439626681371  1.0000
+  Sm  Sm1       1.0  0.16112141033912125  0.45935339261656793  0.9909011474565613  1.0000
+  Sn  Sn1       1.0  0.6609423435086552  0.9594687274297109  0.9908505869422032  1.0000
+  N   N1        1.0  0.16109865335560408  0.45929787564700847  0.490885182585687  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeNbTeGeNbGe
+_chemical_formula_sum              "Te2 Nb2 Ge2"
+_cell_length_a       3.8205053781571845
+_cell_length_b       3.813744809067364
+_cell_length_c       8.223094940185547
+_cell_angle_alpha    89.93885864466812
+_cell_angle_beta     90.0834332613886
+_cell_angle_gamma    90.01204412841513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9543269276618958  0.29091429710388184  0.08092989772558212  1.0000
+  Nb  Nb1       1.0  0.45495036244392395  0.7912508845329285  0.21877028048038483  1.0000
+  Te  Te2       1.0  0.45443350076675415  0.791246235370636  0.833290159702301  1.0000
+  Ge  Ge1       1.0  0.9554116725921631  0.7913358211517334  0.45668843388557434  1.0000
+  Nb  Nb2       1.0  0.9546435475349426  0.2911128103733063  0.6960081458091736  1.0000
+  Ge  Ge2       1.0  0.454468697309494  0.2908855378627777  0.4570194184780121  1.0000

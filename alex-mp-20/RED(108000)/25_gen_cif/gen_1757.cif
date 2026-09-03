@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaLaPtLaPt
+_chemical_formula_sum              "Ca1 La2 Pt2"
+_cell_length_a       5.089733530911651
+_cell_length_b       5.087895682572652
+_cell_length_c       6.311797142028809
+_cell_angle_alpha    90.01931828107699
+_cell_angle_beta     89.90441400645015
+_cell_angle_gamma    119.96865206026509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7284249067306519  0.7778672575950623  0.9318123459815979  1.0000
+  La  La1       1.0  0.39527007937431335  0.11086805909872056  0.6215185523033142  1.0000
+  Pt  Pt1       1.0  0.06163908913731574  0.4446374475955963  0.7340536713600159  1.0000
+  La  La2       1.0  0.06133338063955309  0.4444832801818848  0.24286551773548126  1.0000
+  Pt  Pt2       1.0  0.395164430141449  0.11104489862918854  0.1305079609155655  1.0000

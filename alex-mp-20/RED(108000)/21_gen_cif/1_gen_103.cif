@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2Ni2Pt2
+_chemical_formula_sum              "Zn2 Ni2 Pt2"
+_cell_length_a       3.596287184170851
+_cell_length_b       3.83931155701019
+_cell_length_c       6.140990206795374
+_cell_angle_alpha    108.21560966372456
+_cell_angle_beta     90.00418749907408
+_cell_angle_gamma    90.00045748677624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.8939167874584368  0.8229842646057863  0.9672189314621636  1.0000
+  Zn  Zn2       1.0  0.8937291522707518  0.5068421492797571  0.33466881233272455  1.0000
+  Ni  Ni1       1.0  0.8938097881334821  0.1649251024061765  0.6509576824712415  1.0000
+  Ni  Ni2       1.0  0.3938102927819731  0.6649204639402755  0.6509628405598522  1.0000
+  Pt  Pt1       1.0  0.39387681578943673  0.3257067547471702  0.9726519575741054  1.0000
+  Pt  Pt2       1.0  0.3937704163899167  0.003981806146917463  0.32918636831035397  1.0000

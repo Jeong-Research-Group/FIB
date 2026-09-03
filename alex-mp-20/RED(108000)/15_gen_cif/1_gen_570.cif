@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbCaLa2Ru
+_chemical_formula_sum              "Rb1 Ca1 La2 Ru1"
+_cell_length_a       6.200170886089467
+_cell_length_b       5.5613908668477094
+_cell_length_c       5.561073350827554
+_cell_angle_alpha    89.9993869620192
+_cell_angle_beta     89.99970071442945
+_cell_angle_gamma    90.00150565287827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.3128399186694282  0.519106294002148  0.8069095445377269  1.0000
+  Ca  Ca1       1.0  0.3130946891066425  0.01786768905387843  0.30791352438589575  1.0000
+  La  La1       1.0  0.8153445881070731  0.01786280238580472  0.8087005948622147  1.0000
+  La  La2       1.0  0.8115197903056811  0.5168799702977833  0.30770302147414674  1.0000
+  Ru  Ru1       1.0  0.8129543556799159  0.0174968125972091  0.30758759108557704  1.0000

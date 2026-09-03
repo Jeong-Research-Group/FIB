@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbRhSbSrPt
+_chemical_formula_sum              "Sb2 Rh1 Sr1 Pt1"
+_cell_length_a       4.700707895267518
+_cell_length_b       4.706467287879097
+_cell_length_c       6.432236671447754
+_cell_angle_alpha    111.46213481873741
+_cell_angle_beta     111.43414727968515
+_cell_angle_gamma    89.83061306986767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.5295261740684509  0.5895544290542603  0.021081646904349327  1.0000
+  Rh  Rh1       1.0  0.6417418122291565  0.201152503490448  0.2429243177175522  1.0000
+  Sb  Sb2       1.0  0.2529886066913605  0.31325602531433105  0.4673383533954621  1.0000
+  Sr  Sr1       1.0  0.8916895985603333  0.951589345932007  0.7436164021492004  1.0000
+  Pt  Pt1       1.0  0.14196196198463437  0.70278662443161  0.24482940137386325  1.0000

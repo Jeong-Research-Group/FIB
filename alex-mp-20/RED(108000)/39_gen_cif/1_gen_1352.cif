@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2GaSi3
+_chemical_formula_sum              "Nd2 Ga1 Si3"
+_cell_length_a       4.23336964128626
+_cell_length_b       4.116665037579702
+_cell_length_c       7.212406489106027
+_cell_angle_alpha    90.00151146598222
+_cell_angle_beta     90.02068578961732
+_cell_angle_gamma    90.00683992789665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.20949940168373568  0.6773041649934819  0.7882789542675164  1.0000
+  Nd  Nd2       1.0  0.2094134010953556  0.17738623479144297  0.3113271972408534  1.0000
+  Ga  Ga1       1.0  0.7093614575980227  0.6773593278342737  0.13310396257824192  1.0000
+  Si  Si1       1.0  0.7094945387399632  0.1773950834286236  0.9601550595660854  1.0000
+  Si  Si2       1.0  0.7093902375448036  0.6773586389275184  0.469263706835165  1.0000
+  Si  Si3       1.0  0.7095341018545632  0.17737674604719525  0.6316904278436787  1.0000

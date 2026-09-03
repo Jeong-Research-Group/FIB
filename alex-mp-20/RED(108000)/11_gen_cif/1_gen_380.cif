@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2NdGa
+_chemical_formula_sum              "Li2 Nd1 Ga1"
+_cell_length_a       4.786375283484512
+_cell_length_b       4.789494667303507
+_cell_length_c       4.790260094260993
+_cell_angle_alpha    119.92422654468784
+_cell_angle_beta     119.90800786894108
+_cell_angle_gamma    90.05782067777736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9811956553744007  0.0005692044824117877  0.6201234764450281  1.0000
+  Li  Li2       1.0  0.4809656673119596  0.5020690327126808  0.6212332620830927  1.0000
+  Nd  Nd1       1.0  0.7308652987874119  0.251299837327843  0.12051546382951472  1.0000
+  Ga  Ga1       1.0  0.23084485000952726  0.7512012069128131  0.12067842646497459  1.0000

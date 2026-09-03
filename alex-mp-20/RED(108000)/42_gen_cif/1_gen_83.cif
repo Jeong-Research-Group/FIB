@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H4Ir2Rh2
+_chemical_formula_sum              "H4 Ir2 Rh2"
+_cell_length_a       4.090814932167792
+_cell_length_b       4.086327005591044
+_cell_length_c       4.086214742112354
+_cell_angle_alpha    89.9583648463322
+_cell_angle_beta     89.95593796365183
+_cell_angle_gamma    89.925625188573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.22033045434724124  0.9183049364851924  0.6886099677130666  1.0000
+  H   H2        1.0  0.22050592572449904  0.4174880014840538  0.18827509063869194  1.0000
+  H   H3        1.0  0.7207276595728885  0.4178106230702333  0.689374949762782  1.0000
+  H   H4        1.0  0.7200840980283032  0.9180477585542758  0.18957834453656533  1.0000
+  Ir  Ir1       1.0  0.7206044053418724  0.41837145194638886  0.1875052612817668  1.0000
+  Ir  Ir2       1.0  0.7206330670441097  0.9182824126644396  0.6875617791004546  1.0000
+  Rh  Rh1       1.0  0.22040916935305707  0.9180120892622081  0.1873989645785208  1.0000
+  Rh  Rh2       1.0  0.22064132375106013  0.4181267639124346  0.6881817876320578  1.0000

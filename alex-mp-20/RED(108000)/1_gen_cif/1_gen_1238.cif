@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeCr2Re3
+_chemical_formula_sum              "Be1 Cr2 Re3"
+_cell_length_a       2.9600960570670485
+_cell_length_b       2.9603330047693754
+_cell_length_c       8.721390292887218
+_cell_angle_alpha    90.00235135994511
+_cell_angle_beta     89.99314362081242
+_cell_angle_gamma    89.99923595554867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.6863663882645809  0.4754380222599347  0.743677901169069  1.0000
+  Cr  Cr1       1.0  0.6863300415213246  0.47492885385490463  0.420330960771867  1.0000
+  Cr  Cr2       1.0  0.6856530592700687  0.4757955268792931  0.06785420108472218  1.0000
+  Re  Re1       1.0  0.1863055766312403  0.9752296242133832  0.5913097673606739  1.0000
+  Re  Re2       1.0  0.18626890084268058  0.9757428855999435  0.8974509605930133  1.0000
+  Re  Re3       1.0  0.18610859314512157  0.975815541995713  0.24493449992546001  1.0000

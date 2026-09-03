@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd2Ga2Si2Ge2
+_chemical_formula_sum              "Nd2 Ga2 Si2 Ge2"
+_cell_length_a       4.258655248345778
+_cell_length_b       4.2584201152836725
+_cell_length_c       9.296040637234231
+_cell_angle_alpha    90.0503176718033
+_cell_angle_beta     89.9521974325073
+_cell_angle_gamma    90.00068624441452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.5898720346047648  0.9478744987295615  0.5968654472651507  1.0000
+  Nd  Nd2       1.0  0.08919774802733432  0.4487395132755143  0.1098698771667577  1.0000
+  Ga  Ga1       1.0  0.08946495769703329  0.4483547909807841  0.5268581521273507  1.0000
+  Ga  Ga2       1.0  0.5893077973255467  0.9486137331540042  0.06181816890333135  1.0000
+  Si  Si1       1.0  0.09138880085202954  0.9493428594270298  0.34800696852554397  1.0000
+  Si  Si2       1.0  0.5885950683030152  0.4461485213995674  0.34786664636743575  1.0000
+  Ge  Ge1       1.0  0.5896356303317015  0.44833450441055633  0.8491766137325252  1.0000
+  Ge  Ge2       1.0  0.08941544227451984  0.9483339615743839  0.8492623655475314  1.0000

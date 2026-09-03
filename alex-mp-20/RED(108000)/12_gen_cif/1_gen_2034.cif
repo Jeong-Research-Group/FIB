@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Be2GaRu
+_chemical_formula_sum              "Ce2 Be2 Ga1 Ru1"
+_cell_length_a       3.9597425410862184
+_cell_length_b       3.955696176964563
+_cell_length_c       6.935203731947591
+_cell_angle_alpha    90.0035049701393
+_cell_angle_beta     89.99875104876179
+_cell_angle_gamma    90.00589263982992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.988071453422941  0.6160253029123526  0.704920703348248  1.0000
+  Ce  Ce2       1.0  0.48799654452789215  0.11611802880325374  0.35021793849336047  1.0000
+  Be  Be1       1.0  0.48815709425538445  0.6161525849146534  0.03448586871097656  1.0000
+  Be  Be2       1.0  0.9879873675380871  0.11582058566574946  0.03472108350789364  1.0000
+  Ga  Ga1       1.0  0.48802350346502227  0.1161045935205305  0.8458420709349375  1.0000
+  Ru  Ru1       1.0  0.9881100097585748  0.6159715907934827  0.2603717715773339  1.0000

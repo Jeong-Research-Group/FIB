@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2AuZrAu2
+_chemical_formula_sum              "Sr2 Au3 Zr1"
+_cell_length_a       3.6664278723613926
+_cell_length_b       5.187641254934457
+_cell_length_c       8.399206161499023
+_cell_angle_alpha    72.02381121246744
+_cell_angle_beta     90.00622480685402
+_cell_angle_gamma    89.91891449910112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.27793583273887634  0.4290006756782532  0.2719508707523346  1.0000
+  Sr  Sr2       1.0  0.2777915596961975  0.7692814469337463  0.5903212428092957  1.0000
+  Au  Au1       1.0  0.7783479690551758  0.964200496673584  0.20466873049736026  1.0000
+  Zr  Zr1       1.0  0.27789267897605896  0.09910350292921066  0.9308232069015503  1.0000
+  Au  Au2       1.0  0.7780236005783081  0.5980018973350525  0.9304869174957277  1.0000
+  Au  Au3       1.0  0.7782351970672607  0.2352284342050552  0.6584913730621338  1.0000

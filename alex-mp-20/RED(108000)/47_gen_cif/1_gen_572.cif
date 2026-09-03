@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ni2MoRu
+_chemical_formula_sum              "Ni2 Mo1 Ru1"
+_cell_length_a       2.622999431641941
+_cell_length_b       3.7588777708944745
+_cell_length_c       5.17538669357995
+_cell_angle_alpha    89.9989752061172
+_cell_angle_beta     90.0215648777327
+_cell_angle_gamma    90.02068962889746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.35675591437281623  0.7256056669031727  0.10367890669516301  1.0000
+  Ni  Ni2       1.0  0.35752823672454503  0.7261571231916703  0.6128321775399974  1.0000
+  Mo  Mo1       1.0  0.8571703276206576  0.22574369986149337  0.3579175417829762  1.0000
+  Ru  Ru1       1.0  0.8566629443097004  0.22629932965443383  0.8582338987885431  1.0000

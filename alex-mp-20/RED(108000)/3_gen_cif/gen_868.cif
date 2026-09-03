@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2H2O2
+_chemical_formula_sum              "Cs2 H2 O2"
+_cell_length_a       4.491890747591154
+_cell_length_b       4.466157318372489
+_cell_length_c       7.640848636627197
+_cell_angle_alpha    89.67708483847639
+_cell_angle_beta     89.96593352136794
+_cell_angle_gamma    90.11642307435933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.6068323254585266  0.6147083640098571  0.7835549116134645  1.0000
+  Cs  Cs2       1.0  0.10721936076879501  0.11582901328802107  0.4032547771930695  1.0000
+  H   H1        1.0  0.10786347836256027  0.11242654919624329  0.9195522069931031  1.0000
+  H   H2        1.0  0.6057994365692139  0.617902100086212  0.2664579749107361  1.0000
+  O   O1        1.0  0.6061965823173523  0.6161906123161316  0.394349753856659  1.0000
+  O   O2        1.0  0.10716459155082703  0.11250466108322144  0.7940299510955812  1.0000

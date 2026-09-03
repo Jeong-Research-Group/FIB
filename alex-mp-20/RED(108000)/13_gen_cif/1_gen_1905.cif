@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Fe2BiPb
+_chemical_formula_sum              "Ce2 Fe2 Bi1 Pb1"
+_cell_length_a       5.1312499404055645
+_cell_length_b       5.130305162477902
+_cell_length_c       5.344293961154924
+_cell_angle_alpha    89.92737066246498
+_cell_angle_beta     89.92304848830442
+_cell_angle_gamma    89.9996024126757
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.2893863022660272  0.573987598928578  0.4572809503088016  1.0000
+  Ce  Ce2       1.0  0.7916333020603106  0.07827690529715438  0.45779758923816516  1.0000
+  Fe  Fe1       1.0  0.29063666496491203  0.07612636560550799  0.4573379826046028  1.0000
+  Fe  Fe2       1.0  0.7912928641466254  0.5759146755207478  0.4562884162298182  1.0000
+  Bi  Bi1       1.0  0.29017857405209924  0.0757803803607943  0.956633088913329  1.0000
+  Pb  Pb1       1.0  0.790528539539687  0.5761867735164148  0.9559052777353587  1.0000

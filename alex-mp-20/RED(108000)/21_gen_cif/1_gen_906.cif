@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2CdH2Pd3
+_chemical_formula_sum              "Sm2 Cd1 H2 Pd3"
+_cell_length_a       4.028422087962837
+_cell_length_b       4.04233957616274
+_cell_length_c       8.222661866211878
+_cell_angle_alpha    90.00231550097436
+_cell_angle_beta     89.99060261637585
+_cell_angle_gamma    89.99930273535624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7875485607211627  0.04670522813010674  0.8712236116350042  1.0000
+  Sm  Sm2       1.0  0.2875204483473612  0.5471683304871592  0.17620095893892976  1.0000
+  Cd  Cd1       1.0  0.28737298501946523  0.04625724820038776  0.522804871271332  1.0000
+  H   H1        1.0  0.28772248876760675  0.04713442173000897  0.026256283290748434  1.0000
+  H   H2        1.0  0.7873568168586526  0.5466241099144272  0.02246413107195544  1.0000
+  Pd  Pd1       1.0  0.7880713742684246  0.04706402772575797  0.28058633259650656  1.0000
+  Pd  Pd2       1.0  0.28702050140060775  0.5465061884937099  0.7648380067500055  1.0000
+  Pd  Pd3       1.0  0.7871827214760949  0.5467304001339073  0.5228038412229497  1.0000

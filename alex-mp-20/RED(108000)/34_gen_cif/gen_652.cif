@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2SnMgSnNi2Ru
+_chemical_formula_sum              "Ni4 Sn2 Mg1 Ru1"
+_cell_length_a       3.9318629897827297
+_cell_length_b       3.9302534999994343
+_cell_length_c       7.377285003662109
+_cell_angle_alpha    89.87540619225969
+_cell_angle_beta     89.87120563323984
+_cell_angle_gamma    89.9774628808351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8139064908027648  0.7621543407440186  0.5373404622077942  1.0000
+  Ni  Ni2       1.0  0.8138907551765441  0.7628642916679381  0.03718841820955276  1.0000
+  Sn  Sn1       1.0  0.8136698603630065  0.2626476585865021  0.7868541479110717  1.0000
+  Mg  Mg1       1.0  0.3137310743331909  0.7627492547035216  0.7873649597167968  1.0000
+  Sn  Sn2       1.0  0.8138980865478515  0.2625819146633148  0.2865498661994934  1.0000
+  Ni  Ni3       1.0  0.31356972455978394  0.262267380952835  0.5376118421554565  1.0000
+  Ni  Ni4       1.0  0.31406643986701965  0.2630342841148376  0.036225643008947365  1.0000
+  Ru  Ru1       1.0  0.3137073218822479  0.7626218795776366  0.286467045545578  1.0000

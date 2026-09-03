@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2PrHoPb2
+_chemical_formula_sum              "Li2 Pr1 Ho1 Pb2"
+_cell_length_a       4.834551134627514
+_cell_length_b       4.835056461656223
+_cell_length_c       7.463627179837969
+_cell_angle_alpha    90.0011609777135
+_cell_angle_beta     90.02694368084526
+_cell_angle_gamma    119.98489014206763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5712527025043754  0.5935977936963012  0.5270301753660187  1.0000
+  Li  Li2       1.0  0.23831145592240807  0.9268236487288251  0.09060201625300866  1.0000
+  Pr  Pr1       1.0  0.9047699800764594  0.2601266653359551  0.8089896961083556  1.0000
+  Ho  Ho1       1.0  0.9047232662118976  0.2601791141126267  0.30897699717020555  1.0000
+  Pb  Pb1       1.0  0.23789357167879482  0.9269094734629069  0.5472931217664828  1.0000
+  Pb  Pb2       1.0  0.571388310048502  0.5934656353714831  0.07120938954724237  1.0000

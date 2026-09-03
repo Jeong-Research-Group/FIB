@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgLu2CuMgCuMgLu
+_chemical_formula_sum              "Mg3 Lu3 Cu2"
+_cell_length_a       3.475576364951626
+_cell_length_b       6.015642281690058
+_cell_length_c       8.857684135437012
+_cell_angle_alpha    90.23179863319902
+_cell_angle_beta     90.28381736295711
+_cell_angle_gamma    107.01148920490567
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.46033778786659235  0.509900689125061  0.42227792739868164  1.0000
+  Lu  Lu1       1.0  0.45291423797607416  0.4945723712444306  0.7960190176963806  1.0000
+  Lu  Lu2       1.0  0.881071627140045  0.35206013917922974  0.11873439699411392  1.0000
+  Cu  Cu1       1.0  0.0794492512941361  0.746509611606598  0.606955349445343  1.0000
+  Mg  Mg2       1.0  0.17797186970710752  0.9452601075172425  0.30567371845245367  1.0000
+  Cu  Cu2       1.0  0.5724273920059204  0.7351731061935425  0.11166702210903168  1.0000
+  Mg  Mg3       1.0  0.7604162096977233  0.10940687358379364  0.5906757712364197  1.0000
+  Lu  Lu3       1.0  0.1845821440219879  0.9583549499511719  0.9089767336845398  1.0000

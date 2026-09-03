@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiPNi4PB
+_chemical_formula_sum              "Ni5 P2 B1"
+_cell_length_a       3.6046133073775035
+_cell_length_b       3.602136334957288
+_cell_length_c       7.960090637207031
+_cell_angle_alpha    90.01908605282252
+_cell_angle_beta     89.99757095704149
+_cell_angle_gamma    120.10456250010867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5432307124137878  0.11338818073272705  0.08141937106847763  1.0000
+  P   P1        1.0  0.5431047081947327  0.11328243464231491  0.8046622276306151  1.0000
+  Ni  Ni2       1.0  0.21013857424259186  0.4469578266143799  0.2318751662969589  1.0000
+  Ni  Ni3       1.0  0.8762097358703613  0.7800962924957275  0.6553772687911987  1.0000
+  Ni  Ni4       1.0  0.21018312871456146  0.4457799196243286  0.8920850753784179  1.0000
+  Ni  Ni5       1.0  0.5427457094192505  0.11409299820661545  0.4203176796436309  1.0000
+  P   P2        1.0  0.2099940925836563  0.4467916786670685  0.5074389576911926  1.0000
+  B   B1        1.0  0.8769326210021973  0.7799609899520874  0.15624207258224487  1.0000

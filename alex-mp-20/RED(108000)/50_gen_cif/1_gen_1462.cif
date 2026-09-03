@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ti2FeIr
+_chemical_formula_sum              "Ti2 Fe1 Ir1"
+_cell_length_a       3.0892554870625295
+_cell_length_b       4.2947412732367605
+_cell_length_c       4.294756752691959
+_cell_angle_alpha    89.99654845420524
+_cell_angle_beta     90.00033095499974
+_cell_angle_gamma    90.00048346859691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.473902296335562  0.13494325466059423  0.041338106985248035  1.0000
+  Ti  Ti2       1.0  0.474197843187639  0.6348676501399082  0.5413228844093558  1.0000
+  Fe  Fe1       1.0  0.9738795040275827  0.134947626941349  0.5413118222190542  1.0000
+  Ir  Ir1       1.0  0.973963431985995  0.6348943678284339  0.041360223370766766  1.0000

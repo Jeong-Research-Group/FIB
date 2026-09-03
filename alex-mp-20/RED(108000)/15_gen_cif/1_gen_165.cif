@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiSc3O
+_chemical_formula_sum              "Li1 Sc3 O1"
+_cell_length_a       4.458014815377879
+_cell_length_b       4.457454705220746
+_cell_length_c       4.460394793429306
+_cell_angle_alpha    90.02483288012546
+_cell_angle_beta     89.99998539740508
+_cell_angle_gamma    89.9891752570679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8199964146386157  0.03372492837957552  0.4115914555808505  1.0000
+  Sc  Sc1       1.0  0.3198586279734107  0.03443370913892681  0.9128575034148037  1.0000
+  Sc  Sc2       1.0  0.3199253840977131  0.5337223113378445  0.41170299163000196  1.0000
+  Sc  Sc3       1.0  0.8198166271000524  0.5338985769213149  0.9113542062775581  1.0000
+  O   O1        1.0  0.32027264363574753  0.5334235474693197  0.9113387686919255  1.0000

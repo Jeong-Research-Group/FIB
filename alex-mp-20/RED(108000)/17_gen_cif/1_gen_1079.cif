@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Mg2Ga2
+_chemical_formula_sum              "Y2 Mg2 Ga2"
+_cell_length_a       5.0300647930129525
+_cell_length_b       5.029900520673973
+_cell_length_c       6.334012861608441
+_cell_angle_alpha    89.99561933984593
+_cell_angle_beta     90.00537518540467
+_cell_angle_gamma    120.00412672657545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.3250801153779576  0.24971439900896392  0.12245755231345368  1.0000
+  Y   Y2        1.0  0.6584138816663679  0.9163726649932141  0.7979827725897596  1.0000
+  Mg  Mg1       1.0  0.6584275400379851  0.9164974541433758  0.3117881770468744  1.0000
+  Mg  Mg2       1.0  0.9916389596070462  0.5828613312023073  0.4960476168313346  1.0000
+  Ga  Ga1       1.0  0.9916538150173602  0.5829755597419417  0.016958749993384654  1.0000
+  Ga  Ga2       1.0  0.3250585763993417  0.24976902279887858  0.5991075414831535  1.0000

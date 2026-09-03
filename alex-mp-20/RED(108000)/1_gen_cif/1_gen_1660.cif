@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiNdSi2Ni2
+_chemical_formula_sum              "Li1 Nd1 Si2 Ni2"
+_cell_length_a       4.010523951760392
+_cell_length_b       4.009988575177237
+_cell_length_c       6.79056660638897
+_cell_angle_alpha    90.04510247229791
+_cell_angle_beta     90.08469236795128
+_cell_angle_gamma    60.01157971568581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7360079684655694  0.2830785392623693  0.5078950680513434  1.0000
+  Nd  Nd1       1.0  0.735645854595846  0.283618693689948  0.008331607920278298  1.0000
+  Si  Si1       1.0  0.4024711500030046  0.9496672186526257  0.30608867961101077  1.0000
+  Si  Si2       1.0  0.06932789450336668  0.6164545669235721  0.7113401598148531  1.0000
+  Ni  Ni1       1.0  0.401934670956076  0.949599220169236  0.6497941749387804  1.0000
+  Ni  Ni2       1.0  0.06983029454528016  0.6165187602880076  0.36739899807132925  1.0000

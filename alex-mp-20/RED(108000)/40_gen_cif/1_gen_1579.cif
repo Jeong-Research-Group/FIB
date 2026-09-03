@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CoP2Pd
+_chemical_formula_sum              "Co1 P2 Pd1"
+_cell_length_a       3.5248126964353363
+_cell_length_b       3.5248871246715217
+_cell_length_c       5.113252176487818
+_cell_angle_alpha    90.01042978966179
+_cell_angle_beta     89.99061418197888
+_cell_angle_gamma    119.96363902103366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.23345709507258522  0.827985978436767  0.03210043274088144  1.0000
+  P   P1        1.0  0.8998705204042007  0.1614389434857014  0.23041380048549048  1.0000
+  P   P2        1.0  0.5669716516002183  0.49435564026994433  0.8336685242103364  1.0000
+  Pd  Pd1       1.0  0.23339748069124844  0.8277078276102313  0.5321515359977239  1.0000

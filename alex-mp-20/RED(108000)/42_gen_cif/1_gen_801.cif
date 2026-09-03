@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2GeI2
+_chemical_formula_sum              "Pr2 Ge1 I2"
+_cell_length_a       4.403028711101273
+_cell_length_b       4.404363818856133
+_cell_length_c       11.92970553654936
+_cell_angle_alpha    79.1806393478366
+_cell_angle_beta     79.30310189126338
+_cell_angle_gamma    60.030967873038726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.17004774943229534  0.7907564074305715  0.2898144694501342  1.0000
+  Pr  Pr2       1.0  0.40930366656331585  0.026330111412154984  0.5745292864079701  1.0000
+  Ge  Ge1       1.0  0.7898282087819689  0.4087753640779033  0.43220806615321555  1.0000
+  I   I1        1.0  0.5628373728657756  0.1853435091592021  0.1120386661741472  1.0000
+  I   I2        1.0  0.016879582469811402  0.6315398187207756  0.7525267977732472  1.0000

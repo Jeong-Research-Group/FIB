@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2CoNi4Ru
+_chemical_formula_sum              "Zn2 Co1 Ni4 Ru1"
+_cell_length_a       3.6911849596192043
+_cell_length_b       3.58611432077978
+_cell_length_c       7.224795432957312
+_cell_angle_alpha    89.99864911545647
+_cell_angle_beta     89.99978645059379
+_cell_angle_gamma    90.0000093815614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7685448585987419  0.810394005165373  0.6950486905936689  1.0000
+  Zn  Zn2       1.0  0.7685232650441465  0.8102335433554178  0.19346069542376668  1.0000
+  Co  Co1       1.0  0.2684652738771101  0.8103589592772106  0.4446922617899875  1.0000
+  Ni  Ni1       1.0  0.7684393626792407  0.3104074995478491  0.4498519660717343  1.0000
+  Ni  Ni2       1.0  0.7686204209466938  0.3101334609802886  0.9410601329743528  1.0000
+  Ni  Ni3       1.0  0.2686413342956765  0.810090173373497  0.9398135451344747  1.0000
+  Ni  Ni4       1.0  0.26857650436446473  0.3104488480768135  0.6929105872915489  1.0000
+  Ru  Ru1       1.0  0.2685333473987802  0.3100739306294476  0.19787264210382122  1.0000

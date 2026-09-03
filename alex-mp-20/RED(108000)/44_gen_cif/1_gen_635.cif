@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgAl2Cr2
+_chemical_formula_sum              "Mg1 Al2 Cr2"
+_cell_length_a       2.931345369724535
+_cell_length_b       2.9463968092770965
+_cell_length_c       9.263679090371124
+_cell_angle_alpha    89.77581963987792
+_cell_angle_beta     99.08247478365215
+_cell_angle_gamma    89.99783219849961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.03074700556701472  0.10816834963704712  0.45827080866337816  1.0000
+  Al  Al1       1.0  0.3880939104695994  0.10031367974599628  0.17410430708232935  1.0000
+  Al  Al2       1.0  0.6492195309357807  0.6062289229838965  0.6943010082238903  1.0000
+  Cr  Cr1       1.0  0.7997086488656973  0.6022062111109571  0.9971889245613955  1.0000
+  Cr  Cr2       1.0  0.23659673399947617  0.10465688107493169  0.8703434693288757  1.0000

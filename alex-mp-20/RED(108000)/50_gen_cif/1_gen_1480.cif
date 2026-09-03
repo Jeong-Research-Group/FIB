@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs2InSn3Pb3Au
+_chemical_formula_sum              "Cs2 In1 Sn3 Pb3 Au1"
+_cell_length_a       5.26528392905292
+_cell_length_b       5.272411222453605
+_cell_length_c       13.028676639143642
+_cell_angle_alpha    89.9910101157414
+_cell_angle_beta     89.98149413425917
+_cell_angle_gamma    90.00989793911513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.6022455159715527  0.659923186814214  0.6109231621958954  1.0000
+  Cs  Cs2       1.0  0.10272777417725414  0.15954664184433037  0.09128357825687253  1.0000
+  In  In1       1.0  0.6019590575052253  0.15950643587607982  0.3513416613569283  1.0000
+  Sn  Sn1       1.0  0.10210699598555031  0.6597862223839435  0.3515246986596205  1.0000
+  Sn  Sn2       1.0  0.10213506267472665  0.1600102729391363  0.7429339456263734  1.0000
+  Sn  Sn3       1.0  0.6026272865413341  0.6595770470552912  0.960394696068927  1.0000
+  Pb  Pb1       1.0  0.10260308310542546  0.6600602912887281  0.8514619788032931  1.0000
+  Pb  Pb2       1.0  0.6022040647512305  0.6592098746725293  0.21558024803940148  1.0000
+  Pb  Pb3       1.0  0.10218678735339863  0.1599369198704585  0.4875842619325546  1.0000
+  Au  Au1       1.0  0.6022145155059146  0.15984317443776577  0.8517427829498182  1.0000

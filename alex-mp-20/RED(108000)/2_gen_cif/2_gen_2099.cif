@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cu2SiPd
+_chemical_formula_sum              "Cu2 Si1 Pd1"
+_cell_length_a       3.8181688378095466
+_cell_length_b       3.6656805960744925
+_cell_length_c       3.6688820452848283
+_cell_angle_alpha    89.99811884055956
+_cell_angle_beta     89.99488674667391
+_cell_angle_gamma    90.00151096353848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2906145688534637  0.4975078096723578  0.967825586157184  1.0000
+  Cu  Cu2       1.0  0.29060315039597084  0.9973690751478627  0.46791627057506424  1.0000
+  Si  Si1       1.0  0.7905747115077169  0.49770345200191  0.4679385446396465  1.0000
+  Pd  Pd1       1.0  0.7906751669097029  0.9978601814592881  0.9679507429114643  1.0000

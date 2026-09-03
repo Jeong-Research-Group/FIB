@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr2Si4Ir2
+_chemical_formula_sum              "Zr2 Si4 Ir2"
+_cell_length_a       2.964706702947034
+_cell_length_b       5.034680127921527
+_cell_length_c       8.503471634103143
+_cell_angle_alpha    90.00339521933931
+_cell_angle_beta     90.00141801497259
+_cell_angle_gamma    89.99669815824484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.41148376718863955  0.6691472096766271  0.26918957424229417  1.0000
+  Zr  Zr2       1.0  0.41136907253029287  0.9915866440470746  0.769195084486829  1.0000
+  Si  Si1       1.0  0.9116397077071855  0.831506948834127  0.5189758389708814  1.0000
+  Si  Si2       1.0  0.4133372855373288  0.3322500515349455  0.01858014770655551  1.0000
+  Si  Si3       1.0  0.4119906403896354  0.3303028345091187  0.5190947704962698  1.0000
+  Si  Si4       1.0  0.9113202233477803  0.8314367069518966  0.019414986169522135  1.0000
+  Ir  Ir1       1.0  0.911553775691612  0.17438558240995028  0.2691278469828674  1.0000
+  Ir  Ir2       1.0  0.9116047933932101  0.4866229049343899  0.7691239879005919  1.0000

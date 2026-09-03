@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnFeGaFe3
+_chemical_formula_sum              "Mn1 Fe4 Ga1"
+_cell_length_a       4.6557089225930905
+_cell_length_b       4.656279493651105
+_cell_length_c       4.656479835510254
+_cell_angle_alpha    60.229100389741646
+_cell_angle_beta     60.27754018945285
+_cell_angle_gamma    60.25351724021145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.44170030951499945  0.8596391081809998  0.2439713180065155  1.0000
+  Fe  Fe1       1.0  0.31671327352523804  0.23537388443946838  0.6191626787185669  1.0000
+  Ga  Ga1       1.0  0.19163182377815247  0.6102538704872131  0.9948508739471436  1.0000
+  Fe  Fe2       1.0  0.8168151378631592  0.23528383672237396  0.11874189227819443  1.0000
+  Fe  Fe3       1.0  0.8171470761299133  0.7346901297569275  0.6190151572227478  1.0000
+  Fe  Fe4       1.0  0.817142128944397  0.23485620319843292  0.6198193430900574  1.0000

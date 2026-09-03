@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn3InAs3Pb
+_chemical_formula_sum              "Zn3 In1 As3 Pb1"
+_cell_length_a       4.206538649432472
+_cell_length_b       4.206344365479725
+_cell_length_c       12.734105916187822
+_cell_angle_alpha    80.48985833238804
+_cell_angle_beta     80.45715385870461
+_cell_angle_gamma    60.0026593729145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5568803327994799  0.2911903243277865  0.6978372448265904  1.0000
+  Zn  Zn2       1.0  0.7434450851638797  0.47925843620713915  0.13637164184482986  1.0000
+  Zn  Zn3       1.0  0.3591017887584019  0.09465504555657298  0.2875917443756679  1.0000
+  In  In1       1.0  0.9555239465581754  0.6916642895040714  0.49692464157556615  1.0000
+  As  As1       1.0  0.43122076564264794  0.16686581534525025  0.07343031498867829  1.0000
+  As  As2       1.0  0.6710174353444143  0.40659174187219016  0.3514709367254485  1.0000
+  As  As3       1.0  0.8732213747855826  0.607511717916566  0.748825906605854  1.0000
+  Pb  Pb1       1.0  0.15159124977861463  0.8868403603716289  0.9128016847928347  1.0000

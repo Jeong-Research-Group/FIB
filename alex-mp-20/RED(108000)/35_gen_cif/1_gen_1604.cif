@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiAgP2
+_chemical_formula_sum              "Li1 Ag1 P2"
+_cell_length_a       3.4862524626100666
+_cell_length_b       4.596220163506375
+_cell_length_c       5.22119178248104
+_cell_angle_alpha    116.31357046902484
+_cell_angle_beta     90.27284162403524
+_cell_angle_gamma    89.99430938130224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6948897649795966  0.23349105668222697  0.3351689872421188  1.0000
+  Ag  Ag1       1.0  0.21227244939636777  0.5853309606937789  0.017959234501672434  1.0000
+  P   P1        1.0  0.21296161672320327  0.9850912114855341  0.8189527993042574  1.0000
+  P   P2        1.0  0.7105741528698728  0.8282065145328148  0.5224835479966954  1.0000

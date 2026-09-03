@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ir3Ti2Ta
+_chemical_formula_sum              "Ir3 Ti2 Ta1"
+_cell_length_a       2.885349033010487
+_cell_length_b       2.8854317027380314
+_cell_length_c       11.030431747436523
+_cell_angle_alpha    89.98006518079664
+_cell_angle_beta     90.06158348425001
+_cell_angle_gamma    90.27526596675614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.5684522986412048  0.8141138553619385  0.595676839351654  1.0000
+  Ir  Ir2       1.0  0.5690113306045532  0.8149240612983704  0.9453845024108887  1.0000
+  Ir  Ir3       1.0  0.568247377872467  0.8166034817695618  0.2710161805152893  1.0000
+  Ti  Ti1       1.0  0.06848514825105667  0.3151474595069885  0.43372219800949097  1.0000
+  Ti  Ti2       1.0  0.06814493983983994  0.31600791215896606  0.10778901726007462  1.0000
+  Ta  Ta1       1.0  0.06887546181678772  0.313333123922348  0.7704660296440125  1.0000

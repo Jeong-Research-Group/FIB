@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiCuCrCuH2
+_chemical_formula_sum              "Ni1 Cu2 Cr1 H2"
+_cell_length_a       3.6949728261762838
+_cell_length_b       3.7163398620628607
+_cell_length_c       3.849583625793457
+_cell_angle_alpha    89.97800246503145
+_cell_angle_beta     90.09500359598009
+_cell_angle_gamma    89.94908344393906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6617421507835388  0.681457281112671  0.3956256210803985  1.0000
+  Cu  Cu1       1.0  0.6608921885490417  0.18121911585330963  0.8962503075599669  1.0000
+  Cr  Cr1       1.0  0.16102705895900726  0.18057857453823092  0.3957469761371612  1.0000
+  Cu  Cu2       1.0  0.16105452179908752  0.6800832152366639  0.8951765298843383  1.0000
+  H   H1        1.0  0.660899817943573  0.1804880499839783  0.39724993705749506  1.0000
+  H   H2        1.0  0.16152547299861908  0.6815291047096252  0.3940792083740234  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2Nb2Cu2
+_chemical_formula_sum              "Mn2 Nb2 Cu2"
+_cell_length_a       4.037634301536334
+_cell_length_b       3.1469912211762194
+_cell_length_c       6.712059835589623
+_cell_angle_alpha    103.56799111837331
+_cell_angle_beta     89.9958877576999
+_cell_angle_gamma    90.0005079589494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7619892283626181  0.8088412387466172  0.16785150967908335  1.0000
+  Mn  Mn2       1.0  0.26189121546000393  0.9753763778529838  0.5003246232397859  1.0000
+  Nb  Nb1       1.0  0.7618674338579772  0.48024772489871126  0.5101604549830908  1.0000
+  Nb  Nb2       1.0  0.26193465741907296  0.30398552569106185  0.15795619074782863  1.0000
+  Cu  Cu1       1.0  0.26180006067337547  0.634648122708546  0.8189095146762939  1.0000
+  Cu  Cu2       1.0  0.761754550254703  0.14955002493100145  0.8490885695249424  1.0000

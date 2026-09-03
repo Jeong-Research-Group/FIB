@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2GeMgPd
+_chemical_formula_sum              "Mg3 Ge1 Pd1"
+_cell_length_a       4.662579521383017
+_cell_length_b       4.66273378695023
+_cell_length_c       5.586561679840088
+_cell_angle_alpha    65.39535161001231
+_cell_angle_beta     65.41596538248001
+_cell_angle_gamma    60.02595810048885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.15761058032512665  0.29812315106391907  0.01380503922700882  1.0000
+  Mg  Mg2       1.0  0.9427399039268493  0.08368054032325745  0.6563696861267091  1.0000
+  Ge  Ge1       1.0  0.5735495686531067  0.714103102684021  0.7613064050674438  1.0000
+  Mg  Mg3       1.0  0.3782325983047486  0.5184301733970642  0.35050877928733826  1.0000
+  Pd  Pd1       1.0  0.7480368018150331  0.8887298703193663  0.24164703488349915  1.0000

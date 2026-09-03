@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrIn2GaSrGa
+_chemical_formula_sum              "Sr2 In2 Ga2"
+_cell_length_a       4.894421561001039
+_cell_length_b       6.295870669949108
+_cell_length_c       6.313086986541748
+_cell_angle_alpha    83.8629754038328
+_cell_angle_beta     67.15853133031774
+_cell_angle_gamma    67.15797853323758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5845642685890197  0.7312763333320618  0.6047460436820984  1.0000
+  In  In1       1.0  0.9044724106788635  0.6905890107154846  0.006794586312025751  1.0000
+  In  In2       1.0  0.7587835192680359  0.17711658775806424  0.8101158142089844  1.0000
+  Ga  Ga1       1.0  0.2781574428081512  0.334092378616333  0.614397406578064  1.0000
+  Sr  Sr2       1.0  0.0785723179578781  0.13562875986099243  0.2119821012020111  1.0000
+  Ga  Ga2       1.0  0.3848011791706085  0.5324447154998779  0.20341943204402926  1.0000

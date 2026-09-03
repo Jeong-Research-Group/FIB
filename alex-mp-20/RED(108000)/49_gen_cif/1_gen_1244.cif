@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SbH2Se
+_chemical_formula_sum              "Sb1 H2 Se1"
+_cell_length_a       3.3577861955746218
+_cell_length_b       3.8674216850363807
+_cell_length_c       7.3949028447019
+_cell_angle_alpha    104.15493755219372
+_cell_angle_beta     93.52879787144389
+_cell_angle_gamma    89.3779194086216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.12269076916831949  0.9596297200842717  0.003911645386893925  1.0000
+  H   H1        1.0  0.6466614150585142  0.17321862970452442  0.5747160705974333  1.0000
+  H   H2        1.0  0.6365695090336809  0.34205869886225004  0.6506637733640778  1.0000
+  Se  Se1       1.0  0.150522554952629  0.5747609221631532  0.24867043994882376  1.0000

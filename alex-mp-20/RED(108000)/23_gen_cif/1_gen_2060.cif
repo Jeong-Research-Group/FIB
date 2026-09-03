@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiAg2Ge
+_chemical_formula_sum              "Li1 Ag2 Ge1"
+_cell_length_a       3.4099362972254443
+_cell_length_b       3.411928425947672
+_cell_length_c       5.897094022674416
+_cell_angle_alpha    90.00537452569546
+_cell_angle_beta     89.98806574176872
+_cell_angle_gamma    89.98881288852307
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25298380216749167  0.5105351824392829  0.16017954537753692  1.0000
+  Ag  Ag1       1.0  0.7529122040249567  0.01049689675458643  0.4018185312834215  1.0000
+  Ag  Ag2       1.0  0.7530298179942876  0.010472876523713244  0.9185522391902604  1.0000
+  Ge  Ge1       1.0  0.25288507521790393  0.5103972962030102  0.6602152033324015  1.0000

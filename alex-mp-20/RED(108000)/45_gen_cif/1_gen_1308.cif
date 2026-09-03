@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaCu3Ni
+_chemical_formula_sum              "Ca1 Cu3 Ni1"
+_cell_length_a       3.9173802752540987
+_cell_length_b       3.9205845520340667
+_cell_length_c       5.8683264177455845
+_cell_angle_alpha    109.50733207460465
+_cell_angle_beta     109.4879629915979
+_cell_angle_gamma    89.99951984579177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6899489292675675  0.12611818405255432  0.20418666805156752  1.0000
+  Cu  Cu1       1.0  0.4397572907120368  0.37593827007451264  0.7037912664731593  1.0000
+  Cu  Cu2       1.0  0.30350562067486236  0.7398459175650866  0.43150275878238276  1.0000
+  Cu  Cu3       1.0  0.0760646716966409  0.5124028450217398  0.9765907832561271  1.0000
+  Ni  Ni1       1.0  0.9398277813735795  0.8763652240228966  0.7043569132741243  1.0000

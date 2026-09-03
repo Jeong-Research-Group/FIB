@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sn2Bi2Pd2Se
+_chemical_formula_sum              "Sn2 Bi2 Pd2 Se1"
+_cell_length_a       4.950149758353489
+_cell_length_b       4.9487814307069815
+_cell_length_c       8.984079958869367
+_cell_angle_alpha    73.98719877647406
+_cell_angle_beta     73.9967985618592
+_cell_angle_gamma    59.989953120659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9259485735020966  0.035509927783140306  0.5063898361804373  1.0000
+  Sn  Sn2       1.0  0.14799705703457683  0.2583778727396167  0.8400877156369713  1.0000
+  Bi  Bi1       1.0  0.7298146042563699  0.8401865337358306  0.09442546372939581  1.0000
+  Bi  Bi2       1.0  0.3286710673305326  0.43868183291902624  0.2980117605740084  1.0000
+  Pd  Pd1       1.0  0.04037029378280554  0.15066767188462202  0.162838065695243  1.0000
+  Pd  Pd2       1.0  0.6146632667189408  0.7242095507935896  0.4400605419140988  1.0000
+  Se  Se1       1.0  0.5143060337648512  0.6242866709847545  0.7416999662333873  1.0000

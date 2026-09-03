@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2NiTa
+_chemical_formula_sum              "Zr2 Ni1 Ta1"
+_cell_length_a       3.390754566894271
+_cell_length_b       3.390948116687943
+_cell_length_c       6.6844162940979
+_cell_angle_alpha    89.98926544783406
+_cell_angle_beta     89.98570008756033
+_cell_angle_gamma    89.97484008705153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5256540775299072  0.10376535356044769  0.6689398884773254  1.0000
+  Zr  Zr2       1.0  0.5256081223487854  0.10399837791919708  0.1958364099264145  1.0000
+  Ni  Ni1       1.0  0.025514991953969  0.6036335229873657  0.4318761229515075  1.0000
+  Ta  Ta1       1.0  0.025773519650101658  0.6038758754730225  0.9317923188209533  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2AlSn5
+_chemical_formula_sum              "Pr2 Al1 Sn5"
+_cell_length_a       4.7284733998829935
+_cell_length_b       4.730994278118163
+_cell_length_c       9.475433963316256
+_cell_angle_alpha    89.9969410190479
+_cell_angle_beta     90.0062103562728
+_cell_angle_gamma    89.99203480609742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.4303770219890419  0.7667489294280373  0.8118662014442332  1.0000
+  Pr  Pr2       1.0  0.43102618370294765  0.7667662204996819  0.3123104239657567  1.0000
+  Al  Al1       1.0  0.9308304295730573  0.26674221964274575  0.31209506087991473  1.0000
+  Sn  Sn1       1.0  0.4305075353201226  0.26718863749627847  0.07056436573730812  1.0000
+  Sn  Sn2       1.0  0.43081272109421154  0.2665967689618281  0.5534816801657775  1.0000
+  Sn  Sn3       1.0  0.9302880067523868  0.2665651845343092  0.8123009045541969  1.0000
+  Sn  Sn4       1.0  0.930455344843679  0.7667260504526888  0.07057047328114986  1.0000
+  Sn  Sn5       1.0  0.9308510128363291  0.7662017623785955  0.5536600252652538  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       K2HgRhN
+_chemical_formula_sum              "K2 Hg1 Rh1 N1"
+_cell_length_a       3.7454886443583817
+_cell_length_b       5.952414791403179
+_cell_length_c       5.95156700669906
+_cell_angle_alpha    90.2478311904095
+_cell_angle_beta     90.01689810998721
+_cell_angle_gamma    89.98857930811084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.2823945293749901  0.03150537100933021  0.9354266858303304  1.0000
+  K   K2        1.0  0.2825284026566271  0.5314847756833148  0.43636641522853414  1.0000
+  Hg  Hg1       1.0  0.7821306836861742  0.5318001523610497  0.9373978181657349  1.0000
+  Rh  Rh1       1.0  0.7840272064106181  0.031678065151958375  0.4361497485755061  1.0000
+  N   N1        1.0  0.28419996519065027  0.031755349278180335  0.4363991415828295  1.0000

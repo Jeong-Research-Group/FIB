@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2PrGa2Ge2
+_chemical_formula_sum              "Sr2 Pr1 Ga2 Ge2"
+_cell_length_a       4.331471882377305
+_cell_length_b       4.331403819004127
+_cell_length_c       12.738888768076885
+_cell_angle_alpha    80.20994885301081
+_cell_angle_beta     80.21277849504956
+_cell_angle_gamma    59.997078171594545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.7351371359908057  0.33607271897816604  0.5042162462170934  1.0000
+  Sr  Sr2       1.0  0.9708629913957667  0.5720779484420305  0.7967606717334222  1.0000
+  Pr  Pr1       1.0  0.8529931337626236  0.45405318544170187  0.15049162165248214  1.0000
+  Ga  Ga1       1.0  0.25435494844960604  0.8553969656954747  0.9462822382895549  1.0000
+  Ga  Ga2       1.0  0.45172655533141376  0.0527356651494162  0.35440869938791875  1.0000
+  Ge  Ge1       1.0  0.5688545795223829  0.16986195718653058  0.0028169091003169555  1.0000
+  Ge  Ge2       1.0  0.13710157771097017  0.7381399970844555  0.2982433200890494  1.0000

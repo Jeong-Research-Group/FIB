@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaNiPd3Rh
+_chemical_formula_sum              "Ga1 Ni1 Pd3 Rh1"
+_cell_length_a       4.027599910899054
+_cell_length_b       4.051204953129597
+_cell_length_c       5.659964254229755
+_cell_angle_alpha    110.97556725805012
+_cell_angle_beta     90.00009029225009
+_cell_angle_gamma    89.99990416391748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6341581183675634  0.3654270334019107  0.5981782073240828  1.0000
+  Ni  Ni1       1.0  0.1339056739100832  0.8626510112105527  0.5923090897720138  1.0000
+  Pd  Pd1       1.0  0.6340983372575101  0.022393934411485468  0.9118166229695184  1.0000
+  Pd  Pd2       1.0  0.1341465204975694  0.5215462423293206  0.9100160336791845  1.0000
+  Pd  Pd3       1.0  0.6340104234274009  0.7086310507232281  0.28459741371147523  1.0000
+  Rh  Rh1       1.0  0.13418961542382413  0.21430587681284413  0.2956346069261609  1.0000

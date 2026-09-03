@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb2TlGa2
+_chemical_formula_sum              "Tb2 Tl1 Ga2"
+_cell_length_a       4.0826358231302375
+_cell_length_b       4.0113248954292215
+_cell_length_c       7.650445164598314
+_cell_angle_alpha    105.19115429436488
+_cell_angle_beta     89.9996194739762
+_cell_angle_gamma    90.00015804274612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.36036020609078995  0.6610788064085016  0.47873566696182795  1.0000
+  Tb  Tb2       1.0  0.36053485669882285  0.9247961191637739  0.005850906334246897  1.0000
+  Tl  Tl1       1.0  0.860522709947544  0.29296899451752517  0.7422857835086961  1.0000
+  Ga  Ga1       1.0  0.8602886997891088  0.09362865277072441  0.34373295934265025  1.0000
+  Ga  Ga2       1.0  0.8605831896895392  0.49222847840465006  0.14085405095000383  1.0000

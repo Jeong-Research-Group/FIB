@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ag2Ir2N
+_chemical_formula_sum              "Ag2 Ir2 N1"
+_cell_length_a       3.989577887869223
+_cell_length_b       3.9895714891142067
+_cell_length_c       4.802334177667848
+_cell_angle_alpha    89.97226810182343
+_cell_angle_beta     89.9938775967966
+_cell_angle_gamma    90.00071036696171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.08323155440519404  0.7466685033359224  0.6764834982449708  1.0000
+  Ag  Ag2       1.0  0.5831768299993157  0.24656554703665928  0.6764715054390672  1.0000
+  Ir  Ir1       1.0  0.0831887750301866  0.24658235418696714  0.17662711156552502  1.0000
+  Ir  Ir2       1.0  0.5830848256716755  0.7465495865138956  0.17677862953475695  1.0000
+  N   N1        1.0  0.08303523981657449  0.7465760360649297  0.1764308782889096  1.0000

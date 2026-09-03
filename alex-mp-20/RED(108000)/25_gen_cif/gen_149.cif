@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeAlSb3Al2Sb
+_chemical_formula_sum              "Ge1 Al3 Sb4"
+_cell_length_a       4.424618610356691
+_cell_length_b       7.694446138396244
+_cell_length_c       7.685211658477783
+_cell_angle_alpha    70.40554034138219
+_cell_angle_beta     89.89437362175403
+_cell_angle_gamma    90.0753804696447
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9552186727523804  0.9387718439102173  0.938353955745697  1.0000
+  Al  Al1       1.0  0.4591183364391327  0.44372996687889105  0.9338721036911011  1.0000
+  Sb  Sb1       1.0  0.4573739469051361  0.06686829775571823  0.06695058196783066  1.0000
+  Sb  Sb2       1.0  0.4582827389240265  0.5649049878120422  0.5632656216621399  1.0000
+  Sb  Sb3       1.0  0.9570112824440002  0.5604028105735779  0.06410984694957736  1.0000
+  Al  Al2       1.0  0.958216667175293  0.4424796402454376  0.43815842270851135  1.0000
+  Al  Al3       1.0  0.4566246271133423  0.9378758668899536  0.4413806796073913  1.0000
+  Sb  Sb4       1.0  0.9571113586425781  0.06589097529649734  0.5611141920089722  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2Ga2Sn2
+_chemical_formula_sum              "Ba2 Ga2 Sn2"
+_cell_length_a       4.6592272603193505
+_cell_length_b       4.656882300257257
+_cell_length_c       10.46890382560329
+_cell_angle_alpha    89.99597120961658
+_cell_angle_beta     90.00622806545348
+_cell_angle_gamma    119.97354811844129
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.26457699924323874  0.3502144348308772  0.5043948089968479  1.0000
+  Ba  Ba2       1.0  0.26435914143313477  0.350095518111901  0.00394079254372446  1.0000
+  Ga  Ga1       1.0  0.9318573019029045  0.6831799953792917  0.752965873512336  1.0000
+  Ga  Ga2       1.0  0.597644093478586  0.01658013140948514  0.2569874001729574  1.0000
+  Sn  Sn1       1.0  0.5978966249709933  0.016214328719358444  0.7542410698398525  1.0000
+  Sn  Sn2       1.0  0.9312333790291158  0.6832653907578892  0.25180180488376364  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgCo2HPd
+_chemical_formula_sum              "Mg1 Co2 H1 Pd1"
+_cell_length_a       3.6257616537361836
+_cell_length_b       3.625140639594665
+_cell_length_c       4.244761641381909
+_cell_angle_alpha    89.99996693863491
+_cell_angle_beta     90.00005885413619
+_cell_angle_gamma    89.99896552493362
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6900149719897465  0.6677658232170959  0.10844308826007158  1.0000
+  Co  Co1       1.0  0.18995515087844117  0.6678037857952922  0.6081881331788483  1.0000
+  Co  Co2       1.0  0.6896896164872678  0.16775810031052096  0.6082034619796994  1.0000
+  H   H1        1.0  0.6901979471825156  0.667699360708853  0.6080624416766378  1.0000
+  Pd  Pd1       1.0  0.18987701512044833  0.16777265818866066  0.10778023720533265  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       YCoSi2Ru
+_chemical_formula_sum              "Y1 Co1 Si2 Ru1"
+_cell_length_a       4.019290736472245
+_cell_length_b       4.019383384330265
+_cell_length_c       5.66081163325289
+_cell_angle_alpha    110.79832333849704
+_cell_angle_beta     110.7926809771616
+_cell_angle_gamma    90.00003783248316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.4961426143625397  0.367572206374118  0.3744278139288366  1.0000
+  Co  Co1       1.0  0.24594361666877265  0.6175951442698082  0.8744648386029857  1.0000
+  Si  Si1       1.0  0.8666178113620738  0.7383040375553894  0.11584903077792202  1.0000
+  Si  Si2       1.0  0.1254714496113274  0.9969657051193795  0.6331804763314943  1.0000
+  Ru  Ru1       1.0  0.746092123082215  0.11757659578415001  0.8745241693204472  1.0000

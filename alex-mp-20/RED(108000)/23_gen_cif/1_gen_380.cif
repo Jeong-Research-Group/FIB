@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgH2Pd5
+_chemical_formula_sum              "Ag1 H2 Pd5"
+_cell_length_a       2.859364481736081
+_cell_length_b       5.0097963893826325
+_cell_length_c       7.532980750005209
+_cell_angle_alpha    108.551195793053
+_cell_angle_beta     99.39688635343788
+_cell_angle_gamma    90.69565078089994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9212188841008438  0.8059854837340426  0.5937178307297275  1.0000
+  H   H1        1.0  0.10387931282738615  0.014300543605740325  0.04407208517069957  1.0000
+  H   H2        1.0  0.7498066561335798  0.6004262707607558  0.1390878604664304  1.0000
+  Pd  Pd1       1.0  0.2750732628997998  0.4737845122786197  0.26332897365175517  1.0000
+  Pd  Pd2       1.0  0.7684055984982575  0.9832810657500755  0.26525665695722794  1.0000
+  Pd  Pd3       1.0  0.569616908623315  0.13913865876326242  0.9246949154888469  1.0000
+  Pd  Pd4       1.0  0.42127902776113485  0.3058720097890394  0.5936733989583586  1.0000
+  Pd  Pd5       1.0  0.0728483838525032  0.629254127032036  0.9227370578495349  1.0000

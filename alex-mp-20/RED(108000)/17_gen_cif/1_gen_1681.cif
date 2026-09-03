@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl2Ga2Pb
+_chemical_formula_sum              "Tl2 Ga2 Pb1"
+_cell_length_a       3.440314678309737
+_cell_length_b       3.440409805060198
+_cell_length_c       11.703273155230574
+_cell_angle_alpha    98.43718495460305
+_cell_angle_beta     98.4512953598835
+_cell_angle_gamma    90.00603154160933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9543923311021912  0.9749271293808894  0.157212524100168  1.0000
+  Tl  Tl2       1.0  0.18945352231938517  0.20904820825363937  0.6278603038196462  1.0000
+  Ga  Ga1       1.0  0.3531720649856453  0.37296439868587594  0.9549271875667081  1.0000
+  Ga  Ga2       1.0  0.7907389247157743  0.8104122014748488  0.8301634330166082  1.0000
+  Pb  Pb1       1.0  0.57185557724654  0.5919857872298913  0.39247758173107183  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Sn2Te2
+_chemical_formula_sum              "Sc2 Sn2 Te2"
+_cell_length_a       4.101746397143701
+_cell_length_b       4.101947858438006
+_cell_length_c       8.928380392722307
+_cell_angle_alpha    89.99910728262951
+_cell_angle_beta     89.99757747704525
+_cell_angle_gamma    90.00019164589014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.22433146502840673  0.7862476149330992  0.7355527987944687  1.0000
+  Sc  Sc2       1.0  0.7240832100823982  0.2862941094667535  0.2856276092522424  1.0000
+  Sn  Sn1       1.0  0.724632564249004  0.7863640516020235  0.010589963898786333  1.0000
+  Sn  Sn2       1.0  0.22464228373235554  0.286391772363432  0.010609972516262518  1.0000
+  Te  Te1       1.0  0.7242154200234249  0.2861998200466243  0.6329971375253984  1.0000
+  Te  Te2       1.0  0.22401883901066313  0.7862314521408298  0.3881931391758514  1.0000

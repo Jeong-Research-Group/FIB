@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Yb2CdFeC
+_chemical_formula_sum              "Yb2 Cd1 Fe1 C1"
+_cell_length_a       3.699933298077793
+_cell_length_b       5.1349105111030795
+_cell_length_c       5.135220321973463
+_cell_angle_alpha    90.01059043314851
+_cell_angle_beta     89.99975556910411
+_cell_angle_gamma    90.00014163150954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.1306758590255359  0.5667000273867654  0.22512201440506363  1.0000
+  Yb  Yb2       1.0  0.13062198978502643  0.06630098616197504  0.724436379737697  1.0000
+  Cd  Cd1       1.0  0.6304303662541352  0.06706604540157655  0.22421394971136932  1.0000
+  Fe  Fe1       1.0  0.6305177207080747  0.5663850495662168  0.7250427978416116  1.0000
+  C   C1        1.0  0.13051513961025019  0.5662740417543926  0.7247324709419658  1.0000

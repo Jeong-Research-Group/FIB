@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Cd2Sn2
+_chemical_formula_sum              "Li2 Cd2 Sn2"
+_cell_length_a       3.3760471181839575
+_cell_length_b       4.330445422153423
+_cell_length_c       9.194042878606462
+_cell_angle_alpha    90.00328387672809
+_cell_angle_beta     90.00083301824083
+_cell_angle_gamma    89.98065623572755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.43151074527595934  0.2994339224901941  0.5357154852902635  1.0000
+  Li  Li2       1.0  0.9317750107015527  0.8003946318049382  0.03625348670468559  1.0000
+  Cd  Cd1       1.0  0.9319694495368331  0.7998714260504786  0.6956493242979629  1.0000
+  Cd  Cd2       1.0  0.43134916873816986  0.29985081859372115  0.19554002967482687  1.0000
+  Sn  Sn1       1.0  0.9311742293579572  0.7995646140598991  0.3713161180381801  1.0000
+  Sn  Sn2       1.0  0.43201803030029134  0.300178584148565  0.8713323749977459  1.0000

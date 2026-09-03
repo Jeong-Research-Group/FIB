@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaLa3Au2
+_chemical_formula_sum              "Ca1 La3 Au2"
+_cell_length_a       3.8202180582720304
+_cell_length_b       3.8196073867371356
+_cell_length_c       13.3802747246671
+_cell_angle_alpha    90.00561313756498
+_cell_angle_beta     90.0013156752795
+_cell_angle_gamma    90.00189482632565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.45452678207352154  0.6315493653845874  0.3124275258652372  1.0000
+  La  La1       1.0  0.9552116571619889  0.13119534926377735  0.5371696647874751  1.0000
+  La  La2       1.0  0.9544486406692131  0.13104672812706683  0.08809925702761953  1.0000
+  La  La3       1.0  0.9550794820721342  0.13127914250250847  0.8126738494033827  1.0000
+  Au  Au1       1.0  0.4545400155414909  0.6311621608481081  0.9617754304162404  1.0000
+  Au  Au2       1.0  0.4551597474281303  0.6313226389213276  0.6637685337115606  1.0000

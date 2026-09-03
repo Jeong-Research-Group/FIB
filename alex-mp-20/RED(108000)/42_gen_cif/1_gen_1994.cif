@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Ni2Sn2
+_chemical_formula_sum              "Ce2 Ni2 Sn2"
+_cell_length_a       3.688933621798965
+_cell_length_b       4.426662757580125
+_cell_length_c       8.134095406497927
+_cell_angle_alpha    89.99737018090734
+_cell_angle_beta     94.95835822629051
+_cell_angle_gamma    90.01356179452978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.9941919920794612  0.4635594315664148  0.7937347394708647  1.0000
+  Ce  Ce2       1.0  0.08230140889744485  0.9631868215111026  0.1739073964841581  1.0000
+  Ni  Ni1       1.0  0.5238391260587262  0.9634148103359084  0.9046301319191904  1.0000
+  Ni  Ni2       1.0  0.5535678315461677  0.4631812148962547  0.06294968710961396  1.0000
+  Sn  Sn1       1.0  0.4260524965888357  0.9634423488014252  0.5816531891785294  1.0000
+  Sn  Sn2       1.0  0.6497081262191121  0.46344512163898827  0.3860307067702536  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SiHoSi2PtHoPtHo
+_chemical_formula_sum              "Si3 Ho3 Pt2"
+_cell_length_a       4.091617001606165
+_cell_length_b       5.599827747727681
+_cell_length_c       7.468932151794434
+_cell_angle_alpha    88.64354047675822
+_cell_angle_beta     89.93953484002674
+_cell_angle_gamma    111.3758432650052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.3947449028491974  0.12965229153633118  0.2712806761264801  1.0000
+  Ho  Ho1       1.0  0.3946473300457001  0.12919795513153076  0.7701377272605896  1.0000
+  Si  Si2       1.0  0.10381305962800981  0.5481446385383606  0.8403874039649963  1.0000
+  Si  Si3       1.0  0.6854729056358337  0.7110762000083922  0.7007546424865723  1.0000
+  Pt  Pt1       1.0  0.9696931838989258  0.280549556016922  0.10273033380508423  1.0000
+  Ho  Ho2       1.0  0.09754765778779985  0.5371920466423035  0.44997188448905945  1.0000
+  Pt  Pt2       1.0  0.8184900283813477  0.9770585298538208  0.43619078397750854  1.0000
+  Ho  Ho3       1.0  0.6903609037399292  0.7213113903999329  0.09084752202033997  1.0000

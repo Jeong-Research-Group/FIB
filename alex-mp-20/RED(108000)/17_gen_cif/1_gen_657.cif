@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyHAu3
+_chemical_formula_sum              "Dy1 H1 Au3"
+_cell_length_a       4.418400509850375
+_cell_length_b       4.42690651071992
+_cell_length_c       4.433417143175327
+_cell_angle_alpha    90.0476030090279
+_cell_angle_beta     89.99467363036568
+_cell_angle_gamma    90.00567903325619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.5460410601497269  0.16813435239036092  0.22681847211642686  1.0000
+  H   H1        1.0  0.0461650904801246  0.667506733841504  0.7264119431152932  1.0000
+  Au  Au1       1.0  0.5450044330397362  0.6678593590748199  0.7267477131952756  1.0000
+  Au  Au2       1.0  0.04612666441230689  0.6679691292781764  0.22634747419310508  1.0000
+  Au  Au3       1.0  0.04603379188131012  0.16795974384087126  0.7268341405932048  1.0000

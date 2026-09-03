@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2CoNiH
+_chemical_formula_sum              "Mg2 Co1 Ni1 H1"
+_cell_length_a       3.9375624312020836
+_cell_length_b       3.7339352885365704
+_cell_length_c       3.894027303809494
+_cell_angle_alpha    90.00005051375767
+_cell_angle_beta     89.99991710713435
+_cell_angle_gamma    89.99705842794154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8231670322975951  0.9802927186339448  0.6584071433322911  1.0000
+  Mg  Mg2       1.0  0.32308800701530926  0.48025709550101237  0.6588606239474776  1.0000
+  Co  Co1       1.0  0.3235081012777507  0.9801280839865415  0.15858360401584878  1.0000
+  Ni  Ni1       1.0  0.8232380739105144  0.48017620306067066  0.15870053121822958  1.0000
+  H   H1        1.0  0.3231924690470484  0.4803150754766169  0.15892484435938545  1.0000

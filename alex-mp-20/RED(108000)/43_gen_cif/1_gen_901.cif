@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ti2CoRh
+_chemical_formula_sum              "Ti2 Co1 Rh1"
+_cell_length_a       3.0860142332239833
+_cell_length_b       4.302036993235483
+_cell_length_c       4.301541662869217
+_cell_angle_alpha    90.0044843061226
+_cell_angle_beta     89.98882208925056
+_cell_angle_gamma    89.98718863433136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2767656129847738  0.0457625032759045  0.10782642502621734  1.0000
+  Ti  Ti2       1.0  0.2764901305865834  0.5458958114323248  0.6083419883653357  1.0000
+  Co  Co1       1.0  0.7764888557727555  0.5457543475170167  0.10843457635119479  1.0000
+  Rh  Rh1       1.0  0.7767480726146199  0.04593476889868869  0.6076887048765637  1.0000

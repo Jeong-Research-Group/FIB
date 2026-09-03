@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CdIr
+_chemical_formula_sum              "Li2 Cd1 Ir1"
+_cell_length_a       4.03852023128024
+_cell_length_b       4.037114080033658
+_cell_length_c       4.750914530239986
+_cell_angle_alpha    115.14534900709415
+_cell_angle_beta     115.15457032229885
+_cell_angle_gamma    89.99722467622526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8619764020615271  0.18763266366978354  0.8358785521368125  1.0000
+  Li  Li2       1.0  0.11202159538467865  0.9377174820405243  0.3359742682824141  1.0000
+  Cd  Cd1       1.0  0.3619668840379621  0.687669912862094  0.8358636777203553  1.0000
+  Ir  Ir1       1.0  0.6120065549079569  0.4377623286886857  0.33599288552460427  1.0000

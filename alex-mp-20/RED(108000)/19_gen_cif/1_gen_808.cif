@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgPd2Pb
+_chemical_formula_sum              "Hg1 Pd2 Pb1"
+_cell_length_a       3.4321982830559494
+_cell_length_b       4.784409883203072
+_cell_length_c       4.785066176294994
+_cell_angle_alpha    89.99853107521118
+_cell_angle_beta     89.96526943626115
+_cell_angle_gamma    89.89637882537126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.35880239076241066  0.9792841502831076  0.03534981161029521  1.0000
+  Pd  Pd1       1.0  0.8589633520110571  0.47919309846508745  0.035294253753308025  1.0000
+  Pd  Pd2       1.0  0.8591895384545601  0.9793203119172316  0.5350736872589946  1.0000
+  Pb  Pb1       1.0  0.3585200661457771  0.47889552878732267  0.5347406462337108  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2TiGe
+_chemical_formula_sum              "Fe2 Ti1 Ge1"
+_cell_length_a       3.079083682913261
+_cell_length_b       4.039020323708797
+_cell_length_c       4.050742149353027
+_cell_angle_alpha    89.9653392927475
+_cell_angle_beta     90.00196276877352
+_cell_angle_gamma    89.98102823899687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.520596981048584  0.619713544845581  0.8065493106842041  1.0000
+  Fe  Fe2       1.0  0.5207104682922363  0.12000413239002228  0.30657699704170227  1.0000
+  Ti  Ti1       1.0  0.020946189761161804  0.6202036738395691  0.30672687292099  1.0000
+  Ge  Ge1       1.0  0.020377017557621002  0.11943766474723817  0.80686354637146  1.0000

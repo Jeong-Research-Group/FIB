@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Sr2LiMg2
+_chemical_formula_sum              "Na2 Sr2 Li1 Mg2"
+_cell_length_a       5.669652064539677
+_cell_length_b       6.841058426928914
+_cell_length_c       7.027232715467331
+_cell_angle_alpha    87.07139562287976
+_cell_angle_beta     89.98863751707613
+_cell_angle_gamma    114.41071019069241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8839474030601153  0.9625879375194444  0.03972816252419128  1.0000
+  Na  Na2       1.0  0.7914363061399003  0.7773562890268109  0.5137494633226081  1.0000
+  Sr  Sr1       1.0  0.1818381061049892  0.5592989988044257  0.8815313598761243  1.0000
+  Sr  Sr2       1.0  0.4939722662943797  0.18180073287676649  0.6735323588389884  1.0000
+  Li  Li1       1.0  0.3372067673370464  0.8697100836637617  0.27777171268796275  1.0000
+  Mg  Mg1       1.0  0.08741705216333664  0.36895801319302357  0.3827714738257214  1.0000
+  Mg  Mg2       1.0  0.5871384792757067  0.3683333917930158  0.17113367174338656  1.0000

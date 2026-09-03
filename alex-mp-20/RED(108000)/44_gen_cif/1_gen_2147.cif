@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrLiP2Rh
+_chemical_formula_sum              "Sr1 Li1 P2 Rh1"
+_cell_length_a       4.398911482617176
+_cell_length_b       3.888039586878922
+_cell_length_c       5.145712407322729
+_cell_angle_alpha    90.02037052955681
+_cell_angle_beta     90.07985718275104
+_cell_angle_gamma    90.01371401327943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.12131748183309742  0.43060866902292316  0.6522446664237546  1.0000
+  Li  Li1       1.0  0.12091288797434648  0.9302244982119983  0.15245203085619718  1.0000
+  P   P1        1.0  0.6211503318956526  0.9304797254486505  0.8758219038308314  1.0000
+  P   P2        1.0  0.6209291935240095  0.9309933401449678  0.42819650383804597  1.0000
+  Rh  Rh1       1.0  0.62147170393645  0.430676867360093  0.15185278406680836  1.0000

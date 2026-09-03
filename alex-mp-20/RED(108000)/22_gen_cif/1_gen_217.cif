@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sn2HgBi
+_chemical_formula_sum              "Sn2 Hg1 Bi1"
+_cell_length_a       4.826488236389893
+_cell_length_b       4.802659156603789
+_cell_length_c       5.093515763182988
+_cell_angle_alpha    90.00657019964986
+_cell_angle_beta     90.0057977565493
+_cell_angle_gamma    90.00393445029866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.28238723516150915  0.2785389485507837  0.627319051029495  1.0000
+  Sn  Sn2       1.0  0.7823408737168587  0.2790370880032907  0.12754175396048936  1.0000
+  Hg  Hg1       1.0  0.7822104019000008  0.7786617309807741  0.6275425930972975  1.0000
+  Bi  Bi1       1.0  0.282185831361428  0.7776983273529285  0.12772718435066774  1.0000

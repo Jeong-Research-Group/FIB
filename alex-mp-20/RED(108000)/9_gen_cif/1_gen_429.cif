@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg3PtAu2
+_chemical_formula_sum              "Mg3 Pt1 Au2"
+_cell_length_a       3.154402327467878
+_cell_length_b       3.1574296822216237
+_cell_length_c       10.477067706382194
+_cell_angle_alpha    89.9990083585487
+_cell_angle_beta     89.99933013386958
+_cell_angle_gamma    90.00077427191562
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7908268157738342  0.7285982277353598  0.8994743944259251  1.0000
+  Mg  Mg2       1.0  0.7908789006307965  0.7287686363954106  0.2452082743188494  1.0000
+  Mg  Mg3       1.0  0.7906650545552397  0.7286351119866793  0.5910540156195498  1.0000
+  Pt  Pt1       1.0  0.2907297819744936  0.2285763067391446  0.7452761534047169  1.0000
+  Au  Au1       1.0  0.2907475495260369  0.2286696150577574  0.41672523274146295  1.0000
+  Au  Au2       1.0  0.2909771113180134  0.22884129145324444  0.07372318839210949  1.0000

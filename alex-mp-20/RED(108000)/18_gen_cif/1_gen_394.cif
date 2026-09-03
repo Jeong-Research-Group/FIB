@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2GdGaC
+_chemical_formula_sum              "Sm2 Gd1 Ga1 C1"
+_cell_length_a       4.885515994171488
+_cell_length_b       5.017401709785387
+_cell_length_c       5.017459988451852
+_cell_angle_alpha    89.99396370012421
+_cell_angle_beta     90.00037450908286
+_cell_angle_gamma    89.99787282491286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.19640124011076657  0.7241328816344785  0.5402948551693327  1.0000
+  Sm  Sm2       1.0  0.19643502272361826  0.22425888575321692  0.040255186131902404  1.0000
+  Gd  Gd1       1.0  0.6962246361529973  0.7240305034317711  0.040397770362535515  1.0000
+  Ga  Ga1       1.0  0.6956716392289424  0.223838212319946  0.5402931180889278  1.0000
+  C   C1        1.0  0.19607175599380935  0.7243243023854278  0.040306462383225335  1.0000

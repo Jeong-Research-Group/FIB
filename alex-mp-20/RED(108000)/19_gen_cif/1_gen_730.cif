@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4Ge2SBr
+_chemical_formula_sum              "La4 Ge2 S1 Br1"
+_cell_length_a       4.400296468201779
+_cell_length_b       7.396902310234081
+_cell_length_c       7.6418825599725935
+_cell_angle_alpha    109.96354935101141
+_cell_angle_beta     89.99902691408901
+_cell_angle_gamma    89.99925816663664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6336341232473243  0.58557877603259  0.9191929161527467  1.0000
+  La  La2       1.0  0.13381716537904287  0.106072030848409  0.9273086062906606  1.0000
+  La  La3       1.0  0.13368488651061877  0.5783735436907641  0.3976201122629313  1.0000
+  La  La4       1.0  0.6337594448221264  0.09895600625270806  0.4053046409216595  1.0000
+  Ge  Ge1       1.0  0.6337481641347884  0.342377192868203  0.16232120375961945  1.0000
+  Ge  Ge2       1.0  0.1336954821193021  0.3421447137194065  0.6623690699094692  1.0000
+  S   S1        1.0  0.13373816869434443  0.8422175939338987  0.1623321568354282  1.0000
+  Br  Br1       1.0  0.6337707314826547  0.8423809446532146  0.6623561290178649  1.0000

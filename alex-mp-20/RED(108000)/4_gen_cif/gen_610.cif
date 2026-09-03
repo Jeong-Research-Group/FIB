@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScCScMgAg
+_chemical_formula_sum              "Sc2 C1 Mg1 Ag1"
+_cell_length_a       4.492518776843635
+_cell_length_b       4.396333025997866
+_cell_length_c       4.499015808105469
+_cell_angle_alpha    90.07824914671365
+_cell_angle_beta     90.15333342874877
+_cell_angle_gamma    90.02493269583829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.2736305594444275  0.8433409929275513  0.1512497216463089  1.0000
+  C   C1        1.0  0.2732475697994232  0.8428945541381836  0.6516621708869934  1.0000
+  Sc  Sc2       1.0  0.7735691666603088  0.8433430194854736  0.651028573513031  1.0000
+  Mg  Mg1       1.0  0.2745743691921234  0.3431749939918518  0.6515129208564758  1.0000
+  Ag  Ag1       1.0  0.7734476923942566  0.3430226147174835  0.15079174935817719  1.0000

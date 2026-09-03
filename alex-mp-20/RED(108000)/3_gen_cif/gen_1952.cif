@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mn2CuSi
+_chemical_formula_sum              "Mn2 Cu1 Si1"
+_cell_length_a       3.6366116861433033
+_cell_length_b       3.652270836828581
+_cell_length_c       4.477915287017822
+_cell_angle_alpha    114.37364788283702
+_cell_angle_beta     113.87830247852753
+_cell_angle_gamma    90.01735807949566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9456753730773925  0.8175714612007141  0.23168563842773426  1.0000
+  Mn  Mn2       1.0  0.1952218413352966  0.5665122270584106  0.7301764488220215  1.0000
+  Cu  Cu1       1.0  0.6963965892791748  0.06901758909225464  0.7324625849723816  1.0000
+  Si  Si1       1.0  0.4451595246791839  0.3177659511566162  0.23074692487716675  1.0000

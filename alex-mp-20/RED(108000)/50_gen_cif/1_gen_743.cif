@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2CaCeAs2
+_chemical_formula_sum              "Li2 Ca1 Ce1 As2"
+_cell_length_a       4.331526275184489
+_cell_length_b       4.331659968960694
+_cell_length_c       7.712572566365261
+_cell_angle_alpha    89.99632660341496
+_cell_angle_beta     89.99411694366458
+_cell_angle_gamma    119.99432979249694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6690547281326573  0.6916613648511679  0.869138689771072  1.0000
+  Li  Li2       1.0  0.33582422276063395  0.024765689994345773  0.3988385962303487  1.0000
+  Ca  Ca1       1.0  0.0024901312580541375  0.358199916165081  0.6340341470361389  1.0000
+  Ce  Ce1       1.0  0.0025027261169780165  0.3581997409731822  0.13408461919963946  1.0000
+  As  As1       1.0  0.6691434249343254  0.6914657111588828  0.38320891365375953  1.0000
+  As  As2       1.0  0.3358470675212673  0.02490579058983799  0.8853380110049326  1.0000

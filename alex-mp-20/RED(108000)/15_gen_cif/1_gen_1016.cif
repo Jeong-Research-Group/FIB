@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaLi2Ni3
+_chemical_formula_sum              "Ba1 Li2 Ni3"
+_cell_length_a       4.141335610943744
+_cell_length_b       5.183913212411723
+_cell_length_c       5.184658418986981
+_cell_angle_alpha    119.9806432328502
+_cell_angle_beta     89.9979851685407
+_cell_angle_gamma    89.99608931721114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.06294469897329809  0.2545437658045719  0.3864506546195745  1.0000
+  Li  Li1       1.0  0.06273213058533152  0.5878345499097272  0.05224242576809994  1.0000
+  Li  Li2       1.0  0.06277222109304893  0.9212764245744091  0.7202674663120245  1.0000
+  Ni  Ni1       1.0  0.5627327665655992  0.7545495940919513  0.3855606611793285  1.0000
+  Ni  Ni2       1.0  0.5628190542775993  0.7546889443241283  0.8861806537548076  1.0000
+  Ni  Ni3       1.0  0.5628370459789404  0.2548655872213788  0.8872755304744738  1.0000

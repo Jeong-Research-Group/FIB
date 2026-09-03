@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnCo2Rh
+_chemical_formula_sum              "Mn1 Co2 Rh1"
+_cell_length_a       2.6054146535463807
+_cell_length_b       2.6055479262009684
+_cell_length_c       7.1934165367308704
+_cell_angle_alpha    90.00022793738667
+_cell_angle_beta     89.99547786198838
+_cell_angle_gamma    89.99977695306919
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9685949771784594  0.0544274635533647  0.45750439832062595  1.0000
+  Co  Co1       1.0  0.4685711274962694  0.554356220949861  0.2084901584700964  1.0000
+  Co  Co2       1.0  0.9685932485420513  0.05416337273551028  0.9842708287802351  1.0000
+  Rh  Rh1       1.0  0.4686982174188488  0.5543745203375089  0.7141087476771132  1.0000

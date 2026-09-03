@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li3Ca2Pb2
+_chemical_formula_sum              "Li3 Ca2 Pb2"
+_cell_length_a       4.988731221073713
+_cell_length_b       4.9883168680345085
+_cell_length_c       9.32548614506101
+_cell_angle_alpha    74.48465330706806
+_cell_angle_beta     74.48482643267305
+_cell_angle_gamma    60.00197757970169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5070780773191323  0.35253908974397985  0.9487071115314073  1.0000
+  Li  Li2       1.0  0.8824055170768313  0.7275466607499971  0.8229173712003596  1.0000
+  Li  Li3       1.0  0.13138661994335463  0.9767151667267767  0.07569277859127553  1.0000
+  Ca  Ca1       1.0  0.6317754767309903  0.4768533076073424  0.5748613188489794  1.0000
+  Ca  Ca2       1.0  0.3822427881656268  0.22753163991321357  0.3230213452408636  1.0000
+  Pb  Pb1       1.0  0.2458551514621444  0.09109556336194684  0.7323489803644592  1.0000
+  Pb  Pb2       1.0  0.7680550355181982  0.6132154014625036  0.16604090416178258  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2TlHg2Tl
+_chemical_formula_sum              "Cd2 Tl2 Hg2"
+_cell_length_a       5.097178812072987
+_cell_length_b       6.328083576794467
+_cell_length_c       6.315856456756592
+_cell_angle_alpha    73.65624683207149
+_cell_angle_beta     66.27030609840617
+_cell_angle_gamma    66.26019766389038
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.4189991056919098  0.1283421367406845  0.7510665655136108  1.0000
+  Cd  Cd2       1.0  0.41883078217506403  0.7055099010467529  0.17234593629837036  1.0000
+  Tl  Tl1       1.0  0.0601925104856491  0.2770457863807678  0.3203811049461365  1.0000
+  Hg  Hg1       1.0  0.7526885867118835  0.3078123927116394  0.9043815732002258  1.0000
+  Hg  Hg2       1.0  0.7514366507530212  0.8596023321151735  0.3545086085796356  1.0000
+  Tl  Tl2       1.0  0.11232376098632812  0.7247104644775391  0.7672549486160278  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaSnInBaInSn
+_chemical_formula_sum              "Ba2 Sn2 In2"
+_cell_length_a       6.438206680061219
+_cell_length_b       6.490922270999329
+_cell_length_c       6.490289688110352
+_cell_angle_alpha    60.82499818062016
+_cell_angle_beta     60.20366629248344
+_cell_angle_gamma    60.18987343382385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.0932793170213699  0.9405143857002258  0.3654909133911133  1.0000
+  Sn  Sn1       1.0  0.4657660424709319  0.8178350329399109  0.7408783435821533  1.0000
+  In  In1       1.0  0.4666321575641632  0.31655415892601013  0.7407903671264648  1.0000
+  Ba  Ba2       1.0  0.8408333659172058  0.6925317645072937  0.11625485867261887  1.0000
+  In  In2       1.0  0.9662774205207825  0.31668055057525635  0.7412693500518799  1.0000
+  Sn  Sn2       1.0  0.46582573652267456  0.3160308003425598  0.24195407330989838  1.0000

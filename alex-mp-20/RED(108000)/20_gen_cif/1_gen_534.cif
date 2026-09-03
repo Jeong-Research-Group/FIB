@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Si2Pd2
+_chemical_formula_sum              "Sm2 Si2 Pd2"
+_cell_length_a       4.235767679835218
+_cell_length_b       4.235639641499325
+_cell_length_c       6.872333284259635
+_cell_angle_alpha    89.99856742771725
+_cell_angle_beta     90.00152102246358
+_cell_angle_gamma    89.99992868569782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4745866126444208  0.5209467515844017  0.5587637460677282  1.0000
+  Sm  Sm2       1.0  0.9745057368712139  0.02106273089422603  0.21233271508533214  1.0000
+  Si  Si1       1.0  0.4746190074220005  0.5208905574290424  0.09947321372120711  1.0000
+  Si  Si2       1.0  0.9744179708474409  0.021109115691255197  0.6716575333867622  1.0000
+  Pd  Pd1       1.0  0.47435676037448454  0.020976862664118766  0.8856765091890951  1.0000
+  Pd  Pd2       1.0  0.9745630573094785  0.521108634194668  0.8855831262189471  1.0000

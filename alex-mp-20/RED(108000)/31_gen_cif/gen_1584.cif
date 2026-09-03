@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CuPt
+_chemical_formula_sum              "Li2 Cu1 Pt1"
+_cell_length_a       2.7053076165547685
+_cell_length_b       3.73848330437788
+_cell_length_c       5.170119285583496
+_cell_angle_alpha    90.1395023018837
+_cell_angle_beta     90.23390919227768
+_cell_angle_gamma    90.16244490687052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7610522508621216  0.43536207079887396  0.23875863850116727  1.0000
+  Li  Li2       1.0  0.761377215385437  0.43531763553619385  0.7167911529541016  1.0000
+  Cu  Cu1       1.0  0.2608768343925476  0.9354271292686464  0.9782516360282897  1.0000
+  Pt  Pt1       1.0  0.2614302933216095  0.935370445251465  0.4778591394424438  1.0000

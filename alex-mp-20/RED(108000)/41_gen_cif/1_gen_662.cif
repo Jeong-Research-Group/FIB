@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2CoRu2
+_chemical_formula_sum              "Sc2 Co1 Ru2"
+_cell_length_a       4.367826593470238
+_cell_length_b       5.391615511051988
+_cell_length_c       4.367808050023316
+_cell_angle_alpha    66.08666215380292
+_cell_angle_beta     59.98937690449769
+_cell_angle_gamma    66.08521119473961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.4922792051464202  0.10805296767215743  0.6997681126030179  1.0000
+  Sc  Sc2       1.0  0.2871779776827609  0.7236313963752099  0.4945798478790083  1.0000
+  Co  Co1       1.0  0.0815904850118284  0.3409110389670203  0.2887729314273967  1.0000
+  Ru  Ru1       1.0  0.8910883753469351  0.9116700077367509  0.09845555109903988  1.0000
+  Ru  Ru2       1.0  0.6945904637151074  0.501885673844471  0.9017117035715865  1.0000

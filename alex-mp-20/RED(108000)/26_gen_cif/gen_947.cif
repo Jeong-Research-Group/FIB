@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HLaPr2InLa
+_chemical_formula_sum              "H1 La2 Pr2 In1"
+_cell_length_a       4.720564296588809
+_cell_length_b       4.783091787815905
+_cell_length_c       8.1292142868042
+_cell_angle_alpha    90.06527179170024
+_cell_angle_beta     89.95648053728549
+_cell_angle_gamma    89.97863084273892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.6389877796173096  0.6287087202072145  0.7526841759681702  1.0000
+  La  La1       1.0  0.640681803226471  0.1286800354719162  0.870129406452179  1.0000
+  Pr  Pr1       1.0  0.13961954414844513  0.6287649273872375  0.8531397581100464  1.0000
+  Pr  Pr2       1.0  0.6412057876586914  0.629159152507782  0.4532594084739685  1.0000
+  In  In1       1.0  0.14074701070785522  0.128631591796875  0.573093056678772  1.0000
+  La  La2       1.0  0.14120079576969147  0.12853875756263733  0.18971313536167145  1.0000

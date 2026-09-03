@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaZnAu2Zn
+_chemical_formula_sum              "Ga1 Zn2 Au2"
+_cell_length_a       3.4085416788157836
+_cell_length_b       4.744210222151667
+_cell_length_c       6.005483627319336
+_cell_angle_alpha    91.78703946954985
+_cell_angle_beta     73.47394342123982
+_cell_angle_gamma    68.83370354353761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5123646259307861  0.2606266438961029  0.14108505845069885  1.0000
+  Zn  Zn1       1.0  0.7077045440673827  0.46158367395401007  0.5508071780204773  1.0000
+  Au  Au1       1.0  0.10164163261651991  0.8614668846130371  0.36302807927131653  1.0000
+  Au  Au2       1.0  0.9249745011329651  0.6588200330734253  0.9181461930274963  1.0000
+  Zn  Zn2       1.0  0.31894922256469727  0.05843771621584892  0.7308436036109924  1.0000

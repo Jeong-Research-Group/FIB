@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrTiIr3
+_chemical_formula_sum              "Pr1 Ti1 Ir3"
+_cell_length_a       3.9356484686335205
+_cell_length_b       4.337090379265165
+_cell_length_c       5.635839176407682
+_cell_angle_alpha    89.9880125145546
+_cell_angle_beta     89.9977491461275
+_cell_angle_gamma    89.99930349945974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.2918517198245852  0.09186492863475326  0.43356574749912197  1.0000
+  Ti  Ti1       1.0  0.2918614154079504  0.591931055989875  0.9337608566427996  1.0000
+  Ir  Ir1       1.0  0.7921827550443179  0.09176539410856252  0.9338162925695559  1.0000
+  Ir  Ir2       1.0  0.7918647510174226  0.5918688268733027  0.6568247261775594  1.0000
+  Ir  Ir3       1.0  0.7917879809264939  0.5918932190350698  0.2110882685760612  1.0000

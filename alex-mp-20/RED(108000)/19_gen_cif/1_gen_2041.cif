@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Ga3Rh2
+_chemical_formula_sum              "Li2 Ga3 Rh2"
+_cell_length_a       3.388200243703718
+_cell_length_b       4.854185523892835
+_cell_length_c       6.391377814466508
+_cell_angle_alpha    92.65181263455027
+_cell_angle_beta     90.00361409335054
+_cell_angle_gamma    110.41955042952429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9955648765737752  0.7643339236782849  0.11090292479581126  1.0000
+  Li  Li2       1.0  0.42537554739873173  0.624609989902345  0.38481773744371955  1.0000
+  Ga  Ga1       1.0  0.710113577129601  0.19389768196454876  0.24736931111379407  1.0000
+  Ga  Ga2       1.0  0.8497365985429141  0.4733721169908368  0.6664967152996166  1.0000
+  Ga  Ga3       1.0  0.5711649046076968  0.9159179793889802  0.8290129847187332  1.0000
+  Rh  Rh1       1.0  0.13633998769399808  0.047143172394723945  0.5371432136089505  1.0000
+  Rh  Rh2       1.0  0.285366287435407  0.3437054865890335  0.9585204659647258  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaLaCaLa2Mg
+_chemical_formula_sum              "Ca2 La3 Mg1"
+_cell_length_a       3.806731588633072
+_cell_length_b       6.020708853946381
+_cell_length_c       9.830026626586914
+_cell_angle_alpha    107.5922544407784
+_cell_angle_beta     89.98524929545063
+_cell_angle_gamma    90.0092232604022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8356495499610901  0.6958374977111816  0.5588743090629578  1.0000
+  La  La1       1.0  0.8354259133338928  0.04855640605092048  0.2646523416042328  1.0000
+  Ca  Ca2       1.0  0.33571532368659973  0.8770824670791626  0.9187488555908202  1.0000
+  La  La2       1.0  0.3350326120853424  0.5095952749252319  0.18662826716899872  1.0000
+  La  La3       1.0  0.8352673053741455  0.34708160161972046  0.8582662343978881  1.0000
+  Mg  Mg1       1.0  0.33502671122550964  0.19692820310592654  0.5619668960571289  1.0000

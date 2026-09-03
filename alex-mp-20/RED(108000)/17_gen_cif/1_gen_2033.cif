@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErAl3GeC
+_chemical_formula_sum              "Er1 Al3 Ge1 C1"
+_cell_length_a       4.306625746331424
+_cell_length_b       4.307238116992655
+_cell_length_c       5.42191855859037
+_cell_angle_alpha    90.03753213891994
+_cell_angle_beta     89.9976757610395
+_cell_angle_gamma    89.99967587732189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.26514113343678447  0.6479304727417146  0.9205708992235662  1.0000
+  Al  Al1       1.0  0.7651165865387703  0.1481092492645543  0.6929977081026174  1.0000
+  Al  Al2       1.0  0.26513777767503305  0.1479737376875975  0.41087855072823604  1.0000
+  Al  Al3       1.0  0.7652328823316706  0.6477753331969214  0.4110788936337121  1.0000
+  Ge  Ge1       1.0  0.7651923552977762  0.147573226077983  0.12422109552917811  1.0000
+  C   C1        1.0  0.2652307853197123  0.6478779579175478  0.421912743225033  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Rb2RhNF
+_chemical_formula_sum              "Rb2 Rh1 N1 F1"
+_cell_length_a       3.707066669931913
+_cell_length_b       6.002080421530877
+_cell_length_c       6.000265339318685
+_cell_angle_alpha    89.90156439833262
+_cell_angle_beta     89.84231355197363
+_cell_angle_gamma    89.8993356981154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.1581791249529466  0.9047190950971997  0.8225861642941622  1.0000
+  Rb  Rb2       1.0  0.15912792824904162  0.4040774583089449  0.3207225454420125  1.0000
+  Rh  Rh1       1.0  0.6583005537482691  0.9044465992779229  0.3222148505037801  1.0000
+  N   N1        1.0  0.15829705094321395  0.9042007590434774  0.3223874560099881  1.0000
+  F   F1        1.0  0.6581789649024921  0.4044983464945074  0.8228743176828125  1.0000

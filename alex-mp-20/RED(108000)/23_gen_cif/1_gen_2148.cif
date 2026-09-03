@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta3TiMo4
+_chemical_formula_sum              "Ta3 Ti1 Mo4"
+_cell_length_a       3.223355689631222
+_cell_length_b       4.567554506739341
+_cell_length_c       9.108207314541142
+_cell_angle_alpha    90.00017338873714
+_cell_angle_beta     89.99925469321529
+_cell_angle_gamma    90.00158256372916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.1008813729665811  0.7137674368753973  0.4927437847124296  1.0000
+  Ta  Ta2       1.0  0.10163095553319905  0.21361048991609558  0.7427669173034379  1.0000
+  Ta  Ta3       1.0  0.6016093393307153  0.7137080785492419  0.7544017119387934  1.0000
+  Ti  Ti1       1.0  0.6009222013837044  0.7141238212136335  0.23395946492850586  1.0000
+  Mo  Mo1       1.0  0.1016401567271391  0.7140996462052163  0.9959370261965605  1.0000
+  Mo  Mo2       1.0  0.6009646158441133  0.213754884028954  0.48447013429428293  1.0000
+  Mo  Mo3       1.0  0.10106513388215868  0.21404649311727028  0.2412436940264433  1.0000
+  Mo  Mo4       1.0  0.6016481928958033  0.21399647608663036  0.002177250027493325  1.0000

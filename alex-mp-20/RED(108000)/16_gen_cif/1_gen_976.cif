@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs3Hg3Bi
+_chemical_formula_sum              "Cs3 Hg3 Bi1"
+_cell_length_a       5.335685066661789
+_cell_length_b       7.581144107072181
+_cell_length_c       10.180510674181324
+_cell_angle_alpha    69.25764790289159
+_cell_angle_beta     74.83793254020031
+_cell_angle_gamma    69.4171692657767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8478940068133872  0.1456850577055573  0.052343767812875225  1.0000
+  Cs  Cs2       1.0  0.2329258989082659  0.6648343570284608  0.7621187821315853  1.0000
+  Cs  Cs3       1.0  0.040495040022459856  0.398557110535696  0.4123513850978116  1.0000
+  Hg  Hg1       1.0  0.3368800903969145  0.8721793988235085  0.3465770959875733  1.0000
+  Hg  Hg2       1.0  0.5210256228233706  0.0896767197975695  0.76202309351506  1.0000
+  Hg  Hg3       1.0  0.5586209904454498  0.7107077235994835  0.06531182384105445  1.0000
+  Bi  Bi1       1.0  0.7446853400531631  0.941119284371488  0.4622917927655385  1.0000

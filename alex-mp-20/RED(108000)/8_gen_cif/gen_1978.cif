@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtGeSrGePt
+_chemical_formula_sum              "Pt2 Ge2 Sr1"
+_cell_length_a       4.447881386368412
+_cell_length_b       4.449020353581557
+_cell_length_c       6.04968786239624
+_cell_angle_alpha    111.70641907991947
+_cell_angle_beta     111.57865890460452
+_cell_angle_gamma    90.0209165162138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.45670801401138306  0.3485143184661865  0.07885158807039265  1.0000
+  Ge  Ge1       1.0  0.8379281759262085  0.2304933667182922  0.8420398235321045  1.0000
+  Sr  Sr1       1.0  0.20741978287696836  0.5992680191993712  0.5795242190361023  1.0000
+  Ge  Ge2       1.0  0.5759637355804443  0.9678907990455627  0.3175230026245117  1.0000
+  Pt  Pt2       1.0  0.9576413631439209  0.8497483134269714  0.08061803132295609  1.0000

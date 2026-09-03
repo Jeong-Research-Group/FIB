@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2P2Rh2
+_chemical_formula_sum              "Ce2 P2 Rh2"
+_cell_length_a       4.160071300755378
+_cell_length_b       5.658870591539852
+_cell_length_c       5.65992926625567
+_cell_angle_alpha    79.13923542627543
+_cell_angle_beta     68.42230344549236
+_cell_angle_gamma    68.44979475926478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.8154145203327331  0.7319941800400245  0.12163200768115338  1.0000
+  Ce  Ce2       1.0  0.31631393653887463  0.23270671502655274  0.6209047444063848  1.0000
+  P   P1        1.0  0.0663197028561144  0.8154100891365904  0.536907039061036  1.0000
+  P   P2        1.0  0.5644099628912226  0.31795417940026544  0.038115985302210886  1.0000
+  Rh  Rh1       1.0  0.0664343502289116  0.14798797783707296  0.20314770119315093  1.0000
+  Rh  Rh2       1.0  0.5654091306218454  0.6494845635541534  0.7040132053501169  1.0000

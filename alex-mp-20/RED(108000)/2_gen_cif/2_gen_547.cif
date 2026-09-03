@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiDyHPd2
+_chemical_formula_sum              "Li1 Dy1 H1 Pd2"
+_cell_length_a       4.272300113626163
+_cell_length_b       4.274124452689011
+_cell_length_c       4.044992962544867
+_cell_angle_alpha    89.997914367748
+_cell_angle_beta     90.00098203756286
+_cell_angle_gamma    89.9978347501031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8533171264634334  0.30615626449167893  0.41092910216205764  1.0000
+  Dy  Dy1       1.0  0.3536643924804993  0.8059185315808051  0.4106484382968281  1.0000
+  H   H1        1.0  0.8529983354040784  0.3060239382153466  0.9104905000267424  1.0000
+  Pd  Pd1       1.0  0.35448870398476867  0.3058826484781227  0.9104619343767374  1.0000
+  Pd  Pd2       1.0  0.8535543655015643  0.8065332473613159  0.9107176820506989  1.0000

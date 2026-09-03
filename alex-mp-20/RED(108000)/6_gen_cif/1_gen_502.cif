@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr3Mg2P2N
+_chemical_formula_sum              "Sr3 Mg2 P2 N1"
+_cell_length_a       4.071255452001632
+_cell_length_b       4.912488371210534
+_cell_length_c       9.587012929743539
+_cell_angle_alpha    90.01571679734558
+_cell_angle_beta     90.00312433674992
+_cell_angle_gamma    89.99998079739414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.16526580457718026  0.7278591023955799  0.782729072774085  1.0000
+  Sr  Sr2       1.0  0.6653961129116629  0.2275293332387837  0.5429539004096328  1.0000
+  Sr  Sr3       1.0  0.16526674942004943  0.2271849206906137  0.13713741966397033  1.0000
+  Mg  Mg1       1.0  0.6650900979820338  0.22808261503141258  0.8725354792948063  1.0000
+  Mg  Mg2       1.0  0.6652669777774897  0.7272128631962834  0.2869076858504326  1.0000
+  P   P1        1.0  0.16524554222868754  0.7273004917048532  0.4374130822542945  1.0000
+  P   P2        1.0  0.6652369498020199  0.7275477141670099  0.026139870106245813  1.0000
+  N   N1        1.0  0.16515211638987304  0.2277885607151238  0.7781837817501961  1.0000

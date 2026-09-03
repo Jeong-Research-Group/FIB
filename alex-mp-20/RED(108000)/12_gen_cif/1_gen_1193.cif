@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr3HgH
+_chemical_formula_sum              "Sr3 Hg1 H1"
+_cell_length_a       5.379099264004784
+_cell_length_b       5.382854107271265
+_cell_length_c       5.382445664589829
+_cell_angle_alpha    89.98150459219373
+_cell_angle_beta     89.99533336453233
+_cell_angle_gamma    90.00790225844939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5013686709773539  0.8259562843177453  0.41120474523104494  1.0000
+  Sr  Sr2       1.0  0.0007036439226965976  0.826108846731814  0.9113484862064973  1.0000
+  Sr  Sr3       1.0  0.500484062579377  0.3262528527770166  0.9113498289346282  1.0000
+  Hg  Hg1       1.0  0.0013967576507868775  0.32552865602033215  0.41126822993631734  1.0000
+  H   H1        1.0  0.5005823456898355  0.8263025126911588  0.9113926541578012  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InHPd3
+_chemical_formula_sum              "In1 H1 Pd3"
+_cell_length_a       4.090181072143518
+_cell_length_b       4.089049744158541
+_cell_length_c       4.089915018520989
+_cell_angle_alpha    89.98676550247501
+_cell_angle_beta     89.99494437472431
+_cell_angle_gamma    89.97472943827167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6716170035396205  0.9488132001347561  0.9521973055458149  1.0000
+  H   H1        1.0  0.17155583205306718  0.44863746583577735  0.45231274865838866  1.0000
+  Pd  Pd1       1.0  0.6715886518318062  0.44870746624215385  0.45219681366628306  1.0000
+  Pd  Pd2       1.0  0.17172759624672554  0.44887011965790613  0.9522837290651548  1.0000
+  Pd  Pd3       1.0  0.17151085528033871  0.9488348258651598  0.45218348735322167  1.0000

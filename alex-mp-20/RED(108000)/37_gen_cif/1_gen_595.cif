@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2AlCd
+_chemical_formula_sum              "Lu2 Al1 Cd1"
+_cell_length_a       5.098176214254837
+_cell_length_b       5.099071695355098
+_cell_length_c       5.098190405583476
+_cell_angle_alpha    59.99164708954986
+_cell_angle_beta     60.0112268138464
+_cell_angle_gamma    59.994248196318225
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.6311488594994044  0.5587201493152703  0.08173922020382601  1.0000
+  Lu  Lu2       1.0  0.13121232632220936  0.05862120084960364  0.5816816605600732  1.0000
+  Al  Al1       1.0  0.38119222570174144  0.30866953392801993  0.8317397944798911  1.0000
+  Cd  Cd1       1.0  0.8811459476626249  0.8084373694515211  0.33174347357690404  1.0000

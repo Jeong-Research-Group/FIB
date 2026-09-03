@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgPRh2PRh3
+_chemical_formula_sum              "Mg1 P2 Rh5"
+_cell_length_a       3.9062268691057502
+_cell_length_b       3.9127503444979133
+_cell_length_c       7.949690818786621
+_cell_angle_alpha    90.06139224208046
+_cell_angle_beta     90.01983737436434
+_cell_angle_gamma    90.05872846944308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.30006617307662964  0.19415281713008883  0.9350491762161255  1.0000
+  P   P1        1.0  0.7988942861557007  0.693256139755249  0.7518988251686096  1.0000
+  Rh  Rh1       1.0  0.29876354336738586  0.6929118633270264  0.24320097267627716  1.0000
+  Rh  Rh2       1.0  0.7989775538444519  0.19319315254688263  0.24334916472434998  1.0000
+  P   P2        1.0  0.29907160997390747  0.19299431145191195  0.4064319133758545  1.0000
+  Rh  Rh3       1.0  0.7996222376823425  0.6937464475631715  0.023841395974159244  1.0000
+  Rh  Rh4       1.0  0.7987887859344482  0.19318844377994537  0.5977421998977661  1.0000
+  Rh  Rh5       1.0  0.29905378818511963  0.692806363105774  0.5972466468811035  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgV3Fe
+_chemical_formula_sum              "Mg1 V3 Fe1"
+_cell_length_a       4.364289331320986
+_cell_length_b       4.3644938991375914
+_cell_length_c       4.363335906452421
+_cell_angle_alpha    89.92786024648355
+_cell_angle_beta     90.03122712766192
+_cell_angle_gamma    89.97228601367205
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9490720562022605  0.6650524595273546  0.741759330539977  1.0000
+  V   V1        1.0  0.4502191488380152  0.16513217054189272  0.7418544135940441  1.0000
+  V   V2        1.0  0.9489428985477613  0.16522492137056208  0.24143234712711154  1.0000
+  V   V3        1.0  0.44964866945054244  0.6650218789036632  0.24233215322144508  1.0000
+  Fe  Fe1       1.0  0.4489158306255335  0.16508149904719255  0.24203742937454076  1.0000

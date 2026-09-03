@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba3CaPd2
+_chemical_formula_sum              "Ba3 Ca1 Pd2"
+_cell_length_a       5.1044015094635675
+_cell_length_b       5.108699296900316
+_cell_length_c       8.37985137473183
+_cell_angle_alpha    90.03338100587447
+_cell_angle_beta     90.02965762098184
+_cell_angle_gamma    89.99882680093829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.1789934638737403  0.3051451554955741  0.2501790295027377  1.0000
+  Ba  Ba2       1.0  0.6809046945322089  0.3044382632166318  0.8724573887506352  1.0000
+  Ba  Ba3       1.0  0.678945556061191  0.8052729074699313  0.4957339971910512  1.0000
+  Ca  Ca1       1.0  0.18096415428022866  0.804370010906462  0.8737810723815087  1.0000
+  Pd  Pd1       1.0  0.17946230881324332  0.3044533503268508  0.640304352537697  1.0000
+  Pd  Pd2       1.0  0.6799758827983771  0.8053058554966982  0.10544151195507698  1.0000

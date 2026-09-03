@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2GaSnHg
+_chemical_formula_sum              "Sr2 Ga1 Sn1 Hg1"
+_cell_length_a       4.853183502209641
+_cell_length_b       6.353290606919519
+_cell_length_c       6.377563779119656
+_cell_angle_alpha    63.915675116531304
+_cell_angle_beta     67.63031343703776
+_cell_angle_gamma    67.55075074768793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9838420392493618  0.4282626816868815  0.6547279388087425  1.0000
+  Sr  Sr2       1.0  0.5573837143872317  0.8533531718196145  0.08253913757849139  1.0000
+  Ga  Ga1       1.0  0.2715241625341131  0.8632176362250993  0.6445753117966645  1.0000
+  Sn  Sn1       1.0  0.27058282765518216  0.4402778180382748  0.06919489415370238  1.0000
+  Hg  Hg1       1.0  0.7676095107675549  0.08001564914980612  0.43568831472127734  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrInPr2N
+_chemical_formula_sum              "Pr3 In1 N1"
+_cell_length_a       5.06696609046417
+_cell_length_b       5.07040410438637
+_cell_length_c       5.073892116546631
+_cell_angle_alpha    90.00817824080147
+_cell_angle_beta     89.99339771196307
+_cell_angle_gamma    90.0150152605797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.45745912194252014  0.2755492031574249  0.506257176399231  1.0000
+  In  In1       1.0  0.9573574066162109  0.7753915786743164  0.5062598586082458  1.0000
+  Pr  Pr2       1.0  0.45715662837028503  0.7753041386604309  0.0064193857833743095  1.0000
+  Pr  Pr3       1.0  0.9573907852172852  0.275458961725235  0.006437709089368582  1.0000
+  N   N1        1.0  0.45710015296936035  0.2757229506969452  0.0063750552944839  1.0000

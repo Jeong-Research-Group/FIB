@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba4GeS2Cl
+_chemical_formula_sum              "Ba4 Ge1 S2 Cl1"
+_cell_length_a       4.625819604531773
+_cell_length_b       4.624416165755009
+_cell_length_c       13.165866218288627
+_cell_angle_alpha    90.00778888206548
+_cell_angle_beta     89.9984955863533
+_cell_angle_gamma    89.99875748864117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7385849383592894  0.22393560728677722  0.6678781516924029  1.0000
+  Ba  Ba2       1.0  0.7386803133734332  0.2231348644676504  0.17492762084307867  1.0000
+  Ba  Ba3       1.0  0.2388479976755982  0.7234944242877979  0.9218696242147546  1.0000
+  Ba  Ba4       1.0  0.2383787057563607  0.7233168331476064  0.42132570470833697  1.0000
+  Ge  Ge1       1.0  0.7384377159374694  0.22330340152218675  0.4217866992154824  1.0000
+  S   S1        1.0  0.2387008736100529  0.7231412474278176  0.15335725660729319  1.0000
+  S   S2        1.0  0.2385948556049441  0.7239745388711394  0.6904075321513913  1.0000
+  Cl  Cl1       1.0  0.7388798574624521  0.22350569809730128  0.9208374881734014  1.0000

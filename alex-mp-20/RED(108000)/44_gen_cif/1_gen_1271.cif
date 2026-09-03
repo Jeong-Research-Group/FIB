@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb2ZnCu2Ir
+_chemical_formula_sum              "Nb2 Zn1 Cu2 Ir1"
+_cell_length_a       2.8517669869331312
+_cell_length_b       2.851811439960877
+_cell_length_c       11.04167720518223
+_cell_angle_alpha    89.99734838614462
+_cell_angle_beta     90.00109291059132
+_cell_angle_gamma    90.00156765965016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7165175224656211  0.7614897123825362  0.14278223948618823  1.0000
+  Nb  Nb2       1.0  0.7170862404077603  0.7604251435699015  0.49263684427427096  1.0000
+  Zn  Zn1       1.0  0.7155998198470299  0.7614370329198742  0.8218292076648536  1.0000
+  Cu  Cu1       1.0  0.21713861243782048  0.261050890414874  0.3153186450497461  1.0000
+  Cu  Cu2       1.0  0.21612257755223463  0.2614919681809485  0.9714625581210611  1.0000
+  Ir  Ir1       1.0  0.21663360155710865  0.2604791408289932  0.6589228342701752  1.0000

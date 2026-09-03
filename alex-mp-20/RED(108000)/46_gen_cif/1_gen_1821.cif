@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2CoAgH
+_chemical_formula_sum              "Sm2 Co1 Ag1 H1"
+_cell_length_a       3.521955856835338
+_cell_length_b       3.5614876861011644
+_cell_length_c       7.520225647320862
+_cell_angle_alpha    90.00897257106713
+_cell_angle_beta     90.00975488592033
+_cell_angle_gamma    90.00135614169095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.8480532593386961  0.7607170298418284  0.15531031506752135  1.0000
+  Sm  Sm2       1.0  0.8478762988068007  0.7606511126064966  0.6058445535051024  1.0000
+  Co  Co1       1.0  0.3475733007847899  0.2606309629816139  0.3807523181395177  1.0000
+  Ag  Ag1       1.0  0.34759371037726855  0.2605436977129011  0.8804385935236739  1.0000
+  H   H1        1.0  0.8469204535922543  0.2608541381220175  0.38057717709839683  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2SmPrSmTmPrTm
+_chemical_formula_sum              "La2 Sm2 Pr2 Tm2"
+_cell_length_a       5.124968801412998
+_cell_length_b       5.134735026128948
+_cell_length_c       10.354425430297852
+_cell_angle_alpha    89.97751068945658
+_cell_angle_beta     90.01868990380395
+_cell_angle_gamma    90.0285117139237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6456038951873779  0.024406220763921734  0.3657938838005066  1.0000
+  La  La2       1.0  0.6453577280044556  0.02433456853032112  0.8658986687660217  1.0000
+  Sm  Sm1       1.0  0.6460305452346802  0.5242874622344971  0.6160905361175537  1.0000
+  Pr  Pr1       1.0  0.14610910415649414  0.024238361045718193  0.6162791848182678  1.0000
+  Sm  Sm2       1.0  0.14504370093345642  0.024316543713212013  0.11589504033327103  1.0000
+  Tm  Tm1       1.0  0.14552709460258484  0.5241113901138306  0.865749180316925  1.0000
+  Pr  Pr2       1.0  0.6450262069702148  0.5244631171226501  0.11554551124572754  1.0000
+  Tm  Tm2       1.0  0.14564763009548187  0.5242799520492554  0.36578142642974854  1.0000

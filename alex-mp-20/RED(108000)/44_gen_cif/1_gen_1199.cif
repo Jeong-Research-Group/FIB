@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCo2GeH
+_chemical_formula_sum              "Mn1 Co2 Ge1 H1"
+_cell_length_a       3.7063072364768246
+_cell_length_b       3.705022009062461
+_cell_length_c       3.6033427432270333
+_cell_angle_alpha    90.00002813610881
+_cell_angle_beta     90.00207607729305
+_cell_angle_gamma    90.00050230714002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8027683237092653  0.3039550627502219  0.3079552676140339  1.0000
+  Co  Co1       1.0  0.8030221736844553  0.8040900045443132  0.8079510684629213  1.0000
+  Co  Co2       1.0  0.3028093215251296  0.30392595957735086  0.8081438378972311  1.0000
+  Ge  Ge1       1.0  0.30266226935013024  0.8040706971559283  0.3079045779360751  1.0000
+  H   H1        1.0  0.8035217382998537  0.30410991779082347  0.8079303835691081  1.0000

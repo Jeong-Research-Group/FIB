@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2CBr2
+_chemical_formula_sum              "Sm2 C1 Br2"
+_cell_length_a       3.839796450709685
+_cell_length_b       3.839570252589151
+_cell_length_c       10.976719137842883
+_cell_angle_alpha    89.99257033675168
+_cell_angle_beta     90.00004892911481
+_cell_angle_gamma    119.98992052022024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.48744150770397204  0.5980208879815011  0.2527723523944099  1.0000
+  Sm  Sm2       1.0  0.8203698901463741  0.2647352312408035  0.9966713963030609  1.0000
+  C   C1        1.0  0.15472815179818292  0.9313197074298996  0.12029348273834889  1.0000
+  Br  Br1       1.0  0.15262746109955325  0.9312314180447748  0.43750013490274325  1.0000
+  Br  Br2       1.0  0.48725633043860367  0.5981243987855028  0.8155207093157092  1.0000

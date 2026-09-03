@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsLiZn2Pd
+_chemical_formula_sum              "Cs1 Li1 Zn2 Pd1"
+_cell_length_a       5.200463344403438
+_cell_length_b       5.105641453420378
+_cell_length_c       5.105668572333337
+_cell_angle_alpha    90.04157060680652
+_cell_angle_beta     90.05963057353463
+_cell_angle_gamma    90.02405938663962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.7617899316894204  0.49249938076192495  0.04570875321501885  1.0000
+  Li  Li1       1.0  0.7603884584465144  0.9926433008286053  0.5455268001887852  1.0000
+  Zn  Zn1       1.0  0.26145415996789356  0.4925687869148167  0.5457560301823914  1.0000
+  Zn  Zn2       1.0  0.26090284406727393  0.9925727783004256  0.04583478748711312  1.0000
+  Pd  Pd1       1.0  0.2613020292012202  0.9928240545240645  0.5454420809779635  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeCo2CuH
+_chemical_formula_sum              "Fe1 Co2 Cu1 H1"
+_cell_length_a       3.6957983960547574
+_cell_length_b       3.5533730918098128
+_cell_length_c       3.696180360058487
+_cell_angle_alpha    89.99979630389795
+_cell_angle_beta     89.99996555969575
+_cell_angle_gamma    89.9998485541468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.8120274487662417  0.832887011499389  0.122121982020719  1.0000
+  Co  Co1       1.0  0.3117771878116859  0.33274850447916293  0.12207439289860686  1.0000
+  Co  Co2       1.0  0.811932062459254  0.33287787252582096  0.6223262215948041  1.0000
+  Cu  Cu1       1.0  0.3120717131849072  0.8328574053060624  0.6221428789788253  1.0000
+  H   H1        1.0  0.311844898670689  0.33299095422290226  0.6215694184932856  1.0000

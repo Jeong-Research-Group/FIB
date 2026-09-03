@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2In2Bi2
+_chemical_formula_sum              "Na2 In2 Bi2"
+_cell_length_a       5.008275003043033
+_cell_length_b       5.008845489223296
+_cell_length_c       9.769189322747312
+_cell_angle_alpha    75.1352902392876
+_cell_angle_beta     75.14193032422581
+_cell_angle_gamma    59.93886318998998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6678872384568798  0.194417127588168  0.025959205036426992  1.0000
+  Na  Na2       1.0  0.8148981306835117  0.3418109556523628  0.5824263277856248  1.0000
+  In  In1       1.0  0.9361293696558064  0.4627785271913163  0.2198736401165433  1.0000
+  In  In2       1.0  0.04477641374030413  0.571593706315045  0.894038842467989  1.0000
+  Bi  Bi1       1.0  0.5576203327222619  0.08430598304225419  0.35600509925412893  1.0000
+  Bi  Bi2       1.0  0.4122092273098816  0.9392354358027215  0.7909476133195235  1.0000

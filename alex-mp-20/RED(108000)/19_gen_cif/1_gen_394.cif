@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2Ni2Ge
+_chemical_formula_sum              "Zr2 Ni2 Ge1"
+_cell_length_a       3.9303703149448315
+_cell_length_b       5.156113531024046
+_cell_length_c       5.155330519656853
+_cell_angle_alpha    59.89065479326233
+_cell_angle_beta     67.59377618078675
+_cell_angle_gamma    67.59809997151476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.04402196193480842  0.8493346441789383  0.3617372575982739  1.0000
+  Zr  Zr2       1.0  0.6426620290197316  0.25072328797252386  0.7630491247738889  1.0000
+  Ni  Ni1       1.0  0.34350348646946605  0.283364321273382  0.32885029667248983  1.0000
+  Ni  Ni2       1.0  0.3432616401120265  0.8166681593913587  0.7959811998950994  1.0000
+  Ge  Ge1       1.0  0.8433864671990744  0.5500144895441341  0.062374354191619526  1.0000

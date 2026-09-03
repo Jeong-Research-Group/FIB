@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2CuRh
+_chemical_formula_sum              "Zn2 Cu1 Rh1"
+_cell_length_a       3.5065378676482513
+_cell_length_b       3.9221979979241732
+_cell_length_c       3.9184001958867998
+_cell_angle_alpha    89.99230068095164
+_cell_angle_beta     90.00277226335419
+_cell_angle_gamma    90.00196388889806
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5950230994056647  0.6510456554059497  0.6408792545026575  1.0000
+  Zn  Zn2       1.0  0.5951566272808899  0.15104503088961405  0.14095966247143668  1.0000
+  Cu  Cu1       1.0  0.09514022084568874  0.6510352990935097  0.14083909219375101  1.0000
+  Rh  Rh1       1.0  0.09507933980983586  0.15104147717658334  0.6409292222392168  1.0000

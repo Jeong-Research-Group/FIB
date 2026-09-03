@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba2Ga3HgAs2
+_chemical_formula_sum              "Ba2 Ga3 Hg1 As2"
+_cell_length_a       4.728753071962727
+_cell_length_b       4.726865986273484
+_cell_length_c       11.836639810605748
+_cell_angle_alpha    89.99628625401438
+_cell_angle_beta     90.01125729934026
+_cell_angle_gamma    120.02279373630583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.051562265582032626  0.9098635317563396  0.2875785317009066  1.0000
+  Ba  Ba2       1.0  0.05116201172245286  0.9099626246202598  0.7078910182430328  1.0000
+  Ga  Ga1       1.0  0.7178155818126858  0.24361117439922209  0.49427665324772313  1.0000
+  Ga  Ga2       1.0  0.7184334778241681  0.24322257526062854  0.09985292591535107  1.0000
+  Ga  Ga3       1.0  0.38445957166867856  0.576402583534836  0.8953193316034208  1.0000
+  Hg  Hg1       1.0  0.3845208098792828  0.5767075910040871  0.5001405907265385  1.0000
+  As  As1       1.0  0.38502480120640137  0.576441837946804  0.10920166032347282  1.0000
+  As  As2       1.0  0.7179010960898534  0.24321575946915316  0.8858349653426547  1.0000

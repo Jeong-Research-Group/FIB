@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hg2Bi2O2
+_chemical_formula_sum              "Hg2 Bi2 O2"
+_cell_length_a       3.9841992525925294
+_cell_length_b       3.984219391770901
+_cell_length_c       8.324974578328755
+_cell_angle_alpha    90.07900088979402
+_cell_angle_beta     89.94138475006702
+_cell_angle_gamma    89.99962080616743
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.728055147046684  0.30681016538772643  0.12103666799383775  1.0000
+  Hg  Hg2       1.0  0.2279274283148254  0.8077454359088836  0.920320512680977  1.0000
+  Bi  Bi1       1.0  0.22855248069771267  0.8067102861827307  0.3712368433258747  1.0000
+  Bi  Bi2       1.0  0.7278345500357088  0.3076803909993489  0.6723354261099295  1.0000
+  O   O1        1.0  0.7282953625888868  0.8071715334003247  0.5210475717418591  1.0000
+  O   O2        1.0  0.2282905689013019  0.30714757392143904  0.521081105705138  1.0000

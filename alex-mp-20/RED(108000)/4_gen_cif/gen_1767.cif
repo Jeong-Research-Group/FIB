@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlOs2Al2Pb
+_chemical_formula_sum              "Al3 Os2 Pb1"
+_cell_length_a       3.154100163057055
+_cell_length_b       3.1679789228866966
+_cell_length_c       10.285222053527832
+_cell_angle_alpha    89.6705415053113
+_cell_angle_beta     89.52431394763411
+_cell_angle_gamma    89.95240291870606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.3380199372768402  0.2917451560497284  0.41331005096435547  1.0000
+  Os  Os1       1.0  0.8388082385063172  0.7925480008125305  0.8251120448112488  1.0000
+  Os  Os2       1.0  0.8382291793823243  0.7908039093017578  0.5377627015113831  1.0000
+  Al  Al2       1.0  0.338554710149765  0.29163315892219543  0.6810289025306702  1.0000
+  Al  Al3       1.0  0.337847501039505  0.29148340225219727  0.9488002657890319  1.0000
+  Pb  Pb1       1.0  0.8370429277420045  0.791416883468628  0.18165045976638794  1.0000

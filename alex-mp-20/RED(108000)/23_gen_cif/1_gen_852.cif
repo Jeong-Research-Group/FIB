@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2CaMg3
+_chemical_formula_sum              "Sr2 Ca1 Mg3"
+_cell_length_a       4.11843089926265
+_cell_length_b       4.119023089755338
+_cell_length_c       12.338416285810231
+_cell_angle_alpha    90.00134085097778
+_cell_angle_beta     90.00145270275792
+_cell_angle_gamma    89.99920664556196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4738150024598613  0.37085632340762037  0.6814195265887226  1.0000
+  Sr  Sr2       1.0  0.4761100047092364  0.37043903387075816  0.3346442467182771  1.0000
+  Ca  Ca1       1.0  0.47652674526585287  0.37055659619960934  0.007164702955631081  1.0000
+  Mg  Mg1       1.0  0.97689325213848  0.8711075056570803  0.1592572450654408  1.0000
+  Mg  Mg2       1.0  0.9757760455996116  0.8704435965292013  0.8552759090492899  1.0000
+  Mg  Mg3       1.0  0.9748370831392474  0.8705619031205486  0.5079873463438745  1.0000

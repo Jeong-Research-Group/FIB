@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Co2I2
+_chemical_formula_sum              "Pr2 Co2 I2"
+_cell_length_a       4.078166269656872
+_cell_length_b       4.078048964827996
+_cell_length_c       12.791867780708051
+_cell_angle_alpha    89.99048441327515
+_cell_angle_beta     90.0300140708602
+_cell_angle_gamma    119.99726701343805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.8742665433988347  0.6057304310506532  0.6468668128077122  1.0000
+  Pr  Pr2       1.0  0.8745327802929035  0.6058688835498448  0.9524878123037728  1.0000
+  Co  Co1       1.0  0.20770873905940201  0.2726505167321097  0.7972660869318022  1.0000
+  Co  Co2       1.0  0.541162483030535  0.93925806112165  0.8020702757640155  1.0000
+  I   I1        1.0  0.5404087587471996  0.9391775712581213  0.4694754759786737  1.0000
+  I   I2        1.0  0.20827281506584955  0.2727483583497549  0.12989390870549236  1.0000

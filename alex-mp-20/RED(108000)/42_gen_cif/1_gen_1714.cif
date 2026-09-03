@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrYP2Pt2
+_chemical_formula_sum              "Sr1 Y1 P2 Pt2"
+_cell_length_a       4.14844061584464
+_cell_length_b       4.147798706250325
+_cell_length_c       8.34248887909951
+_cell_angle_alpha    89.99828734255868
+_cell_angle_beta     90.00397843821968
+_cell_angle_gamma    120.00577746526905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9251580448521075  0.4081283391182873  0.4524478285722343  1.0000
+  Y   Y1        1.0  0.9250064572025588  0.4081247766228919  0.9525148946612363  1.0000
+  P   P1        1.0  0.25856416794798903  0.07478784553640323  0.18880236891159946  1.0000
+  P   P2        1.0  0.25819774466967216  0.07474629389410761  0.7162418348195004  1.0000
+  Pt  Pt1       1.0  0.5919782815667414  0.7415369260258593  0.17988538511837449  1.0000
+  Pt  Pt2       1.0  0.5915837184313185  0.741511424478774  0.7251205213952171  1.0000

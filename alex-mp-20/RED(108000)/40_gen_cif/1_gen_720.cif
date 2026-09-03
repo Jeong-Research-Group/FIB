@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrSmCo2Ge
+_chemical_formula_sum              "Pr1 Sm1 Co2 Ge1"
+_cell_length_a       4.0006800258761475
+_cell_length_b       3.8477910746309827
+_cell_length_c       6.913398454531372
+_cell_angle_alpha    106.14357133715696
+_cell_angle_beta     89.99756759621786
+_cell_angle_gamma    90.00052654333828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9750284568369777  0.8124153993856301  0.6744547558082276  1.0000
+  Sm  Sm1       1.0  0.9748043367298643  0.5549002803894932  0.16154897639761595  1.0000
+  Co  Co1       1.0  0.47502039241390587  0.3870460307040448  0.8246548204126135  1.0000
+  Co  Co2       1.0  0.47500437785565675  0.9852919790646092  0.021816841089649652  1.0000
+  Ge  Ge1       1.0  0.4748166363901033  0.18110688470202782  0.41279579998315563  1.0000

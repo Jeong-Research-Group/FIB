@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoNi3Te2
+_chemical_formula_sum              "Co1 Ni3 Te2"
+_cell_length_a       3.8747038600320245
+_cell_length_b       3.8747172383120327
+_cell_length_c       5.972233464882515
+_cell_angle_alpha    90.01417847483587
+_cell_angle_beta     90.00858332063332
+_cell_angle_gamma    90.00022576481967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7758517228849858  0.7034819455628343  0.7105298858052256  1.0000
+  Ni  Ni1       1.0  0.7759041292138799  0.2036014815380873  0.9918694339800741  1.0000
+  Ni  Ni2       1.0  0.2757584300049862  0.20340911336218442  0.7105130052946462  1.0000
+  Ni  Ni3       1.0  0.2758096806872883  0.7032321092216046  0.4290969355992185  1.0000
+  Te  Te1       1.0  0.7757163464944921  0.20338415972798804  0.4227900124918111  1.0000
+  Te  Te2       1.0  0.2758943043751914  0.7035268291070448  0.9980485967188977  1.0000

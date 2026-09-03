@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2TbCeLu2Bi2
+_chemical_formula_sum              "Ca2 Tb1 Ce1 Lu2 Bi2"
+_cell_length_a       4.752615620286504
+_cell_length_b       5.300174959248961
+_cell_length_c       9.465437677407488
+_cell_angle_alpha    89.99873993369472
+_cell_angle_beta     90.00032377725503
+_cell_angle_gamma    90.00093586993245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5983175955627864  0.6567070534795488  0.7114327379028605  1.0000
+  Ca  Ca2       1.0  0.09824593939822168  0.15660476071019078  0.7115514307497323  1.0000
+  Tb  Tb1       1.0  0.5983583936518594  0.6564189811148364  0.21145898580968553  1.0000
+  Ce  Ce1       1.0  0.09824493512794384  0.15655241255249056  0.21145586561943344  1.0000
+  Lu  Lu1       1.0  0.598177930521828  0.15640572510175502  0.9883575906787965  1.0000
+  Lu  Lu2       1.0  0.598201021606256  0.15637670946839113  0.4345526066950914  1.0000
+  Bi  Bi1       1.0  0.09821407780570235  0.6564167840525572  0.4596941299937237  1.0000
+  Bi  Bi2       1.0  0.09822647285139674  0.656454502549055  0.96318793127917  1.0000

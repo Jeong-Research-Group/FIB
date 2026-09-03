@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrMg3Ni
+_chemical_formula_sum              "Sr1 Mg3 Ni1"
+_cell_length_a       5.000811623282747
+_cell_length_b       5.000698459762326
+_cell_length_c       5.001092979487868
+_cell_angle_alpha    90.06906380695514
+_cell_angle_beta     90.07162104619056
+_cell_angle_gamma    90.11511442698189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5340922050917357  0.7578213605361033  0.9352152101824603  1.0000
+  Mg  Mg1       1.0  0.5340240379039796  0.25781083764453466  0.4355009331821501  1.0000
+  Mg  Mg2       1.0  0.034541442856953666  0.2578402928713917  0.9357966037828914  1.0000
+  Mg  Mg3       1.0  0.03392227528312258  0.7594050243834504  0.4352700040151141  1.0000
+  Ni  Ni1       1.0  0.03393755767093189  0.25888942654556624  0.4356108051942322  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdSn2Ir2
+_chemical_formula_sum              "Cd1 Sn2 Ir2"
+_cell_length_a       4.6079689611370585
+_cell_length_b       4.607910156572054
+_cell_length_c       5.521375967478228
+_cell_angle_alpha    90.00515747577775
+_cell_angle_beta     89.99633901596863
+_cell_angle_gamma    120.00018915205698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5116907959166827  0.4279436859731595  0.0217283357491882  1.0000
+  Sn  Sn1       1.0  0.8450143020446853  0.09459681922708837  0.35206563829346355  1.0000
+  Sn  Sn2       1.0  0.1783351106694498  0.761257435518259  0.6913396352947515  1.0000
+  Ir  Ir1       1.0  0.8449808978655724  0.09465516570988325  0.8360655355459946  1.0000
+  Ir  Ir2       1.0  0.17835773835209817  0.7612182105740669  0.20732409344693847  1.0000

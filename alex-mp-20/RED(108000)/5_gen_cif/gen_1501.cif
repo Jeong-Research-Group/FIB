@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si2NiAlNi2PdNi
+_chemical_formula_sum              "Si2 Ni4 Al1 Pd1"
+_cell_length_a       3.9313772699447367
+_cell_length_b       3.933664912943748
+_cell_length_c       7.569421768188477
+_cell_angle_alpha    89.83372154131133
+_cell_angle_beta     89.9763154088131
+_cell_angle_gamma    119.90704575072238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5327985286712646  0.37656062841415405  0.18810452520847318  1.0000
+  Si  Si2       1.0  0.1989652365446091  0.709846019744873  0.6666479110717773  1.0000
+  Ni  Ni1       1.0  0.5320669412612915  0.3763798773288727  0.5738510489463806  1.0000
+  Al  Al1       1.0  0.8655754327774049  0.04336871951818466  0.4549459218978882  1.0000
+  Ni  Ni2       1.0  0.8667269349098207  0.04371738061308861  0.7721437811851501  1.0000
+  Ni  Ni3       1.0  0.865521013736725  0.04333357885479927  0.1401427835226059  1.0000
+  Pd  Pd1       1.0  0.2000640779733658  0.7107684016227722  0.9759724736213684  1.0000
+  Ni  Ni4       1.0  0.19884343445301064  0.7099210023880006  0.33191749453544617  1.0000

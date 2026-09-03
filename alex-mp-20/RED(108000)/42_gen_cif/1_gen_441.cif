@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Al2FeMo
+_chemical_formula_sum              "Al2 Fe1 Mo1"
+_cell_length_a       3.7524358748566615
+_cell_length_b       3.870786585019854
+_cell_length_c       3.877348805930386
+_cell_angle_alpha    89.99448888731571
+_cell_angle_beta     90.00014408904316
+_cell_angle_gamma    90.00025648210462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.16202913395358684  0.6166487044981303  0.5263065662938609  1.0000
+  Al  Al2       1.0  0.16198146349127163  0.11681867206164998  0.026102653440433922  1.0000
+  Fe  Fe1       1.0  0.6618949113968395  0.11734905961690895  0.5260754819477104  1.0000
+  Mo  Mo1       1.0  0.662013639936279  0.6166960670735683  0.026389758981667535  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn3Fe2Os
+_chemical_formula_sum              "Mn3 Fe2 Os1"
+_cell_length_a       2.8183585466852317
+_cell_length_b       2.8183291112466917
+_cell_length_c       8.849798337936903
+_cell_angle_alpha    90.00196910938274
+_cell_angle_beta     89.9993442186125
+_cell_angle_gamma    90.00280185001358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8083355056241471  0.7148502333755974  0.1703527143681586  1.0000
+  Mn  Mn2       1.0  0.8083351774795268  0.7148801558869211  0.8563347589339233  1.0000
+  Mn  Mn3       1.0  0.8084130519130419  0.7148669025147593  0.48490085784013803  1.0000
+  Fe  Fe1       1.0  0.30825266978746596  0.21480523241322452  0.011648101471262344  1.0000
+  Fe  Fe2       1.0  0.3084192553937995  0.21495899957963507  0.32943623487912  1.0000
+  Os  Os1       1.0  0.3083799973650774  0.2147239233278421  0.6707763365175777  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2P2Br2
+_chemical_formula_sum              "Eu2 P2 Br2"
+_cell_length_a       3.8213436465060857
+_cell_length_b       4.1920813601601505
+_cell_length_c       9.605081670639086
+_cell_angle_alpha    86.56319892096533
+_cell_angle_beta     89.99716456681283
+_cell_angle_gamma    90.00000645737191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.3767842346018682  0.34360333174363766  0.557203100076286  1.0000
+  Eu  Eu2       1.0  0.8766356269540376  0.9253029267985622  0.018731752526407235  1.0000
+  P   P1        1.0  0.8767095783469085  0.467148189514158  0.7968047819046914  1.0000
+  P   P2        1.0  0.37670064368092643  0.8013528491383961  0.779095544173278  1.0000
+  Br  Br1       1.0  0.8768103816953755  0.8665241983556536  0.4214292317759003  1.0000
+  Br  Br2       1.0  0.37661937024049214  0.40254691506088003  0.1546661509118574  1.0000

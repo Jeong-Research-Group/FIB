@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Y2SnTe
+_chemical_formula_sum              "Y2 Sn1 Te1"
+_cell_length_a       4.4009639915367895
+_cell_length_b       4.401768747135733
+_cell_length_c       6.177489414295023
+_cell_angle_alpha    89.95915932370679
+_cell_angle_beta     89.96840128567284
+_cell_angle_gamma    89.98538586919464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.9225323620498647  0.16173100776592578  0.13239357288043183  1.0000
+  Y   Y2        1.0  0.4223828506181367  0.6620120755417223  0.6324380338642545  1.0000
+  Sn  Sn1       1.0  0.4223258558417033  0.6619271312777173  0.1323509440203352  1.0000
+  Te  Te1       1.0  0.9223157372030028  0.16212729590921826  0.632385016496645  1.0000

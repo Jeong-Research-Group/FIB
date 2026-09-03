@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MnCrW
+_chemical_formula_sum              "Mn1 Cr1 W1"
+_cell_length_a       2.5985212805069353
+_cell_length_b       4.178892304763982
+_cell_length_c       4.177468642531707
+_cell_angle_alpha    119.99743851224723
+_cell_angle_beta     90.00219387672249
+_cell_angle_gamma    90.01082551771412
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.49819152781956977  0.5739602378468743  0.6278833323887892  1.0000
+  Cr  Cr1       1.0  0.8221874553931209  0.24160040133824287  0.9620399818772972  1.0000
+  W   W1        1.0  0.15406621057316106  0.9073660082566498  0.29481855751374125  1.0000

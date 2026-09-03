@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Rh2O4
+_chemical_formula_sum              "Li2 Rh2 O4"
+_cell_length_a       4.215183704571249
+_cell_length_b       3.0749158744924854
+_cell_length_c       6.046796497471798
+_cell_angle_alpha    89.99798528033968
+_cell_angle_beta     90.00395560766472
+_cell_angle_gamma    89.99865239021392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.37812072023058385  0.4652576952092712  0.41088146002613585  1.0000
+  Li  Li2       1.0  0.8781294429271796  0.9649292256619637  0.6109232420502385  1.0000
+  Rh  Rh1       1.0  0.3781123741039307  0.4650881171340473  0.8727577071434016  1.0000
+  Rh  Rh2       1.0  0.8780954235569034  0.9650723557383236  0.14932561114393086  1.0000
+  O   O1        1.0  0.378108382408346  0.9651123483154873  0.6475591321951212  1.0000
+  O   O2        1.0  0.37808809496632767  0.9650698495452281  0.11157470557641179  1.0000
+  O   O3        1.0  0.8781140160874848  0.4650490203839976  0.9106493790778716  1.0000
+  O   O4        1.0  0.8781046255318643  0.465084332804335  0.37459172075851577  1.0000

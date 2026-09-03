@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgPtCo2Pt
+_chemical_formula_sum              "Mg1 Pt2 Co2"
+_cell_length_a       3.8957164519017526
+_cell_length_b       4.643068730747673
+_cell_length_c       4.716086387634277
+_cell_angle_alpha    79.46247508504077
+_cell_angle_beta     65.70995729744976
+_cell_angle_gamma    65.28044791861007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3346874713897705  0.19254754483699799  0.5065740346908569  1.0000
+  Pt  Pt1       1.0  0.5400978922843933  0.5722951292991638  0.7163836359977722  1.0000
+  Co  Co1       1.0  0.9203284978866578  0.4211413562297821  0.10518883168697357  1.0000
+  Co  Co2       1.0  0.7490472197532653  0.9637417197227478  0.9080520868301392  1.0000
+  Pt  Pt2       1.0  0.12934352457523343  0.812501847743988  0.29689377546310425  1.0000

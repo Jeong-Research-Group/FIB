@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2Hg2GeS3
+_chemical_formula_sum              "La2 Hg2 Ge1 S3"
+_cell_length_a       3.775816458707542
+_cell_length_b       7.531093130274514
+_cell_length_c       7.851195418994216
+_cell_angle_alpha    87.49122883886129
+_cell_angle_beta     89.93325100369269
+_cell_angle_gamma    89.99981095096761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4811466017694706  0.37171016705976007  0.43277577627809255  1.0000
+  La  La2       1.0  0.4811269269018439  0.8416649595702738  0.43235524910055545  1.0000
+  Hg  Hg1       1.0  0.9814069387585703  0.34631229185817874  0.9219425384086635  1.0000
+  Hg  Hg2       1.0  0.9808868075819913  0.8355577238343141  0.8933829308188349  1.0000
+  Ge  Ge1       1.0  0.9816520958428507  0.06365012591071928  0.1353145252332687  1.0000
+  S   S1        1.0  0.9808583855149066  0.1040381438281672  0.546952463526072  1.0000
+  S   S2        1.0  0.9806991776739628  0.5926164516808222  0.6542285032039564  1.0000
+  S   S3        1.0  0.9815559077662896  0.615039805649477  0.2492056206505404  1.0000

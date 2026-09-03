@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrCoSi2Ir
+_chemical_formula_sum              "Pr1 Co1 Si2 Ir1"
+_cell_length_a       4.053383067813914
+_cell_length_b       4.0526621299872
+_cell_length_c       5.840008337332964
+_cell_angle_alpha    110.29010610746388
+_cell_angle_beta     110.29000699010406
+_cell_angle_gamma    90.00140362846702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6245258970015367  0.8493644218667514  0.3073330913582388  1.0000
+  Co  Co1       1.0  0.3745933013683315  0.09924033660663308  0.8071440275536623  1.0000
+  Si  Si1       1.0  0.25359306405604964  0.47825652265910246  0.5649818898806892  1.0000
+  Si  Si2       1.0  0.995528784667742  0.2202931144602581  0.04923602740587438  1.0000
+  Ir  Ir1       1.0  0.8742789191830712  0.5993107129106263  0.8068713284759285  1.0000

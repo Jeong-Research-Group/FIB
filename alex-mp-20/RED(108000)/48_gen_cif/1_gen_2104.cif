@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr2In2As2Se2
+_chemical_formula_sum              "Zr2 In2 As2 Se2"
+_cell_length_a       3.8357112749806865
+_cell_length_b       7.803768939685713
+_cell_length_c       6.672981124453638
+_cell_angle_alpha    89.84967040536385
+_cell_angle_beta     90.0001562929169
+_cell_angle_gamma    89.99728749581664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9695971597334515  0.4939608547418416  0.34097967852779953  1.0000
+  Zr  Zr2       1.0  0.4695460662957977  0.4808110447204264  0.859118534769496  1.0000
+  In  In1       1.0  0.4696803917064826  0.9935039716472659  0.8673568469101482  1.0000
+  In  In2       1.0  0.9694275795192272  0.9813351992375269  0.3327752465585921  1.0000
+  As  As1       1.0  0.4695610100095009  0.7007666162266549  0.178517777490318  1.0000
+  As  As2       1.0  0.9695848099310327  0.2739895027462354  0.02158468393579709  1.0000
+  Se  Se1       1.0  0.4696082215445982  0.28962639547714797  0.5148212870339922  1.0000
+  Se  Se2       1.0  0.9695371132534966  0.6851213969367111  0.6852839641652898  1.0000

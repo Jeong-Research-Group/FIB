@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2NaZnMgBi2
+_chemical_formula_sum              "Mg3 Na1 Zn1 Bi2"
+_cell_length_a       5.098508765857354
+_cell_length_b       5.106437472571359
+_cell_length_c       8.803223609924316
+_cell_angle_alpha    73.17887151501505
+_cell_angle_beta     73.17406237650171
+_cell_angle_gamma    59.88316627246196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.32485175132751465  0.34486696124076843  0.02836049534380436  1.0000
+  Mg  Mg2       1.0  0.576224446296692  0.5974100828170776  0.27449437975883484  1.0000
+  Na  Na1       1.0  0.825325071811676  0.8458911776542664  0.5293490290641785  1.0000
+  Zn  Zn1       1.0  0.9485301375389099  0.9711268544197083  0.15251301229000092  1.0000
+  Mg  Mg3       1.0  0.06977678090333939  0.09345107525587082  0.7861256003379822  1.0000
+  Bi  Bi1       1.0  0.6969042420387268  0.7187114953994751  0.9084102511405945  1.0000
+  Bi  Bi2       1.0  0.20073072612285614  0.2231813222169876  0.39858055114746094  1.0000

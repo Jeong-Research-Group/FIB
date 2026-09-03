@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2NbNGa
+_chemical_formula_sum              "Ti2 Nb1 N1 Ga1"
+_cell_length_a       4.090760990131844
+_cell_length_b       4.089900541478674
+_cell_length_c       4.245107650756836
+_cell_angle_alpha    90.23816436590144
+_cell_angle_beta     90.16961660430084
+_cell_angle_gamma    90.07719046444733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6088756918907166  0.8372800946235657  0.3966732323169708  1.0000
+  Ti  Ti2       1.0  0.10922743380069733  0.33711278438568115  0.3956146836280823  1.0000
+  Nb  Nb1       1.0  0.10873941332101822  0.8371829390525819  0.8960977792739868  1.0000
+  N   N1        1.0  0.10886924713850021  0.8370453715324402  0.39649853110313416  1.0000
+  Ga  Ga1       1.0  0.608600914478302  0.33702981472015386  0.8962284326553345  1.0000

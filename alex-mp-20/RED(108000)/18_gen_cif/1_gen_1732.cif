@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mo2HRu2
+_chemical_formula_sum              "Mo2 H1 Ru2"
+_cell_length_a       3.8909230849107566
+_cell_length_b       3.999717952334443
+_cell_length_c       3.99970883467918
+_cell_angle_alpha    89.99985945341706
+_cell_angle_beta     89.99975740475828
+_cell_angle_gamma    90.00015631594849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.5627410106899242  0.9259519051549464  0.5300509157849652  1.0000
+  Mo  Mo2       1.0  0.5631926428210465  0.42578893237926824  0.029819081108034634  1.0000
+  H   H1        1.0  0.5640217888695779  0.4259398497500646  0.5300371360681216  1.0000
+  Ru  Ru1       1.0  0.06185235262829684  0.9258488632492968  0.030470399976729803  1.0000
+  Ru  Ru2       1.0  0.06295821418827989  0.42571600082236444  0.5301352050249413  1.0000

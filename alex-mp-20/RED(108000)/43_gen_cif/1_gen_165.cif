@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hg2MoS2
+_chemical_formula_sum              "Hg2 Mo1 S2"
+_cell_length_a       3.2085881036945803
+_cell_length_b       3.2084998600513868
+_cell_length_c       13.650427135560632
+_cell_angle_alpha    90.20354837698758
+_cell_angle_beta     90.05122344843595
+_cell_angle_gamma    120.00341822301955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.7008985022648788  0.7935134366122806  0.2259081805945023  1.0000
+  Hg  Hg2       1.0  0.7000015208719329  0.7936903670760599  0.46468040720677034  1.0000
+  Mo  Mo1       1.0  0.36718486721783494  0.12651249657585378  0.8461510272029892  1.0000
+  S   S1        1.0  0.7022291686091118  0.795746533573408  0.9603482936349582  1.0000
+  S   S2        1.0  0.6988027009959337  0.7906191793550228  0.7319488840584177  1.0000

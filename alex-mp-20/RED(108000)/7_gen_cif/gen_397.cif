@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsHKH2Cu
+_chemical_formula_sum              "As1 H3 K1 Cu1"
+_cell_length_a       5.428498062396316
+_cell_length_b       4.374542419716937
+_cell_length_c       4.728672504425049
+_cell_angle_alpha    116.90946416799324
+_cell_angle_beta     91.66136408446282
+_cell_angle_gamma    90.42298244496894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.7445529103279114  0.3945574462413788  0.3034357726573944  1.0000
+  H   H1        1.0  0.04440227523446083  0.40033894777297974  0.31531602144241333  1.0000
+  K   K1        1.0  0.20627336204051971  0.08780539035797118  0.6901775002479553  1.0000
+  H   H2        1.0  0.7273217439651489  0.5853770971298218  0.6897013783454895  1.0000
+  H   H3        1.0  0.3194185197353363  0.7607533931732177  0.0369423888623714  1.0000
+  Cu  Cu1       1.0  0.6099315285682678  0.811432123184204  0.1351828575134277  1.0000

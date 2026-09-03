@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrNd2PPtPPtBr
+_chemical_formula_sum              "Br2 Nd2 P2 Pt2"
+_cell_length_a       3.979645395184637
+_cell_length_b       4.037033403755326
+_cell_length_c       12.63104248046875
+_cell_angle_alpha    98.86531531576675
+_cell_angle_beta     89.82870136033141
+_cell_angle_gamma    89.91205697584535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.41485580801963806  0.13074742257595062  0.7591899633407592  1.0000
+  Nd  Nd1       1.0  0.9156718850135803  0.03747817128896713  0.5793832540512085  1.0000
+  Nd  Nd2       1.0  0.4165467917919159  0.32935014367103577  0.15571948885917664  1.0000
+  P   P1        1.0  0.9159386157989502  0.8762684464454651  0.2543015480041504  1.0000
+  Pt  Pt1       1.0  0.41433438658714294  0.930824041366577  0.36687552928924555  1.0000
+  P   P2        1.0  0.41529813408851624  0.49631124734878534  0.49679589271545405  1.0000
+  Pt  Pt2       1.0  0.9155077934265137  0.4327148497104644  0.3712214231491088  1.0000
+  Br  Br2       1.0  0.9162973165512085  0.7621399164199828  0.02067370153963565  1.0000

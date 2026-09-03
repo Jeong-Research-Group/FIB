@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       V2ZnRh2
+_chemical_formula_sum              "V2 Zn1 Rh2"
+_cell_length_a       2.780500677281706
+_cell_length_b       2.780246427005486
+_cell_length_c       9.269045019685157
+_cell_angle_alpha    98.61955817536442
+_cell_angle_beta     98.61673845265103
+_cell_angle_gamma    89.99448015376332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.6116245851335615  0.40288460459741543  0.4037604478952671  1.0000
+  V   V2        1.0  0.8109476019442206  0.6031584090481962  0.8036789042134145  1.0000
+  Zn  Zn1       1.0  0.005808096973905124  0.7987315154191921  0.19383504625933762  1.0000
+  Rh  Rh1       1.0  0.4026432566134886  0.19620631380011933  0.9892845298325373  1.0000
+  Rh  Rh2       1.0  0.20995698159436008  0.0016089071890611642  0.6013506657993314  1.0000

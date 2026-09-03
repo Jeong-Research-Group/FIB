@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2GaIr2
+_chemical_formula_sum              "Mg2 Ga1 Ir2"
+_cell_length_a       3.9610491064047553
+_cell_length_b       5.2242277825372065
+_cell_length_c       5.221257362587193
+_cell_angle_alpha    64.30739511015804
+_cell_angle_beta     67.67773504598529
+_cell_angle_gamma    67.73484800280755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5226706526407404  0.5786948682461965  0.7005943925604139  1.0000
+  Mg  Mg2       1.0  0.1230792335217344  0.975666933032758  0.1023027263298739  1.0000
+  Ga  Ga1       1.0  0.32276175152242365  0.27732430915956907  0.4014869164133138  1.0000
+  Ir  Ir1       1.0  0.8231522278515081  0.5473080047415757  0.13097911458019368  1.0000
+  Ir  Ir2       1.0  0.8224300180900171  0.00734429440250372  0.6718821168313529  1.0000

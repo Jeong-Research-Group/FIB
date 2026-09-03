@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Rb2CdNiO4
+_chemical_formula_sum              "Rb2 Cd1 Ni1 O4"
+_cell_length_a       4.004581541036624
+_cell_length_b       4.026585896186862
+_cell_length_c       8.872711639617002
+_cell_angle_alpha    90.0116504013105
+_cell_angle_beta     90.0121469677946
+_cell_angle_gamma    89.99998512372991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.5220845416033533  0.039462173800044624  0.7208811128769806  1.0000
+  Rb  Rb2       1.0  0.022096406719426403  0.5395373910245006  0.4094064177491454  1.0000
+  Cd  Cd1       1.0  0.02196688689368305  0.539174362914158  0.9904145128535826  1.0000
+  Ni  Ni1       1.0  0.5220401582209925  0.039363397687213704  0.18132113387354207  1.0000
+  O   O1        1.0  0.5221356169902617  0.5393165054765783  0.11731318844585849  1.0000
+  O   O2        1.0  0.022077942945007815  0.5394678294574734  0.7497074410442925  1.0000
+  O   O3        1.0  0.02203788020629973  0.03929634648174737  0.1147442490943658  1.0000
+  O   O4        1.0  0.5220917942967666  0.03950093719940631  0.38122223535620225  1.0000

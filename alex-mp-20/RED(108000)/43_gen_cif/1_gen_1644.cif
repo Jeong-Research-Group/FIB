@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl2GaAu2
+_chemical_formula_sum              "Tl2 Ga1 Au2"
+_cell_length_a       4.285141965086259
+_cell_length_b       4.284499672310397
+_cell_length_c       8.216127197317045
+_cell_angle_alpha    89.99202290500355
+_cell_angle_beta     89.99604286360868
+_cell_angle_gamma    59.99777318280059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.7293157098799885  0.7185735112579378  0.6685626617311076  1.0000
+  Tl  Tl2       1.0  0.06290143905700288  0.05160621241453596  0.352911941593382  1.0000
+  Ga  Ga1       1.0  0.39587814471941907  0.38493679555467575  0.009670042939947264  1.0000
+  Au  Au1       1.0  0.06273819740218896  0.051785704536459976  0.8860342645962511  1.0000
+  Au  Au2       1.0  0.7292335607693851  0.7182632679422866  0.13606781094288914  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Sm2Zn2
+_chemical_formula_sum              "Li2 Sm2 Zn2"
+_cell_length_a       3.4270023298216645
+_cell_length_b       4.760333212643132
+_cell_length_c       8.540426787218337
+_cell_angle_alpha    89.998043312179
+_cell_angle_beta     89.9248565509296
+_cell_angle_gamma    89.99896514521798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.03687563540292736  0.9672399570378662  0.025745848383738612  1.0000
+  Li  Li2       1.0  0.03461551749161348  0.46719078316619783  0.8550028261287559  1.0000
+  Sm  Sm1       1.0  0.5343785289473715  0.9670494861189441  0.6531227801983391  1.0000
+  Sm  Sm2       1.0  0.5363836452891498  0.4671133527728453  0.2281844575586938  1.0000
+  Zn  Zn1       1.0  0.035595206534481734  0.9669633334548244  0.35508212131413136  1.0000
+  Zn  Zn2       1.0  0.03471053519528152  0.4670563157891241  0.5265393166189638  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiAl3Sn2Pt
+_chemical_formula_sum              "Li1 Al3 Sn2 Pt1"
+_cell_length_a       4.330378351930667
+_cell_length_b       4.626644475717554
+_cell_length_c       6.8948365861916985
+_cell_angle_alpha    89.98875271878697
+_cell_angle_beta     89.98190186812337
+_cell_angle_gamma    90.00532643684174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5333564662847124  0.49730390591469437  0.05466834367540877  1.0000
+  Al  Al1       1.0  0.03324091043337737  0.9974731711223958  0.053970645968730295  1.0000
+  Al  Al2       1.0  0.03278971782173983  0.49741658489083695  0.7640951188685994  1.0000
+  Al  Al3       1.0  0.033325535146572285  0.49744009146159424  0.34411460051222875  1.0000
+  Sn  Sn1       1.0  0.5328160821790144  0.9973664033609789  0.7859141205225638  1.0000
+  Sn  Sn2       1.0  0.5333316408705617  0.9975693559999742  0.32199418441797256  1.0000
+  Pt  Pt1       1.0  0.5329808488462165  0.4976125726868912  0.5540808690463148  1.0000

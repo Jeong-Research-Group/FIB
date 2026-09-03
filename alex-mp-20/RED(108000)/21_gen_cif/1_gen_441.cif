@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2RhAuC
+_chemical_formula_sum              "Sr2 Rh1 Au1 C1"
+_cell_length_a       3.887999356299689
+_cell_length_b       5.508255797766531
+_cell_length_c       5.509569420960946
+_cell_angle_alpha    90.01652396823012
+_cell_angle_beta     89.99884290249977
+_cell_angle_gamma    90.01657602686457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.19734240756716606  0.23272685181344677  0.673425846935759  1.0000
+  Sr  Sr2       1.0  0.19666268648024682  0.7335045510280438  0.17360123878514142  1.0000
+  Rh  Rh1       1.0  0.6971596998790756  0.23248620857856622  0.17339135703983205  1.0000
+  Au  Au1       1.0  0.6970159483999786  0.7328499033127891  0.6733633383901132  1.0000
+  C   C1        1.0  0.19750113397670166  0.23307444732807903  0.1733222746794993  1.0000

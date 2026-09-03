@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Si2Ni3W2
+_chemical_formula_sum              "Si2 Ni3 W2"
+_cell_length_a       2.7008376292334484
+_cell_length_b       5.275204366126042
+_cell_length_c       6.576557890955641
+_cell_angle_alpha    104.07861515863519
+_cell_angle_beta     89.99566874421289
+_cell_angle_gamma    104.83121862719534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.07699295310742296  0.2029467957373628  0.2217784752182013  1.0000
+  Si  Si2       1.0  0.21508134309218563  0.4793367636596502  0.7322306757875208  1.0000
+  Ni  Ni1       1.0  0.38490325756494725  0.8188246258927222  0.12698984059820365  1.0000
+  Ni  Ni2       1.0  0.6718812594280176  0.39298184899436994  0.9955825330876648  1.0000
+  Ni  Ni3       1.0  0.5446288598115425  0.13841260450923554  0.5084171184919775  1.0000
+  W   W1        1.0  0.801008764871151  0.6513461149458714  0.4160401832571987  1.0000
+  W   W2        1.0  0.9442544330989957  0.9374986126997854  0.8049045319832343  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaAs2Pd2
+_chemical_formula_sum              "La1 As2 Pd2"
+_cell_length_a       4.638247037084362
+_cell_length_b       4.638780972798479
+_cell_length_c       5.730368614196777
+_cell_angle_alpha    113.84365876895077
+_cell_angle_beta     113.82750609533362
+_cell_angle_gamma    90.04273927569686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6036276817321777  0.1542247235774994  0.20931485295295715  1.0000
+  As  As1       1.0  0.3531559705734253  0.4041828513145447  0.7097882628440857  1.0000
+  As  As2       1.0  0.8536928296089172  0.90451979637146  0.7096287608146667  1.0000
+  Pd  Pd1       1.0  0.9605138301849365  0.5117218494415284  0.923833966255188  1.0000
+  Pd  Pd2       1.0  0.24600408971309662  0.797275722026825  0.4955325126647949  1.0000

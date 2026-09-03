@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mn2Co2Si2H
+_chemical_formula_sum              "Mn2 Co2 Si2 H1"
+_cell_length_a       3.497952259068701
+_cell_length_b       3.4995957382805516
+_cell_length_c       6.081914389472254
+_cell_angle_alpha    90.00422575582238
+_cell_angle_beta     90.0107128054506
+_cell_angle_gamma    90.03064036218169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9368062956239888  0.30883007755594766  0.15791616722024993  1.0000
+  Mn  Mn2       1.0  0.4369315726490646  0.8087990653081952  0.8596758420197561  1.0000
+  Co  Co1       1.0  0.4366179780457424  0.308917644027948  0.5108211073245177  1.0000
+  Co  Co2       1.0  0.9365010450190353  0.8089161307064849  0.5106541047262202  1.0000
+  Si  Si1       1.0  0.9369439021653193  0.30886830388996417  0.7741628892691237  1.0000
+  Si  Si2       1.0  0.4362987921575057  0.8088737577148294  0.2556356143328223  1.0000
+  H   H1        1.0  0.9364083300554477  0.30893434564979144  0.4531616221628586  1.0000

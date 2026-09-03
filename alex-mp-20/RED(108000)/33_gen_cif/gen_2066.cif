@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaNaCa2Rh
+_chemical_formula_sum              "Ca3 Na1 Rh1"
+_cell_length_a       5.590218549966877
+_cell_length_b       5.591020822949066
+_cell_length_c       5.594095706939697
+_cell_angle_alpha    90.04427579006587
+_cell_angle_beta     90.02381254590622
+_cell_angle_gamma    90.05280669906365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5922275185585022  0.21661728620529175  0.6010518074035645  1.0000
+  Na  Na1       1.0  0.09238229691982269  0.21630574762821198  0.10038693994283676  1.0000
+  Ca  Ca2       1.0  0.09223973751068115  0.7163786292076112  0.6008830070495605  1.0000
+  Ca  Ca3       1.0  0.5923479199409485  0.7164703607559204  0.10107150673866272  1.0000
+  Rh  Rh1       1.0  0.5921602249145508  0.7163588404655455  0.6013145446777344  1.0000

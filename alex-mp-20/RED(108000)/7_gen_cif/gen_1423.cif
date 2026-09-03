@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2PdMg2Pd2Hg
+_chemical_formula_sum              "Pr2 Pd3 Mg2 Hg1"
+_cell_length_a       4.964364291240503
+_cell_length_b       4.963920909061647
+_cell_length_c       8.643296241760254
+_cell_angle_alpha    73.38806674961016
+_cell_angle_beta     73.4139193488026
+_cell_angle_gamma    60.014114145553165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5501049757003784  0.11815759539604188  0.04203614592552185  1.0000
+  Pr  Pr2       1.0  0.043613217771053314  0.6111096739768982  0.5639681816101074  1.0000
+  Pd  Pd1       1.0  0.17136387526988978  0.739177405834198  0.1780869960784912  1.0000
+  Mg  Mg1       1.0  0.2936500608921051  0.8620487451553345  0.8112669587135315  1.0000
+  Mg  Mg2       1.0  0.80069100856781  0.36898478865623474  0.29098352789878845  1.0000
+  Pd  Pd2       1.0  0.9213624000549316  0.4893230795860291  0.9294338226318359  1.0000
+  Pd  Pd3       1.0  0.6720588803291321  0.23923157155513763  0.6790573000907898  1.0000
+  Hg  Hg1       1.0  0.42313459515571583  0.990830957889557  0.4241706132888794  1.0000

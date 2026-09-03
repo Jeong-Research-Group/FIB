@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2LiBeP2
+_chemical_formula_sum              "Rb2 Li1 Be1 P2"
+_cell_length_a       4.092489140609688
+_cell_length_b       4.09249900329575
+_cell_length_c       9.739163869441079
+_cell_angle_alpha    90.0148976677293
+_cell_angle_beta     90.01593071725776
+_cell_angle_gamma    89.99967394641989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.40569976265522445  0.47001350243431106  0.8837877012098241  1.0000
+  Rb  Rb2       1.0  0.9049245942371462  0.9692055522402905  0.2962346409797868  1.0000
+  Li  Li1       1.0  0.40537211155260133  0.9695616629089814  0.5900102391586858  1.0000
+  Be  Be1       1.0  0.9052774712250975  0.4696302859369604  0.5900130769088267  1.0000
+  P   P1        1.0  0.4050802521668348  0.4695182729271775  0.4680494059522108  1.0000
+  P   P2        1.0  0.9054326394960867  0.9698177744335101  0.7119727555821396  1.0000

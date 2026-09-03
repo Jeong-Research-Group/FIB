@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta3HOs
+_chemical_formula_sum              "Ta3 H1 Os1"
+_cell_length_a       2.8857057882725607
+_cell_length_b       2.88570459205766
+_cell_length_c       8.9283163083508
+_cell_angle_alpha    89.93539366189334
+_cell_angle_beta     89.91370620921496
+_cell_angle_gamma    75.22498241128865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.2835833053087018  0.9195754091192034  0.087685583421768  1.0000
+  Ta  Ta2       1.0  0.7828604127080898  0.42109701423302975  0.8316714441283937  1.0000
+  Ta  Ta3       1.0  0.7838589124665071  0.4184953949122217  0.34345223305401223  1.0000
+  H   H1        1.0  0.7845610812149798  0.4220897213301244  0.5860622450771723  1.0000
+  Os  Os1       1.0  0.28312604781423123  0.920457608652417  0.5880595087781375  1.0000

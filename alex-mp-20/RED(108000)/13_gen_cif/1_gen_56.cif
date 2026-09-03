@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4ZnPd3
+_chemical_formula_sum              "Li4 Zn1 Pd3"
+_cell_length_a       4.2593209924927375
+_cell_length_b       4.259500669551361
+_cell_length_c       6.016457668804641
+_cell_angle_alpha    89.99113143424181
+_cell_angle_beta     89.98362060531198
+_cell_angle_gamma    89.8358326877872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.75630035553469  0.1449384685067232  0.6751038717673066  1.0000
+  Li  Li2       1.0  0.7562071255002265  0.14583826443779713  0.15883370717731  1.0000
+  Li  Li3       1.0  0.2560423241570949  0.6466088575028343  0.15817548912936225  1.0000
+  Li  Li4       1.0  0.25615180690916817  0.6463930307160106  0.6754930461951585  1.0000
+  Zn  Zn1       1.0  0.7560922154023687  0.6455710437433141  0.41616411314214885  1.0000
+  Pd  Pd1       1.0  0.25606515405739544  0.1462278691448056  0.9170125442481262  1.0000
+  Pd  Pd2       1.0  0.7563931261592263  0.6451970152316722  0.916361615692306  1.0000
+  Pd  Pd3       1.0  0.25616425815105653  0.1464566964171092  0.41683927105111934  1.0000

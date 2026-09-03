@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mo2WSe5
+_chemical_formula_sum              "Mo2 W1 Se5"
+_cell_length_a       3.310000228014647
+_cell_length_b       3.309848555111815
+_cell_length_c       18.69479482096336
+_cell_angle_alpha    89.98206374991706
+_cell_angle_beta     89.96944255894552
+_cell_angle_gamma    119.99704313380408
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.5662349043259366  0.1894153166075075  0.5616332908966009  1.0000
+  Mo  Mo2       1.0  0.566349179058481  0.193776398606986  0.15833870621836466  1.0000
+  W   W1        1.0  0.5676032097342107  0.19318780737881297  0.9591805215941481  1.0000
+  Se  Se1       1.0  0.23234343443016128  0.526766039722235  0.2470001442984219  1.0000
+  Se  Se2       1.0  0.23355104630051962  0.5231721056004838  0.4719484143075318  1.0000
+  Se  Se3       1.0  0.234590707209846  0.5270014622936852  0.05605242093943705  1.0000
+  Se  Se4       1.0  0.2343098248647655  0.5266273640160948  0.8691817337431706  1.0000
+  Se  Se5       1.0  0.232227440300595  0.5223170684958424  0.6512951611491523  1.0000

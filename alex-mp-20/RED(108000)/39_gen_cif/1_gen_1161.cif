@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2CuPd
+_chemical_formula_sum              "Lu2 Cu1 Pd1"
+_cell_length_a       3.4275279534419085
+_cell_length_b       4.8193728528103446
+_cell_length_c       4.819681920158523
+_cell_angle_alpha    89.98040647774121
+_cell_angle_beta     89.98811826461899
+_cell_angle_gamma    89.96110669507404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.2555378505855028  0.9932021477190864  0.18333328162492027  1.0000
+  Lu  Lu2       1.0  0.2555484288249748  0.4931211751994336  0.683554223393116  1.0000
+  Cu  Cu1       1.0  0.7555733132706747  0.9927439648498921  0.6833886665795873  1.0000
+  Pd  Pd1       1.0  0.7553977904312533  0.49289212275265687  0.18378782462444704  1.0000

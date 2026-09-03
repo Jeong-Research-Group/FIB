@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4GaTeAs2
+_chemical_formula_sum              "Sm4 Ga1 Te1 As2"
+_cell_length_a       4.1953288090707375
+_cell_length_b       7.427302314430369
+_cell_length_c       7.562320791191205
+_cell_angle_alpha    108.4520229282664
+_cell_angle_beta     90.00103123939631
+_cell_angle_gamma    89.99854708914145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.3785009845123016  0.6277852797964706  0.02220917921666154  1.0000
+  Sm  Sm2       1.0  0.3785045806147911  0.1527774870713016  0.5636567119893282  1.0000
+  Sm  Sm3       1.0  0.8783820223345501  0.13653937069383984  0.024545465692283545  1.0000
+  Sm  Sm4       1.0  0.8784261468165699  0.6440098847682673  0.5612584242697035  1.0000
+  Ga  Ga1       1.0  0.3783874754283916  0.3902805694872869  0.29285916455214206  1.0000
+  Te  Te1       1.0  0.8785353243977359  0.8902377072798975  0.2929244854475326  1.0000
+  As  As1       1.0  0.37841184350920115  0.8902391706297806  0.7929777023808323  1.0000
+  As  As2       1.0  0.8785213494323468  0.3902509860167318  0.7929225917376153  1.0000

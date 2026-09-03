@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Mn2Co2
+_chemical_formula_sum              "Zr2 Mn2 Co2"
+_cell_length_a       3.8946405858094146
+_cell_length_b       5.844505475908684
+_cell_length_c       4.883103650953082
+_cell_angle_alpha    127.60238423490756
+_cell_angle_beta     90.00008235511436
+_cell_angle_gamma    90.00025347494791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5974238179560883  0.30260746980392317  0.15343310163048202  1.0000
+  Zr  Zr2       1.0  0.09744260788072825  0.4356651275887628  0.7646511853641145  1.0000
+  Mn  Mn1       1.0  0.5973556804179642  0.8979504228733496  0.3684569555800099  1.0000
+  Mn  Mn2       1.0  0.0973364237168281  0.839953152937061  0.5496814915598062  1.0000
+  Co  Co1       1.0  0.09740588137007672  0.9800573968009744  0.14831655519372092  1.0000
+  Co  Co2       1.0  0.5974006392310409  0.7583432926064542  0.7702760907761933  1.0000

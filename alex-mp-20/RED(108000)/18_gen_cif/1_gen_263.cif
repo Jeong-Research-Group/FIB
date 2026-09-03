@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiAg2SBr3
+_chemical_formula_sum              "Ni1 Ag2 S1 Br3"
+_cell_length_a       3.791416963936482
+_cell_length_b       6.004916887820804
+_cell_length_c       8.38589758110809
+_cell_angle_alpha    89.39535993465068
+_cell_angle_beta     90.02713181381142
+_cell_angle_gamma    90.00223998744909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.3762282023426128  0.32252446712524135  0.4037813204991513  1.0000
+  Ag  Ag1       1.0  0.8768236158792447  0.8869602489003627  0.6356489206717042  1.0000
+  Ag  Ag2       1.0  0.8754752469616828  0.8929674223031142  0.17304437895992406  1.0000
+  S   S1        1.0  0.8762169729427531  0.1460923889887752  0.40264621568536557  1.0000
+  Br  Br1       1.0  0.3760677204433534  0.5618354406856898  0.17466995266316432  1.0000
+  Br  Br2       1.0  0.37642276164745575  0.5586556021637167  0.6306229050676393  1.0000
+  Br  Br3       1.0  0.8768824815768634  0.10334018022095899  0.901607386132619  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdCePdLu2Pd
+_chemical_formula_sum              "Pd3 Ce1 Lu2"
+_cell_length_a       4.970984779707918
+_cell_length_b       4.970983135181679
+_cell_length_c       6.178141117095947
+_cell_angle_alpha    89.98812480560025
+_cell_angle_beta     89.97941631358948
+_cell_angle_gamma    119.9863686789328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.2536698579788208  0.7941532135009766  0.691943347454071  1.0000
+  Ce  Ce1       1.0  0.5869407653808594  0.461258202791214  0.8876714706420898  1.0000
+  Pd  Pd2       1.0  0.5864722728729248  0.4618133008480072  0.3865472972393036  1.0000
+  Lu  Lu1       1.0  0.9201560020446777  0.12828734517097473  0.5527235269546509  1.0000
+  Lu  Lu2       1.0  0.25343266129493713  0.7945830225944519  0.22599388659000397  1.0000
+  Pd  Pd3       1.0  0.9199265837669373  0.12814825773239136  0.08706048876047134  1.0000

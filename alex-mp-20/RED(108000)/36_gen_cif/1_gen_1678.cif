@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiLa2SeN
+_chemical_formula_sum              "Li1 La2 Se1 N1"
+_cell_length_a       4.067990520665504
+_cell_length_b       5.0772419026047535
+_cell_length_c       5.077560006755026
+_cell_angle_alpha    90.01798246078198
+_cell_angle_beta     90.00009092767853
+_cell_angle_gamma    90.00198463397285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9432107086551474  0.8729856935236477  0.19131550425011246  1.0000
+  La  La1       1.0  0.44411017737516895  0.37226118827587545  0.19176422377880176  1.0000
+  La  La2       1.0  0.44342279584281796  0.8727091523589626  0.6913264580998449  1.0000
+  Se  Se1       1.0  0.9442275978999078  0.372400700780796  0.6916234287917945  1.0000
+  N   N1        1.0  0.44360228937034174  0.8729682039970159  0.1918597186732678  1.0000

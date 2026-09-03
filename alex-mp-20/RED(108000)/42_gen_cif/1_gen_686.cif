@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tm2CuSi3
+_chemical_formula_sum              "Tm2 Cu1 Si3"
+_cell_length_a       3.9384750819480057
+_cell_length_b       4.024778390755651
+_cell_length_c       6.885744297390701
+_cell_angle_alpha    90.00174060995172
+_cell_angle_beta     89.99303153108171
+_cell_angle_gamma    89.99598651769212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.31132356116465726  0.0032173863763985803  0.5137299159668434  1.0000
+  Tm  Tm2       1.0  0.31127580918011066  0.5030883792478295  0.023330719017665022  1.0000
+  Cu  Cu1       1.0  0.8111346201646958  0.5033139645366895  0.6897530225849223  1.0000
+  Si  Si1       1.0  0.8111423894618626  0.5032164893401414  0.3606797794992575  1.0000
+  Si  Si2       1.0  0.811376485440068  0.0033086741841717175  0.8433250293693251  1.0000
+  Si  Si3       1.0  0.8111387194718946  0.0032259707820574005  0.18227499251157642  1.0000

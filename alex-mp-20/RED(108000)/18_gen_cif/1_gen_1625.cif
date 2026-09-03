@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KSn2Hg3
+_chemical_formula_sum              "K1 Sn2 Hg3"
+_cell_length_a       4.455136941362698
+_cell_length_b       5.839380654713824
+_cell_length_c       8.453658665551066
+_cell_angle_alpha    90.75025052050795
+_cell_angle_beta     105.32334614929802
+_cell_angle_gamma    90.01387750689351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.279337166758487  0.8892754135662829  0.4947873117524816  1.0000
+  Sn  Sn1       1.0  0.9675872263421447  0.6405947758628553  0.8739611582023467  1.0000
+  Sn  Sn2       1.0  0.5898201456681595  0.6364723467686689  0.11759146083815551  1.0000
+  Hg  Hg1       1.0  0.5991594235790634  0.12934203390406068  0.1348858385087137  1.0000
+  Hg  Hg2       1.0  0.7802669604326121  0.39267029124804587  0.4965905512349957  1.0000
+  Hg  Hg3       1.0  0.9570193117249755  0.13321282186935227  0.8511207488206223  1.0000

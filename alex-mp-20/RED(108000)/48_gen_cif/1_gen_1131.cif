@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2BiPb
+_chemical_formula_sum              "Li2 Bi1 Pb1"
+_cell_length_a       3.60663498192291
+_cell_length_b       5.107807077486168
+_cell_length_c       5.108252057912101
+_cell_angle_alpha    89.9996193678705
+_cell_angle_beta     90.00207144524498
+_cell_angle_gamma    90.00075490611788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6047178413605203  0.6628955483033195  0.5306772685069658  1.0000
+  Li  Li2       1.0  0.6046682289884844  0.1622753490739355  0.030669420749090074  1.0000
+  Bi  Bi1       1.0  0.10470054380250673  0.16248626892900372  0.5306258725674338  1.0000
+  Pb  Pb1       1.0  0.1047220478010623  0.662568668296437  0.03083845620141946  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb3BiSb2O
+_chemical_formula_sum              "Tb3 Bi1 Sb2 O1"
+_cell_length_a       4.652544987242037
+_cell_length_b       4.652597478989961
+_cell_length_c       9.016642429399223
+_cell_angle_alpha    104.82676431059161
+_cell_angle_beta     104.90519846712887
+_cell_angle_gamma    89.99981504836292
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4211720344501682  0.7508662049603018  0.5551361133966262  1.0000
+  Tb  Tb2       1.0  0.5946347876108147  0.42369223009642154  0.902890924519962  1.0000
+  Tb  Tb3       1.0  0.09465191455880081  0.9237063995846412  0.9029014572915363  1.0000
+  Bi  Bi1       1.0  0.7508618145040349  0.0793317648138732  0.21590065019161467  1.0000
+  Sb  Sb1       1.0  0.22596783246601065  0.5546565978017197  0.1659695826479305  1.0000
+  Sb  Sb2       1.0  0.9608421604865189  0.2903596568261612  0.6347186510323909  1.0000
+  O   O1        1.0  0.5531115963776045  0.8822488053461714  0.8197922634174309  1.0000

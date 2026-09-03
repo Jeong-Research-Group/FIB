@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Ni2Ge2
+_chemical_formula_sum              "Lu2 Ni2 Ge2"
+_cell_length_a       4.174485555807762
+_cell_length_b       4.17406469598445
+_cell_length_c       6.907176329793898
+_cell_angle_alpha    90.01642130870029
+_cell_angle_beta     90.02399520214323
+_cell_angle_gamma    120.00296416075273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.750595453158695  0.07538925178020639  0.04628172366881338  1.0000
+  Lu  Lu2       1.0  0.7507082874824914  0.07567954907483644  0.5463327645425254  1.0000
+  Ni  Ni1       1.0  0.08404751020107812  0.7422929361895831  0.29588182908042315  1.0000
+  Ni  Ni2       1.0  0.41723376722902356  0.4091005841229837  0.7964483759826188  1.0000
+  Ge  Ge1       1.0  0.4173813329838712  0.40900693913040664  0.2965787671147543  1.0000
+  Ge  Ge2       1.0  0.08393113698009619  0.7423834388686298  0.7962895004851828  1.0000

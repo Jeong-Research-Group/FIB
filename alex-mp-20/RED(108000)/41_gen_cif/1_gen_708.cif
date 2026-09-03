@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlNi2HPt
+_chemical_formula_sum              "Al1 Ni2 H1 Pt1"
+_cell_length_a       3.7117385043410254
+_cell_length_b       3.7090344843286465
+_cell_length_c       3.8530436986252874
+_cell_angle_alpha    90.00277104325828
+_cell_angle_beta     89.98972990480051
+_cell_angle_gamma    90.01893766955222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.02575606815635432  0.1063168156812177  0.15719161628184916  1.0000
+  Ni  Ni1       1.0  0.02570180343947134  0.6063666612774425  0.6571434584460472  1.0000
+  Ni  Ni2       1.0  0.5249956054377071  0.10619515807878128  0.6573716302872081  1.0000
+  H   H1        1.0  0.5251549858877896  0.6060531594162011  0.6573150873245742  1.0000
+  Pt  Pt1       1.0  0.5254382756219742  0.6063872877282865  0.15715362433677904  1.0000

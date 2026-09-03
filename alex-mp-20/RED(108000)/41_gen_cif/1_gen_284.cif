@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiCa4PBr2
+_chemical_formula_sum              "Li1 Ca4 P1 Br2"
+_cell_length_a       4.167116226628539
+_cell_length_b       7.768073533690879
+_cell_length_c       7.532501324574759
+_cell_angle_alpha    107.70935171083654
+_cell_angle_beta     90.00704949395976
+_cell_angle_gamma    90.00579452735823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.051722676897422895  0.06970394859960312  0.3608344149282727  1.0000
+  Ca  Ca1       1.0  0.05216603439393649  0.2827277435635146  0.07837195994985936  1.0000
+  Ca  Ca2       1.0  0.05170926055930654  0.8562775084444778  0.6425321381538467  1.0000
+  Ca  Ca3       1.0  0.551733386512844  0.29886899005227086  0.6283181410119373  1.0000
+  Ca  Ca4       1.0  0.5518709152662841  0.841330938805075  0.09277988101354864  1.0000
+  P   P1        1.0  0.5519588054070603  0.06978884720561795  0.8602430804769651  1.0000
+  Br  Br1       1.0  0.551661478487883  0.5693577869981791  0.3601031278183746  1.0000
+  Br  Br2       1.0  0.0518130117414657  0.5700157222540604  0.8611326800277469  1.0000

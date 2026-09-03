@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr3Sc2Zn
+_chemical_formula_sum              "Pr3 Sc2 Zn1"
+_cell_length_a       3.6767285244963075
+_cell_length_b       3.6767351011259137
+_cell_length_c       12.981182250182373
+_cell_angle_alpha    90.00341294413937
+_cell_angle_beta     90.02880318597008
+_cell_angle_gamma    90.00341174652335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.22851095211642228  0.10990337842156611  0.9048220267168706  1.0000
+  Pr  Pr2       1.0  0.23063235375103286  0.11045633586886704  0.19563675970239142  1.0000
+  Pr  Pr3       1.0  0.22954008234019058  0.11054605397265002  0.5495397892937721  1.0000
+  Sc  Sc1       1.0  0.7312557091794689  0.6106509349546719  0.3752558735854967  1.0000
+  Sc  Sc2       1.0  0.7295777481792197  0.6099657267383233  0.7248877152072899  1.0000
+  Zn  Zn1       1.0  0.7295813049951827  0.6100210682968809  0.049616527764681194  1.0000

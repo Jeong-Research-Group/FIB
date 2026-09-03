@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg2CaO2HgO2
+_chemical_formula_sum              "Hg3 Ca1 O4"
+_cell_length_a       6.011939534112584
+_cell_length_b       4.917420735762224
+_cell_length_c       6.017611026763916
+_cell_angle_alpha    65.92889833657601
+_cell_angle_beta     48.296361549603304
+_cell_angle_gamma    65.95440247490339
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.03514443710446358  0.4738272726535797  0.8743048906326294  1.0000
+  Hg  Hg2       1.0  0.7846240401268005  0.2220308929681778  0.6248180866241455  1.0000
+  Ca  Ca1       1.0  0.534820318222046  0.973419964313507  0.37449103593826294  1.0000
+  O   O1        1.0  0.535669207572937  0.4735173285007476  0.37385207414627075  1.0000
+  O   O2        1.0  0.7826504707336426  0.726785659790039  0.6219683885574341  1.0000
+  Hg  Hg3       1.0  0.28548669815063477  0.7240447402000427  0.12340734153985977  1.0000
+  O   O3        1.0  0.28886935114860535  0.2213126718997955  0.1264579892158508  1.0000
+  O   O4        1.0  0.03503661230206488  0.9736992716789246  0.8739541172981262  1.0000

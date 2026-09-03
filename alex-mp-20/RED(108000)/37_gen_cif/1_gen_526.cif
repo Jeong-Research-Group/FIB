@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2InFeN
+_chemical_formula_sum              "Mg2 In1 Fe1 N1"
+_cell_length_a       3.6260764570380126
+_cell_length_b       4.5577508023643825
+_cell_length_c       4.557431567373832
+_cell_angle_alpha    90.0155181414565
+_cell_angle_beta     89.9989678164434
+_cell_angle_gamma    90.0027902853162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9460765416694026  0.15593362651292503  0.6354469474845332  1.0000
+  Mg  Mg2       1.0  0.9461074535975282  0.6557874940056064  0.13542584596920113  1.0000
+  In  In1       1.0  0.4459620631888273  0.15577782932282344  0.135636539600908  1.0000
+  Fe  Fe1       1.0  0.44585925612460775  0.6560652480018647  0.6354063774087807  1.0000
+  N   N1        1.0  0.9458238194728522  0.6559455117497239  0.6355018518304926  1.0000

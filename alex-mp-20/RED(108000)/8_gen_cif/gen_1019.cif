@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HoTe2O2Ho2Cu
+_chemical_formula_sum              "Ho3 Te2 O2 Cu1"
+_cell_length_a       3.9748568067463257
+_cell_length_b       3.999534555202472
+_cell_length_c       10.725044250488281
+_cell_angle_alpha    89.95673325348133
+_cell_angle_beta     90.02665390169916
+_cell_angle_gamma    90.06187035306318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9288475513458252  0.424948662519455  0.6942968964576721  1.0000
+  Te  Te1       1.0  0.9280843138694763  0.4244674444198609  0.08926589787006377  1.0000
+  Te  Te2       1.0  0.42825746536254883  0.4240068197250367  0.46097803115844727  1.0000
+  O   O1        1.0  0.9303088784217834  0.9249473214149475  0.788885235786438  1.0000
+  O   O2        1.0  0.4296303689479828  0.42567276954650884  0.7950946688652039  1.0000
+  Ho  Ho2       1.0  0.43048781156539917  0.9254413247108461  0.8900457620620728  1.0000
+  Ho  Ho3       1.0  0.4281928539276123  0.9232143759727479  0.23631419241428375  1.0000
+  Cu  Cu1       1.0  0.9279393553733826  0.9227342605590821  0.4593600630760193  1.0000

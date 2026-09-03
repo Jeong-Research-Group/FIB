@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4Pb2Au2
+_chemical_formula_sum              "Tb4 Pb2 Au2"
+_cell_length_a       3.7324623025562467
+_cell_length_b       7.382371227614921
+_cell_length_c       8.274172174504423
+_cell_angle_alpha    89.99954371814044
+_cell_angle_beta     90.00038242925952
+_cell_angle_gamma    105.23280070335923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.29176648891663715  0.3123020433045515  0.2854057890653331  1.0000
+  Tb  Tb2       1.0  0.01996260666148267  0.774430312660301  0.2703880157160073  1.0000
+  Tb  Tb3       1.0  0.2917758099070431  0.3123034905656712  0.7703966337535996  1.0000
+  Tb  Tb4       1.0  0.019952214655030137  0.7744266108231344  0.785404736012222  1.0000
+  Pb  Pb1       1.0  0.6667593363372408  0.06465773303198642  0.02789497745309755  1.0000
+  Pb  Pb2       1.0  0.6450008265446164  0.02211561429158726  0.5278855571403177  1.0000
+  Au  Au1       1.0  0.8802244426781793  0.48298618236039503  0.5278852651230106  1.0000
+  Au  Au2       1.0  0.43151832466011697  0.6037555562775624  0.0278973494572327  1.0000

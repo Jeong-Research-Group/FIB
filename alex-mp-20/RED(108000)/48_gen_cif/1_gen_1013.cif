@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiSnSe2
+_chemical_formula_sum              "Li1 Sn1 Se2"
+_cell_length_a       4.060861072827813
+_cell_length_b       4.059542349511724
+_cell_length_c       5.584385796896673
+_cell_angle_alpha    89.98964937143997
+_cell_angle_beta     90.00282449923439
+_cell_angle_gamma    89.99840169654709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9209200098424979  0.8782097516689159  0.18646485312029815  1.0000
+  Sn  Sn1       1.0  0.4211550066668649  0.3785475233142769  0.6870111637196098  1.0000
+  Se  Se1       1.0  0.9206273866549504  0.8783326148157589  0.6865979380709514  1.0000
+  Se  Se2       1.0  0.4207253788395475  0.3773390207286266  0.18658629116986053  1.0000

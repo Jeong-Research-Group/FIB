@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeGaSn2Ir2
+_chemical_formula_sum              "Be1 Ga1 Sn2 Ir2"
+_cell_length_a       3.708533487616821
+_cell_length_b       3.6942309150639967
+_cell_length_c       7.345204650289715
+_cell_angle_alpha    89.99796820659488
+_cell_angle_beta     89.98772570001752
+_cell_angle_gamma    89.99680592718083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.06039273174701206  0.09570913944438506  0.06108502942849593  1.0000
+  Ga  Ga1       1.0  0.5610090634495872  0.5956782574495841  0.06374137417311453  1.0000
+  Sn  Sn1       1.0  0.560727817201671  0.09542749173451653  0.426916792095988  1.0000
+  Sn  Sn2       1.0  0.06070324656402777  0.5956915210010977  0.6995093465493181  1.0000
+  Ir  Ir1       1.0  0.06068435021346993  0.5956209959183171  0.3006152713181528  1.0000
+  Ir  Ir2       1.0  0.560670869475443  0.09571287672570891  0.8254087484460673  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2VGaC2
+_chemical_formula_sum              "Zr2 V1 Ga1 C2"
+_cell_length_a       3.858358381420636
+_cell_length_b       3.8602256238076174
+_cell_length_c       5.960476458800346
+_cell_angle_alpha    89.99812706278014
+_cell_angle_beta     89.99661150291794
+_cell_angle_gamma    89.99531609007406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5878579363913334  0.1294829365376184  0.8507381538158804  1.0000
+  Zr  Zr2       1.0  0.5882057620167881  0.12920358870062038  0.32263682583480724  1.0000
+  V   V1        1.0  0.08812997336005984  0.6293798362348497  0.0863150486655031  1.0000
+  Ga  Ga1       1.0  0.08801697645279953  0.628784550325435  0.5869127259068664  1.0000
+  C   C1        1.0  0.5880771769406797  0.6293778861058181  0.08681717976122484  1.0000
+  C   C2        1.0  0.08806019740133782  0.1292517711381737  0.08678142321291203  1.0000

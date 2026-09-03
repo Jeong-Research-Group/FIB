@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiFe2SnO
+_chemical_formula_sum              "Li1 Fe2 Sn1 O1"
+_cell_length_a       4.293682982932823
+_cell_length_b       4.293005259118704
+_cell_length_c       3.8769581318493564
+_cell_angle_alpha    90.00001274318419
+_cell_angle_beta     90.00026699389625
+_cell_angle_gamma    89.99991271435415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6314901147017771  0.02817219469393967  0.2798104101661588  1.0000
+  Fe  Fe1       1.0  0.631464398287044  0.5281576173056413  0.7798001507613254  1.0000
+  Fe  Fe2       1.0  0.1314575393107302  0.028316508987663788  0.7798457495578671  1.0000
+  Sn  Sn1       1.0  0.13144470190596072  0.5282324879332233  0.27974884046065046  1.0000
+  O   O1        1.0  0.6314487861124809  0.02813188886356833  0.7797843784480045  1.0000

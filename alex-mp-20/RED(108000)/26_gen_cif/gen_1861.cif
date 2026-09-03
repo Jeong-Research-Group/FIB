@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiYRhNiC
+_chemical_formula_sum              "Ni2 Y1 Rh1 C1"
+_cell_length_a       4.0253220096349525
+_cell_length_b       4.129902103434115
+_cell_length_c       4.033165454864502
+_cell_angle_alpha    90.04314881278013
+_cell_angle_beta     90.0089568828378
+_cell_angle_gamma    90.01501526096918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6969684362411499  0.21343733370304108  0.9882756471633911  1.0000
+  Y   Y1        1.0  0.6969860792160034  0.7126725316047668  0.48838362097740173  1.0000
+  Rh  Rh1       1.0  0.19702354073524475  0.714741051197052  0.9881827235221863  1.0000
+  Ni  Ni2       1.0  0.19672486186027527  0.2136836051940918  0.48810210824012756  1.0000
+  C   C1        1.0  0.19647091627120972  0.21327781677246094  0.9882891178131104  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2MgReN
+_chemical_formula_sum              "Lu2 Mg1 Re1 N1"
+_cell_length_a       3.9207486478993965
+_cell_length_b       4.843385723703806
+_cell_length_c       4.843388212008181
+_cell_angle_alpha    90.00200119475673
+_cell_angle_beta     89.99818746465331
+_cell_angle_gamma    90.00738981554078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.06898039563547347  0.49380027460688314  0.2532799231574588  1.0000
+  Lu  Lu2       1.0  0.06933241894711498  0.9936150397141774  0.7533704447064256  1.0000
+  Mg  Mg1       1.0  0.5694118404663121  0.9938587585121282  0.2532624775159835  1.0000
+  Re  Re1       1.0  0.5694823703166414  0.49360659134717366  0.753084726055411  1.0000
+  N   N1        1.0  0.0695165149233221  0.49362993329196925  0.7531683703555473  1.0000

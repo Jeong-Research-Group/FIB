@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2CoNi2
+_chemical_formula_sum              "Y2 Co1 Ni2"
+_cell_length_a       3.9869381757638287
+_cell_length_b       3.9864575182893427
+_cell_length_c       7.158731738246178
+_cell_angle_alpha    73.82285080822014
+_cell_angle_beta     73.82423806168813
+_cell_angle_gamma    59.983769902858576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.8882499295456169  0.2545932759267208  0.08322677673067122  1.0000
+  Y   Y2        1.0  0.7089776237604598  0.07455857338101735  0.621871676780014  1.0000
+  Co  Co1       1.0  0.1348404983296715  0.5006398801286943  0.3442914109984646  1.0000
+  Ni  Ni1       1.0  0.2979699572010908  0.6641190142397737  0.8541830765710783  1.0000
+  Ni  Ni2       1.0  0.46351558514733604  0.8293559136417514  0.3578801345234511  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Rb2Na2PtO2
+_chemical_formula_sum              "Rb2 Na2 Pt1 O2"
+_cell_length_a       4.0115901350661
+_cell_length_b       9.025602893220684
+_cell_length_c       6.601645126540344
+_cell_angle_alpha    83.20124410711291
+_cell_angle_beta     107.68632940484514
+_cell_angle_gamma    102.95758010719689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.29233098288086695  0.3161488268645654  0.38702969918574415  1.0000
+  Rb  Rb2       1.0  0.21658391226171025  0.7316421039252787  0.8253559318965764  1.0000
+  Na  Na1       1.0  0.05392649537040748  0.9614204632668408  0.2681980089513323  1.0000
+  Na  Na2       1.0  0.4553897220668491  0.08628625694071532  0.9451869890498874  1.0000
+  Pt  Pt1       1.0  0.7547451930357527  0.023977403451655246  0.6066305405001272  1.0000
+  O   O1        1.0  0.6445677576620765  0.10690058323642396  0.30272016244031963  1.0000
+  O   O2        1.0  0.8648950013161677  0.9410606923423003  0.9105558125582182  1.0000

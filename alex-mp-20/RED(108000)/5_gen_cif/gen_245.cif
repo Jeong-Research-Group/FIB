@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtHAg2Pt
+_chemical_formula_sum              "Pt2 H1 Ag2"
+_cell_length_a       4.010388880373564
+_cell_length_b       4.016272168581441
+_cell_length_c       4.35558557510376
+_cell_angle_alpha    89.80816299692312
+_cell_angle_beta     89.8780153346708
+_cell_angle_gamma    89.76089125398985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.5758731961250305  0.1361665576696396  0.0788753405213356  1.0000
+  H   H1        1.0  0.5760086178779602  0.6361268758773804  0.07917780429124832  1.0000
+  Ag  Ag1       1.0  0.07698049396276474  0.13620604574680328  0.5798916220664978  1.0000
+  Ag  Ag2       1.0  0.5772753953933716  0.6365154981613159  0.5799815654754639  1.0000
+  Pt  Pt2       1.0  0.07657710462808609  0.6361502408981323  0.07979410886764526  1.0000

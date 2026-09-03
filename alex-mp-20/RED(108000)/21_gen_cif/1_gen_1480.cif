@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCd4Hg
+_chemical_formula_sum              "Sr1 Cd4 Hg1"
+_cell_length_a       4.912002751140961
+_cell_length_b       6.174037710395241
+_cell_length_c       6.176591823907068
+_cell_angle_alpha    121.30613135486948
+_cell_angle_beta     89.97711171045516
+_cell_angle_gamma    89.96743403326852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.28264915661104356  0.23260887680636713  0.7947296285381313  1.0000
+  Cd  Cd1       1.0  0.7827779757237954  0.23266938439131812  0.2946510582800074  1.0000
+  Cd  Cd2       1.0  0.2827574597244559  0.5625942449949728  0.46363882807596235  1.0000
+  Cd  Cd3       1.0  0.28325129182741465  0.903154488137414  0.12566035581457918  1.0000
+  Cd  Cd4       1.0  0.7829961445629936  0.7325787495282606  0.7950114075210984  1.0000
+  Hg  Hg1       1.0  0.7828304685484325  0.7329921628205617  0.29481551686256546  1.0000

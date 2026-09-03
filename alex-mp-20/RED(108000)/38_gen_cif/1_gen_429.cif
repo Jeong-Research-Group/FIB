@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TaNiHIr2
+_chemical_formula_sum              "Ta1 Ni1 H1 Ir2"
+_cell_length_a       3.973627413373069
+_cell_length_b       3.9734393039203844
+_cell_length_c       3.7855192766384174
+_cell_angle_alpha    89.99983893686745
+_cell_angle_beta     90.00080119864549
+_cell_angle_gamma    89.99981800631724
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.7869674468879436  0.2430881764807535  0.3856288149303428  1.0000
+  Ni  Ni1       1.0  0.2866579933860998  0.7432811435116106  0.3854465894925722  1.0000
+  H   H1        1.0  0.28551487501333483  0.7439563109364351  0.8852541201638824  1.0000
+  Ir  Ir1       1.0  0.28702682608813546  0.24298146262743445  0.8856620060412512  1.0000
+  Ir  Ir2       1.0  0.7873260867210111  0.7430985797612676  0.8857118211405445  1.0000

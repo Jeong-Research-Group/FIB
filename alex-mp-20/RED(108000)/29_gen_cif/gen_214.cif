@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PHPSeSr
+_chemical_formula_sum              "P2 H1 Se1 Sr1"
+_cell_length_a       5.063963769624927
+_cell_length_b       4.779193611105301
+_cell_length_c       6.050384044647217
+_cell_angle_alpha    102.26972662164859
+_cell_angle_beta     115.64392675271112
+_cell_angle_gamma    101.34561564190278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.9635253548622131  0.9301331043243409  0.2348396629095078  1.0000
+  H   H1        1.0  0.44647547602653503  0.0830102264881134  0.7482708096504211  1.0000
+  P   P2        1.0  0.3284316658973694  0.8118721842765808  0.5169188380241394  1.0000
+  Se  Se1       1.0  0.21361371874809265  0.16236406564712524  0.055658817291259766  1.0000
+  Sr  Sr1       1.0  0.8393508195877075  0.44771140813827515  0.6264803409576416  1.0000

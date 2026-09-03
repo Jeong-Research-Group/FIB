@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2AlGa3
+_chemical_formula_sum              "Li2 Al1 Ga3"
+_cell_length_a       4.071244290782243
+_cell_length_b       4.925215851105528
+_cell_length_c       5.7553554744285105
+_cell_angle_alpha    106.66123785557433
+_cell_angle_beta     90.03122381031619
+_cell_angle_gamma    114.3642923016166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3533812067477976  0.8779541590821666  0.12697841736560767  1.0000
+  Li  Li2       1.0  0.3530325752751065  0.8766191334086382  0.6309290841737931  1.0000
+  Al  Al1       1.0  0.6806136422593606  0.5315365978474726  0.29317874384927245  1.0000
+  Ga  Ga1       1.0  0.6855678213574277  0.5424003566650525  0.7941786165658253  1.0000
+  Ga  Ga2       1.0  0.014547906083995447  0.19875708486754556  0.45700640315171775  1.0000
+  Ga  Ga3       1.0  0.025247284999304773  0.22052896514952772  0.9647642045743288  1.0000

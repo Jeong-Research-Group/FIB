@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Al2LaOsZn
+_chemical_formula_sum              "Al2 La1 Os1 Zn1"
+_cell_length_a       4.270851170073537
+_cell_length_b       4.260279159409603
+_cell_length_c       6.07243013381958
+_cell_angle_alpha    110.68754506430622
+_cell_angle_beta     110.97334065671726
+_cell_angle_gamma    90.06560678561132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.16078007221221924  0.5236254334449768  0.7687156200408936  1.0000
+  Al  Al2       1.0  0.4142668843269348  0.777278482913971  0.27450415492057806  1.0000
+  La  La1       1.0  0.7868666648864746  0.1511765718460083  0.021817971020936966  1.0000
+  Os  Os1       1.0  0.5366062521934509  0.4009099304676056  0.5217660069465637  1.0000
+  Zn  Zn1       1.0  0.03692653030157089  0.8997698426246643  0.5212679505348206  1.0000

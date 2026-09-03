@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiCaNbPNiP
+_chemical_formula_sum              "Ni2 Ca1 Nb1 P2"
+_cell_length_a       3.7871917043706
+_cell_length_b       3.793386089404564
+_cell_length_c       7.716038227081299
+_cell_angle_alpha    89.80362773551448
+_cell_angle_beta     89.64709349018064
+_cell_angle_gamma    119.6686443167323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.09169168025255203  0.5856732726097107  0.5755055546760559  1.0000
+  Ca  Ca1       1.0  0.7591327428817749  0.9201556444168091  0.8690061569213868  1.0000
+  Nb  Nb1       1.0  0.7598366141319275  0.9189890027046204  0.3688128292560578  1.0000
+  P   P1        1.0  0.4245159327983856  0.2530946433544159  0.5923664569854736  1.0000
+  Ni  Ni2       1.0  0.09448114782571793  0.5865173935890198  0.1622215509414673  1.0000
+  P   P2        1.0  0.4272540211677551  0.25412482023239136  0.1463361531496048  1.0000

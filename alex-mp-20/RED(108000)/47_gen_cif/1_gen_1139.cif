@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2DyYMg2
+_chemical_formula_sum              "Li2 Dy1 Y1 Mg2"
+_cell_length_a       3.619593117084141
+_cell_length_b       3.6191762734991415
+_cell_length_c       11.326761422352813
+_cell_angle_alpha    90.01373919695128
+_cell_angle_beta     89.99018582225922
+_cell_angle_gamma    89.99710377924808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5232897522982325  0.5627939939328412  0.44160082663605726  1.0000
+  Li  Li2       1.0  0.5227157280291809  0.5622510129034709  0.722440259626693  1.0000
+  Dy  Dy1       1.0  0.023511460891132634  0.06233418321944151  0.9022582994526979  1.0000
+  Y   Y1        1.0  0.023027198713677234  0.06302463412632535  0.25742244664092967  1.0000
+  Mg  Mg1       1.0  0.5233527224217192  0.5626934904908355  0.07912312906571416  1.0000
+  Mg  Mg2       1.0  0.022938651387170366  0.06253322351373394  0.5818043988792829  1.0000

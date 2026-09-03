@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3Zn3Cd2
+_chemical_formula_sum              "Li3 Zn3 Cd2"
+_cell_length_a       3.841483737604339
+_cell_length_b       4.126566619390321
+_cell_length_c       8.558533438867272
+_cell_angle_alpha    90.00154259077935
+_cell_angle_beta     89.99355379816251
+_cell_angle_gamma    89.98285067966317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.41566965008036016  0.9389244365667879  0.39026938455177596  1.0000
+  Li  Li2       1.0  0.416026258562049  0.43885260989742236  0.6456789308968053  1.0000
+  Li  Li3       1.0  0.415656549015729  0.43896241528039315  0.13429038687198094  1.0000
+  Zn  Zn1       1.0  0.4158454156864799  0.9389148142156505  0.8903986738241269  1.0000
+  Zn  Zn2       1.0  0.9157159036524993  0.438949705380061  0.3901571123545421  1.0000
+  Zn  Zn3       1.0  0.9158741883339874  0.4388523022743236  0.8899868474884599  1.0000
+  Cd  Cd1       1.0  0.9159693074469746  0.9388504754666611  0.6345693428223315  1.0000
+  Cd  Cd2       1.0  0.9156816029820952  0.9389634335178966  0.14608527862531667  1.0000

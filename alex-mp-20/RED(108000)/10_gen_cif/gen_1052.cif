@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2BrPdI2Br
+_chemical_formula_sum              "Mg2 Br2 Pd1 I2"
+_cell_length_a       4.1321994815803835
+_cell_length_b       7.130240261403922
+_cell_length_c       7.8607563972473145
+_cell_angle_alpha    91.24068573195258
+_cell_angle_beta     90.1212588667503
+_cell_angle_gamma    90.00633408973131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6152409315109253  0.8662112355232239  0.5507654547691345  1.0000
+  Mg  Mg2       1.0  0.11451113224029541  0.3233546018600464  0.5498826503753662  1.0000
+  Br  Br1       1.0  0.11463446915149689  0.018093764781951908  0.3454713523387909  1.0000
+  Pd  Pd1       1.0  0.1145210936665535  0.65736985206604  0.4392842948436737  1.0000
+  I   I1        1.0  0.6137899160385132  0.4915700554847718  0.2746160924434662  1.0000
+  I   I2        1.0  0.11516555398702621  0.702896237373352  0.7752475142478943  1.0000
+  Br  Br2       1.0  0.6164854764938354  0.19403295218944552  0.7282223701477051  1.0000

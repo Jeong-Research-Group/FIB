@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2Ge2Os2
+_chemical_formula_sum              "K2 Ge2 Os2"
+_cell_length_a       4.315414423827407
+_cell_length_b       4.315465821724203
+_cell_length_c       8.831587393000396
+_cell_angle_alpha    89.99947073982727
+_cell_angle_beta     90.00272387292937
+_cell_angle_gamma    83.34772327450149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5874192583312645  0.48042178865594637  0.4261574128909954  1.0000
+  K   K2        1.0  0.08767041375208517  0.9805253999623035  0.07298715982204583  1.0000
+  Ge  Ge1       1.0  0.08747636571889991  0.9804599152816624  0.6100493828831342  1.0000
+  Ge  Ge2       1.0  0.587596380628206  0.4804366098327396  0.8891074595886858  1.0000
+  Os  Os1       1.0  0.08757803444672663  0.48044272820923206  0.749573921313508  1.0000
+  Os  Os2       1.0  0.5874929581627925  0.9804548939613652  0.7495827179918945  1.0000

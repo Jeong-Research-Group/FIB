@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Mn2C2
+_chemical_formula_sum              "Ce2 Mn2 C2"
+_cell_length_a       3.347009906618645
+_cell_length_b       3.3435933095976473
+_cell_length_c       8.28986989708244
+_cell_angle_alpha    90.03178910759094
+_cell_angle_beta     89.9579914235897
+_cell_angle_gamma    90.000907979758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.6904460600528929  0.4852906466684072  0.0925621524767015  1.0000
+  Ce  Ce2       1.0  0.18914734445750883  0.9862395321667469  0.6985966637230686  1.0000
+  Mn  Mn1       1.0  0.6898101447591362  0.986000463790825  0.39532759136307694  1.0000
+  Mn  Mn2       1.0  0.18970335898333665  0.4860398987658422  0.39579561587018314  1.0000
+  C   C1        1.0  0.19009826293705365  0.9857829742659724  0.2591596946160697  1.0000
+  C   C2        1.0  0.6894353975311606  0.4861786266905952  0.5321777012275622  1.0000

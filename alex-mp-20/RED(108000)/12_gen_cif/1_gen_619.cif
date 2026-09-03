@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfZr2Co2Hg2
+_chemical_formula_sum              "Hf1 Zr2 Co2 Hg2"
+_cell_length_a       4.2000808263470555
+_cell_length_b       4.911215213838785
+_cell_length_c       6.99062537339328
+_cell_angle_alpha    82.70550737619052
+_cell_angle_beta     89.99802930551019
+_cell_angle_gamma    89.99596219968211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2914542135379038  0.32415591239829467  0.9204430416938992  1.0000
+  Zr  Zr1       1.0  0.7914523971100074  0.8424277371067963  0.8172683219584933  1.0000
+  Zr  Zr2       1.0  0.7914830830458934  0.9792990407329092  0.23470476906555474  1.0000
+  Co  Co1       1.0  0.7914864657584767  0.47965876656156126  0.09769714783741017  1.0000
+  Co  Co2       1.0  0.29146144064744745  0.8245653550924817  0.04686059967616932  1.0000
+  Hg  Hg1       1.0  0.2915112503872181  0.8400563494675137  0.5271207664687915  1.0000
+  Hg  Hg2       1.0  0.7917152370253668  0.3818770901124506  0.5353165732643808  1.0000

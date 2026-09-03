@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoGe2Cr2Co
+_chemical_formula_sum              "Co2 Ge2 Cr2"
+_cell_length_a       3.672339265374412
+_cell_length_b       3.676030365296322
+_cell_length_c       6.1137824058532715
+_cell_angle_alpha    89.93855812282767
+_cell_angle_beta     89.9767320490306
+_cell_angle_gamma    90.02306805341661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.17474009096622467  0.9225745797157289  0.7316509485244751  1.0000
+  Ge  Ge1       1.0  0.6745526790618896  0.9228923916816713  0.4740763306617737  1.0000
+  Ge  Ge2       1.0  0.17494051158428192  0.4233077764511109  0.9885856509208679  1.0000
+  Cr  Cr1       1.0  0.6747039556503296  0.9231924414634706  0.047812655568122864  1.0000
+  Cr  Cr2       1.0  0.1747029721736908  0.42289623618125916  0.416240930557251  1.0000
+  Co  Co2       1.0  0.6748732924461365  0.42383909225463867  0.7306679487228394  1.0000

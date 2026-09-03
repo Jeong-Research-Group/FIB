@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbBiAuBiPbAu
+_chemical_formula_sum              "Pb2 Bi2 Au2"
+_cell_length_a       3.5586683298956214
+_cell_length_b       7.154193870931468
+_cell_length_c       7.074743747711182
+_cell_angle_alpha    89.26306607481234
+_cell_angle_beta     87.94796773833103
+_cell_angle_gamma    75.34921170549102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.9417829513549806  0.5376420617103577  0.8320107460021973  1.0000
+  Bi  Bi1       1.0  0.24997353553771967  0.8776943087577821  0.09169752150774002  1.0000
+  Au  Au1       1.0  0.0943663492798805  0.7033557891845703  0.4604770541191101  1.0000
+  Bi  Bi2       1.0  0.7541523575782776  0.37474629282951355  0.3326812982559204  1.0000
+  Pb  Pb2       1.0  0.4303885400295258  0.03205377981066704  0.5968416333198547  1.0000
+  Au  Au2       1.0  0.5937311053276062  0.2086814492940903  0.9625182747840881  1.0000

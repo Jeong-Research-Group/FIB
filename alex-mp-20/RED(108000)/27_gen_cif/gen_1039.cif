@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmCuSm2IrCu
+_chemical_formula_sum              "Sm3 Cu2 Ir1"
+_cell_length_a       3.4566886808170354
+_cell_length_b       3.4568993383833226
+_cell_length_c       10.659856796264648
+_cell_angle_alpha    90.43647891705001
+_cell_angle_beta     90.53292798909698
+_cell_angle_gamma    90.65036631009829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.49329465627670294  0.4880564212799072  0.858991265296936  1.0000
+  Cu  Cu1       1.0  0.992430090904236  0.9878797531127929  0.685307502746582  1.0000
+  Sm  Sm2       1.0  0.49244299530982977  0.48824775218963623  0.18245279788970947  1.0000
+  Sm  Sm3       1.0  0.492756873369217  0.4880266189575195  0.5202953219413757  1.0000
+  Ir  Ir1       1.0  0.992390811443329  0.9880293011665344  0.0206763818860054  1.0000
+  Cu  Cu2       1.0  0.9922989010810853  0.9890936613082886  0.3560141921043396  1.0000

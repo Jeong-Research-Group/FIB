@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pr2Si3PtSiPtNiPt
+_chemical_formula_sum              "Pr2 Si4 Pt3 Ni1"
+_cell_length_a       4.2439253637443395
+_cell_length_b       4.246942716939159
+_cell_length_c       9.854711532592773
+_cell_angle_alpha    90.06875518406979
+_cell_angle_beta     90.06958846404203
+_cell_angle_gamma    89.91539695709515
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.11132985353469849  0.3543128967285156  0.5337991714477539  1.0000
+  Pr  Pr2       1.0  0.6112093925476074  0.8542298674583435  0.030658919364213943  1.0000
+  Si  Si1       1.0  0.11124784499406815  0.3546411991119385  0.9067241549491882  1.0000
+  Si  Si2       1.0  0.6113036274909973  0.35461604595184326  0.28219524025917053  1.0000
+  Si  Si3       1.0  0.6110065579414368  0.8543643355369568  0.657659113407135  1.0000
+  Pt  Pt1       1.0  0.11126726120710373  0.3541662096977234  0.15694744884967804  1.0000
+  Si  Si4       1.0  0.11138161271810532  0.8544175624847412  0.28214016556739807  1.0000
+  Pt  Pt2       1.0  0.11100326478481293  0.8547738194465637  0.7822721600532532  1.0000
+  Ni  Ni1       1.0  0.6111903786659241  0.3545040786266327  0.7824934124946594  1.0000
+  Pt  Pt3       1.0  0.6115880012512207  0.8546798229217529  0.4073573648929596  1.0000

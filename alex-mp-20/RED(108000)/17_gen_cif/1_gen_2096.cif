@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2H2N
+_chemical_formula_sum              "Sc2 H2 N1"
+_cell_length_a       3.284029149937215
+_cell_length_b       3.2838981580457567
+_cell_length_c       5.345266052875348
+_cell_angle_alpha    89.99693787027446
+_cell_angle_beta     89.99362964185397
+_cell_angle_gamma    119.99257322445575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.3932446725511034  0.2663867737635465  0.7039517181274586  1.0000
+  Sc  Sc2       1.0  0.7268843620293257  0.9331249334024782  0.24415638396025738  1.0000
+  H   H1        1.0  0.726638439209328  0.9333287927550526  0.8578613445782654  1.0000
+  H   H2        1.0  0.39336719569979345  0.26666967762268934  0.09024331497272937  1.0000
+  N   N1        1.0  0.05989587984699862  0.5995922061170542  0.47399329848899413  1.0000

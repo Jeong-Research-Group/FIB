@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2H2I2
+_chemical_formula_sum              "Rb2 H2 I2"
+_cell_length_a       6.183537151907317
+_cell_length_b       6.254696620738904
+_cell_length_c       7.347933207353189
+_cell_angle_alpha    88.47535188902727
+_cell_angle_beta     88.23388791646524
+_cell_angle_gamma    63.83385219518759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.09510725468480184  0.3315604162103279  0.9320831842785635  1.0000
+  Rb  Rb2       1.0  0.4388996819579923  0.6845491025617747  0.4265884849719698  1.0000
+  H   H1        1.0  0.7355841888715852  0.9831739037429283  0.7135885986151975  1.0000
+  H   H2        1.0  0.7952131639337138  0.035734637004360865  0.6471065404019912  1.0000
+  I   I1        1.0  0.43997869808339274  0.6829417915233904  0.9278054160440652  1.0000
+  I   I2        1.0  0.09291430742649004  0.3333374505589285  0.43038537027616547  1.0000

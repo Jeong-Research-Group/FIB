@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CaCu
+_chemical_formula_sum              "Ca1 Cu1"
+_cell_length_a       3.548416329765695
+_cell_length_b       3.5502602253231053
+_cell_length_c       3.5522471550090744
+_cell_angle_alpha    89.96998296195747
+_cell_angle_beta     89.94421914940409
+_cell_angle_gamma    89.98222829212474
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8196367301945738  0.3899442850758641  0.6541343050877322  1.0000
+  Cu  Cu1       1.0  0.31877768075693  0.8899675609896728  0.15442813771676345  1.0000

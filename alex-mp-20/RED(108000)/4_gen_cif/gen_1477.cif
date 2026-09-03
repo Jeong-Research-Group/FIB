@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2RhSmRhEr
+_chemical_formula_sum              "Sm3 Rh2 Er1"
+_cell_length_a       3.491352810163537
+_cell_length_b       3.492807334902015
+_cell_length_c       12.388433456420898
+_cell_angle_alpha    90.01864892079641
+_cell_angle_beta     90.02177031802852
+_cell_angle_gamma    90.05166605711683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.38054534792900085  0.06767549365758896  0.11021570861339569  1.0000
+  Sm  Sm2       1.0  0.8797572255134583  0.5680626034736634  0.3360742926597595  1.0000
+  Rh  Rh1       1.0  0.8794368505477905  0.5685012340545654  0.6980745196342468  1.0000
+  Sm  Sm3       1.0  0.38040971755981445  0.06745580583810806  0.5612702965736389  1.0000
+  Rh  Rh2       1.0  0.8805209398269653  0.5676777362823487  0.9739488959312439  1.0000
+  Er  Er1       1.0  0.3801419734954834  0.06801706552505495  0.8353672623634338  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiSi2Ru3
+_chemical_formula_sum              "Li1 Si2 Ru3"
+_cell_length_a       3.8200973383926526
+_cell_length_b       3.824428787537131
+_cell_length_c       5.973064364279213
+_cell_angle_alpha    90.00739859626162
+_cell_angle_beta     90.0384958102426
+_cell_angle_gamma    89.99994039749707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.005260008252792802  0.6946036143626773  0.5419686088954488  1.0000
+  Si  Si1       1.0  0.505029791785743  0.1946877625596849  0.4717696402143378  1.0000
+  Si  Si2       1.0  0.00433759285376997  0.6943922497582568  0.9598926251478788  1.0000
+  Ru  Ru1       1.0  0.004721136075970475  0.19450883337308078  0.21397342821460885  1.0000
+  Ru  Ru2       1.0  0.5047437763794055  0.19467253439628593  0.8795058344779398  1.0000
+  Ru  Ru3       1.0  0.5047578303059953  0.694575078941759  0.21387504096484125  1.0000

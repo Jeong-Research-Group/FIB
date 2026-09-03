@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Co2Ge2Pb
+_chemical_formula_sum              "Co2 Ge2 Pb1"
+_cell_length_a       4.13486415826074
+_cell_length_b       4.135278879510794
+_cell_length_c       5.8123776874645126
+_cell_angle_alpha    110.80674850390078
+_cell_angle_beta     110.8304361371032
+_cell_angle_gamma    89.99694634851008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.09637428354771199  0.11172445464445686  0.5240555290808714  1.0000
+  Co  Co2       1.0  0.5968512913319614  0.6112183576739094  0.5239961029577572  1.0000
+  Ge  Ge1       1.0  0.48123484040821873  0.9963012368436952  0.2938587934233818  1.0000
+  Ge  Ge2       1.0  0.2120766119762689  0.7266714239440181  0.754495818440978  1.0000
+  Pb  Pb1       1.0  0.8464967205739549  0.36095005566665517  0.02414704627375823  1.0000

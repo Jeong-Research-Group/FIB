@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2PtMoPtMo
+_chemical_formula_sum              "Co2 Pt2 Mo2"
+_cell_length_a       3.791328969541267
+_cell_length_b       3.77822813633764
+_cell_length_c       6.121136665344238
+_cell_angle_alpha    108.03921475151492
+_cell_angle_beta     90.0228289974806
+_cell_angle_gamma    89.98890344752897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.47253054380416876  0.16826163232326508  0.23796871304512024  1.0000
+  Co  Co2       1.0  0.9725400805473329  0.31724774837493896  0.5359244346618652  1.0000
+  Pt  Pt1       1.0  0.9726158976554872  0.9949255585670471  0.8905203938484192  1.0000
+  Mo  Mo1       1.0  0.47269594669342047  0.824894368648529  0.5506707429885864  1.0000
+  Pt  Pt2       1.0  0.4722747206687928  0.4904363453388214  0.8826910853385925  1.0000
+  Mo  Mo2       1.0  0.9721493124961854  0.6611592173576355  0.22353242337703705  1.0000

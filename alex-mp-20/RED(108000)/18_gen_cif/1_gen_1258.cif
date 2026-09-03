@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiGaGe2Pd2
+_chemical_formula_sum              "Li1 Ga1 Ge2 Pd2"
+_cell_length_a       4.440639491445597
+_cell_length_b       4.411425172473753
+_cell_length_c       5.5481222012636735
+_cell_angle_alpha    89.32463486374964
+_cell_angle_beta     89.77830543968788
+_cell_angle_gamma    120.09202874776969
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6676856044372558  0.11271446264419958  0.6600994487210082  1.0000
+  Ga  Ga1       1.0  0.6676257331041312  0.11269218387973216  0.1598191329384607  1.0000
+  Ge  Ge1       1.0  0.999958995924622  0.7775298621397285  0.8601062190054949  1.0000
+  Ge  Ge2       1.0  0.3356413025471002  0.4480924651986201  0.4598118692339353  1.0000
+  Pd  Pd1       1.0  0.0024762642208044326  0.7818680143553679  0.36681820662049036  1.0000
+  Pd  Pd2       1.0  0.3331300008427135  0.4437318673075358  0.9541582708162532  1.0000

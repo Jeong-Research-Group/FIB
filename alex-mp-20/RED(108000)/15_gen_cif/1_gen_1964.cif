@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mn2CrCo
+_chemical_formula_sum              "Mn2 Cr1 Co1"
+_cell_length_a       4.069722829192487
+_cell_length_b       4.069724592919482
+_cell_length_c       4.067697078001723
+_cell_angle_alpha    120.01483477339238
+_cell_angle_beta     120.01510728972691
+_cell_angle_gamma    90.00006049589992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.09179640622745147  0.33529661602563704  0.8120066281593539  1.0000
+  Mn  Mn2       1.0  0.5918052150438435  0.8352525937592296  0.8119932206962087  1.0000
+  Cr  Cr1       1.0  0.8416159463232111  0.5851551597128829  0.31167531532475284  1.0000
+  Co  Co1       1.0  0.34185795766941474  0.08527157878078223  0.3120643871312159  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HMnRh3
+_chemical_formula_sum              "H1 Mn1 Rh3"
+_cell_length_a       3.91666265708709
+_cell_length_b       3.9161009221487264
+_cell_length_c       3.9150748252868652
+_cell_angle_alpha    89.96122069001801
+_cell_angle_beta     90.01842352575827
+_cell_angle_gamma    89.97192359347169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.47306439280509943  0.9038371443748475  0.6294512748718263  1.0000
+  Mn  Mn1       1.0  0.9728638529777526  0.4038544595241547  0.12918739020824432  1.0000
+  Rh  Rh1       1.0  0.47315058112144465  0.903647005558014  0.12937867641448975  1.0000
+  Rh  Rh2       1.0  0.47318524122238154  0.40347895026206976  0.6296088099479676  1.0000
+  Rh  Rh3       1.0  0.9734487533569335  0.903540849685669  0.6295263767242433  1.0000

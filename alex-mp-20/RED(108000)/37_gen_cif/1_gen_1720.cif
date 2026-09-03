@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2Ni3Rh
+_chemical_formula_sum              "Ga2 Ni3 Rh1"
+_cell_length_a       4.084543518469145
+_cell_length_b       4.084665707371393
+_cell_length_c       5.164932767275166
+_cell_angle_alpha    90.0011252852309
+_cell_angle_beta     90.00220606869028
+_cell_angle_gamma    120.0010874849872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.4406082163067335  0.8819431092456774  0.09081818087036793  1.0000
+  Ga  Ga2       1.0  0.7739226745462167  0.5486115496202131  0.6457096701534296  1.0000
+  Ni  Ni1       1.0  0.7739415086120359  0.5486240415031856  0.1635916605912447  1.0000
+  Ni  Ni2       1.0  0.4406104049970824  0.881933698288168  0.5729549250852584  1.0000
+  Ni  Ni3       1.0  0.10731281748613765  0.21524577601109404  0.36823649748444715  1.0000
+  Rh  Rh1       1.0  0.10725714233879095  0.215264629821999  0.8682441694994342  1.0000

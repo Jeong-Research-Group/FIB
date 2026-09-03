@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ScTi2GaPt2
+_chemical_formula_sum              "Sc1 Ti2 Ga1 Pt2"
+_cell_length_a       4.466704043710449
+_cell_length_b       4.467521455605325
+_cell_length_c       5.917235958929462
+_cell_angle_alpha    89.9998286905015
+_cell_angle_beta     89.99343869355457
+_cell_angle_gamma    120.00510912926887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5161497404753345  0.1950715180776526  0.8617861441092426  1.0000
+  Ti  Ti1       1.0  0.8494037190737168  0.8617137120735809  0.16247852227291407  1.0000
+  Ti  Ti2       1.0  0.18289495131088446  0.5284288430803338  0.5610441248936489  1.0000
+  Ga  Ga1       1.0  0.5161558493388207  0.19506728597620562  0.36172735653996296  1.0000
+  Pt  Pt1       1.0  0.849616395966264  0.8618102827560374  0.6122492080081504  1.0000
+  Pt  Pt2       1.0  0.18269217745137545  0.5283271116061177  0.11147224848740406  1.0000

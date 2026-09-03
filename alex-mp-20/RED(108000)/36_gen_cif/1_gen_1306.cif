@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgNi4Pb
+_chemical_formula_sum              "Mg1 Ni4 Pb1"
+_cell_length_a       4.921086198430449
+_cell_length_b       4.920751046161518
+_cell_length_c       4.9206561240826785
+_cell_angle_alpha    60.02266557600621
+_cell_angle_beta     60.021620345087534
+_cell_angle_gamma    60.02425795126037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.08258609084275381  0.9763667829546837  0.9297897156270982  1.0000
+  Ni  Ni1       1.0  0.7089826957720434  0.6022005413767096  0.5556546474902112  1.0000
+  Ni  Ni2       1.0  0.7085600319220875  0.1001349828583939  0.5556815067650043  1.0000
+  Ni  Ni3       1.0  0.7080818780436209  0.6022336126134478  0.05347452428856402  1.0000
+  Ni  Ni4       1.0  0.20592080500383153  0.6022987312434082  0.5557858044759821  1.0000
+  Pb  Pb1       1.0  0.3332041772302101  0.22620566186899102  0.1796868944559316  1.0000

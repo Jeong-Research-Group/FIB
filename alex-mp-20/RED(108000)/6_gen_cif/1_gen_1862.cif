@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaRe2MoN
+_chemical_formula_sum              "Ga1 Re2 Mo1 N1"
+_cell_length_a       4.1404428331952685
+_cell_length_b       4.066367513634736
+_cell_length_c       4.066583341444735
+_cell_angle_alpha    90.02788623587027
+_cell_angle_beta     90.03234130817738
+_cell_angle_gamma    90.00888724474973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.44344866517379883  0.5740465795912856  0.4324901705335761  1.0000
+  Re  Re1       1.0  0.9436705643733504  0.07424462326820483  0.4321561174417908  1.0000
+  Re  Re2       1.0  0.943562472238804  0.5741886169598903  0.9323832017723027  1.0000
+  Mo  Mo1       1.0  0.4435826914098566  0.07423554776074272  0.9322505594873968  1.0000
+  N   N1        1.0  0.943626105467945  0.07413179007037904  0.9321774275143759  1.0000

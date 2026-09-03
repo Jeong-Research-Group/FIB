@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2FeBAs
+_chemical_formula_sum              "Ta2 Fe1 B1 As1"
+_cell_length_a       3.2698703117548757
+_cell_length_b       4.409842854476485
+_cell_length_c       4.857367068972097
+_cell_angle_alpha    105.19237676090626
+_cell_angle_beta     90.00100734875626
+_cell_angle_gamma    90.00251606340942
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5038551632228364  0.13043017938856968  0.39027046342707505  1.0000
+  Ta  Ta2       1.0  0.004039233753132643  0.2838114961831312  0.9120579067102339  1.0000
+  Fe  Fe1       1.0  0.5038029144378945  0.7679597341832066  0.8194618570159394  1.0000
+  B   B1        1.0  0.003830027352145148  0.8326542706331864  0.09120314658590763  1.0000
+  As  As1       1.0  0.003806294703071878  0.6478890343516287  0.46109398773793636  1.0000

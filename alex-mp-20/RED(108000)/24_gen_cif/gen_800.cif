@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni2AlSmAl
+_chemical_formula_sum              "Ni2 Al2 Sm1"
+_cell_length_a       4.254026444273541
+_cell_length_b       4.254424076358343
+_cell_length_c       5.541140556335449
+_cell_angle_alpha    112.56458373597718
+_cell_angle_beta     112.54515175246425
+_cell_angle_gamma    90.04884488202389
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5740817785263062  0.3949398398399353  0.24633534252643585  1.0000
+  Ni  Ni2       1.0  0.07559935748577118  0.8946369290351868  0.24800582230091095  1.0000
+  Al  Al1       1.0  0.9637975096702576  0.28396549820899963  0.025512512773275375  1.0000
+  Sm  Sm1       1.0  0.32482731342315674  0.6446977853775024  0.7472479343414307  1.0000
+  Al  Al2       1.0  0.6858389973640442  0.005197935737669468  0.4688321053981781  1.0000

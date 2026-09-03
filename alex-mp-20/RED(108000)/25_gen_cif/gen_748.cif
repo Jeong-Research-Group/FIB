@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgSrGa3
+_chemical_formula_sum              "Mg1 Sr1 Ga3"
+_cell_length_a       4.468048289253572
+_cell_length_b       4.469975612785323
+_cell_length_c       6.472096920013428
+_cell_angle_alpha    110.15010367845046
+_cell_angle_beta     110.19157226232599
+_cell_angle_gamma    89.97369203262856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5542417764663696  0.2649254500865936  0.12932685017585754  1.0000
+  Sr  Sr1       1.0  0.8033985495567322  0.01452903263270855  0.6293745636940002  1.0000
+  Ga  Ga1       1.0  0.19260340929031372  0.40370896458625793  0.4059451520442962  1.0000
+  Ga  Ga2       1.0  0.4158138930797577  0.6271370649337767  0.8526469469070433  1.0000
+  Ga  Ga3       1.0  0.05384232848882675  0.7656748294830322  0.12892548739910126  1.0000

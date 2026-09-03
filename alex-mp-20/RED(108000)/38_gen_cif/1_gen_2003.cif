@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba4HgPBr
+_chemical_formula_sum              "Ba4 Hg1 P1 Br1"
+_cell_length_a       4.75096956043516
+_cell_length_b       8.13367449149819
+_cell_length_c       8.479137380400081
+_cell_angle_alpha    107.83309140294581
+_cell_angle_beta     90.01817669638392
+_cell_angle_gamma    90.00886172674083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.20222933961625422  0.2894723321908178  0.31211068803218467  1.0000
+  Ba  Ba2       1.0  0.701510354238787  0.7548660485975105  0.3031957554948831  1.0000
+  Ba  Ba3       1.0  0.20228283853465287  0.7485729336279779  0.7717467804463518  1.0000
+  Ba  Ba4       1.0  0.7030521703871315  0.28264820833918086  0.7808628843019234  1.0000
+  Hg  Hg1       1.0  0.7021888333983041  0.018771606256438207  0.04175977868622211  1.0000
+  P   P1        1.0  0.7021774055579413  0.5185656120734544  0.5419429148558973  1.0000
+  Br  Br1       1.0  0.20231763885719686  0.01936413603152719  0.5421084899316904  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2LiAg2Pr2Ag
+_chemical_formula_sum              "Ag5 Li1 Pr2"
+_cell_length_a       5.010126036136079
+_cell_length_b       5.042396614116616
+_cell_length_c       6.91339635848999
+_cell_angle_alpha    90.64408253978485
+_cell_angle_beta     90.65846007555724
+_cell_angle_gamma    91.37143621222852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6544257402420044  0.43027734756469727  0.41352543234825134  1.0000
+  Ag  Ag2       1.0  0.6567294001579285  0.9301930069923401  0.2061825394630432  1.0000
+  Li  Li1       1.0  0.15498954057693481  0.9302515983581543  0.4132311940193176  1.0000
+  Ag  Ag3       1.0  0.654678463935852  0.9302552342414857  0.6221129298210144  1.0000
+  Ag  Ag4       1.0  0.15436820685863495  0.43030115962028503  0.2059883326292038  1.0000
+  Pr  Pr1       1.0  0.15623174607753754  0.9305782914161682  0.9143585562705994  1.0000
+  Pr  Pr2       1.0  0.6551666259765625  0.43051508069038397  0.9135564565658569  1.0000
+  Ag  Ag5       1.0  0.15456140041351318  0.42925623059272766  0.6212690472602844  1.0000

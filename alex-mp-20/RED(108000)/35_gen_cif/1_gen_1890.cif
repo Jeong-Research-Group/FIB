@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeNi4Sn
+_chemical_formula_sum              "Fe1 Ni4 Sn1"
+_cell_length_a       3.6870977111940935
+_cell_length_b       4.513569894990112
+_cell_length_c       5.222252717003763
+_cell_angle_alpha    107.31998130012995
+_cell_angle_beta     89.999658345528
+_cell_angle_gamma    114.10472620965572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7857891603908512  0.2363442464832938  0.9300295392601838  1.0000
+  Ni  Ni1       1.0  0.4468334991161834  0.5584143721625002  0.21981704721820014  1.0000
+  Ni  Ni2       1.0  0.7690363189296575  0.20263236762121511  0.38209689312035744  1.0000
+  Ni  Ni3       1.0  0.1187460881808254  0.9023816032155867  0.07210172279730001  1.0000
+  Ni  Ni4       1.0  0.11436175143100057  0.8936070375991715  0.5519514925348715  1.0000
+  Sn  Sn1       1.0  0.4456838283150942  0.5559438138743948  0.7129073600610081  1.0000

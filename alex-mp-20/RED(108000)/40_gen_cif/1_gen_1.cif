@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuNi2Rh
+_chemical_formula_sum              "Cu1 Ni2 Rh1"
+_cell_length_a       2.5973344838241363
+_cell_length_b       4.420495689751206
+_cell_length_c       4.4195932721339535
+_cell_angle_alpha    108.81921587354178
+_cell_angle_beta     89.99237553943487
+_cell_angle_gamma    90.00002185328907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3311083659232879  0.9525785897587217  0.32840315410036613  1.0000
+  Ni  Ni1       1.0  0.8309568543236397  0.9530540944881812  0.8291133579959891  1.0000
+  Ni  Ni2       1.0  0.8311000822067702  0.4523900253393496  0.3285986032405806  1.0000
+  Rh  Rh1       1.0  0.3312155122099192  0.4527865437406949  0.8285799745328059  1.0000

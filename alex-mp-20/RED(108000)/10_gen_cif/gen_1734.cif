@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoNiRh2NiCo
+_chemical_formula_sum              "Co2 Ni2 Rh2"
+_cell_length_a       3.585475526603109
+_cell_length_b       4.462900225669616
+_cell_length_c       5.247184753417969
+_cell_angle_alpha    106.71726475154948
+_cell_angle_beta     90.02421552531058
+_cell_angle_gamma    113.71290199967696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7843196988105775  0.898111879825592  0.8777471780776978  1.0000
+  Ni  Ni1       1.0  0.7865629196166993  0.9025366306304932  0.38064804673194885  1.0000
+  Rh  Rh1       1.0  0.11484412848949432  0.559967041015625  0.04508892819285395  1.0000
+  Rh  Rh2       1.0  0.11819297820329668  0.5657906532287598  0.5478481650352478  1.0000
+  Ni  Ni2       1.0  0.4466442465782166  0.22386297583580017  0.2105804979801178  1.0000
+  Co  Co2       1.0  0.44895142316818243  0.2273744195699692  0.7138029932975769  1.0000

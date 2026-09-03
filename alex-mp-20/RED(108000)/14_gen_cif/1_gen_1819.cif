@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zn2Cd2Au
+_chemical_formula_sum              "Zn2 Cd2 Au1"
+_cell_length_a       3.404564504967132
+_cell_length_b       4.812586095555219
+_cell_length_c       6.480959148262026
+_cell_angle_alpha    102.2171290173249
+_cell_angle_beta     90.00064899991735
+_cell_angle_gamma    110.71707892600189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9201651876306383  0.14946723426117528  0.16969868920491868  1.0000
+  Zn  Zn2       1.0  0.29254862960111444  0.8942552759823873  0.8605439698331164  1.0000
+  Cd  Cd1       1.0  0.985479758606561  0.279305022329182  0.6303618386456206  1.0000
+  Cd  Cd2       1.0  0.22853631979908906  0.7659908134982042  0.39963370807139975  1.0000
+  Au  Au1       1.0  0.6064763245760851  0.5218700733571396  0.01498645392635553  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3Ag2Hg
+_chemical_formula_sum              "Lu3 Ag2 Hg1"
+_cell_length_a       3.5922243903528237
+_cell_length_b       3.5912046342836192
+_cell_length_c       10.808501259896106
+_cell_angle_alpha    90.003766435756
+_cell_angle_beta     89.99881676719205
+_cell_angle_gamma    90.01049746497208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7664638889785819  0.6874183271063803  0.30717708185990866  1.0000
+  Lu  Lu2       1.0  0.766983606708012  0.6882297324587552  0.9790524078503248  1.0000
+  Lu  Lu3       1.0  0.7665097875020598  0.6876798868088793  0.6345145014203539  1.0000
+  Ag  Ag1       1.0  0.2667923935640094  0.18830176599665818  0.14257002692223297  1.0000
+  Ag  Ag2       1.0  0.2665890606887237  0.18819386895017012  0.471373997279361  1.0000
+  Hg  Hg1       1.0  0.2667771308282902  0.188143714174119  0.8065169557769155  1.0000

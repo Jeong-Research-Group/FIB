@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AuCePb2AuCe
+_chemical_formula_sum              "Au2 Ce2 Pb2"
+_cell_length_a       5.307766747165911
+_cell_length_b       5.309657984393605
+_cell_length_c       6.609832286834717
+_cell_angle_alpha    90.0225353005999
+_cell_angle_beta     90.06717058380357
+_cell_angle_gamma    120.00157678634807
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.016290355473756797  0.7089651823043823  0.6300463676452637  1.0000
+  Ce  Ce1       1.0  0.016057195141911507  0.7087138891220093  0.13017885386943817  1.0000
+  Pb  Pb1       1.0  0.34912630915641785  0.3758857846260071  0.38023483753204346  1.0000
+  Pb  Pb2       1.0  0.3494777977466583  0.37605565786361694  0.8800803422927856  1.0000
+  Au  Au2       1.0  0.6824404001235962  0.04306851327419281  0.13072049617767334  1.0000
+  Ce  Ce2       1.0  0.6827802062034607  0.04285857081413269  0.6307134628295898  1.0000

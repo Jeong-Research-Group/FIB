@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FeTiFe3MnFe2
+_chemical_formula_sum              "Fe6 Ti1 Mn1"
+_cell_length_a       4.064899038705701
+_cell_length_b       4.065106014355645
+_cell_length_c       6.511225700378418
+_cell_angle_alpha    108.20269348525697
+_cell_angle_beta     71.84329569281971
+_cell_angle_gamma    89.99165583928561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3698179125785827  0.2106265127658844  0.08579593896865845  1.0000
+  Ti  Ti1       1.0  0.8712148070335387  0.7094190120697021  0.08497729152441028  1.0000
+  Fe  Fe2       1.0  0.5025309920310974  0.5789893865585327  0.8235663175582886  1.0000
+  Fe  Fe3       1.0  0.7400503158569335  0.341420978307724  0.34620124101638794  1.0000
+  Fe  Fe4       1.0  0.24072003364562986  0.8402554392814635  0.3459051251411438  1.0000
+  Mn  Mn1       1.0  0.619827628135681  0.9612181782722473  0.588226854801178  1.0000
+  Fe  Fe5       1.0  0.12297400832176207  0.45726266503334045  0.5813220143318176  1.0000
+  Fe  Fe6       1.0  0.0005503892898559578  0.07929173856973648  0.8241298794746399  1.0000

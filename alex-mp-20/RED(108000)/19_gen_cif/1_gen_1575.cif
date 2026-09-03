@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Co2HgI2
+_chemical_formula_sum              "Co2 Hg1 I2"
+_cell_length_a       3.819071729551098
+_cell_length_b       3.821968365410774
+_cell_length_c       10.795015831950867
+_cell_angle_alpha    100.16146429842856
+_cell_angle_beta     90.00058786741218
+_cell_angle_gamma    90.0003396743838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.07918657444260069  0.8148746075284468  0.922565604983234  1.0000
+  Co  Co2       1.0  0.5797821485636481  0.31422749983973175  0.9229890907377655  1.0000
+  Hg  Hg1       1.0  0.5815073229674703  0.5808232925991532  0.44889046695201634  1.0000
+  I   I1        1.0  0.5792977353687945  0.8948201224278189  0.08428101417852887  1.0000
+  I   I2        1.0  0.0798348812065945  0.23455275551256716  0.7607994820541906  1.0000

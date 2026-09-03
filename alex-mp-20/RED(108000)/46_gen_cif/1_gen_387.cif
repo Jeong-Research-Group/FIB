@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KFe2BiSe
+_chemical_formula_sum              "K1 Fe2 Bi1 Se1"
+_cell_length_a       3.6931989442130373
+_cell_length_b       3.6857942520067803
+_cell_length_c       8.948657448468943
+_cell_angle_alpha    101.90290728715026
+_cell_angle_beta     101.94565757495803
+_cell_angle_gamma    89.99994151048409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.10945082331551167  0.41691645254023774  0.18621962020171423  1.0000
+  Fe  Fe1       1.0  0.8238525605088158  0.6312493530465861  0.6135574948187847  1.0000
+  Fe  Fe2       1.0  0.3234926687749645  0.13090704238386558  0.6129547052613035  1.0000
+  Bi  Bi1       1.0  0.4437207083125778  0.7507452308863287  0.8524842799080314  1.0000
+  Se  Se1       1.0  0.7259813855485737  0.03360516898714031  0.4187184248598946  1.0000

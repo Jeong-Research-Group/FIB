@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2AlMo
+_chemical_formula_sum              "Ta2 Al1 Mo1"
+_cell_length_a       3.357291632649526
+_cell_length_b       3.3583939504468914
+_cell_length_c       6.010957072250941
+_cell_angle_alpha    89.98041919177875
+_cell_angle_beta     89.99130349583211
+_cell_angle_gamma    89.9975675647005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.2843866732287502  0.4447108334114282  0.02373191543404583  1.0000
+  Ta  Ta2       1.0  0.28437884489174  0.4436474831337184  0.5260766004351065  1.0000
+  Al  Al1       1.0  0.7844035958480492  0.9441903967381854  0.2748720558093758  1.0000
+  Mo  Mo1       1.0  0.7843756070323225  0.9441786051653498  0.7748617202673308  1.0000

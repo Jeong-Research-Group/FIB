@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaBaCa2Rh2
+_chemical_formula_sum              "Ca3 Ba1 Rh2"
+_cell_length_a       5.19882345954198
+_cell_length_b       4.990456245991798
+_cell_length_c       6.871185302734375
+_cell_angle_alpha    90.08037334378486
+_cell_angle_beta     90.04261605525551
+_cell_angle_gamma    90.00797333605308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8909668922424316  0.09897014498710632  0.3859149813652039  1.0000
+  Ba  Ba1       1.0  0.3908539414405823  0.5997234582901001  0.38583976030349737  1.0000
+  Ca  Ca2       1.0  0.8908568620681763  0.09919395297765732  0.8859687447547914  1.0000
+  Ca  Ca3       1.0  0.3911627531051636  0.5987347364425659  0.8860693573951722  1.0000
+  Rh  Rh1       1.0  0.8908918499946594  0.5993156433105469  0.6662709116935731  1.0000
+  Rh  Rh2       1.0  0.8910852670669556  0.599037766456604  0.10582868009805681  1.0000

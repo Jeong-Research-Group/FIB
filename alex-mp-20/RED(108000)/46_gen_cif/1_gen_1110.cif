@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3Zn2Ni
+_chemical_formula_sum              "Li3 Zn2 Ni1"
+_cell_length_a       4.793351969560395
+_cell_length_b       4.30262778948483
+_cell_length_c       4.823302176852271
+_cell_angle_alpha    90.00000152680143
+_cell_angle_beta     126.04400667147111
+_cell_angle_gamma    89.99975105644084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7551202537365784  0.2344694733412107  0.18783092176019436  1.0000
+  Li  Li2       1.0  0.10909527626069351  0.23446977668946814  0.8469802571637316  1.0000
+  Li  Li3       1.0  0.8696560070005659  0.7344636118338551  0.9490269295630267  1.0000
+  Zn  Zn1       1.0  0.2037722567895271  0.7344652229941865  0.6185333495216833  1.0000
+  Zn  Zn2       1.0  0.435580940747205  0.2344674370913455  0.4955430018394692  1.0000
+  Ni  Ni1       1.0  0.5279789554112785  0.7344625399836094  0.3023619468696391  1.0000

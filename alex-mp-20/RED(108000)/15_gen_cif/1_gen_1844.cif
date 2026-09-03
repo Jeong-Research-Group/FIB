@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pr2CuRh
+_chemical_formula_sum              "Pr2 Cu1 Rh1"
+_cell_length_a       4.020462560805604
+_cell_length_b       4.4187533217068555
+_cell_length_c       5.784498293530042
+_cell_angle_alpha    90.01247996334196
+_cell_angle_beta     110.33311420008616
+_cell_angle_gamma    90.00540014297512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5026680731535607  0.789503874963971  0.9108837824502655  1.0000
+  Pr  Pr2       1.0  0.7785102871278449  0.2889914915270224  0.4617390068142616  1.0000
+  Cu  Cu1       1.0  0.06854146196312114  0.28955538652606205  0.04156881095643302  1.0000
+  Rh  Rh1       1.0  0.2177952219938703  0.789216430831388  0.341348669758245  1.0000

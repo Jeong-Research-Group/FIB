@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuNi2BIr
+_chemical_formula_sum              "Lu1 Ni2 B1 Ir1"
+_cell_length_a       4.02352183216656
+_cell_length_b       4.023379223263226
+_cell_length_c       4.119188852130748
+_cell_angle_alpha    90.0138367219213
+_cell_angle_beta     90.00649843960575
+_cell_angle_gamma    90.01758653387202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.13135269056854593  0.8928923730363381  0.5090453526614234  1.0000
+  Ni  Ni1       1.0  0.631278555409477  0.8921187634017287  0.009019207909987111  1.0000
+  Ni  Ni2       1.0  0.1310355918987165  0.3925488120541786  0.009562270578027419  1.0000
+  B   B1        1.0  0.6306308538402813  0.39229175316174  0.009554203748696907  1.0000
+  Ir  Ir1       1.0  0.6313276374559318  0.3927160472663899  0.5092866799300839  1.0000

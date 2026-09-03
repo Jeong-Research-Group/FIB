@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Yb2CoPbC
+_chemical_formula_sum              "Yb2 Co1 Pb1 C1"
+_cell_length_a       3.6494944662246507
+_cell_length_b       5.270286926976988
+_cell_length_c       5.270495350482016
+_cell_angle_alpha    90.05117813673534
+_cell_angle_beta     89.99981854729208
+_cell_angle_gamma    89.99980078444553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.3979005958622017  0.7223989378094356  0.8415630176538039  1.0000
+  Yb  Yb2       1.0  0.3977776576651957  0.22144597217634845  0.3401905728774132  1.0000
+  Co  Co1       1.0  0.8976922992318452  0.7209052428459187  0.34140440582492554  1.0000
+  Pb  Pb1       1.0  0.8977745618944921  0.2231858701533715  0.839807546012399  1.0000
+  C   C1        1.0  0.3976859611415308  0.721666936056013  0.34145731910041227  1.0000

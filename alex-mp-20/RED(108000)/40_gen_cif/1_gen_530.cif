@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2AlGeP2H2
+_chemical_formula_sum              "K2 Al1 Ge1 P2 H2"
+_cell_length_a       5.643113267687283
+_cell_length_b       3.9667222733281027
+_cell_length_c       7.4007153503877605
+_cell_angle_alpha    90.00420309578432
+_cell_angle_beta     91.84055951296432
+_cell_angle_gamma    89.99358076437724
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5018749927128688  0.5654470103610183  0.2008931577466157  1.0000
+  K   K2        1.0  0.4817694625716338  0.06567591325837639  0.6845573799868417  1.0000
+  Al  Al1       1.0  0.9378128008812531  0.06526204473317108  0.016190901564763587  1.0000
+  Ge  Ge1       1.0  0.9923844947923844  0.5656436650617597  0.528414040170729  1.0000
+  P   P1        1.0  0.0778681700235301  0.5652428852131455  0.8765089989095757  1.0000
+  P   P2        1.0  0.06252324458184082  0.06559129725073108  0.336879720275681  1.0000
+  H   H1        1.0  0.6425418790320332  0.0653934076255723  0.011274155157908985  1.0000
+  H   H2        1.0  0.700476759423  0.565695342492027  0.526339700684089  1.0000

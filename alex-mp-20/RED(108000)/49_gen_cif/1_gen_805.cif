@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2S2Cl2
+_chemical_formula_sum              "Ho2 S2 Cl2"
+_cell_length_a       3.9987303813728654
+_cell_length_b       5.336001172160729
+_cell_length_c       8.486676323040603
+_cell_angle_alpha    89.99731236613546
+_cell_angle_beta     89.98901301415165
+_cell_angle_gamma    90.0018289603259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.21205834035161245  0.7856316898302687  0.2954941786809733  1.0000
+  Ho  Ho2       1.0  0.7117919085215665  0.2849948356968036  0.567152314647511  1.0000
+  S   S1        1.0  0.7118715214576209  0.7851490454216243  0.5165160743940459  1.0000
+  S   S2        1.0  0.21198237273649212  0.2855178700780205  0.3461906083333957  1.0000
+  Cl  Cl1       1.0  0.7118529249434188  0.7847837360309101  0.08904320881222867  1.0000
+  Cl  Cl2       1.0  0.2116036705633813  0.28449727267491937  0.7734438376354043  1.0000

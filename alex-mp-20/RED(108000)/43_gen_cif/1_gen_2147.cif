@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnFe2Sn
+_chemical_formula_sum              "Mn1 Fe2 Sn1"
+_cell_length_a       3.9736316692577898
+_cell_length_b       3.785147472981639
+_cell_length_c       3.7851534382132352
+_cell_angle_alpha    89.99616602571295
+_cell_angle_beta     89.9995364265157
+_cell_angle_gamma    89.9998394052365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8493041338458126  0.5409240184551304  0.682295506633234  1.0000
+  Fe  Fe1       1.0  0.3493058474712471  0.541211938237853  0.1818331262564133  1.0000
+  Fe  Fe2       1.0  0.34931084055210765  0.04037986611609909  0.6823334882110166  1.0000
+  Sn  Sn1       1.0  0.8492698696479765  0.0410528543391812  0.1823473865744242  1.0000

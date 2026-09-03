@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiPdBiPdBiPd2Ce
+_chemical_formula_sum              "Bi3 Pd4 Ce1"
+_cell_length_a       5.014710231426808
+_cell_length_b       5.014269797058017
+_cell_length_c       7.146758556365967
+_cell_angle_alpha    89.91737770127632
+_cell_angle_beta     89.96848118001517
+_cell_angle_gamma    90.00939401421014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.34391164779663086  0.10985082387924196  0.011033805087208748  1.0000
+  Pd  Pd1       1.0  0.34341463446617126  0.10756444931030273  0.41660794615745544  1.0000
+  Bi  Bi2       1.0  0.8429669141769409  0.10888314247131349  0.6087111830711365  1.0000
+  Pd  Pd2       1.0  0.8432189226150513  0.10963022708892822  0.20588955283164978  1.0000
+  Bi  Bi3       1.0  0.8440678119659424  0.6096705794334412  0.009846804663538933  1.0000
+  Pd  Pd3       1.0  0.8436047434806824  0.6093253493309021  0.41554489731788635  1.0000
+  Pd  Pd4       1.0  0.34397366642951965  0.6084124445915222  0.20117507874965668  1.0000
+  Ce  Ce1       1.0  0.34369927644729614  0.6083933115005494  0.6557769775390625  1.0000

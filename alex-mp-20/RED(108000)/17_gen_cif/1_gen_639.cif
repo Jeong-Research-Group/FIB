@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2CuPt
+_chemical_formula_sum              "Zn2 Cu1 Pt1"
+_cell_length_a       2.8327423652545662
+_cell_length_b       4.517951949422149
+_cell_length_c       4.517950621623586
+_cell_angle_alpha    104.64541258237978
+_cell_angle_beta     90.00005093939963
+_cell_angle_gamma    90.00007702063245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7595957455037735  0.774929636469415  0.5569387114369804  1.0000
+  Zn  Zn2       1.0  0.7595431877359576  0.27326251687345365  0.05549395516148978  1.0000
+  Cu  Cu1       1.0  0.2595753646449018  0.7732215591170505  0.05697101990750898  1.0000
+  Pt  Pt1       1.0  0.2595820137462372  0.27487392642956016  0.5556112366712156  1.0000

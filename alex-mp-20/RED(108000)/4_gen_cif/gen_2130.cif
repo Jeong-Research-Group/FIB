@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaAlCaPt2Al
+_chemical_formula_sum              "Ca2 Al2 Pt2"
+_cell_length_a       4.181410473364472
+_cell_length_b       4.184006814898035
+_cell_length_c       7.285296440124512
+_cell_angle_alpha    89.98605525920247
+_cell_angle_beta     90.07900729259724
+_cell_angle_gamma    90.00024839125352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7866215705871582  0.01533645670861006  0.15999428927898407  1.0000
+  Al  Al1       1.0  0.7860865592956543  0.5155186653137208  0.8122334480285646  1.0000
+  Ca  Ca2       1.0  0.2866497337818146  0.5158379077911377  0.4655065834522248  1.0000
+  Pt  Pt1       1.0  0.786544680595398  0.015708912163972855  0.6112550497055054  1.0000
+  Pt  Pt2       1.0  0.2864196300506592  0.5155918598175049  0.013687238097190859  1.0000
+  Al  Al2       1.0  0.28767892718315125  0.015885550528764725  0.8121600747108461  1.0000

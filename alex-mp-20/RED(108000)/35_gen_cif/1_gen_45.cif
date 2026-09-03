@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg3CdAgPt
+_chemical_formula_sum              "Mg3 Cd1 Ag1 Pt1"
+_cell_length_a       3.1854882183825244
+_cell_length_b       3.1857711913777287
+_cell_length_c       11.131968773416327
+_cell_angle_alpha    90.01552617763171
+_cell_angle_beta     89.99016536351017
+_cell_angle_gamma    90.03101149076008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8292359617885721  0.5370067893014123  0.23730409893013987  1.0000
+  Mg  Mg2       1.0  0.8289940620935233  0.5374692139541425  0.848892908043351  1.0000
+  Mg  Mg3       1.0  0.8290351423777187  0.5372884123149709  0.5191921033398662  1.0000
+  Cd  Cd1       1.0  0.3292287377274689  0.037093475145170016  0.04216902172792491  1.0000
+  Ag  Ag1       1.0  0.32894809132300845  0.037536705648542765  0.688561127993003  1.0000
+  Pt  Pt1       1.0  0.3291346000330198  0.03713294642416881  0.37616775628755417  1.0000

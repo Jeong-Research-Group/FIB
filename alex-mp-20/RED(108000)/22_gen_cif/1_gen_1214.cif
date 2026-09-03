@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Nb2HOs2
+_chemical_formula_sum              "Nb2 H1 Os2"
+_cell_length_a       3.0654429051688488
+_cell_length_b       4.613504120475831
+_cell_length_c       4.81368694469894
+_cell_angle_alpha    93.80118838981723
+_cell_angle_beta     89.98776716035036
+_cell_angle_gamma    90.00624738344561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.6675964912223658  0.8233909893865873  0.1867588152733843  1.0000
+  Nb  Nb2       1.0  0.6686750168812726  0.3139277418277564  0.7760172445732584  1.0000
+  H   H1        1.0  0.16823370240876306  0.06875566543865631  0.9813281048732041  1.0000
+  Os  Os1       1.0  0.1679325038947918  0.3242920989279456  0.303458441514543  1.0000
+  Os  Os2       1.0  0.1683201196320322  0.8127201932019403  0.6592078327448018  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InNa2GaInGa
+_chemical_formula_sum              "In2 Na2 Ga2"
+_cell_length_a       4.039734116229539
+_cell_length_b       5.749470941898023
+_cell_length_c       7.367285251617432
+_cell_angle_alpha    108.42221102899326
+_cell_angle_beta     90.06517617170863
+_cell_angle_gamma    110.44917792611557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.49647021293640137  0.9295224547386169  0.2556150555610657  1.0000
+  Na  Na1       1.0  0.847801685333252  0.6317856311798096  0.8820565342903136  1.0000
+  Na  Na2       1.0  0.16315737366676328  0.2632500529289245  0.05895900726318358  1.0000
+  Ga  Ga1       1.0  0.4941993057727813  0.9256316423416137  0.671155571937561  1.0000
+  In  In2       1.0  0.17154356837272644  0.28023988008499146  0.5610091090202332  1.0000
+  Ga  Ga2       1.0  0.8394563794136047  0.6153367757797241  0.407688707113266  1.0000

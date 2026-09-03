@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgCdSnTe3
+_chemical_formula_sum              "Mg1 Cd1 Sn1 Te3"
+_cell_length_a       4.367047243399545
+_cell_length_b       6.188429934250413
+_cell_length_c       7.554435369679042
+_cell_angle_alpha    114.21710509353161
+_cell_angle_beta     106.81178201677528
+_cell_angle_gamma    89.99609575114133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2432226679050319  0.1781861875304173  0.3871753273370879  1.0000
+  Cd  Cd1       1.0  0.5744325118085516  0.5096082386528836  0.050207260188318045  1.0000
+  Sn  Sn1       1.0  0.9092969157502624  0.8445898632417952  0.7207705292833815  1.0000
+  Te  Te1       1.0  0.5886790162085694  0.023836550332168138  0.07852634727790916  1.0000
+  Te  Te2       1.0  0.23564759363191937  0.6712902174848773  0.37287516300768864  1.0000
+  Te  Te3       1.0  0.9031329620165538  0.33830731953964205  0.7079800692472598  1.0000

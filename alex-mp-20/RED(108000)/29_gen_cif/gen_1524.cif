@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FePtGaHPt
+_chemical_formula_sum              "Fe1 Pt2 Ga1 H1"
+_cell_length_a       3.8624638006892775
+_cell_length_b       3.9972822804797055
+_cell_length_c       3.9976084232330322
+_cell_angle_alpha    89.9952282023765
+_cell_angle_beta     89.98776963565247
+_cell_angle_gamma    90.0008562781022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.37964060902595526  0.5211427211761475  0.7167345881462097  1.0000
+  Pt  Pt1       1.0  0.8799127936363221  0.02090206742286682  0.7167357206344604  1.0000
+  Ga  Ga1       1.0  0.38003537058830267  0.02089962735772133  0.21715588867664337  1.0000
+  H   H1        1.0  0.8799637556076051  0.5207830667495728  0.7169097661972046  1.0000
+  Pt  Pt2       1.0  0.879947602748871  0.5211475491523744  0.21674476563930511  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgAl3Os2
+_chemical_formula_sum              "Mg1 Al3 Os2"
+_cell_length_a       3.1077637517797316
+_cell_length_b       3.107760025445783
+_cell_length_c       9.540231710602896
+_cell_angle_alpha    90.0006037334822
+_cell_angle_beta     89.98585555246011
+_cell_angle_gamma    90.00093344632407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1565723198748157  0.5312286604333787  0.4419846828388113  1.0000
+  Al  Al1       1.0  0.655937433060689  0.03131997529846636  0.2354908559901978  1.0000
+  Al  Al2       1.0  0.6568825104749244  0.03130263999826391  0.6487150090791194  1.0000
+  Al  Al3       1.0  0.6563713603939415  0.03132582417691014  0.9421387804147664  1.0000
+  Os  Os1       1.0  0.156146909698461  0.5313656057042374  0.1013385391166296  1.0000
+  Os  Os2       1.0  0.15674225901942654  0.5313615192175661  0.7829290678461125  1.0000

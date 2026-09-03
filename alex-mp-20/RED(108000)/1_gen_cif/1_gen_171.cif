@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SrCaH3SF
+_chemical_formula_sum              "Sr1 Ca1 H3 S1 F1"
+_cell_length_a       4.12662438080917
+_cell_length_b       4.188149912952733
+_cell_length_c       6.284690774427263
+_cell_angle_alpha    89.92252452727269
+_cell_angle_beta     89.98255045043479
+_cell_angle_gamma    90.00373370352106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.01004996454542864  0.1770315781768547  0.3427438504590339  1.0000
+  Ca  Ca1       1.0  0.51050662832193  0.6778593385629421  0.9503093494982603  1.0000
+  H   H1        1.0  0.010425145324435548  0.6776487335022287  0.07741934830467685  1.0000
+  H   H2        1.0  0.00917625269844581  0.2755341301984969  0.7490948298414025  1.0000
+  H   H3        1.0  0.008698068498057484  0.09451300477308325  0.7506462155394535  1.0000
+  S   S1        1.0  0.5099154630334302  0.6774766730780837  0.5142254562911217  1.0000
+  F   F1        1.0  0.5099866570944117  0.17768857941116797  0.07613594265258175  1.0000

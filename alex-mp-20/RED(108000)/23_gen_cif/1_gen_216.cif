@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaLa2InO
+_chemical_formula_sum              "Na1 La2 In1 O1"
+_cell_length_a       4.840541548259642
+_cell_length_b       5.045413055786479
+_cell_length_c       5.0496324539733495
+_cell_angle_alpha    90.0000957295626
+_cell_angle_beta     89.993576637774
+_cell_angle_gamma    89.99201737237743
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.07014542884342269  0.12413264799229136  0.4835166048309187  1.0000
+  La  La1       1.0  0.5702826809648559  0.6246821771959856  0.4842690546517591  1.0000
+  La  La2       1.0  0.5707840919950953  0.124777269428537  0.9839564973755396  1.0000
+  In  In1       1.0  0.06975431452396724  0.6243424555265894  0.9837344328282255  1.0000
+  O   O1        1.0  0.5703733159239018  0.12499992385150975  0.48360584353340974  1.0000

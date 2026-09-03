@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Be2ZnPt2
+_chemical_formula_sum              "Be2 Zn1 Pt2"
+_cell_length_a       3.886875188045546
+_cell_length_b       3.8871543287404777
+_cell_length_c       4.878586497826711
+_cell_angle_alpha    90.0150794224322
+_cell_angle_beta     89.99384263384816
+_cell_angle_gamma    120.00928019771136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.8253503396801852  0.3275887145860498  0.9220665439099928  1.0000
+  Be  Be2       1.0  0.1584154891805893  0.9946864042652767  0.2433221895360698  1.0000
+  Zn  Zn1       1.0  0.15833096744812042  0.994411403311504  0.731125252562258  1.0000
+  Pt  Pt1       1.0  0.8252619645292057  0.327812564267193  0.4301861704495281  1.0000
+  Pt  Pt2       1.0  0.4919835227774343  0.6610447239368058  0.06332341919318327  1.0000

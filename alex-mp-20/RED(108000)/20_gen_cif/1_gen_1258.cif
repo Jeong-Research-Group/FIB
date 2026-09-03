@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3Zn3In2
+_chemical_formula_sum              "Li3 Zn3 In2"
+_cell_length_a       5.0968144371541975
+_cell_length_b       5.228817904863336
+_cell_length_c       5.28550768368527
+_cell_angle_alpha    90.07929184049667
+_cell_angle_beta     90.00825865256154
+_cell_angle_gamma    90.03063457826786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5914368826298559  0.09283356040478992  0.30079568066606943  1.0000
+  Li  Li2       1.0  0.09101241094226048  0.8317122536619183  0.5492493726033608  1.0000
+  Li  Li3       1.0  0.09111971542971653  0.8308046507274015  0.051279139418048215  1.0000
+  Zn  Zn1       1.0  0.8431862054235023  0.32907368421486344  0.8000429228082803  1.0000
+  Zn  Zn2       1.0  0.5912941912717399  0.597828550617188  0.2996035627255125  1.0000
+  Zn  Zn3       1.0  0.34035757479386064  0.32767468020614715  0.800135088784192  1.0000
+  In  In1       1.0  0.5913128378213476  0.8323411741478035  0.8000270700428234  1.0000
+  In  In2       1.0  0.09148647247022078  0.3361686547947067  0.29991159425284447  1.0000

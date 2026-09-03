@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cu2GeIr
+_chemical_formula_sum              "Cu2 Ge1 Ir1"
+_cell_length_a       3.66419092358654
+_cell_length_b       3.6703583707999443
+_cell_length_c       3.9808660318421816
+_cell_angle_alpha    89.99961704982829
+_cell_angle_beta     89.99821505904049
+_cell_angle_gamma    89.99596338088838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7067087886249657  0.3512561180290741  0.023165663051819215  1.0000
+  Cu  Cu2       1.0  0.20671314710342367  0.8512625126391092  0.023458274148121846  1.0000
+  Ge  Ge1       1.0  0.20665420870977136  0.35150244522647217  0.5228068565216006  1.0000
+  Ir  Ir1       1.0  0.706789662891581  0.8514206260236091  0.5229639553237116  1.0000

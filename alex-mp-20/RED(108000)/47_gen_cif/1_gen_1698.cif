@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2PbAu
+_chemical_formula_sum              "Lu2 Pb1 Au1"
+_cell_length_a       3.541063273696518
+_cell_length_b       3.541014328033714
+_cell_length_c       7.885988233229599
+_cell_angle_alpha    89.98966480428848
+_cell_angle_beta     89.99476107381855
+_cell_angle_gamma    89.99547869788161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.09863250247333782  0.07533223796905741  0.33575727148372464  1.0000
+  Lu  Lu2       1.0  0.0985381793917113  0.07513757433940979  0.7816425492268102  1.0000
+  Pb  Pb1       1.0  0.5986022734000285  0.5751127128463536  0.0586817940052556  1.0000
+  Au  Au1       1.0  0.5986474662155317  0.5749875052436723  0.5586766921066042  1.0000

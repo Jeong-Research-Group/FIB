@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbCd2In2Pb
+_chemical_formula_sum              "Rb1 Cd2 In2 Pb1"
+_cell_length_a       6.5942829659603905
+_cell_length_b       6.371179532043412
+_cell_length_c       6.357207596465666
+_cell_angle_alpha    58.71807010768548
+_cell_angle_beta     58.9142957009508
+_cell_angle_gamma    58.879978307169566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.5567781910429799  0.8559150340146702  0.35750763936767765  1.0000
+  Cd  Cd1       1.0  0.17922307494485556  0.48243093789237723  0.4852928363595682  1.0000
+  Cd  Cd2       1.0  0.17970552808442752  0.9818967978645368  0.984667931654084  1.0000
+  In  In1       1.0  0.6853932418430092  0.4783909012541786  0.9818021967528474  1.0000
+  In  In2       1.0  0.18147866533257903  0.47857459271519825  0.9808921724443297  1.0000
+  Pb  Pb1       1.0  0.8069598753204428  0.10707036875249018  0.6073748119338075  1.0000

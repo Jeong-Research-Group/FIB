@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgZnGaMgPd
+_chemical_formula_sum              "Mg2 Zn1 Ga1 Pd1"
+_cell_length_a       3.0926682056792187
+_cell_length_b       4.604256581724885
+_cell_length_c       6.676695346832275
+_cell_angle_alpha    109.92681973125832
+_cell_angle_beta     89.94208932085331
+_cell_angle_gamma    90.02556790222425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.815090537071228  0.43125572800636297  0.9490532279014587  1.0000
+  Zn  Zn1       1.0  0.31575173139572144  0.9702771902084352  0.02521539479494098  1.0000
+  Ga  Ga1       1.0  0.815014660358429  0.7904465794563293  0.6640868186950684  1.0000
+  Mg  Mg2       1.0  0.8152132630348206  0.15951624512672424  0.39693862199783325  1.0000
+  Pd  Pd1       1.0  0.314736008644104  0.6150593161582947  0.3103657066822052  1.0000

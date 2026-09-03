@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdCaMg2HgCdHg2
+_chemical_formula_sum              "Cd2 Ca1 Mg2 Hg3"
+_cell_length_a       5.125705735658038
+_cell_length_b       5.1303292986682125
+_cell_length_c       8.88674545288086
+_cell_angle_alpha    73.22541916331109
+_cell_angle_beta     73.14403015749484
+_cell_angle_gamma    59.974285112394206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6863835453987122  0.8749423027038574  0.7594813704490662  1.0000
+  Ca  Ca1       1.0  0.5557169318199158  0.7438349723815917  0.152400478720665  1.0000
+  Mg  Mg1       1.0  0.8068478107452394  0.9967231154441833  0.3964932858943939  1.0000
+  Mg  Mg2       1.0  0.05677723139524459  0.24639129638671875  0.646540105342865  1.0000
+  Hg  Hg1       1.0  0.9369173645973206  0.12544304132461545  0.007415083702653621  1.0000
+  Cd  Cd2       1.0  0.3018575012683869  0.4901874363422393  0.9131606817245483  1.0000
+  Hg  Hg2       1.0  0.1740801632404328  0.3623142540454864  0.2968698740005493  1.0000
+  Hg  Hg3       1.0  0.4259960651397705  0.6157874464988708  0.5391709208488464  1.0000

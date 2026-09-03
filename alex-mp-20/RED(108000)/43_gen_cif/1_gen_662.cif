@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2TbSi2
+_chemical_formula_sum              "Li2 Tb1 Si2"
+_cell_length_a       4.002373176622292
+_cell_length_b       4.004817514451165
+_cell_length_c       6.2391746247458295
+_cell_angle_alpha    108.71412029900554
+_cell_angle_beta     108.703109908195
+_cell_angle_gamma    90.0014681054249
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9400089863115096  0.9742337017934294  0.4762308344828719  1.0000
+  Li  Li2       1.0  0.4403043277719326  0.4747678296595347  0.4769327483117339  1.0000
+  Tb  Tb1       1.0  0.19010946352296756  0.7245671297477286  0.9763593525736651  1.0000
+  Si  Si1       1.0  0.7943465700045084  0.32862340904843823  0.1842734088954718  1.0000
+  Si  Si2       1.0  0.5861591193263452  0.12059255092191773  0.769195342464278  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Pr2Ni2C
+_chemical_formula_sum              "Tb2 Pr2 Ni2 C1"
+_cell_length_a       4.866498930204484
+_cell_length_b       4.8668280530576675
+_cell_length_c       7.750087288395053
+_cell_angle_alpha    108.28240114906994
+_cell_angle_beta     108.317594028918
+_cell_angle_gamma    90.00359944120322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6829821593140323  0.21502831164798844  0.7935456296631568  1.0000
+  Tb  Tb2       1.0  0.18325145843782173  0.714870858519327  0.7937344995774606  1.0000
+  Pr  Pr1       1.0  0.49857375633199436  0.5306903660281207  0.4241625733603032  1.0000
+  Pr  Pr2       1.0  0.8682565056473064  0.9003395841372345  0.16348315518411025  1.0000
+  Ni  Ni1       1.0  0.06930310121747059  0.10106958641277898  0.5654053028723077  1.0000
+  Ni  Ni2       1.0  0.2972490054906603  0.32821285698618513  0.02106156115404541  1.0000
+  C   C1        1.0  0.6830947150998042  0.7151240063672412  0.7940010657536002  1.0000

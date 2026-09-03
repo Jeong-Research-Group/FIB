@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2TmAl3
+_chemical_formula_sum              "Pr2 Tm1 Al3"
+_cell_length_a       6.013267864919176
+_cell_length_b       5.9434343807461785
+_cell_length_c       5.949258327484131
+_cell_angle_alpha    59.98718929278539
+_cell_angle_beta     60.34741322882385
+_cell_angle_gamma    60.40402034043393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.15782204270362854  0.9980970025062562  0.13396236300468445  1.0000
+  Pr  Pr2       1.0  0.023156844079494476  0.37637922167778015  0.5117964148521423  1.0000
+  Tm  Tm1       1.0  0.28564679622650146  0.6225010752677917  0.7577633857727051  1.0000
+  Al  Al1       1.0  0.6560705900192261  0.9979791641235352  0.6349079608917236  1.0000
+  Al  Al2       1.0  0.6578071117401124  0.49978181719779974  0.13374932110309593  1.0000
+  Al  Al3       1.0  0.6567555665969849  0.9984032511711122  0.1338755339384079  1.0000

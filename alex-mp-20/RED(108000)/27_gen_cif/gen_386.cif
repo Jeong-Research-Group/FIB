@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2Se2NdSe2Tm
+_chemical_formula_sum              "Ca2 Se4 Nd1 Tm1"
+_cell_length_a       4.097346444379227
+_cell_length_b       7.178272148072779
+_cell_length_c       7.308804988861084
+_cell_angle_alpha    109.0787342525331
+_cell_angle_beta     90.01489914794077
+_cell_angle_gamma    89.99294691908108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.391531378030777  0.07720959931612015  0.9659497141838074  1.0000
+  Ca  Ca2       1.0  0.8913336992263794  0.5775720477104187  0.9658094644546509  1.0000
+  Se  Se1       1.0  0.39120396971702576  0.3166693150997162  0.7113382816314697  1.0000
+  Se  Se2       1.0  0.39126819372177124  0.8378880620002747  0.2202930450439453  1.0000
+  Nd  Nd1       1.0  0.3911709785461426  0.5773845314979553  0.4657977223396301  1.0000
+  Se  Se3       1.0  0.8913792967796326  0.8377352952957153  0.7187915444374084  1.0000
+  Se  Se4       1.0  0.8908175826072693  0.3162710368633271  0.21335284411907196  1.0000
+  Tm  Tm1       1.0  0.891227662563324  0.0770912393927574  0.4659249782562256  1.0000

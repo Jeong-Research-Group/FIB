@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2Re2Mo2
+_chemical_formula_sum              "Mn2 Re2 Mo2"
+_cell_length_a       4.349141860729876
+_cell_length_b       4.349172149878192
+_cell_length_c       5.284199558293294
+_cell_angle_alpha    89.9956165738811
+_cell_angle_beta     90.00522333213362
+_cell_angle_gamma    120.0037570009039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6980238557072762  0.39565406667361763  0.35832322135545774  1.0000
+  Mn  Mn2       1.0  0.36466826971024374  0.7289616266808886  0.7157030515292268  1.0000
+  Re  Re1       1.0  0.6980278144467402  0.39562877127851576  0.8582930299303471  1.0000
+  Re  Re2       1.0  0.03133872381068243  0.06230534703003102  0.024654405974656766  1.0000
+  Mo  Mo1       1.0  0.3646810935972471  0.7289822848384101  0.2125997313571414  1.0000
+  Mo  Mo2       1.0  0.03139151523437081  0.06230254188404984  0.5290212280575682  1.0000

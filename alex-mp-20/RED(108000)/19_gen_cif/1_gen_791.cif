@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be3AlCr2
+_chemical_formula_sum              "Be3 Al1 Cr2"
+_cell_length_a       3.8848532271741316
+_cell_length_b       3.7991930920917376
+_cell_length_c       4.65950205163797
+_cell_angle_alpha    114.05367849087357
+_cell_angle_beta     89.99608518108741
+_cell_angle_gamma    90.0116091356986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.7188292814944915  0.012611315928741453  0.20203725743281734  1.0000
+  Be  Be2       1.0  0.21897343388411736  0.8593821295565983  0.8957349628249868  1.0000
+  Be  Be3       1.0  0.21920292693543467  0.5094927153423647  0.195986236899623  1.0000
+  Al  Al1       1.0  0.2190840062739262  0.17975460496611986  0.5367035757822002  1.0000
+  Cr  Cr1       1.0  0.719020985189988  0.356927152536854  0.8906056172976832  1.0000
+  Cr  Cr2       1.0  0.7190176014692857  0.6898102567939758  0.5568464242898451  1.0000

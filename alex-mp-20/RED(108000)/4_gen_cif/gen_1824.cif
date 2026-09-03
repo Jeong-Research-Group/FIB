@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2AuCuN
+_chemical_formula_sum              "Sr2 Au1 Cu1 N1"
+_cell_length_a       3.7736487539735584
+_cell_length_b       5.375508799396655
+_cell_length_c       5.37925910949707
+_cell_angle_alpha    89.99584291946883
+_cell_angle_beta     89.94984842526573
+_cell_angle_gamma    89.97376774869475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2734893262386322  0.7506803870201112  0.689098596572876  1.0000
+  Sr  Sr2       1.0  0.27409911155700684  0.2504207491874695  0.18871168792247772  1.0000
+  Au  Au1       1.0  0.7739299535751343  0.7505956888198853  0.1891508847475052  1.0000
+  Cu  Cu1       1.0  0.7729120254516602  0.25049665570259094  0.6890440583229065  1.0000
+  N   N1        1.0  0.27402588725090027  0.2505841553211212  0.6887440085411072  1.0000

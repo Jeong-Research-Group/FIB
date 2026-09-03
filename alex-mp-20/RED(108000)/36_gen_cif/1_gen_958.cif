@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb3ZnMo2
+_chemical_formula_sum              "Nb3 Zn1 Mo2"
+_cell_length_a       3.3648731645378653
+_cell_length_b       4.463441063694698
+_cell_length_c       6.95445044357515
+_cell_angle_alpha    90.00699249013614
+_cell_angle_beta     104.00079604517322
+_cell_angle_gamma    90.00030515743242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2525241752794376  0.2620395699183003  0.6555512540884781  1.0000
+  Nb  Nb2       1.0  0.4193273189181753  0.7621541479580198  0.9892378031209756  1.0000
+  Nb  Nb3       1.0  0.5833904657683473  0.26228470113103775  0.31737003232427335  1.0000
+  Zn  Zn1       1.0  0.09002740770527519  0.7622660099350955  0.33064585974112637  1.0000
+  Mo  Mo1       1.0  0.7513055786510123  0.7619622896150109  0.6531061723443699  1.0000
+  Mo  Mo2       1.0  0.9243055368364664  0.26217110273419336  0.9991649853592263  1.0000

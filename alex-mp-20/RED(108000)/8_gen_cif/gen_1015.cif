@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnMgTeMnMgTe3
+_chemical_formula_sum              "Mn2 Mg2 Te4"
+_cell_length_a       4.159495098808062
+_cell_length_b       5.87631770444346
+_cell_length_c       8.37742805480957
+_cell_angle_alpha    90.07802375698802
+_cell_angle_beta     90.01871722511372
+_cell_angle_gamma    90.08844662049056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.1915738880634308  0.7890738844871521  0.3935720920562744  1.0000
+  Mg  Mg1       1.0  0.6917248368263245  0.2890537679195404  0.15148361027240753  1.0000
+  Te  Te1       1.0  0.6913621425628662  0.788833498954773  0.6380540132522583  1.0000
+  Mn  Mn2       1.0  0.6919536590576172  0.2888826429843903  0.6503824591636658  1.0000
+  Mg  Mg2       1.0  0.19166657328605652  0.7892325520515442  0.8930310010910034  1.0000
+  Te  Te2       1.0  0.6913713812828064  0.788993537425995  0.1538412719964981  1.0000
+  Te  Te3       1.0  0.19164195656776428  0.2891715466976166  0.40628528594970703  1.0000
+  Te  Te4       1.0  0.19201350212097168  0.28907725214958196  0.8904542922973633  1.0000

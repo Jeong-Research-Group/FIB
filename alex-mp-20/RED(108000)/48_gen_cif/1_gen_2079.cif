@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnBe2CrP2
+_chemical_formula_sum              "Mn1 Be2 Cr1 P2"
+_cell_length_a       4.14986559899924
+_cell_length_b       4.193676783761177
+_cell_length_c       4.394171077072593
+_cell_angle_alpha    76.49992630851031
+_cell_angle_beta     61.68588724120266
+_cell_angle_gamma    60.40929694189763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6557413472436737  0.3429095545814058  0.9556072255135052  1.0000
+  Be  Be1       1.0  0.7416420692620519  0.17295772071383247  0.4543152626611326  1.0000
+  Be  Be2       1.0  0.9921015960805949  0.6765122509652063  0.9523386260861538  1.0000
+  Cr  Cr1       1.0  0.40366718725783535  0.8483709493354107  0.4529522286276787  1.0000
+  P   P1        1.0  0.32238701111440277  0.010955104328379796  0.9539412376677331  1.0000
+  P   P2        1.0  0.06817248727239217  0.5173947648929892  0.4544583214739925  1.0000

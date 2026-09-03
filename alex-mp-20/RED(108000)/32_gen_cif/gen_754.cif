@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AuCuHAuSn
+_chemical_formula_sum              "Au2 Cu1 H1 Sn1"
+_cell_length_a       4.289277421705663
+_cell_length_b       4.2404364453267025
+_cell_length_c       4.324086666107178
+_cell_angle_alpha    89.92424886810343
+_cell_angle_beta     89.88951735428338
+_cell_angle_gamma    89.94343487180929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.6880654096603394  0.5597053170204163  0.28466796875  1.0000
+  Cu  Cu1       1.0  0.18835805356502533  0.059644270688295364  0.2836146056652069  1.0000
+  H   H1        1.0  0.18886642158031464  0.5597793459892273  0.2835361957550049  1.0000
+  Au  Au2       1.0  0.1880711168050766  0.5596011877059937  0.7826893925666809  1.0000
+  Sn  Sn1       1.0  0.6879533529281616  0.0593641959130764  0.7827068567276001  1.0000

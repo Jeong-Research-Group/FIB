@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2AgHgTe4
+_chemical_formula_sum              "Cd2 Ag1 Hg1 Te4"
+_cell_length_a       6.555482164880972
+_cell_length_b       6.562886276808913
+_cell_length_c       6.552418612001669
+_cell_angle_alpha    90.00020324486368
+_cell_angle_beta     89.96987895153732
+_cell_angle_gamma    90.00026311336694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6507705521954261  0.4361914022016001  0.8195974511509001  1.0000
+  Cd  Cd2       1.0  0.1510073091541598  0.4354815428703432  0.3199874659087095  1.0000
+  Ag  Ag1       1.0  0.6509613612778178  0.9357563949004193  0.3196547422660457  1.0000
+  Hg  Hg1       1.0  0.15101909933792845  0.935979883695311  0.8198305248324801  1.0000
+  Te  Te1       1.0  0.89562780020735  0.18135174928654088  0.0752977655580895  1.0000
+  Te  Te2       1.0  0.40656783259882684  0.1811881203804554  0.5641612285472324  1.0000
+  Te  Te3       1.0  0.40627335716058993  0.6907446237344677  0.07545739029568449  1.0000
+  Te  Te4       1.0  0.8952661727622903  0.6907992329227344  0.5641273863310452  1.0000

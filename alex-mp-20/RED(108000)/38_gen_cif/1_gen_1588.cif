@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiTa2Pd2
+_chemical_formula_sum              "Li1 Ta2 Pd2"
+_cell_length_a       3.4662891771344015
+_cell_length_b       5.103356724222418
+_cell_length_c       5.125674499904495
+_cell_angle_alpha    82.81965511463304
+_cell_angle_beta     70.23740491292534
+_cell_angle_gamma    70.14953086588392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.41807634094147367  0.14929814040568534  0.8165282647066885  1.0000
+  Ta  Ta1       1.0  0.23051463501353775  0.759238642395325  0.5814452233113979  1.0000
+  Ta  Ta2       1.0  0.03351581381162042  0.35102962500817125  0.38379770005655506  1.0000
+  Pd  Pd1       1.0  0.6516591844130837  0.5296493281784408  0.9686657223182635  1.0000
+  Pd  Pd2       1.0  0.8311115737653137  0.9601551793831369  0.17950007887952615  1.0000

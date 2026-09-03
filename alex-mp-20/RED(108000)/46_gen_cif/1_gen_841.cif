@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ga2FeIr
+_chemical_formula_sum              "Ga2 Fe1 Ir1"
+_cell_length_a       2.9649962133630363
+_cell_length_b       2.965479457180139
+_cell_length_c       6.012748076899052
+_cell_angle_alpha    90.00059878393712
+_cell_angle_beta     89.99722322890165
+_cell_angle_gamma    89.98258183213682
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3170641374531478  0.04028157820169457  0.0872461021769458  1.0000
+  Ga  Ga2       1.0  0.31697238115879317  0.04039669721458208  0.5539058659623828  1.0000
+  Fe  Fe1       1.0  0.8170529589492623  0.5403411909723694  0.3203385011550894  1.0000
+  Ir  Ir1       1.0  0.8168394217859303  0.5399615567389867  0.8208282270749855  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Sm2InPt2
+_chemical_formula_sum              "Tb2 Sm2 In1 Pt2"
+_cell_length_a       4.454852875026575
+_cell_length_b       5.869329054707683
+_cell_length_c       8.342243080964813
+_cell_angle_alpha    66.01880671459936
+_cell_angle_beta     74.51171953748747
+_cell_angle_gamma    67.69456150394029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.17311736161164334  0.9282335484709099  0.9187674557276628  1.0000
+  Tb  Tb2       1.0  0.9264277526387656  0.5870438007265952  0.7536026067479428  1.0000
+  Sm  Sm1       1.0  0.40169717770649  0.2310767462093032  0.1588229671431819  1.0000
+  Sm  Sm2       1.0  0.6977890407025978  0.2843231303695247  0.5135806562812684  1.0000
+  In  In1       1.0  0.049640256544323365  0.7579140826000654  0.33619041370955255  1.0000
+  Pt  Pt1       1.0  0.7312128627616993  0.6221444716262228  0.10858576479313467  1.0000
+  Pt  Pt2       1.0  0.3681961884815446  0.8932122971859074  0.5638731625823653  1.0000

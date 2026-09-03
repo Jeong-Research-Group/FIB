@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiBaGaBaBiPb
+_chemical_formula_sum              "Bi2 Ba2 Ga1 Pb1"
+_cell_length_a       5.371289805686647
+_cell_length_b       5.404959611736036
+_cell_length_c       8.014086723327637
+_cell_angle_alpha    89.94174098992204
+_cell_angle_beta     89.97401363515468
+_cell_angle_gamma    90.01767903557331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.3347698152065277  0.29503607749938965  0.9168174862861633  1.0000
+  Ba  Ba1       1.0  0.3341033458709717  0.29511263966560364  0.3762548863887787  1.0000
+  Ga  Ga1       1.0  0.3342382311820984  0.7952784299850464  0.673189103603363  1.0000
+  Ba  Ba2       1.0  0.8340376019477844  0.7960463762283325  0.9732257723808289  1.0000
+  Bi  Bi2       1.0  0.8341953158378601  0.796518564224243  0.4328959584236145  1.0000
+  Pb  Pb1       1.0  0.8341838717460632  0.2957580089569092  0.6752603054046631  1.0000

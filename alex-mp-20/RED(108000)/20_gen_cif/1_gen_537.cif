@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3CuPd2
+_chemical_formula_sum              "Sc3 Cu1 Pd2"
+_cell_length_a       3.292282025659763
+_cell_length_b       3.289486124811221
+_cell_length_c       9.904275538587804
+_cell_angle_alpha    89.94610579145784
+_cell_angle_beta     89.94962800279696
+_cell_angle_gamma    89.98085138903228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8776456477782701  0.5075535260250252  0.1471147207321066  1.0000
+  Sc  Sc2       1.0  0.8773632901027126  0.5070403587124539  0.48524686808138695  1.0000
+  Sc  Sc3       1.0  0.8777092239375842  0.5074713253309041  0.8232785683023844  1.0000
+  Cu  Cu1       1.0  0.3776555536302724  0.007553996377552908  0.9850712240490155  1.0000
+  Pd  Pd1       1.0  0.3775132539876236  0.007174319860903398  0.3170953705484278  1.0000
+  Pd  Pd2       1.0  0.37757349339042034  0.007293416638383967  0.653687145446759  1.0000

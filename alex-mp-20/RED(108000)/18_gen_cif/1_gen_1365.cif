@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaTb2Au2
+_chemical_formula_sum              "La1 Tb2 Au2"
+_cell_length_a       3.8886240160183436
+_cell_length_b       4.620961544799132
+_cell_length_c       8.231643901021549
+_cell_angle_alpha    106.29941009271154
+_cell_angle_beta     89.99594523744305
+_cell_angle_gamma    89.99994623041215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7234192676443599  0.30327049108770887  0.31399868849359747  1.0000
+  Tb  Tb1       1.0  0.7233109530262274  0.017627528833781714  0.7429713446589101  1.0000
+  Tb  Tb2       1.0  0.22353438341911286  0.6615274524017694  0.030561767195158032  1.0000
+  Au  Au1       1.0  0.22353748028982645  0.4811876819066502  0.6699694898814895  1.0000
+  Au  Au2       1.0  0.22328003432342416  0.8548327609386422  0.4171219363952591  1.0000

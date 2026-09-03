@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AuSrAuLi2Sr
+_chemical_formula_sum              "Au2 Sr2 Li2"
+_cell_length_a       4.465863406019065
+_cell_length_b       4.467275280996835
+_cell_length_c       7.841001033782959
+_cell_angle_alpha    90.04006156340954
+_cell_angle_beta     90.04079239411631
+_cell_angle_gamma    89.9652231822829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.6167627573013306  0.6948351860046388  0.9640507102012634  1.0000
+  Sr  Sr1       1.0  0.616720974445343  0.6948462128639221  0.5253610014915466  1.0000
+  Au  Au2       1.0  0.1167452409863472  0.19466628134250644  0.4153405725955963  1.0000
+  Li  Li1       1.0  0.6168823838233948  0.19467957317829135  0.1901165246963501  1.0000
+  Li  Li2       1.0  0.11670413613319397  0.6950303316116333  0.18963319063186646  1.0000
+  Sr  Sr2       1.0  0.11651217192411423  0.19467134773731232  0.8546459078788757  1.0000

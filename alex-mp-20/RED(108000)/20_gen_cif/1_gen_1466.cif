@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2CuIr
+_chemical_formula_sum              "Ta2 Cu1 Ir1"
+_cell_length_a       3.9788504892841687
+_cell_length_b       3.9626942975334605
+_cell_length_c       3.9626992320617966
+_cell_angle_alpha    90.00074055027366
+_cell_angle_beta     89.98048162097226
+_cell_angle_gamma    89.98542317948628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6467816748092015  0.38864284833568635  0.771077711164342  1.0000
+  Ta  Ta2       1.0  0.6471281757721197  0.8890238387813602  0.2717357062273732  1.0000
+  Cu  Cu1       1.0  0.14700410551050738  0.3887805997057454  0.2711443800943886  1.0000
+  Ir  Ir1       1.0  0.14689197078779934  0.8885250044341447  0.7709314641501728  1.0000

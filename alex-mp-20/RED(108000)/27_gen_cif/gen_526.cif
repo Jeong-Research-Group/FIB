@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbAgHgPb
+_chemical_formula_sum              "Pb2 Ag1 Hg1"
+_cell_length_a       4.457234785365091
+_cell_length_b       4.87747862538142
+_cell_length_c       4.880438804626465
+_cell_angle_alpha    90.0058969580475
+_cell_angle_beta     90.04469926470315
+_cell_angle_gamma    90.04773869267697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.14166796207427979  0.14515596628189087  0.12947481870651245  1.0000
+  Ag  Ag1       1.0  0.6416091918945312  0.645459771156311  0.12933315336704254  1.0000
+  Hg  Hg1       1.0  0.6415539979934692  0.1451708823442459  0.6296958923339844  1.0000
+  Pb  Pb2       1.0  0.14176151156425476  0.6450740694999695  0.6297405362129211  1.0000

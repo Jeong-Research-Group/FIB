@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaZnSrZnH
+_chemical_formula_sum              "Ga1 Zn2 Sr1 H1"
+_cell_length_a       4.036955089091431
+_cell_length_b       4.299901492576415
+_cell_length_c       5.863180160522461
+_cell_angle_alpha    90.07639133925568
+_cell_angle_beta     90.33814465956604
+_cell_angle_gamma    90.01687990219372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.21769319474697113  0.3375234305858612  0.4446369409561157  1.0000
+  Zn  Zn1       1.0  0.7175276279449463  0.8367054462432861  0.4222898483276367  1.0000
+  Sr  Sr1       1.0  0.7177011370658875  0.33692291378974915  0.9571400284767151  1.0000
+  Zn  Zn2       1.0  0.21678905189037323  0.8355746865272522  0.6851271986961365  1.0000
+  H   H1        1.0  0.7198031544685364  0.8365152478218079  0.13759928941726685  1.0000

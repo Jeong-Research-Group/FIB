@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuSmHg3Cu
+_chemical_formula_sum              "Cu2 Sm1 Hg3"
+_cell_length_a       4.630859577063943
+_cell_length_b       4.631691203639898
+_cell_length_c       6.707478046417236
+_cell_angle_alpha    89.9591306548204
+_cell_angle_beta     90.06590016570952
+_cell_angle_gamma    120.00738265656017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.22423125803470612  0.9861195683479309  0.7016444802284241  1.0000
+  Sm  Sm1       1.0  0.8910498023033142  0.31946665048599243  0.9854147434234619  1.0000
+  Hg  Hg1       1.0  0.5577892661094666  0.6529613733291626  0.7371970415115356  1.0000
+  Hg  Hg2       1.0  0.8910049200057983  0.31914716958999634  0.4852496385574341  1.0000
+  Hg  Hg3       1.0  0.22445221245288854  0.9861291646957399  0.233491450548172  1.0000
+  Cu  Cu2       1.0  0.5576401948928833  0.6529493927955627  0.2674347162246704  1.0000

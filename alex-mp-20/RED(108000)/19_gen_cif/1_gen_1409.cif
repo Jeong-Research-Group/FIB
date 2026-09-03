@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrMgGa2Sn2
+_chemical_formula_sum              "Pr1 Mg1 Ga2 Sn2"
+_cell_length_a       4.999583665442236
+_cell_length_b       4.997213570312549
+_cell_length_c       6.641982937409372
+_cell_angle_alpha    89.99819617276488
+_cell_angle_beta     89.99874350411457
+_cell_angle_gamma    119.97760617849198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.8590486147582167  0.08460796815226412  0.8574638503314143  1.0000
+  Mg  Mg1       1.0  0.8586810023682301  0.08506665106893328  0.357284387176598  1.0000
+  Ga  Ga1       1.0  0.19207444014223793  0.7513472869964839  0.5686560144602145  1.0000
+  Ga  Ga2       1.0  0.1921311711143585  0.7517654908721827  0.15135086497841674  1.0000
+  Sn  Sn1       1.0  0.5255908764075453  0.41839422929001163  0.11473148302545617  1.0000
+  Sn  Sn2       1.0  0.5255414376031896  0.4180804317956184  0.5965818084873227  1.0000

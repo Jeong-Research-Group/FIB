@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pd2ErAuPd
+_chemical_formula_sum              "Pd3 Er1 Au1"
+_cell_length_a       4.104848391369009
+_cell_length_b       5.085831406659412
+_cell_length_c       5.016529083251953
+_cell_angle_alpha    79.98230098508928
+_cell_angle_beta     65.81154150945969
+_cell_angle_gamma    66.20215526321167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.25770577788352966  0.09302470088005066  0.8048083782196045  1.0000
+  Pd  Pd2       1.0  0.049524966627359425  0.7007256746292113  0.6132627129554749  1.0000
+  Er  Er1       1.0  0.4588882029056549  0.4914989769458771  0.004226803779602051  1.0000
+  Au  Au1       1.0  0.6474030613899232  0.8952060937881469  0.2238625288009643  1.0000
+  Pd  Pd3       1.0  0.8569223284721375  0.2871447205543518  0.4130193591117859  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeAuSe2I2
+_chemical_formula_sum              "Te1 Au1 Se2 I2"
+_cell_length_a       3.886830397230235
+_cell_length_b       6.765297550154085
+_cell_length_c       10.412024639228951
+_cell_angle_alpha    87.03059049210427
+_cell_angle_beta     79.32734635689856
+_cell_angle_gamma    73.33095708925356
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.1887595947389459  0.032160173017728125  0.3177528510781002  1.0000
+  Au  Au1       1.0  0.9377648790425556  0.8566436655434367  0.9885781735918292  1.0000
+  Se  Se1       1.0  0.2952156791252611  0.10475990436405135  0.026097672593624315  1.0000
+  Se  Se2       1.0  0.5393104996758511  0.29379669832916194  0.3561514466384016  1.0000
+  I   I1        1.0  0.6027929004160189  0.56073950595849  0.9539426428703394  1.0000
+  I   I2        1.0  0.13771134374068603  0.8751999600876703  0.5827427941643868  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2BeNiN2
+_chemical_formula_sum              "Zr2 Be1 Ni1 N2"
+_cell_length_a       3.2088589604445685
+_cell_length_b       3.2090297511979813
+_cell_length_c       7.109627192622062
+_cell_angle_alpha    89.99919442458504
+_cell_angle_beta     89.99751926440437
+_cell_angle_gamma    90.0003155148542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.4853699637305557  0.0052268077970929975  0.15481527481131555  1.0000
+  Zr  Zr2       1.0  0.48604381305999994  0.005369897769130872  0.6576089840157708  1.0000
+  Be  Be1       1.0  0.9855000305882976  0.5059823450933527  0.9062314499550223  1.0000
+  Ni  Ni1       1.0  0.9858009823405012  0.5052802297144964  0.4062148335926495  1.0000
+  N   N1        1.0  0.9854002182290091  0.5051310492792725  0.13603601270397403  1.0000
+  N   N2        1.0  0.9859976496255072  0.5052102886949416  0.6763885229667059  1.0000

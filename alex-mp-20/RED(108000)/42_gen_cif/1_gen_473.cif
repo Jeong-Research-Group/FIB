@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdIn3Ga
+_chemical_formula_sum              "Cd1 In3 Ga1"
+_cell_length_a       3.3181430350145757
+_cell_length_b       3.3119560688216096
+_cell_length_c       13.472082813068715
+_cell_angle_alpha    83.00325056379998
+_cell_angle_beta     83.13887338637467
+_cell_angle_gamma    60.09756964944585
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.44793112202828334  0.11687714890575836  0.11442048003296082  1.0000
+  In  In1       1.0  0.8492479631570745  0.5178437467076856  0.9117495203802682  1.0000
+  In  In2       1.0  0.047095883302405626  0.7150800323926303  0.3178495779057603  1.0000
+  In  In3       1.0  0.6417089155126451  0.3100989002346902  0.5319684689238406  1.0000
+  Ga  Ga1       1.0  0.245710106422612  0.9139214993621828  0.7221763543817502  1.0000

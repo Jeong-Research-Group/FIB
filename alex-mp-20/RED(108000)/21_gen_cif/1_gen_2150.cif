@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2GaPbO4
+_chemical_formula_sum              "Li2 Ga1 Pb1 O4"
+_cell_length_a       4.713160719095533
+_cell_length_b       4.711049393056996
+_cell_length_c       5.837240498763215
+_cell_angle_alpha    113.81465088664865
+_cell_angle_beta     113.79994673737234
+_cell_angle_gamma    89.99514931237525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.101061292504566  0.05210358317673446  0.8927768029849319  1.0000
+  Li  Li2       1.0  0.35054905032113937  0.8029056727147874  0.39247077010154124  1.0000
+  Ga  Ga1       1.0  0.6005915456938125  0.5523916362180389  0.8926225761275992  1.0000
+  Pb  Pb1       1.0  0.8504054185827596  0.30256372590902947  0.3925903749624942  1.0000
+  O   O1        1.0  0.9634369088731196  0.8796451894452567  0.1164825131362031  1.0000
+  O   O2        1.0  0.27337680361835776  0.6915623441072102  0.6689260233859036  1.0000
+  O   O3        1.0  0.7045172399430488  0.1893514148731318  0.6692231500736479  1.0000
+  O   O4        1.0  0.4615265745051404  0.4499801296794311  0.11685338426683303  1.0000

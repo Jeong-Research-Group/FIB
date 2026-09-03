@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2ZnIrTbIr
+_chemical_formula_sum              "Tb3 Zn1 Ir2"
+_cell_length_a       3.470819594874866
+_cell_length_b       3.471196699019038
+_cell_length_c       10.516454696655273
+_cell_angle_alpha    89.99051537200468
+_cell_angle_beta     90.07511409174613
+_cell_angle_gamma    90.07728608889627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.1839452832937241  0.5069743990898132  0.014982495456933975  1.0000
+  Tb  Tb2       1.0  0.1835899502038956  0.5065247416496277  0.6937041878700256  1.0000
+  Zn  Zn1       1.0  0.6837491989135743  0.006623611319810152  0.5148550868034363  1.0000
+  Ir  Ir1       1.0  0.6839165687561036  0.006769220344722271  0.18018721044063568  1.0000
+  Tb  Tb3       1.0  0.18388871848583224  0.5063880085945129  0.33591315150260925  1.0000
+  Ir  Ir2       1.0  0.683855950832367  0.006711417343467474  0.8498457670211792  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2MgZnN
+_chemical_formula_sum              "Y2 Mg1 Zn1 N1"
+_cell_length_a       4.308867296879801
+_cell_length_b       4.800577813991989
+_cell_length_c       4.800421406047835
+_cell_angle_alpha    90.00013909683122
+_cell_angle_beta     90.00033301110581
+_cell_angle_gamma    90.00057280254845
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.6478522894053301  0.6219711792048621  0.9438799163197557  1.0000
+  Y   Y2        1.0  0.6479227203248689  0.12187920477359938  0.4438553387874377  1.0000
+  Mg  Mg1       1.0  0.1478757039736174  0.12196724297558109  0.9434772464580123  1.0000
+  Zn  Zn1       1.0  0.14807281013535967  0.6220237834648474  0.4434646522147186  1.0000
+  N   N1        1.0  0.6478966549284604  0.12206366220928233  0.9436185978775256  1.0000

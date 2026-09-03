@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2CuIr
+_chemical_formula_sum              "Zn2 Cu1 Ir1"
+_cell_length_a       3.5783295649652294
+_cell_length_b       3.8948455303123306
+_cell_length_c       3.894838539952477
+_cell_angle_alpha    89.99665095105598
+_cell_angle_beta     89.99967264178262
+_cell_angle_gamma    89.99947256675279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6313579360957353  0.3820778855230928  0.8954571772614298  1.0000
+  Zn  Zn2       1.0  0.6313378481559572  0.8821230693987346  0.39544326973662197  1.0000
+  Cu  Cu1       1.0  0.13134103245791073  0.3820496702034524  0.39545156743639287  1.0000
+  Ir  Ir1       1.0  0.13133451010977204  0.8820515092807542  0.8954437071422957  1.0000

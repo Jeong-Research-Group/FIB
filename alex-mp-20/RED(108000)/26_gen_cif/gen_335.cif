@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb2Bi2PbPtPb
+_chemical_formula_sum              "Pb4 Bi2 Pt1"
+_cell_length_a       4.933669491671655
+_cell_length_b       6.865061515925561
+_cell_length_c       7.367478370666504
+_cell_angle_alpha    80.29269889867399
+_cell_angle_beta     70.21596875033278
+_cell_angle_gamma    68.53446650609565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.02702564001083374  0.10553192347288132  0.5856694579124451  1.0000
+  Pb  Pb2       1.0  0.38230207562446594  0.0220645759254694  0.957639753818512  1.0000
+  Bi  Bi1       1.0  0.7451290488243104  0.9776959419250487  0.2777144014835357  1.0000
+  Bi  Bi2       1.0  0.737465262413025  0.6052777171134948  0.6599593162536621  1.0000
+  Pb  Pb3       1.0  0.4555562734603882  0.47722017765045166  0.35410818457603455  1.0000
+  Pt  Pt1       1.0  0.7412137985229492  0.29017961025238037  0.9683054685592651  1.0000
+  Pb  Pb4       1.0  0.10336817800998689  0.5539296865463257  0.9816427230834961  1.0000

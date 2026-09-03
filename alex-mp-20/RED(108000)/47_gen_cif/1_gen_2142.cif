@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mg2CdPt
+_chemical_formula_sum              "Mg2 Cd1 Pt1"
+_cell_length_a       3.158958295888728
+_cell_length_b       3.1587019542089108
+_cell_length_c       7.66302559531411
+_cell_angle_alpha    89.9950176834671
+_cell_angle_beta     90.00813861667083
+_cell_angle_gamma    90.00321212685492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.046198554027786984  0.5591094092101913  0.7552297365099224  1.0000
+  Mg  Mg2       1.0  0.046398158596067704  0.5590081557212021  0.16760528438692385  1.0000
+  Cd  Cd1       1.0  0.5460148726683349  0.059165054057769895  0.4613745456470944  1.0000
+  Pt  Pt1       1.0  0.5463456605993048  0.05898608962761167  0.9613873440108798  1.0000

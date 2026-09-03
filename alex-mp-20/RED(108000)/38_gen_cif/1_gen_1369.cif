@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaSr2CaNi
+_chemical_formula_sum              "Ba1 Sr2 Ca1 Ni1"
+_cell_length_a       6.0042258221081495
+_cell_length_b       6.004252650164423
+_cell_length_c       5.7659536024068325
+_cell_angle_alpha    90.00375517241318
+_cell_angle_beta     90.00423277101943
+_cell_angle_gamma    90.00098786543825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9829776067620926  0.8272644494311059  0.8658252458031842  1.0000
+  Sr  Sr1       1.0  0.9833360096665194  0.32705660063808045  0.3658389213708217  1.0000
+  Sr  Sr2       1.0  0.4832103540850477  0.8270121044430195  0.36585177531008184  1.0000
+  Ca  Ca1       1.0  0.48320121295287327  0.32703114519011517  0.866136264662912  1.0000
+  Ni  Ni1       1.0  0.4831855060521942  0.3270787906318754  0.36610199606265853  1.0000

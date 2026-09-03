@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Al2Ni2
+_chemical_formula_sum              "Zr2 Al2 Ni2"
+_cell_length_a       4.305656719735426
+_cell_length_b       4.169353487096795
+_cell_length_c       5.799739415682879
+_cell_angle_alpha    111.06340037208665
+_cell_angle_beta     89.99566886888384
+_cell_angle_gamma    89.99682300718366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.4914032331902171  0.2824373684981058  0.10271795331016051  1.0000
+  Zr  Zr2       1.0  0.9911316730998326  0.4901633251013459  0.5185780345076385  1.0000
+  Al  Al1       1.0  0.4913565152284444  0.9923881496161275  0.5225659901881076  1.0000
+  Al  Al2       1.0  0.9913024321529625  0.7801401037814254  0.09869939737994064  1.0000
+  Ni  Ni1       1.0  0.4907718776318958  0.6296472627106064  0.7964402927070238  1.0000
+  Ni  Ni2       1.0  0.9915091943879553  0.14287098018146693  0.8248477488530559  1.0000

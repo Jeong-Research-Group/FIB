@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2YbNi2Au
+_chemical_formula_sum              "Ni4 Yb1 Au1"
+_cell_length_a       4.908959732954872
+_cell_length_b       4.90988608345766
+_cell_length_c       4.911276817321777
+_cell_angle_alpha    59.90708389549864
+_cell_angle_beta     59.8508537625675
+_cell_angle_gamma    59.9595683008693
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5681427717208862  0.2521268427371979  0.9911742806434631  1.0000
+  Ni  Ni2       1.0  0.06684032827615738  0.7530769109725952  0.991360604763031  1.0000
+  Yb  Yb1       1.0  0.19311158359050748  0.37667980790138245  0.6163631677627563  1.0000
+  Ni  Ni3       1.0  0.5675457119941711  0.7530887722969055  0.4907841980457307  1.0000
+  Ni  Ni4       1.0  0.568352997303009  0.7522557377815247  0.9911888241767883  1.0000
+  Au  Au1       1.0  0.9426858425140381  0.12693946063518527  0.3661753535270691  1.0000

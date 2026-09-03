@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2HgPd3
+_chemical_formula_sum              "Zn2 Hg1 Pd3"
+_cell_length_a       4.439018029254672
+_cell_length_b       4.43818451052029
+_cell_length_c       5.606194201129991
+_cell_angle_alpha    90.02897353977819
+_cell_angle_beta     89.99301661174225
+_cell_angle_gamma    120.01338966257906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.180781728957932  0.7797741647268533  0.5226812411882098  1.0000
+  Zn  Zn2       1.0  0.5139544444027151  0.4464120559479326  0.8829860329432703  1.0000
+  Hg  Hg1       1.0  0.8475061003269501  0.11312844215161295  0.20271516775273415  1.0000
+  Pd  Pd1       1.0  0.847506341788569  0.11338938753041965  0.7025686243185394  1.0000
+  Pd  Pd2       1.0  0.514148825982362  0.44644994533106164  0.4113349440721259  1.0000
+  Pd  Pd3       1.0  0.18073350861353263  0.7797884930844307  0.9937161396552865  1.0000

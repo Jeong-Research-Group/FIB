@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Sm2Sb4
+_chemical_formula_sum              "Li2 Sm2 Sb4"
+_cell_length_a       4.321263795102857
+_cell_length_b       4.321484223567263
+_cell_length_c       10.878421965919676
+_cell_angle_alpha    89.99379287604238
+_cell_angle_beta     89.99774706014769
+_cell_angle_gamma    90.00043834531051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9993316006268546  0.8193271066201478  0.5461103359235937  1.0000
+  Li  Li2       1.0  0.4991249416737504  0.3195953589679959  0.5461863308891071  1.0000
+  Sm  Sm1       1.0  0.9991231247248302  0.3192467475897902  0.8136450192602623  1.0000
+  Sm  Sm2       1.0  0.49909987178665216  0.8195113471275117  0.27847445505558976  1.0000
+  Sb  Sb1       1.0  0.9990722511279329  0.3195480904511302  0.38053929161802236  1.0000
+  Sb  Sb2       1.0  0.9990233852938957  0.8193764527938736  0.04607033762697611  1.0000
+  Sb  Sb3       1.0  0.49924612664240164  0.8193008633109665  0.7116522815681007  1.0000
+  Sb  Sb4       1.0  0.49900269107015416  0.3195320156136202  0.04606435756987067  1.0000

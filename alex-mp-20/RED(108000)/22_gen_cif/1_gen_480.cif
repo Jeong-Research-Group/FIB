@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InNiHAu2
+_chemical_formula_sum              "In1 Ni1 H1 Au2"
+_cell_length_a       3.1655322084073623
+_cell_length_b       4.786330436753136
+_cell_length_c       4.786354330320584
+_cell_angle_alpha    89.80320643166844
+_cell_angle_beta     89.99262336901334
+_cell_angle_gamma    89.99063890478497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.3271087026204348  0.5426275015173915  0.5608198460482773  1.0000
+  Ni  Ni1       1.0  0.32649707414936435  0.042403088416045016  0.06100369861453155  1.0000
+  H   H1        1.0  0.8263824162374372  0.04350644887499947  0.060435740098951175  1.0000
+  Au  Au1       1.0  0.8271909096345553  0.04252939860620736  0.5607643201408029  1.0000
+  Au  Au2       1.0  0.8270126499730728  0.5426290004529066  0.06089515408016137  1.0000

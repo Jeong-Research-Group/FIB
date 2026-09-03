@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr3CaPt2
+_chemical_formula_sum              "Sr3 Ca1 Pt2"
+_cell_length_a       5.172827841315732
+_cell_length_b       5.1730018724637885
+_cell_length_c       8.950200477497168
+_cell_angle_alpha    125.2772908531575
+_cell_angle_beta     89.97782755765279
+_cell_angle_gamma    90.00022873320896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.3866354359497251  0.9123581780957334  0.9285262771351547  1.0000
+  Sr  Sr2       1.0  0.8868109402287394  0.4118877610776979  0.9279646080665666  1.0000
+  Sr  Sr3       1.0  0.8877520430614371  0.9134248913659563  0.42801158682743834  1.0000
+  Ca  Ca1       1.0  0.38791457420275033  0.4137942451114806  0.4282758820747352  1.0000
+  Pt  Pt1       1.0  0.387427896900244  0.6689694169834227  0.18471621455157483  1.0000
+  Pt  Pt2       1.0  0.8877255136154827  0.6568360206609737  0.6725903457809749  1.0000

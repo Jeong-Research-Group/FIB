@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2PtAu
+_chemical_formula_sum              "Zn2 Pt1 Au1"
+_cell_length_a       3.600429471017868
+_cell_length_b       4.142613122682645
+_cell_length_c       4.142624051365762
+_cell_angle_alpha    89.97525645796534
+_cell_angle_beta     90.00035244111677
+_cell_angle_gamma    90.00700316675116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5957402338724869  0.8856074105443115  0.18972592496293395  1.0000
+  Zn  Zn2       1.0  0.595092106152996  0.38555330407407656  0.6892114388090135  1.0000
+  Pt  Pt1       1.0  0.09533509634227805  0.38564612539930565  0.18948082196196248  1.0000
+  Au  Au1       1.0  0.0952761165436143  0.8854886762042508  0.6895795059799202  1.0000

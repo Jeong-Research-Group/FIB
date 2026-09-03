@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba4AlTl2Cd
+_chemical_formula_sum              "Ba4 Al1 Tl2 Cd1"
+_cell_length_a       6.0401168857774
+_cell_length_b       6.038897512515771
+_cell_length_c       8.508030245423315
+_cell_angle_alpha    89.99325046003237
+_cell_angle_beta     89.99615496216398
+_cell_angle_gamma    90.04442828197631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8247549916572406  0.12871294667246266  0.5242801265749505  1.0000
+  Ba  Ba2       1.0  0.8249491475733721  0.12762241001513977  0.03450336040459205  1.0000
+  Ba  Ba3       1.0  0.3250305341862376  0.6279066300881964  0.5248641282774553  1.0000
+  Ba  Ba4       1.0  0.32477411324624095  0.6279832248642029  0.0339361089082524  1.0000
+  Al  Al1       1.0  0.8246392409871981  0.6280766084165391  0.2790131539612017  1.0000
+  Tl  Tl1       1.0  0.8248696509568012  0.627990585759012  0.7807360191718266  1.0000
+  Tl  Tl2       1.0  0.32444321010300237  0.12803415485957476  0.2783099849258476  1.0000
+  Cd  Cd1       1.0  0.32443386870073754  0.12788715665386896  0.7798394747394195  1.0000

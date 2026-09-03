@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Co2Pt2
+_chemical_formula_sum              "Lu2 Co2 Pt2"
+_cell_length_a       4.968923861891976
+_cell_length_b       5.215935105114759
+_cell_length_c       5.214134977874848
+_cell_angle_alpha    62.72620175831265
+_cell_angle_beta     61.54361397208718
+_cell_angle_gamma    61.55852816249658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.31577602507610814  0.09744168775420686  0.8282636577732746  1.0000
+  Lu  Lu2       1.0  0.0804116509958051  0.8322477400353882  0.564086869770476  1.0000
+  Co  Co1       1.0  0.19800329960143723  0.46462885818110533  0.1963501599680315  1.0000
+  Co  Co2       1.0  0.6978922685745224  0.4645634521288037  0.19662412955050879  1.0000
+  Pt  Pt1       1.0  0.6979782613802085  0.4649912037039988  0.6964410626117528  1.0000
+  Pt  Pt2       1.0  0.6983290092193436  0.9646854069694188  0.19598169701786067  1.0000

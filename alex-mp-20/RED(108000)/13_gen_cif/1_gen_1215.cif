@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Y2InTe
+_chemical_formula_sum              "Y2 In1 Te1"
+_cell_length_a       4.018042290577823
+_cell_length_b       4.755582587673772
+_cell_length_c       6.226197186026881
+_cell_angle_alpha    89.80101610704165
+_cell_angle_beta     89.69415782525962
+_cell_angle_gamma    90.00014564187383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.620646195419887  0.5764791243463601  0.038822196635958116  1.0000
+  Y   Y2        1.0  0.1204715257507381  0.0757380381567616  0.538622057861141  1.0000
+  In  In1       1.0  0.6204364308534613  0.5759011041612402  0.5387584549735982  1.0000
+  Te  Te1       1.0  0.12074648126879585  0.07659534111848901  0.03853444143857252  1.0000

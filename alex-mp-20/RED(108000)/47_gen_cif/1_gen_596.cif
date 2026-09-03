@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2Ga2Fe2
+_chemical_formula_sum              "Ta2 Ga2 Fe2"
+_cell_length_a       4.053466857784789
+_cell_length_b       3.9064854007827807
+_cell_length_c       5.799162614366005
+_cell_angle_alpha    109.6809013431652
+_cell_angle_beta     89.99613410938272
+_cell_angle_gamma    90.00019981262908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5151842177838806  0.694726695924406  0.32775787185500155  1.0000
+  Ta  Ta2       1.0  0.015115716850204072  0.4908995610070023  0.9203362738708492  1.0000
+  Ga  Ga1       1.0  0.5151117785459531  0.9869693669710172  0.9123969534882106  1.0000
+  Ga  Ga2       1.0  0.01520968625934777  0.1987029833729679  0.33585190143484395  1.0000
+  Fe  Fe1       1.0  0.5151629852957061  0.34495930803832625  0.6282678268891481  1.0000
+  Fe  Fe2       1.0  0.015150307754727511  0.840703680240227  0.6199284015655102  1.0000

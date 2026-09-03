@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Mg3AlAu2
+_chemical_formula_sum              "Li2 Mg3 Al1 Au2"
+_cell_length_a       4.493390288232869
+_cell_length_b       4.495542959912393
+_cell_length_c       8.783983885197111
+_cell_angle_alpha    89.9786471222488
+_cell_angle_beta     90.00244037427737
+_cell_angle_gamma    120.01062308145858
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4662518718553546  0.38791034293749443  0.8838843940237181  1.0000
+  Li  Li2       1.0  0.13239540755733162  0.7199946535521109  0.552144915233265  1.0000
+  Mg  Mg1       1.0  0.799445889278501  0.05433275549246781  0.712851702619543  1.0000
+  Mg  Mg2       1.0  0.7997778108156766  0.054296879066709526  0.04092403085248238  1.0000
+  Mg  Mg3       1.0  0.1326544853470857  0.7201324326011557  0.2138671668096172  1.0000
+  Al  Al1       1.0  0.7988145426245897  0.05307778226852861  0.38326878389061203  1.0000
+  Au  Au1       1.0  0.4660556855267427  0.3861182403810721  0.380191745442219  1.0000
+  Au  Au2       1.0  0.13308694160312878  0.7212208557702103  0.8849282087817151  1.0000

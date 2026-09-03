@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnCoVMnAl2
+_chemical_formula_sum              "Mn2 Co1 V1 Al2"
+_cell_length_a       2.8963933353515743
+_cell_length_b       2.895505882696425
+_cell_length_c       8.662028312683105
+_cell_angle_alpha    90.08670492177522
+_cell_angle_beta     90.09904707703299
+_cell_angle_gamma    90.08611752203143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.021182239055633545  0.6589981317520142  0.9363207221031189  1.0000
+  Co  Co1       1.0  0.02065175771713257  0.6588287353515625  0.5971176028251648  1.0000
+  V   V1        1.0  0.5201003551483154  0.15838882327079773  0.10102787613868713  1.0000
+  Mn  Mn2       1.0  0.019380640238523483  0.6579209566116333  0.2608957588672638  1.0000
+  Al  Al1       1.0  0.52083820104599  0.15938369929790497  0.7601369023323059  1.0000
+  Al  Al2       1.0  0.5207192897796631  0.15852615237236023  0.43575459718704224  1.0000

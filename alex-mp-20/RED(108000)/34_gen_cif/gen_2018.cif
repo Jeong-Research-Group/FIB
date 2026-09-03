@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrCuPdCuZrPd
+_chemical_formula_sum              "Zr2 Cu2 Pd2"
+_cell_length_a       4.179282706996556
+_cell_length_b       3.7573467573027877
+_cell_length_c       6.600240707397461
+_cell_angle_alpha    106.57549829085944
+_cell_angle_beta     89.99190190035864
+_cell_angle_gamma    89.99741386280846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5621345043182373  0.7298445105552672  0.031087642535567284  1.0000
+  Cu  Cu1       1.0  0.5621479749679565  0.071577250957489  0.7146216034889221  1.0000
+  Pd  Pd1       1.0  0.5621261596679688  0.40504091978073115  0.3806949555873871  1.0000
+  Cu  Cu2       1.0  0.0627158060669899  0.25033783912658686  0.07083718478679657  1.0000
+  Zr  Zr2       1.0  0.0625222772359848  0.9255638122558593  0.42289990186691284  1.0000
+  Pd  Pd2       1.0  0.062224265187978745  0.5861849784851073  0.7438154220581055  1.0000

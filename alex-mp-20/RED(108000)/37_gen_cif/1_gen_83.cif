@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2AsS
+_chemical_formula_sum              "Tb2 As1 S1"
+_cell_length_a       4.039444597855128
+_cell_length_b       4.039405786409404
+_cell_length_c       5.697744297384866
+_cell_angle_alpha    90.01156499916934
+_cell_angle_beta     90.0014975272099
+_cell_angle_gamma    89.99688067145733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.2631141628995294  0.6438422740503927  0.6665752227327757  1.0000
+  Tb  Tb2       1.0  0.7633587779667813  0.14404269809279005  0.1663769786170361  1.0000
+  As  As1       1.0  0.2633380603745364  0.6439972817813222  0.16659658057387286  1.0000
+  S   S1        1.0  0.7633806905172723  0.14394199217308348  0.6663607313250104  1.0000

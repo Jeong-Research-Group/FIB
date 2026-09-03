@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HoFeCu2C
+_chemical_formula_sum              "Ho1 Fe1 Cu2 C1"
+_cell_length_a       4.060760266904766
+_cell_length_b       3.9994309470498197
+_cell_length_c       3.9997784062722115
+_cell_angle_alpha    89.9816510570719
+_cell_angle_beta     90.00062260014995
+_cell_angle_gamma    89.99717419777035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.22963370691770377  0.8745377236655472  0.5861143751250805  1.0000
+  Fe  Fe1       1.0  0.2282101296699571  0.37525087971060067  0.08602847171636639  1.0000
+  Cu  Cu1       1.0  0.7294252177834851  0.3749196761221269  0.5860217257168594  1.0000
+  Cu  Cu2       1.0  0.7293166171353369  0.8758754299890318  0.0860148323477035  1.0000
+  C   C1        1.0  0.7281395030934015  0.37594607220623333  0.08601388777559406  1.0000

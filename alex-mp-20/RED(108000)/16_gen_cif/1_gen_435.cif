@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiNd3In2
+_chemical_formula_sum              "Li1 Nd3 In2"
+_cell_length_a       5.48550348001706
+_cell_length_b       5.489352580312744
+_cell_length_c       6.739053880863369
+_cell_angle_alpha    89.96754182724665
+_cell_angle_beta     89.99242581654488
+_cell_angle_gamma    119.99844884277736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.19436239900583063  0.09731670387807242  0.08008113354125186  1.0000
+  Nd  Nd1       1.0  0.8606408004847225  0.4309970083119517  0.26358667312696804  1.0000
+  Nd  Nd2       1.0  0.19391955209436418  0.09732356692098443  0.5791216351462779  1.0000
+  Nd  Nd3       1.0  0.5275508640983387  0.7640008486175737  0.8970162594996604  1.0000
+  In  In1       1.0  0.5277219613037152  0.7643957261946528  0.3848219406617833  1.0000
+  In  In2       1.0  0.8605688861560152  0.43030325254116364  0.7752820399209637  1.0000

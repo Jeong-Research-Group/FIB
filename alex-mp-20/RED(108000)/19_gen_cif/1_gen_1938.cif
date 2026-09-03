@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaMgZn2Au2
+_chemical_formula_sum              "Ca1 Mg1 Zn2 Au2"
+_cell_length_a       4.501708458947193
+_cell_length_b       4.501587086662847
+_cell_length_c       7.021324855675561
+_cell_angle_alpha    90.01242136126542
+_cell_angle_beta     89.97539046248244
+_cell_angle_gamma    120.00465334567001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6810118946213977  0.1781282611847165  0.6013305999573085  1.0000
+  Mg  Mg1       1.0  0.6810755008219201  0.17811601422772813  0.10133012845609518  1.0000
+  Zn  Zn1       1.0  0.34760211248148715  0.51157424849822  0.8882544169120161  1.0000
+  Zn  Zn2       1.0  0.34783178479718957  0.5113773209074084  0.31472543605662107  1.0000
+  Au  Au1       1.0  0.014244889309991304  0.8448010084335933  0.8838271748579971  1.0000
+  Au  Au2       1.0  0.014566750419982484  0.8447199302344721  0.31867540055321825  1.0000

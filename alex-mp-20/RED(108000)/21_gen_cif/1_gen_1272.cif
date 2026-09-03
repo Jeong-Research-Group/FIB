@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiTbMgIn2
+_chemical_formula_sum              "Li1 Tb1 Mg1 In2"
+_cell_length_a       3.5895167213110506
+_cell_length_b       4.808170633228453
+_cell_length_c       7.605400780670651
+_cell_angle_alpha    108.40849948520123
+_cell_angle_beta     103.64976010382233
+_cell_angle_gamma    90.00124645400233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5640181253557122  0.6675563257838605  0.9269838650288408  1.0000
+  Tb  Tb1       1.0  0.2924628861591467  0.8960055822452336  0.38396042549562265  1.0000
+  Mg  Mg1       1.0  0.01542770116775292  0.11885221833569855  0.8299727676919464  1.0000
+  In  In1       1.0  0.8957986377054126  0.4993441027378669  0.5907798567873149  1.0000
+  In  In2       1.0  0.687291710304008  0.29088416793833793  0.17371843138217474  1.0000

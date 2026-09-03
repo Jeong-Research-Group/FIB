@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaCe2InC
+_chemical_formula_sum              "Ca1 Ce2 In1 C1"
+_cell_length_a       5.190883504440286
+_cell_length_b       4.927047483843016
+_cell_length_c       4.927055364516885
+_cell_angle_alpha    89.99988827958576
+_cell_angle_beta     89.999701153009
+_cell_angle_gamma    89.9996389030107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.46502926783561543  0.04194577816493767  0.9114573573316495  1.0000
+  Ce  Ce1       1.0  0.9659919262678764  0.04167949218940566  0.4108739082239557  1.0000
+  Ce  Ce2       1.0  0.9646011183196074  0.5415048576949942  0.9110597262383059  1.0000
+  In  In1       1.0  0.4649372537954097  0.5417831901072847  0.4112299574121449  1.0000
+  C   C1        1.0  0.9649687269081066  0.041540976807543234  0.9113422997617102  1.0000

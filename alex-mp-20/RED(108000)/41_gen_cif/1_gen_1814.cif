@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CrCo2Ir
+_chemical_formula_sum              "Cr1 Co2 Ir1"
+_cell_length_a       3.6555295466240003
+_cell_length_b       3.6715093412254136
+_cell_length_c       3.6548199368267484
+_cell_angle_alpha    90.0092449202117
+_cell_angle_beta     89.98749481273836
+_cell_angle_gamma    89.99415789016768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.0657857887623094  0.04977829188674713  0.30063403401127486  1.0000
+  Co  Co1       1.0  0.565192438039854  0.5496674072711976  0.30063768045364736  1.0000
+  Co  Co2       1.0  0.06605563601080035  0.5498803713779659  0.8007433491113893  1.0000
+  Ir  Ir1       1.0  0.5654775003059435  0.04993250494900803  0.8007355594660901  1.0000

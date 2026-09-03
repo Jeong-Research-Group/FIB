@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiInLi2In2Bi2
+_chemical_formula_sum              "Li3 In3 Bi2"
+_cell_length_a       4.888647106455527
+_cell_length_b       4.890933789540895
+_cell_length_c       9.655762672424316
+_cell_angle_alpha    89.9807550305102
+_cell_angle_beta     90.05096937416327
+_cell_angle_gamma    120.01555095341796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.022086549550294876  0.3483096659183502  0.5311042070388794  1.0000
+  In  In1       1.0  0.02190454676747322  0.34889310598373413  0.85981684923172  1.0000
+  Li  Li2       1.0  0.6886835098266602  0.6814316511154175  0.7331231832504272  1.0000
+  Li  Li3       1.0  0.6879343390464783  0.6820855140686035  0.07852216064929962  1.0000
+  In  In2       1.0  0.355245977640152  0.014537669718265533  0.984217643737793  1.0000
+  In  In3       1.0  0.6879495978355408  0.6819311380386353  0.3936516344547272  1.0000
+  Bi  Bi1       1.0  0.3553484380245209  0.015333747491240501  0.6067580580711365  1.0000
+  Bi  Bi2       1.0  0.02165447548031807  0.3487608730792999  0.21331126987934113  1.0000

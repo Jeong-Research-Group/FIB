@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfFe2CCo
+_chemical_formula_sum              "Hf1 Fe2 C1 Co1"
+_cell_length_a       3.832975680300673
+_cell_length_b       3.8356607601932615
+_cell_length_c       3.8430123329162598
+_cell_angle_alpha    90.01048001472542
+_cell_angle_beta     89.88527581885404
+_cell_angle_gamma    89.98011982387699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.3037354052066803  0.06249204650521279  0.9765056371688842  1.0000
+  Fe  Fe1       1.0  0.30390843749046326  0.5623233318328857  0.47653955221176136  1.0000
+  Fe  Fe2       1.0  0.8040127158164979  0.062356814742088325  0.4765161275863647  1.0000
+  C   C1        1.0  0.8036904335021974  0.5622045993804933  0.47656416893005366  1.0000
+  Co  Co1       1.0  0.8037061691284181  0.5626719594001771  0.9762946963310241  1.0000

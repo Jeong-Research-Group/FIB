@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2CaSrCaBiN2
+_chemical_formula_sum              "Sr3 Ca2 Bi1 N2"
+_cell_length_a       3.80083027970259
+_cell_length_b       6.355238652700513
+_cell_length_c       9.757906913757324
+_cell_angle_alpha    101.8604141087516
+_cell_angle_beta     89.88950370071956
+_cell_angle_gamma    89.94624892357251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8209056258201599  0.8869717717170715  0.5454800128936768  1.0000
+  Sr  Sr2       1.0  0.8216428756713867  0.2699408233165741  0.20327770709991455  1.0000
+  Ca  Ca1       1.0  0.32195401191711426  0.1335163414478302  0.8229605555534363  1.0000
+  Sr  Sr3       1.0  0.8216670155525208  0.654788851737976  0.8628641366958618  1.0000
+  Ca  Ca2       1.0  0.3211696445941925  0.40757548809051514  0.5835286974906921  1.0000
+  Bi  Bi1       1.0  0.3214188516139984  0.7699558734893799  0.20540858805179596  1.0000
+  N   N1        1.0  0.8207805156707764  0.27112823724746704  0.703028678894043  1.0000
+  N   N2        1.0  0.3216041326522827  0.7697840929031372  0.7045775651931763  1.0000

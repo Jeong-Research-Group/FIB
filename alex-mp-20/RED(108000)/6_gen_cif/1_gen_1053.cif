@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2Cd2In2Bi2
+_chemical_formula_sum              "Eu2 Cd2 In2 Bi2"
+_cell_length_a       4.880633887020456
+_cell_length_b       4.84029992237773
+_cell_length_c       9.632784768284319
+_cell_angle_alpha    90.00318788980192
+_cell_angle_beta     90.00312891617725
+_cell_angle_gamma    89.9856108718328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.8639591873088805  0.21491713029711004  0.6564676993805868  1.0000
+  Eu  Eu2       1.0  0.8639782015886946  0.2150760947118914  0.15973987274595597  1.0000
+  Cd  Cd1       1.0  0.3640106068784762  0.21491883374957862  0.4102643196720057  1.0000
+  Cd  Cd2       1.0  0.3639515310366381  0.7150269024868515  0.6339371916331126  1.0000
+  In  In1       1.0  0.3640069843031098  0.715074988542322  0.18259511157094396  1.0000
+  In  In2       1.0  0.8640932690917669  0.714992047323861  0.4095132389949086  1.0000
+  Bi  Bi1       1.0  0.3639683964936048  0.21488719593971042  0.9038588177298117  1.0000
+  Bi  Bi2       1.0  0.8640167423800275  0.7149650029830512  0.9044404560019397  1.0000

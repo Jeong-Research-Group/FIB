@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaLiBa2N
+_chemical_formula_sum              "Ca1 Li1 Ba2 N1"
+_cell_length_a       4.870467673293787
+_cell_length_b       5.803425983647217
+_cell_length_c       5.790774345397949
+_cell_angle_alpha    90.03604541020022
+_cell_angle_beta     90.00375910866548
+_cell_angle_gamma    90.00757718424397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.13940374553203583  0.5623339414596558  0.5916674137115479  1.0000
+  Li  Li1       1.0  0.13904216885566711  0.06292348355054855  0.091786228120327  1.0000
+  Ba  Ba1       1.0  0.6390034556388855  0.5635592937469482  0.09141124784946442  1.0000
+  Ba  Ba2       1.0  0.639836847782135  0.06235181540250778  0.5916662812232971  1.0000
+  N   N1        1.0  0.6397170424461365  0.5626249313354492  0.5917895436286926  1.0000

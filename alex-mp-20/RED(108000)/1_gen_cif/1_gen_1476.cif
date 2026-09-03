@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf2In3Fe2
+_chemical_formula_sum              "Hf2 In3 Fe2"
+_cell_length_a       3.0873801661892135
+_cell_length_b       5.212226052658999
+_cell_length_c       8.576728003992116
+_cell_angle_alpha    103.62328117945661
+_cell_angle_beta     89.88508062365445
+_cell_angle_gamma    89.92257135122699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2731222495546368  0.235123654963337  0.3077219276005569  1.0000
+  Hf  Hf2       1.0  0.2720490496805873  0.23549167940399984  0.8080797008433088  1.0000
+  In  In1       1.0  0.7761321086816473  0.6602360362286546  0.13284621635468996  1.0000
+  In  In2       1.0  0.7710987417555834  0.7354756153199393  0.8078424090878564  1.0000
+  In  In3       1.0  0.7704321564533319  0.8100079336924646  0.48310656942817304  1.0000
+  Fe  Fe1       1.0  0.7736490389572322  0.14472660101599724  0.0492912723536759  1.0000
+  Fe  Fe2       1.0  0.7730987912124708  0.3257756987281825  0.5665459834870714  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cu2GeRh
+_chemical_formula_sum              "Cu2 Ge1 Rh1"
+_cell_length_a       3.535970869383846
+_cell_length_b       2.8680623871005344
+_cell_length_c       5.307783465484686
+_cell_angle_alpha    90.00010570492528
+_cell_angle_beta     89.99946497077825
+_cell_angle_gamma    90.00022185386906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9475281632701037  0.4806298822027248  0.4715846487050154  1.0000
+  Cu  Cu2       1.0  0.44751599119410096  0.9805918016322248  0.6826448817423088  1.0000
+  Ge  Ge1       1.0  0.947528965833864  0.4805777119668273  0.9605215769332843  1.0000
+  Rh  Rh1       1.0  0.44753240142158246  0.9806211051299486  0.18247214749919824  1.0000

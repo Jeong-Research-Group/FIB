@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrYP2Pd2
+_chemical_formula_sum              "Pr1 Y1 P2 Pd2"
+_cell_length_a       4.219252832498634
+_cell_length_b       4.219872219119552
+_cell_length_c       7.746434758505802
+_cell_angle_alpha    89.99877891818473
+_cell_angle_beta     89.9981479248646
+_cell_angle_gamma    120.00380919890429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.04821540731509214  0.8292072066257482  0.3929252609102332  1.0000
+  Y   Y1        1.0  0.04799447120999394  0.8293284178633284  0.8929553750799192  1.0000
+  P   P1        1.0  0.7144140128644246  0.16242964080273395  0.6524218764917282  1.0000
+  P   P2        1.0  0.3816473361038138  0.49613743642894015  0.13417185525153608  1.0000
+  Pd  Pd1       1.0  0.7148461355840028  0.1627482919498315  0.13043548487903664  1.0000
+  Pd  Pd2       1.0  0.3811338274948242  0.495848928119212  0.6552521329472708  1.0000

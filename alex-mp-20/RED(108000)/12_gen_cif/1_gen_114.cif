@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2MnIr
+_chemical_formula_sum              "Sc2 Mn1 Ir1"
+_cell_length_a       3.274172616603372
+_cell_length_b       4.598896884528743
+_cell_length_c       4.598887172812131
+_cell_angle_alpha    90.01495699832205
+_cell_angle_beta     90.00037636903551
+_cell_angle_gamma    90.00065722447401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9799552533264166  0.49149783518907697  0.6160234736804091  1.0000
+  Sc  Sc2       1.0  0.9801372083708828  0.9914379809161352  0.11607419321984573  1.0000
+  Mn  Mn1       1.0  0.4797883375803015  0.9913080167411521  0.6162262051630788  1.0000
+  Ir  Ir1       1.0  0.47996713626449655  0.4914775661003817  0.11601922737931675  1.0000

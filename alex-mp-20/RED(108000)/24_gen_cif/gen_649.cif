@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       LiCl2TlCl4TlMo
+_chemical_formula_sum              "Li1 Cl6 Tl2 Mo1"
+_cell_length_a       6.345604899946121
+_cell_length_b       7.582931816287607
+_cell_length_c       7.597350597381592
+_cell_angle_alpha    60.03646381659578
+_cell_angle_beta     89.99812420240868
+_cell_angle_gamma    89.94521072997031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2132774144411087  0.3141768574714661  0.8084723353385926  1.0000
+  Cl  Cl1       1.0  0.47905895113945  0.05352885648608208  0.8127731680870057  1.0000
+  Cl  Cl2       1.0  0.9471881985664367  0.31730136275291443  0.5488792657852173  1.0000
+  Tl  Tl1       1.0  0.2120422124862671  0.6466934084892273  0.14124844968318934  1.0000
+  Cl  Cl3       1.0  0.47889831662178034  0.5696514844894409  0.5478631258010863  1.0000
+  Cl  Cl4       1.0  0.9468960762023925  0.05430709570646287  0.06448128819465637  1.0000
+  Cl  Cl5       1.0  0.9461824893951415  0.5700293779373169  0.8121401071548463  1.0000
+  Cl  Cl6       1.0  0.479117602109909  0.31780675053596497  0.06328608095645902  1.0000
+  Tl  Tl2       1.0  0.7122248411178589  0.9811567068099976  0.4760222733020783  1.0000
+  Mo  Mo1       1.0  0.7131202220916748  0.31394994258880615  0.8082523345947267  1.0000

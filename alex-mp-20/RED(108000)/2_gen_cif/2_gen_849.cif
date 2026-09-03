@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnBiHRu2
+_chemical_formula_sum              "Mn1 Bi1 H1 Ru2"
+_cell_length_a       3.849690921438768
+_cell_length_b       4.246438736001396
+_cell_length_c       4.2477863375714495
+_cell_angle_alpha    90.00014202693829
+_cell_angle_beta     90.00677573708353
+_cell_angle_gamma    90.00397341319017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7521306830733981  0.02036864095090977  0.05444671108086826  1.0000
+  Bi  Bi1       1.0  0.7526404295586896  0.5202235120060688  0.5541164214757284  1.0000
+  H   H1        1.0  0.2518214489951107  0.02025354513308774  0.053988880807719214  1.0000
+  Ru  Ru1       1.0  0.2525871825969274  0.020381617806400954  0.5541912417307413  1.0000
+  Ru  Ru2       1.0  0.2527335840574089  0.520236797201895  0.05412463018913618  1.0000

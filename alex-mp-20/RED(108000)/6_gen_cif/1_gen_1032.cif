@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiLu2Zr
+_chemical_formula_sum              "Li1 Lu2 Zr1"
+_cell_length_a       3.3816805118819153
+_cell_length_b       3.381794160753411
+_cell_length_c       8.953919410705566
+_cell_angle_alpha    90.0286688111118
+_cell_angle_beta     89.99327476810053
+_cell_angle_gamma    89.9676888822196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2731875777183121  0.8175845141458626  0.27078759618288406  1.0000
+  Lu  Lu1       1.0  0.7732541567328415  0.3172975775518091  0.5252689122514667  1.0000
+  Lu  Lu2       1.0  0.7733715777508021  0.3179003287786636  0.01605362590186156  1.0000
+  Zr  Zr1       1.0  0.27345880836097275  0.8175449966496368  0.7710810308227881  1.0000

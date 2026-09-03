@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2MgFeC
+_chemical_formula_sum              "La2 Mg1 Fe1 C1"
+_cell_length_a       3.7172228876300957
+_cell_length_b       5.450233546693093
+_cell_length_c       5.450432173196937
+_cell_angle_alpha    90.001634037709
+_cell_angle_beta     90.00083714766784
+_cell_angle_gamma    90.00071322049767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.880589907356096  0.5375042828530482  0.3157510647251356  1.0000
+  La  La2       1.0  0.8806505033327341  0.03738850121073032  0.816086949507428  1.0000
+  Mg  Mg1       1.0  0.38047510349272706  0.5371177403407715  0.8158975948185696  1.0000
+  Fe  Fe1       1.0  0.38105713594465107  0.03771959592319307  0.31585066921253063  1.0000
+  C   C1        1.0  0.8810406797420588  0.037625154366750214  0.31642222945038423  1.0000

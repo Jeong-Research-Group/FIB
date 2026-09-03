@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Er2CdFe2
+_chemical_formula_sum              "Er2 Cd1 Fe2"
+_cell_length_a       3.7428835730526684
+_cell_length_b       3.7431932884197643
+_cell_length_c       8.990448852801064
+_cell_angle_alpha    89.99516524257324
+_cell_angle_beta     90.00767185315075
+_cell_angle_gamma    119.98224877169356
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9679136998463512  0.9782571955788207  0.25471000769492  1.0000
+  Er  Er2       1.0  0.9682440875597617  0.9782043903121475  0.6851280294922116  1.0000
+  Cd  Cd1       1.0  0.30161711853337975  0.6448235326331686  0.9695478520984844  1.0000
+  Fe  Fe1       1.0  0.6350414286073083  0.3113121741196541  0.4694876294015945  1.0000
+  Fe  Fe2       1.0  0.301393766137568  0.6445734549771424  0.4694121269168058  1.0000

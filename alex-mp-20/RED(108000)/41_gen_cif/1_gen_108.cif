@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KSn2Au2
+_chemical_formula_sum              "K1 Sn2 Au2"
+_cell_length_a       4.9935158896956775
+_cell_length_b       4.68388599495093
+_cell_length_c       6.849064059392952
+_cell_angle_alpha    109.90381017917085
+_cell_angle_beta     111.40885771862186
+_cell_angle_gamma    89.98628696877009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.8473413978814193  0.0752748203393787  0.9569862562076656  1.0000
+  Sn  Sn1       1.0  0.4706104188349109  0.6979049295503046  0.20358491303204862  1.0000
+  Sn  Sn2       1.0  0.11446224120203213  0.8434049283524107  0.4907819181662592  1.0000
+  Au  Au1       1.0  0.5961128576109718  0.3231419353829364  0.45500266838246756  1.0000
+  Au  Au2       1.0  0.23740488620222053  0.4662850192931917  0.7371393753059976  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdCu2HgPb
+_chemical_formula_sum              "Cd1 Cu2 Hg1 Pb1"
+_cell_length_a       3.586552361090151
+_cell_length_b       4.279035391824602
+_cell_length_c       7.234115055559084
+_cell_angle_alpha    107.21225620611736
+_cell_angle_beta     104.1899538386851
+_cell_angle_gamma    89.99847425007769
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8916709683044232  0.5273647771315201  0.6507891256291234  1.0000
+  Cu  Cu1       1.0  0.2414635112926541  0.37577371734967674  0.3464153687859372  1.0000
+  Cu  Cu2       1.0  0.3622399536474757  0.9978026790409795  0.5918140393646517  1.0000
+  Hg  Hg1       1.0  0.03513092450811014  0.17172053928847686  0.9388169163529542  1.0000
+  Pb  Pb1       1.0  0.684455585711696  0.8171624524955777  0.22951296737304872  1.0000

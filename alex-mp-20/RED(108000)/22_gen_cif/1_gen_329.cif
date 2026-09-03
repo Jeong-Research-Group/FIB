@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe3Ag2Rh
+_chemical_formula_sum              "Fe3 Ag2 Rh1"
+_cell_length_a       2.852558972009006
+_cell_length_b       2.8525568451157413
+_cell_length_c       10.890508109440967
+_cell_angle_alpha    90.00503991135045
+_cell_angle_beta     89.99788764817407
+_cell_angle_gamma    90.00004691377619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9179003788368347  0.8626804041472677  0.3201870453339963  1.0000
+  Fe  Fe2       1.0  0.4178057414192832  0.36212752991977065  0.8830883612210144  1.0000
+  Fe  Fe3       1.0  0.917997762146281  0.8623996943512036  0.015970978157505235  1.0000
+  Ag  Ag1       1.0  0.9177505803353568  0.8623150464205468  0.7037975861363176  1.0000
+  Ag  Ag2       1.0  0.4175686130946111  0.3623980234697196  0.4999272403410081  1.0000
+  Rh  Rh1       1.0  0.4181983527172606  0.3626168412505463  0.16786318691679605  1.0000

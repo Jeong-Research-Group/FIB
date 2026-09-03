@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Sn2Ir2
+_chemical_formula_sum              "Li2 Sn2 Ir2"
+_cell_length_a       3.687567282637414
+_cell_length_b       4.117187478724757
+_cell_length_c       6.685881181513728
+_cell_angle_alpha    90.03017992789452
+_cell_angle_beta     73.99521709787201
+_cell_angle_gamma    90.00176644286095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3306924904783528  0.507466952159677  0.11180081012535921  1.0000
+  Li  Li2       1.0  0.8120289338388451  0.006959881097048352  0.1298935332965968  1.0000
+  Sn  Sn1       1.0  0.46905471554485095  0.0074708872587298195  0.80927083623162  1.0000
+  Sn  Sn2       1.0  0.6736626890363736  0.5070054987039894  0.43240317398019995  1.0000
+  Ir  Ir1       1.0  0.16163254684257777  0.0070301601036911595  0.4592927482733868  1.0000
+  Ir  Ir2       1.0  0.9810867019796989  0.5074507818883552  0.7823889780348446  1.0000

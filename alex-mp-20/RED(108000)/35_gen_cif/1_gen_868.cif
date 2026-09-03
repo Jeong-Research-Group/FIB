@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuNi2Sn
+_chemical_formula_sum              "Cu1 Ni2 Sn1"
+_cell_length_a       3.5886944622300514
+_cell_length_b       3.8563374273155766
+_cell_length_c       3.8551373059494183
+_cell_angle_alpha    89.98877645233722
+_cell_angle_beta     89.97909900335635
+_cell_angle_gamma    89.9918523883427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8041402512660003  0.5129420063977156  0.5834942995466871  1.0000
+  Ni  Ni1       1.0  0.30439773444017515  0.5127681137440835  0.08352175997350432  1.0000
+  Ni  Ni2       1.0  0.30427180984370455  0.01284634027499618  0.5834037258518133  1.0000
+  Sn  Sn1       1.0  0.8043829448775914  0.012886599646958841  0.0834000818032018  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tm2MnCuN
+_chemical_formula_sum              "Tm2 Mn1 Cu1 N1"
+_cell_length_a       3.608186203268046
+_cell_length_b       4.773756913879156
+_cell_length_c       4.7737420166781686
+_cell_angle_alpha    89.99873499469734
+_cell_angle_beta     89.9993065743633
+_cell_angle_gamma    90.00001548857091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.5481103976159172  0.7652760935059927  0.9287763983852197  1.0000
+  Tm  Tm2       1.0  0.5477946676437956  0.2651763805945578  0.4288688701234484  1.0000
+  Mn  Mn1       1.0  0.047978488442253824  0.2651018420571211  0.9288294774461123  1.0000
+  Cu  Cu1       1.0  0.048126527997452  0.7653245542658568  0.4288058049113907  1.0000
+  N   N1        1.0  0.5479800238294701  0.26500982518894867  0.928602289258713  1.0000

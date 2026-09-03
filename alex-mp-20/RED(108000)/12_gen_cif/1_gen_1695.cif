@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeCoHN2
+_chemical_formula_sum              "Ce1 Co1 H1 N2"
+_cell_length_a       3.282814094500746
+_cell_length_b       3.8284325341012178
+_cell_length_c       3.8294251501164895
+_cell_angle_alpha    89.99040376052437
+_cell_angle_beta     89.95811978083204
+_cell_angle_gamma    89.9828721395876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.6612077947551352  0.24054959536534098  0.22238274615172846  1.0000
+  Co  Co1       1.0  0.16117282466673888  0.7399686694250638  0.72200482299632  1.0000
+  H   H1        1.0  0.6620087062457605  0.7408816619423876  0.7222017218655421  1.0000
+  N   N1        1.0  0.16088177909293586  0.24011142192658141  0.7223967656700189  1.0000
+  N   N2        1.0  0.16198220876785419  0.7402467983344788  0.2222708994668716  1.0000

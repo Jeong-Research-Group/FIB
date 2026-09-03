@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Te2Au2
+_chemical_formula_sum              "Sr2 Te2 Au2"
+_cell_length_a       4.950689689340685
+_cell_length_b       4.9439381489412
+_cell_length_c       8.50377432983345
+_cell_angle_alpha    89.94347303183085
+_cell_angle_beta     90.05954582088566
+_cell_angle_gamma    120.08088327096023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0752483660958674  0.05923615802372396  0.19177371864381254  1.0000
+  Sr  Sr2       1.0  0.0746902029521376  0.05715673093161642  0.6913271212834019  1.0000
+  Te  Te1       1.0  0.7411508698655164  0.39198227310769274  0.4221886952219036  1.0000
+  Te  Te2       1.0  0.7420877034982075  0.39096274769764194  0.9621416985040117  1.0000
+  Au  Au1       1.0  0.4078344617833436  0.7247293346025228  0.5169819966380822  1.0000
+  Au  Au2       1.0  0.4085057277143185  0.7240997431835713  0.861317280365617  1.0000

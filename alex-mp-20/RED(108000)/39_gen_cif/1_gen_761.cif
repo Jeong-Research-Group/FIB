@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2Mo2W2
+_chemical_formula_sum              "Ti2 Mo2 W2"
+_cell_length_a       4.493271595099937
+_cell_length_b       4.493458692583746
+_cell_length_c       5.482905484824648
+_cell_angle_alpha    89.99412513112571
+_cell_angle_beta     90.01146714906875
+_cell_angle_gamma    120.00864750846709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0588458098280703  0.19970019302413894  0.917514543522105  1.0000
+  Ti  Ti2       1.0  0.7255000735576868  0.5329797661577234  0.2435326843422056  1.0000
+  Mo  Mo1       1.0  0.3921498751014372  0.8663263117213796  0.5786091599790995  1.0000
+  Mo  Mo2       1.0  0.05878668857362743  0.19970435261799843  0.41840054566099394  1.0000
+  W   W1        1.0  0.39210110194369024  0.8662807870555453  0.0761168682131661  1.0000
+  W   W2        1.0  0.7254655400725721  0.5330306288328033  0.7426475399101201  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2La2CuGe
+_chemical_formula_sum              "Li2 La2 Cu1 Ge1"
+_cell_length_a       4.576774663542765
+_cell_length_b       4.576730558481981
+_cell_length_c       8.38718298595515
+_cell_angle_alpha    89.98745245677146
+_cell_angle_beta     89.99800078281326
+_cell_angle_gamma    119.99865571941993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6979282998001842  0.04268112228525681  0.12071886480416391  1.0000
+  Li  Li2       1.0  0.030916700608051434  0.7092475824323602  0.1982021480648356  1.0000
+  La  La1       1.0  0.03098972100547552  0.709033252701348  0.8313806007337734  1.0000
+  La  La2       1.0  0.3645308566711223  0.37612771610179097  0.45827503732632774  1.0000
+  Cu  Cu1       1.0  0.36451722114650137  0.3759242909804667  0.08094445849067729  1.0000
+  Ge  Ge1       1.0  0.6977969349593124  0.04263563022182132  0.6418151763115593  1.0000

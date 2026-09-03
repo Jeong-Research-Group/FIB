@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4CoSiS2
+_chemical_formula_sum              "La4 Co1 Si1 S2"
+_cell_length_a       4.230900813315947
+_cell_length_b       7.355623514408272
+_cell_length_c       7.332335244213076
+_cell_angle_alpha    109.43614475872572
+_cell_angle_beta     89.9991734806879
+_cell_angle_gamma    89.99947659551393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5918644200962615  0.7330532891603945  0.6111698387128696  1.0000
+  La  La2       1.0  0.09196283267995321  0.24705897244431732  0.6124292489830709  1.0000
+  La  La3       1.0  0.09199201410754344  0.7348313754889311  0.12040659328986174  1.0000
+  La  La4       1.0  0.5920589433804387  0.24836139200710436  0.12221212031314002  1.0000
+  Co  Co1       1.0  0.09199751837619817  0.4902948820215029  0.3671323194688269  1.0000
+  Si  Si1       1.0  0.5919728311561822  0.4908200971014745  0.8667764751347673  1.0000
+  S   S1        1.0  0.0919642291460231  0.9907886983090878  0.8666378919175486  1.0000
+  S   S2        1.0  0.5919745536298447  0.9906359345232297  0.36659367065622045  1.0000

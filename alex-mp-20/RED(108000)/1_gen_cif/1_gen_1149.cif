@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2IrPt
+_chemical_formula_sum              "Sm2 Ir1 Pt1"
+_cell_length_a       3.5317883526101705
+_cell_length_b       5.007781631352183
+_cell_length_c       5.007607962796753
+_cell_angle_alpha    89.99492178900162
+_cell_angle_beta     89.99878051133246
+_cell_angle_gamma    90.00104990837211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4957446950286796  0.36359353797626953  0.2897857637344314  1.0000
+  Sm  Sm2       1.0  0.49520657962237324  0.8634287581586788  0.7897385573602488  1.0000
+  Ir  Ir1       1.0  0.9956415682981694  0.36355972768405953  0.7897035722180966  1.0000
+  Pt  Pt1       1.0  0.9954982883932276  0.8636543944345668  0.28973685887527817  1.0000

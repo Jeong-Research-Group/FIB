@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnEuSn2Rh2
+_chemical_formula_sum              "Sn3 Eu1 Rh2"
+_cell_length_a       4.185720873896053
+_cell_length_b       6.165971089378667
+_cell_length_c       6.159630298614502
+_cell_angle_alpha    119.71081501822101
+_cell_angle_beta     90.03771880936505
+_cell_angle_gamma    90.03129842877095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.8436461687088013  0.4580940902233123  0.44292679429054255  1.0000
+  Eu  Eu1       1.0  0.3442743420600891  0.45769816637039185  0.9432557225227355  1.0000
+  Sn  Sn2       1.0  0.8443620800971985  0.958168089389801  0.9430890679359435  1.0000
+  Sn  Sn3       1.0  0.8439254760742188  0.9580830335617064  0.4426186382770538  1.0000
+  Rh  Rh1       1.0  0.3442341983318329  0.1242580860853195  0.2768656313419342  1.0000
+  Rh  Rh2       1.0  0.344073623418808  0.7914570569992065  0.609407365322113  1.0000

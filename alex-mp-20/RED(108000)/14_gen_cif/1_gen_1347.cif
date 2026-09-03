@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Be2Co2H
+_chemical_formula_sum              "Be2 Co2 H1"
+_cell_length_a       2.511124402635243
+_cell_length_b       3.026544724932054
+_cell_length_c       5.01596460084727
+_cell_angle_alpha    90.00012836087085
+_cell_angle_beta     90.00056377271844
+_cell_angle_gamma    89.98809594971412
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.01565092377472739  0.1752501859536608  0.10880803015193875  1.0000
+  Be  Be2       1.0  0.015121533385403344  0.17510507395888433  0.608914736578757  1.0000
+  Co  Co1       1.0  0.5159742744615874  0.6754027369102014  0.3528499358493154  1.0000
+  Co  Co2       1.0  0.5158086263900626  0.674887684518391  0.864859593645534  1.0000
+  H   H1        1.0  0.01905219561686511  0.6751581003658125  0.6076053562056373  1.0000

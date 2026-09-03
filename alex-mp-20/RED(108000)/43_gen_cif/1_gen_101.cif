@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Tm2Bi2
+_chemical_formula_sum              "Pr2 Tm2 Bi2"
+_cell_length_a       4.608441069455041
+_cell_length_b       4.608986232620628
+_cell_length_c       8.86533826289013
+_cell_angle_alpha    90.01649091351953
+_cell_angle_beta     89.98504094450695
+_cell_angle_gamma    90.00031584050856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.03346322409044355  0.9618035566215578  0.8866612489512841  1.0000
+  Pr  Pr2       1.0  0.5334940735750238  0.46215605446306735  0.5947712158843395  1.0000
+  Tm  Tm1       1.0  0.033505863098194116  0.4621074217451058  0.24071381882564033  1.0000
+  Tm  Tm2       1.0  0.5334439111581859  0.9618718103063534  0.24071152564069292  1.0000
+  Bi  Bi1       1.0  0.5334130329348007  0.46186586622738823  0.9747720713053944  1.0000
+  Bi  Bi2       1.0  0.03353067434484096  0.9621496791091203  0.5069294418912668  1.0000

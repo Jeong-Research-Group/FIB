@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb3PbC
+_chemical_formula_sum              "Tb3 Pb1 C1"
+_cell_length_a       4.949137198191143
+_cell_length_b       4.949213521696484
+_cell_length_c       4.9496900490693
+_cell_angle_alpha    89.99328724105607
+_cell_angle_beta     90.00861632821042
+_cell_angle_gamma    89.98948079331751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.9549160064140365  0.8751179148377511  0.8055549116614273  1.0000
+  Tb  Tb2       1.0  0.4546216915521026  0.8752433381550387  0.3057935276196334  1.0000
+  Tb  Tb3       1.0  0.45468349803387703  0.3746975878109785  0.805780391144376  1.0000
+  Pb  Pb1       1.0  0.9549687844457505  0.37514572626912646  0.3056595599383475  1.0000
+  C   C1        1.0  0.4547256377611977  0.8752965278865287  0.805658820524096  1.0000

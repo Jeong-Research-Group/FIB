@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y2Si4Ni2
+_chemical_formula_sum              "Y2 Si4 Ni2"
+_cell_length_a       3.8043739763348206
+_cell_length_b       3.804518085900245
+_cell_length_c       9.743006638092853
+_cell_angle_alpha    89.99978817683532
+_cell_angle_beta     90.00841597085005
+_cell_angle_gamma    90.0000684516925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.2141390400556458  0.9151969663977243  0.18769859910725237  1.0000
+  Y   Y2        1.0  0.7139431238797674  0.41535859597205704  0.6730699121367446  1.0000
+  Si  Si1       1.0  0.7139123768026295  0.9152886934272405  0.4304274009308211  1.0000
+  Si  Si2       1.0  0.21392133785957496  0.41513206744260606  0.43029891807850934  1.0000
+  Si  Si3       1.0  0.21391519514162724  0.9152827539400316  0.7992361618789539  1.0000
+  Si  Si4       1.0  0.7142959294874993  0.4152472072505683  0.06191200129091188  1.0000
+  Ni  Ni1       1.0  0.7140907273600534  0.9152665387377527  0.9305803910459198  1.0000
+  Ni  Ni2       1.0  0.21410997236375687  0.4153535048926289  0.9305801708566802  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiEr2Ga
+_chemical_formula_sum              "Li1 Er2 Ga1"
+_cell_length_a       5.0510713076437845
+_cell_length_b       5.0483708125077245
+_cell_length_c       5.050703525543213
+_cell_angle_alpha    59.97751649032147
+_cell_angle_beta     60.00323924487201
+_cell_angle_gamma    59.999690313105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9597802164082851  0.7753043777720883  0.45869660253752775  1.0000
+  Er  Er1       1.0  0.709659934977032  0.5254913569680189  0.20865942391914963  1.0000
+  Er  Er2       1.0  0.2099120471446006  0.02533397199260041  0.7088249319998206  1.0000
+  Ga  Ga1       1.0  0.45986336409312684  0.2753252695258574  0.9586948754405274  1.0000

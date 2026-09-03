@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErZn2Er2Pd2
+_chemical_formula_sum              "Er3 Zn2 Pd2"
+_cell_length_a       4.477164558253942
+_cell_length_b       5.857002056854364
+_cell_length_c       5.951150894165039
+_cell_angle_alpha    101.70850492941099
+_cell_angle_beta     89.94977329988093
+_cell_angle_gamma    89.87714789963137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.010340146720409393  0.05628769099712371  0.31933072209358215  1.0000
+  Zn  Zn1       1.0  0.010928069241344929  0.5145643353462219  0.16911116242408752  1.0000
+  Zn  Zn2       1.0  0.5103232860565186  0.7499581575393676  0.0472670346498489  1.0000
+  Er  Er2       1.0  0.010074762627482414  0.6436668634414673  0.6977435946464539  1.0000
+  Er  Er3       1.0  0.5100106000900269  0.22179296612739566  0.886665403842926  1.0000
+  Pd  Pd1       1.0  0.5106805562973022  0.3665139973163605  0.42056119441986084  1.0000
+  Pd  Pd2       1.0  0.510786771774292  0.8502217531204224  0.49995002150535583  1.0000

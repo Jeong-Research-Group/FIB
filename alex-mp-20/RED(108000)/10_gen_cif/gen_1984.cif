@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni3AuGeNi
+_chemical_formula_sum              "Ni4 Au1 Ge1"
+_cell_length_a       4.700427135097351
+_cell_length_b       4.695178235811273
+_cell_length_c       4.693789958953857
+_cell_angle_alpha    61.34529197558836
+_cell_angle_beta     61.661888739092134
+_cell_angle_gamma    61.44499745751341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9130327105522156  0.8636338114738464  0.26258620619773865  1.0000
+  Ni  Ni2       1.0  0.4125557839870453  0.3636423647403717  0.2616201043128968  1.0000
+  Ni  Ni3       1.0  0.9119197130203248  0.36335459351539606  0.26032593846321106  1.0000
+  Au  Au1       1.0  0.5353711247444153  0.987239420413971  0.8851791024208069  1.0000
+  Ge  Ge1       1.0  0.2867094278335572  0.7382732033729553  0.6358819603919983  1.0000
+  Ni  Ni4       1.0  0.9133644104003906  0.36393317580223083  0.7619888782501222  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr2Si5Ni
+_chemical_formula_sum              "Zr2 Si5 Ni1"
+_cell_length_a       3.788759747121064
+_cell_length_b       3.7886110111817155
+_cell_length_c       8.802870240019438
+_cell_angle_alpha    90.00878418960865
+_cell_angle_beta     89.99975004306519
+_cell_angle_gamma    89.99999520048746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7239344932169964  0.41365723775497676  0.9857666873277725  1.0000
+  Zr  Zr2       1.0  0.22392819386180876  0.9139094278840197  0.4616728518874517  1.0000
+  Si  Si1       1.0  0.7239402617812838  0.9137617397563068  0.22108794146436803  1.0000
+  Si  Si2       1.0  0.2239478874160697  0.4136058156392072  0.7262764737173268  1.0000
+  Si  Si3       1.0  0.7239247966026261  0.4138519002718634  0.5262201902164002  1.0000
+  Si  Si4       1.0  0.22394149987324588  0.41377227102784847  0.22111474443947965  1.0000
+  Si  Si5       1.0  0.723943704497518  0.9135041757827568  0.726347631880736  1.0000
+  Ni  Ni1       1.0  0.2239434957693903  0.9136513907156932  0.855157753410375  1.0000

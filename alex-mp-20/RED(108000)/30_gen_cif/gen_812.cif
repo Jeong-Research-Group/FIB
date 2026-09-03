@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2CuSbInSb
+_chemical_formula_sum              "K2 Cu1 Sb2 In1"
+_cell_length_a       4.642239614661441
+_cell_length_b       5.480701811242847
+_cell_length_c       7.981320858001709
+_cell_angle_alpha    90.18934901027136
+_cell_angle_beta     90.09396541244891
+_cell_angle_gamma    89.94631038349884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.05042719095945358  0.7240330576896667  0.10552235692739487  1.0000
+  K   K2        1.0  0.5499550700187683  0.7232872247695923  0.5871242880821228  1.0000
+  Cu  Cu1       1.0  0.5495224595069885  0.2247229665517807  0.2765826880931854  1.0000
+  Sb  Sb1       1.0  0.5510669350624084  0.22297587990760806  0.95791095495224  1.0000
+  In  In1       1.0  0.05026792734861374  0.2234146147966385  0.7583137154579163  1.0000
+  Sb  Sb2       1.0  0.05012344568967819  0.2244245260953903  0.40821391344070435  1.0000

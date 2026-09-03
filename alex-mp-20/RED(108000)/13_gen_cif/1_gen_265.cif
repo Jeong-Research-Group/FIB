@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La3AsH2BrO
+_chemical_formula_sum              "La3 As1 H2 Br1 O1"
+_cell_length_a       4.155481186643952
+_cell_length_b       6.053753422125517
+_cell_length_c       7.839039011500872
+_cell_angle_alpha    111.6667629401655
+_cell_angle_beta     104.47943820487808
+_cell_angle_gamma    90.14535036287494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.010545462619054634  0.7056393022943461  0.4742249567446076  1.0000
+  La  La2       1.0  0.6977318504252921  0.34004940388414595  0.8274954128947931  1.0000
+  La  La3       1.0  0.30187674060615255  0.9929425721345098  0.04746472035097009  1.0000
+  As  As1       1.0  0.36110310797565254  0.5572456565402194  0.16577794046658534  1.0000
+  H   H1        1.0  0.16363209400135573  0.6075518982384704  0.7657717723638912  1.0000
+  H   H2        1.0  0.1576382447468665  0.10439289182373473  0.7459220947508488  1.0000
+  Br  Br1       1.0  0.9673826534074734  0.16984139497996428  0.39961337842674943  1.0000
+  O   O1        1.0  0.750027501479612  0.04155395394001582  0.9376926835737608  1.0000

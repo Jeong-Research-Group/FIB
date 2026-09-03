@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4GaP2S
+_chemical_formula_sum              "Pr4 Ga1 P2 S1"
+_cell_length_a       4.163296033762051
+_cell_length_b       7.385505062628175
+_cell_length_c       7.339633720445485
+_cell_angle_alpha    109.11128395044344
+_cell_angle_beta     90.00330109187546
+_cell_angle_gamma    89.99647478994706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3183418871384737  0.0713977184547748  0.2982175771651053  1.0000
+  Pr  Pr2       1.0  0.31805811256883443  0.5710044250065865  0.7794969779661387  1.0000
+  Pr  Pr3       1.0  0.817988779744932  0.5826321761013932  0.3008216988166672  1.0000
+  Pr  Pr4       1.0  0.818073806531062  0.05977658198726376  0.7763759375707079  1.0000
+  Ga  Ga1       1.0  0.31797272579056246  0.32105263904401476  0.03890601546229202  1.0000
+  P   P1        1.0  0.31797132119740346  0.8210815286828403  0.5387652160827938  1.0000
+  P   P2        1.0  0.8182254110148522  0.3213620763610455  0.5385838662251898  1.0000
+  S   S1        1.0  0.8182407430061391  0.8211461092861527  0.0388108141311091  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2CdPtCdPt
+_chemical_formula_sum              "Sr2 Cd2 Pt2"
+_cell_length_a       4.304927809098057
+_cell_length_b       4.2868462365568165
+_cell_length_c       9.317014694213867
+_cell_angle_alpha    103.30758070775315
+_cell_angle_beta     103.44620769465435
+_cell_angle_gamma    89.91795145773685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.41997456550598145  0.6734418272972107  0.18883477151393893  1.0000
+  Sr  Sr2       1.0  0.17036430537700653  0.9231672286987306  0.6892683506011963  1.0000
+  Cd  Cd1       1.0  0.7650975584983826  0.5168741345405579  0.8776703476905823  1.0000
+  Pt  Pt1       1.0  0.6103278994560242  0.36332911252975464  0.572025716304779  1.0000
+  Cd  Cd2       1.0  0.013292805291712284  0.26842185854911804  0.37927848100662237  1.0000
+  Pt  Pt2       1.0  0.860848605632782  0.11399313062429428  0.07123085111379625  1.0000

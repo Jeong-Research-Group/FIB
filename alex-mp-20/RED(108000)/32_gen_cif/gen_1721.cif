@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SrS2SrBaPrS2
+_chemical_formula_sum              "Sr2 S4 Ba1 Pr1"
+_cell_length_a       4.28006382050085
+_cell_length_b       7.440948029840763
+_cell_length_c       7.512444019317627
+_cell_angle_alpha    109.26067106347742
+_cell_angle_beta     90.03201560587681
+_cell_angle_gamma    89.98539955865627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5496273636817932  0.7508230805397034  0.7798207402229309  1.0000
+  S   S1        1.0  0.04977782443165779  0.9959157109260559  0.011330920271575451  1.0000
+  S   S2        1.0  0.04976813867688179  0.5060161352157593  0.5476270914077759  1.0000
+  Sr  Sr2       1.0  0.04965071380138397  0.7510711550712587  0.27923843264579773  1.0000
+  Ba  Ba1       1.0  0.5499327778816223  0.25076979398727417  0.2793809175491333  1.0000
+  Pr  Pr1       1.0  0.05000364035367966  0.2509591579437256  0.7796717286109924  1.0000
+  S   S3        1.0  0.549682080745697  0.004895245190709829  0.5439165830612183  1.0000
+  S   S4        1.0  0.5498600602149963  0.49653828144073486  0.01528038177639249  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiNdZn2Pt2
+_chemical_formula_sum              "Li1 Nd1 Zn2 Pt2"
+_cell_length_a       4.376320975684018
+_cell_length_b       4.376165809993278
+_cell_length_c       6.712978360626574
+_cell_angle_alpha    89.99763811532246
+_cell_angle_beta     89.99183936227227
+_cell_angle_gamma    120.00969690509257
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0741107198292855  0.542172044150576  0.9610319310090829  1.0000
+  Nd  Nd1       1.0  0.07364478510506967  0.5417430507324872  0.4616124306648639  1.0000
+  Zn  Zn1       1.0  0.4069478578778278  0.20854639185752402  0.7879826158070908  1.0000
+  Zn  Zn2       1.0  0.7407157197693798  0.8754443782789938  0.13566736273092017  1.0000
+  Pt  Pt1       1.0  0.7402253399070259  0.8752252426939753  0.7341897099093261  1.0000
+  Pt  Pt2       1.0  0.4073455172845251  0.2087368854304325  0.1892957492673353  1.0000

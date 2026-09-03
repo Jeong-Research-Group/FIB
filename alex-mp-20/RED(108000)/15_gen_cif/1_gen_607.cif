@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbLiAgTe2
+_chemical_formula_sum              "Rb1 Li1 Ag1 Te2"
+_cell_length_a       4.255283844235286
+_cell_length_b       8.427085051461695
+_cell_length_c       4.394811330767306
+_cell_angle_alpha    90.0038821572847
+_cell_angle_beta     90.00056942299116
+_cell_angle_gamma    89.99294989734352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6613574962040856  0.528187814291701  0.4492509717855661  1.0000
+  Li  Li1       1.0  0.1613059927995239  0.028424319841345726  0.44918144932446824  1.0000
+  Ag  Ag1       1.0  0.6614973716496289  0.028364292853161308  0.9498517444919578  1.0000
+  Te  Te1       1.0  0.16126065664190722  0.25463391832686916  0.9491735971480914  1.0000
+  Te  Te2       1.0  0.1615740673612159  0.8023434544192568  0.9492794790514375  1.0000

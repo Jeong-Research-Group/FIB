@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2ZnIn2Ge
+_chemical_formula_sum              "Sm2 Zn1 In2 Ge1"
+_cell_length_a       3.8609284587108124
+_cell_length_b       4.574365585938985
+_cell_length_c       8.23870244660588
+_cell_angle_alpha    90.0028825614978
+_cell_angle_beta     89.96144805400156
+_cell_angle_gamma    89.99301256508767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5748083071291626  0.18393550458357447  0.4571342199067158  1.0000
+  Sm  Sm2       1.0  0.5755491543450523  0.6840318277418671  0.015865262879707596  1.0000
+  Zn  Zn1       1.0  0.07554023820942096  0.1842654743138845  0.16035781832738938  1.0000
+  In  In1       1.0  0.07605973145120969  0.18416816102080755  0.8355039124610797  1.0000
+  In  In2       1.0  0.07415980202455168  0.6840620246011297  0.6413477840090801  1.0000
+  Ge  Ge1       1.0  0.07559342516170589  0.6844782428357433  0.30725837637785736  1.0000

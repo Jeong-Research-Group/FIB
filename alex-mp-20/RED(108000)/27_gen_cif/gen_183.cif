@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrCAuRuAuRu
+_chemical_formula_sum              "Pr1 C1 Au2 Ru2"
+_cell_length_a       4.089789876987835
+_cell_length_b       4.101407898649086
+_cell_length_c       6.348412990570068
+_cell_angle_alpha    90.04604481331432
+_cell_angle_beta     90.00392303312877
+_cell_angle_gamma    90.00601307101152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7001838088035583  0.9355357885360718  0.6415686011314392  1.0000
+  C   C1        1.0  0.6995303630828857  0.9361314177513124  0.14026068150997162  1.0000
+  Au  Au1       1.0  0.19908994436264038  0.43506574630737305  0.8492590188980103  1.0000
+  Ru  Ru1       1.0  0.1994045376777649  0.9357344508171083  0.14140041172504428  1.0000
+  Au  Au2       1.0  0.2001952975988388  0.4356284737586975  0.433559387922287  1.0000
+  Ru  Ru2       1.0  0.6993817687034607  0.4357374906539917  0.14090721309185028  1.0000

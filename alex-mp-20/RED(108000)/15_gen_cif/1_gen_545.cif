@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiTi2Fe
+_chemical_formula_sum              "Li1 Ti2 Fe1"
+_cell_length_a       2.995318233915255
+_cell_length_b       2.9961681559067705
+_cell_length_c       6.413790062943839
+_cell_angle_alpha    89.99689412701345
+_cell_angle_beta     89.98721533657809
+_cell_angle_gamma    90.01227220471829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4006442171316212  0.7596643876667833  0.6096980594891435  1.0000
+  Ti  Ti1       1.0  0.9007354388481664  0.2596684035238612  0.3368936327289395  1.0000
+  Ti  Ti2       1.0  0.900667022403938  0.2596995702775742  0.8824340635601143  1.0000
+  Fe  Fe1       1.0  0.4007464482071466  0.7593389342351565  0.10964913031544792  1.0000

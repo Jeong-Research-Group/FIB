@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2MgPrMgPrIn2
+_chemical_formula_sum              "Pr4 Mg2 In2"
+_cell_length_a       6.751653288784873
+_cell_length_b       6.7512374804373065
+_cell_length_c       6.754664897918701
+_cell_angle_alpha    107.9309912697474
+_cell_angle_beta     110.25540405746806
+_cell_angle_gamma    110.24190276560496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5485767722129822  0.05757883191108703  0.32226052880287176  1.0000
+  Pr  Pr2       1.0  0.5464987754821777  0.5553503036499023  0.8212373852729798  1.0000
+  Mg  Mg1       1.0  0.5490025877952576  0.05697529390454292  0.8222059011459352  1.0000
+  Pr  Pr3       1.0  0.04847680777311324  0.5573188066482544  0.3217726647853852  1.0000
+  Mg  Mg2       1.0  0.5473240613937378  0.5565741062164307  0.32151815295219427  1.0000
+  Pr  Pr4       1.0  0.04672939330339432  0.0558663085103035  0.8212413787841798  1.0000
+  In  In1       1.0  0.046874687075614936  0.5568427443504333  0.8214536905288697  1.0000
+  In  In2       1.0  0.04671475663781166  0.056969746947288506  0.3202941715717316  1.0000

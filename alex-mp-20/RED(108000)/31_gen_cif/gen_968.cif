@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta3RhCdRh
+_chemical_formula_sum              "Ta3 Rh2 Cd1"
+_cell_length_a       3.0071362413474905
+_cell_length_b       3.0065515159168257
+_cell_length_c       11.484296798706055
+_cell_angle_alpha    89.9949276738274
+_cell_angle_beta     89.95691766861303
+_cell_angle_gamma    89.88203147237222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.43311455845832825  0.6174036264419556  0.6957021355628967  1.0000
+  Ta  Ta2       1.0  0.9320109486579895  0.1173616498708725  0.20461708307266235  1.0000
+  Ta  Ta3       1.0  0.9320764541625977  0.11674554646015169  0.5196369886398315  1.0000
+  Rh  Rh1       1.0  0.43213391304016113  0.6173373460769653  0.3600546717643738  1.0000
+  Cd  Cd1       1.0  0.9324855804443359  0.11738438159227371  0.8904574513435364  1.0000
+  Rh  Rh2       1.0  0.4321446120738983  0.617341935634613  0.06238323077559471  1.0000

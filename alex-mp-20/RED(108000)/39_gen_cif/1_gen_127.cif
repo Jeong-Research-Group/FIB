@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Lu4Se2SN
+_chemical_formula_sum              "Lu4 Se2 S1 N1"
+_cell_length_a       3.6323485465313086
+_cell_length_b       5.406734266366564
+_cell_length_c       7.967879604618399
+_cell_angle_alpha    90.02012248200978
+_cell_angle_beta     90.00138454208385
+_cell_angle_gamma    89.99959831108902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.9664658934119595  0.7769943797662628  0.9911700191399065  1.0000
+  Lu  Lu2       1.0  0.9664239776636023  0.7787031998588332  0.4588268657177518  1.0000
+  Lu  Lu3       1.0  0.4667246627923169  0.27920996384610997  0.18252140230565433  1.0000
+  Lu  Lu4       1.0  0.4662723218807457  0.27824150656181973  0.7889757241062697  1.0000
+  Se  Se1       1.0  0.9665025955458901  0.27867234595501056  0.4811336613461863  1.0000
+  Se  Se2       1.0  0.4665272116303798  0.7781809616758353  0.7267162599055954  1.0000
+  S   S1        1.0  0.4664450965286267  0.7791217780311998  0.2249556796113591  1.0000
+  N   N1        1.0  0.966433635033638  0.2793334934004462  0.9806673146012277  1.0000

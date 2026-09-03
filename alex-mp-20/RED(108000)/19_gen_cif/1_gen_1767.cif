@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Cu3Rh
+_chemical_formula_sum              "Sc2 Cu3 Rh1"
+_cell_length_a       3.2298342497527757
+_cell_length_b       3.229918187463271
+_cell_length_c       8.969220016028235
+_cell_angle_alpha    89.99925976886985
+_cell_angle_beta     90.00019106554537
+_cell_angle_gamma    90.00353240128098
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.34768259436652954  0.31724453398689934  0.30819769008514203  1.0000
+  Sc  Sc2       1.0  0.3477436522455462  0.3172513910020978  0.6774398477840581  1.0000
+  Cu  Cu1       1.0  0.34780994165706486  0.31724890619072343  0.9867044947775303  1.0000
+  Cu  Cu2       1.0  0.8478050668249292  0.8172313946949087  0.8566307628074952  1.0000
+  Cu  Cu3       1.0  0.8477145496973235  0.8172573792754981  0.5018364017368853  1.0000
+  Rh  Rh1       1.0  0.8477224885510067  0.8172408449552028  0.15484226593082395  1.0000

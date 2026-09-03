@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiNd2Zn
+_chemical_formula_sum              "Li1 Nd2 Zn1"
+_cell_length_a       3.7860551761630044
+_cell_length_b       5.240785571031452
+_cell_length_c       5.242338484751372
+_cell_angle_alpha    90.0107536126247
+_cell_angle_beta     90.09109002250534
+_cell_angle_gamma    90.04957561352526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9304485495457027  0.9301484038538409  0.6776085357925152  1.0000
+  Nd  Nd1       1.0  0.43048535758343326  0.430405166915465  0.6774961645701103  1.0000
+  Nd  Nd2       1.0  0.43058502083494676  0.9304684508926161  0.17751780915964754  1.0000
+  Zn  Zn1       1.0  0.9306137823045026  0.4305112760166014  0.17751253241230364  1.0000

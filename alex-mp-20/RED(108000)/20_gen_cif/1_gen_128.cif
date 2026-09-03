@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be2Pt2Pb2
+_chemical_formula_sum              "Be2 Pt2 Pb2"
+_cell_length_a       3.552217388038519
+_cell_length_b       3.5519859590669376
+_cell_length_c       9.246076996707556
+_cell_angle_alpha    89.98345491505341
+_cell_angle_beta     90.0324919343767
+_cell_angle_gamma    90.00050674586508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.09219490587656357  0.9960768044493246  0.7473392624521309  1.0000
+  Be  Be2       1.0  0.5923601872209788  0.49615734086969276  0.7473610754841833  1.0000
+  Pt  Pt1       1.0  0.5919236712379254  0.9962465610855875  0.591635969156602  1.0000
+  Pt  Pt2       1.0  0.09259801914995966  0.4959229345089498  0.903065715152893  1.0000
+  Pb  Pb1       1.0  0.5929000339231744  0.9959366050676727  0.08701621425009007  1.0000
+  Pb  Pb2       1.0  0.09186233301193354  0.49652662884813004  0.40768284199495985  1.0000

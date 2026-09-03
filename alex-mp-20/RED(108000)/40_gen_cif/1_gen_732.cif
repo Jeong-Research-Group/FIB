@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al4CdNi
+_chemical_formula_sum              "Al4 Cd1 Ni1"
+_cell_length_a       2.858190720761982
+_cell_length_b       2.8583445356474773
+_cell_length_c       11.870271866556275
+_cell_angle_alpha    89.97316746975287
+_cell_angle_beta     90.04808114407363
+_cell_angle_gamma    90.00010967978804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.35173987778567395  0.5483541098055245  0.7334977645482579  1.0000
+  Al  Al2       1.0  0.8526780057537691  0.04745477574080308  0.15562684914588457  1.0000
+  Al  Al3       1.0  0.3525930843325911  0.5478960130659347  0.9857860274724161  1.0000
+  Al  Al4       1.0  0.8510899937128334  0.04820981937933477  0.5639675630898335  1.0000
+  Cd  Cd1       1.0  0.3515942210674116  0.5478673566506239  0.35992023278773766  1.0000
+  Ni  Ni1       1.0  0.852124679736689  0.04820539437978642  0.859610085583728  1.0000

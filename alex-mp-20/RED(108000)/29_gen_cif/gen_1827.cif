@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiLiAl2Ni2
+_chemical_formula_sum              "Ni3 Li1 Al2"
+_cell_length_a       4.029430783420338
+_cell_length_b       4.025374162619824
+_cell_length_c       4.949452877044678
+_cell_angle_alpha    89.93474004194093
+_cell_angle_beta     90.09585737544695
+_cell_angle_gamma    120.02732282970976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.28896564245224  0.5720341205596924  0.3052195608615875  1.0000
+  Li  Li1       1.0  0.6222850680351257  0.2389224618673325  0.13071699440479279  1.0000
+  Al  Al1       1.0  0.9553273320198059  0.9047498106956482  0.45271390676498413  1.0000
+  Al  Al2       1.0  0.2897600829601288  0.5730513334274292  0.8088555932044983  1.0000
+  Ni  Ni2       1.0  0.6221942901611328  0.2386288791894913  0.6311182379722595  1.0000
+  Ni  Ni3       1.0  0.9557719826698303  0.9059450030326843  0.9562751650810242  1.0000

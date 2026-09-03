@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2NiPt
+_chemical_formula_sum              "Tb2 Ni1 Pt1"
+_cell_length_a       3.4882709826532956
+_cell_length_b       4.870313764512361
+_cell_length_c       4.870417373506256
+_cell_angle_alpha    89.89654384592195
+_cell_angle_beta     89.96942181973631
+_cell_angle_gamma    89.98007163939799
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5873054809656636  0.6416752444104374  0.03273582339662922  1.0000
+  Tb  Tb2       1.0  0.5880500458771185  0.1416203863288449  0.5327455069263654  1.0000
+  Ni  Ni1       1.0  0.08770418114151356  0.6417255588943742  0.5327077156297734  1.0000
+  Pt  Pt1       1.0  0.08770285751715129  0.141742570942772  0.03266377007309496  1.0000

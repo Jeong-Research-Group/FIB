@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2Ni2Ir2
+_chemical_formula_sum              "Al2 Ni2 Ir2"
+_cell_length_a       4.445296072618328
+_cell_length_b       4.593173367593045
+_cell_length_c       4.508012189500201
+_cell_angle_alpha    82.93539314687781
+_cell_angle_beta     75.23334648949523
+_cell_angle_gamma    61.06193301369739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0186809653982436  0.08691780324785993  0.2232307998901625  1.0000
+  Al  Al2       1.0  0.5150534922417077  0.08931925301793556  0.723164835133331  1.0000
+  Ni  Ni1       1.0  0.6853507373076047  0.7528991070955787  0.22395040501888622  1.0000
+  Ni  Ni2       1.0  0.8483233087392427  0.42360437093075004  0.7223457839755267  1.0000
+  Ir  Ir1       1.0  0.17179206468973912  0.7751016242551306  0.7234522450398784  1.0000
+  Ir  Ir2       1.0  0.3619636779610864  0.4012046032528369  0.22290374956145675  1.0000

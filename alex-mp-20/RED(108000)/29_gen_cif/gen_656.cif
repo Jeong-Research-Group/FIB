@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CsK2CsKNa2
+_chemical_formula_sum              "Cs2 K3 Na2"
+_cell_length_a       5.291402865875431
+_cell_length_b       8.857495465829992
+_cell_length_c       11.888957023620605
+_cell_angle_alpha    100.32857333552701
+_cell_angle_beta     89.95072952103911
+_cell_angle_gamma    107.26791466066356
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.2988559305667877  0.45189967751502996  0.6446382403373718  1.0000
+  K   K1        1.0  0.006051778793334928  0.8674646615982056  0.48606863617897034  1.0000
+  K   K2        1.0  0.9275894165039061  0.7083238959312439  0.019524767994880676  1.0000
+  Cs  Cs2       1.0  0.6617982387542725  0.17751288414001465  0.2545860707759857  1.0000
+  K   K3        1.0  0.5879234075546265  0.026184229180216793  0.8064611554145813  1.0000
+  Na  Na1       1.0  0.37591230869293213  0.6075994968414307  0.2719080448150635  1.0000
+  Na  Na2       1.0  0.2319045811891556  0.3151287734508515  0.9984445571899414  1.0000

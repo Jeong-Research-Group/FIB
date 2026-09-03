@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SbO2SbCsO2Dy
+_chemical_formula_sum              "Sb2 O4 Cs1 Dy1"
+_cell_length_a       3.9012237352300416
+_cell_length_b       3.896009198066924
+_cell_length_c       10.558947563171387
+_cell_angle_alpha    89.95105053925991
+_cell_angle_beta     90.02299292120107
+_cell_angle_gamma    90.08219016588542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.5431938171386719  0.6431954503059386  0.39756256341934204  1.0000
+  O   O1        1.0  0.04424900934100151  0.6438648104667662  0.7579858303070068  1.0000
+  O   O2        1.0  0.5451028347015381  0.14377328753471375  0.7578014731407166  1.0000
+  Sb  Sb2       1.0  0.5447210669517517  0.6436153054237366  0.853823721408844  1.0000
+  Cs  Cs1       1.0  0.04454471170902252  0.14387503266334534  0.12624865770339966  1.0000
+  O   O3        1.0  0.04387164115905762  0.6447176933288574  0.49301284551620483  1.0000
+  O   O4        1.0  0.5439785718917847  0.14505463838577268  0.49288180470466614  1.0000
+  Dy  Dy1       1.0  0.04409991577267647  0.14390496909618378  0.6256744861602783  1.0000

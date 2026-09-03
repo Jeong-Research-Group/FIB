@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu2AgSe2S2
+_chemical_formula_sum              "Cu2 Ag1 Se2 S2"
+_cell_length_a       3.7548343298919815
+_cell_length_b       6.77869611698297
+_cell_length_c       7.150395103141414
+_cell_angle_alpha    60.58394675407733
+_cell_angle_beta     89.97286766919844
+_cell_angle_gamma    89.9619089970817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8315205040330245  0.8861863417597359  0.040924909990492635  1.0000
+  Cu  Cu2       1.0  0.8324532840879033  0.245081659089767  0.47681800741848607  1.0000
+  Ag  Ag1       1.0  0.3315006780805475  0.565657453022837  0.7589255962772639  1.0000
+  Se  Se1       1.0  0.8318856756310933  0.2853494697396807  0.7967745914950869  1.0000
+  Se  Se2       1.0  0.8313450683606236  0.8459720805261032  0.7209299561048205  1.0000
+  S   S1        1.0  0.3315770204555368  0.7287531928503764  0.23499697762957944  1.0000
+  S   S2        1.0  0.3323379815556976  0.4025594087377544  0.28275868228347045  1.0000

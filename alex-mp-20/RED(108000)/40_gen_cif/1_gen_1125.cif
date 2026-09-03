@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2CrGaCu2
+_chemical_formula_sum              "Ti2 Cr1 Ga1 Cu2"
+_cell_length_a       3.7410108271141356
+_cell_length_b       4.19142660641475
+_cell_length_c       5.562347710318254
+_cell_angle_alpha    89.99933658005688
+_cell_angle_beta     109.64779426763333
+_cell_angle_gamma    89.99981351693931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.9661849378435337  0.15259981411527865  0.361211657690588  1.0000
+  Ti  Ti2       1.0  0.2714508652312393  0.15253632150624635  0.9715686123189179  1.0000
+  Cr  Cr1       1.0  0.6171516761186856  0.1525753537681358  0.6624925052687443  1.0000
+  Ga  Ga1       1.0  0.4569757508197374  0.652582094725463  0.3427250468028675  1.0000
+  Cu  Cu1       1.0  0.7848745335698514  0.6525415360621971  0.9986110732969592  1.0000
+  Cu  Cu2       1.0  0.12107624773355913  0.6525523944443566  0.6709320758675118  1.0000

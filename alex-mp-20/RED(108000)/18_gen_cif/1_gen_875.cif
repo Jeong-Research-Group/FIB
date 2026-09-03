@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2ErInO
+_chemical_formula_sum              "Ca2 Er1 In1 O1"
+_cell_length_a       4.754193439209059
+_cell_length_b       4.859602587758159
+_cell_length_c       4.859975172142792
+_cell_angle_alpha    90.01129419660909
+_cell_angle_beta     90.0013327016111
+_cell_angle_gamma    90.00115032190222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9753921761421555  0.9571861408718071  0.8115484270789848  1.0000
+  Ca  Ca2       1.0  0.9750803072106415  0.4570620254371452  0.3111398208423658  1.0000
+  Er  Er1       1.0  0.4749877504070609  0.45734647490385144  0.8107683480198242  1.0000
+  In  In1       1.0  0.475061777708396  0.9571824056376813  0.3112190952281298  1.0000
+  O   O1        1.0  0.9750220573343393  0.45745110395138805  0.8109311489683894  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       IrCa2NPt
+_chemical_formula_sum              "Ir1 Ca2 N1 Pt1"
+_cell_length_a       3.763453623380239
+_cell_length_b       5.002406775808903
+_cell_length_c       5.006062984466553
+_cell_angle_alpha    90.05799764437255
+_cell_angle_beta     89.95632344350051
+_cell_angle_gamma    89.96669850255854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.27696096897125244  0.25123316049575806  0.3885161876678467  1.0000
+  Ca  Ca1       1.0  0.7762469053268432  0.2515864968299866  0.8890228271484375  1.0000
+  Ca  Ca2       1.0  0.7766382694244384  0.7515604496002198  0.38854143023490906  1.0000
+  N   N1        1.0  0.776837408542633  0.2520981431007385  0.38811245560646057  1.0000
+  Pt  Pt1       1.0  0.2766386568546295  0.7515149116516113  0.8885275721549988  1.0000

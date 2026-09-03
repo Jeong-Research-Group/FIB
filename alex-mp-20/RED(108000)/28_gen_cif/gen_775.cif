@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlTi3H
+_chemical_formula_sum              "Al1 Ti3 H1"
+_cell_length_a       4.0859041214161635
+_cell_length_b       4.079522734210508
+_cell_length_c       4.082035064697266
+_cell_angle_alpha    90.11171023353148
+_cell_angle_beta     90.00016642902615
+_cell_angle_gamma    90.08139103719238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9946767687797546  0.35276785492897034  0.7218136787414551  1.0000
+  Ti  Ti1       1.0  0.9943978190422058  0.8528614640235901  0.22178424894809723  1.0000
+  Ti  Ti2       1.0  0.49464258551597595  0.8528518080711365  0.7219928503036499  1.0000
+  Ti  Ti3       1.0  0.4946800172328949  0.3529491424560547  0.22192491590976715  1.0000
+  H   H1        1.0  0.49461695551872253  0.8532183766365051  0.22214116156101227  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2AlIr
+_chemical_formula_sum              "Li2 Al1 Ir1"
+_cell_length_a       3.005316167587012
+_cell_length_b       4.106701849055323
+_cell_length_c       4.459191464873455
+_cell_angle_alpha    90.03678347645437
+_cell_angle_beta     90.00522553065642
+_cell_angle_gamma    90.00029909913728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.13515115319941967  0.6457318652458333  0.004929671625968642  1.0000
+  Li  Li2       1.0  0.634954192338636  0.14537612221975274  0.0007404507120384371  1.0000
+  Al  Al1       1.0  0.6350881763713653  0.6455850614080261  0.5038313808178759  1.0000
+  Ir  Ir1       1.0  0.13502469860947144  0.14557655927934177  0.5008969462279538  1.0000

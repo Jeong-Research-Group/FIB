@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbBaPbBaSn2
+_chemical_formula_sum              "Pb2 Ba2 Sn2"
+_cell_length_a       4.932456975446664
+_cell_length_b       5.40199316781551
+_cell_length_c       8.537674903869629
+_cell_angle_alpha    89.94738955771604
+_cell_angle_beta     90.00263895739334
+_cell_angle_gamma    89.92548513650145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2904081344604492  0.6190567016601562  0.8566602468490601  1.0000
+  Ba  Ba1       1.0  0.7905372977256775  0.21309706568717957  0.686335027217865  1.0000
+  Pb  Pb2       1.0  0.7897968888282776  0.6123899221420288  0.35181865096092224  1.0000
+  Ba  Ba2       1.0  0.28976792097091675  0.21059691905975345  0.18923111259937286  1.0000
+  Sn  Sn1       1.0  0.7902538180351257  0.8309176564216614  0.02032255195081234  1.0000
+  Sn  Sn2       1.0  0.2898315191268921  0.8132722973823548  0.5219642519950867  1.0000

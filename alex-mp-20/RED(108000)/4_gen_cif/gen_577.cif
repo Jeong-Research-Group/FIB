@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCaPt2Ge
+_chemical_formula_sum              "Mn1 Ca1 Pt2 Ge1"
+_cell_length_a       3.9774967515436717
+_cell_length_b       4.128133710985274
+_cell_length_c       6.353723526000977
+_cell_angle_alpha    108.9294477434071
+_cell_angle_beta     108.2510262667013
+_cell_angle_gamma    90.01353945594387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5826242566108704  0.23187918961048126  0.7991952896118164  1.0000
+  Ca  Ca1       1.0  0.3385336399078369  0.487595796585083  0.31115591526031494  1.0000
+  Pt  Pt1       1.0  0.0908508524298668  0.7396390438079835  0.8151823878288269  1.0000
+  Pt  Pt2       1.0  0.9328363537788391  0.08273640275001526  0.5007725358009338  1.0000
+  Ge  Ge1       1.0  0.7209029793739319  0.870241641998291  0.07493633776903152  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbSeTl2Se
+_chemical_formula_sum              "Pb1 Se2 Tl2"
+_cell_length_a       4.506640411923862
+_cell_length_b       4.497008810084239
+_cell_length_c       8.38884449005127
+_cell_angle_alpha    89.97335110794226
+_cell_angle_beta     90.09486017428547
+_cell_angle_gamma    90.0091686186042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.7491018772125244  0.6825436949729919  0.7296051383018494  1.0000
+  Se  Se1       1.0  0.7491710782051086  0.18241971731185913  0.4939441382884979  1.0000
+  Tl  Tl1       1.0  0.24908943474292755  0.6819512844085693  0.36305513978004456  1.0000
+  Tl  Tl2       1.0  0.748153030872345  0.18222567439079285  0.09619917720556259  1.0000
+  Se  Se2       1.0  0.24761851131916046  0.682192862033844  0.9668108820915222  1.0000

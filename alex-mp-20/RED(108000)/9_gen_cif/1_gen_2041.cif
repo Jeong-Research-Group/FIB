@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CoTe2Rh
+_chemical_formula_sum              "Co1 Te2 Rh1"
+_cell_length_a       4.187789943119204
+_cell_length_b       4.189448347205545
+_cell_length_c       5.391270253720729
+_cell_angle_alpha    90.00735222106648
+_cell_angle_beta     90.01109345550103
+_cell_angle_gamma    120.00378875442613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.992347953547796  0.27006235657296473  0.0750279912183751  1.0000
+  Te  Te1       1.0  0.3254510813249281  0.9366485978549941  0.0625303882706999  1.0000
+  Te  Te2       1.0  0.9925238019545018  0.2705513585509817  0.5530118714837512  1.0000
+  Rh  Rh1       1.0  0.6590114392069348  0.603945111446141  0.7773355693323372  1.0000

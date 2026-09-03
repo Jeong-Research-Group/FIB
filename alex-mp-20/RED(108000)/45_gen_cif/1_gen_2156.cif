@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       LiTmIn
+_chemical_formula_sum              "Li1 Tm1 In1"
+_cell_length_a       3.3407650075443827
+_cell_length_b       4.910086407824271
+_cell_length_c       4.910232208777309
+_cell_angle_alpha    120.01588723353923
+_cell_angle_beta     90.00216234487687
+_cell_angle_gamma    89.99841130226352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5470233920367352  0.59260907375517  0.51431408575934  1.0000
+  Tm  Tm1       1.0  0.047170540061914575  0.9259305553977745  0.18114754030788083  1.0000
+  In  In1       1.0  0.5474090813982116  0.25888312755228016  0.8480659165763824  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2HBiH
+_chemical_formula_sum              "Sm2 H2 Bi1"
+_cell_length_a       4.0857041256560365
+_cell_length_b       4.092836782045216
+_cell_length_c       6.470745086669922
+_cell_angle_alpha    108.44602050975017
+_cell_angle_beta     108.36265156083815
+_cell_angle_gamma    89.98761263752952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.830457031726837  0.5528997182846069  0.4531111419200898  1.0000
+  Sm  Sm2       1.0  0.13221439719200134  0.855156421661377  0.05633817613124848  1.0000
+  H   H1        1.0  0.2328933924436569  0.45423424243927  0.2565663158893585  1.0000
+  Bi  Bi1       1.0  0.4812514781951904  0.20404797792434692  0.7552047967910768  1.0000
+  H   H2        1.0  0.7317062616348265  0.955519437789917  0.256665825843811  1.0000

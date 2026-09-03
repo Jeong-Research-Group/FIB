@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaNdGa2Ni2Fe
+_chemical_formula_sum              "Ga3 Nd1 Ni2 Fe1"
+_cell_length_a       4.001208788914646
+_cell_length_b       4.001325008230829
+_cell_length_c       8.493701934814453
+_cell_angle_alpha    89.97587827534694
+_cell_angle_beta     90.0685980947149
+_cell_angle_gamma    119.97068785028318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.4616098403930664  0.5988768935203552  0.621069073677063  1.0000
+  Nd  Nd1       1.0  0.7955452799797058  0.26497477293014526  0.8478021025657654  1.0000
+  Ga  Ga2       1.0  0.7944096326828003  0.26413407921791077  0.3461950719356537  1.0000
+  Ga  Ga3       1.0  0.46190860867500305  0.598584771156311  0.07579474151134491  1.0000
+  Ni  Ni1       1.0  0.12864738702774048  0.931926965713501  0.18944017589092255  1.0000
+  Ni  Ni2       1.0  0.12807480990886685  0.9311445951461792  0.5064899325370789  1.0000
+  Fe  Fe1       1.0  0.46134161949157715  0.598291277885437  0.3492175042629242  1.0000

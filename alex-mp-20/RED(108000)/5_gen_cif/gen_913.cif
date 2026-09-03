@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2GaScH
+_chemical_formula_sum              "Sc3 Ga1 H1"
+_cell_length_a       4.393094075382672
+_cell_length_b       4.391033821400681
+_cell_length_c       4.392092227935791
+_cell_angle_alpha    89.98396521890376
+_cell_angle_beta     89.94643332940204
+_cell_angle_gamma    89.9936026173938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8388624787330627  0.05519344657659531  0.17035755515098572  1.0000
+  Sc  Sc2       1.0  0.3385375738143921  0.05489540472626686  0.6700049638748169  1.0000
+  Ga  Ga1       1.0  0.3389774262905121  0.5549551844596863  0.16998647153377533  1.0000
+  Sc  Sc3       1.0  0.8388344049453735  0.555449366569519  0.6703721880912781  1.0000
+  H   H1        1.0  0.839889645576477  0.055110592395067215  0.6697301268577576  1.0000

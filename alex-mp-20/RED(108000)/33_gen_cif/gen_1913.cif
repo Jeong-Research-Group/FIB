@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2La2SnGa
+_chemical_formula_sum              "Al2 La2 Sn1 Ga1"
+_cell_length_a       4.454231863946878
+_cell_length_b       6.287772349363982
+_cell_length_c       6.298526287078857
+_cell_angle_alpha    76.85399916483557
+_cell_angle_beta     69.2981093351308
+_cell_angle_gamma    69.43630438194826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.3461326658725738  0.8218188285827638  0.7187163233757019  1.0000
+  Al  Al2       1.0  0.33799120783805847  0.15307866036891937  0.4032301902770996  1.0000
+  La  La1       1.0  0.09029570966958994  0.7282993197441102  0.32249215245246887  1.0000
+  La  La2       1.0  0.5895531177520752  0.22980335354804995  0.8224342465400696  1.0000
+  Sn  Sn1       1.0  0.8358664512634278  0.6450292468070984  0.9140243530273439  1.0000
+  Ga  Ga1       1.0  0.8458828926086426  0.2928866147994995  0.2491365969181061  1.0000

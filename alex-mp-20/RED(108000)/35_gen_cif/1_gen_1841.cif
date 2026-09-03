@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl2CdInHg
+_chemical_formula_sum              "Tl2 Cd1 In1 Hg1"
+_cell_length_a       3.4799980909053136
+_cell_length_b       3.4810491360881404
+_cell_length_c       13.892075216651401
+_cell_angle_alpha    83.65796897421684
+_cell_angle_beta     83.82714699887677
+_cell_angle_gamma    60.7984728214285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.544234590775882  0.9570162663024588  0.9273618158537388  1.0000
+  Tl  Tl2       1.0  0.7415287969580817  0.15288540252564148  0.3368481133813925  1.0000
+  Cd  Cd1       1.0  0.34184894258099857  0.7534706358255767  0.5345184022017485  1.0000
+  In  In1       1.0  0.94607393708217  0.3595710782928785  0.7196962057611362  1.0000
+  Hg  Hg1       1.0  0.14263999701377367  0.5554264614405112  0.13195334808936143  1.0000

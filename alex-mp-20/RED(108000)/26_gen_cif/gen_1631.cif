@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgCd2MgCu2
+_chemical_formula_sum              "Mg2 Cd2 Cu2"
+_cell_length_a       5.169013117805522
+_cell_length_b       5.227630548402776
+_cell_length_c       5.231120586395264
+_cell_angle_alpha    76.20990564928431
+_cell_angle_beta     60.672905500218164
+_cell_angle_gamma    60.53832448299747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9384501576423645  0.09207417815923691  0.19592979550361633  1.0000
+  Cd  Cd1       1.0  0.4425078332424164  0.41504958271980286  0.8660914301872253  1.0000
+  Cd  Cd2       1.0  0.27002787590026855  0.09122402966022491  0.5364582538604736  1.0000
+  Mg  Mg2       1.0  0.7724325060844422  0.757117748260498  0.8653213381767273  1.0000
+  Cu  Cu1       1.0  0.35380145907402033  0.593574583530426  0.3647754490375519  1.0000
+  Cu  Cu2       1.0  0.8547852635383606  0.5928046703338623  0.3641495704650879  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2AlZn
+_chemical_formula_sum              "Tb2 Al1 Zn1"
+_cell_length_a       3.6097760671385877
+_cell_length_b       5.099422114752722
+_cell_length_c       5.099400148171004
+_cell_angle_alpha    89.99786301483573
+_cell_angle_beta     90.00369920828864
+_cell_angle_gamma    90.00270012542933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5606899329931203  0.3073613745699245  0.7440624936833591  1.0000
+  Tb  Tb2       1.0  0.5607107360458511  0.8072814933042475  0.24402527326494036  1.0000
+  Al  Al1       1.0  0.06067221302647536  0.8071658369640234  0.7438441481064434  1.0000
+  Zn  Zn1       1.0  0.06055880653694603  0.3075086025860662  0.24436190329155413  1.0000

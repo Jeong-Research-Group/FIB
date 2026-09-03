@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrPr2NiIrNi
+_chemical_formula_sum              "Ir2 Pr2 Ni2"
+_cell_length_a       4.141712359555366
+_cell_length_b       4.150893479978537
+_cell_length_c       7.164432525634766
+_cell_angle_alpha    90.08492906734077
+_cell_angle_beta     90.01645643132048
+_cell_angle_gamma    90.0998735234292
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.11463423073291779  0.2972101867198944  0.3235621154308319  1.0000
+  Pr  Pr1       1.0  0.6142834424972534  0.7976801991462708  0.15169237554073334  1.0000
+  Pr  Pr2       1.0  0.6142751574516296  0.2977532148361206  0.6516447067260742  1.0000
+  Ni  Ni1       1.0  0.11423065513372421  0.7973654866218567  0.813265085220337  1.0000
+  Ir  Ir2       1.0  0.11420010030269623  0.2976666986942291  0.9799979925155641  1.0000
+  Ni  Ni2       1.0  0.11384773254394531  0.7975950241088867  0.4902105331420899  1.0000

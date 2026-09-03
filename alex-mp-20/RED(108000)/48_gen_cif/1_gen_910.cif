@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeTe2P2H3
+_chemical_formula_sum              "Ge1 Te2 P2 H3"
+_cell_length_a       5.492433163360023
+_cell_length_b       6.572345255814198
+_cell_length_c       6.389300296422168
+_cell_angle_alpha    103.25396103552553
+_cell_angle_beta     75.24040695399182
+_cell_angle_gamma    94.93077234310022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.44543443464188986  0.03820661738488118  0.1855529176084494  1.0000
+  Te  Te1       1.0  0.6328711120840512  0.07580509576942286  0.7607624640606591  1.0000
+  Te  Te2       1.0  0.9251164711907541  0.8935258367389247  0.19528361820560775  1.0000
+  P   P1        1.0  0.04910787411544963  0.9818147055253807  0.814169684312719  1.0000
+  P   P2        1.0  0.4126868319877595  0.38461559013609836  0.40828085252264074  1.0000
+  H   H1        1.0  0.6153112745082441  0.4802277244032711  0.2693842730621183  1.0000
+  H   H2        1.0  0.04940105859522803  0.7652555532861294  0.7027166081911354  1.0000
+  H   H3        1.0  0.22859001428469347  0.44958838679588076  0.31545723312407775  1.0000

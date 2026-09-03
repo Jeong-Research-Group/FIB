@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li3LaNiGe2
+_chemical_formula_sum              "Li3 La1 Ni1 Ge2"
+_cell_length_a       4.242292408694674
+_cell_length_b       4.142228210796664
+_cell_length_c       7.583645614523158
+_cell_angle_alpha    105.8443497415987
+_cell_angle_beta     89.98901880828379
+_cell_angle_gamma    89.99345559562842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2742460612898569  0.9452023853110826  0.8864355219224188  1.0000
+  Li  Li2       1.0  0.27477491584355546  0.5690048461847115  0.1336749114831291  1.0000
+  Li  Li3       1.0  0.7745351389158839  0.4514311132539519  0.898499166796124  1.0000
+  La  La1       1.0  0.2744055861028454  0.2485916386858853  0.49320452793262104  1.0000
+  Ni  Ni1       1.0  0.774688124843474  0.6596413462176208  0.31500208479739356  1.0000
+  Ge  Ge1       1.0  0.7745486146616889  0.0791589439043362  0.1539452514375072  1.0000
+  Ge  Ge2       1.0  0.7742902879694765  0.8243740348113554  0.6448046509466823  1.0000

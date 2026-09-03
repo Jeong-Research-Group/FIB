@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li3HHg
+_chemical_formula_sum              "Li3 H1 Hg1"
+_cell_length_a       4.096318590238973
+_cell_length_b       4.090327848494715
+_cell_length_c       4.09713888168335
+_cell_angle_alpha    89.98678608894338
+_cell_angle_beta     90.02352567727314
+_cell_angle_gamma    90.00765914703314
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7531971335411072  0.45932260155677795  0.4338430166244507  1.0000
+  Li  Li2       1.0  0.2534545361995697  0.4590664505958557  0.9343709945678711  1.0000
+  Li  Li3       1.0  0.7529786825180054  0.959571123123169  0.9339630007743835  1.0000
+  H   H1        1.0  0.7532656192779541  0.45963048934936523  0.9337877035140991  1.0000
+  Hg  Hg1       1.0  0.25345370173454285  0.9592538475990295  0.43419647216796875  1.0000

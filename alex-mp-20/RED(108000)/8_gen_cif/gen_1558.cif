@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiMgTiSnC
+_chemical_formula_sum              "Ti2 Mg1 Sn1 C1"
+_cell_length_a       4.2456726421788895
+_cell_length_b       4.250037698549609
+_cell_length_c       4.390270233154297
+_cell_angle_alpha    90.02793797664908
+_cell_angle_beta     90.07619326205321
+_cell_angle_gamma    89.97624710638938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.14336180686950684  0.19600337743759158  0.461281418800354  1.0000
+  Mg  Mg1       1.0  0.6435701847076416  0.19626083970069888  0.9614954590797424  1.0000
+  Ti  Ti2       1.0  0.6430724859237671  0.6962643861770631  0.46123841404914856  1.0000
+  Sn  Sn1       1.0  0.1435449868440628  0.6965232491493225  0.9614289402961731  1.0000
+  C   C1        1.0  0.6433389186859131  0.1962715983390808  0.46064531803131104  1.0000

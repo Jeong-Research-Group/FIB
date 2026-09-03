@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2TeI2
+_chemical_formula_sum              "Lu2 Te1 I2"
+_cell_length_a       4.245989843683252
+_cell_length_b       4.246936367296134
+_cell_length_c       13.457276184027561
+_cell_angle_alpha    61.89337100088701
+_cell_angle_beta     61.902440902255115
+_cell_angle_gamma    59.99830111258951
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.9994880900100064  0.8210147491226152  0.4059501379422682  1.0000
+  Lu  Lu2       1.0  0.9505473851376443  0.7729695428026272  0.11968232421456695  1.0000
+  Te  Te1       1.0  0.474899198842385  0.2969785467187105  0.2628647762721048  1.0000
+  I   I1        1.0  0.4515741854193789  0.27387454307008147  0.9511996867007134  1.0000
+  I   I2        1.0  0.4985219874918137  0.3201287478471069  0.5742263882088899  1.0000

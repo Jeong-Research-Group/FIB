@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SmCoPCoPH2Sm
+_chemical_formula_sum              "Sm2 Co2 P2 H2"
+_cell_length_a       3.7856929363838385
+_cell_length_b       3.7823022335640695
+_cell_length_c       7.815498352050781
+_cell_angle_alpha    90.02396280879185
+_cell_angle_beta     89.99673084372861
+_cell_angle_gamma    89.98639676793583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.12640193104743958  0.8587065339088441  0.19893935322761536  1.0000
+  Co  Co1       1.0  0.6267163157463074  0.8583765029907227  0.8769832849502563  1.0000
+  P   P1        1.0  0.1270139068365097  0.8579882383346559  0.7196705341339111  1.0000
+  Co  Co2       1.0  0.12664738297462463  0.35849991440773016  0.8756210803985596  1.0000
+  P   P2        1.0  0.6266191601753235  0.35933056473732  0.0330597348511219  1.0000
+  H   H1        1.0  0.12628638744354248  0.35886844992637634  0.3758352994918823  1.0000
+  H   H2        1.0  0.6269712448120117  0.8592253923416139  0.3763238191604614  1.0000
+  Sm  Sm2       1.0  0.6266526579856873  0.3589013814926148  0.5550392270088196  1.0000

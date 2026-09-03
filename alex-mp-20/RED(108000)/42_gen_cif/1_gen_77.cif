@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Pb2Au2
+_chemical_formula_sum              "Cs2 Pb2 Au2"
+_cell_length_a       4.804158361231989
+_cell_length_b       7.5942503588089565
+_cell_length_c       7.581250774075246
+_cell_angle_alpha    72.23221029943893
+_cell_angle_beta     90.00499964252674
+_cell_angle_gamma    90.01180068603436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8765516988313826  0.2036342961265536  0.7849446834556448  1.0000
+  Cs  Cs2       1.0  0.8768686406514522  0.6272515941316961  0.20886191775544974  1.0000
+  Pb  Pb1       1.0  0.3772132735761554  0.7333091742266286  0.6803255480485058  1.0000
+  Pb  Pb2       1.0  0.3772969028125524  0.09749861939295913  0.31381079144509155  1.0000
+  Au  Au1       1.0  0.37728190358158664  0.4150456264191291  0.9967327704747521  1.0000
+  Au  Au2       1.0  0.877283664758554  0.9150619066203354  0.49677086729826847  1.0000

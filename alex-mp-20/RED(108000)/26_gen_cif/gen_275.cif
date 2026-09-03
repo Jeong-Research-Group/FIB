@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ge2SmNiPt
+_chemical_formula_sum              "Ge2 Sm1 Ni1 Pt1"
+_cell_length_a       4.177747141204369
+_cell_length_b       4.1806316953174845
+_cell_length_c       5.901532173156738
+_cell_angle_alpha    110.78524387816222
+_cell_angle_beta     110.73859524708813
+_cell_angle_gamma    90.02435885756174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.13503375649452212  0.8084390163421632  0.06664192676544198  1.0000
+  Ge  Ge2       1.0  0.3797303140163422  0.053766265511512756  0.5560749173164368  1.0000
+  Sm  Sm1       1.0  0.7582826018333436  0.4310996234416962  0.3099564313888551  1.0000
+  Ni  Ni1       1.0  0.5081996321678162  0.6812002658843995  0.8116099238395691  1.0000
+  Pt  Pt1       1.0  0.007703599985688931  0.18149980902671817  0.8118987679481506  1.0000

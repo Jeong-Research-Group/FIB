@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2Cd2Bi2
+_chemical_formula_sum              "K2 Cd2 Bi2"
+_cell_length_a       5.084587556795699
+_cell_length_b       7.165170958645782
+_cell_length_c       7.166618148812192
+_cell_angle_alpha    75.85254183310695
+_cell_angle_beta     69.20061823791153
+_cell_angle_gamma    69.2381872896575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7829827750492645  0.41221653914282846  0.3808827878428621  1.0000
+  K   K2        1.0  0.28031661577687733  0.9118093914818194  0.8807879368059512  1.0000
+  Cd  Cd1       1.0  0.5320916680400751  0.9961836438822216  0.2965496513167387  1.0000
+  Cd  Cd2       1.0  0.03136557303448714  0.49673716321490896  0.7971982349141558  1.0000
+  Bi  Bi1       1.0  0.5305401080464822  0.3311080717535694  0.9637133073113662  1.0000
+  Bi  Bi2       1.0  0.030903573131895793  0.8296862828597343  0.46368616034914406  1.0000

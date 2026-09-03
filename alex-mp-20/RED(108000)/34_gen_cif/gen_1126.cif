@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FeScAl2FeScFeGe
+_chemical_formula_sum              "Fe3 Sc2 Al2 Ge1"
+_cell_length_a       3.7204289863319704
+_cell_length_b       3.7340101810193236
+_cell_length_c       9.213186264038086
+_cell_angle_alpha    89.9812536339771
+_cell_angle_beta     89.96342684224483
+_cell_angle_gamma    90.00198325913394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.02993997558951378  0.3042046427726745  0.5102552771568298  1.0000
+  Sc  Sc1       1.0  0.030383072793483734  0.8045979738235473  0.27995964884757996  1.0000
+  Al  Al1       1.0  0.029009174555540085  0.8037098050117492  0.9612889289855957  1.0000
+  Al  Al2       1.0  0.530046284198761  0.30407559871673584  0.09152477979660034  1.0000
+  Fe  Fe2       1.0  0.5307853817939758  0.8045335412025452  0.5083139538764954  1.0000
+  Sc  Sc2       1.0  0.530180037021637  0.30423587560653687  0.7604185342788696  1.0000
+  Fe  Fe3       1.0  0.5291548371315002  0.30409255623817444  0.3640289604663849  1.0000
+  Ge  Ge1       1.0  0.029756493866443634  0.8049678206443787  0.6745861768722534  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnAu2AgAu
+_chemical_formula_sum              "Sn1 Au3 Ag1"
+_cell_length_a       4.358029378839474
+_cell_length_b       4.428089718902204
+_cell_length_c       5.937640190124512
+_cell_angle_alpha    111.89709579490041
+_cell_angle_beta     90.00447627868134
+_cell_angle_gamma    89.9433187612364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.5623480677604675  0.7897050380706787  0.28703647851943964  1.0000
+  Au  Au1       1.0  0.5618350505828857  0.13532230257987976  0.9778053760528564  1.0000
+  Au  Au2       1.0  0.062177933752536774  0.951661705970764  0.6108105778694153  1.0000
+  Ag  Ag1       1.0  0.5620560646057129  0.4537202715873718  0.6167914867401123  1.0000
+  Au  Au3       1.0  0.0615072026848793  0.6275802254676819  0.9635652899742126  1.0000

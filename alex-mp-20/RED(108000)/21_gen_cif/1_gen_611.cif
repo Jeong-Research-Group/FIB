@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCo2HRu
+_chemical_formula_sum              "Mn1 Co2 H1 Ru1"
+_cell_length_a       3.6836412344207763
+_cell_length_b       3.683760636310012
+_cell_length_c       3.781436545327233
+_cell_angle_alpha    90.00633056397518
+_cell_angle_beta     90.00130921179525
+_cell_angle_gamma    89.99485817451999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.44038472337747225  0.8774116567412111  0.9805331860939669  1.0000
+  Co  Co1       1.0  0.940707639006189  0.87726333414594  0.4802015634749782  1.0000
+  Co  Co2       1.0  0.4405468063653762  0.37756059226197725  0.4803378843959098  1.0000
+  H   H1        1.0  0.4409242810332053  0.87730091701207  0.4803846900803572  1.0000
+  Ru  Ru1       1.0  0.9406746220666165  0.3774567285123274  0.979648048838984  1.0000

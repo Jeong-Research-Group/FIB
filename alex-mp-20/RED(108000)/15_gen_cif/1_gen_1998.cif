@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZrTi3N
+_chemical_formula_sum              "Zr1 Ti3 N1"
+_cell_length_a       4.250735950341371
+_cell_length_b       4.249623757056781
+_cell_length_c       4.248148612256937
+_cell_angle_alpha    89.9601817563681
+_cell_angle_beta     89.95949684952035
+_cell_angle_gamma    90.022292747438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7239642750173686  0.641944757210678  0.8123988254014275  1.0000
+  Ti  Ti1       1.0  0.7235854184073472  0.14229525970438714  0.31244123310814587  1.0000
+  Ti  Ti2       1.0  0.22377458635119798  0.642466644298577  0.31244950567443264  1.0000
+  Ti  Ti3       1.0  0.22345721247284653  0.1423259264067764  0.81212519431549  1.0000
+  N   N1        1.0  0.2240502749200734  0.14165257578904453  0.31238721156870713  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Y2Cu2SiAs2
+_chemical_formula_sum              "Y2 Cu2 Si1 As2"
+_cell_length_a       3.98721247720372
+_cell_length_b       3.987361081746643
+_cell_length_c       8.77246014267491
+_cell_angle_alpha    90.04508539076963
+_cell_angle_beta     89.99855130697837
+_cell_angle_gamma    90.00004724839751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.07264872069695232  0.23780567140920197  0.7211566406405528  1.0000
+  Y   Y2        1.0  0.572907750944697  0.7390602258286406  0.2807080960315464  1.0000
+  Cu  Cu1       1.0  0.572779526297239  0.23832898542546574  0.9913862895976093  1.0000
+  Cu  Cu2       1.0  0.07270290579770874  0.7382498313651843  0.9915321964800967  1.0000
+  Si  Si1       1.0  0.07265365304204752  0.23860203675193484  0.12898658271481495  1.0000
+  As  As1       1.0  0.5725753167605508  0.7378032578141491  0.7879057619995119  1.0000
+  As  As2       1.0  0.07292609394012149  0.23929568101980328  0.40183006214705935  1.0000

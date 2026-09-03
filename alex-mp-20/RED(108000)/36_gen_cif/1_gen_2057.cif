@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Hg2Bi2
+_chemical_formula_sum              "Cs2 Hg2 Bi2"
+_cell_length_a       5.357671074056146
+_cell_length_b       5.890875220477131
+_cell_length_c       8.921838588849738
+_cell_angle_alpha    89.99214131285949
+_cell_angle_beta     89.9932453488237
+_cell_angle_gamma    89.99948224900079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.4532254920745258  0.2666408966036489  0.7214395182134273  1.0000
+  Cs  Cs2       1.0  0.9528271464988244  0.26733829205336973  0.21962900251989856  1.0000
+  Hg  Hg1       1.0  0.45242394694510973  0.7686393516770443  0.053022635729664896  1.0000
+  Hg  Hg2       1.0  0.45314289823622456  0.7668036522018432  0.3887929627215224  1.0000
+  Bi  Bi1       1.0  0.9532173681313579  0.7662605971853363  0.5518551758086997  1.0000
+  Bi  Bi2       1.0  0.9526493793073835  0.7671961957217042  0.8887920866268585  1.0000

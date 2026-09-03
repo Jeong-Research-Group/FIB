@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2TlPtO
+_chemical_formula_sum              "Ca2 Tl1 Pt1 O1"
+_cell_length_a       4.619033834352446
+_cell_length_b       4.698127323512101
+_cell_length_c       4.697605475329599
+_cell_angle_alpha    90.01757329629147
+_cell_angle_beta     90.0217909003823
+_cell_angle_gamma    90.01725969573019
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6174844798072436  0.4383796976943918  0.3617839715696708  1.0000
+  Ca  Ca2       1.0  0.6175101708551457  0.938244709176369  0.8615368234394084  1.0000
+  Tl  Tl1       1.0  0.11757497300690006  0.4377900298747347  0.8624906281896668  1.0000
+  Pt  Pt1       1.0  0.11754172867380223  0.9387300401454128  0.3613023207917441  1.0000
+  O   O1        1.0  0.6175743160782045  0.9389599232143095  0.36167303382791394  1.0000

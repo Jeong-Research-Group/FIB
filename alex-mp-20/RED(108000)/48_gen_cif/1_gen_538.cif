@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy2Tm2C2O
+_chemical_formula_sum              "Dy2 Tm2 C2 O1"
+_cell_length_a       3.5177304254849378
+_cell_length_b       6.115247009666227
+_cell_length_c       6.183235924473508
+_cell_angle_alpha    110.29702903135838
+_cell_angle_beta     90.0027865585492
+_cell_angle_gamma    90.00197662035357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.8460644161052713  0.2867431453590844  0.9397922899568477  1.0000
+  Dy  Dy2       1.0  0.8458953625386534  0.816398849038996  0.4595624688627531  1.0000
+  Tm  Tm1       1.0  0.34600365241016945  0.8202681790527528  0.9446430558249879  1.0000
+  Tm  Tm2       1.0  0.34597747060882983  0.2830055429874911  0.45482002260678694  1.0000
+  C   C1        1.0  0.3458930248887391  0.051682941041535466  0.6997925502959744  1.0000
+  C   C2        1.0  0.8458288917614403  0.05156786385765415  0.1996801902868032  1.0000
+  O   O1        1.0  0.8460695770611275  0.551596620736828  0.6996354420256435  1.0000

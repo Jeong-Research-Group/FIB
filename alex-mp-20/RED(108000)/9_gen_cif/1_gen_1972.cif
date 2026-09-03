@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiBeP2Os
+_chemical_formula_sum              "Li1 Be1 P2 Os1"
+_cell_length_a       3.801163367638708
+_cell_length_b       3.799412187250736
+_cell_length_c       5.535553393202034
+_cell_angle_alpha    110.08101197108343
+_cell_angle_beta     110.03843535143268
+_cell_angle_gamma    89.99397422042595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8455724463940639  0.8851890179433531  0.20728690001958766  1.0000
+  Be  Be1       1.0  0.09577014839560095  0.6349659711965863  0.7078123417709217  1.0000
+  P   P1        1.0  0.46250769311710577  0.5025563731059125  0.44095719499411756  1.0000
+  P   P2        1.0  0.23041090415243662  0.2695248581155687  0.9765081545709083  1.0000
+  Os  Os1       1.0  0.5969826258288389  0.13661204488312628  0.7089802490046005  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrSi2PtSiPt
+_chemical_formula_sum              "Pr1 Si3 Pt2"
+_cell_length_a       4.013404581322969
+_cell_length_b       5.485659993695888
+_cell_length_c       5.497452259063721
+_cell_angle_alpha    60.22240709808509
+_cell_angle_beta     90.01862160245277
+_cell_angle_gamma    90.00963307226438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.11648701131343842  0.8301697969436646  0.22940914332866666  1.0000
+  Si  Si1       1.0  0.61651611328125  0.3306513726711273  0.7292327880859375  1.0000
+  Si  Si2       1.0  0.6165885329246521  0.33005213737487793  0.22952583432197565  1.0000
+  Pt  Pt1       1.0  0.11618407815694809  0.4971260726451874  0.8963290452957152  1.0000
+  Si  Si3       1.0  0.6166737675666809  0.8302299380302429  0.7292606234550474  1.0000
+  Pt  Pt2       1.0  0.11711873859167099  0.16320167481899261  0.5630291700363159  1.0000

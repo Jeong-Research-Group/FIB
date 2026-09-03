@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2InTe5
+_chemical_formula_sum              "Li2 In1 Te5"
+_cell_length_a       6.183090419664248
+_cell_length_b       5.98458990055577
+_cell_length_c       6.1827554818684956
+_cell_angle_alpha    89.96261465197065
+_cell_angle_beta     89.88987412953652
+_cell_angle_gamma    89.96396618926275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.39242565628642784  0.5676842363329656  0.6317621045227323  1.0000
+  Li  Li2       1.0  0.8927992691436246  0.566649015447365  0.13196908185016235  1.0000
+  In  In1       1.0  0.39330323108687787  0.06621383624263957  0.13088144983129588  1.0000
+  Te  Te1       1.0  0.8935236898455251  0.06564832858288874  0.13211566751558043  1.0000
+  Te  Te2       1.0  0.3932466830361652  0.5664580409035385  0.13103680683944155  1.0000
+  Te  Te3       1.0  0.8914040584483732  0.06691118858796807  0.6323782680130072  1.0000
+  Te  Te4       1.0  0.39490354729908955  0.06600977807925518  0.6323057344393923  1.0000
+  Te  Te5       1.0  0.893275827544733  0.5662416548102791  0.6309417345495351  1.0000

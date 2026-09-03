@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaNaSr2Pt
+_chemical_formula_sum              "Ba1 Na1 Sr2 Pt1"
+_cell_length_a       6.0453243275257424
+_cell_length_b       6.045257511620773
+_cell_length_c       6.2596483418239925
+_cell_angle_alpha    89.99185432791194
+_cell_angle_beta     89.96508886771329
+_cell_angle_gamma    89.95103323256811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5007310970829708  0.2491490284082334  0.03453561234320761  1.0000
+  Na  Na1       1.0  0.0009035058988600369  0.7493914619957122  0.034229961415413006  1.0000
+  Sr  Sr1       1.0  0.5002674193260868  0.7495289776988985  0.5343012442149047  1.0000
+  Sr  Sr2       1.0  0.0004716307762423559  0.249306137783217  0.5349154460595463  1.0000
+  Pt  Pt1       1.0  0.5001038403581756  0.24936387211345598  0.5344447511840204  1.0000

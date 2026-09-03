@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiTeCu2Te2
+_chemical_formula_sum              "Li1 Te3 Cu2"
+_cell_length_a       3.9575216236724025
+_cell_length_b       5.576072044592411
+_cell_length_c       6.74992036819458
+_cell_angle_alpha    114.63051892316814
+_cell_angle_beta     107.03233391796464
+_cell_angle_gamma    89.94241770133442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.31695955991744995  0.8690732121467589  0.6107306480407715  1.0000
+  Te  Te1       1.0  0.31604063510894775  0.3691818416118621  0.6097024083137512  1.0000
+  Cu  Cu1       1.0  0.6539517045021057  0.20927621424198148  0.2870042026042938  1.0000
+  Cu  Cu2       1.0  0.9782872796058654  0.5305187702178955  0.9342575669288636  1.0000
+  Te  Te2       1.0  0.9992498755455016  0.054204072803258896  0.9798120856285096  1.0000
+  Te  Te3       1.0  0.6305779218673706  0.6845064163208008  0.24049080908298495  1.0000

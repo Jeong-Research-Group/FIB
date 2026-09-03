@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaCe3H
+_chemical_formula_sum              "La1 Ce3 H1"
+_cell_length_a       5.004147277255587
+_cell_length_b       5.004152466239895
+_cell_length_c       5.004168435811067
+_cell_angle_alpha    89.99564105317691
+_cell_angle_beta     89.99827182726163
+_cell_angle_gamma    89.99935673897582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9438240026824289  0.8513742454796233  0.6202649243568688  1.0000
+  Ce  Ce1       1.0  0.44369498185419687  0.8514211448464798  0.12028357361133922  1.0000
+  Ce  Ce2       1.0  0.9436846027690557  0.35157398117078753  0.12066508429607044  1.0000
+  Ce  Ce3       1.0  0.44389812257427635  0.35118507435334634  0.62033235068121  1.0000
+  H   H1        1.0  0.44355146231836534  0.35149538318338897  0.12076596306834382  1.0000

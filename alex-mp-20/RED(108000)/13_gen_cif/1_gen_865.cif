@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCa2Si2Ge
+_chemical_formula_sum              "Li1 Ca2 Si2 Ge1"
+_cell_length_a       4.1831466004409
+_cell_length_b       4.183623479736458
+_cell_length_c       7.223488155113768
+_cell_angle_alpha    89.98870184549789
+_cell_angle_beta     89.99777671354606
+_cell_angle_gamma    90.0069581723266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0477626817913109  0.4478116396951043  0.9312639788032305  1.0000
+  Ca  Ca1       1.0  0.047760973917028646  0.9483762449247567  0.27309633333450567  1.0000
+  Ca  Ca2       1.0  0.5479164382682622  0.4480499212146201  0.5892443601923624  1.0000
+  Si  Si1       1.0  0.5477527012678738  0.44839589023386905  0.15899797160925813  1.0000
+  Si  Si2       1.0  0.047902901975949076  0.9479899584749407  0.7033835863685669  1.0000
+  Ge  Ge1       1.0  0.5478154320535673  0.9481881545394388  0.9314384798137489  1.0000

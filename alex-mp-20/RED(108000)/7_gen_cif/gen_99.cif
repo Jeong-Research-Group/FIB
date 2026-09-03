@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiPt2NiAu2
+_chemical_formula_sum              "Ni2 Pt2 Au2"
+_cell_length_a       2.740927640421381
+_cell_length_b       4.466001009937596
+_cell_length_c       7.4292120933532715
+_cell_angle_alpha    90.08761333729207
+_cell_angle_beta     84.9844168782761
+_cell_angle_gamma    90.0920734499298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24419179558753967  0.18950283527374268  0.45022207498550415  1.0000
+  Pt  Pt1       1.0  0.9325690269470215  0.6889641880989075  0.6136377453804016  1.0000
+  Pt  Pt2       1.0  0.5462784767150879  0.6885939240455627  0.30137768387794495  1.0000
+  Ni  Ni2       1.0  0.8531062006950378  0.18882398307323456  0.15522736310958862  1.0000
+  Au  Au1       1.0  0.585319995880127  0.18925011157989502  0.7965734004974365  1.0000
+  Au  Au2       1.0  0.18145427107810974  0.6892109513282776  0.9729090332984924  1.0000

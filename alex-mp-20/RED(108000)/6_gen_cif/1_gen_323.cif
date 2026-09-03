@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiY2HgO
+_chemical_formula_sum              "Li1 Y2 Hg1 O1"
+_cell_length_a       4.224469170252787
+_cell_length_b       4.790655245816367
+_cell_length_c       4.790915365037027
+_cell_angle_alpha    89.99951959057307
+_cell_angle_beta     89.99952099261958
+_cell_angle_gamma    89.99966711457624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.12615732597659823  0.405046622633319  0.6042744753534818  1.0000
+  Y   Y1        1.0  0.6265517424468561  0.9047664447006455  0.604291807249889  1.0000
+  Y   Y2        1.0  0.6262726597330216  0.4048509728934573  0.1043587805003169  1.0000
+  Hg  Hg1       1.0  0.12625981215296841  0.9050082647418266  0.10366506008575714  1.0000
+  O   O1        1.0  0.6263512712172643  0.4049179770881086  0.6040379949388243  1.0000

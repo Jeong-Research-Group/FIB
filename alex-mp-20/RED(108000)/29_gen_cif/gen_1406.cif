@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgPbBiPbBiMg
+_chemical_formula_sum              "Mg2 Pb2 Bi2"
+_cell_length_a       4.756842744210356
+_cell_length_b       4.794792634702463
+_cell_length_c       7.963841915130615
+_cell_angle_alpha    107.41169080671156
+_cell_angle_beta     89.98655386276849
+_cell_angle_gamma    90.13799963607441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5965961813926697  0.4335329830646515  0.9065062999725342  1.0000
+  Pb  Pb1       1.0  0.09627489745616913  0.5998021960258484  0.23947690427303314  1.0000
+  Bi  Bi1       1.0  0.09697476029396057  0.9522203803062439  0.9428554773330688  1.0000
+  Pb  Pb2       1.0  0.09676474332809448  0.2720045745372772  0.5857381224632263  1.0000
+  Bi  Bi2       1.0  0.5965284705162048  0.7588256597518921  0.5580130219459534  1.0000
+  Mg  Mg2       1.0  0.5966728925704956  0.09964665025472641  0.23834367096424103  1.0000

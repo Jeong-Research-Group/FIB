@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeFe2SiGe
+_chemical_formula_sum              "Ce1 Fe2 Si1 Ge1"
+_cell_length_a       4.050228630157394
+_cell_length_b       4.049714959306501
+_cell_length_c       5.616460970837379
+_cell_angle_alpha    111.13448630667867
+_cell_angle_beta     111.13728099790343
+_cell_angle_gamma    90.00011469276114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.6170323006204329  0.03888819826680392  0.3367730438607948  1.0000
+  Fe  Fe1       1.0  0.37530976194010507  0.29728314146131335  0.8534388246236914  1.0000
+  Fe  Fe2       1.0  0.8753076841340475  0.7972735374799081  0.8533127200410439  1.0000
+  Si  Si1       1.0  0.9797812884161574  0.4018496383141762  0.06240156877974492  1.0000
+  Ge  Ge1       1.0  0.25104173682911896  0.6729482190840567  0.6048718154803153  1.0000

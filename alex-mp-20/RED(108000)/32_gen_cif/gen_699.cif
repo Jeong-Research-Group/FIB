@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NdSi2NdBrPtBrPt
+_chemical_formula_sum              "Nd2 Si2 Br2 Pt2"
+_cell_length_a       4.193709916274507
+_cell_length_b       4.19682462937288
+_cell_length_c       10.531301498413086
+_cell_angle_alpha    90.02948160096857
+_cell_angle_beta     89.96004589974352
+_cell_angle_gamma    90.01004288264544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.7030022144317627  0.33598536252975464  0.5260046720504761  1.0000
+  Si  Si1       1.0  0.20374490320682526  0.8358495235443115  0.6370760202407837  1.0000
+  Si  Si2       1.0  0.704116940498352  0.3357343077659607  0.8780805468559265  1.0000
+  Nd  Nd2       1.0  0.2056022584438324  0.8366696238517761  0.9885228276252747  1.0000
+  Br  Br1       1.0  0.7042701840400696  0.336608350276947  0.14382603764533997  1.0000
+  Pt  Pt1       1.0  0.20478737354278564  0.33603569865226746  0.7577751278877258  1.0000
+  Br  Br2       1.0  0.20422349870204926  0.8362157940864563  0.37102237343788147  1.0000
+  Pt  Pt2       1.0  0.7044578790664673  0.8359860777854919  0.7559627890586853  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4BiAs2C
+_chemical_formula_sum              "Sm4 Bi1 As2 C1"
+_cell_length_a       4.132457992616225
+_cell_length_b       7.147136739960808
+_cell_length_c       7.440382152333691
+_cell_angle_alpha    108.92343452360309
+_cell_angle_beta     89.99871009036683
+_cell_angle_gamma    90.00282898405628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.756044995071756  0.2058806700794968  0.12216267935718043  1.0000
+  Sm  Sm2       1.0  0.2561068885352146  0.21507260121126634  0.6871394684574131  1.0000
+  Sm  Sm3       1.0  0.2557741639015978  0.6826821002195698  0.12811023302642782  1.0000
+  Sm  Sm4       1.0  0.7559742682988354  0.6917426877093987  0.6932550803957207  1.0000
+  Bi  Bi1       1.0  0.25608358373514745  0.44891693116347037  0.407612483769897  1.0000
+  As  As1       1.0  0.7559414997665032  0.9487429502407546  0.40762460488536106  1.0000
+  As  As2       1.0  0.2560314686647674  0.9487496222431515  0.907635977556703  1.0000
+  C   C1        1.0  0.755707057359484  0.44892259648937505  0.9074562077502898  1.0000

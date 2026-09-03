@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc2Cu2Ag3Os
+_chemical_formula_sum              "Sc2 Cu2 Ag3 Os1"
+_cell_length_a       4.000889204098083
+_cell_length_b       4.000710118210188
+_cell_length_c       8.749960876003621
+_cell_angle_alpha    103.21702915135465
+_cell_angle_beta     103.21070732788955
+_cell_angle_gamma    89.9994649152639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.35498614348402674  0.05971512398067866  0.07074290273469641  1.0000
+  Sc  Sc2       1.0  0.6249671584178931  0.32951014841637816  0.6101773958543726  1.0000
+  Cu  Cu1       1.0  0.7405207474010139  0.9455585849704925  0.8419487567138267  1.0000
+  Cu  Cu2       1.0  0.24065822603989684  0.44518352349769147  0.8419614125323797  1.0000
+  Ag  Ag1       1.0  0.495769638530963  0.7002269102492916  0.35138726141898535  1.0000
+  Ag  Ag2       1.0  0.9958060621685545  0.20016200443779092  0.35144781695270255  1.0000
+  Ag  Ag3       1.0  0.8600267150824205  0.5647938256060936  0.08066843418792276  1.0000
+  Os  Os1       1.0  0.13469660384005205  0.8392461291097788  0.6299081350972393  1.0000

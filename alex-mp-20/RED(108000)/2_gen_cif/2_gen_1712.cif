@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Nb2CrW
+_chemical_formula_sum              "Nb2 Cr1 W1"
+_cell_length_a       3.187124509403747
+_cell_length_b       4.509305415705033
+_cell_length_c       4.5095565326578475
+_cell_angle_alpha    90.00000071325783
+_cell_angle_beta     90.01748919791768
+_cell_angle_gamma    90.01252373861551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.13372706688216118  0.3753166634604228  0.8675625129851172  1.0000
+  Nb  Nb2       1.0  0.13355171264638493  0.8752583558170353  0.36762413342087524  1.0000
+  Cr  Cr1       1.0  0.6333550940373148  0.3752538832604618  0.36769427677409366  1.0000
+  W   W1        1.0  0.6338535987724686  0.875492293896496  0.8675526687378977  1.0000

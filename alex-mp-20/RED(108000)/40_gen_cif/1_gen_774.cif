@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnNb2Ga3
+_chemical_formula_sum              "Mn1 Nb2 Ga3"
+_cell_length_a       3.819859318519619
+_cell_length_b       4.034249211862914
+_cell_length_c       6.358467937288149
+_cell_angle_alpha    108.49963086343337
+_cell_angle_beta     89.99888859757944
+_cell_angle_gamma    89.99987903070131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7323602823413289  0.8453065236173263  0.86749414180975  1.0000
+  Nb  Nb1       1.0  0.2323450375316  0.9989539671101363  0.17463315484790368  1.0000
+  Nb  Nb2       1.0  0.2323120474891332  0.6915572893048315  0.5601254460264552  1.0000
+  Ga  Ga1       1.0  0.7323318616901874  0.5036196633746349  0.1839579067637261  1.0000
+  Ga  Ga2       1.0  0.7323256507756021  0.18680150980129065  0.5508971988491332  1.0000
+  Ga  Ga3       1.0  0.23241468643448296  0.34526551361177193  0.867569318747533  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaGe2HRu
+_chemical_formula_sum              "La1 Ge2 H1 Ru1"
+_cell_length_a       5.340122349312451
+_cell_length_b       4.185258311756688
+_cell_length_c       4.185265457652338
+_cell_angle_alpha    89.97698586201932
+_cell_angle_beta     89.99282326405643
+_cell_angle_gamma    89.9928186012429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.04169999084654189  0.3744020750116929  0.3709861528429345  1.0000
+  Ge  Ge1       1.0  0.5257490776999091  0.8744047783883508  0.3712041269015713  1.0000
+  Ge  Ge2       1.0  0.5257485662364925  0.37458573537123424  0.8709702086352602  1.0000
+  H   H1        1.0  0.07855514136943219  0.8746729178188694  0.871340178179643  1.0000
+  Ru  Ru1       1.0  0.7626880424125362  0.8745672637421168  0.871199830651085  1.0000

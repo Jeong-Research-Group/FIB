@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca3PrSm2Hg2
+_chemical_formula_sum              "Ca3 Pr1 Sm2 Hg2"
+_cell_length_a       5.580064545071007
+_cell_length_b       5.908388341651269
+_cell_length_c       7.866490281265858
+_cell_angle_alpha    90.12981111354246
+_cell_angle_beta     89.99770937836475
+_cell_angle_gamma    89.963742735393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7045190767500709  0.735651990659098  0.7197058014496087  1.0000
+  Ca  Ca2       1.0  0.7039503141087602  0.27107098334102286  0.9751113052008639  1.0000
+  Ca  Ca3       1.0  0.20404644671147756  0.14623996424701108  0.7197464053720414  1.0000
+  Pr  Pr1       1.0  0.7040493500918781  0.2721440214676267  0.44533519564269164  1.0000
+  Sm  Sm1       1.0  0.7042764506585101  0.743947467112328  0.22405259948781844  1.0000
+  Sm  Sm2       1.0  0.20406564344122624  0.11795479057791972  0.22361566008467307  1.0000
+  Hg  Hg1       1.0  0.20424392423148063  0.6060865739599413  0.45628142278530515  1.0000
+  Hg  Hg2       1.0  0.20427735286748316  0.6075674541296469  0.9899920844725617  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ga3CuNi
+_chemical_formula_sum              "Ga3 Cu1 Ni1"
+_cell_length_a       2.8256512156752716
+_cell_length_b       2.827640729340176
+_cell_length_c       9.0267248529081
+_cell_angle_alpha    90.01326973422893
+_cell_angle_beta     90.0142513717341
+_cell_angle_gamma    90.03481589431355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6138486114217109  0.2519003858168321  0.04485634377795661  1.0000
+  Ga  Ga2       1.0  0.6134090213858551  0.2512316407864086  0.4244658600378853  1.0000
+  Ga  Ga3       1.0  0.6135610274820298  0.2511635748665244  0.7657151292824748  1.0000
+  Cu  Cu1       1.0  0.1137590849688196  0.751575686768412  0.2321157416785445  1.0000
+  Ni  Ni1       1.0  0.11342185515108417  0.7511985362015924  0.5955722338793661  1.0000

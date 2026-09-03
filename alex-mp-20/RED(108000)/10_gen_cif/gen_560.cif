@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb4InPb2InHg
+_chemical_formula_sum              "Pb6 In2 Hg1"
+_cell_length_a       4.813777739637627
+_cell_length_b       7.894550527106095
+_cell_length_c       8.01473617553711
+_cell_angle_alpha    105.25265499533569
+_cell_angle_beta     89.61021048859972
+_cell_angle_gamma    107.26675328602266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.05897666513919824  0.7498941421508788  0.31058359146118164  1.0000
+  Pb  Pb2       1.0  0.28110241889953613  0.1964801549911499  0.6392490863800049  1.0000
+  Pb  Pb3       1.0  0.5020351409912109  0.6367186903953552  0.9738556742668152  1.0000
+  Pb  Pb4       1.0  0.17103917896747586  0.9753454327583312  0.9834812879562378  1.0000
+  In  In1       1.0  0.3897676467895508  0.4125591814517975  0.3129504919052124  1.0000
+  Pb  Pb5       1.0  0.611745297908783  0.8581390380859375  0.644492506980896  1.0000
+  Pb  Pb6       1.0  0.837647020816803  0.3079668879508972  0.979823887348175  1.0000
+  In  In2       1.0  0.9448292851448059  0.5237149596214294  0.6386629939079285  1.0000
+  Hg  Hg1       1.0  0.7285306453704834  0.08998076617717742  0.3123350739479065  1.0000

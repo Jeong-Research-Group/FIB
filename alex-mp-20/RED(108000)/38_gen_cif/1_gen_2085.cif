@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbMg2BiN
+_chemical_formula_sum              "Tb1 Mg2 Bi1 N1"
+_cell_length_a       4.499101434698504
+_cell_length_b       4.909868932184926
+_cell_length_c       4.498617764879915
+_cell_angle_alpha    90.00548308424244
+_cell_angle_beta     90.00117182348573
+_cell_angle_gamma    90.00410535931938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.16063889958565067  0.6074432546086532  0.769958511043633  1.0000
+  Mg  Mg1       1.0  0.1608942137399329  0.10728633086254291  0.26998346099338955  1.0000
+  Mg  Mg2       1.0  0.6605833177924824  0.10742384034434033  0.7695325259516856  1.0000
+  Bi  Bi1       1.0  0.6606799436119962  0.6070945153420435  0.2698622331086528  1.0000
+  N   N1        1.0  0.16058243220262172  0.10720234950035787  0.7698883426300879  1.0000

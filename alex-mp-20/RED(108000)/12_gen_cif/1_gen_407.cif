@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta2PdRh5
+_chemical_formula_sum              "Ta2 Pd1 Rh5"
+_cell_length_a       3.941772826877172
+_cell_length_b       3.9418307088359157
+_cell_length_c       7.7371377829227095
+_cell_angle_alpha    90.00024315064503
+_cell_angle_beta     90.00005578130744
+_cell_angle_gamma    90.00012752687913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5362980844902961  0.1038974832062769  0.7612215447522788  1.0000
+  Ta  Ta2       1.0  0.5363455716749272  0.10400444453007668  0.261294054156465  1.0000
+  Pd  Pd1       1.0  0.03605338260012877  0.6038349076232079  0.7613903476231437  1.0000
+  Rh  Rh1       1.0  0.03598348475480112  0.10382143217947823  0.5116078677272976  1.0000
+  Rh  Rh2       1.0  0.5361816217952776  0.6038077721421578  0.011226502893707314  1.0000
+  Rh  Rh3       1.0  0.036022155191137994  0.10393627294192224  0.011117339694462509  1.0000
+  Rh  Rh4       1.0  0.03595895819265772  0.6038377499011773  0.26146301246820736  1.0000
+  Rh  Rh5       1.0  0.5361340779123311  0.6037725223871099  0.5115611467027935  1.0000

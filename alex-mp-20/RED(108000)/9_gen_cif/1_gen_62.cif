@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2ScPt3
+_chemical_formula_sum              "Mg2 Sc1 Pt3"
+_cell_length_a       3.1771784003480272
+_cell_length_b       3.1785444517410846
+_cell_length_c       9.937078091491415
+_cell_angle_alpha    90.00032602344213
+_cell_angle_beta     89.99999817089089
+_cell_angle_gamma    90.00086997188957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.4580136707236641  0.12825887564302854  0.026072556792715012  1.0000
+  Mg  Mg2       1.0  0.4579013660746745  0.12824075821268782  0.70457538729629  1.0000
+  Sc  Sc1       1.0  0.4580652857529166  0.12813134306229151  0.36535813394785  1.0000
+  Pt  Pt1       1.0  0.9581361093452906  0.628349720916451  0.5360345540953793  1.0000
+  Pt  Pt2       1.0  0.9579467682328463  0.6281601216278587  0.1945202779477307  1.0000
+  Pt  Pt3       1.0  0.9580415268546225  0.6282572144065324  0.8654118431591995  1.0000

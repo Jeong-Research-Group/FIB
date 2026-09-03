@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaNd2InIr2
+_chemical_formula_sum              "Ca1 Nd2 In1 Ir2"
+_cell_length_a       3.4737635853456874
+_cell_length_b       3.4738486092262035
+_cell_length_c       12.273118851100483
+_cell_angle_alpha    89.99715865121483
+_cell_angle_beta     90.00216132345204
+_cell_angle_gamma    89.99563437282899
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7489552983694948  0.04913692605467975  0.2849861083115972  1.0000
+  Nd  Nd1       1.0  0.7490091785373235  0.049086003097309504  0.5755407989984728  1.0000
+  Nd  Nd2       1.0  0.7490289858131528  0.04926779104753041  0.9944869303115813  1.0000
+  In  In1       1.0  0.248993913964496  0.5491403451015746  0.785191341460691  1.0000
+  Ir  Ir1       1.0  0.24870733530264091  0.5491522192241185  0.4436150626519587  1.0000
+  Ir  Ir2       1.0  0.24891261358623637  0.5491593415726069  0.12632088011406378  1.0000

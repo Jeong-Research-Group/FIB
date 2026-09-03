@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4SiGe2S
+_chemical_formula_sum              "Sm4 Si1 Ge2 S1"
+_cell_length_a       4.187388485178107
+_cell_length_b       7.268924373453738
+_cell_length_c       7.252257697320363
+_cell_angle_alpha    109.28292884477209
+_cell_angle_beta     89.99968468303175
+_cell_angle_gamma    90.00028401734131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5000145317305109  0.2330854180423628  0.9194197490283087  1.0000
+  Sm  Sm2       1.0  3.605327558808824e-05  0.7471362096262107  0.9222198905253031  1.0000
+  Sm  Sm3       1.0  0.00011191926073303225  0.23321964445650678  0.42558686695409875  1.0000
+  Sm  Sm4       1.0  0.4999581074124366  0.7473555167062043  0.4280963610961834  1.0000
+  Si  Si1       1.0  0.5000295146674889  0.9902296240083316  0.17383234695527724  1.0000
+  Ge  Ge1       1.0  0.9999039372827597  0.48999638414752794  0.17394968250752046  1.0000
+  Ge  Ge2       1.0  0.5001524989367495  0.4903687549430281  0.6737663163243115  1.0000
+  S   S1        1.0  0.9999955249654179  0.9901925028841195  0.6738520734336889  1.0000

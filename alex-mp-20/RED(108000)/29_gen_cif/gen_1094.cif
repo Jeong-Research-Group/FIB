@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeTi2BiGeN
+_chemical_formula_sum              "Ge2 Ti2 Bi1 N1"
+_cell_length_a       4.108786512784645
+_cell_length_b       4.100923626432493
+_cell_length_c       6.031961917877197
+_cell_angle_alpha    90.78305634895592
+_cell_angle_beta     90.75990887627007
+_cell_angle_gamma    90.42938918866204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.622311532497406  0.15086084604263306  0.37205544114112854  1.0000
+  Ti  Ti1       1.0  0.6212285161018372  0.649802029132843  0.6650199890136719  1.0000
+  Ti  Ti2       1.0  0.12214083224534988  0.14991459250450134  0.6646855473518372  1.0000
+  Bi  Bi1       1.0  0.12252756953239441  0.6504473090171814  0.1649651825428009  1.0000
+  Ge  Ge2       1.0  0.6209072470664978  0.14944744110107422  0.9558894038200378  1.0000
+  N   N1        1.0  0.1224147230386734  0.6505215764045715  0.6650249361991882  1.0000

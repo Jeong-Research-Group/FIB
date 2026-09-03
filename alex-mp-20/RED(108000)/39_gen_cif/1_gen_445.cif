@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2BeNb
+_chemical_formula_sum              "Ta2 Be1 Nb1"
+_cell_length_a       3.54303648978187
+_cell_length_b       4.289311637355993
+_cell_length_c       4.287630451573377
+_cell_angle_alpha    89.99976155756268
+_cell_angle_beta     90.00090433088187
+_cell_angle_gamma    90.00747041477804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.3225582634202294  0.2326291124906481  0.5130878113661196  1.0000
+  Ta  Ta2       1.0  0.3234745324626734  0.7323466940518903  0.01301725034703204  1.0000
+  Be  Be1       1.0  0.8227020153559362  0.7325107169644316  0.5128425982392275  1.0000
+  Nb  Nb1       1.0  0.8229550006128276  0.23248089591175056  0.013060909751732493  1.0000

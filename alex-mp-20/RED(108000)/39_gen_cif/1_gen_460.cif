@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3PrHgSe3
+_chemical_formula_sum              "Li3 Pr1 Hg1 Se3"
+_cell_length_a       5.798387526900689
+_cell_length_b       5.797817128184081
+_cell_length_c       5.79877920617813
+_cell_angle_alpha    89.98993906755382
+_cell_angle_beta     89.9833238798445
+_cell_angle_gamma    89.99024053497497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6231465562464701  0.881760616610323  0.3878374734340675  1.0000
+  Li  Li2       1.0  0.1212367574910666  0.882299372422092  0.8878654817221739  1.0000
+  Li  Li3       1.0  0.1209989614195251  0.3804299624013008  0.3883558233199799  1.0000
+  Pr  Pr1       1.0  0.6207798671371406  0.38202233504348787  0.8881540632040918  1.0000
+  Hg  Hg1       1.0  0.12119280634438426  0.8814717359633049  0.3880019669424749  1.0000
+  Se  Se1       1.0  0.6213091409485634  0.3812227582654395  0.3881982092520895  1.0000
+  Se  Se2       1.0  0.12088759609031804  0.3816350946420985  0.8877841634680637  1.0000
+  Se  Se3       1.0  0.6215693504031786  0.8814595619913366  0.888003063797341  1.0000

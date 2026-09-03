@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2CoGe3Au2
+_chemical_formula_sum              "Mg2 Co1 Ge3 Au2"
+_cell_length_a       4.161609776799046
+_cell_length_b       5.535070560975658
+_cell_length_c       7.283593958834923
+_cell_angle_alpha    76.93443162077837
+_cell_angle_beta     73.37443356995463
+_cell_angle_gamma    67.89217693399955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8165696615404183  0.7568768196116693  0.3948236989962072  1.0000
+  Mg  Mg2       1.0  0.18264533235228617  0.34297204078261107  0.07679325773300148  1.0000
+  Co  Co1       1.0  0.7876976728040762  0.4315554265958415  0.7783402639045431  1.0000
+  Ge  Ge1       1.0  0.90725336573456  0.018056732322977487  0.9527254215364815  1.0000
+  Ge  Ge2       1.0  0.23875938073531316  0.6136097027084993  0.6940878283344086  1.0000
+  Ge  Ge3       1.0  0.05219390594881217  0.12273316703864144  0.5570424639713517  1.0000
+  Au  Au1       1.0  0.5527459694838325  0.31310017019668285  0.36571498278731857  1.0000
+  Au  Au2       1.0  0.47775994049445386  0.7504397546579236  0.07955692700153184  1.0000

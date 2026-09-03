@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtCrPtIr3
+_chemical_formula_sum              "Pt2 Cr1 Ir3"
+_cell_length_a       3.840629877467995
+_cell_length_b       3.8835656015015005
+_cell_length_c       6.1494975090026855
+_cell_angle_alpha    108.34052843295153
+_cell_angle_beta     89.90263815463832
+_cell_angle_gamma    89.92324483997551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.4603364169597626  0.8590631484985352  0.9506638050079345  1.0000
+  Cr  Cr1       1.0  0.45983996987342834  0.19807668030261993  0.6283793449401855  1.0000
+  Pt  Pt2       1.0  0.45951905846595764  0.5365511178970338  0.3061062693595886  1.0000
+  Ir  Ir1       1.0  0.9601062536239624  0.36030510067939764  0.9535488486289977  1.0000
+  Ir  Ir2       1.0  0.9600833654403687  0.03527802973985673  0.30350983142852783  1.0000
+  Ir  Ir3       1.0  0.959953784942627  0.6978145241737366  0.6281511783599854  1.0000

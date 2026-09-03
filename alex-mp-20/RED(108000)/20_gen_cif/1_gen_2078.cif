@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Si2RuPt
+_chemical_formula_sum              "Sm2 Si2 Ru1 Pt1"
+_cell_length_a       4.1091596627347595
+_cell_length_b       5.213119327566453
+_cell_length_c       6.672170898317002
+_cell_angle_alpha    107.38902903576594
+_cell_angle_beta     89.9918589667549
+_cell_angle_gamma    90.01366582475077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.9373269322664692  0.797735065782787  0.3512574009280643  1.0000
+  Sm  Sm2       1.0  0.4373223306771295  0.30755826825198096  0.8744928231892983  1.0000
+  Si  Si1       1.0  0.9372094273107566  0.8316887698431724  0.8564940428206345  1.0000
+  Si  Si2       1.0  0.4371722688167628  0.3116550004452381  0.349240200549386  1.0000
+  Ru  Ru1       1.0  0.9371613839357359  0.2081994750775762  0.16328183560010945  1.0000
+  Pt  Pt1       1.0  0.4371947891147234  0.7089295819335124  0.655777885616941  1.0000

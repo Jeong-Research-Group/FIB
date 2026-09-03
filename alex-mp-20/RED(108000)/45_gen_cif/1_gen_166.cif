@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiSc2Rh2
+_chemical_formula_sum              "Li1 Sc2 Rh2"
+_cell_length_a       3.2933638365429747
+_cell_length_b       3.2932688073702496
+_cell_length_c       7.965002660706847
+_cell_angle_alpha    101.9158380482882
+_cell_angle_beta     101.91816595459268
+_cell_angle_gamma    90.00470668998167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8308577161752492  0.32286352841473914  0.7174401998680938  1.0000
+  Sc  Sc1       1.0  0.2191853125477154  0.7114500613081101  0.49502095966108445  1.0000
+  Sc  Sc2       1.0  0.010521839496692983  0.5027632301001511  0.07692282329538934  1.0000
+  Rh  Rh1       1.0  0.41517715135227545  0.9072191149408757  0.8858517058317191  1.0000
+  Rh  Rh2       1.0  0.6246310760367113  0.11697606766795668  0.30598725257079074  1.0000

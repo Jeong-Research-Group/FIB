@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrLa2PbO
+_chemical_formula_sum              "Sr1 La2 Pb1 O1"
+_cell_length_a       5.084671893482953
+_cell_length_b       5.084172291336691
+_cell_length_c       5.2248761383403295
+_cell_angle_alpha    90.00051366737038
+_cell_angle_beta     89.99912559851415
+_cell_angle_gamma    89.99981071873748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.3045440227200842  0.1965635711102716  0.31960254402360594  1.0000
+  La  La1       1.0  0.3046056611474926  0.6964933123223027  0.8200282157632054  1.0000
+  La  La2       1.0  0.8044067176969906  0.1962813891282401  0.8201288794568875  1.0000
+  Pb  Pb1       1.0  0.8044108471767234  0.696467982303905  0.31959136529351334  1.0000
+  O   O1        1.0  0.30387916392700276  0.1966113286817635  0.8204104213775426  1.0000

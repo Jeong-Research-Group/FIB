@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2AlHgTe4
+_chemical_formula_sum              "Li2 Al1 Hg1 Te4"
+_cell_length_a       6.315114334369395
+_cell_length_b       6.3161686367604
+_cell_length_c       8.065433520221996
+_cell_angle_alpha    113.07378856374021
+_cell_angle_beta     113.03243008801036
+_cell_angle_gamma    89.94217874291728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6582064876478927  0.9735823763239275  0.8375707137772073  1.0000
+  Li  Li2       1.0  0.1571621800955309  0.47366152891471364  0.8382545126454646  1.0000
+  Al  Al1       1.0  0.9058967918625442  0.7228208066672511  0.33569266289180316  1.0000
+  Hg  Hg1       1.0  0.4077398978224991  0.2256576109230396  0.33923832139123145  1.0000
+  Te  Te1       1.0  0.260245019840032  0.61022396785519  0.5776558937921927  1.0000
+  Te  Te2       1.0  0.5519686100628032  0.3687554087464958  0.09748961794742887  1.0000
+  Te  Te3       1.0  0.02328589297093927  0.8394995015907873  0.09834249749969173  1.0000
+  Te  Te4       1.0  0.7930342382228011  0.07826081147627796  0.5766203787819003  1.0000

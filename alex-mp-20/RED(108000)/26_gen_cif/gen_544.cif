@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrGaNd2C
+_chemical_formula_sum              "Pr1 Ga1 Nd2 C1"
+_cell_length_a       5.05480494398223
+_cell_length_b       5.0529300821472525
+_cell_length_c       5.102248191833496
+_cell_angle_alpha    90.15228157274136
+_cell_angle_beta     90.14143523242453
+_cell_angle_gamma    90.04206963710114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7348681688308716  0.28773924708366394  0.5467457175254822  1.0000
+  Ga  Ga1       1.0  0.23433680832386017  0.7877296209335327  0.5467020869255066  1.0000
+  Nd  Nd1       1.0  0.2347276359796524  0.2877673804759979  0.04663369804620743  1.0000
+  Nd  Nd2       1.0  0.7344762682914734  0.7878227829933167  0.04691362380981445  1.0000
+  C   C1        1.0  0.7343540787696838  0.2880399823188782  0.046741634607315063  1.0000

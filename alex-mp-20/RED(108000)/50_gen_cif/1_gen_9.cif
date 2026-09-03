@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce3Cd2Ga
+_chemical_formula_sum              "Ce3 Cd2 Ga1"
+_cell_length_a       3.967660500932732
+_cell_length_b       3.967446759470224
+_cell_length_c       10.145550415145047
+_cell_angle_alpha    89.99845520250655
+_cell_angle_beta     90.00044679248636
+_cell_angle_gamma    89.99997464927952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7026482439683047  0.6618430094652761  0.544854930537473  1.0000
+  Ce  Ce2       1.0  0.7026946390608767  0.6619549313312788  0.1787471231262171  1.0000
+  Ce  Ce3       1.0  0.7026598245507256  0.6618156063874203  0.9056339432157468  1.0000
+  Cd  Cd1       1.0  0.20268765572757513  0.16180789655758984  0.36691454315494165  1.0000
+  Cd  Cd2       1.0  0.20277771445230136  0.16180183383015198  0.720567179246268  1.0000
+  Ga  Ga1       1.0  0.2027159130382383  0.16191980317556476  0.04246694283688198  1.0000

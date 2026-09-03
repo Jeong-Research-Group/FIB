@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsRhInPb2
+_chemical_formula_sum              "Cs1 Rh1 In1 Pb2"
+_cell_length_a       5.315487399579498
+_cell_length_b       5.437900506850132
+_cell_length_c       5.443709373474121
+_cell_angle_alpha    90.02306122328041
+_cell_angle_beta     89.99572680623743
+_cell_angle_gamma    89.94640600926643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8963697552680969  0.035109661519527435  0.1776971071958542  1.0000
+  Rh  Rh1       1.0  0.3949335217475891  0.5347164869308472  0.6775965094566345  1.0000
+  In  In1       1.0  0.8943119645118713  0.5347018837928772  0.6776450276374817  1.0000
+  Pb  Pb1       1.0  0.39480865001678467  0.5346153974533081  0.17741625010967255  1.0000
+  Pb  Pb2       1.0  0.3937991261482239  0.0342995822429657  0.6779468655586243  1.0000

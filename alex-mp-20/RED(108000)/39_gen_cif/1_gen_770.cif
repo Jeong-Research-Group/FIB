@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2LiCu2Ni2Sn
+_chemical_formula_sum              "Sr2 Li1 Cu2 Ni2 Sn1"
+_cell_length_a       4.282976264146077
+_cell_length_b       4.235466526324152
+_cell_length_c       9.312248209039469
+_cell_angle_alpha    90.02458956740236
+_cell_angle_beta     103.29595558015308
+_cell_angle_gamma    89.99656540751802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4069385570936011  0.1596156803524647  0.7506999424080125  1.0000
+  Sr  Sr2       1.0  0.20517895713437567  0.6602327551052474  0.3484330050267572  1.0000
+  Li  Li1       1.0  0.5559096689911555  0.6597982770648229  0.04884510336332413  1.0000
+  Cu  Cu1       1.0  0.7704347827571774  0.16022749283340684  0.4788374284180336  1.0000
+  Cu  Cu2       1.0  0.8416430960437005  0.6600634834625828  0.6198845547826645  1.0000
+  Ni  Ni1       1.0  0.9749079640722303  0.6597578262990281  0.8867618220904661  1.0000
+  Ni  Ni2       1.0  0.6362959838597556  0.15992776473899256  0.21141599410676573  1.0000
+  Sn  Sn1       1.0  0.05591415584054985  0.15973756906690212  0.050036431297496936  1.0000

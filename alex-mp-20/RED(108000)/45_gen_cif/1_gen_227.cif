@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeH2PbSe4
+_chemical_formula_sum              "Te1 H2 Pb1 Se4"
+_cell_length_a       4.216571950628598
+_cell_length_b       6.95999329840338
+_cell_length_c       9.403823400617632
+_cell_angle_alpha    90.16178730841143
+_cell_angle_beta     76.6890236225255
+_cell_angle_gamma    90.65321976694594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.5089386165743999  0.9595511052391581  0.3950784209406207  1.0000
+  H   H1        1.0  0.18265972335074362  0.5994399998400614  0.10348929530025103  1.0000
+  H   H2        1.0  0.38447586070098005  0.25775827016182207  0.7285778379620307  1.0000
+  Pb  Pb1       1.0  0.7308670355271563  0.019456398106924955  0.9561229342798803  1.0000
+  Se  Se1       1.0  0.6076321472006458  0.240490647087517  0.22686016618637725  1.0000
+  Se  Se2       1.0  0.13300236105219596  0.8010327005176988  0.15948289365783366  1.0000
+  Se  Se3       1.0  0.2763943502938153  0.303561569848261  0.8880735474191623  1.0000
+  Se  Se4       1.0  0.9182703693790492  0.05455284589875848  0.5627079574273861  1.0000

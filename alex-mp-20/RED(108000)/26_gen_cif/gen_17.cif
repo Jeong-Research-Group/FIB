@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnBZrBBe2
+_chemical_formula_sum              "Mn1 B2 Zr1 Be2"
+_cell_length_a       3.440285035811455
+_cell_length_b       3.4376919056877266
+_cell_length_c       5.697534561157227
+_cell_angle_alpha    90.04728790321091
+_cell_angle_beta     89.98857559877099
+_cell_angle_gamma    119.9962882839931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.05097540467977527  0.47978746891021734  0.4506991505622864  1.0000
+  B   B1        1.0  0.38411083817481995  0.1460881233215332  0.2583141028881073  1.0000
+  Zr  Zr1       1.0  0.050379693508148186  0.47955045104026794  0.9523547887802124  1.0000
+  B   B2        1.0  0.71755450963974  0.8128071427345276  0.6467089653015137  1.0000
+  Be  Be1       1.0  0.3843493163585663  0.1459982842206955  0.635878324508667  1.0000
+  Be  Be2       1.0  0.7170759439468384  0.8136469125747681  0.2687927484512329  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2CdGa3
+_chemical_formula_sum              "Ca2 Cd1 Ga3"
+_cell_length_a       3.7440704570452166
+_cell_length_b       4.634427210006666
+_cell_length_c       8.048708816583432
+_cell_angle_alpha    89.99128975053536
+_cell_angle_beta     90.00072021230605
+_cell_angle_gamma    90.0004861083778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.1282684361809482  0.1389385236456561  0.10045493462027084  1.0000
+  Ca  Ca2       1.0  0.12877759683064055  0.6400669089080496  0.5849116577773241  1.0000
+  Cd  Cd1       1.0  0.6283996140045097  0.13987753477784343  0.760560263136033  1.0000
+  Ga  Ga1       1.0  0.6291119815021267  0.6394572086580056  0.9351635353734155  1.0000
+  Ga  Ga2       1.0  0.6281998001438066  0.6392839828174836  0.25854334530542983  1.0000
+  Ga  Ga3       1.0  0.6284422891956324  0.1397898843094624  0.41978415931158286  1.0000

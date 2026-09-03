@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sn2PtCl
+_chemical_formula_sum              "Sn2 Pt1 Cl1"
+_cell_length_a       4.000044793790394
+_cell_length_b       4.004158231772369
+_cell_length_c       7.598922632625682
+_cell_angle_alpha    74.81702594390725
+_cell_angle_beta     74.76511696031123
+_cell_angle_gamma    60.03683206470237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.45445600919428636  0.7840321742038998  0.9795663164448819  1.0000
+  Sn  Sn2       1.0  0.653470585766332  0.983115816442706  0.3833076276352267  1.0000
+  Pt  Pt1       1.0  0.05419671234163199  0.3836010611080136  0.18100327929573495  1.0000
+  Cl  Cl1       1.0  0.8810079838594301  0.20701562544753566  0.7041118218981014  1.0000

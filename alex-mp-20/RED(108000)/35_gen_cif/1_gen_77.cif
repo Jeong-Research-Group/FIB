@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiCaSi2Pd
+_chemical_formula_sum              "Li1 Ca1 Si2 Pd1"
+_cell_length_a       3.917455156267459
+_cell_length_b       4.200204577163135
+_cell_length_c       6.087807550075012
+_cell_angle_alpha    110.15997622462807
+_cell_angle_beta     108.71832979762794
+_cell_angle_gamma    89.99993188760243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4455417529102487  0.13902926504680613  0.42593715093997153  1.0000
+  Ca  Ca1       1.0  0.705695892293806  0.9002108090283362  0.9480052449941305  1.0000
+  Si  Si1       1.0  0.31235410310644685  0.5080993151965109  0.16383114334972806  1.0000
+  Si  Si2       1.0  0.9495950593802579  0.6461638880033928  0.43883057189433294  1.0000
+  Pd  Pd1       1.0  0.08591818092456399  0.2808904169501542  0.7084692347387397  1.0000

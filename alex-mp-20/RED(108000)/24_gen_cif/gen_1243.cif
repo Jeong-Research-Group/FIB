@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb2InPb2Sr
+_chemical_formula_sum              "Pb4 In1 Sr1"
+_cell_length_a       4.979018484905117
+_cell_length_b       5.040992456960826
+_cell_length_c       7.973133087158203
+_cell_angle_alpha    108.42903898702673
+_cell_angle_beta     89.98100774738472
+_cell_angle_gamma    89.95807880293574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.7383347153663635  0.9813829064369203  0.9371353387832642  1.0000
+  Pb  Pb2       1.0  0.2383815199136734  0.8212707042694092  0.6177205443382263  1.0000
+  In  In1       1.0  0.23809941112995148  0.48021033406257624  0.936823308467865  1.0000
+  Pb  Pb3       1.0  0.23836104571819305  0.14634108543395996  0.2685736417770386  1.0000
+  Pb  Pb4       1.0  0.738348126411438  0.3220648765563965  0.6198042035102844  1.0000
+  Sr  Sr1       1.0  0.7380889654159546  0.6488221287727356  0.2736360728740692  1.0000

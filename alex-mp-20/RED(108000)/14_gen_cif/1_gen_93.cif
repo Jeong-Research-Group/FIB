@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hf2Si4Rh2
+_chemical_formula_sum              "Hf2 Si4 Rh2"
+_cell_length_a       3.9870328611042156
+_cell_length_b       3.768367242848784
+_cell_length_c       8.638761134436521
+_cell_angle_alpha    102.6031809086176
+_cell_angle_beta     89.98245434733516
+_cell_angle_gamma    90.00006503931658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.1875247490925109  0.3717650509903755  0.10834833934056189  1.0000
+  Hf  Hf2       1.0  0.6883671309729572  0.568895310944399  0.5023719072415692  1.0000
+  Si  Si1       1.0  0.6877804037393452  0.9362109576855477  0.2379079379336973  1.0000
+  Si  Si2       1.0  0.18790428159773084  0.004441117213967979  0.3731448635377003  1.0000
+  Si  Si3       1.0  0.6877224982843484  0.8010508318410059  0.9666166229733375  1.0000
+  Si  Si4       1.0  0.1883014179493077  0.13961273544702277  0.6440723261288732  1.0000
+  Rh  Rh1       1.0  0.6881166165741096  0.21667615466633966  0.7980246044154414  1.0000
+  Rh  Rh2       1.0  0.18797366612973515  0.7236648261750703  0.8120606905556828  1.0000

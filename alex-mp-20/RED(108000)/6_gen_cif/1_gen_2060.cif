@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Rh2Pb2
+_chemical_formula_sum              "Sr2 Rh2 Pb2"
+_cell_length_a       4.737295965128624
+_cell_length_b       4.736409554597188
+_cell_length_c       7.520411101323847
+_cell_angle_alpha    90.0518033933252
+_cell_angle_beta     89.99139133743851
+_cell_angle_gamma    90.01407122198248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.28446162534839836  0.944189049053064  0.11474266294698118  1.0000
+  Sr  Sr2       1.0  0.7847294046451408  0.4448509701901291  0.7175704427775591  1.0000
+  Rh  Rh1       1.0  0.2841343015909532  0.4436297067906462  0.4164320862606163  1.0000
+  Rh  Rh2       1.0  0.7841496667553338  0.9453575645785132  0.4168164950538325  1.0000
+  Pb  Pb1       1.0  0.2840851064768162  0.9440757798347882  0.6139085821928332  1.0000
+  Pb  Pb2       1.0  0.7842168548231936  0.4448497483854544  0.21978706569001316  1.0000

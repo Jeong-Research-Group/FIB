@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2Ag2Au2
+_chemical_formula_sum              "K2 Ag2 Au2"
+_cell_length_a       4.785522538401457
+_cell_length_b       6.490064344844002
+_cell_length_c       7.492397384165797
+_cell_angle_alpha    55.5202783956964
+_cell_angle_beta     71.37349625665328
+_cell_angle_gamma    68.33222539578486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.20535090932504746  0.3781379525601397  0.5456544368803474  1.0000
+  K   K2        1.0  0.9870598846737022  0.19910088379583152  0.16052269172191874  1.0000
+  Ag  Ag1       1.0  0.8821862509802233  0.8290686795745712  0.7404642073947016  1.0000
+  Ag  Ag2       1.0  0.3103441162842748  0.7476359753129146  0.9659070196516397  1.0000
+  Au  Au1       1.0  0.6958027828606272  0.7800691071205981  0.16219407541969721  1.0000
+  Au  Au2       1.0  0.4969557023007579  0.796342413703581  0.5442820832444067  1.0000

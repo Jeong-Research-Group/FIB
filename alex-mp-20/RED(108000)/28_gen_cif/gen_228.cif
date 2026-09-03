@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mn2CoMnHf
+_chemical_formula_sum              "Mn3 Co1 Hf1"
+_cell_length_a       3.667905082308403
+_cell_length_b       3.6912082650197475
+_cell_length_c       4.994012832641602
+_cell_angle_alpha    90.07307186437167
+_cell_angle_beta     89.97109031214737
+_cell_angle_gamma    90.038435979991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.06415081769227982  0.9703724980354309  0.7018092274665833  1.0000
+  Mn  Mn2       1.0  0.5642863512039185  0.47071710228919983  0.7022204995155336  1.0000
+  Co  Co1       1.0  0.5648372173309326  0.9701418280601501  0.4121849238872528  1.0000
+  Mn  Mn3       1.0  0.5641570091247559  0.9707233905792236  0.9864725470542908  1.0000
+  Hf  Hf1       1.0  0.06463055312633514  0.4710448682308197  0.20087416470050812  1.0000

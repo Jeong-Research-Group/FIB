@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2PZnAsPSe2
+_chemical_formula_sum              "Zn3 P2 As1 Se2"
+_cell_length_a       4.1710687422729515
+_cell_length_b       5.720874725712445
+_cell_length_c       7.8627471923828125
+_cell_angle_alpha    88.89160618011401
+_cell_angle_beta     89.7021994233458
+_cell_angle_gamma    89.47211089009983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.18632730841636658  0.40947434306144714  0.11732165515422821  1.0000
+  Zn  Zn2       1.0  0.18753235042095184  0.42153429985046387  0.6256164908409119  1.0000
+  P   P1        1.0  0.6880454421043396  0.20816437900066373  0.6251671314239502  1.0000
+  Zn  Zn3       1.0  0.6872032284736633  0.9478172063827514  0.8705154657363892  1.0000
+  As  As1       1.0  0.6866999268531799  0.9781051278114318  0.37589001655578613  1.0000
+  P   P2        1.0  0.6866498589515686  0.1962718516588211  0.11822672188282013  1.0000
+  Se  Se1       1.0  0.18505126237869265  0.6887359619140624  0.36581867933273315  1.0000
+  Se  Se2       1.0  0.18746232986450195  0.6914409995079039  0.8695400357246399  1.0000

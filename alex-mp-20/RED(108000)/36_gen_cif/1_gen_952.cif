@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgAl2Pd3
+_chemical_formula_sum              "Mg1 Al2 Pd3"
+_cell_length_a       3.0656132096694604
+_cell_length_b       3.0656150729045315
+_cell_length_c       9.68539267619557
+_cell_angle_alpha    90.00008136371551
+_cell_angle_beta     90.00043244027638
+_cell_angle_gamma    90.00106733070228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6058178930336421  0.4779559042138396  0.8868865830502011  1.0000
+  Al  Al1       1.0  0.6056605785147918  0.47785333554653087  0.22315581065481752  1.0000
+  Al  Al2       1.0  0.6060924022707952  0.4778533950954006  0.5507738409082042  1.0000
+  Pd  Pd1       1.0  0.10617999853868146  0.9778834858200647  0.6998417856191061  1.0000
+  Pd  Pd2       1.0  0.1058683328143634  0.9777904280844121  0.38695154958233063  1.0000
+  Pd  Pd3       1.0  0.10561915351157333  0.9779276896099551  0.07402330709409025  1.0000

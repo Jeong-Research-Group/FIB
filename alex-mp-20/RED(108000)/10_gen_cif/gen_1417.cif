@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrSiPrSiFe2
+_chemical_formula_sum              "Pr2 Si2 Fe2"
+_cell_length_a       4.067286486064699
+_cell_length_b       4.071867480378853
+_cell_length_c       7.01006555557251
+_cell_angle_alpha    89.99518039094656
+_cell_angle_beta     90.08318054467713
+_cell_angle_gamma    90.00535054297984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7418017387390137  0.39416441321372986  0.8889652490615845  1.0000
+  Si  Si1       1.0  0.24146395921707153  0.8945298790931703  0.7402408123016357  1.0000
+  Pr  Pr2       1.0  0.24153640866279602  0.8935461044311523  0.26544782519340515  1.0000
+  Si  Si2       1.0  0.7416233420372009  0.39339369535446167  0.414615273475647  1.0000
+  Fe  Fe1       1.0  0.7417740821838379  0.8937733769416809  0.577389657497406  1.0000
+  Fe  Fe2       1.0  0.24185311794281006  0.39408841729164124  0.5771068334579468  1.0000

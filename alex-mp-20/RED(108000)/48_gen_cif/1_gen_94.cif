@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3AlAg2
+_chemical_formula_sum              "Sc3 Al1 Ag2"
+_cell_length_a       3.399527170010586
+_cell_length_b       3.3978307773248613
+_cell_length_c       10.478509494806756
+_cell_angle_alpha    89.99522152847341
+_cell_angle_beta     89.99907579221319
+_cell_angle_gamma    89.99967991348639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.7274794447446621  0.9661775671413186  0.5045492089551198  1.0000
+  Sc  Sc2       1.0  0.7274907195710678  0.9664667539724666  0.8400491898521508  1.0000
+  Sc  Sc3       1.0  0.7275875650198979  0.9662680918950387  0.17596661157837248  1.0000
+  Al  Al1       1.0  0.22753050126960953  0.4660868894594945  0.3397323189210916  1.0000
+  Ag  Ag1       1.0  0.22775161784796527  0.466289381204726  0.009188871185504254  1.0000
+  Ag  Ag2       1.0  0.22722952414565123  0.46648476388985655  0.6696738260067855  1.0000

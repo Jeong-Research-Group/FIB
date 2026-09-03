@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2Ca3MgBi3
+_chemical_formula_sum              "Li2 Ca3 Mg1 Bi3"
+_cell_length_a       4.7098961188356085
+_cell_length_b       7.773423115957077
+_cell_length_c       7.897385526307501
+_cell_angle_alpha    120.49846526585256
+_cell_angle_beta     90.00037147031749
+_cell_angle_gamma    89.99830469610887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6774920829055134  0.07104166098213284  0.9134269385286865  1.0000
+  Li  Li2       1.0  0.6770959063979703  0.5503207145772955  0.15311395810798017  1.0000
+  Ca  Ca1       1.0  0.17715248861303942  0.8857018317084612  0.48472913942300416  1.0000
+  Ca  Ca2       1.0  0.17732835041593578  0.31107425293920665  0.3341694031106368  1.0000
+  Ca  Ca3       1.0  0.1771957608217436  0.7355191265291154  0.9100003746063346  1.0000
+  Mg  Mg1       1.0  0.6770813545815021  0.31050282085471875  0.6725424177230729  1.0000
+  Bi  Bi1       1.0  0.677192866942501  0.6474815300341364  0.5798926798831464  1.0000
+  Bi  Bi2       1.0  0.17711843202099972  0.3103301914535507  0.9189370255642499  1.0000
+  Bi  Bi3       1.0  0.6772608732679007  0.9742256627312625  0.24298149632215757  1.0000

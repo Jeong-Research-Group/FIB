@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2ZnSiPd2Rh
+_chemical_formula_sum              "Sr2 Zn1 Si1 Pd2 Rh1"
+_cell_length_a       4.030014863432958
+_cell_length_b       6.039612210837033
+_cell_length_c       7.300326793100088
+_cell_angle_alpha    66.33723052600213
+_cell_angle_beta     73.97949442543067
+_cell_angle_gamma    70.50516263872484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8277235067051185  0.7155854382283652  0.7763849241800197  1.0000
+  Sr  Sr2       1.0  0.5624549516545101  0.730014626364822  0.29239143658884337  1.0000
+  Zn  Zn1       1.0  0.5647340094057985  0.27837980394385897  0.7398576670115754  1.0000
+  Si  Si1       1.0  0.8402915596908039  0.18690524365328712  0.2797372121421988  1.0000
+  Pd  Pd1       1.0  0.05688673133132313  0.07889695466245814  0.9551565685865745  1.0000
+  Pd  Pd2       1.0  0.21542304009363397  0.19813456612224542  0.5178969451627008  1.0000
+  Rh  Rh1       1.0  0.35630682910975514  0.3313285911591385  0.10326079887089398  1.0000

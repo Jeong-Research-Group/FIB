@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgPbLiAuPbAu
+_chemical_formula_sum              "Hg1 Pb2 Li1 Au2"
+_cell_length_a       4.1859159476240215
+_cell_length_b       4.201966482975079
+_cell_length_c       7.925828456878662
+_cell_angle_alpha    89.9675454451634
+_cell_angle_beta     90.00102020271491
+_cell_angle_gamma    89.82745828044514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.8362396359443665  0.2666904330253601  0.16448025405406952  1.0000
+  Pb  Pb1       1.0  0.8363193273544312  0.7661986351013184  0.8118236064910889  1.0000
+  Li  Li1       1.0  0.3363954722881317  0.7660747766494752  0.165469229221344  1.0000
+  Au  Au1       1.0  0.8365762829780579  0.766684353351593  0.42382386326789856  1.0000
+  Pb  Pb2       1.0  0.33638232946395874  0.26648423075675964  0.5168018937110901  1.0000
+  Au  Au2       1.0  0.335830956697464  0.26621687412261963  0.9051705598831177  1.0000

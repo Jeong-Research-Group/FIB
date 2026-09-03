@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4SnBi2Te
+_chemical_formula_sum              "Tb4 Sn1 Bi2 Te1"
+_cell_length_a       4.464927639784143
+_cell_length_b       7.72837994693965
+_cell_length_c       7.6658748445301095
+_cell_angle_alpha    109.49104984437898
+_cell_angle_beta     89.99999624155092
+_cell_angle_gamma    89.99983864085681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.04051178923034148  0.9931229911671035  0.25084289506278123  1.0000
+  Tb  Tb2       1.0  0.5406343572396315  0.9969348370659533  0.762364425914967  1.0000
+  Tb  Tb3       1.0  0.5405672741984713  0.4997154057996807  0.251666758683447  1.0000
+  Tb  Tb4       1.0  0.04053024477016334  0.5032261222505081  0.7630474255883792  1.0000
+  Sn  Sn1       1.0  0.5404947975955335  0.7482384810762898  0.006936519792284467  1.0000
+  Bi  Bi1       1.0  0.5405251731269094  0.24820565895551855  0.5068715995726251  1.0000
+  Bi  Bi2       1.0  0.04062428370784255  0.24832956873435807  0.007013801433704399  1.0000
+  Te  Te1       1.0  0.04056337284264743  0.7481947066834143  0.5070674017638462  1.0000

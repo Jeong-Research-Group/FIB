@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2FeB3
+_chemical_formula_sum              "Ce2 Fe1 B3"
+_cell_length_a       3.2230917999828095
+_cell_length_b       4.100130389832775
+_cell_length_c       6.184735992685307
+_cell_angle_alpha    89.9859436273267
+_cell_angle_beta     89.98183236397236
+_cell_angle_gamma    90.0002193513571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.4702014225863521  0.7548609651474025  0.12900995740880172  1.0000
+  Ce  Ce2       1.0  0.9698330382412804  0.7547377049371993  0.6150622273661818  1.0000
+  Fe  Fe1       1.0  0.47084175240468407  0.25633961971849856  0.7898443922650109  1.0000
+  B   B1        1.0  0.469999395449891  0.2544759345465009  0.4259115183190662  1.0000
+  B   B2        1.0  0.9706430097544356  0.2547661626912977  0.9979162506898842  1.0000
+  B   B3        1.0  0.9700306230273239  0.25460077476752574  0.29064346975978933  1.0000

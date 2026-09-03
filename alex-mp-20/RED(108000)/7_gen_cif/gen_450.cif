@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiMgNiIrH
+_chemical_formula_sum              "Ni2 Mg1 Ir1 H1"
+_cell_length_a       3.793336649741341
+_cell_length_b       3.7793247367351777
+_cell_length_c       3.7812836170196533
+_cell_angle_alpha    90.02776039258485
+_cell_angle_beta     90.07623424545585
+_cell_angle_gamma    90.0122763551073
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5475810766220093  0.6358032822608947  0.1561548858880997  1.0000
+  Mg  Mg1       1.0  0.04793034866452217  0.6361125111579895  0.6561440825462342  1.0000
+  Ni  Ni2       1.0  0.5478484034538269  0.13545396924018857  0.6556221246719361  1.0000
+  Ir  Ir1       1.0  0.04843201860785484  0.13553449511528015  0.15570382773876193  1.0000
+  H   H1        1.0  0.5479485392570496  0.1361225992441177  0.15560258924961093  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuFeNiBNi
+_chemical_formula_sum              "Lu1 Fe1 Ni2 B1"
+_cell_length_a       3.9770024957263126
+_cell_length_b       3.9406931876004947
+_cell_length_c       3.9747257232666016
+_cell_angle_alpha    89.86162970929131
+_cell_angle_beta     89.92992476192902
+_cell_angle_gamma    89.86387000543151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.38508111238479614  0.5119224190711976  0.04855723306536674  1.0000
+  Fe  Fe1       1.0  0.885097086429596  0.5107147693634033  0.5482859015464783  1.0000
+  Ni  Ni1       1.0  0.8853045701980591  0.012245190329849722  0.04809347912669181  1.0000
+  B   B1        1.0  0.8858377933502197  0.01102625671774149  0.5483378171920776  1.0000
+  Ni  Ni2       1.0  0.38453245162963867  0.011991112492978573  0.5481796860694885  1.0000

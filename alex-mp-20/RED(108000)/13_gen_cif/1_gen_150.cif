@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScH3Ir
+_chemical_formula_sum              "Sc1 H3 Ir1"
+_cell_length_a       3.5799985508048433
+_cell_length_b       3.5801548085837522
+_cell_length_c       3.5809183445527837
+_cell_angle_alpha    89.97401873641238
+_cell_angle_beta     89.99462744631022
+_cell_angle_gamma    89.97089457389902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.41078563752103214  0.2686318176841993  0.5620419030222866  1.0000
+  H   H1        1.0  0.9112653537630517  0.7695107108351591  0.5622221176243567  1.0000
+  H   H2        1.0  0.9112531599434951  0.26895017783567043  0.06190775984115244  1.0000
+  H   H3        1.0  0.4105690775877646  0.7675987646443175  0.061747364655361375  1.0000
+  Ir  Ir1       1.0  0.910774308354958  0.7686638850677342  0.06196027584839019  1.0000

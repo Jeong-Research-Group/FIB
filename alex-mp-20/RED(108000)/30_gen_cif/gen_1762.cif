@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiCuNi2Sc2
+_chemical_formula_sum              "Ni3 Cu1 Sc2"
+_cell_length_a       3.0902698600941774
+_cell_length_b       4.094316759797065
+_cell_length_c       7.024656772613525
+_cell_angle_alpha    89.94081208126953
+_cell_angle_beta     89.79965939825803
+_cell_angle_gamma    89.84617298717318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.17072425782680511  0.2678815424442291  0.8874526023864747  1.0000
+  Cu  Cu1       1.0  0.17220015823841095  0.7671394348144531  0.7183543443679811  1.0000
+  Ni  Ni2       1.0  0.17126819491386414  0.767615795135498  0.38146874308586126  1.0000
+  Ni  Ni3       1.0  0.17074574530124664  0.2670952081680298  0.2182547897100449  1.0000
+  Sc  Sc1       1.0  0.670829713344574  0.2662268877029419  0.5426796674728394  1.0000
+  Sc  Sc2       1.0  0.6714102029800415  0.7681924104690552  0.05858990922570229  1.0000

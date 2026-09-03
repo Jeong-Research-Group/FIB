@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2Ce2P2O
+_chemical_formula_sum              "Ca2 Ce2 P2 O1"
+_cell_length_a       4.506599181729307
+_cell_length_b       4.58659422060885
+_cell_length_c       8.294581413426737
+_cell_angle_alpha    106.04508469244107
+_cell_angle_beta     105.76567581541312
+_cell_angle_gamma    89.99994544289763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8106612057642403  0.7272445037659315  0.6829284185321486  1.0000
+  Ca  Ca2       1.0  0.4813443713483598  0.8978722073685483  0.024450443317718236  1.0000
+  Ce  Ce1       1.0  0.16360731196826467  0.08004530111771364  0.38871447685725097  1.0000
+  Ce  Ce2       1.0  0.9900140117586003  0.4065259822242617  0.04171871504155453  1.0000
+  P   P1        1.0  0.6213685580340169  0.5378659723106399  0.30422963765139693  1.0000
+  P   P2        1.0  0.35200163448934607  0.26857391659624813  0.7655837751457218  1.0000
+  O   O1        1.0  0.974425953390235  0.8909746544245158  0.010676763705226373  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2CoPbBa
+_chemical_formula_sum              "La2 Co1 Pb1 Ba1"
+_cell_length_a       5.375132093076598
+_cell_length_b       5.770847168331643
+_cell_length_c       5.385768413543701
+_cell_angle_alpha    89.98078235183965
+_cell_angle_beta     90.00334929714512
+_cell_angle_gamma    89.98420427560166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.09857724606990814  0.8104524016380309  0.3417406380176544  1.0000
+  La  La2       1.0  0.5963921546936035  0.8100364208221436  0.8414940237998962  1.0000
+  Co  Co1       1.0  0.597851574420929  0.8102999329566954  0.341465562582016  1.0000
+  Pb  Pb1       1.0  0.09650762379169464  0.3100483417510986  0.8415899276733398  1.0000
+  Ba  Ba1       1.0  0.5972270369529724  0.31037095189094543  0.34181922674179077  1.0000

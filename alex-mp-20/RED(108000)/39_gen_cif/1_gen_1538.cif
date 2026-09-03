@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2NbMo3
+_chemical_formula_sum              "Ta2 Nb1 Mo3"
+_cell_length_a       3.2356455820176593
+_cell_length_b       3.2355084187827625
+_cell_length_c       9.713815740205288
+_cell_angle_alpha    89.99919387446809
+_cell_angle_beta     90.00168960415441
+_cell_angle_gamma    89.9998023666138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0550700228006781  0.7694448896406617  0.8429477857071371  1.0000
+  Ta  Ta2       1.0  0.05449174628413216  0.7676198394135914  0.1748911970719516  1.0000
+  Nb  Nb1       1.0  0.05490902532639354  0.7700226436796201  0.5082820532579038  1.0000
+  Mo  Mo1       1.0  0.5546161704986843  0.26864159079515887  0.00902104453983912  1.0000
+  Mo  Mo2       1.0  0.5555716816339065  0.26876744706869465  0.34164651365424975  1.0000
+  Mo  Mo3       1.0  0.5545985688126414  0.26934965131266336  0.6753068270946291  1.0000

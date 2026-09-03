@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2GePd
+_chemical_formula_sum              "Li2 Ge1 Pd1"
+_cell_length_a       3.7263388070933177
+_cell_length_b       4.09401415498609
+_cell_length_c       3.7694244785361994
+_cell_angle_alpha    89.99827543631484
+_cell_angle_beta     89.99909126695513
+_cell_angle_gamma    90.00047925465972
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25574593038730425  0.07673606068858832  0.8721741801311428  1.0000
+  Li  Li2       1.0  0.7554154313735046  0.0765241183997762  0.3720360122012272  1.0000
+  Ge  Ge1       1.0  0.7558278151264066  0.5763363200465242  0.8721872765969773  1.0000
+  Pd  Pd1       1.0  0.25626828995556417  0.5764464308871842  0.3726044598555382  1.0000

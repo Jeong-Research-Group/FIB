@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaLa2PbN
+_chemical_formula_sum              "Ba1 La2 Pb1 N1"
+_cell_length_a       5.133093269397583
+_cell_length_b       5.136813621822976
+_cell_length_c       5.5857325561218945
+_cell_angle_alpha    89.9505762179529
+_cell_angle_beta     89.93808404584325
+_cell_angle_gamma    89.98267851773491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5006970546505887  0.6962110389643347  0.49672747781149884  1.0000
+  La  La1       1.0  0.0012395644267361933  0.6955346247576245  0.9970210508027286  1.0000
+  La  La2       1.0  0.501184900942086  0.1958564023986057  0.996631692501849  1.0000
+  Pb  Pb1       1.0  0.0010543274288205076  0.1958886546335498  0.4988756678965767  1.0000
+  N   N1        1.0  0.5009567677619744  0.6956126048973598  0.9969622366759587  1.0000

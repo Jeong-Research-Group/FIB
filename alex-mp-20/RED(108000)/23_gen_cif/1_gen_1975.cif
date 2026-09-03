@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiNb2Zn2In
+_chemical_formula_sum              "Ti1 Nb2 Zn2 In1"
+_cell_length_a       2.890581214792094
+_cell_length_b       2.8906658049066376
+_cell_length_c       12.436477060439866
+_cell_angle_alpha    89.99829863421073
+_cell_angle_beta     90.00030744229068
+_cell_angle_gamma    90.0010820904239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.12637598414457993  0.3008441010109346  0.6890013389067712  1.0000
+  Nb  Nb1       1.0  0.12648674625507225  0.300041942272695  0.9995126853608007  1.0000
+  Nb  Nb2       1.0  0.12690575548018163  0.300746679313525  0.37852368247503987  1.0000
+  Zn  Zn1       1.0  0.626644424496705  0.8009899366748925  0.5379389948073228  1.0000
+  Zn  Zn2       1.0  0.626300335660233  0.8004406151240769  0.8400658837022837  1.0000
+  In  In1       1.0  0.6269095516442026  0.800035609711812  0.18899590756514337  1.0000

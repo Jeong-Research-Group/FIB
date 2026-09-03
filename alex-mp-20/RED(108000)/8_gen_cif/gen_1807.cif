@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiTl2Fe2Si
+_chemical_formula_sum              "Si2 Tl2 Fe2"
+_cell_length_a       3.1165106088337593
+_cell_length_b       3.005063492912487
+_cell_length_c       11.982634544372559
+_cell_angle_alpha    93.7573169575359
+_cell_angle_beta     89.8385231695663
+_cell_angle_gamma    90.53519564776067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.3257099986076355  0.39144620299339294  0.49470168352127075  1.0000
+  Tl  Tl1       1.0  0.8371595740318298  0.43433207273483276  0.26986292004585266  1.0000
+  Tl  Tl2       1.0  0.3180633783340454  0.920052945613861  0.006995645351707933  1.0000
+  Fe  Fe1       1.0  0.3199027478694916  0.4429159164428711  0.7066358327865601  1.0000
+  Fe  Fe2       1.0  0.8234689235687256  0.905866801738739  0.5763285160064697  1.0000
+  Si  Si2       1.0  0.8192356824874878  0.9575722217559814  0.7863605618476868  1.0000

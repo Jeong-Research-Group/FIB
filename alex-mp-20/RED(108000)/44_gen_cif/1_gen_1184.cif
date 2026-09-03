@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgBe3Pt2
+_chemical_formula_sum              "Mg1 Be3 Pt2"
+_cell_length_a       3.8785372761797494
+_cell_length_b       3.878407527561409
+_cell_length_c       5.958330829082086
+_cell_angle_alpha    90.02505609988555
+_cell_angle_beta     90.05431543314577
+_cell_angle_gamma    119.99732068435364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9902272918220212  0.21244922750349005  0.8125065340245347  1.0000
+  Be  Be1       1.0  0.9903841523099226  0.21233941516459562  0.3127959202367235  1.0000
+  Be  Be2       1.0  0.657504359220544  0.5462462382143022  0.11354478760958496  1.0000
+  Be  Be3       1.0  0.6564214615809103  0.5452986754845647  0.509307589117834  1.0000
+  Pt  Pt1       1.0  0.32304430503782156  0.8786346269049395  0.5438771389215468  1.0000
+  Pt  Pt2       1.0  0.3242108866971119  0.879594863026033  0.08154090792404607  1.0000

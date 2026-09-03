@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCa3Cl
+_chemical_formula_sum              "Na1 Ca3 Cl1"
+_cell_length_a       5.686411650170028
+_cell_length_b       5.687407715199317
+_cell_length_c       5.689866533208939
+_cell_angle_alpha    89.99191550501492
+_cell_angle_beta     89.99560260190023
+_cell_angle_gamma    89.99180790156366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4931257493145102  0.22329689420039267  0.8863222878220959  1.0000
+  Ca  Ca1       1.0  0.9931692657697281  0.7237143671428969  0.8863018802230017  1.0000
+  Ca  Ca2       1.0  0.49307841417366766  0.7230759559585136  0.38630958725969466  1.0000
+  Ca  Ca3       1.0  0.9931735624930412  0.22351829332667913  0.3862473081862482  1.0000
+  Cl  Cl1       1.0  0.9931480027681456  0.7235893943071293  0.38621568707509524  1.0000

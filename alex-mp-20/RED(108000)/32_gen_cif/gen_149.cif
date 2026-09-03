@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeTb2CoTbGe2
+_chemical_formula_sum              "Ge3 Tb3 Co1"
+_cell_length_a       4.200227063076001
+_cell_length_b       5.7376410070127
+_cell_length_c       7.393097877502441
+_cell_angle_alpha    68.81238668814889
+_cell_angle_beta     89.91547208644606
+_cell_angle_gamma    68.53475185160414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7621566653251648  0.7809562683105468  0.0723287239670753  1.0000
+  Tb  Tb1       1.0  0.12138739228248596  0.06287217885255814  0.7676838040351867  1.0000
+  Tb  Tb2       1.0  0.4789266586303711  0.34680432081222534  0.05726188421249389  1.0000
+  Co  Co1       1.0  0.605525016784668  0.09420783817768097  0.4791250526905059  1.0000
+  Tb  Tb3       1.0  0.30323925614356995  0.698733925819397  0.4164685904979705  1.0000
+  Ge  Ge2       1.0  0.0034819734282791615  0.2987077534198761  0.35027030110359186  1.0000
+  Ge  Ge3       1.0  0.8271588087081909  0.6522169709205627  0.7435085773468016  1.0000

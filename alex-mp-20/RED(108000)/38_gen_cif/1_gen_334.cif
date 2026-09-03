@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y3MgCo2
+_chemical_formula_sum              "Y3 Mg1 Co2"
+_cell_length_a       3.3833645174662346
+_cell_length_b       3.3833238168529265
+_cell_length_c       11.55272244203622
+_cell_angle_alpha    89.9998303058482
+_cell_angle_beta     90.00012250169326
+_cell_angle_gamma    90.00019170035723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.6291854596168187  0.4747783172495799  0.21541138944382837  1.0000
+  Y   Y2        1.0  0.6291361374853139  0.4748122646102736  0.9270808471865286  1.0000
+  Y   Y3        1.0  0.6293330407404688  0.4745748611001823  0.6385702671906542  1.0000
+  Mg  Mg1       1.0  0.12908037283382504  0.9741669013192717  0.4271796419884994  1.0000
+  Co  Co1       1.0  0.12905132893354135  0.9746070220072578  0.07974656888842842  1.0000
+  Co  Co2       1.0  0.12919813816901618  0.9745196521265994  0.7744300134844089  1.0000

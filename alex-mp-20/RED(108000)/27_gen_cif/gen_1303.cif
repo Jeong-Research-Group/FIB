@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoBNiBCoNi
+_chemical_formula_sum              "Co2 B2 Ni2"
+_cell_length_a       3.6121967117899185
+_cell_length_b       3.6014646247859554
+_cell_length_c       4.742077827453613
+_cell_angle_alpha    90.40879615455384
+_cell_angle_beta     90.44214801394544
+_cell_angle_gamma    120.49753164397664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9022518992424011  0.7464750409126282  0.017741139978170395  1.0000
+  B   B1        1.0  0.569750964641571  0.08137471228837966  0.2669009864330292  1.0000
+  Ni  Ni1       1.0  0.5675630569458008  0.08057982474565505  0.767938494682312  1.0000
+  B   B2        1.0  0.23534931242465973  0.4119718372821808  0.7692148089408875  1.0000
+  Co  Co2       1.0  0.9025630950927734  0.7463929653167723  0.5180025696754456  1.0000
+  Ni  Ni2       1.0  0.23626972734928128  0.4136627316474914  0.2675192356109619  1.0000

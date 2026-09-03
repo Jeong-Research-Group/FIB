@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2CaTl2Cd
+_chemical_formula_sum              "Sr2 Ca1 Tl2 Cd1"
+_cell_length_a       4.036601248130656
+_cell_length_b       4.0365590908408135
+_cell_length_c       12.05922582687819
+_cell_angle_alpha    89.99976897960038
+_cell_angle_beta     90.0000046497331
+_cell_angle_gamma    90.00013519646032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8805761926610614  0.6826903238182955  0.22971609723446512  1.0000
+  Sr  Sr2       1.0  0.88028688352011  0.6825268129364076  0.5709529636524102  1.0000
+  Ca  Ca1       1.0  0.8807727234888955  0.6830047669327618  0.9006200694170794  1.0000
+  Tl  Tl1       1.0  0.38055926868807893  0.18311604419423783  0.054123974820403147  1.0000
+  Tl  Tl2       1.0  0.3804829137570811  0.18307063154591488  0.7474772508108912  1.0000
+  Cd  Cd1       1.0  0.3804056062680216  0.1823245755595751  0.40017999664369075  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiPtYPtY2
+_chemical_formula_sum              "Ni1 Pt2 Y3"
+_cell_length_a       3.4898730994994795
+_cell_length_b       3.4904840478375596
+_cell_length_c       10.289389610290527
+_cell_angle_alpha    89.99044024022847
+_cell_angle_beta     89.98227133358657
+_cell_angle_gamma    90.02768526087459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7039262652397156  0.16157439351081848  0.29165199398994446  1.0000
+  Pt  Pt1       1.0  0.7040334939956665  0.16170516610145572  0.9629708528518677  1.0000
+  Y   Y1        1.0  0.20398706197738647  0.6617074012756349  0.12953044474124908  1.0000
+  Pt  Pt2       1.0  0.7044182419776917  0.1611550748348236  0.6199854612350464  1.0000
+  Y   Y2        1.0  0.20391006767749786  0.6614243388175965  0.7915116548538208  1.0000
+  Y   Y3        1.0  0.2038833051919937  0.6614359021186829  0.4536197781562805  1.0000

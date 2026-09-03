@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuAl2CuHoGa
+_chemical_formula_sum              "Cu2 Al2 Ho1 Ga1"
+_cell_length_a       4.065162822081537
+_cell_length_b       5.321329323058977
+_cell_length_c       5.328982830047607
+_cell_angle_alpha    120.1092463427164
+_cell_angle_beta     90.01624469529256
+_cell_angle_gamma    89.98927910657514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0008042608387768269  0.5949218273162842  0.9882025122642517  1.0000
+  Al  Al1       1.0  0.5007736086845398  0.9227228164672852  0.16089795529842377  1.0000
+  Al  Al2       1.0  0.5008004307746887  0.4227761328220368  0.6608401536941528  1.0000
+  Cu  Cu2       1.0  0.0004191501357126981  0.25085151195526123  0.3341718316078186  1.0000
+  Ho  Ho1       1.0  0.0005965940654277802  0.922767996788025  0.6607460379600525  1.0000
+  Ga  Ga1       1.0  0.5009588599205017  0.4222358167171478  0.1607697606086731  1.0000

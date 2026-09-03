@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3SnAu4
+_chemical_formula_sum              "Li3 Sn1 Au4"
+_cell_length_a       5.641755743588103
+_cell_length_b       5.641892390934316
+_cell_length_c       5.642262353822938
+_cell_angle_alpha    109.49168646167587
+_cell_angle_beta     109.48779693392764
+_cell_angle_gamma    109.40768057363552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.18661742559547284  0.2586703462050304  0.2295443358484443  1.0000
+  Li  Li2       1.0  0.686360488726787  0.7584558920751215  0.22954356989417554  1.0000
+  Li  Li3       1.0  0.6868043206569451  0.2590764628677952  0.7299429964631592  1.0000
+  Sn  Sn1       1.0  0.1866863763368614  0.7587112453736833  0.7301082042293113  1.0000
+  Au  Au1       1.0  0.18683114249793809  0.7591245827000077  0.23026388366903566  1.0000
+  Au  Au2       1.0  0.6869728445336984  0.25926435561730027  0.2298209291699245  1.0000
+  Au  Au3       1.0  0.1869167438830041  0.25927444736006694  0.7298794133203147  1.0000
+  Au  Au4       1.0  0.6864480415758466  0.758984690872381  0.729404844046406  1.0000

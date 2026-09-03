@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zn2GaSnRh
+_chemical_formula_sum              "Zn2 Ga1 Sn1 Rh1"
+_cell_length_a       5.114081155245314
+_cell_length_b       5.114207506596945
+_cell_length_c       4.916872216166635
+_cell_angle_alpha    108.58609877777096
+_cell_angle_beta     108.58079605158825
+_cell_angle_gamma    107.9531792529605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5894616931039265  0.6302285942688496  0.9133691546295302  1.0000
+  Zn  Zn2       1.0  0.09241967669405261  0.1332546534434094  0.9185308837300502  1.0000
+  Ga  Ga1       1.0  0.09218598719817205  0.6316181733950147  0.41671346529858616  1.0000
+  Sn  Sn1       1.0  0.5916625047884383  0.1312431089666717  0.4155305309747299  1.0000
+  Rh  Rh1       1.0  0.09034092728739221  0.631209636264533  0.9162770870433621  1.0000

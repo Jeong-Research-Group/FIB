@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2HNCl2
+_chemical_formula_sum              "Zn2 H1 N1 Cl2"
+_cell_length_a       5.401674134730439
+_cell_length_b       3.5677918154599078
+_cell_length_c       6.387675210373873
+_cell_angle_alpha    73.77559410584334
+_cell_angle_beta     65.97830923716434
+_cell_angle_gamma    90.02021122032967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6765516583556805  0.3070582969933105  0.6337473294007134  1.0000
+  Zn  Zn2       1.0  0.15267645085299708  0.6525701516339548  0.9424298679665769  1.0000
+  H   H1        1.0  0.44831283078218853  0.8649404875686579  0.5180500786790728  1.0000
+  N   N1        1.0  0.5020474608184161  0.7933572169874232  0.6611283426666772  1.0000
+  Cl  Cl1       1.0  0.1337373519776241  0.4609323519861032  0.32515816617955035  1.0000
+  Cl  Cl2       1.0  0.8414647733833304  0.1373760894884227  0.972872497775768  1.0000

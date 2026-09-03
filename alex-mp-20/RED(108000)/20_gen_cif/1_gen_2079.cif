@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mg2CuPd
+_chemical_formula_sum              "Mg2 Cu1 Pd1"
+_cell_length_a       3.1695231252329226
+_cell_length_b       4.483069229200794
+_cell_length_c       4.481833222689518
+_cell_angle_alpha    90.00974944270028
+_cell_angle_beta     90.03766066366445
+_cell_angle_gamma    89.9905830841698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8212246440626257  0.3021104350531322  0.5880393139747244  1.0000
+  Mg  Mg2       1.0  0.8199193686934753  0.8020115730491912  0.08809345442481714  1.0000
+  Cu  Cu1       1.0  0.32048966298965303  0.8020249675154766  0.5881640814985333  1.0000
+  Pd  Pd1       1.0  0.3207422829231508  0.3020581864683302  0.08808089270496082  1.0000

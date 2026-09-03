@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaHPd3
+_chemical_formula_sum              "La1 H1 Pd3"
+_cell_length_a       4.2805283525571465
+_cell_length_b       4.28267261679513
+_cell_length_c       4.282205619726162
+_cell_angle_alpha    90.05629255426636
+_cell_angle_beta     90.06151860296742
+_cell_angle_gamma    89.94331389819641
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.3539305631163429  0.72708868626384  0.9335336763088223  1.0000
+  H   H1        1.0  0.853648518830266  0.22728354515949695  0.4332806750090054  1.0000
+  Pd  Pd1       1.0  0.8536923009844056  0.22677489841097498  0.9334806227232924  1.0000
+  Pd  Pd2       1.0  0.3543039268608241  0.22687976882849334  0.43336115424819793  1.0000
+  Pd  Pd3       1.0  0.8539632710679627  0.7272526505095213  0.43338663399276106  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AuEu2AuBi
+_chemical_formula_sum              "Au2 Eu2 Bi1"
+_cell_length_a       4.883767445929671
+_cell_length_b       4.883122923795241
+_cell_length_c       7.710736274719238
+_cell_angle_alpha    71.58711667684064
+_cell_angle_beta     71.49496885564527
+_cell_angle_gamma    59.959676581914835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.39779388904571533  0.24172466993331912  0.18691463768482205  1.0000
+  Eu  Eu1       1.0  0.8044662475585936  0.6481121778488159  0.9665410518646239  1.0000
+  Eu  Eu2       1.0  0.9927261471748352  0.8362525105476379  0.40422683954238886  1.0000
+  Au  Au2       1.0  0.5438367128372192  0.38789308071136475  0.7477322220802306  1.0000
+  Bi  Bi1       1.0  0.24150237441062927  0.08520422130823135  0.6555328369140625  1.0000

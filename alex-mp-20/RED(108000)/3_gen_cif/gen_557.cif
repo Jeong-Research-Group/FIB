@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiSTi2AgSeAgSe
+_chemical_formula_sum              "Bi1 S1 Ti2 Ag2 Se2"
+_cell_length_a       3.5607263585299584
+_cell_length_b       6.557230705330547
+_cell_length_c       7.7207441329956055
+_cell_angle_alpha    103.3645309742164
+_cell_angle_beta     90.08336496621489
+_cell_angle_gamma    89.94923370467708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.5905262231826782  0.3250562250614167  0.00276684761047364  1.0000
+  S   S1        1.0  0.09007018059492111  0.827292025089264  0.04107699915766716  1.0000
+  Ti  Ti1       1.0  0.09023512154817581  0.6190598607063295  0.2581009864807129  1.0000
+  Ti  Ti2       1.0  0.5905994176864624  0.002090380061417818  0.2369954884052277  1.0000
+  Ag  Ag1       1.0  0.09005522727966309  0.11009816080331804  0.7094376087188721  1.0000
+  Se  Se1       1.0  0.5904383063316345  0.7950730919837953  0.489728331565857  1.0000
+  Ag  Ag2       1.0  0.589848518371582  0.4893700778484345  0.6891165971755983  1.0000
+  Se  Se2       1.0  0.08983022719621658  0.27992832660675054  0.40219005942344666  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ti2GaFe2GeH
+_chemical_formula_sum              "Ti2 Ga1 Fe2 Ge1 H1"
+_cell_length_a       4.176008786803217
+_cell_length_b       5.331424247784518
+_cell_length_c       4.138840060138268
+_cell_angle_alpha    89.99965819724419
+_cell_angle_beta     90.00003374319765
+_cell_angle_gamma    66.94447877738898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8417239092070066  0.09670710716153366  0.3628490822069246  1.0000
+  Ti  Ti2       1.0  0.3385254250416256  0.10333553671610914  0.8630213260742331  1.0000
+  Ga  Ga1       1.0  0.5479603748319357  0.6841009445618014  0.3628182879398783  1.0000
+  Fe  Fe1       1.0  0.6847041396647937  0.41066547451477703  0.8628803509269088  1.0000
+  Fe  Fe2       1.0  0.16470111998112777  0.4506330034758462  0.3626995173951421  1.0000
+  Ge  Ge1       1.0  0.03661266116523317  0.7067050840153006  0.8627224426172433  1.0000
+  H   H1        1.0  0.3272617708468944  0.12595213428738114  0.3629420468706676  1.0000

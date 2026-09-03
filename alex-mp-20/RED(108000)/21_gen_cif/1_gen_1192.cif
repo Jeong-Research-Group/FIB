@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2AgIr
+_chemical_formula_sum              "Li2 Ag1 Ir1"
+_cell_length_a       2.7002900316492515
+_cell_length_b       2.7002453902915917
+_cell_length_c       8.097068131995993
+_cell_angle_alpha    90.00063723834481
+_cell_angle_beta     89.99989439803598
+_cell_angle_gamma    90.01685754005055
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.18391686025587808  0.6702288099599064  0.9011783002321377  1.0000
+  Li  Li2       1.0  0.18390015215647354  0.670393504259745  0.3710420694500252  1.0000
+  Ag  Ag1       1.0  0.6839544999704986  0.17009661481255844  0.6360444425047066  1.0000
+  Ir  Ir1       1.0  0.6839045384082786  0.17028145079034537  0.13612516597446156  1.0000

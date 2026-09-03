@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr3Bi3Rh2
+_chemical_formula_sum              "Sr3 Bi3 Rh2"
+_cell_length_a       4.506970790490025
+_cell_length_b       6.561982583564565
+_cell_length_c       10.051876761714931
+_cell_angle_alpha    116.61933559032603
+_cell_angle_beta     90.00422579258606
+_cell_angle_gamma    110.0898648637632
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4683658319507076  0.4102344034756262  0.4720107679742671  1.0000
+  Sr  Sr2       1.0  0.07329672392157377  0.6199921775203953  0.14097436501903932  1.0000
+  Sr  Sr3       1.0  0.2797280141578149  0.0330980378887115  0.7285626344949726  1.0000
+  Bi  Bi1       1.0  0.3412172428144398  0.1559116236496302  0.09195813563316883  1.0000
+  Bi  Bi2       1.0  0.6059719301356363  0.6854317262138445  0.8745056638865445  1.0000
+  Bi  Bi3       1.0  0.7532323864869295  0.9801095603299029  0.45283320212477335  1.0000
+  Rh  Rh1       1.0  0.7804081367245794  0.03427641686899263  0.1937100001155252  1.0000
+  Rh  Rh2       1.0  0.978480257926581  0.4308005303880321  0.7248362270966057  1.0000

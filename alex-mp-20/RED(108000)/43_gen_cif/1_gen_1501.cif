@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2PdAu
+_chemical_formula_sum              "Lu2 Pd1 Au1"
+_cell_length_a       3.488227672868907
+_cell_length_b       3.4879413655563587
+_cell_length_c       6.9736885230192485
+_cell_angle_alpha    90.01969472492918
+_cell_angle_beta     90.02804136118273
+_cell_angle_gamma    90.11070443279647
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.6564237529525792  0.6703130851370842  0.5095999850907816  1.0000
+  Lu  Lu2       1.0  0.6563173835669559  0.670183195322371  0.023452991987251426  1.0000
+  Pd  Pd1       1.0  0.1563846058822484  0.17028469160518905  0.26672538355725967  1.0000
+  Au  Au1       1.0  0.1563988826511699  0.17014153666184925  0.7661414925282607  1.0000

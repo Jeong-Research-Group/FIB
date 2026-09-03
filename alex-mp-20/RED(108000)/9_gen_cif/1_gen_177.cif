@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V2Ag2O2
+_chemical_formula_sum              "V2 Ag2 O2"
+_cell_length_a       4.106086007832521
+_cell_length_b       4.106180007347837
+_cell_length_c       5.588033845728142
+_cell_angle_alpha    90.08234615736971
+_cell_angle_beta     90.02324655691513
+_cell_angle_gamma    89.99696563152185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.4312245434773829  0.4729841746474836  0.7947697339566846  1.0000
+  V   V2        1.0  0.9311727937533569  0.9725345365958179  0.7948117216398792  1.0000
+  Ag  Ag1       1.0  0.43150175330521534  0.9714585155959545  0.29643817633875236  1.0000
+  Ag  Ag2       1.0  0.9306185579632024  0.4727225744115394  0.2962671699369887  1.0000
+  O   O1        1.0  0.9312764248403337  0.47252565840894634  0.7964556365173006  1.0000
+  O   O2        1.0  0.43115041759625145  0.9731409959929387  0.7976673659517187  1.0000

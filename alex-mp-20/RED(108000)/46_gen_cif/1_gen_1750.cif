@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2Sn2Pd3Rh
+_chemical_formula_sum              "Mg2 Sn2 Pd3 Rh1"
+_cell_length_a       4.558239534372437
+_cell_length_b       4.558078272456343
+_cell_length_c       6.505547010150648
+_cell_angle_alpha    90.00195528726562
+_cell_angle_beta     90.00657573268809
+_cell_angle_gamma    89.98585696418476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7065036478769572  0.795826728452846  0.0864556373209239  1.0000
+  Mg  Mg2       1.0  0.20639950155822562  0.29587930998785367  0.5880959640576267  1.0000
+  Sn  Sn1       1.0  0.7062729756145757  0.7962402407285838  0.5927240762832672  1.0000
+  Sn  Sn2       1.0  0.2060497588224034  0.2956326072308653  0.08205831876757591  1.0000
+  Pd  Pd1       1.0  0.20624124724606882  0.7956425656348863  0.8373074513707363  1.0000
+  Pd  Pd2       1.0  0.2062984518134788  0.79600078218841  0.3374088447606542  1.0000
+  Pd  Pd3       1.0  0.7064696726176013  0.29585731164441553  0.33737394414589544  1.0000
+  Rh  Rh1       1.0  0.7053572477331347  0.2962082701687713  0.8374192276065883  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4P2SeS
+_chemical_formula_sum              "Sm4 P2 Se1 S1"
+_cell_length_a       4.094273817309156
+_cell_length_b       7.096561632694268
+_cell_length_c       7.137093524927739
+_cell_angle_alpha    109.32057416945108
+_cell_angle_beta     89.99917319565998
+_cell_angle_gamma    90.00082265083856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5134727205940587  0.033356461927681755  0.8429641883069808  1.0000
+  Sm  Sm2       1.0  0.013309989218207322  0.023504652807838707  0.3140656732859923  1.0000
+  Sm  Sm3       1.0  0.013488959989490639  0.5433973902541617  0.8462611033580326  1.0000
+  Sm  Sm4       1.0  0.5136735533198072  0.5337752712548739  0.3178528426128109  1.0000
+  P   P1        1.0  0.013516936591288834  0.283738778758578  0.08015708593277744  1.0000
+  P   P2        1.0  0.5135512553135836  0.7834058120461642  0.08027370706323726  1.0000
+  Se  Se1       1.0  0.5132846263961973  0.2834035549964428  0.5800277967418493  1.0000
+  S   S1        1.0  0.013643860883097207  0.7834363392404549  0.580482268935736  1.0000

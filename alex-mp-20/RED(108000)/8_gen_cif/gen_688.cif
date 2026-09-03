@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeAu2Cd
+_chemical_formula_sum              "Fe1 Au2 Cd1"
+_cell_length_a       4.148485107407996
+_cell_length_b       4.156476273666772
+_cell_length_c       4.098876476287842
+_cell_angle_alpha    89.966049633951
+_cell_angle_beta     89.88076106175565
+_cell_angle_gamma    89.94460966991667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9821110367774963  0.8555209040641786  0.11333274841308594  1.0000
+  Au  Au1       1.0  0.9816815853118896  0.3564527928829193  0.6134554147720337  1.0000
+  Au  Au2       1.0  0.4817827939987182  0.8559642434120178  0.6134592890739441  1.0000
+  Cd  Cd1       1.0  0.4818458259105682  0.3557215034961701  0.11349817365407944  1.0000

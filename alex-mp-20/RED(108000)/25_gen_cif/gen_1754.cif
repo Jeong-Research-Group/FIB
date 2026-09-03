@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2ScAlSc2
+_chemical_formula_sum              "Li2 Sc3 Al1"
+_cell_length_a       4.829374386938049
+_cell_length_b       4.833158645613754
+_cell_length_c       5.976157188415527
+_cell_angle_alpha    89.8881308340473
+_cell_angle_beta     90.01000190171601
+_cell_angle_gamma    120.01421147206561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.873131513595581  0.15816564857959747  0.6233096122741699  1.0000
+  Li  Li2       1.0  0.20635972917079926  0.8242692351341248  0.976000964641571  1.0000
+  Sc  Sc1       1.0  0.5399899482727051  0.4912483990192414  0.7987634539604187  1.0000
+  Al  Al1       1.0  0.540130078792572  0.4907494783401489  0.2991952896118164  1.0000
+  Sc  Sc2       1.0  0.2065514177083969  0.8245318531990051  0.467097669839859  1.0000
+  Sc  Sc3       1.0  0.8731788396835327  0.15749479830265045  0.13239067792892456  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Nd2InIr2
+_chemical_formula_sum              "Nd2 In1 Ir2"
+_cell_length_a       4.188894274294117
+_cell_length_b       4.025928774725812
+_cell_length_c       7.5117530400543995
+_cell_angle_alpha    105.53678755440164
+_cell_angle_beta     89.99632555264533
+_cell_angle_gamma    90.00294141454742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.12075975993734761  0.10667974510798177  0.39817135036790907  1.0000
+  Nd  Nd2       1.0  0.12091413162101702  0.3812519949354754  0.9461858037104762  1.0000
+  In  In1       1.0  0.6207897138467727  0.7435303807129456  0.6721797706521992  1.0000
+  Ir  Ir1       1.0  0.6208610298611676  0.550787554857662  0.2858966874186448  1.0000
+  Ir  Ir2       1.0  0.6209243738529336  0.9375310155904284  0.058511977685015135  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Ta2Ir2
+_chemical_formula_sum              "Zr2 Ta2 Ir2"
+_cell_length_a       3.2858901395718436
+_cell_length_b       4.464236117592937
+_cell_length_c       7.727544115048932
+_cell_angle_alpha    89.99107700711909
+_cell_angle_beta     89.99669419650226
+_cell_angle_gamma    89.99963040625545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6058501193499218  0.6006347625764479  0.19552493867494308  1.0000
+  Zr  Zr2       1.0  0.1057974127467706  0.10013174998488553  0.9037671622286864  1.0000
+  Ta  Ta1       1.0  0.6057342908583504  0.10032457922159009  0.5444287855562439  1.0000
+  Ta  Ta2       1.0  0.10572311928696732  0.6003628265700021  0.5543415998722766  1.0000
+  Ir  Ir1       1.0  0.6057300717323671  0.5998504579153218  0.8288125406426204  1.0000
+  Ir  Ir2       1.0  0.10585695492100784  0.10059894833198874  0.2698880215114754  1.0000

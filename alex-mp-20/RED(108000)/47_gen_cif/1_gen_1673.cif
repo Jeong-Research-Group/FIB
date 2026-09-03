@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2CuH4Rh
+_chemical_formula_sum              "Fe2 Cu1 H4 Rh1"
+_cell_length_a       2.7728035450580064
+_cell_length_b       3.7599325426518275
+_cell_length_c       5.705938828759299
+_cell_angle_alpha    89.98567196517459
+_cell_angle_beta     90.00551749174815
+_cell_angle_gamma    90.00572075473461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7441254074612154  0.7456925062478534  0.6898393078979471  1.0000
+  Fe  Fe2       1.0  0.24408814753300753  0.24573243960648355  0.9075241584268385  1.0000
+  Cu  Cu1       1.0  0.2443516463665143  0.2458707049882355  0.4327147108498695  1.0000
+  H   H1        1.0  0.24399840806480425  0.7457009282195379  0.9279418377998482  1.0000
+  H   H2        1.0  0.7442151908145701  0.24570917074128015  0.14187243952048548  1.0000
+  H   H3        1.0  0.24436618288542886  0.7459551600209722  0.4232346148415242  1.0000
+  H   H4        1.0  0.743968704417132  0.2455891581063369  0.7149838119809356  1.0000
+  Rh  Rh1       1.0  0.7442521533292837  0.7457751178190918  0.18698918997934064  1.0000

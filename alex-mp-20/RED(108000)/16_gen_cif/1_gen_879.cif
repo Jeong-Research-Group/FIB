@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2Si2Pt2
+_chemical_formula_sum              "Ba2 Si2 Pt2"
+_cell_length_a       4.321773275522597
+_cell_length_b       4.327809389115789
+_cell_length_c       9.571005527297226
+_cell_angle_alpha    89.92728390856489
+_cell_angle_beta     90.06964962230748
+_cell_angle_gamma    90.00023655800585
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.03498184901355137  0.7468198397611685  0.5317577109373489  1.0000
+  Ba  Ba2       1.0  0.5345728646669813  0.24749895391863141  0.9542037088111005  1.0000
+  Si  Si1       1.0  0.5352209759077244  0.24701258118408198  0.3682540640263538  1.0000
+  Si  Si2       1.0  0.03415935093995279  0.7479462930142244  0.11762938109233456  1.0000
+  Pt  Pt1       1.0  0.5346844899854969  0.7473802886744948  0.24368538492898958  1.0000
+  Pt  Pt2       1.0  0.03467819259437973  0.24729812818855804  0.242399114802774  1.0000

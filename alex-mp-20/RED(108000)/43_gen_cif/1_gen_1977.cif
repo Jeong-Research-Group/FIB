@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn3SbPb2
+_chemical_formula_sum              "Zn3 Sb1 Pb2"
+_cell_length_a       4.197652462450951
+_cell_length_b       4.42107767808512
+_cell_length_c       8.103353751934254
+_cell_angle_alpha    90.03406998947327
+_cell_angle_beta     88.29798805528513
+_cell_angle_gamma    90.00994563042234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9528678506418382  0.5846131295799836  0.5789796637701328  1.0000
+  Zn  Zn2       1.0  0.9043363896533309  0.5853921489612984  0.8910969102997429  1.0000
+  Zn  Zn3       1.0  0.890959850402778  0.08554600494797876  0.05682589987779051  1.0000
+  Sb  Sb1       1.0  0.8801037260309468  0.0841482232189952  0.39428471445161367  1.0000
+  Pb  Pb1       1.0  0.38609430632116803  0.5852338453950882  0.18793109262519553  1.0000
+  Pb  Pb2       1.0  0.40363210827395896  0.0849631353309753  0.7600104501671627  1.0000

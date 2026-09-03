@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeZn2LiTe
+_chemical_formula_sum              "Te2 Zn2 Li1"
+_cell_length_a       4.361033902759658
+_cell_length_b       4.353950149221796
+_cell_length_c       8.626800537109375
+_cell_angle_alpha    90.2011379088593
+_cell_angle_beta     89.96238182450398
+_cell_angle_gamma    120.02007060017448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.4426190257072449  0.5651554465293884  0.20709317922592163  1.0000
+  Zn  Zn1       1.0  0.10929412394762032  0.8975242376327514  0.7756444215774536  1.0000
+  Zn  Zn2       1.0  0.10854057222604753  0.8990349173545837  0.10052227973937988  1.0000
+  Li  Li1       1.0  0.7761939167976379  0.23140469193458557  0.9884936809539795  1.0000
+  Te  Te2       1.0  0.7757870554924011  0.23065090179443357  0.6727850437164307  1.0000

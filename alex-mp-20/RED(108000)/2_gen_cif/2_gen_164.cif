@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2GaAu3
+_chemical_formula_sum              "Mg2 Ga1 Au3"
+_cell_length_a       3.4861787945842506
+_cell_length_b       4.544949749490476
+_cell_length_c       7.116543484052263
+_cell_angle_alpha    107.56299669394348
+_cell_angle_beta     90.00665060116332
+_cell_angle_gamma    89.97913426728259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.06600706694872512  0.16959399626295307  0.26779260799626464  1.0000
+  Mg  Mg2       1.0  0.06616345030628151  0.8184590608710387  0.5990480439326317  1.0000
+  Ga  Ga1       1.0  0.06720074628798241  0.46413399872222033  0.9324422815878061  1.0000
+  Au  Au1       1.0  0.5665392576795717  0.9625870797304779  0.9328700688241947  1.0000
+  Au  Au2       1.0  0.5661426564983886  0.3188713318458515  0.6005586179031946  1.0000
+  Au  Au3       1.0  0.5659099734347328  0.6686468913277912  0.2667667737309361  1.0000

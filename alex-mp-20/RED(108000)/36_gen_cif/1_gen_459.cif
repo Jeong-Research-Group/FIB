@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2CoPt
+_chemical_formula_sum              "Sc2 Co1 Pt1"
+_cell_length_a       3.3044728071284215
+_cell_length_b       4.517665252149033
+_cell_length_c       4.5162154974143505
+_cell_angle_alpha    90.0928589493555
+_cell_angle_beta     90.00991445557503
+_cell_angle_gamma    90.00164191724234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.05143495121595807  0.24166809085661034  0.9264374308603055  1.0000
+  Sc  Sc2       1.0  0.05260718053419653  0.7417256942981727  0.42665442286908084  1.0000
+  Co  Co1       1.0  0.5520962329410138  0.24185436795025414  0.4263497732754427  1.0000
+  Pt  Pt1       1.0  0.5519808282524635  0.7415792420597127  0.9268763325308605  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2MgPrN
+_chemical_formula_sum              "Pr3 Mg1 N1"
+_cell_length_a       5.125456958359653
+_cell_length_b       5.119857799631909
+_cell_length_c       5.121687889099121
+_cell_angle_alpha    90.00384790117444
+_cell_angle_beta     90.01378582665609
+_cell_angle_gamma    89.99985224033058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.31551140546798706  0.6840778589248657  0.7056331634521484  1.0000
+  Pr  Pr2       1.0  0.8155016899108887  0.6840264797210693  0.20534665882587433  1.0000
+  Mg  Mg1       1.0  0.3152713477611542  0.18417514860630035  0.2057931274175644  1.0000
+  Pr  Pr3       1.0  0.8155443668365479  0.18368849158287048  0.7056171894073486  1.0000
+  N   N1        1.0  0.8152576684951782  0.6845188736915588  0.7055808901786804  1.0000

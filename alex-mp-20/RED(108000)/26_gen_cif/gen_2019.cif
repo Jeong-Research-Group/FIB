@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuHf2Cu2Mg
+_chemical_formula_sum              "Cu3 Hf2 Mg1"
+_cell_length_a       4.5287957806625645
+_cell_length_b       4.527215636578423
+_cell_length_c       5.576655387878418
+_cell_angle_alpha    89.96971061455623
+_cell_angle_beta     89.99055635338932
+_cell_angle_gamma    59.99794082514903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3850007951259613  0.1644614636898041  0.720528244972229  1.0000
+  Hf  Hf1       1.0  0.38524764776229853  0.16483576595783234  0.2222859263420105  1.0000
+  Hf  Hf2       1.0  0.05188520252704622  0.8312267065048218  0.8742052316665649  1.0000
+  Cu  Cu2       1.0  0.051994018256664214  0.8314932584762574  0.37716880440711975  1.0000
+  Cu  Cu3       1.0  0.718441605567932  0.4981299042701721  0.04509086161851883  1.0000
+  Mg  Mg1       1.0  0.7185364961624146  0.49798759818077093  0.5467839241027832  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2SiRh
+_chemical_formula_sum              "Fe2 Si1 Rh1"
+_cell_length_a       3.5517155680358408
+_cell_length_b       3.5621280283104015
+_cell_length_c       3.9631721595276317
+_cell_angle_alpha    89.98612013801441
+_cell_angle_beta     89.93858507970086
+_cell_angle_gamma    89.99642953986594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3022146097455823  0.7483373471437469  0.8880027013858431  1.0000
+  Fe  Fe2       1.0  0.8022606643757104  0.24809258009298238  0.8880430284662889  1.0000
+  Si  Si1       1.0  0.30213732192012593  0.24796900283945406  0.38828424205896755  1.0000
+  Rh  Rh1       1.0  0.8021812246462211  0.7482485554381185  0.38808840809078343  1.0000

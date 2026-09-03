@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Nd2RuPbN
+_chemical_formula_sum              "Nd2 Ru1 Pb1 N1"
+_cell_length_a       3.922164557287971
+_cell_length_b       5.2922953071004235
+_cell_length_c       5.293414039254053
+_cell_angle_alpha    89.98137424630697
+_cell_angle_beta     90.00450033380993
+_cell_angle_gamma    90.01217643220029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.8255810362767966  0.977128943053065  0.7954908387963859  1.0000
+  Nd  Nd2       1.0  0.8257569334353663  0.47735253030452074  0.2956046508821891  1.0000
+  Ru  Ru1       1.0  0.324873281950293  0.47734173314847744  0.7955458927031352  1.0000
+  Pb  Pb1       1.0  0.3260955240526721  0.9769311542632825  0.2953686201058081  1.0000
+  N   N1        1.0  0.8249049460585999  0.4770114871471423  0.7955943885138044  1.0000

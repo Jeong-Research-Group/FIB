@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li3MnNi2B2H
+_chemical_formula_sum              "Li3 Mn1 Ni2 B2 H1"
+_cell_length_a       3.620549132336462
+_cell_length_b       3.621801609985863
+_cell_length_c       7.216122092089992
+_cell_angle_alpha    89.98908834340622
+_cell_angle_beta     90.01077590094107
+_cell_angle_gamma    120.01505718433486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.426836364618462  0.9368416113749105  0.6758319922428547  1.0000
+  Li  Li2       1.0  0.7596446038012409  0.6026791177427891  0.15470435120921575  1.0000
+  Li  Li3       1.0  0.7598095072669292  0.6034491662754136  0.8153658526446536  1.0000
+  Mn  Mn1       1.0  0.42662421133845296  0.936134692423875  0.30824387457782243  1.0000
+  Ni  Ni1       1.0  0.09357590398058631  0.269606263956261  0.49391672383933166  1.0000
+  Ni  Ni2       1.0  0.09288024097623288  0.2693867927151165  0.014141383951557144  1.0000
+  B   B1        1.0  0.4262379839392404  0.9360553150408749  0.003168789011974269  1.0000
+  B   B2        1.0  0.760430367655439  0.6028445816081367  0.4817192553492141  1.0000
+  H   H1        1.0  0.09394382179269867  0.2678097068145461  0.25111847059290227  1.0000

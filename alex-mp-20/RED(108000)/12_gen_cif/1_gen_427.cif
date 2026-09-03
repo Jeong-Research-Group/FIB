@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2Si2PRu3
+_chemical_formula_sum              "Mn2 Si2 P1 Ru3"
+_cell_length_a       3.783020527187579
+_cell_length_b       3.9962557921455715
+_cell_length_c       6.858293775078359
+_cell_angle_alpha    89.99976347529699
+_cell_angle_beta     90.00050839298831
+_cell_angle_gamma    90.00100764891671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.06988680085776879  0.8168239591981147  0.8885524633598828  1.0000
+  Mn  Mn2       1.0  0.06990483862801145  0.8167949697302976  0.3550483673561855  1.0000
+  Si  Si1       1.0  0.5697732750980116  0.8169307772575493  0.12168584112620731  1.0000
+  Si  Si2       1.0  0.06971218711212204  0.3169034852148217  0.621895681506253  1.0000
+  P   P1        1.0  0.07018636834153226  0.31694474736738504  0.1216678814496843  1.0000
+  Ru  Ru1       1.0  0.5702756075961185  0.3169308995511477  0.33731309188883646  1.0000
+  Ru  Ru2       1.0  0.5702688208813016  0.31690285904005944  0.9059142021925002  1.0000
+  Ru  Ru3       1.0  0.5695788574518656  0.8169386778987399  0.6216895650643832  1.0000

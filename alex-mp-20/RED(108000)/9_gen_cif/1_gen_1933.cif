@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2TiHPb
+_chemical_formula_sum              "Zr2 Ti1 H1 Pb1"
+_cell_length_a       4.346709418636787
+_cell_length_b       4.478872567071653
+_cell_length_c       4.484640781590264
+_cell_angle_alpha    90.02008590547491
+_cell_angle_beta     89.9962196300772
+_cell_angle_gamma    90.01546682029438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8858366118036272  0.6704987223648352  0.9369935299366837  1.0000
+  Zr  Zr2       1.0  0.8856859247995229  0.170754995867559  0.43700287098117524  1.0000
+  Ti  Ti1       1.0  0.38535948956717286  0.17052039871658414  0.9371880849669908  1.0000
+  H   H1        1.0  0.88508669141448  0.17038737760910852  0.9374495340699889  1.0000
+  Pb  Pb1       1.0  0.3855326614697291  0.6704875545065173  0.4372295030352698  1.0000

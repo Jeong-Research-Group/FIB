@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pr2Fe4Co
+_chemical_formula_sum              "Pr2 Fe4 Co1"
+_cell_length_a       4.00037313761768
+_cell_length_b       5.660800705147346
+_cell_length_c       6.622086957695372
+_cell_angle_alpha    68.20274185095954
+_cell_angle_beta     72.41824553681744
+_cell_angle_gamma    69.3086059225372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.8065089957010915  0.03676640564674362  0.5689274538105351  1.0000
+  Pr  Pr2       1.0  0.07531043817236872  0.01700982819841315  0.050964743649168  1.0000
+  Fe  Fe1       1.0  0.6045837099775208  0.6230236422650254  0.3865311681162694  1.0000
+  Fe  Fe2       1.0  0.2781395022423217  0.43313055043163723  0.22914116188582934  1.0000
+  Fe  Fe3       1.0  0.44067191921824245  0.5291001018837709  0.8081723852820715  1.0000
+  Fe  Fe4       1.0  0.06553678585212691  0.4806390635995332  0.6067895497617244  1.0000
+  Co  Co1       1.0  0.8230777725151143  0.562514850017359  0.009913479133178435  1.0000

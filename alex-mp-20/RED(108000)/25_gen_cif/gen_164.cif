@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BeIrSe2IrSe2
+_chemical_formula_sum              "Be1 Ir2 Se4"
+_cell_length_a       3.901650601398417
+_cell_length_b       5.320147510861214
+_cell_length_c       6.158717632293701
+_cell_angle_alpha    90.80419581186221
+_cell_angle_beta     90.01704382658495
+_cell_angle_gamma    90.04592870017017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.04926899075508118  0.7300974130630493  0.5575926899909973  1.0000
+  Ir  Ir1       1.0  0.5498908162117004  0.728032648563385  0.05704683437943459  1.0000
+  Se  Se1       1.0  0.04976850748062134  0.514654278755188  0.232863262295723  1.0000
+  Se  Se2       1.0  0.5500200986862183  0.45926871895790106  0.7252564430236818  1.0000
+  Ir  Ir2       1.0  0.04980079084634781  0.23010319471359253  0.5579323768615723  1.0000
+  Se  Se3       1.0  0.550277829170227  0.9993250370025636  0.38887506723403936  1.0000
+  Se  Se4       1.0  0.0497235469520092  0.9446303248405457  0.8845431804656984  1.0000

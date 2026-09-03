@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnZnAsH2
+_chemical_formula_sum              "Mn1 Zn1 As1 H2"
+_cell_length_a       3.1723069588814714
+_cell_length_b       3.1730215370108326
+_cell_length_c       6.1588129631607105
+_cell_angle_alpha    89.92450920698377
+_cell_angle_beta     90.05955253254649
+_cell_angle_gamma    120.03273323601732
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7098612133755076  0.5953814766105426  0.051215523227483566  1.0000
+  Zn  Zn1       1.0  0.37621269711039085  0.9272594563862803  0.41044034227698456  1.0000
+  As  As1       1.0  0.042741185606910446  0.26230779764427853  0.7933640916346397  1.0000
+  H   H1        1.0  0.7093843617673522  0.5943179165505376  0.32617620456273466  1.0000
+  H   H2        1.0  0.3765812553017812  0.9288376918913062  0.0959998754607508  1.0000

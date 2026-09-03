@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbTl2CdIn
+_chemical_formula_sum              "Rb1 Tl2 Cd1 In1"
+_cell_length_a       4.771914100299802
+_cell_length_b       4.770709155256163
+_cell_length_c       8.399802272533716
+_cell_angle_alpha    106.5391904854608
+_cell_angle_beta     106.52313911431976
+_cell_angle_gamma    90.00071877298446
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.20852813775658569  0.8352811648610566  0.07974030630671168  1.0000
+  Tl  Tl1       1.0  0.8250302781518472  0.45171917075186235  0.31162648013706745  1.0000
+  Tl  Tl2       1.0  0.5921202905698065  0.2188947501313608  0.8479211114448617  1.0000
+  Cd  Cd1       1.0  0.45906697528691676  0.5847113593702457  0.5796709712950141  1.0000
+  In  In1       1.0  0.9580118891216978  0.08594352084317011  0.5797533417326112  1.0000

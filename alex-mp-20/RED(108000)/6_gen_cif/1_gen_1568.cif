@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2GaReN
+_chemical_formula_sum              "Ti2 Ga1 Re1 N1"
+_cell_length_a       4.046529049275182
+_cell_length_b       4.110275764588034
+_cell_length_c       4.110230255063948
+_cell_angle_alpha    90.00018519731289
+_cell_angle_beta     89.99936554874607
+_cell_angle_gamma    89.99954804598737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.594369343888501  0.6385824565388011  0.6141654919348364  1.0000
+  Ti  Ti2       1.0  0.5943337002774692  0.13849534046198328  0.1139817255729777  1.0000
+  Ga  Ga1       1.0  0.09425135116948416  0.1384283479831538  0.6142908962090079  1.0000
+  Re  Re1       1.0  0.09425261577441063  0.6381659449925254  0.11369165916676739  1.0000
+  N   N1        1.0  0.5942156021932892  0.6385468450277666  0.11422777289697808  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Zr2Tl2
+_chemical_formula_sum              "Tb2 Zr2 Tl2"
+_cell_length_a       4.425323724855749
+_cell_length_b       4.426363142419687
+_cell_length_c       8.250632516166744
+_cell_angle_alpha    89.98891323666686
+_cell_angle_beta     89.99969924593177
+_cell_angle_gamma    90.00048029762794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.12861141355927516  0.6891109420204727  0.04828155112365467  1.0000
+  Tb  Tb2       1.0  0.6289009079133011  0.18907640480959065  0.7361709513856463  1.0000
+  Zr  Zr1       1.0  0.6285862801302751  0.6890904515547892  0.3921625753660705  1.0000
+  Zr  Zr2       1.0  0.12861225579513927  0.18909132657923716  0.3922260220086442  1.0000
+  Tl  Tl1       1.0  0.1288578145080252  0.6890970174285462  0.6617273702265198  1.0000
+  Tl  Tl2       1.0  0.6285569135046969  0.1890971530279654  0.12269302326081843  1.0000

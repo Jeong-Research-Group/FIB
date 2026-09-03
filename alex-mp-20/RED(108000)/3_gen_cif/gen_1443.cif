@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgCeYIrCeIr2
+_chemical_formula_sum              "Mg1 Ce2 Y1 Ir3"
+_cell_length_a       5.885102446184027
+_cell_length_b       5.968815987766549
+_cell_length_c       5.916502952575684
+_cell_angle_alpha    111.38679375251144
+_cell_angle_beta     109.31960229762562
+_cell_angle_gamma    109.60605383225844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1594183593988419  0.8792689442634584  0.38112789392471325  1.0000
+  Ce  Ce1       1.0  0.6589449644088745  0.8791136741638184  0.8810705542564392  1.0000
+  Y   Y1        1.0  0.15927278995513916  0.3784908354282379  0.8807231187820435  1.0000
+  Ir  Ir1       1.0  0.15926477313041687  0.3789672255516052  0.3804001808166504  1.0000
+  Ce  Ce2       1.0  0.6584359407424927  0.378092885017395  0.380534291267395  1.0000
+  Ir  Ir2       1.0  0.6595427989959717  0.8780937194824219  0.38022997975349426  1.0000
+  Ir  Ir3       1.0  0.15929955244064328  0.8793206810951233  0.8816628456115723  1.0000

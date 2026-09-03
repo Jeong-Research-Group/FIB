@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Ti3Fe
+_chemical_formula_sum              "Zr2 Ti3 Fe1"
+_cell_length_a       3.0683470472855014
+_cell_length_b       5.345116648728541
+_cell_length_c       7.30406442254936
+_cell_angle_alpha    109.44025361125793
+_cell_angle_beta     90.0074407265758
+_cell_angle_gamma    106.67204488121241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8691181376413543  0.2875570308698501  0.4744700325617774  1.0000
+  Zr  Zr2       1.0  0.5170492541720609  0.5830693363909056  0.8694610563939459  1.0000
+  Ti  Ti1       1.0  0.8326045749026073  0.21404060152447887  0.03352313774261876  1.0000
+  Ti  Ti2       1.0  0.19319774581005716  0.9352533925978147  0.6719438805616909  1.0000
+  Ti  Ti3       1.0  0.5538738034533517  0.6565892229704714  0.31034835412230266  1.0000
+  Fe  Fe1       1.0  0.19318242368500255  0.9352525647070845  0.171931637127321  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cs2PdSrPd
+_chemical_formula_sum              "Cs2 Pd2 Sr1"
+_cell_length_a       4.670904619102853
+_cell_length_b       5.715851823500989
+_cell_length_c       10.767807960510254
+_cell_angle_alpha    95.1205682772416
+_cell_angle_beta     89.55611531641094
+_cell_angle_gamma    65.63454664463475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.6166926622390747  0.11136952042579651  0.9338135719299315  1.0000
+  Cs  Cs2       1.0  0.9536347985267639  0.4340923726558685  0.5075188279151917  1.0000
+  Pd  Pd1       1.0  0.5718442797660828  0.19856128096580503  0.26609018445014954  1.0000
+  Sr  Sr1       1.0  0.2835009098052979  0.7757325768470763  0.2212355136871338  1.0000
+  Pd  Pd2       1.0  0.9967427253723145  0.3523424565792084  0.17321725189685822  1.0000

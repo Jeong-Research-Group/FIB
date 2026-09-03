@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PFeVFeP
+_chemical_formula_sum              "P2 Fe2 V1"
+_cell_length_a       3.6829761534601717
+_cell_length_b       3.6889412687973047
+_cell_length_c       5.169186592102051
+_cell_angle_alpha    110.83721412504127
+_cell_angle_beta     110.8313418226419
+_cell_angle_gamma    90.06456881854238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.7634692192077637  0.002036912366747856  0.602415144443512  1.0000
+  Fe  Fe1       1.0  0.390625  0.12946921586990356  0.8579366207122803  1.0000
+  V   V1        1.0  0.14108715951442719  0.37915685772895813  0.3590187430381775  1.0000
+  Fe  Fe2       1.0  0.890305757522583  0.6288740038871765  0.8571467399597168  1.0000
+  P   P2        1.0  0.5180816650390625  0.7561133503913878  0.11275848746299744  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mn2CoAuN
+_chemical_formula_sum              "Mn2 Co1 Au1 N1"
+_cell_length_a       3.765987967093861
+_cell_length_b       4.054013875114938
+_cell_length_c       4.053986072588252
+_cell_angle_alpha    89.99998403456743
+_cell_angle_beta     90.0000067669834
+_cell_angle_gamma    90.00083504509934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9078612282479472  0.1854248895752116  0.9961527278275897  1.0000
+  Mn  Mn2       1.0  0.9078638381707059  0.6855045804839778  0.49624670032846957  1.0000
+  Co  Co1       1.0  0.40802022780921404  0.18525963101422943  0.49625380239868305  1.0000
+  Au  Au1       1.0  0.4078399766634405  0.6855032597757204  0.9961850689180275  1.0000
+  N   N1        1.0  0.9080370960073575  0.18555315306869516  0.4961458233857944  1.0000

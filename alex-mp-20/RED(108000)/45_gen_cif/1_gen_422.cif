@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2Hg2Se2
+_chemical_formula_sum              "Zn2 Hg2 Se2"
+_cell_length_a       4.075687965071141
+_cell_length_b       6.582899416690512
+_cell_length_c       7.061275944774606
+_cell_angle_alpha    90.06568551481713
+_cell_angle_beta     89.98458344035176
+_cell_angle_gamma    89.93498383457163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6361360626809592  0.6129754299182059  0.3474534443912985  1.0000
+  Zn  Zn2       1.0  0.13603334636286907  0.6152755916934246  0.8480569138642525  1.0000
+  Hg  Hg1       1.0  0.13528042682168007  0.20676970601392722  0.18205772398501094  1.0000
+  Hg  Hg2       1.0  0.635448483325817  0.20608115436557733  0.6807504118086701  1.0000
+  Se  Se1       1.0  0.13592595573558952  0.6850924923121038  0.5144471159887009  1.0000
+  Se  Se2       1.0  0.6358312522331228  0.6882565767754568  0.014665618839225594  1.0000

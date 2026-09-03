@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2Dy2CNO2
+_chemical_formula_sum              "Sm2 Dy2 C1 N1 O2"
+_cell_length_a       3.5251401456431295
+_cell_length_b       6.113464422272569
+_cell_length_c       6.152540599812804
+_cell_angle_alpha    109.3552086538402
+_cell_angle_beta     90.00232481702032
+_cell_angle_gamma    90.00034611136756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.33557791550104515  0.36327294517083014  0.5535035847144961  1.0000
+  Sm  Sm2       1.0  0.8355321253568945  0.8630120531865375  0.5550141927826654  1.0000
+  Dy  Dy1       1.0  0.8357526751008233  0.3579075126847638  0.03433269009282195  1.0000
+  Dy  Dy2       1.0  0.3356813965775219  0.8570335541273878  0.03564652478989043  1.0000
+  C   C1        1.0  0.8356569552713771  0.6121078875470997  0.8007639980687462  1.0000
+  N   N1        1.0  0.3356322801037952  0.11326708565119176  0.8032097559585113  1.0000
+  O   O1        1.0  0.3354524390487054  0.6050299055131709  0.2817055007570463  1.0000
+  O   O2        1.0  0.8357270334815471  0.1059785285952392  0.2783114767098449  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2GaPbAu2
+_chemical_formula_sum              "Cs2 Ga1 Pb1 Au2"
+_cell_length_a       4.473233888936571
+_cell_length_b       7.32581503178333
+_cell_length_c       6.891724256585105
+_cell_angle_alpha    91.0367637779403
+_cell_angle_beta     90.02062228950906
+_cell_angle_gamma    72.22520902001432
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.4703678127600017  0.720413600920345  0.9034636019777558  1.0000
+  Cs  Cs2       1.0  0.045268282200330565  0.5707045528628338  0.4039455776041046  1.0000
+  Ga  Ga1       1.0  0.7576674926170963  0.1455938544742975  0.6539838333142642  1.0000
+  Pb  Pb1       1.0  0.7580503623253252  0.14542312350143774  0.15406762362673773  1.0000
+  Au  Au1       1.0  0.30179744208713594  0.05715079438218603  0.45574425200424473  1.0000
+  Au  Au2       1.0  0.21350245275024402  0.23430336610949828  0.8518450825401834  1.0000

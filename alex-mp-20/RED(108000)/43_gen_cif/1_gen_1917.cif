@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdHPt2Au
+_chemical_formula_sum              "Cd1 H1 Pt2 Au1"
+_cell_length_a       4.097088131452801
+_cell_length_b       4.097970527450436
+_cell_length_c       4.2878225273564325
+_cell_angle_alpha    90.01752234675615
+_cell_angle_beta     90.03844249476508
+_cell_angle_gamma    90.0189843309673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7098681988438137  0.9006557765177151  0.38163307140608704  1.0000
+  H   H1        1.0  0.21014553427311233  0.4005784804748651  0.8807442177316804  1.0000
+  Pt  Pt1       1.0  0.71013565245524  0.4009933776599329  0.8819113405994814  1.0000
+  Pt  Pt2       1.0  0.21042211573060152  0.9008141766149489  0.8812020813489995  1.0000
+  Au  Au1       1.0  0.2097550093843183  0.40043606195944914  0.3813172160416531  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga2Fe2B2Pt2
+_chemical_formula_sum              "Ga2 Fe2 B2 Pt2"
+_cell_length_a       3.077187560160906
+_cell_length_b       4.3180222279830165
+_cell_length_c       7.404907265365952
+_cell_angle_alpha    97.26376087549419
+_cell_angle_beta     90.05539000649647
+_cell_angle_gamma    90.02479317908953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3543815556017768  0.7429119041493112  0.13147569786312627  1.0000
+  Ga  Ga2       1.0  0.8542326034335188  0.213927731957873  0.015243649364122421  1.0000
+  Fe  Fe1       1.0  0.8540487640122271  0.823565242579901  0.46876818231182776  1.0000
+  Fe  Fe2       1.0  0.3541919766556158  0.1340144925967793  0.6777267256427694  1.0000
+  B   B1        1.0  0.8541724505387028  0.3612638638710753  0.5488752100734731  1.0000
+  B   B2        1.0  0.35412090242968863  0.5967151290752162  0.5981005616039285  1.0000
+  Pt  Pt1       1.0  0.8542418764803722  0.6763435948992648  0.8366212604861252  1.0000
+  Pt  Pt2       1.0  0.3540858791242454  0.28080644473630295  0.310142087352686  1.0000

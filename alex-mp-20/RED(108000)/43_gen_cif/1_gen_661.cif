@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2TlHg3
+_chemical_formula_sum              "Mg2 Tl1 Hg3"
+_cell_length_a       3.8530809142830496
+_cell_length_b       3.850607892588032
+_cell_length_c       10.189528770403836
+_cell_angle_alpha    90.0050121045802
+_cell_angle_beta     89.99672430587566
+_cell_angle_gamma    89.99943508082475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8103501783789269  0.021207594632260608  0.7298393913452643  1.0000
+  Mg  Mg2       1.0  0.310280432978514  0.5213359468568165  0.9082359740499227  1.0000
+  Tl  Tl1       1.0  0.31017882040428124  0.5216097389183858  0.233054081297301  1.0000
+  Hg  Hg1       1.0  0.31033731844657164  0.5212625628559392  0.6096899952549969  1.0000
+  Hg  Hg2       1.0  0.8102026720376663  0.021604654148577013  0.4295862776545512  1.0000
+  Hg  Hg3       1.0  0.8102449876895066  0.02141283513539327  0.026230302859811677  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2Ag2Hg2
+_chemical_formula_sum              "Cu2 Ag2 Hg2"
+_cell_length_a       3.0231458842009094
+_cell_length_b       3.0232757650358635
+_cell_length_c       12.299599603960242
+_cell_angle_alpha    97.05182734609933
+_cell_angle_beta     97.00814266569975
+_cell_angle_gamma    89.99362535411551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5926976566651255  0.2711836677211846  0.3198246343608453  1.0000
+  Cu  Cu2       1.0  0.14459354868684327  0.8233944841208246  0.42437619519614805  1.0000
+  Ag  Ag1       1.0  0.02419004504790377  0.7022160024613463  0.18165046545672328  1.0000
+  Ag  Ag2       1.0  0.7129213482987691  0.39244483087578563  0.5624835798338869  1.0000
+  Hg  Hg1       1.0  0.30643070791186927  0.985674637356263  0.74906648488116  1.0000
+  Hg  Hg2       1.0  0.4303432228444931  0.10890030822163271  0.9947745712036999  1.0000

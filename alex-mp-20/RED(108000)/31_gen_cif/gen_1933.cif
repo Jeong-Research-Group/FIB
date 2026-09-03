@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtZn2InPtIn
+_chemical_formula_sum              "Pt2 Zn2 In2"
+_cell_length_a       4.262513655127269
+_cell_length_b       4.260530938015282
+_cell_length_c       7.922834396362305
+_cell_angle_alpha    90.03812179076834
+_cell_angle_beta     90.02759646827299
+_cell_angle_gamma    119.93368528152178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.26210930943489075  0.5006877779960632  0.5276859998703003  1.0000
+  Zn  Zn1       1.0  0.5953269600868225  0.16747553646564484  0.3933873176574707  1.0000
+  Zn  Zn2       1.0  0.2615245282649994  0.5008934140205383  0.8575969338417053  1.0000
+  In  In1       1.0  0.9295557141304016  0.8346590399742126  0.6628150939941406  1.0000
+  Pt  Pt2       1.0  0.2625584602355957  0.5008113980293274  0.1886949986219406  1.0000
+  In  In2       1.0  0.5955676436424255  0.16784963011741638  0.040552981197834015  1.0000

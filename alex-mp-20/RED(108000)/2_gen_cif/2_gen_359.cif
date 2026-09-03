@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Co3HIr
+_chemical_formula_sum              "Co3 H1 Ir1"
+_cell_length_a       3.6615265231898673
+_cell_length_b       3.662218493927691
+_cell_length_c       3.664970874786377
+_cell_angle_alpha    90.05728729925036
+_cell_angle_beta     90.03780077425371
+_cell_angle_gamma    89.98498974871622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.36810776632909487  0.1359380186264328  0.6566206213934195  1.0000
+  Co  Co2       1.0  0.86825513727159  0.1358276155424618  0.1569271835549505  1.0000
+  Co  Co3       1.0  0.8683996783926106  0.6365442883042113  0.6564917568799643  1.0000
+  H   H1        1.0  0.8693020942422502  0.13546201455027834  0.6560260667110251  1.0000
+  Ir  Ir1       1.0  0.3684634281471192  0.6360236992074029  0.15679541356462798  1.0000

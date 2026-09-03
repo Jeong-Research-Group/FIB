@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2Fe2H2C
+_chemical_formula_sum              "Sr2 Fe2 H2 C1"
+_cell_length_a       3.1454475754223434
+_cell_length_b       5.895199410036566
+_cell_length_c       5.907427790812941
+_cell_angle_alpha    74.6280385155973
+_cell_angle_beta     90.00003914798012
+_cell_angle_gamma    90.00008852842531
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9374115117351606  0.1962511628726688  0.9276316159841823  1.0000
+  Sr  Sr2       1.0  0.9374120575537812  0.7848237967966608  0.5190179872439572  1.0000
+  Fe  Fe1       1.0  0.4374103779773476  0.6582338182046328  0.07999480456135225  1.0000
+  Fe  Fe2       1.0  0.4374120558096241  0.3477585646127084  0.3861821690983031  1.0000
+  H   H1        1.0  0.43741623722117196  0.4304411507258694  0.6336928000168205  1.0000
+  H   H2        1.0  0.4374127912717146  0.905135900251701  0.16557617356607732  1.0000
+  C   C1        1.0  0.9374102071595796  0.4904751615044636  0.21902902802573318  1.0000

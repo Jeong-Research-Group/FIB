@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YFe2Ge2C
+_chemical_formula_sum              "Y1 Fe2 Ge2 C1"
+_cell_length_a       3.9213874198494207
+_cell_length_b       3.921692443656817
+_cell_length_c       5.40153073661138
+_cell_angle_alpha    89.99628092646302
+_cell_angle_beta     89.9990899952936
+_cell_angle_gamma    89.99929083313236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5269603211767045  0.06846014593769052  0.6700941752886513  1.0000
+  Fe  Fe1       1.0  0.02688079977221011  0.06846378812099178  0.17028271536473438  1.0000
+  Fe  Fe2       1.0  0.5268982799388084  0.5685271947145908  0.16991808658399163  1.0000
+  Ge  Ge1       1.0  0.026938475405810434  0.5683580049770698  0.4378598796803345  1.0000
+  Ge  Ge2       1.0  0.026916189031977192  0.5685636886289569  0.902141209662518  1.0000
+  C   C1        1.0  0.5268871983030788  0.06852620715515573  0.17012800249666227  1.0000

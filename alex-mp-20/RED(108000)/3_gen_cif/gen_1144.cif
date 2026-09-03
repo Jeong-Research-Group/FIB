@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeBrPtTeBrTePdTe
+_chemical_formula_sum              "Te4 Br2 Pt1 Pd1"
+_cell_length_a       4.045219595895277
+_cell_length_b       6.818593735631098
+_cell_length_c       8.512490272521973
+_cell_angle_alpha    92.72000951964365
+_cell_angle_beta     89.90621034371074
+_cell_angle_gamma    92.0404736587008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.5495148301124573  0.33394894003868103  0.4873621165752411  1.0000
+  Br  Br1       1.0  0.5796266198158264  0.9440614581108092  0.13791853189468384  1.0000
+  Pt  Pt1       1.0  0.5618006587028503  0.685496985912323  0.6320406198501587  1.0000
+  Te  Te2       1.0  0.06626354157924652  0.7824718356132507  0.4443546235561371  1.0000
+  Br  Br2       1.0  0.5718808770179749  0.059522662311792374  0.7261469960212708  1.0000
+  Te  Te3       1.0  0.5566750168800354  0.431939035654068  0.15682345628738403  1.0000
+  Pd  Pd1       1.0  0.06769787520170212  0.6820964217185974  0.13680918514728546  1.0000
+  Te  Te4       1.0  0.05738067626953125  0.5721380710601807  0.8202999830245972  1.0000

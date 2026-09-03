@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb2Cu2C
+_chemical_formula_sum              "Tb2 Cu2 C1"
+_cell_length_a       3.750793182982733
+_cell_length_b       4.975277328058245
+_cell_length_c       4.9778529354156165
+_cell_angle_alpha    89.98610150473665
+_cell_angle_beta     90.01285766933756
+_cell_angle_gamma    89.99206083924179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4074056692583587  0.8376665984596344  0.5744547568845974  1.0000
+  Tb  Tb2       1.0  0.40764713221991977  0.33778697155705395  0.0746086833356471  1.0000
+  Cu  Cu1       1.0  0.907568588720427  0.838238549709849  0.07494895741044333  1.0000
+  Cu  Cu2       1.0  0.9072544834998648  0.3380237749608602  0.5743140161798053  1.0000
+  C   C1        1.0  0.407759303474783  0.33788949185746564  0.5742490680963743  1.0000

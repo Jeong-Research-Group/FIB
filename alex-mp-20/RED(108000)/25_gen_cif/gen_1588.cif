@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OBiSCl3O
+_chemical_formula_sum              "O2 Bi1 S1 Cl3"
+_cell_length_a       4.12862823154058
+_cell_length_b       6.5109100608804
+_cell_length_c       7.482377052307129
+_cell_angle_alpha    74.86775925649334
+_cell_angle_beta     72.23239176413261
+_cell_angle_gamma    70.67467700001824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7434092760086058  0.5657129883766174  0.16096802055835727  1.0000
+  Bi  Bi1       1.0  0.5239484310150146  0.7180601954460144  0.42426151037216187  1.0000
+  S   S1        1.0  0.9336942434310913  0.5253239274024963  0.946816086769104  1.0000
+  Cl  Cl1       1.0  0.1246298253536224  0.4126386046409607  0.5201345086097717  1.0000
+  Cl  Cl2       1.0  0.9739480614662169  0.988457202911377  0.2561300396919251  1.0000
+  Cl  Cl3       1.0  0.7856742143630981  0.8695308566093444  0.7831007838249207  1.0000
+  O   O2        1.0  0.30755999684333796  0.4828820526599884  0.9218473434448242  1.0000

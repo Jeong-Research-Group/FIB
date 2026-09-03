@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2H2N2Cl2
+_chemical_formula_sum              "Sm2 H2 N2 Cl2"
+_cell_length_a       3.967808813989416
+_cell_length_b       5.0023607631594995
+_cell_length_c       8.063569749139946
+_cell_angle_alpha    90.27412295735901
+_cell_angle_beta     89.99368043212353
+_cell_angle_gamma    89.99928857912428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.3556185501820405  0.3836636912507386  0.8718948998685676  1.0000
+  Sm  Sm2       1.0  0.8561261211680747  0.8852294164999607  0.07958405479448315  1.0000
+  H   H1        1.0  0.8556715401797422  0.38656993662241873  0.17560452306780072  1.0000
+  H   H2        1.0  0.35739113009922174  0.8822181184335909  0.7760643942431544  1.0000
+  N   N1        1.0  0.8557879992752737  0.38496869206212125  0.046527745538960726  1.0000
+  N   N2        1.0  0.35573156592700844  0.8838792914719023  0.9051073128078149  1.0000
+  Cl  Cl1       1.0  0.8556357628091413  0.38444108374884645  0.6314850210060696  1.0000
+  Cl  Cl2       1.0  0.35555384093889003  0.8856777110104714  0.32000893577582545  1.0000

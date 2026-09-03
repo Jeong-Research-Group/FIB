@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AgSn2AgTe
+_chemical_formula_sum              "Ag2 Sn2 Te1"
+_cell_length_a       4.405217573506943
+_cell_length_b       4.4572409768639245
+_cell_length_c       7.850783824920654
+_cell_angle_alpha    106.44482990852767
+_cell_angle_beta     105.97983812541314
+_cell_angle_gamma    89.96070830014908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6980593800544739  0.8119317293167114  0.564276397228241  1.0000
+  Sn  Sn1       1.0  0.3519589900970459  0.9671400785446167  0.8741925954818727  1.0000
+  Sn  Sn2       1.0  0.8443933129310608  0.46040868759155273  0.8601198792457582  1.0000
+  Ag  Ag2       1.0  0.19495296478271484  0.30945730209350586  0.5584807395935059  1.0000
+  Te  Te1       1.0  0.07065991312265396  0.6854815483093262  0.3099413514137268  1.0000

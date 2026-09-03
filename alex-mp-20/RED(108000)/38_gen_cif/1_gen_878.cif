@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Pt2Se2
+_chemical_formula_sum              "Li2 Pt2 Se2"
+_cell_length_a       4.221769893132644
+_cell_length_b       4.224971608949165
+_cell_length_c       7.303347916699161
+_cell_angle_alpha    73.17876143835582
+_cell_angle_beta     73.19212740332567
+_cell_angle_gamma    59.9556177268195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4553574777840555  0.5746469552705087  0.9246529577520715  1.0000
+  Li  Li2       1.0  0.9572835859775528  0.07497590658602743  0.42081938019699977  1.0000
+  Pt  Pt1       1.0  0.5818946384562341  0.6987121744642332  0.548870821142684  1.0000
+  Pt  Pt2       1.0  0.08209796141139826  0.19945482536700876  0.046754323005068925  1.0000
+  Se  Se1       1.0  0.20758549742744614  0.32475860908043414  0.672144645176918  1.0000
+  Se  Se2       1.0  0.7076184540955187  0.8246722706209163  0.17161136159333168  1.0000

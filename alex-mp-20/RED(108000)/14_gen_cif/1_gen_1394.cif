@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyAl3Fe
+_chemical_formula_sum              "Dy1 Al3 Fe1"
+_cell_length_a       4.506840955611557
+_cell_length_b       4.506864016805626
+_cell_length_c       4.506745633722719
+_cell_angle_alpha    90.12211147107493
+_cell_angle_beta     90.04522310833052
+_cell_angle_gamma    90.00750864571475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.3049736276320727  0.6585715075553744  0.7602955115637399  1.0000
+  Al  Al1       1.0  0.8049101422131023  0.1582711718631424  0.7599274816772111  1.0000
+  Al  Al2       1.0  0.3053775514323245  0.158879908145512  0.25992971511371815  1.0000
+  Al  Al3       1.0  0.8050048935972038  0.658716013234764  0.25985920338059376  1.0000
+  Fe  Fe1       1.0  0.8054684465960431  0.15854563002598376  0.2596559210247573  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc3GaN
+_chemical_formula_sum              "Sc3 Ga1 N1"
+_cell_length_a       4.389109538957983
+_cell_length_b       4.389088572187186
+_cell_length_c       4.3891720857063525
+_cell_angle_alpha    89.98455628334915
+_cell_angle_beta     89.99752099431133
+_cell_angle_gamma    89.99701014700089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8728692867505952  0.5567588636841666  0.21924781855265613  1.0000
+  Sc  Sc2       1.0  0.8728156939084674  0.05661388466384747  0.7191813917734161  1.0000
+  Sc  Sc3       1.0  0.3728216609611848  0.056571384958522514  0.21934210666159148  1.0000
+  Ga  Ga1       1.0  0.37321766504665344  0.5562172477843429  0.7194132858593278  1.0000
+  N   N1        1.0  0.873301125715312  0.05615370505337136  0.21949354871234855  1.0000

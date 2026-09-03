@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2Al2Ge2Cl
+_chemical_formula_sum              "K2 Al2 Ge2 Cl1"
+_cell_length_a       4.208600247735529
+_cell_length_b       4.209068668153097
+_cell_length_c       12.515009051167695
+_cell_angle_alpha    90.00351338777604
+_cell_angle_beta     90.00079939339415
+_cell_angle_gamma    120.00122995408276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9452724745146276  0.5984045622618763  0.7224235245166195  1.0000
+  K   K2        1.0  0.9458433075259823  0.5989136713527958  0.03680205988576555  1.0000
+  Al  Al1       1.0  0.2788193165153044  0.2655611343274233  0.45468780908441464  1.0000
+  Al  Al2       1.0  0.612412534214991  0.9325847006231377  0.3081976433046722  1.0000
+  Ge  Ge1       1.0  0.6120772098933118  0.9321765791048704  0.5237128588116481  1.0000
+  Ge  Ge2       1.0  0.27913267499489564  0.2659405969508871  0.2392170433959943  1.0000
+  Cl  Cl1       1.0  0.27874791879169925  0.2650745072143343  0.8780372792490875  1.0000

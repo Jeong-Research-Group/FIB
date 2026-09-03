@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2BaPd2
+_chemical_formula_sum              "Mg2 Ba1 Pd2"
+_cell_length_a       4.508072985594657
+_cell_length_b       4.508619520967379
+_cell_length_c       6.736743927001953
+_cell_angle_alpha    109.50667575258808
+_cell_angle_beta     109.52283357919255
+_cell_angle_gamma    89.96186893268369
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3435225486755371  0.10613261163234712  0.6410126686096191  1.0000
+  Mg  Mg2       1.0  0.8433012366294861  0.6061257719993591  0.640961766242981  1.0000
+  Ba  Ba1       1.0  0.09330098330974579  0.3560403883457184  0.1407727152109146  1.0000
+  Pd  Pd1       1.0  0.7111388444900513  0.9737383127212523  0.37669506669044495  1.0000
+  Pd  Pd2       1.0  0.4757572114467621  0.7384117841720581  0.9051663279533386  1.0000

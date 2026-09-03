@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ge2NiLuCo
+_chemical_formula_sum              "Ge2 Ni1 Lu1 Co1"
+_cell_length_a       3.981301467282797
+_cell_length_b       3.980563275802991
+_cell_length_c       5.708219051361084
+_cell_angle_alpha    110.36236641452699
+_cell_angle_beta     110.39093098201386
+_cell_angle_gamma    90.07267567648135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.11057347059249877  0.8359178304672241  0.40177822113037115  1.0000
+  Ge  Ge2       1.0  0.8601272702217101  0.584148943424225  0.8986931443214418  1.0000
+  Ni  Ni1       1.0  0.2361955493688583  0.4597257673740387  0.65004962682724  1.0000
+  Lu  Lu1       1.0  0.48543563485145563  0.21002307534217834  0.1509215533733368  1.0000
+  Co  Co1       1.0  0.735582947731018  0.9604583978652954  0.6501580476760864  1.0000

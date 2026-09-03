@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Bi2Rh2
+_chemical_formula_sum              "La2 Bi2 Rh2"
+_cell_length_a       4.4336620698616
+_cell_length_b       5.808096646630007
+_cell_length_c       6.411238362756671
+_cell_angle_alpha    89.99252727808167
+_cell_angle_beta     90.00401833981807
+_cell_angle_gamma    112.32716936385629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5506489592197006  0.28949954082087076  0.6550166664528702  1.0000
+  La  La2       1.0  0.9540214225772501  0.10041778101899992  0.155128448837744  1.0000
+  Bi  Bi1       1.0  0.2519355613793689  0.6948545409842204  0.4051018141330939  1.0000
+  Bi  Bi2       1.0  0.2519972216639767  0.6949699393868637  0.905031532917888  1.0000
+  Rh  Rh1       1.0  0.6297501359123566  0.44928735997284297  0.15584095216725224  1.0000
+  Rh  Rh2       1.0  0.8734527065234112  0.9408055328082005  0.6540698817916044  1.0000

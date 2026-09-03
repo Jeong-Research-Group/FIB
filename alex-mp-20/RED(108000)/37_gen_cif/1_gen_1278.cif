@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KGa2BIr2
+_chemical_formula_sum              "K1 Ga2 B1 Ir2"
+_cell_length_a       4.17025282043974
+_cell_length_b       4.1706374545280775
+_cell_length_c       6.022393785894842
+_cell_angle_alpha    90.00799695702926
+_cell_angle_beta     89.99657790750224
+_cell_angle_gamma    89.99979119618044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.054131455611865525  0.30511371557299943  0.9418913453412633  1.0000
+  Ga  Ga1       1.0  0.5537680137256911  0.8053106986060715  0.7171665173851494  1.0000
+  Ga  Ga2       1.0  0.5538762787640472  0.8048317361677032  0.16677902751526083  1.0000
+  B   B1        1.0  0.05370279004815472  0.3050239477568617  0.4420745863675877  1.0000
+  Ir  Ir1       1.0  0.5538041869753009  0.3051985296792327  0.4419986397005765  1.0000
+  Ir  Ir2       1.0  0.05361604986226086  0.8050516001105306  0.4417248454462587  1.0000

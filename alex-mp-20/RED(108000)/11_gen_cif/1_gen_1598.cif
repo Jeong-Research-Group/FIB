@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2AlPd5
+_chemical_formula_sum              "Li2 Al1 Pd5"
+_cell_length_a       4.129893682637822
+_cell_length_b       5.354264242116425
+_cell_length_c       5.3542146870036476
+_cell_angle_alpha    103.14983278666523
+_cell_angle_beta     90.00348871073139
+_cell_angle_gamma    89.99491299068755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.350044563227481  0.7252013351385767  0.3821888937447754  1.0000
+  Li  Li2       1.0  0.350108836984054  0.1690388194672629  0.9367988173563675  1.0000
+  Al  Al1       1.0  0.8496878544420571  0.44731704133810307  0.6597396835769809  1.0000
+  Pd  Pd1       1.0  0.3498995643058834  0.22954390637984928  0.44130389394877534  1.0000
+  Pd  Pd2       1.0  0.34992464065499024  0.6648288423622722  0.8773632128512047  1.0000
+  Pd  Pd3       1.0  0.8500315866919713  0.9473824587331662  0.6592265567453468  1.0000
+  Pd  Pd4       1.0  0.8499635794541055  0.9471459095968494  0.1591991921356166  1.0000
+  Pd  Pd5       1.0  0.8500509889845991  0.4472259541445237  0.1598156023312549  1.0000

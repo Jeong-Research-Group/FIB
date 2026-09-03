@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cd2PO2
+_chemical_formula_sum              "Cd2 P1 O2"
+_cell_length_a       3.7942532903096335
+_cell_length_b       4.811844603190568
+_cell_length_c       7.56246641374976
+_cell_angle_alpha    120.20050134614407
+_cell_angle_beta     75.24303457630896
+_cell_angle_gamma    112.93628663590525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5378139651938619  0.17326023193480514  0.8619203636005396  1.0000
+  Cd  Cd2       1.0  0.5353482349015383  0.5413593012097697  0.2728611583939611  1.0000
+  P   P1        1.0  0.19514299141143102  0.2430595283253984  0.6234009395226733  1.0000
+  O   O1        1.0  0.3724232288923007  0.5786427427025748  0.603006350536568  1.0000
+  O   O2        1.0  0.14884916896276956  0.9257664215231229  0.41021296455139283  1.0000

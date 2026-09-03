@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl3InPd2
+_chemical_formula_sum              "Tl3 In1 Pd2"
+_cell_length_a       3.2602008686325856
+_cell_length_b       4.604501068495639
+_cell_length_c       9.808057346619634
+_cell_angle_alpha    98.28749055139251
+_cell_angle_beta     90.10796058463103
+_cell_angle_gamma    89.96341177504276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.12279711207704647  0.9489274514730529  0.7659058738021153  1.0000
+  Tl  Tl2       1.0  0.6231171371512705  0.07883084705729762  0.22405509121872078  1.0000
+  Tl  Tl3       1.0  0.12483085146652283  0.519746337667856  0.006887712201345633  1.0000
+  In  In1       1.0  0.6232350484185524  0.6521882427075396  0.4693762156220948  1.0000
+  Pd  Pd1       1.0  0.622720234638576  0.4362716738751207  0.7242028883662394  1.0000
+  Pd  Pd2       1.0  0.12360104267853635  0.15673933843434668  0.48803846354972513  1.0000

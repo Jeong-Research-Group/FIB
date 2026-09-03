@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaCd2FeO4
+_chemical_formula_sum              "Ca1 Cd2 Fe1 O4"
+_cell_length_a       5.036130774329974
+_cell_length_b       5.1311962130979465
+_cell_length_c       5.03406029872365
+_cell_angle_alpha    90.03023579749073
+_cell_angle_beta     90.03295093287076
+_cell_angle_gamma    89.98023440301176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8961235711516579  0.021201312111339757  0.7305081232832437  1.0000
+  Cd  Cd1       1.0  0.3962713282556483  0.5210806724531273  0.7302427766346804  1.0000
+  Cd  Cd2       1.0  0.8961578697900783  0.5210570156838544  0.23055804966804438  1.0000
+  Fe  Fe1       1.0  0.3960853702952466  0.020987144918208862  0.23014520008141626  1.0000
+  O   O1        1.0  0.6281252533716319  0.7861440261048838  0.4627354075418972  1.0000
+  O   O2        1.0  0.16382062655423688  0.25570340672425934  0.4626132545743958  1.0000
+  O   O3        1.0  0.16359133851057706  0.7857554411247633  0.9983366040074705  1.0000
+  O   O4        1.0  0.6281060035851028  0.2559376606627569  0.9984751323789424  1.0000

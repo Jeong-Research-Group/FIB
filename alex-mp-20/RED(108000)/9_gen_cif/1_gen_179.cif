@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg2S4Br2
+_chemical_formula_sum              "Hg2 S4 Br2"
+_cell_length_a       4.328219843528338
+_cell_length_b       8.293232003276472
+_cell_length_c       8.820690897675235
+_cell_angle_alpha    101.15763918742243
+_cell_angle_beta     90.3180335404098
+_cell_angle_gamma    115.03610062151509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6215038352183305  0.18408524376742216  0.7540043180824073  1.0000
+  Hg  Hg2       1.0  0.9821910948025899  0.7643572611562918  0.37830793686715974  1.0000
+  S   S1        1.0  0.1934366498483572  0.4262704211934  0.7752337035119226  1.0000
+  S   S2        1.0  0.3650587293983049  0.3899577777573453  0.13041682101598073  1.0000
+  S   S3        1.0  0.4155243932716213  0.5190505966679769  0.3584880886082712  1.0000
+  S   S4        1.0  0.24911708755237827  0.554375164851  0.003943281803782061  1.0000
+  Br  Br1       1.0  0.5539147765523825  0.02864527406141529  0.374692886506939  1.0000
+  Br  Br2       1.0  0.04923984749558655  0.9191927166614777  0.7573629341047142  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgPd2Li2AgPd2
+_chemical_formula_sum              "Ag2 Pd4 Li2"
+_cell_length_a       3.95423606571177
+_cell_length_b       3.9561629428225826
+_cell_length_c       7.843970775604248
+_cell_angle_alpha    90.02043843069654
+_cell_angle_beta     90.07743635030572
+_cell_angle_gamma    90.20018168170351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.42389690876007086  0.21827667951583865  0.5489885210990906  1.0000
+  Pd  Pd1       1.0  0.9240248799324037  0.2181283384561539  0.7990768551826477  1.0000
+  Pd  Pd2       1.0  0.42377120256423956  0.7180076241493226  0.29885557293891907  1.0000
+  Li  Li1       1.0  0.923356592655182  0.7179340720176697  0.5497205257415771  1.0000
+  Li  Li2       1.0  0.9240567684173585  0.7183226943016052  0.04773378372192383  1.0000
+  Ag  Ag2       1.0  0.4234021902084351  0.21864843368530276  0.049299489706754684  1.0000
+  Pd  Pd3       1.0  0.9238071441650392  0.218122735619545  0.29929235577583313  1.0000
+  Pd  Pd4       1.0  0.4239821135997773  0.7183427214622498  0.7990100383758545  1.0000

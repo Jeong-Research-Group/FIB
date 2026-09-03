@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiPtNiIn
+_chemical_formula_sum              "Ni2 Pt1 In1"
+_cell_length_a       3.9332645959806745
+_cell_length_b       3.932058622616103
+_cell_length_c       4.602070331573486
+_cell_angle_alpha    115.22098792831055
+_cell_angle_beta     115.2263017625099
+_cell_angle_gamma    90.02860768623306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.4268989264965057  0.5569332838058472  0.19444309175014496  1.0000
+  Pt  Pt1       1.0  0.17706504464149472  0.806681752204895  0.6950673460960388  1.0000
+  Ni  Ni2       1.0  0.9255868196487426  0.05659651383757591  0.19557811319828036  1.0000
+  In  In1       1.0  0.6762856841087341  0.30663302540779114  0.6963401436805725  1.0000

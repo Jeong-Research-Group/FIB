@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiSnGe2Te4
+_chemical_formula_sum              "Li1 Sn1 Ge2 Te4"
+_cell_length_a       4.269650529213291
+_cell_length_b       7.399389203119562
+_cell_length_c       7.39613397253248
+_cell_angle_alpha    109.81701469347385
+_cell_angle_beta     90.00001222937055
+_cell_angle_gamma    90.00877799314043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.865522178289357  0.556318897200489  0.7650963784222738  1.0000
+  Sn  Sn1       1.0  0.865647497059745  0.05623571734958174  0.2652318419436114  1.0000
+  Ge  Ge1       1.0  0.3656456733658692  0.056010300414212955  0.7653657252851565  1.0000
+  Ge  Ge2       1.0  0.3655753346748402  0.5559845360587559  0.26534757877957516  1.0000
+  Te  Te1       1.0  0.36551022054076154  0.31347916743017357  0.5220631012559246  1.0000
+  Te  Te2       1.0  0.36552333469003695  0.7996186532702102  0.008110305433303756  1.0000
+  Te  Te3       1.0  0.865281880278768  0.3089323381040565  0.013032817660677693  1.0000
+  Te  Te4       1.0  0.8651094897748693  0.8041342242072221  0.5176704024422725  1.0000

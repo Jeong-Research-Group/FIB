@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sb2BrTe2Br
+_chemical_formula_sum              "Sb2 Br2 Te2"
+_cell_length_a       4.293537800978613
+_cell_length_b       7.014221528393463
+_cell_length_c       7.426596641540527
+_cell_angle_alpha    89.70144127983271
+_cell_angle_beta     89.60094872693792
+_cell_angle_gamma    89.62580376483659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9396217465400696  0.21706590056419373  0.7437679171562195  1.0000
+  Sb  Sb2       1.0  0.4383193254470825  0.2067563533782959  0.24554722011089325  1.0000
+  Br  Br1       1.0  0.4338519275188446  0.4753465950489045  0.9101536273956299  1.0000
+  Te  Te1       1.0  0.43763723969459534  0.9682152271270753  0.5798006653785706  1.0000
+  Te  Te2       1.0  0.9387878179550171  0.9645962715148927  0.07850291579961777  1.0000
+  Br  Br2       1.0  0.937952995300293  0.47730654478073126  0.416675865650177  1.0000

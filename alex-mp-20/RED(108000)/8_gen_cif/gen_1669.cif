@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Eu2IrAgN
+_chemical_formula_sum              "Eu2 Ir1 Ag1 N1"
+_cell_length_a       3.8345444804582813
+_cell_length_b       5.314895631783898
+_cell_length_c       5.312529563903809
+_cell_angle_alpha    90.00153246685028
+_cell_angle_beta     89.98984601326634
+_cell_angle_gamma    90.04146175394992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.043779436498880386  0.9585422277450562  0.5675546526908875  1.0000
+  Eu  Eu2       1.0  0.043801408261060715  0.45863097906112676  0.067790687084198  1.0000
+  Ir  Ir1       1.0  0.5432152152061462  0.9585592150688171  0.06741179525852203  1.0000
+  Ag  Ag1       1.0  0.5439471006393433  0.45839187502861023  0.5676361918449402  1.0000
+  N   N1        1.0  0.043432679027318954  0.9596236348152161  0.06750088930130005  1.0000

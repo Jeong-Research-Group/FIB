@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4In2GaRh
+_chemical_formula_sum              "Tb4 In2 Ga1 Rh1"
+_cell_length_a       5.027494656473771
+_cell_length_b       5.028040404757156
+_cell_length_c       7.76413536720962
+_cell_angle_alpha    90.00547757153237
+_cell_angle_beta     90.00084530196396
+_cell_angle_gamma    90.02630404010881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.1112290870799869  0.21285782858665106  0.2607453718172652  1.0000
+  Tb  Tb2       1.0  0.6113769505252244  0.7124158019275088  0.2608838076486429  1.0000
+  Tb  Tb3       1.0  0.6115429381354959  0.7127335628533243  0.8135248629549104  1.0000
+  Tb  Tb4       1.0  0.11155805190297997  0.21252621349328218  0.813734959583245  1.0000
+  In  In1       1.0  0.11107410149018886  0.7129465606131126  0.5372510096974916  1.0000
+  In  In2       1.0  0.6114342166994252  0.21255089721894302  0.5372833453673455  1.0000
+  Ga  Ga1       1.0  0.11144430275675579  0.7127757055484975  0.037608426740319334  1.0000
+  Rh  Rh1       1.0  0.6112733871264273  0.21266873477566453  0.03691445656784951  1.0000

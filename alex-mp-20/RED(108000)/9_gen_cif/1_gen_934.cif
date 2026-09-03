@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdSn2Pb3
+_chemical_formula_sum              "Cd1 Sn2 Pb3"
+_cell_length_a       3.477548716324067
+_cell_length_b       3.4814990808805875
+_cell_length_c       15.015303866756529
+_cell_angle_alpha    89.98103498844212
+_cell_angle_beta     90.01979970867174
+_cell_angle_gamma    89.87568183170285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.14143687031526953  0.5868236536370991  0.4252227772798207  1.0000
+  Sn  Sn1       1.0  0.14184676130879117  0.5875952441976269  0.7564205241359447  1.0000
+  Sn  Sn2       1.0  0.1452549121335136  0.5895506514242598  0.09705116992723836  1.0000
+  Pb  Pb1       1.0  0.6441145431770804  0.08802444768284078  0.9275518057190729  1.0000
+  Pb  Pb2       1.0  0.6428294059726701  0.08775739657574519  0.26630319666238134  1.0000
+  Pb  Pb3       1.0  0.6414055777520709  0.0858057622253981  0.5860627315370059  1.0000

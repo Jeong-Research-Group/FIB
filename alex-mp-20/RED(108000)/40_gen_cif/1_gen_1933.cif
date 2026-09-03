@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrSn2Ge2Pb
+_chemical_formula_sum              "Pr1 Sn2 Ge2 Pb1"
+_cell_length_a       4.507094824721645
+_cell_length_b       4.505339511158076
+_cell_length_c       9.661104967947175
+_cell_angle_alpha    90.02267630989807
+_cell_angle_beta     89.95556702433618
+_cell_angle_gamma    119.96067708296866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.824095045750217  0.6886671329259236  0.5544977879711122  1.0000
+  Sn  Sn1       1.0  0.1577084678877466  0.3555486561681964  0.2661196085712473  1.0000
+  Sn  Sn2       1.0  0.4902034139593835  0.022182326071942857  0.8424650289567921  1.0000
+  Ge  Ge1       1.0  0.15692450660562884  0.3554427866920292  0.7290724250169595  1.0000
+  Ge  Ge2       1.0  0.4911196128879103  0.022130122232711373  0.38033078827680467  1.0000
+  Pb  Pb1       1.0  0.8239222241004683  0.6893394199942519  0.052845147688999866  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2GeRu
+_chemical_formula_sum              "Ta2 Ge1 Ru1"
+_cell_length_a       4.0866442937124
+_cell_length_b       3.9757353194451253
+_cell_length_c       3.978520850195243
+_cell_angle_alpha    90.0005465839592
+_cell_angle_beta     89.999413878935
+_cell_angle_gamma    90.0001634172901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8115734248419848  0.28005266772735693  0.9253624554785908  1.0000
+  Ta  Ta2       1.0  0.811560046222476  0.7801037074374082  0.425502906660069  1.0000
+  Ge  Ge1       1.0  0.31155374996367885  0.28019558965136937  0.42542055256314865  1.0000
+  Ru  Ru1       1.0  0.31162334105282513  0.7801023156578757  0.9253061757870095  1.0000

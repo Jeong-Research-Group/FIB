@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuHf2CuInHf
+_chemical_formula_sum              "Cu2 Hf3 In1"
+_cell_length_a       3.153492080155784
+_cell_length_b       3.1514833383276124
+_cell_length_c       11.232810974121094
+_cell_angle_alpha    90.05536801502015
+_cell_angle_beta     90.03484329675497
+_cell_angle_gamma    89.92627060994893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.4615452587604523  0.492578387260437  0.8352600932121277  1.0000
+  Hf  Hf1       1.0  0.9608104825019838  0.9922437667846679  0.3871701955795288  1.0000
+  Hf  Hf2       1.0  0.9619318246841432  0.992455780506134  0.98930424451828  1.0000
+  Cu  Cu2       1.0  0.46088621020317083  0.49193802475929255  0.5414010882377625  1.0000
+  In  In1       1.0  0.46127080917358404  0.49201878905296326  0.1879732757806778  1.0000
+  Hf  Hf3       1.0  0.9613571763038636  0.9923030138015746  0.6881843209266663  1.0000

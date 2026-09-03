@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RhCoPrPCo
+_chemical_formula_sum              "Rh1 Co2 Pr1 P1"
+_cell_length_a       4.435633275047682
+_cell_length_b       4.2775147591632905
+_cell_length_c       4.276240825653076
+_cell_angle_alpha    90.13696829102243
+_cell_angle_beta     90.14106639546178
+_cell_angle_gamma    90.14909187454029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.9632173776626587  0.5618627071380616  0.7725399136543274  1.0000
+  Co  Co1       1.0  0.4640006422996521  0.5620136857032777  0.2740859389305115  1.0000
+  Pr  Pr1       1.0  0.9633272886276245  0.06177328526973725  0.2725391685962677  1.0000
+  P   P1        1.0  0.46300292015075684  0.5618011355400085  0.7735356092453003  1.0000
+  Co  Co2       1.0  0.46427103877067566  0.06113741546869278  0.7723222374916077  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy3CoCu2
+_chemical_formula_sum              "Dy3 Co1 Cu2"
+_cell_length_a       3.4103801412288384
+_cell_length_b       3.410105724745517
+_cell_length_c       10.344811654210039
+_cell_angle_alpha    89.99566203063723
+_cell_angle_beta     89.96939972870523
+_cell_angle_gamma    89.99509046573112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.42256569862703147  0.6841503998044215  0.43716573615427684  1.0000
+  Dy  Dy2       1.0  0.4224785703159234  0.6839765717635795  0.7509323519891048  1.0000
+  Dy  Dy3       1.0  0.4225612014688899  0.6839604481812865  0.09406872768558727  1.0000
+  Co  Co1       1.0  0.9223128047361526  0.18417649683978393  0.5942773842354039  1.0000
+  Cu  Cu1       1.0  0.9225609628033739  0.18395232996073388  0.2619730415043926  1.0000
+  Cu  Cu2       1.0  0.9227050512699134  0.18375751564249646  0.9256442291347312  1.0000

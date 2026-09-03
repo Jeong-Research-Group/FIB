@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2NiIrRu2
+_chemical_formula_sum              "Li2 Ni1 Ir1 Ru2"
+_cell_length_a       2.597599402661438
+_cell_length_b       4.7700532996813045
+_cell_length_c       7.197252532872386
+_cell_angle_alpha    114.25186111236125
+_cell_angle_beta     100.2049492270053
+_cell_angle_gamma    89.8845324775552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.32931713153694037  0.22750463242098073  0.8570183333049384  1.0000
+  Li  Li2       1.0  0.49835660448403135  0.699228854256965  0.18976253437762727  1.0000
+  Ni  Ni1       1.0  0.8292931589479053  0.7434122068666826  0.8570274754251969  1.0000
+  Ir  Ir1       1.0  0.662582232719063  0.19183348318844798  0.5198785367390805  1.0000
+  Ru  Ru1       1.0  0.16855112557585622  0.7055571686290697  0.5315664800962776  1.0000
+  Ru  Ru2       1.0  0.9977016724769608  0.18792089317801794  0.18829182037503728  1.0000

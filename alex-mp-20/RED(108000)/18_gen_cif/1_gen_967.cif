@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Be4CoIr2Rh
+_chemical_formula_sum              "Be4 Co1 Ir2 Rh1"
+_cell_length_a       3.8999667292700564
+_cell_length_b       3.8999319849064347
+_cell_length_c       5.516841104136058
+_cell_angle_alpha    89.99886979403128
+_cell_angle_beta     89.99627332331386
+_cell_angle_gamma    89.99943114208422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.7309526362874015  0.5775065424343625  0.3528927059103877  1.0000
+  Be  Be2       1.0  0.23056661375031975  0.0780962734683747  0.35284266150717153  1.0000
+  Be  Be3       1.0  0.23089386202479262  0.07808243822640246  0.8405772434937966  1.0000
+  Be  Be4       1.0  0.730977406429189  0.577580311895789  0.84059700507129  1.0000
+  Co  Co1       1.0  0.7308693175916238  0.0777173601215289  0.5966485248036274  1.0000
+  Ir  Ir1       1.0  0.23113313667884114  0.5782087056657242  0.5968506406404727  1.0000
+  Ir  Ir2       1.0  0.7307983349602506  0.07767936868597233  0.09665929197521618  1.0000
+  Rh  Rh1       1.0  0.23084448673234612  0.5778670138428275  0.09676038823445106  1.0000

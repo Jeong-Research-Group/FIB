@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2InFeO5
+_chemical_formula_sum              "Ti2 In1 Fe1 O5"
+_cell_length_a       3.1468796246495345
+_cell_length_b       5.416577357890284
+_cell_length_c       7.089918304456074
+_cell_angle_alpha    112.15239997923537
+_cell_angle_beta     102.85890352104192
+_cell_angle_gamma    89.96431807883818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8824131704885246  0.9277241966744012  0.9576867577983598  1.0000
+  Ti  Ti2       1.0  0.3113066585878611  0.35886439986404867  0.8158114525177359  1.0000
+  In  In1       1.0  0.1056480089579623  0.509976376604051  0.3982007365421399  1.0000
+  Fe  Fe1       1.0  0.5930557220656503  0.9222806883352664  0.3773342227214115  1.0000
+  O   O1        1.0  0.4115656613490393  0.18790842575746014  0.01622106917181202  1.0000
+  O   O2        1.0  0.4200885065637609  0.7201265798357749  0.03274206618403746  1.0000
+  O   O3        1.0  0.05099049063920811  0.0908716529030502  0.2940315358386705  1.0000
+  O   O4        1.0  0.7588628473155862  0.08918371130817898  0.7108962366548178  1.0000
+  O   O5        1.0  0.7653004803212767  0.5540666463362457  0.7238997494703077  1.0000

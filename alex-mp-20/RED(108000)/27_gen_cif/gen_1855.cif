@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HTlInTlHPb
+_chemical_formula_sum              "H2 Tl2 In1 Pb1"
+_cell_length_a       3.5012988784770553
+_cell_length_b       5.25100266648631
+_cell_length_c       8.38012409210205
+_cell_angle_alpha    74.0786050704533
+_cell_angle_beta     102.73971159302683
+_cell_angle_gamma    90.59179718676847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.4393988847732544  0.7967057824134827  0.33861956000328064  1.0000
+  Tl  Tl1       1.0  0.25354865193367004  0.563017725944519  0.7746292352676392  1.0000
+  In  In1       1.0  0.9072224497795105  0.9468920230865477  0.9756650924682617  1.0000
+  Tl  Tl2       1.0  0.61021488904953  0.1772238165140152  0.5561699867248535  1.0000
+  H   H2        1.0  0.6175214648246765  0.7547147274017334  0.38747745752334595  1.0000
+  Pb  Pb1       1.0  0.9416243433952333  0.360657125711441  0.16849425435066223  1.0000

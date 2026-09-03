@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Y2GaCu
+_chemical_formula_sum              "Y2 Ga1 Cu1"
+_cell_length_a       3.4931585140654087
+_cell_length_b       3.4928533020711456
+_cell_length_c       7.153861045837402
+_cell_angle_alpha    90.08082413107289
+_cell_angle_beta     90.02782869537779
+_cell_angle_gamma    90.0015529575012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.2035021334886551  0.11716375499963762  0.3973788917064666  1.0000
+  Y   Y2        1.0  0.20320715010166168  0.11702683568000793  0.9143397212028502  1.0000
+  Ga  Ga1       1.0  0.7032784819602966  0.6171733140945435  0.6557955145835876  1.0000
+  Cu  Cu1       1.0  0.7032962441444397  0.6172152161598207  0.15599943697452545  1.0000

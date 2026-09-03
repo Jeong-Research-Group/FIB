@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2HgPb2Au
+_chemical_formula_sum              "K2 Hg1 Pb2 Au1"
+_cell_length_a       4.691860434542207
+_cell_length_b       6.923362298807355
+_cell_length_c       7.478908459987661
+_cell_angle_alpha    72.84672303448956
+_cell_angle_beta     71.71754087150585
+_cell_angle_gamma    70.20038530811802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.6202518843294067  0.06315750206407282  0.4039806388969978  1.0000
+  K   K2        1.0  0.46697557575190574  0.7321389612785174  0.04173670260732766  1.0000
+  Hg  Hg1       1.0  0.9242755289218817  0.4672544028729173  0.3925280018408145  1.0000
+  Pb  Pb1       1.0  0.23881255275527588  0.5814653540040672  0.6488085564731614  1.0000
+  Pb  Pb2       1.0  0.8384047376826415  0.21251376918860956  0.8181540329208652  1.0000
+  Au  Au1       1.0  0.17121007774690433  0.32100806975450147  0.043878727757578784  1.0000

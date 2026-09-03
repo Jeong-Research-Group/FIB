@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgLi4AuMgAu
+_chemical_formula_sum              "Mg2 Li4 Au2"
+_cell_length_a       4.513942890685523
+_cell_length_b       4.517766819633864
+_cell_length_c       8.191452026367188
+_cell_angle_alpha    90.02235771458017
+_cell_angle_beta     90.03072469510649
+_cell_angle_gamma    119.9282721720258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.18978187441825867  0.40414613485336304  0.8241653442382812  1.0000
+  Li  Li1       1.0  0.19027075171470642  0.4040868282318115  0.4869071841239929  1.0000
+  Li  Li2       1.0  0.856026828289032  0.738403856754303  0.6316733360290527  1.0000
+  Li  Li3       1.0  0.5235444903373718  0.0696948766708374  0.9867010712623596  1.0000
+  Li  Li4       1.0  0.857861578464508  0.7360303997993468  0.12995891273021698  1.0000
+  Au  Au1       1.0  0.19029888510704038  0.4028054475784301  0.16252411901950836  1.0000
+  Mg  Mg2       1.0  0.5238662958145142  0.0698109120130539  0.3252353072166443  1.0000
+  Au  Au2       1.0  0.5230937600135803  0.07136352360248566  0.6635810136795044  1.0000

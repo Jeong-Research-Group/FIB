@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PMgRuPRu
+_chemical_formula_sum              "P2 Mg1 Ru2"
+_cell_length_a       3.030870479448865
+_cell_length_b       5.200121567673305
+_cell_length_c       5.210907936096191
+_cell_angle_alpha    110.25012656425174
+_cell_angle_beta     89.9904812212287
+_cell_angle_gamma    89.84158310159894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.35588642954826355  0.9528890252113341  0.3062762022018432  1.0000
+  Mg  Mg1       1.0  0.3555786609649658  0.5842669606208801  0.6741450428962708  1.0000
+  Ru  Ru1       1.0  0.8559671640396118  0.5832903385162352  0.17468221485614777  1.0000
+  P   P2        1.0  0.35617542266845703  0.21458026766777039  0.04405634105205536  1.0000
+  Ru  Ru2       1.0  0.8560705184936523  0.08497562259435654  0.6751270294189453  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrFeCo2Fe2
+_chemical_formula_sum              "Cr1 Fe3 Co2"
+_cell_length_a       3.9793390455715265
+_cell_length_b       4.708594381265445
+_cell_length_c       4.711687088012695
+_cell_angle_alpha    130.12807026502935
+_cell_angle_beta     90.04288926544712
+_cell_angle_gamma    90.02349152240473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.3197894990444184  0.6659067869186401  0.6720774173736572  1.0000
+  Fe  Fe1       1.0  0.8198923468589784  0.49790197610855097  0.8409007787704468  1.0000
+  Co  Co1       1.0  0.8199760913848878  0.1629808396100998  0.1751774400472641  1.0000
+  Co  Co2       1.0  0.31953451037406927  0.3335707485675812  0.005012342240661383  1.0000
+  Fe  Fe2       1.0  0.8193547725677491  0.8313294053077698  0.5084272027015686  1.0000
+  Fe  Fe3       1.0  0.31948810815811163  0.9995761513710022  0.33858856558799744  1.0000

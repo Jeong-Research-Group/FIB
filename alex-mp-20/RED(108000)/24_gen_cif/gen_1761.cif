@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiOLiO3AsMg
+_chemical_formula_sum              "Li2 O4 As1 Mg1"
+_cell_length_a       4.5406979069869084
+_cell_length_b       4.550051678322824
+_cell_length_c       4.544145107269287
+_cell_angle_alpha    89.95473884002197
+_cell_angle_beta     89.97807759629049
+_cell_angle_gamma    89.93739699019895
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1946256309747696  0.7648581862449646  0.5646962523460388  1.0000
+  O   O1        1.0  0.9279676675796509  0.0017714607529342175  0.3007126748561859  1.0000
+  Li  Li2       1.0  0.1935417652130127  0.2654484212398529  0.06449359655380249  1.0000
+  O   O2        1.0  0.9278841018676758  0.5293412804603577  0.8274874687194824  1.0000
+  O   O3        1.0  0.4609684944152832  0.0006555318832397461  0.8287991881370544  1.0000
+  O   O4        1.0  0.46067315340042114  0.5293405652046204  0.3002936840057373  1.0000
+  As  As1       1.0  0.6947437524795532  0.7648676037788391  0.06410490721464157  1.0000
+  Mg  Mg1       1.0  0.6937506794929504  0.2652890980243683  0.5648451447486877  1.0000

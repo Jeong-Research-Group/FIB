@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2GaCu3
+_chemical_formula_sum              "Zr2 Ga1 Cu3"
+_cell_length_a       3.0241880522432103
+_cell_length_b       4.279546321866916
+_cell_length_c       7.458635820866904
+_cell_angle_alpha    89.99721191404115
+_cell_angle_beta     90.0034195281171
+_cell_angle_gamma    90.00001432194576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5628425271172363  0.0664652685612452  0.18317033154877654  1.0000
+  Zr  Zr2       1.0  0.5631920446931766  0.566543719061767  0.7044668921080905  1.0000
+  Ga  Ga1       1.0  0.06304526618383745  0.06652110947356817  0.5251716726543612  1.0000
+  Cu  Cu1       1.0  0.06293719421579398  0.06670764131510022  0.8609884208703177  1.0000
+  Cu  Cu2       1.0  0.06343296993857452  0.5666238005179545  0.02908000548822514  1.0000
+  Cu  Cu3       1.0  0.06291710943389285  0.5665572398334913  0.35916247512524774  1.0000

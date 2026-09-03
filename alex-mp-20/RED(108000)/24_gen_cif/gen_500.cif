@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2NiGaNiTi
+_chemical_formula_sum              "Ti3 Ni2 Ga1"
+_cell_length_a       3.7129477783455767
+_cell_length_b       3.8032258313616722
+_cell_length_c       6.255974769592285
+_cell_angle_alpha    90.01142941109326
+_cell_angle_beta     89.93598996969851
+_cell_angle_gamma    90.07077691610054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5753856301307678  0.5772675275802612  0.7700543403625488  1.0000
+  Ti  Ti2       1.0  0.07481832802295685  0.07682809978723527  0.04746474698185921  1.0000
+  Ni  Ni1       1.0  0.0751672312617302  0.07665482163429262  0.6712589859962463  1.0000
+  Ga  Ga1       1.0  0.5741700530052185  0.07745040208101274  0.4095641076564789  1.0000
+  Ni  Ni2       1.0  0.5751767158508301  0.5770075321197511  0.14671872556209564  1.0000
+  Ti  Ti3       1.0  0.0746394470334053  0.5771894454956056  0.4089321792125702  1.0000

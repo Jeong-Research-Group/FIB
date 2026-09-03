@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2Bi2Pt2
+_chemical_formula_sum              "Na2 Bi2 Pt2"
+_cell_length_a       4.781554384799504
+_cell_length_b       4.788741849807477
+_cell_length_c       6.979749920704751
+_cell_angle_alpha    90.00788325461707
+_cell_angle_beta     90.01117178203533
+_cell_angle_gamma    90.0025565293961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15860446557008  0.7275730575553989  0.5064193221207127  1.0000
+  Na  Na2       1.0  0.6582181891259287  0.22773883749437943  0.10467747318271944  1.0000
+  Bi  Bi1       1.0  0.6584501506804072  0.22740365341382057  0.5953716685003863  1.0000
+  Bi  Bi2       1.0  0.1579300411008963  0.727549791207309  0.015647309107347757  1.0000
+  Pt  Pt1       1.0  0.6578160524222313  0.7274259827304554  0.8047176972206038  1.0000
+  Pt  Pt2       1.0  0.1585028800481468  0.22747975117743333  0.8062797852794359  1.0000

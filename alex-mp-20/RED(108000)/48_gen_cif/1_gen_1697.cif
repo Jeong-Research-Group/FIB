@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga2Cu2Te4
+_chemical_formula_sum              "Ga2 Cu2 Te4"
+_cell_length_a       6.008028360327949
+_cell_length_b       6.128521861467451
+_cell_length_c       6.129175845714839
+_cell_angle_alpha    90.00250985974537
+_cell_angle_beta     89.96725218069408
+_cell_angle_gamma    89.98280019108374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.10479634048303715  0.7350350700594313  0.37442944232835124  1.0000
+  Ga  Ga2       1.0  0.10510600335314332  0.23483288271714645  0.8742556063805411  1.0000
+  Cu  Cu1       1.0  0.6052922145235753  0.2353376531249761  0.37408978963254996  1.0000
+  Cu  Cu2       1.0  0.6045753687339986  0.7352520802755389  0.8741294870910423  1.0000
+  Te  Te1       1.0  0.36776905520042547  0.4849204190438597  0.1241473512045351  1.0000
+  Te  Te2       1.0  0.842029970753063  0.4848861243168336  0.6244497045002089  1.0000
+  Te  Te3       1.0  0.36802335064927344  0.9850396879795127  0.6238056007638964  1.0000
+  Te  Te4       1.0  0.8419864260720878  0.9847743509486635  0.12406791795518508  1.0000

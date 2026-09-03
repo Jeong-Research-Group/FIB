@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2GeAu5
+_chemical_formula_sum              "Li2 Ge1 Au5"
+_cell_length_a       5.700716827667338
+_cell_length_b       5.6953406680720144
+_cell_length_c       5.700909259964413
+_cell_angle_alpha    117.4393293966527
+_cell_angle_beta     94.46580345979419
+_cell_angle_gamma    117.44019917338058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6679299488551627  0.2687011317546352  0.5010161697333863  1.0000
+  Li  Li2       1.0  0.16799912064122927  0.2686687589342228  0.9999199851681629  1.0000
+  Ge  Ge1       1.0  0.6680084864314758  0.7685169088211822  0.9998535326674538  1.0000
+  Au  Au1       1.0  0.668406637005134  0.768751452515473  0.5005037086557664  1.0000
+  Au  Au2       1.0  0.16857423054329182  0.7688887180371481  0.5002827434440462  1.0000
+  Au  Au3       1.0  0.1670269632606756  0.2680591321663672  0.4995452141202625  1.0000
+  Au  Au4       1.0  0.16749558385580243  0.7688652592356526  2.5576344948157715e-05  1.0000
+  Au  Au5       1.0  0.6682148516913604  0.2691375779444579  0.0009718504871329449  1.0000

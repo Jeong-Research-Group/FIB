@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Ge2Ru2
+_chemical_formula_sum              "Tb2 Ge2 Ru2"
+_cell_length_a       4.295072613684279
+_cell_length_b       4.294610489568584
+_cell_length_c       6.594331106398246
+_cell_angle_alpha    90.02915284049034
+_cell_angle_beta     90.00547740567347
+_cell_angle_gamma    89.99997712035336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5265226608668797  0.24949313529913303  0.6427990112254746  1.0000
+  Tb  Tb2       1.0  0.026412471040535117  0.7498655334567962  0.2614066578163938  1.0000
+  Ge  Ge1       1.0  0.5267207710478482  0.25011510871250053  0.15837130131953334  1.0000
+  Ge  Ge2       1.0  0.026435455393453933  0.7494540377282863  0.7461221050208275  1.0000
+  Ru  Ru1       1.0  0.5265459492364863  0.750092319119597  0.9520660684353238  1.0000
+  Ru  Ru2       1.0  0.02671946402400524  0.24983465121057052  0.9523141598556413  1.0000

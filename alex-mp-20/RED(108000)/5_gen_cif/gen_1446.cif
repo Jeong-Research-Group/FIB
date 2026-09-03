@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BePtCoPtBeCo
+_chemical_formula_sum              "Be2 Pt2 Co2"
+_cell_length_a       2.6905276817884354
+_cell_length_b       5.118057243801627
+_cell_length_c       5.400546073913574
+_cell_angle_alpha    105.42132564241855
+_cell_angle_beta     89.99677865519934
+_cell_angle_gamma    105.29823247210169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.0010714201489462768  0.9160829782485961  0.00471859285607934  1.0000
+  Pt  Pt1       1.0  0.35533371567726135  0.6245924234390259  0.6508112549781799  1.0000
+  Co  Co1       1.0  0.6579607725143433  0.23051951825618744  0.308198481798172  1.0000
+  Pt  Pt2       1.0  0.6513149738311768  0.2183910608291626  0.8194496035575867  1.0000
+  Be  Be2       1.0  0.005997832398861664  0.9269508719444275  0.4660235643386841  1.0000
+  Co  Co2       1.0  0.3495200574398041  0.6134703755378723  0.162922203540802  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2V2NiMo
+_chemical_formula_sum              "Mn2 V2 Ni1 Mo1"
+_cell_length_a       3.00172839775565
+_cell_length_b       3.001704289150682
+_cell_length_c       8.701287047370833
+_cell_angle_alpha    90.00311923138344
+_cell_angle_beta     90.00939073950255
+_cell_angle_gamma    90.00009268996317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9870062221123058  0.18310480969674423  0.9351931645201409  1.0000
+  Mn  Mn2       1.0  0.9853154663745495  0.18302936506536982  0.6090082919138662  1.0000
+  V   V1        1.0  0.48701682308683614  0.6829136910209377  0.0852734688174385  1.0000
+  V   V2        1.0  0.9865449232814713  0.18253419303187254  0.26196963773078163  1.0000
+  Ni  Ni1       1.0  0.4860747751234373  0.6829223232929497  0.7696903637585113  1.0000
+  Mo  Mo1       1.0  0.48581098446380183  0.6826200776147514  0.4435196987210063  1.0000

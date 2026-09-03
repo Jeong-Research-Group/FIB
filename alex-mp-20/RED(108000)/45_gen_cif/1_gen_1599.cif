@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ti2NbFe
+_chemical_formula_sum              "Ti2 Nb1 Fe1"
+_cell_length_a       3.1335232234677406
+_cell_length_b       4.415747818658035
+_cell_length_c       4.418470962865876
+_cell_angle_alpha    89.9930454602268
+_cell_angle_beta     89.99207310130222
+_cell_angle_gamma    89.9900027366672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24187292572117192  0.4640435814692983  0.4203148042159678  1.0000
+  Ti  Ti2       1.0  0.24037841729763915  0.9642676453656422  0.9203747496594791  1.0000
+  Nb  Nb1       1.0  0.7409732336041907  0.46423367199508414  0.9203903978288969  1.0000
+  Fe  Fe1       1.0  0.7411551339988696  0.9641826418418306  0.4201931216173185  1.0000

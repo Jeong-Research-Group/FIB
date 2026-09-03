@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgBa2CaH
+_chemical_formula_sum              "Mg1 Ba2 Ca1 H1"
+_cell_length_a       5.064935074233432
+_cell_length_b       5.881648495725858
+_cell_length_c       5.881357192993164
+_cell_angle_alpha    90.02196156281059
+_cell_angle_beta     90.02110778983851
+_cell_angle_gamma    90.03072469616671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6266069412231445  0.30123287439346313  0.8560392260551452  1.0000
+  Ba  Ba1       1.0  0.12767541408538818  0.30075913667678833  0.3556988537311554  1.0000
+  Ba  Ba2       1.0  0.12485727667808533  0.8008326292037963  0.8556310534477233  1.0000
+  Ca  Ca1       1.0  0.6259234547615051  0.8010878562927245  0.35579168796539307  1.0000
+  H   H1        1.0  0.12544871866703033  0.8005663156509398  0.3553246855735779  1.0000

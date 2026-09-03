@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2SrZnBi2Sb
+_chemical_formula_sum              "Na2 Sr1 Zn1 Bi2 Sb1"
+_cell_length_a       4.888490185213293
+_cell_length_b       4.923639950363393
+_cell_length_c       9.079731945226136
+_cell_angle_alpha    74.43723061170408
+_cell_angle_beta     90.00101162979304
+_cell_angle_gamma    89.99964842494572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.41042716787427  0.19745113803631173  0.13121902887788162  1.0000
+  Na  Na2       1.0  0.9104336083855407  0.7008588661979548  0.12119267619708347  1.0000
+  Sr  Sr1       1.0  0.9103031223613186  0.9808041548113957  0.5095515586617578  1.0000
+  Zn  Zn1       1.0  0.41026999870836117  0.4053042774415822  0.6565782387475474  1.0000
+  Bi  Bi1       1.0  0.9103216857857102  0.3229532034554989  0.8409414284184485  1.0000
+  Bi  Bi2       1.0  0.41032285321576273  0.8241884444642671  0.8350989189825646  1.0000
+  Sb  Sb1       1.0  0.4103970123224501  0.5750436631189846  0.35978660662128614  1.0000

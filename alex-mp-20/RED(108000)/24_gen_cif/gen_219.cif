@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ga2InHg
+_chemical_formula_sum              "Ga2 In1 Hg1"
+_cell_length_a       3.4268977948246273
+_cell_length_b       3.424945174935355
+_cell_length_c       7.87457275390625
+_cell_angle_alpha    89.98937473075681
+_cell_angle_beta     90.00765914673391
+_cell_angle_gamma    89.98059110676473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.15709646046161652  0.7938214540481566  0.6557222604751588  1.0000
+  Ga  Ga2       1.0  0.15678444504737854  0.7935181260108947  0.1475878208875656  1.0000
+  In  In1       1.0  0.6572169661521912  0.2941587567329407  0.4011375308036805  1.0000
+  Hg  Hg1       1.0  0.6568934917449951  0.2935752272605896  0.90114164352417  1.0000

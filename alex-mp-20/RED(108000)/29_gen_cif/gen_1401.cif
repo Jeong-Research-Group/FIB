@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Nb2Ge2
+_chemical_formula_sum              "Zr2 Nb2 Ge2"
+_cell_length_a       3.87041044608941
+_cell_length_b       3.8535040970842327
+_cell_length_c       7.551562309265137
+_cell_angle_alpha    90.03849745288743
+_cell_angle_beta     89.99748216455404
+_cell_angle_gamma    90.20162286984612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.12443881481885909  0.2747262418270111  0.3036216199398041  1.0000
+  Zr  Zr2       1.0  0.6243918538093567  0.7748923897743225  0.018495365977287292  1.0000
+  Nb  Nb1       1.0  0.12424419075250624  0.7756603956222534  0.6609877943992615  1.0000
+  Nb  Nb2       1.0  0.6239380836486816  0.27456021308898926  0.6613553762435913  1.0000
+  Ge  Ge1       1.0  0.6246235966682434  0.7749430537223816  0.3960619568824768  1.0000
+  Ge  Ge2       1.0  0.1246216371655464  0.27469342947006226  0.926581084728241  1.0000

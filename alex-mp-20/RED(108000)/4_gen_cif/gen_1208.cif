@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrSn2MgBr2
+_chemical_formula_sum              "Br3 Sn2 Mg1"
+_cell_length_a       3.8650677381036784
+_cell_length_b       7.426188833002254
+_cell_length_c       7.774125099182129
+_cell_angle_alpha    92.5584343187604
+_cell_angle_beta     90.24071885248564
+_cell_angle_gamma    89.94995770667013
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3878467381000519  0.0862981379032135  0.11261024326086044  1.0000
+  Sn  Sn1       1.0  0.3890005946159363  0.7804542183876038  0.3442712426185608  1.0000
+  Sn  Sn2       1.0  0.8917521238327026  0.9961309432983397  0.5797610878944397  1.0000
+  Mg  Mg1       1.0  0.889421820640564  0.26779693365097046  0.3022482097148895  1.0000
+  Br  Br2       1.0  0.39140206575393677  0.4076812267303467  0.5151952505111694  1.0000
+  Br  Br3       1.0  0.887306809425354  0.5511936545372008  0.10873027890920639  1.0000

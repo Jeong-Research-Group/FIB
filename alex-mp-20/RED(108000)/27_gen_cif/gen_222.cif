@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiCu2DyNi
+_chemical_formula_sum              "Ni2 Cu2 Dy1"
+_cell_length_a       3.8322623108735625
+_cell_length_b       3.87470035902969
+_cell_length_c       4.960437297821045
+_cell_angle_alpha    90.02991190551073
+_cell_angle_beta     90.00754986374153
+_cell_angle_gamma    90.01607393983187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9161317944526672  0.5311585068702698  0.0025362297892570496  1.0000
+  Cu  Cu1       1.0  0.4151677191257477  0.5310571193695067  0.2754210829734802  1.0000
+  Cu  Cu2       1.0  0.9150571823120117  0.03105390071868896  0.2753644287586212  1.0000
+  Dy  Dy1       1.0  0.41605907678604126  0.031067593023180958  0.775351345539093  1.0000
+  Ni  Ni2       1.0  0.9154039025306702  0.5311145186424255  0.5486649870872498  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmFe2BC
+_chemical_formula_sum              "Sm1 Fe2 B1 C1"
+_cell_length_a       3.569118212043472
+_cell_length_b       3.5692113821550793
+_cell_length_c       5.538106396311882
+_cell_angle_alpha    108.7995107074061
+_cell_angle_beta     108.81329442347662
+_cell_angle_gamma    89.99791790900534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4275755155246436  0.37408948881927384  0.9807051988047057  1.0000
+  Fe  Fe1       1.0  0.6767088364774142  0.12332193850280114  0.4793811592789921  1.0000
+  Fe  Fe2       1.0  0.17660191640919237  0.6233596124439059  0.47933067591244727  1.0000
+  B   B1        1.0  0.7645423191466025  0.711347730626988  0.6554555689304297  1.0000
+  C   C1        1.0  0.10510020717326658  0.05171965527222273  0.33597286508710666  1.0000

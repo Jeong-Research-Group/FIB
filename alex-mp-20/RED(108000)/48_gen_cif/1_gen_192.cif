@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2CdCoN
+_chemical_formula_sum              "Sr2 Cd1 Co1 N1"
+_cell_length_a       3.59911205154622
+_cell_length_b       5.560473256978555
+_cell_length_c       5.560283875728401
+_cell_angle_alpha    90.03870526625838
+_cell_angle_beta     90.03232220564011
+_cell_angle_gamma    90.0245257875534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.3405504585611392  0.5609907005962493  0.7508521419660112  1.0000
+  Sr  Sr2       1.0  0.34081854364442293  0.060398169020818814  0.251408428335381  1.0000
+  Cd  Cd1       1.0  0.8406263153024218  0.061357511601585576  0.7516691495596457  1.0000
+  Co  Co1       1.0  0.8410563283839397  0.5599143285143747  0.2507586910999683  1.0000
+  N   N1        1.0  0.3411149184683972  0.5604875069487174  0.2508380704707388  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2Co2Ge2HN
+_chemical_formula_sum              "Ce2 Co2 Ge2 H1 N1"
+_cell_length_a       3.9436518677175325
+_cell_length_b       3.9489343687524023
+_cell_length_c       8.023318602198561
+_cell_angle_alpha    90.00041151519468
+_cell_angle_beta     90.00465620459119
+_cell_angle_gamma    89.9999039129159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.5191109609779948  0.8347990953018157  0.182052099979958  1.0000
+  Ce  Ce2       1.0  0.01940471818523716  0.33495274357674704  0.5028543979856204  1.0000
+  Co  Co1       1.0  0.5193759189369125  0.3349139558013758  0.8413781568606665  1.0000
+  Co  Co2       1.0  0.01954666989872048  0.8349196562808792  0.8424753020938074  1.0000
+  Ge  Ge1       1.0  0.5195129784407777  0.8349316573001186  0.6864050439714072  1.0000
+  Ge  Ge2       1.0  0.019396098462393745  0.33491359933529513  0.9979741431771788  1.0000
+  H   H1        1.0  0.5193233713453899  0.33500154668511867  0.34212049258157895  1.0000
+  N   N1        1.0  0.019163742401100293  0.8347264613306263  0.34298532786433145  1.0000

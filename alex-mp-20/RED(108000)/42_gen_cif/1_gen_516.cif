@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Yb3PbN
+_chemical_formula_sum              "Yb3 Pb1 N1"
+_cell_length_a       4.880897590035577
+_cell_length_b       4.88049213843276
+_cell_length_c       4.879993280522409
+_cell_angle_alpha    89.99701484199979
+_cell_angle_beta     90.00213468735525
+_cell_angle_gamma    90.00324267085607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.02635689407211219  0.816350583446996  0.8841288019902799  1.0000
+  Yb  Yb2       1.0  0.5267695874250754  0.816584440800804  0.3837347232910338  1.0000
+  Yb  Yb3       1.0  0.026398732286862486  0.3165066444935851  0.38371827033776074  1.0000
+  Pb  Pb1       1.0  0.5270115286638822  0.3164468755060362  0.8840454414713715  1.0000
+  N   N1        1.0  0.026842641408957306  0.8165036429208077  0.38444281379916195  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Al2Au2
+_chemical_formula_sum              "Zr2 Al2 Au2"
+_cell_length_a       4.521705685378149
+_cell_length_b       4.521552282940105
+_cell_length_c       6.337605266109275
+_cell_angle_alpha    90.00331477840439
+_cell_angle_beta     89.99780320308957
+_cell_angle_gamma    119.99669848559809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.256648547160871  0.8318186370606268  0.7947903949017835  1.0000
+  Zr  Zr2       1.0  0.2566372407692976  0.8313542808101806  0.2944197360408833  1.0000
+  Al  Al1       1.0  0.9232222387090452  0.16459601188379167  0.04394085356067449  1.0000
+  Al  Al2       1.0  0.5895626286703481  0.4981711741738303  0.5452160018173856  1.0000
+  Au  Au1       1.0  0.9229540954470087  0.16488959401673134  0.5457028729290196  1.0000
+  Au  Au2       1.0  0.5900313718489733  0.4980257994978315  0.04413385307334166  1.0000

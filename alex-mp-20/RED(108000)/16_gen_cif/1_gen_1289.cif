@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga3RuPt2
+_chemical_formula_sum              "Ga3 Ru1 Pt2"
+_cell_length_a       3.4034388416576005
+_cell_length_b       4.151917352881792
+_cell_length_c       6.600173231949022
+_cell_angle_alpha    108.28456683975296
+_cell_angle_beta     89.99924294765401
+_cell_angle_gamma    90.00052920841362
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3481727010525581  0.2763122226270573  0.8504390071597503  1.0000
+  Ga  Ga2       1.0  0.3480033937548092  0.5987741113492059  0.49666795523041957  1.0000
+  Ga  Ga3       1.0  0.3480201579818831  0.9376043938499289  0.17344900127809884  1.0000
+  Ru  Ru1       1.0  0.8478427547302398  0.43762873366919214  0.17353903979495958  1.0000
+  Pt  Pt1       1.0  0.8480815246382188  0.10526282501869787  0.509328475886453  1.0000
+  Pt  Pt2       1.0  0.8483270990919406  0.7697528507356184  0.8376197282315916  1.0000

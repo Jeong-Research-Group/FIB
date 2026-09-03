@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4GaTe2Pb
+_chemical_formula_sum              "Pr4 Ga1 Te2 Pb1"
+_cell_length_a       4.540388355571349
+_cell_length_b       7.915028601590243
+_cell_length_c       7.7774965200495245
+_cell_angle_alpha    109.56816893899101
+_cell_angle_beta     89.99890235228587
+_cell_angle_gamma    90.00154679626718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6161747975996071  0.7135007785207809  0.3321533026050968  1.0000
+  Pr  Pr2       1.0  0.11628053543835329  0.7088036002572009  0.8175376021976577  1.0000
+  Pr  Pr3       1.0  0.1159045364886472  0.22765594263523975  0.33529455601920694  1.0000
+  Pr  Pr4       1.0  0.6162554204819672  0.22315700133151115  0.8211406061063727  1.0000
+  Ga  Ga1       1.0  0.6159203798247633  0.4680945160223974  0.5763403853535976  1.0000
+  Te  Te1       1.0  0.11606965497018999  0.46844180070934777  0.07666971604881194  1.0000
+  Te  Te2       1.0  0.6159844371701488  0.9680601135407777  0.07661985810213885  1.0000
+  Pb  Pb1       1.0  0.11624373782602436  0.9683255177486  0.5767390975625721  1.0000

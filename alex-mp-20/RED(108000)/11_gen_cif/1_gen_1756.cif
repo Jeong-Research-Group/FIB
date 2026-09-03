@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Li4TlIn
+_chemical_formula_sum              "Na2 Li4 Tl1 In1"
+_cell_length_a       5.032943471604538
+_cell_length_b       5.033370218314862
+_cell_length_c       7.843018360247103
+_cell_angle_alpha    108.7668430240261
+_cell_angle_beta     108.71542040962277
+_cell_angle_gamma    90.01421932319421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5319458791650098  0.31363222864581203  0.4188377139240537  1.0000
+  Na  Na2       1.0  0.796725160100772  0.5788485124009082  0.9492425458855299  1.0000
+  Li  Li1       1.0  0.1673910728433977  0.4487406164703444  0.6891458189081408  1.0000
+  Li  Li2       1.0  0.6676708258392118  0.9492660941110266  0.6891238792807944  1.0000
+  Li  Li3       1.0  0.9140621719610016  0.19559436615631826  0.1809487317243302  1.0000
+  Li  Li4       1.0  0.4127385916848497  0.6943077172958184  0.18151898217761286  1.0000
+  Tl  Tl1       1.0  0.04622858124027912  0.8283816661400123  0.44824209009278587  1.0000
+  In  In1       1.0  0.2861735161478637  0.0677782751594219  0.9262061286308836  1.0000

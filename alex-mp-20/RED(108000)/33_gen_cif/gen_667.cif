@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Br2InTeBr
+_chemical_formula_sum              "Br3 In1 Te1"
+_cell_length_a       5.8415735549439045
+_cell_length_b       5.975168420910055
+_cell_length_c       5.755372047424316
+_cell_angle_alpha    89.82506770717706
+_cell_angle_beta     89.43640940348102
+_cell_angle_gamma    89.96069476635984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.27558791637420654  0.34846711158752447  0.884994864463806  1.0000
+  Br  Br2       1.0  0.27244746685028076  0.8451911807060243  0.4057963490486145  1.0000
+  In  In1       1.0  0.7636111378669739  0.8364030718803406  0.6764408946037292  1.0000
+  Te  Te1       1.0  0.27361124753952026  0.3364664614200592  0.3723219335079193  1.0000
+  Br  Br3       1.0  0.7729331254959106  0.33488929271698  0.3969521820545197  1.0000

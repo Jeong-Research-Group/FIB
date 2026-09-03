@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2Ag2Sn
+_chemical_formula_sum              "Sr2 Ag2 Sn1"
+_cell_length_a       3.943450675042712
+_cell_length_b       4.776755846543964
+_cell_length_c       8.102461038327347
+_cell_angle_alpha    107.10650441237854
+_cell_angle_beta     89.96713390198191
+_cell_angle_gamma    89.97616887049274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9310573222009441  0.8416887139392037  0.8488462949600464  1.0000
+  Sr  Sr2       1.0  0.9313073727979788  0.08342530033417572  0.33150527237816074  1.0000
+  Ag  Ag1       1.0  0.43121129990659035  0.6619392268349997  0.48806634205931243  1.0000
+  Ag  Ag2       1.0  0.43113195726122355  0.26277829303650263  0.6921526092621486  1.0000
+  Sn  Sn1       1.0  0.4313824880957642  0.46234569940851183  0.09033103457069243  1.0000

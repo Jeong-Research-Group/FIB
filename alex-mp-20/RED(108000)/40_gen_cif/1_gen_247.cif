@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn5CoSiC
+_chemical_formula_sum              "Mn5 Co1 Si1 C1"
+_cell_length_a       3.826244825721735
+_cell_length_b       3.4935609063609077
+_cell_length_c       6.574211178990011
+_cell_angle_alpha    89.99927362439244
+_cell_angle_beta     89.37564980579444
+_cell_angle_gamma    89.99969002950662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7413604699145596  0.13220549102722093  0.5811428884925259  1.0000
+  Mn  Mn2       1.0  0.7468046910114454  0.6322075453315105  0.3180412208827899  1.0000
+  Mn  Mn3       1.0  0.7478759254215486  0.13221569469134756  0.08547344669431546  1.0000
+  Mn  Mn4       1.0  0.2502271829339625  0.13223257467090974  0.7873284465281633  1.0000
+  Mn  Mn5       1.0  0.2505174135960288  0.13218908476562502  0.3653739411496748  1.0000
+  Co  Co1       1.0  0.7552884960388798  0.632218223323808  0.8433234125779204  1.0000
+  Si  Si1       1.0  0.25105778673819446  0.6322157465071773  0.07281561631626879  1.0000
+  C   C1        1.0  0.9736433674109138  0.6321995499114365  0.5774603228494466  1.0000

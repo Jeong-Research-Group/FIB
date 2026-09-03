@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgHgAu2AgAu
+_chemical_formula_sum              "Ag2 Hg1 Au3"
+_cell_length_a       4.205055184466073
+_cell_length_b       4.20874263519872
+_cell_length_c       6.660782337188721
+_cell_angle_alpha    108.44599324035727
+_cell_angle_beta     90.03751390307829
+_cell_angle_gamma    90.02174982781662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.3267499804496765  0.2013630717992783  0.1793785095214844  1.0000
+  Hg  Hg1       1.0  0.32683104276657104  0.8706993460655212  0.5176370143890381  1.0000
+  Au  Au1       1.0  0.8270306587219238  0.0408991314470768  0.8567071557044984  1.0000
+  Au  Au2       1.0  0.8268062472343445  0.37071913480758667  0.516753077507019  1.0000
+  Ag  Ag2       1.0  0.3269309401512146  0.5396708250045777  0.8547065854072572  1.0000
+  Au  Au3       1.0  0.8269031047821045  0.7008054256439209  0.17748095095157626  1.0000

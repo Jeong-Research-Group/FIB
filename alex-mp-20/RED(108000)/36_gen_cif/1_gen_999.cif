@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfTa3H2
+_chemical_formula_sum              "Hf1 Ta3 H2"
+_cell_length_a       2.9701719362513628
+_cell_length_b       4.926396180756823
+_cell_length_c       5.668665305417672
+_cell_angle_alpha    89.38891266415193
+_cell_angle_beta     99.00476112370293
+_cell_angle_gamma    88.96141679355284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.1090346956012766  0.649444664165949  0.5641487927388099  1.0000
+  Ta  Ta1       1.0  0.6087094406394398  0.6488996357379189  0.06424934661016247  1.0000
+  Ta  Ta2       1.0  0.36409872222745215  0.16062241042626413  0.30130570502102394  1.0000
+  Ta  Ta3       1.0  0.8539069872938677  0.138113875587436  0.826415211563171  1.0000
+  H   H1        1.0  0.668639795145851  0.502136737803855  0.7622876856021972  1.0000
+  H   H2        1.0  0.549223837436912  0.796806076999593  0.36574436328824694  1.0000

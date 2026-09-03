@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Tl2Pb2
+_chemical_formula_sum              "Mg2 Tl2 Pb2"
+_cell_length_a       3.5482316524029374
+_cell_length_b       5.579213588205892
+_cell_length_c       8.843699058014284
+_cell_angle_alpha    101.83273942102706
+_cell_angle_beta     89.95851425151821
+_cell_angle_gamma    89.98854549145322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7423339992192668  0.8517803831184726  0.686059633324278  1.0000
+  Mg  Mg2       1.0  0.2418138485326065  0.5685153106320424  0.39007806395088956  1.0000
+  Tl  Tl1       1.0  0.7419415756538317  0.47326698171482895  0.07807140541451667  1.0000
+  Tl  Tl2       1.0  0.24241972038439305  0.950397322539922  0.9985618833166346  1.0000
+  Pb  Pb1       1.0  0.7411016947904734  0.06037636399459401  0.3692032073966886  1.0000
+  Pb  Pb2       1.0  0.24235331482140937  0.3622296142692099  0.7077831742030601  1.0000

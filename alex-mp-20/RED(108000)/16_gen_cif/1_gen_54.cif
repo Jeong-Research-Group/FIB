@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4NiSe2O
+_chemical_formula_sum              "Li4 Ni1 Se2 O1"
+_cell_length_a       4.038445483065255
+_cell_length_b       3.866947199860563
+_cell_length_c       8.132875919169894
+_cell_angle_alpha    103.74803798701988
+_cell_angle_beta     104.38076509203184
+_cell_angle_gamma    90.00136444167134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7871176683946086  0.5715211943093652  0.8328061545015747  1.0000
+  Li  Li2       1.0  0.5340809697715443  0.3182341569546691  0.3263642192288483  1.0000
+  Li  Li3       1.0  0.41729547717890014  0.7015118839015214  0.0930374474208229  1.0000
+  Li  Li4       1.0  0.6615661757609667  0.9453964810686237  0.5808508160606033  1.0000
+  Ni  Ni1       1.0  0.046344006440642745  0.8305810807445053  0.3506307376065261  1.0000
+  Se  Se1       1.0  0.9057393066526934  0.1898507795735641  0.0696811127164459  1.0000
+  Se  Se2       1.0  0.17511131641674538  0.4593250188826219  0.6084442113558931  1.0000
+  O   O1        1.0  0.5403751935947103  0.8243251783585196  0.33869196638058674  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3NbIr2
+_chemical_formula_sum              "Li3 Nb1 Ir2"
+_cell_length_a       3.1343685862426907
+_cell_length_b       3.134264159527586
+_cell_length_c       9.496393664526327
+_cell_angle_alpha    90.04590920342149
+_cell_angle_beta     90.00793364270365
+_cell_angle_gamma    90.0033789085232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9248166425098588  0.1861172003761258  0.7066129370587775  1.0000
+  Li  Li2       1.0  0.42485213339559486  0.687022177737903  0.5235961178273641  1.0000
+  Li  Li3       1.0  0.9253177381456628  0.18818843170998015  0.33991000858419634  1.0000
+  Nb  Nb1       1.0  0.924962186813787  0.18769589564951078  0.023198216558656018  1.0000
+  Ir  Ir1       1.0  0.42511166863018524  0.6878838254069832  0.1848573490961485  1.0000
+  Ir  Ir2       1.0  0.42485109877572524  0.6864815045998369  0.8615276174120922  1.0000

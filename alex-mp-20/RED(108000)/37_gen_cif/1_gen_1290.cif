@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsGe2As2
+_chemical_formula_sum              "Cs1 Ge2 As2"
+_cell_length_a       4.054004305065716
+_cell_length_b       5.311991068113931
+_cell_length_c       7.8882993442056
+_cell_angle_alpha    109.46630870429752
+_cell_angle_beta     104.81746494968318
+_cell_angle_gamma    89.99978908176786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.2298334226956804  0.12860241318354573  0.043313944948238405  1.0000
+  Ge  Ge1       1.0  0.5039843904171764  0.9045685793577213  0.5948797106380987  1.0000
+  Ge  Ge2       1.0  0.9540179051197406  0.3533026914742894  0.49171471343786677  1.0000
+  As  As1       1.0  0.5628333746115098  0.46144329996446914  0.710583809644647  1.0000
+  As  As2       1.0  0.8951351347229233  0.7958680306229421  0.3758823074091769  1.0000

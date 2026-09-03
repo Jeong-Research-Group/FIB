@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb3HAuBr
+_chemical_formula_sum              "Rb3 H1 Au1 Br1"
+_cell_length_a       5.758453159595004
+_cell_length_b       5.76140283550408
+_cell_length_c       7.190951081905369
+_cell_angle_alpha    90.01248621081268
+_cell_angle_beta     89.97220603431944
+_cell_angle_gamma    120.0242017311763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.7741597487869948  0.6650189852888615  0.5590971881570395  1.0000
+  Rb  Rb2       1.0  0.1069481855948727  0.3316697117705902  0.25034521474317495  1.0000
+  Rb  Rb3       1.0  0.44010342258261903  0.9986625372073108  0.9043429314503517  1.0000
+  H   H1        1.0  0.43987004927114043  0.9982055071191017  0.4031993127472167  1.0000
+  Au  Au1       1.0  0.1075469998950868  0.3314668165540939  0.7402109286749984  1.0000
+  Br  Br1       1.0  0.7741505543580601  0.6647276020717169  0.0717194104183259  1.0000

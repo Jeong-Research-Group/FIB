@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr3CuPrPd
+_chemical_formula_sum              "Pr4 Cu1 Pd1"
+_cell_length_a       3.703873603510423
+_cell_length_b       3.7035403230910036
+_cell_length_c       12.284436225891113
+_cell_angle_alpha    89.93835321247875
+_cell_angle_beta     89.95955412248313
+_cell_angle_gamma    89.94226007849817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.4606345593929291  0.1433262676000595  0.4613858163356781  1.0000
+  Pr  Pr2       1.0  0.9603334665298462  0.6437493562698363  0.673133373260498  1.0000
+  Pr  Pr3       1.0  0.4611223340034485  0.14430591464042664  0.17494072020053864  1.0000
+  Cu  Cu1       1.0  0.9607951045036316  0.6441418528556824  0.3229674994945526  1.0000
+  Pr  Pr4       1.0  0.4619515836238861  0.14522032439708707  0.8893538117408752  1.0000
+  Pd  Pd1       1.0  0.9612280130386353  0.6447411775588989  0.026476994156837463  1.0000

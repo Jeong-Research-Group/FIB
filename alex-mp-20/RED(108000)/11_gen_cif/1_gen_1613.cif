@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HoMgGa2Cu2
+_chemical_formula_sum              "Ho1 Mg1 Ga2 Cu2"
+_cell_length_a       4.283532584109272
+_cell_length_b       4.283579229050785
+_cell_length_c       6.605158813651557
+_cell_angle_alpha    90.00383150740915
+_cell_angle_beta     89.9965369590099
+_cell_angle_gamma    119.98856973765804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.006206542549760419  0.2512865205795153  0.13773921802906008  1.0000
+  Mg  Mg1       1.0  0.006269463161939531  0.25117294107865595  0.6376985465645487  1.0000
+  Ga  Ga1       1.0  0.6732177006094674  0.5841726879223319  0.4039662746091891  1.0000
+  Ga  Ga2       1.0  0.6730967474376458  0.5844030804917656  0.8712966590546001  1.0000
+  Cu  Cu1       1.0  0.33966253611746156  0.9177238379231564  0.43084352325634817  1.0000
+  Cu  Cu2       1.0  0.3396245212427702  0.9179666319958811  0.8450809318939099  1.0000

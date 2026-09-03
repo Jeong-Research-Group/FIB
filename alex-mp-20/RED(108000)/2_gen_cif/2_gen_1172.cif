@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsSrHgBiH
+_chemical_formula_sum              "Cs1 Sr1 Hg1 Bi1 H1"
+_cell_length_a       6.036043106308865
+_cell_length_b       4.730398167868859
+_cell_length_c       5.623570550990014
+_cell_angle_alpha    89.97871974621715
+_cell_angle_beta     90.00169316959882
+_cell_angle_gamma    90.00774315585247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.7705123552624454  0.010051945724069878  0.28927094972306266  1.0000
+  Sr  Sr1       1.0  0.2703788563484148  0.009981368563645879  0.7887246811221621  1.0000
+  Hg  Hg1       1.0  0.7705750199728115  0.5098589986232878  0.7897337671217336  1.0000
+  Bi  Bi1       1.0  0.27043308414750333  0.5102903432077218  0.288766321466418  1.0000
+  H   H1        1.0  0.7702875405290132  0.008909639447381266  0.7891753621339263  1.0000

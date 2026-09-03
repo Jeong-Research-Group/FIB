@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr2Pt2CaPt2Ca
+_chemical_formula_sum              "Zr2 Pt4 Ca2"
+_cell_length_a       4.665555465297929
+_cell_length_b       5.519368593255349
+_cell_length_c       6.993612289428711
+_cell_angle_alpha    90.8737476354477
+_cell_angle_beta     89.94835261405052
+_cell_angle_gamma    90.00344491996935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.032868944108486176  0.6640568971633911  0.04249032959342003  1.0000
+  Zr  Zr2       1.0  0.5329405069351196  0.968743324279785  0.5473865270614624  1.0000
+  Pt  Pt1       1.0  0.03292156383395195  0.9700952172279358  0.340297132730484  1.0000
+  Pt  Pt2       1.0  0.0321231447160244  0.9710168242454529  0.7532402276992798  1.0000
+  Ca  Ca1       1.0  0.03283171355724335  0.47703385353088373  0.5421497225761414  1.0000
+  Pt  Pt3       1.0  0.5339887738227844  0.6609338521957397  0.8365999460220337  1.0000
+  Pt  Pt4       1.0  0.5328740477561951  0.6616776585578918  0.25058513879776  1.0000
+  Ca  Ca2       1.0  0.532318651676178  0.1554989516735077  0.04787815362215042  1.0000

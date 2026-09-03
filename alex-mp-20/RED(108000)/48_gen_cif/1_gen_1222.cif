@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4NiSBr2
+_chemical_formula_sum              "Tb4 Ni1 S1 Br2"
+_cell_length_a       3.90365552393324
+_cell_length_b       7.062211934295586
+_cell_length_c       7.6995087034285286
+_cell_angle_alpha    107.03219937748835
+_cell_angle_beta     89.99302768998032
+_cell_angle_gamma    90.01611614648726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.7010890687448894  0.7942681240569173  0.5899864505303752  1.0000
+  Tb  Tb2       1.0  0.20152318379854592  0.8450330824637767  0.21657023190384087  1.0000
+  Tb  Tb3       1.0  0.20166954600773035  0.3205562179495669  0.6006944922943398  1.0000
+  Tb  Tb4       1.0  0.702033024231492  0.3711147894941867  0.22717307157353103  1.0000
+  Ni  Ni1       1.0  0.201500000386868  0.5828477850783713  0.40864343491466437  1.0000
+  S   S1        1.0  0.7015144926177471  0.08280108973059624  0.4087350565349843  1.0000
+  Br  Br1       1.0  0.701730915714341  0.5825173191159918  0.9084899271494685  1.0000
+  Br  Br2       1.0  0.20190366763203524  0.08253842165937272  0.9085895041321211  1.0000

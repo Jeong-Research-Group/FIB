@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl2GaSe2
+_chemical_formula_sum              "Tl2 Ga1 Se2"
+_cell_length_a       3.7865844468844316
+_cell_length_b       6.589978472371629
+_cell_length_c       6.589112515577879
+_cell_angle_alpha    68.93942574103521
+_cell_angle_beta     73.22377983478772
+_cell_angle_gamma    73.27046719811815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8428276015872763  0.9624814066761771  0.9945702171549335  1.0000
+  Tl  Tl2       1.0  0.2053555493110816  0.6081066341233495  0.6219601711988233  1.0000
+  Ga  Ga1       1.0  0.02520176801768189  0.28483057086667773  0.3089438800141495  1.0000
+  Se  Se1       1.0  0.5250502911646056  0.0354732310656312  0.5566766073929227  1.0000
+  Se  Se2       1.0  0.5242316972926818  0.5351408041842518  0.06126469513726554  1.0000

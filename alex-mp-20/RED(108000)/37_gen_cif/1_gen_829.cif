@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaTi2Nb2Mo
+_chemical_formula_sum              "Ta1 Ti2 Nb2 Mo1"
+_cell_length_a       3.2599702346776
+_cell_length_b       3.259981435399482
+_cell_length_c       9.877413986152071
+_cell_angle_alpha    90.00121594175006
+_cell_angle_beta     90.00120011883931
+_cell_angle_gamma    90.00026736568387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6896645124365524  0.9733622354310287  0.9992762177959623  1.0000
+  Ti  Ti1       1.0  0.6894561588230055  0.9737496510438306  0.33500499541036155  1.0000
+  Ti  Ti2       1.0  0.189609427568692  0.4733603894671898  0.16697401684103338  1.0000
+  Nb  Nb1       1.0  0.1892205246667428  0.47276548159151244  0.5069982481198914  1.0000
+  Nb  Nb2       1.0  0.18954624919026516  0.4730418230941901  0.8280207415656925  1.0000
+  Mo  Mo1       1.0  0.6896340439889214  0.9729810870170874  0.6641938853523244  1.0000

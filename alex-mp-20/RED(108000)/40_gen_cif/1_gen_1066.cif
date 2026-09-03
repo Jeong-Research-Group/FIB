@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdAg2HgPd2
+_chemical_formula_sum              "Cd1 Ag2 Hg1 Pd2"
+_cell_length_a       4.244970338023662
+_cell_length_b       4.958951116903192
+_cell_length_c       5.852894712945247
+_cell_angle_alpha    102.9516518132597
+_cell_angle_beta     89.91790876712756
+_cell_angle_gamma    115.27593313230007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0003775678200394507  0.4451382172370594  0.641794716602273  1.0000
+  Ag  Ag1       1.0  0.0018890421829928156  0.45133530341917005  0.1515385274251678  1.0000
+  Ag  Ag2       1.0  0.3353763668799503  0.1165887199409763  0.3214558770262933  1.0000
+  Hg  Hg1       1.0  0.6695516653252074  0.7878654103786787  0.9840093949965241  1.0000
+  Pd  Pd1       1.0  0.6690226190377311  0.7828481676462212  0.4849643580735059  1.0000
+  Pd  Pd2       1.0  0.3351652536848337  0.1178218033761358  0.8155274947333347  1.0000

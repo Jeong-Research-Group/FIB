@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaBiTe4Pb2
+_chemical_formula_sum              "Na1 Bi1 Te4 Pb2"
+_cell_length_a       4.582266992088367
+_cell_length_b       7.933452988643329
+_cell_length_c       7.979003015412354
+_cell_angle_alpha    109.53939398608843
+_cell_angle_beta     89.99910525159486
+_cell_angle_gamma    90.00158817119014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4124624413985373  0.7281613770258271  0.5437120128259335  1.0000
+  Bi  Bi1       1.0  0.9125820414714613  0.7282206453685464  0.042555073881985005  1.0000
+  Te  Te1       1.0  0.41218670383198164  0.4864755055289222  0.8014464870969126  1.0000
+  Te  Te2       1.0  0.4123157271720595  0.9700318552198064  0.28606604501065225  1.0000
+  Te  Te3       1.0  0.9123568316522789  0.9729999071673208  0.7993216146492551  1.0000
+  Te  Te4       1.0  0.9122570025193305  0.4826087763604017  0.2882351275729087  1.0000
+  Pb  Pb1       1.0  0.4125356779769331  0.22786137617208424  0.0432827825418437  1.0000
+  Pb  Pb2       1.0  0.9127703909225645  0.22867493665388058  0.541798729923819  1.0000

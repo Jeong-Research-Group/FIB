@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2CPbCd
+_chemical_formula_sum              "La2 C1 Pb1 Cd1"
+_cell_length_a       4.717650664169105
+_cell_length_b       5.283176068061718
+_cell_length_c       5.2751383781433105
+_cell_angle_alpha    89.97270223927922
+_cell_angle_beta     89.92478163085376
+_cell_angle_gamma    89.91511008686976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.018502572551369667  0.49032923579216  0.4189499616622925  1.0000
+  La  La2       1.0  0.018340371549129486  0.990264058113098  0.9191218614578247  1.0000
+  C   C1        1.0  0.017561934888362885  0.9906521439552307  0.41943588852882385  1.0000
+  Pb  Pb1       1.0  0.5181282162666321  0.49088561534881586  0.9192662835121155  1.0000
+  Cd  Cd1       1.0  0.5186603665351868  0.9906138181686401  0.4195922315120697  1.0000

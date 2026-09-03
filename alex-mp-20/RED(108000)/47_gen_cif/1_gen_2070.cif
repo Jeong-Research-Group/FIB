@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyMnRu2C
+_chemical_formula_sum              "Dy1 Mn1 Ru2 C1"
+_cell_length_a       4.209122535619094
+_cell_length_b       4.000779605597061
+_cell_length_c       4.209004002678362
+_cell_angle_alpha    89.99923374600027
+_cell_angle_beta     89.99642559974899
+_cell_angle_gamma    90.00576508330198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.9778930015672594  0.9827458279147812  0.1287187385061939  1.0000
+  Mn  Mn1       1.0  0.47811544304993125  0.9832095030474816  0.6290404168972347  1.0000
+  Ru  Ru1       1.0  0.47794137219875016  0.4828860783097634  0.12905303775704743  1.0000
+  Ru  Ru2       1.0  0.9780730214367647  0.48298347370942235  0.6287149836224425  1.0000
+  C   C1        1.0  0.47786914717514367  0.483304567675163  0.628816527520429  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2Ca2Cd
+_chemical_formula_sum              "Pr2 Ca2 Cd1"
+_cell_length_a       5.7762205896344705
+_cell_length_b       5.779361277003862
+_cell_length_c       6.768687725067139
+_cell_angle_alpha    64.80015553278227
+_cell_angle_beta     64.77486877648303
+_cell_angle_gamma    60.047417715561316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.41232696175575256  0.4985010027885437  0.5064588189125061  1.0000
+  Pr  Pr2       1.0  0.6333292126655579  0.7197375893592834  0.8418647050857544  1.0000
+  Ca  Ca1       1.0  0.8414121270179749  0.9281397461891174  0.2188041359186171  1.0000
+  Ca  Ca2       1.0  0.2047426849603653  0.2911880612373352  0.12951812148094174  1.0000
+  Cd  Cd1       1.0  0.02281615510582925  0.10881347954273222  0.6739745736122131  1.0000

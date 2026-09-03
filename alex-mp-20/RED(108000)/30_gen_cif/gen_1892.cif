@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClTlSrCl2SrCl2
+_chemical_formula_sum              "Cl5 Tl1 Sr2"
+_cell_length_a       5.126120724999444
+_cell_length_b       5.127828598056059
+_cell_length_c       11.788792610168457
+_cell_angle_alpha    90.00020741015325
+_cell_angle_beta     89.98578887996278
+_cell_angle_gamma    119.936839761563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5361838340759277  0.22592966258525848  0.1068294867873192  1.0000
+  Tl  Tl1       1.0  0.5366264581680298  0.2256768494844437  0.6059109568595886  1.0000
+  Sr  Sr1       1.0  0.20341901481151586  0.5597556829452516  0.23875050246715548  1.0000
+  Cl  Cl2       1.0  0.20401786267757416  0.5592815279960632  0.9661224484443666  1.0000
+  Cl  Cl3       1.0  0.2027750164270401  0.5581473708152771  0.4760111272335053  1.0000
+  Sr  Sr2       1.0  0.8689479231834412  0.8921597003936769  0.9747132062911988  1.0000
+  Cl  Cl4       1.0  0.8701378107070923  0.8932626247406007  0.7382515072822571  1.0000
+  Cl  Cl5       1.0  0.8701760172843933  0.8928184509277344  0.24800565838813785  1.0000

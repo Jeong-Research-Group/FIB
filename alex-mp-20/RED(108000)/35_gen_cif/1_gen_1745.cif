@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaNiP2Ir
+_chemical_formula_sum              "Ba1 Ni1 P2 Ir1"
+_cell_length_a       3.9248855050935414
+_cell_length_b       3.924316073819934
+_cell_length_c       6.898962207119024
+_cell_angle_alpha    106.52058271426397
+_cell_angle_beta     106.528947678652
+_cell_angle_gamma    89.98892139095896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.11547821167873616  0.4836237030774505  0.8966911880419937  1.0000
+  Ni  Ni1       1.0  0.36579892242544015  0.23260152638919032  0.3963349467158337  1.0000
+  P   P1        1.0  0.7677088405735972  0.13477987078581072  0.20026506466789537  1.0000
+  P   P2        1.0  0.46376569938659584  0.830700271487374  0.5924795986394709  1.0000
+  Ir  Ir1       1.0  0.8658125614272331  0.7327644223612003  0.3964705046282772  1.0000

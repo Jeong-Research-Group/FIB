@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Y2CuNi
+_chemical_formula_sum              "Y2 Cu1 Ni1"
+_cell_length_a       3.4309415036756277
+_cell_length_b       3.430386658094601
+_cell_length_c       6.867941733080707
+_cell_angle_alpha    89.99960054061847
+_cell_angle_beta     89.99925567529151
+_cell_angle_gamma    89.99766017084379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.4133581455029903  0.7981482822478201  0.5211974795816742  1.0000
+  Y   Y2        1.0  0.41342935144193355  0.7980906399091906  0.005522315972447796  1.0000
+  Cu  Cu1       1.0  0.9133923920810485  0.2982912312784786  0.26358356246943315  1.0000
+  Ni  Ni1       1.0  0.913502762252153  0.29801690307596496  0.7632834518875992  1.0000

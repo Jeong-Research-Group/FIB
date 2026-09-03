@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3As2PbS2
+_chemical_formula_sum              "Li3 As2 Pb1 S2"
+_cell_length_a       3.9370272121788
+_cell_length_b       4.1033982455952245
+_cell_length_c       10.813823520893944
+_cell_angle_alpha    79.50311322148066
+_cell_angle_beta     90.52255531071783
+_cell_angle_gamma    90.34902469122615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9434750875420855  0.7758487243600415  0.8409358433605582  1.0000
+  Li  Li2       1.0  0.9534767041800855  0.017818991593879587  0.33621162217260453  1.0000
+  Li  Li3       1.0  0.4536844832695514  0.12717845210746262  0.07331632886648792  1.0000
+  As  As1       1.0  0.9556771747800414  0.5988709032158452  0.1365754272857094  1.0000
+  As  As2       1.0  0.45825888639713586  0.546737495527216  0.2716041907893074  1.0000
+  Pb  Pb1       1.0  0.45865839814028625  0.36604629354238394  0.6043108233371536  1.0000
+  S   S1        1.0  0.48549176482679485  0.22963559122053556  0.856066080159847  1.0000
+  S   S2        1.0  0.9562065059210197  0.8891759051580717  0.563640586847918  1.0000

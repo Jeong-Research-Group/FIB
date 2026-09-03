@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CdPb3O4F
+_chemical_formula_sum              "Cd1 Pb3 O4 F1"
+_cell_length_a       4.110951846652763
+_cell_length_b       5.491016571028827
+_cell_length_c       8.048583631707334
+_cell_angle_alpha    89.77425507624767
+_cell_angle_beta     89.99827153813521
+_cell_angle_gamma    89.98537137976363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8402367867358163  0.21331861170825922  0.9853861875144008  1.0000
+  Pb  Pb1       1.0  0.33990731757866527  0.596892408497843  0.7457148982399219  1.0000
+  Pb  Pb2       1.0  0.840207205542306  0.1692772648894297  0.48695004993779706  1.0000
+  Pb  Pb3       1.0  0.3401139439694367  0.5944968387689759  0.22475427389435595  1.0000
+  O   O1        1.0  0.8401922441068408  0.38414824747641374  0.7258376788597368  1.0000
+  O   O2        1.0  0.8402869641498019  0.38102361555831166  0.24463571746104013  1.0000
+  O   O3        1.0  0.34012463131741943  0.3691705007233433  0.4856671378574065  1.0000
+  O   O4        1.0  0.34031355028885196  0.3719864092743854  0.9850746766264428  1.0000
+  F   F1        1.0  0.8416187818636911  0.819930160358495  0.9804109101391828  1.0000

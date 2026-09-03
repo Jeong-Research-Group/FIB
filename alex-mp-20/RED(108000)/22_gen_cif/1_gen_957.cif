@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2Ge2H2Ru2
+_chemical_formula_sum              "Pr2 Ge2 H2 Ru2"
+_cell_length_a       4.245798214246663
+_cell_length_b       6.19796856481095
+_cell_length_c       5.662623079698133
+_cell_angle_alpha    102.16900897462936
+_cell_angle_beta     89.9927161215822
+_cell_angle_gamma    110.02002129988215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.040494431607710935  0.11921031727878721  0.9490070980655746  1.0000
+  Pr  Pr2       1.0  0.8332603034292454  0.7044941637496183  0.359919101723642  1.0000
+  Ge  Ge1       1.0  0.7228798160662561  0.4833350261574139  0.8233193484170844  1.0000
+  Ge  Ge2       1.0  0.1505126620775366  0.3402081023061884  0.48532064858887625  1.0000
+  H   H1        1.0  0.4371126094010968  0.9115303462612468  0.15460149819955235  1.0000
+  H   H2        1.0  0.43731451471754856  0.9112488257980951  0.6533983668292859  1.0000
+  Ru  Ru1       1.0  0.5404955350273852  0.11982737447605449  0.45156742854328674  1.0000
+  Ru  Ru2       1.0  0.33307533448214577  0.7037521699126629  0.8571811002176174  1.0000

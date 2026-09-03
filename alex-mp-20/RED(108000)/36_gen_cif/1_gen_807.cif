@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2CuHg4
+_chemical_formula_sum              "Ca2 Cu1 Hg4"
+_cell_length_a       6.352970431699778
+_cell_length_b       6.352771124638248
+_cell_length_c       6.349320723607344
+_cell_angle_alpha    119.58874159388803
+_cell_angle_beta     119.55058829772956
+_cell_angle_gamma    90.77565500112416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8045163693903995  0.9377063312279578  0.5747468568198966  1.0000
+  Ca  Ca2       1.0  0.30452363533494087  0.4363819504217375  0.5728647884780552  1.0000
+  Cu  Cu1       1.0  0.8047364131797576  0.4384368923002985  0.07455218714642634  1.0000
+  Hg  Hg1       1.0  0.30448698938093677  0.9369773589719388  0.5742621808966024  1.0000
+  Hg  Hg2       1.0  0.8042382927702266  0.9362752742843379  0.07367601529216497  1.0000
+  Hg  Hg3       1.0  0.30514412311213657  0.4367386657476589  0.07341626979968169  1.0000
+  Hg  Hg4       1.0  0.8042003057756157  0.4362548687292198  0.5721686090270051  1.0000

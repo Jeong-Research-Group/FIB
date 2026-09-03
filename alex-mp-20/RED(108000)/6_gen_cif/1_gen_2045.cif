@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2MnRh
+_chemical_formula_sum              "Ta2 Mn1 Rh1"
+_cell_length_a       3.300082855917131
+_cell_length_b       4.327164697566023
+_cell_length_c       4.326254719504094
+_cell_angle_alpha    89.99442421896195
+_cell_angle_beta     89.99834312343488
+_cell_angle_gamma    90.00459961125493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.3957043710418143  0.5216520121430687  0.982490061757835  1.0000
+  Ta  Ta2       1.0  0.3946874624199331  0.021623222435560197  0.48251380997918397  1.0000
+  Mn  Mn1       1.0  0.8951781263290096  0.5216541146460422  0.48248212422095166  1.0000
+  Rh  Rh1       1.0  0.8952062567063261  0.021328084801218478  0.9826536355027449  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScTi2SnH
+_chemical_formula_sum              "Sc1 Ti2 Sn1 H1"
+_cell_length_a       4.225282361901293
+_cell_length_b       4.220623900277173
+_cell_length_c       4.409801651460809
+_cell_angle_alpha    89.99904971581358
+_cell_angle_beta     90.00327110045227
+_cell_angle_gamma    89.99479554442944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5524106812293824  0.014629173870145925  0.28298546432830723  1.0000
+  Ti  Ti1       1.0  0.5526473343345807  0.514209868024648  0.7832775470048198  1.0000
+  Ti  Ti2       1.0  0.05208260103737588  0.01420844239936997  0.7835133829392873  1.0000
+  Sn  Sn1       1.0  0.05231015185953739  0.5146299735429475  0.2837469159039054  1.0000
+  H   H1        1.0  0.5522161081611708  0.01493183615854234  0.7836888191009009  1.0000

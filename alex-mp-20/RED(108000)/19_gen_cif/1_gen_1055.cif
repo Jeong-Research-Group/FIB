@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       H2Pb
+_chemical_formula_sum              "H2 Pb1"
+_cell_length_a       4.014795368754725
+_cell_length_b       4.015514249653511
+_cell_length_c       4.020730018615723
+_cell_angle_alpha    60.01658627836111
+_cell_angle_beta     60.084015519281685
+_cell_angle_gamma    60.079532494712645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.525561154325521  0.6952241055481244  0.20042429960576932  1.0000
+  H   H2        1.0  0.02552864687504214  0.1949982928032081  0.7004518503717215  1.0000
+  Pb  Pb1       1.0  0.27336457276549936  0.44370013616210324  0.9480249886001254  1.0000

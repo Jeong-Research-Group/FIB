@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2AgGaAgGa
+_chemical_formula_sum              "Hf2 Ag2 Ga2"
+_cell_length_a       3.9320238168341084
+_cell_length_b       3.9312021367818524
+_cell_length_c       7.300275802612305
+_cell_angle_alpha    89.96632967381973
+_cell_angle_beta     89.97793416343463
+_cell_angle_gamma    90.01716676888248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8731569647789001  0.24900329113006595  0.44022309780120844  1.0000
+  Hf  Hf2       1.0  0.3730051517486572  0.7491099834442139  0.153413325548172  1.0000
+  Ag  Ag1       1.0  0.3727559745311737  0.2493662089109421  0.7978124022483825  1.0000
+  Ga  Ga1       1.0  0.37309157848358154  0.7481914162635803  0.5318756103515625  1.0000
+  Ag  Ag2       1.0  0.8734112977981567  0.7484903931617737  0.7960282564163207  1.0000
+  Ga  Ga2       1.0  0.8725874423980713  0.2492157369852066  0.06200557574629783  1.0000

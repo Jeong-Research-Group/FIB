@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ScOScOTe2
+_chemical_formula_sum              "Sc2 O2 Te2"
+_cell_length_a       3.554384695639505
+_cell_length_b       3.582108855808525
+_cell_length_c       10.148859024047852
+_cell_angle_alpha    90.14101175770065
+_cell_angle_beta     90.2930107892339
+_cell_angle_gamma    90.37549213608044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5200687646865845  0.2880791425704956  0.046729885041713715  1.0000
+  O   O1        1.0  0.5200389623641968  0.7871779203414916  0.9451491236686707  1.0000
+  Sc  Sc2       1.0  0.019446110352873802  0.7862952947616576  0.8402888178825378  1.0000
+  O   O2        1.0  0.019430484622716904  0.2861578464508056  0.9442947506904602  1.0000
+  Te  Te1       1.0  0.020881952717900276  0.7880191802978516  0.2580404281616211  1.0000
+  Te  Te2       1.0  0.5193453431129456  0.2866743803024292  0.6388940811157227  1.0000

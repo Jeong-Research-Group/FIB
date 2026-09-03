@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2DyOs3
+_chemical_formula_sum              "Tb2 Dy1 Os3"
+_cell_length_a       3.4168050947148676
+_cell_length_b       3.4169895201049645
+_cell_length_c       10.260641908500546
+_cell_angle_alpha    89.9998643276525
+_cell_angle_beta     89.99993419611617
+_cell_angle_gamma    89.99828562655433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.1480598115661078  0.5911718250620526  0.32365207109790484  1.0000
+  Tb  Tb2       1.0  0.14802583285583437  0.590751586155994  0.6580829390689106  1.0000
+  Dy  Dy1       1.0  0.14824588121865234  0.5913629856188397  0.9907533075525765  1.0000
+  Os  Os1       1.0  0.6480585399084202  0.0912214196741215  0.49101240971163423  1.0000
+  Os  Os2       1.0  0.6481958508229889  0.09108510477403331  0.8249821914624353  1.0000
+  Os  Os3       1.0  0.6480569008018737  0.09141705297374342  0.15636570816649265  1.0000

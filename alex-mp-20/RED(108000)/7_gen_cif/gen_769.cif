@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2FeMoFeMoB
+_chemical_formula_sum              "B3 Fe2 Mo2"
+_cell_length_a       3.0936242322603933
+_cell_length_b       5.0730903521119215
+_cell_length_c       5.1535139083862305
+_cell_angle_alpha    71.22051806252773
+_cell_angle_beta     72.4819600118528
+_cell_angle_gamma    72.16819516682538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.8943681716918944  0.18442215025424957  0.9006100296974182  1.0000
+  B   B2        1.0  0.7806419730186462  0.8472741246223451  0.4649624824523926  1.0000
+  Fe  Fe1       1.0  0.11810164898633956  0.06737936288118362  0.5701221227645874  1.0000
+  Mo  Mo1       1.0  0.32395744323730463  0.5094252228736877  0.7142078876495361  1.0000
+  Fe  Fe2       1.0  0.6704636216163635  0.30238237977027893  0.22969017922878265  1.0000
+  Mo  Mo2       1.0  0.46434411406517034  0.859277606010437  0.08682526648044586  1.0000
+  B   B3        1.0  0.007564747706055657  0.520831286907196  0.33794534206390375  1.0000

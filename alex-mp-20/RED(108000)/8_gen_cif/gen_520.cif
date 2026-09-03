@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2OCdAl
+_chemical_formula_sum              "Sm2 O1 Cd1 Al1"
+_cell_length_a       4.787871843022016
+_cell_length_b       4.793332998361562
+_cell_length_c       4.702012062072754
+_cell_angle_alpha    89.91965215510562
+_cell_angle_beta     89.99727725887386
+_cell_angle_gamma    90.07144627198791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.2562505304813385  0.29183515906333923  0.2915112376213074  1.0000
+  Sm  Sm2       1.0  0.7562867403030396  0.7918698191642761  0.29178449511528015  1.0000
+  O   O1        1.0  0.2562964856624603  0.7913493514060974  0.2910636067390442  1.0000
+  Cd  Cd1       1.0  0.2560148239135742  0.7910685539245605  0.791627824306488  1.0000
+  Al  Al1       1.0  0.756382942199707  0.2920283079147339  0.7919434905052185  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgZnMg2Zn2Hg
+_chemical_formula_sum              "Hg2 Zn3 Mg2"
+_cell_length_a       3.88953473895615
+_cell_length_b       5.081008414966039
+_cell_length_c       7.301199436187744
+_cell_angle_alpha    92.56824243513675
+_cell_angle_beta     89.91002842135256
+_cell_angle_gamma    112.44937353975337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.1376161873340606  0.7621894478797911  0.539399266242981  1.0000
+  Zn  Zn1       1.0  0.001467541093006755  0.4892516732215882  0.1425129920244217  1.0000
+  Mg  Mg1       1.0  0.4197804927825928  0.32597944140434265  0.4139575958251953  1.0000
+  Mg  Mg2       1.0  0.583953857421875  0.6538888812065125  0.8721215724945068  1.0000
+  Zn  Zn2       1.0  0.7087496519088744  0.9035280346870421  0.25328153371810913  1.0000
+  Zn  Zn3       1.0  0.29422518610954285  0.07498175650835037  0.03330414742231369  1.0000
+  Hg  Hg2       1.0  0.8661333322525024  0.21778294444084167  0.7472551465034485  1.0000

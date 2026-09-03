@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaFe5H
+_chemical_formula_sum              "Ga1 Fe5 H1"
+_cell_length_a       3.683416469982669
+_cell_length_b       3.688697837792625
+_cell_length_c       5.804092114021923
+_cell_angle_alpha    108.52763411428128
+_cell_angle_beta     90.00190773069231
+_cell_angle_gamma    89.99998993708742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7071015531716371  0.48182942181502786  0.8142079670528121  1.0000
+  Fe  Fe1       1.0  0.7069156904807649  0.8141047015447969  0.4786503959892507  1.0000
+  Fe  Fe2       1.0  0.2071429078640807  0.6439910570907657  0.13845393881864554  1.0000
+  Fe  Fe3       1.0  0.20708304448907053  0.3125123770607074  0.4757815005366204  1.0000
+  Fe  Fe4       1.0  0.7072388499377731  0.14819819221128736  0.14686854241657382  1.0000
+  Fe  Fe5       1.0  0.2071352743947759  0.9859841987326585  0.8223909139768846  1.0000
+  H   H1        1.0  0.20679023086414888  0.8139938149548179  0.47896545254176043  1.0000

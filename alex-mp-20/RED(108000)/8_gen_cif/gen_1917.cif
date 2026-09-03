@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LuCBeMoBeMo
+_chemical_formula_sum              "Lu1 C1 Be2 Mo2"
+_cell_length_a       4.128687737703937
+_cell_length_b       4.1311423773471985
+_cell_length_c       4.955367565155029
+_cell_angle_alpha    90.04351764477964
+_cell_angle_beta     90.02379205422342
+_cell_angle_gamma    89.99549457966542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7624643445014954  0.6588318347930908  0.9779922366142274  1.0000
+  C   C1        1.0  0.7623069286346436  0.6592279076576233  0.47705638408660894  1.0000
+  Be  Be1       1.0  0.2620650827884674  0.1591732054948807  0.7596228718757629  1.0000
+  Mo  Mo1       1.0  0.2627031207084656  0.6590420007705688  0.4778347313404084  1.0000
+  Be  Be2       1.0  0.2616252899169922  0.15869508683681488  0.19727039337158203  1.0000
+  Mo  Mo2       1.0  0.761510968208313  0.15925973653793338  0.47787940502166754  1.0000

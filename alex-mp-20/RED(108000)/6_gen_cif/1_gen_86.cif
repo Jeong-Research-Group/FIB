@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YMg2PdPt2
+_chemical_formula_sum              "Y1 Mg2 Pd1 Pt2"
+_cell_length_a       4.600555884702566
+_cell_length_b       4.600513344070402
+_cell_length_c       5.960071484290586
+_cell_angle_alpha    89.98164972280831
+_cell_angle_beta     90.01802344723107
+_cell_angle_gamma    120.01106426872407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5575596923159486  0.24671116378939154  0.20770890743362394  1.0000
+  Mg  Mg1       1.0  0.2242390570994555  0.5799481812927142  0.5420469200466492  1.0000
+  Mg  Mg2       1.0  0.8907615683243483  0.9133865947556427  0.8731108211393067  1.0000
+  Pd  Pd1       1.0  0.5574611534357948  0.24662548705681855  0.7078825637907269  1.0000
+  Pt  Pt1       1.0  0.8908953107019454  0.913368718629657  0.4189930980910244  1.0000
+  Pt  Pt2       1.0  0.2241636668040334  0.5800380288485449  0.9960649809012769  1.0000

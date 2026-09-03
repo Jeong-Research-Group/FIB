@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiCd2BiBa
+_chemical_formula_sum              "Bi2 Cd2 Ba1"
+_cell_length_a       5.028354346703623
+_cell_length_b       5.027445526086096
+_cell_length_c       8.277482032775879
+_cell_angle_alpha    90.07667137220263
+_cell_angle_beta     89.97074197448087
+_cell_angle_gamma    120.01832615510702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.33335530757904047  0.9409149289131163  0.7215181589126587  1.0000
+  Cd  Cd1       1.0  0.0005768439732491933  0.2751440107822418  0.8332629799842834  1.0000
+  Cd  Cd2       1.0  0.33442807197570795  0.9413858056068419  0.09383969008922577  1.0000
+  Bi  Bi2       1.0  0.0018078018911182525  0.27592658996582026  0.20501156151294708  1.0000
+  Ba  Ba1       1.0  0.6676279306411743  0.6081764698028564  0.4632773697376251  1.0000

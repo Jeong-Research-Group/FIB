@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2Sn2Bi2
+_chemical_formula_sum              "Ni2 Sn2 Bi2"
+_cell_length_a       3.9712759125373416
+_cell_length_b       5.564604383538758
+_cell_length_c       6.352376804604347
+_cell_angle_alpha    92.49823312085836
+_cell_angle_beta     90.00473337590981
+_cell_angle_gamma    89.99910487004611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.40454029239152167  0.12956026358498118  0.9676058110528173  1.0000
+  Ni  Ni2       1.0  0.9046183143825622  0.8299088392740338  0.8922953483472408  1.0000
+  Sn  Sn1       1.0  0.9045320481707927  0.1265827523929884  0.23754397668076602  1.0000
+  Sn  Sn2       1.0  0.4045110689937204  0.8323691310138185  0.6223973027104034  1.0000
+  Bi  Bi1       1.0  0.40494562429521985  0.6261672943429755  0.1263369034138252  1.0000
+  Bi  Bi2       1.0  0.9047350515260346  0.3327091371450027  0.7331502673435601  1.0000

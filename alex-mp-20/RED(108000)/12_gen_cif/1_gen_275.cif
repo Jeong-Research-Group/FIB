@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2ReMo3
+_chemical_formula_sum              "Ta2 Re1 Mo3"
+_cell_length_a       4.522867727127134
+_cell_length_b       4.54230090534209
+_cell_length_c       5.319284338862583
+_cell_angle_alpha    89.99980219885906
+_cell_angle_beta     115.1595757294471
+_cell_angle_gamma    89.99980554059702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8566210251004315  0.26745979254441526  0.1326127329086909  1.0000
+  Ta  Ta2       1.0  0.6828955211539999  0.7675164600772092  0.7854347902898218  1.0000
+  Re  Re1       1.0  0.5212475556362397  0.2674480810382065  0.46179147029477174  1.0000
+  Mo  Mo1       1.0  0.3554979098187778  0.7675101415268237  0.13072239463768645  1.0000
+  Mo  Mo2       1.0  0.018605148174514245  0.76739940619338  0.4567494226408752  1.0000
+  Mo  Mo3       1.0  0.18384671976328296  0.2674670568131004  0.7871725026493852  1.0000

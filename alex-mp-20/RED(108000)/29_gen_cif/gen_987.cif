@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiNi2Pb
+_chemical_formula_sum              "Li1 Ni2 Pb1"
+_cell_length_a       3.8538327550486975
+_cell_length_b       3.8583117303673147
+_cell_length_c       3.8761415481567383
+_cell_angle_alpha    89.92928955026629
+_cell_angle_beta     90.02948160117724
+_cell_angle_gamma    89.95165842519559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4815340340137481  0.2241581827402115  0.05857202783226966  1.0000
+  Ni  Ni1       1.0  0.9814192056655883  0.224147230386734  0.5584145188331604  1.0000
+  Ni  Ni2       1.0  0.4812327325344085  0.7239809036254883  0.5581657290458679  1.0000
+  Pb  Pb1       1.0  0.9814822673797606  0.7242318391799927  0.058242350816726685  1.0000

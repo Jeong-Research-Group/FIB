@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrCrZrCrZrAl
+_chemical_formula_sum              "Zr3 Cr2 Al1"
+_cell_length_a       3.2930202799177697
+_cell_length_b       3.2921797359723306
+_cell_length_c       9.849814414978027
+_cell_angle_alpha    89.98261967201482
+_cell_angle_beta     90.007925524111
+_cell_angle_gamma    90.0818691549019
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.20603956282138824  0.09901474416255951  0.8324151635169983  1.0000
+  Cr  Cr1       1.0  0.7057687044143677  0.5992895364761353  0.9999350905418396  1.0000
+  Zr  Zr2       1.0  0.20515738427639008  0.09932108968496323  0.513823926448822  1.0000
+  Cr  Cr2       1.0  0.7060021162033081  0.5993502140045166  0.6658797264099121  1.0000
+  Zr  Zr3       1.0  0.20630447566509247  0.0994495376944542  0.1520349383354187  1.0000
+  Al  Al1       1.0  0.7058115005493164  0.5994237661361694  0.3333526849746704  1.0000

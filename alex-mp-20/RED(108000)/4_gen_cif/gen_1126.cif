@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgLa2Mg2Zn
+_chemical_formula_sum              "Mg3 La2 Zn1"
+_cell_length_a       5.208419927924923
+_cell_length_b       3.425800097769618
+_cell_length_c       9.02768611907959
+_cell_angle_alpha    90.00493390107049
+_cell_angle_beta     89.98729152323337
+_cell_angle_gamma    89.99837691959249
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.030096989125013348  0.2515833377838135  0.7059504985809326  1.0000
+  La  La1       1.0  0.029202558100223538  0.752291202545166  0.3618733882904053  1.0000
+  La  La2       1.0  0.5297500491142273  0.7512205839157104  0.8892748355865479  1.0000
+  Mg  Mg2       1.0  0.5290982127189636  0.2510444223880768  0.5342392325401306  1.0000
+  Mg  Mg3       1.0  0.029279028996825215  0.2511235177516937  0.04477744922041893  1.0000
+  Zn  Zn1       1.0  0.5292705297470093  0.2513373792171478  0.20918086171150208  1.0000

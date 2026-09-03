@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2CaCdN
+_chemical_formula_sum              "Ba2 Ca1 Cd1 N1"
+_cell_length_a       4.817366358560971
+_cell_length_b       5.787296015061314
+_cell_length_c       5.787265029813486
+_cell_angle_alpha    90.00105419127492
+_cell_angle_beta     90.00141631657768
+_cell_angle_gamma    89.99840533853416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5242669009938222  0.4394622810843514  0.3917624683114554  1.0000
+  Ba  Ba2       1.0  0.5227492442470132  0.9394633813968907  0.8914822729863995  1.0000
+  Ca  Ca1       1.0  0.023955197275310224  0.9395328962195177  0.391555755563304  1.0000
+  Cd  Cd1       1.0  0.023687688883127472  0.43969257073680706  0.8920158871546914  1.0000
+  N   N1        1.0  0.5242077089494998  0.9403523346795285  0.39170894623147184  1.0000

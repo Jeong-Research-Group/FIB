@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Ga2Ni2
+_chemical_formula_sum              "Y2 Ga2 Ni2"
+_cell_length_a       4.144846590768016
+_cell_length_b       5.069185767923366
+_cell_length_c       5.847053605376452
+_cell_angle_alpha    100.5492898427818
+_cell_angle_beta     110.76283740209493
+_cell_angle_gamma    89.99480551752869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5126711467507505  0.6565891302431582  0.2492502994889659  1.0000
+  Y   Y2        1.0  0.27394185137185617  0.03504359031404526  0.7716008042047212  1.0000
+  Ga  Ga1       1.0  0.7995484814135693  0.5522185838801515  0.8228872708443074  1.0000
+  Ga  Ga2       1.0  0.9871682668520024  0.13872391864255634  0.19805782311994577  1.0000
+  Ni  Ni1       1.0  0.6029581060536943  0.20378026440656807  0.42949978595732735  1.0000
+  Ni  Ni2       1.0  0.18382153562510228  0.4881711724024052  0.5914123343910538  1.0000

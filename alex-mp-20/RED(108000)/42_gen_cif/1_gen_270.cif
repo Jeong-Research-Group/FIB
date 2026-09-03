@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaIn2Bi
+_chemical_formula_sum              "Ca1 In2 Bi1"
+_cell_length_a       4.802525156550646
+_cell_length_b       4.796984246656977
+_cell_length_c       5.080093343809623
+_cell_angle_alpha    89.99722793784696
+_cell_angle_beta     89.99393111855066
+_cell_angle_gamma    89.99971167471453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5122906795359998  0.6556804905459528  0.6476138766088025  1.0000
+  In  In1       1.0  0.012214812469204321  0.6557777551395861  0.1476795948650397  1.0000
+  In  In2       1.0  0.5122662070096673  0.15576838926457884  0.14767072427782757  1.0000
+  Bi  Bi1       1.0  0.012353636106111301  0.1557206834042825  0.6477674093888232  1.0000

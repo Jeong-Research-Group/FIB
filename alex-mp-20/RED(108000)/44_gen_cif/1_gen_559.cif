@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2In2Rh2
+_chemical_formula_sum              "La2 In2 Rh2"
+_cell_length_a       4.764750924397675
+_cell_length_b       4.862845844004865
+_cell_length_c       6.590899920810108
+_cell_angle_alpha    90.04789739910306
+_cell_angle_beta     111.20080376171376
+_cell_angle_gamma    89.99967134496012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.8269153489586027  0.00971153229972606  0.3849466559022358  1.0000
+  La  La2       1.0  0.6195671457951778  0.510074996572798  0.9702632941854872  1.0000
+  In  In1       1.0  0.1047610023336685  0.010028095265828582  0.9411054460267597  1.0000
+  In  In2       1.0  0.3417006837362369  0.5098594150573925  0.41424148519184384  1.0000
+  Rh  Rh1       1.0  0.9633291963045697  0.5098116537050214  0.6572100447298871  1.0000
+  Rh  Rh2       1.0  0.4831188314462089  0.010003599787381334  0.6982386592667197  1.0000

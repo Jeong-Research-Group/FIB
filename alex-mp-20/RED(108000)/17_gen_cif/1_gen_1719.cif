@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaCuPdPt2
+_chemical_formula_sum              "La1 Cu1 Pd1 Pt2"
+_cell_length_a       3.9749071514519647
+_cell_length_b       4.312692580957979
+_cell_length_c       5.715809013155349
+_cell_angle_alpha    89.99674196289705
+_cell_angle_beta     89.98983765143589
+_cell_angle_gamma    90.00452727093253
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.30144131765928694  0.8330600550649102  0.7874872887597371  1.0000
+  Cu  Cu1       1.0  0.30153646209984913  0.3333327903846641  0.2874272341786539  1.0000
+  Pd  Pd1       1.0  0.8014353550442791  0.8331612876553147  0.2874723558592257  1.0000
+  Pt  Pt1       1.0  0.8011458734338438  0.33291542353791403  0.5631529104196512  1.0000
+  Pt  Pt2       1.0  0.8014818496527483  0.33292730244376995  0.011644115628976477  1.0000

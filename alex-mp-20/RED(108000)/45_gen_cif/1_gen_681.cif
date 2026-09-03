@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs3Te2H
+_chemical_formula_sum              "Cs3 Te2 H1"
+_cell_length_a       4.899711385562302
+_cell_length_b       6.26224155519327
+_cell_length_c       9.427758428509435
+_cell_angle_alpha    102.3840629009956
+_cell_angle_beta     90.09910376137822
+_cell_angle_gamma    90.0008310140575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.24470955677847497  0.2619303496934732  0.1345609146759946  1.0000
+  Cs  Cs2       1.0  0.2444813196332082  0.8782559331909402  0.4563176266025283  1.0000
+  Cs  Cs3       1.0  0.2456004006509709  0.646313476326268  0.8135904088102337  1.0000
+  Te  Te1       1.0  0.7447377573983807  0.3595129785989193  0.5110394735756181  1.0000
+  Te  Te2       1.0  0.7454829297827437  0.1644743412781316  0.7610617284646913  1.0000
+  H   H1        1.0  0.24342511372062436  0.7614437764975293  0.13481623977884807  1.0000

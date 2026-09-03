@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cs2InHg
+_chemical_formula_sum              "Cs2 In1 Hg1"
+_cell_length_a       6.631367703742385
+_cell_length_b       6.631347415242355
+_cell_length_c       6.632900480398615
+_cell_angle_alpha    59.97668854163236
+_cell_angle_beta     60.00501471682835
+_cell_angle_gamma    59.99023241806602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.21529049746349915  0.5630303494722395  0.738981252796641  1.0000
+  Cs  Cs2       1.0  0.7157948520266051  0.06228444863869987  0.2402803609696027  1.0000
+  In  In1       1.0  0.4657979352693992  0.8129330659331488  0.9897256546373386  1.0000
+  Hg  Hg1       1.0  0.9655935852524952  0.31155264410808636  0.48883074804747206  1.0000

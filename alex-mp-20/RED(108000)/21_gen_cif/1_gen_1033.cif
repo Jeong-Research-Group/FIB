@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nd2Ir2Os2C
+_chemical_formula_sum              "Nd2 Ir2 Os2 C1"
+_cell_length_a       4.136354101538599
+_cell_length_b       3.9365120598196834
+_cell_length_c       8.861842490748025
+_cell_angle_alpha    89.9960756769545
+_cell_angle_beta     90.00143223358104
+_cell_angle_gamma    89.99993342001675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.6027420149427956  0.3147718990136227  0.6455727047461829  1.0000
+  Nd  Nd2       1.0  0.10421486838814735  0.3149782223871188  0.1453811650883809  1.0000
+  Ir  Ir1       1.0  0.10343730124388335  0.8149274755909289  0.49771653801290144  1.0000
+  Ir  Ir2       1.0  0.10347833659601627  0.8148023983763951  0.7937425306119418  1.0000
+  Os  Os1       1.0  0.6034198817029783  0.8149769975943686  0.3554003462494886  1.0000
+  Os  Os2       1.0  0.6034739545591129  0.8148807614031681  0.9360373570443852  1.0000
+  C   C1        1.0  0.6038805601075861  0.8150850767612592  0.1457290941741577  1.0000

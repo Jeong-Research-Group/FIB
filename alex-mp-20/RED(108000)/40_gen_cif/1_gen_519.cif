@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrFe4Co
+_chemical_formula_sum              "Zr1 Fe4 Co1"
+_cell_length_a       4.005505636659389
+_cell_length_b       4.825219348844176
+_cell_length_c       4.825156953203602
+_cell_angle_alpha    120.007918013236
+_cell_angle_beta     90.01019414445611
+_cell_angle_gamma    90.01115407013698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6755897070235102  0.8858212706918583  0.6070467998958193  1.0000
+  Fe  Fe1       1.0  0.17566742485030312  0.8852953002635465  0.10714832090231206  1.0000
+  Fe  Fe2       1.0  0.17550643753796571  0.3854515896664109  0.10693519686615455  1.0000
+  Fe  Fe3       1.0  0.6754646808824267  0.5524079646909036  0.9403337411558493  1.0000
+  Fe  Fe4       1.0  0.175362421673818  0.38572955619852384  0.6071822439614893  1.0000
+  Co  Co1       1.0  0.6756841796056099  0.2190801975832887  0.27354932351714406  1.0000

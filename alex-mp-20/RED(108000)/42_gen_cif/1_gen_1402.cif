@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgHI2Cl2
+_chemical_formula_sum              "Hg1 H1 I2 Cl2"
+_cell_length_a       4.926607777926054
+_cell_length_b       7.049051623097325
+_cell_length_c       11.28495309697328
+_cell_angle_alpha    88.01113969471497
+_cell_angle_beta     92.3446584408012
+_cell_angle_gamma    94.86470029577676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6423437373224399  0.5103307856228098  0.287055227564834  1.0000
+  H   H1        1.0  0.9656708455426368  0.8778485481352859  0.9397538251197449  1.0000
+  I   I1        1.0  0.024268296108689483  0.818885039545055  0.22669927804593623  1.0000
+  I   I2        1.0  0.414092087592793  0.46941119000339876  0.05941909955105973  1.0000
+  Cl  Cl1       1.0  0.5768527433225649  0.340535624710713  0.4762918871701635  1.0000
+  Cl  Cl2       1.0  0.9707738084452068  0.9423631151344039  0.8304005748894386  1.0000

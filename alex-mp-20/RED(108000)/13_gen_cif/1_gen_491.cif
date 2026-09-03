@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be4AlIr
+_chemical_formula_sum              "Be4 Al1 Ir1"
+_cell_length_a       4.324843871557979
+_cell_length_b       4.324830468119034
+_cell_length_c       4.324836133081682
+_cell_angle_alpha    59.99932112926416
+_cell_angle_beta     59.99667423228367
+_cell_angle_gamma    59.9979287731026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.9299513036243324  0.4854482981050335  0.08215152662751728  1.0000
+  Be  Be2       1.0  0.4272099106305274  0.4860713275634375  0.5840064152088651  1.0000
+  Be  Be3       1.0  0.929880718727302  0.9835099101416654  0.5837278047939255  1.0000
+  Be  Be4       1.0  0.9294319803729252  0.48574093597300855  0.5838137499949875  1.0000
+  Al  Al1       1.0  0.5535382611476984  0.11012559827813713  0.20848263712351456  1.0000
+  Ir  Ir1       1.0  0.30360084585658564  0.8601041543670975  0.9581754476007212  1.0000

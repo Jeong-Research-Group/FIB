@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2InNi
+_chemical_formula_sum              "Lu2 In1 Ni1"
+_cell_length_a       3.32818795106494
+_cell_length_b       3.328041712217825
+_cell_length_c       7.767184717159628
+_cell_angle_alpha    89.99846635675908
+_cell_angle_beta     89.99997840303321
+_cell_angle_gamma    89.99395195660576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.43184297971408936  0.07701292028507006  0.2589090581973572  1.0000
+  Lu  Lu2       1.0  0.43156704680955543  0.07715838470515214  0.6740414961538693  1.0000
+  In  In1       1.0  0.9317633642046576  0.5770745735617673  0.9664950002013738  1.0000
+  Ni  Ni1       1.0  0.931695384788335  0.5771446172871184  0.4664131181510842  1.0000

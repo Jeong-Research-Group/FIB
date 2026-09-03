@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pb3LiPbCdPb2
+_chemical_formula_sum              "Pb6 Li1 Cd1"
+_cell_length_a       3.5123842100470974
+_cell_length_b       3.5114860066807037
+_cell_length_c       22.28883171081543
+_cell_angle_alpha    90.01892895886904
+_cell_angle_beta     89.9920521644731
+_cell_angle_gamma    120.06360881424895
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5040162801742554  0.3416431248188019  0.6429052352905273  1.0000
+  Pb  Pb2       1.0  0.5043877363204956  0.34564754366874695  0.371013879776001  1.0000
+  Pb  Pb3       1.0  0.8365814685821533  0.00918567180633545  0.5083094835281372  1.0000
+  Li  Li1       1.0  0.8376861214637756  0.010895106010138988  0.7501204609870911  1.0000
+  Pb  Pb4       1.0  0.5051020383834839  0.34306013584136963  0.8542296886444092  1.0000
+  Cd  Cd1       1.0  0.8370620012283325  0.012227366678416727  0.251193106174469  1.0000
+  Pb  Pb5       1.0  0.8356358408927917  0.011424360796809196  0.9941182136535645  1.0000
+  Pb  Pb6       1.0  0.5036097764968872  0.3463679850101471  0.13016441464424133  1.0000

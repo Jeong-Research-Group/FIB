@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2Rh2Au
+_chemical_formula_sum              "Y2 Rh2 Au1"
+_cell_length_a       4.389085687045853
+_cell_length_b       5.449398564093338
+_cell_length_c       5.4519887223433
+_cell_angle_alpha    65.4094532588017
+_cell_angle_beta     66.27823843487026
+_cell_angle_gamma    66.23268093316672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.8086049009989927  0.6644378854022107  0.31612564083257044  1.0000
+  Y   Y2        1.0  0.2255707582515102  0.24711862180215521  0.898549270831782  1.0000
+  Rh  Rh1       1.0  0.5169993145661862  0.23471776719807527  0.3280213507146983  1.0000
+  Rh  Rh2       1.0  0.5174729345833162  0.6764329928590531  0.8863855029022358  1.0000
+  Au  Au1       1.0  0.017510897638307866  0.9551386373279066  0.6072355831458334  1.0000

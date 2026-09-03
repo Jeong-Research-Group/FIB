@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiEu2BiN
+_chemical_formula_sum              "Li1 Eu2 Bi1 N1"
+_cell_length_a       4.455879672509562
+_cell_length_b       5.059037023185074
+_cell_length_c       5.058907418840545
+_cell_angle_alpha    89.99687931729454
+_cell_angle_beta     89.99546191946638
+_cell_angle_gamma    90.0000172263804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.38269743942189083  0.6549079949624382  0.9743165652991154  1.0000
+  Eu  Eu1       1.0  0.8829831949328769  0.6547862899811158  0.47452187666135637  1.0000
+  Eu  Eu2       1.0  0.8832880059687698  0.15504605961448628  0.9743782288006324  1.0000
+  Bi  Bi1       1.0  0.3831773061027335  0.1548517029810058  0.47428443864814596  1.0000
+  N   N1        1.0  0.8834151050356218  0.6545308182969035  0.9742603613686189  1.0000

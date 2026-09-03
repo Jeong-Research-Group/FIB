@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AlPt2Rh
+_chemical_formula_sum              "Al1 Pt2 Rh1"
+_cell_length_a       2.849628693541058
+_cell_length_b       3.6966151641840965
+_cell_length_c       5.619220890032996
+_cell_angle_alpha    89.952474647544
+_cell_angle_beta     89.9846455295399
+_cell_angle_gamma    89.99955311959212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.2657712150979975  0.8287496544686447  0.22729187240558127  1.0000
+  Pt  Pt1       1.0  0.2658424513225922  0.8285560799141197  0.74314088531361  1.0000
+  Pt  Pt2       1.0  0.7660075242080377  0.32905221182442906  0.469151678597858  1.0000
+  Rh  Rh1       1.0  0.7658278634484492  0.328151506128155  0.9913915353609195  1.0000

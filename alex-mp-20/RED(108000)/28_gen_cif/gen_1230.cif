@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       InSnCd2SnInHg
+_chemical_formula_sum              "In2 Sn2 Cd2 Hg1"
+_cell_length_a       5.535459935590368
+_cell_length_b       5.528177123645606
+_cell_length_c       7.771086692810059
+_cell_angle_alpha    69.40424858386514
+_cell_angle_beta     69.4816827945797
+_cell_angle_gamma    60.26943306480804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.05780361220240593  0.7420464754104614  0.7172431945800781  1.0000
+  Sn  Sn1       1.0  0.34526780247688293  0.02995721623301506  0.853975772857666  1.0000
+  Cd  Cd1       1.0  0.48819777369499207  0.17236991226673126  0.4268101155757904  1.0000
+  Cd  Cd2       1.0  0.7750269174575806  0.46053916215896606  0.5635234117507935  1.0000
+  Sn  Sn2       1.0  0.20163443684577947  0.886945366859436  0.28581687808036804  1.0000
+  In  In2       1.0  0.6320025324821472  0.31510934233665466  0.9975747466087341  1.0000
+  Hg  Hg1       1.0  0.913916826248169  0.6008408069610596  0.1462264209985733  1.0000

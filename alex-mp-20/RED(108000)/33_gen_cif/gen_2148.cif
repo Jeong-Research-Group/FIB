@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaS2BaGaS2Be
+_chemical_formula_sum              "Ba2 S4 Ga1 Be1"
+_cell_length_a       4.579652910193248
+_cell_length_b       4.584257265502014
+_cell_length_c       8.899361610412598
+_cell_angle_alpha    90.054145412765
+_cell_angle_beta     90.05996473011733
+_cell_angle_gamma    90.0069624670621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9034135937690735  0.08600907772779465  0.1264904886484146  1.0000
+  S   S1        1.0  0.4036629796028137  0.5861514806747437  0.16685296595096588  1.0000
+  S   S2        1.0  0.9036693572998047  0.5865574479103088  0.8140092492103577  1.0000
+  Ba  Ba2       1.0  0.4035729169845581  0.5858493447303772  0.5205568671226501  1.0000
+  Ga  Ga1       1.0  0.40349721908569336  0.585703432559967  0.9088361859321594  1.0000
+  S   S3        1.0  0.9033169746398926  0.08565638214349747  0.4867652952671051  1.0000
+  S   S4        1.0  0.403945654630661  0.0859743133187294  0.814312219619751  1.0000
+  Be  Be1       1.0  0.90361088514328  0.08592004328966141  0.7259523868560791  1.0000

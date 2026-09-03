@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2SnI2
+_chemical_formula_sum              "Sm2 Sn1 I2"
+_cell_length_a       4.445716542432983
+_cell_length_b       4.446042726188184
+_cell_length_c       11.649593340055386
+_cell_angle_alpha    90.04032558469949
+_cell_angle_beta     89.97019691198888
+_cell_angle_gamma    120.00884383743816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.6909799979241298  0.0002624862295009412  0.2056402182284119  1.0000
+  Sm  Sm2       1.0  0.3573044360108069  0.33435490449502403  0.5087175256854412  1.0000
+  Sn  Sn1       1.0  0.02404437177560654  0.6673836340869599  0.3573476302581127  1.0000
+  I   I1        1.0  0.3574787203239058  0.33358244444311264  0.03667472382789972  1.0000
+  I   I2        1.0  0.6910739612973534  0.0012309336167481602  0.6772511976437374  1.0000

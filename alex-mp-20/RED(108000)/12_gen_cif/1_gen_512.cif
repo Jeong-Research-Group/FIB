@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb3AlRe2
+_chemical_formula_sum              "Nb3 Al1 Re2"
+_cell_length_a       3.303869712529349
+_cell_length_b       4.479100247430386
+_cell_length_c       6.943480318743474
+_cell_angle_alpha    90.0043156775963
+_cell_angle_beta     103.76500807351009
+_cell_angle_gamma    90.00069167770648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7397903063467968  0.6546635294427643  0.8197730414311748  1.0000
+  Nb  Nb2       1.0  0.5692350994576201  0.15454686103993132  0.47858810054255857  1.0000
+  Nb  Nb3       1.0  0.05480045528358432  0.6545502728087984  0.449481324809338  1.0000
+  Al  Al1       1.0  0.8912385938351166  0.15478100399699907  0.12209868528319279  1.0000
+  Re  Re1       1.0  0.39991311952347114  0.6547086229933524  0.13974591923790886  1.0000
+  Re  Re2       1.0  0.23373990574667994  0.15469109307167148  0.8074707182690523  1.0000

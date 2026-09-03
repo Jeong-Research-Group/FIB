@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2PrGaN
+_chemical_formula_sum              "La2 Pr1 Ga1 N1"
+_cell_length_a       5.060879857643436
+_cell_length_b       5.049805722538912
+_cell_length_c       5.050277842060355
+_cell_angle_alpha    89.98562196130118
+_cell_angle_beta     89.98055849856522
+_cell_angle_gamma    89.99627613330327
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.589004547897594  0.4329927239209149  0.9471335881453641  1.0000
+  La  La2       1.0  0.5890944216910052  0.9328352239058897  0.447080682735601  1.0000
+  Pr  Pr1       1.0  0.08918221779126806  0.9329931194283404  0.9467877583270454  1.0000
+  Ga  Ga1       1.0  0.08902154133303856  0.4328413457378421  0.44671718225440377  1.0000
+  N   N1        1.0  0.5891176500262795  0.9327134872267875  0.9473850205290125  1.0000

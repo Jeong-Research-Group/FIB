@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb3SeS2
+_chemical_formula_sum              "Pb3 Se1 S2"
+_cell_length_a       4.296477209206927
+_cell_length_b       6.089578304781113
+_cell_length_c       7.459088996228625
+_cell_angle_alpha    114.12532870469747
+_cell_angle_beta     106.73710206039244
+_cell_angle_gamma    90.0024553752147
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.533570007321303  0.580836118442802  0.41311866810787884  1.0000
+  Pb  Pb2       1.0  0.8602804939937939  0.9093605881565335  0.0665291720747117  1.0000
+  Pb  Pb3       1.0  0.18790989473939193  0.23648229341013727  0.7203534884787083  1.0000
+  Se  Se1       1.0  0.8607844959683004  0.40937389269308755  0.06685521202259972  1.0000
+  S   S1        1.0  0.5266635970875387  0.07428212532638065  0.39826355774422184  1.0000
+  S   S2        1.0  0.19490018952765856  0.7438562083928001  0.7353696930906565  1.0000

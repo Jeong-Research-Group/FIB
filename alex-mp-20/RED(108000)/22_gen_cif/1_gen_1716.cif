@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3Al2Cd
+_chemical_formula_sum              "Li3 Al2 Cd1"
+_cell_length_a       4.496295309838467
+_cell_length_b       4.5228000585486585
+_cell_length_c       5.476542981213738
+_cell_angle_alpha    89.99988989772282
+_cell_angle_beta     114.242082171043
+_cell_angle_gamma    90.00068986096552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34394912110587683  0.8736678417165478  0.5434275727884027  1.0000
+  Li  Li2       1.0  0.5150856013275238  0.3738193407447063  0.8850579982568667  1.0000
+  Li  Li3       1.0  0.6860914705004749  0.8735803846213797  0.22673592596832998  1.0000
+  Al  Al1       1.0  0.8413550369323899  0.3736490251452472  0.5376332334117948  1.0000
+  Al  Al2       1.0  0.18877430784318744  0.3736555854086897  0.23246815954380118  1.0000
+  Cd  Cd1       1.0  0.015087479420862894  0.8736906013036364  0.8850528024747811  1.0000

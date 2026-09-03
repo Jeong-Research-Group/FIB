@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2LiMgLaCd2
+_chemical_formula_sum              "Mg3 Li1 La1 Cd2"
+_cell_length_a       5.006962442418103
+_cell_length_b       5.011972512886007
+_cell_length_c       7.909284591674805
+_cell_angle_alpha    89.98941571171966
+_cell_angle_beta     90.01369703424895
+_cell_angle_gamma    120.07214081589551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.4095408320426941  0.12675282359123233  0.39278972148895264  1.0000
+  Mg  Mg2       1.0  0.7418599128723145  0.7934914231300355  0.18219885230064392  1.0000
+  Li  Li1       1.0  0.07737107574939728  0.4599624574184418  0.38983631134033203  1.0000
+  Mg  Mg3       1.0  0.7417619824409485  0.7930639982223511  0.6014829277992249  1.0000
+  La  La1       1.0  0.4081462323665619  0.1263926774263382  0.8913946151733398  1.0000
+  Cd  Cd1       1.0  0.07530527561903  0.45963412523269653  0.07675833255052567  1.0000
+  Cd  Cd2       1.0  0.07474678009748459  0.459491103887558  0.704601526260376  1.0000

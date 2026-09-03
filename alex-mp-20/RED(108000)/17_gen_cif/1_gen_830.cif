@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2CoNi3
+_chemical_formula_sum              "Sm2 Co1 Ni3"
+_cell_length_a       3.984698544002749
+_cell_length_b       3.8717277775644683
+_cell_length_c       6.910630713697731
+_cell_angle_alpha    90.00054898059669
+_cell_angle_beta     90.0120881326599
+_cell_angle_gamma    89.99992051352174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7550152135393362  0.12688857950236257  0.7277398815594158  1.0000
+  Sm  Sm2       1.0  0.25514317759300387  0.12700369829581956  0.23073841115261753  1.0000
+  Co  Co1       1.0  0.25520889718671036  0.6271552446351486  0.5601023064729692  1.0000
+  Ni  Ni1       1.0  0.25520712649951316  0.6270541108391461  0.8917171607191713  1.0000
+  Ni  Ni2       1.0  0.7550809503389566  0.62672225246541  0.3986896991519498  1.0000
+  Ni  Ni3       1.0  0.7554211207448371  0.6265635777092115  0.06374620201763927  1.0000

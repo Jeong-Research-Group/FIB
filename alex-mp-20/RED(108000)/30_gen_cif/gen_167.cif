@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaK2SnGaSn
+_chemical_formula_sum              "Ga2 K2 Sn2"
+_cell_length_a       4.634643610564243
+_cell_length_b       7.244721081660125
+_cell_length_c       7.249841213226318
+_cell_angle_alpha    67.34391019250656
+_cell_angle_beta     71.40113746717397
+_cell_angle_gamma    71.35143406583065
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.41618716716766363  0.24304217100143435  0.27363565564155573  1.0000
+  K   K1        1.0  0.6580349206924438  0.6561118960380555  0.37694963812828053  1.0000
+  K   K2        1.0  0.16513130068778992  0.1475852280855179  0.8685939311981201  1.0000
+  Sn  Sn1       1.0  0.9113304018974302  0.0814613923430443  0.4438174068927765  1.0000
+  Ga  Ga2       1.0  0.40722349286079407  0.560318112373352  0.9717606306076049  1.0000
+  Sn  Sn2       1.0  0.9117940664291382  0.7222384810447693  0.801834225654602  1.0000

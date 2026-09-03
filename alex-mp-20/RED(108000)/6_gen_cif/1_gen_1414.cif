@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y3NiAg2
+_chemical_formula_sum              "Y3 Ni1 Ag2"
+_cell_length_a       3.5318522147277265
+_cell_length_b       3.531857802919171
+_cell_length_c       10.913484713363205
+_cell_angle_alpha    90.03524864366328
+_cell_angle_beta     90.04354909249743
+_cell_angle_gamma    90.05535738548805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.14515879458435335  0.8116093614707235  0.260411589854473  1.0000
+  Y   Y2        1.0  0.1446184344696433  0.8114860625298651  0.6120309713739348  1.0000
+  Y   Y3        1.0  0.1442806887744035  0.8118955557546711  0.9639997384100715  1.0000
+  Ni  Ni1       1.0  0.6445266837188341  0.3118921103551214  0.1121071287681727  1.0000
+  Ag  Ag1       1.0  0.6444666668261454  0.3117986576596658  0.7866644048190894  1.0000
+  Ag  Ag2       1.0  0.6449145020229556  0.3115215721002803  0.43806993787129267  1.0000

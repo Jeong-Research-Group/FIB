@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2CuAuN
+_chemical_formula_sum              "Ba2 Cu1 Au1 N1"
+_cell_length_a       5.783244982151239
+_cell_length_b       3.778134792680709
+_cell_length_c       5.782887078512008
+_cell_angle_alpha    89.99074880310269
+_cell_angle_beta     89.98756701354378
+_cell_angle_gamma    89.99046140868884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5329518772259967  0.43498316958143757  0.686504369824238  1.0000
+  Ba  Ba2       1.0  0.0329397530812608  0.43404819422265944  0.18629838745224206  1.0000
+  Cu  Cu1       1.0  0.032781126125779235  0.9342829328299183  0.6866704217387805  1.0000
+  Au  Au1       1.0  0.5333134712584383  0.9348320525917644  0.18668677595659308  1.0000
+  N   N1        1.0  0.0327901422162634  0.43426720963244525  0.6867129778163904  1.0000

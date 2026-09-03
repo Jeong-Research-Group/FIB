@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaLaIn2Cu2
+_chemical_formula_sum              "Ba1 La1 In2 Cu2"
+_cell_length_a       4.818187115113905
+_cell_length_b       4.817944485916125
+_cell_length_c       8.270512644515662
+_cell_angle_alpha    89.99206308934912
+_cell_angle_beta     89.98430374281739
+_cell_angle_gamma    119.98879931733285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.3629500200429595  0.2617788940438724  0.050535743555347866  1.0000
+  La  La1       1.0  0.3629414146091102  0.2617061372092702  0.5501818209937279  1.0000
+  In  In1       1.0  0.6963938311575313  0.9282820273752108  0.7524935781956436  1.0000
+  In  In2       1.0  0.02980429656458854  0.5950991177504037  0.3488245162507343  1.0000
+  Cu  Cu1       1.0  0.02965232907179159  0.5948981584312044  0.7346514160404586  1.0000
+  Cu  Cu2       1.0  0.6963703444657666  0.928506383738513  0.3646777640021498  1.0000

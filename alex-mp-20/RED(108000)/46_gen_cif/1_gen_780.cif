@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Y2Ga4
+_chemical_formula_sum              "Li2 Y2 Ga4"
+_cell_length_a       4.103701487514592
+_cell_length_b       5.310324431120892
+_cell_length_c       6.964783720612831
+_cell_angle_alpha    90.29574569112772
+_cell_angle_beta     90.0015336431599
+_cell_angle_gamma    90.0016925708107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1765022988116375  0.926293205744678  0.5801124250404686  1.0000
+  Li  Li2       1.0  0.17659976257780652  0.4266870457354724  0.8282744770410817  1.0000
+  Y   Y1        1.0  0.17644971447016958  0.9276534530906002  0.028478810240477184  1.0000
+  Y   Y2        1.0  0.1764890151113898  0.4254182502385549  0.3798859068599238  1.0000
+  Ga  Ga1       1.0  0.676523663205624  0.6765155022972192  0.7042527662627992  1.0000
+  Ga  Ga2       1.0  0.6765024007572408  0.9234181317178995  0.34395142945309715  1.0000
+  Ga  Ga3       1.0  0.6764958636529618  0.4296922721939143  0.0645233921019917  1.0000
+  Ga  Ga4       1.0  0.6765253916438191  0.1765379850113802  0.7041485493281465  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2Mg2Hg2
+_chemical_formula_sum              "Rb2 Mg2 Hg2"
+_cell_length_a       4.727950824300943
+_cell_length_b       4.729029567771019
+_cell_length_c       10.054144668079044
+_cell_angle_alpha    89.97418445435491
+_cell_angle_beta     89.98103900670223
+_cell_angle_gamma    90.00070288390992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.13681212424019296  0.4763849420075261  0.5108730349326919  1.0000
+  Rb  Rb2       1.0  0.6378906952283077  0.9777603754784197  0.8115030669916723  1.0000
+  Mg  Mg1       1.0  0.13745488386810187  0.9772104557732552  0.16094904372230487  1.0000
+  Mg  Mg2       1.0  0.6375290089356552  0.4775687745996665  0.16105104077378782  1.0000
+  Hg  Hg1       1.0  0.13765534832889015  0.4772864338439353  0.9807326260013695  1.0000
+  Hg  Hg2       1.0  0.6372196531332974  0.9773361342114715  0.34089101426417706  1.0000

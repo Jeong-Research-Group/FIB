@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnNi3H
+_chemical_formula_sum              "Zn1 Ni3 H1"
+_cell_length_a       3.5732264986641518
+_cell_length_b       3.5720223596151452
+_cell_length_c       4.506334373746675
+_cell_angle_alpha    113.33326698548771
+_cell_angle_beta     113.29790040232527
+_cell_angle_gamma    89.97216986695084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.20236730920455773  0.4459802485346885  0.573910412944992  1.0000
+  Ni  Ni1       1.0  0.7182512177042423  0.961470546978318  0.6044083675139159  1.0000
+  Ni  Ni2       1.0  0.9599759438736016  0.7034307735398949  0.08809912321154181  1.0000
+  Ni  Ni3       1.0  0.45999707962159175  0.20331584304359251  0.08737041915541177  1.0000
+  H   H1        1.0  0.494579685566034  0.7388007395180862  0.15619941133378124  1.0000

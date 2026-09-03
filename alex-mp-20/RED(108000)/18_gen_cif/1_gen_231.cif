@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaAl3Ag2
+_chemical_formula_sum              "Ca1 Al3 Ag2"
+_cell_length_a       4.428760423505117
+_cell_length_b       5.542564801247832
+_cell_length_c       5.542602036884825
+_cell_angle_alpha    119.99989313935679
+_cell_angle_beta     89.99924987973228
+_cell_angle_gamma    90.001140434098
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.1031935953178218  0.8342543242332189  0.5352608734393096  1.0000
+  Al  Al1       1.0  0.6025556705669717  0.3340981164465013  0.03502598649252566  1.0000
+  Al  Al2       1.0  0.6026471205143099  0.8341641490027791  0.03503931929600085  1.0000
+  Al  Al3       1.0  0.6026436902758825  0.3342162649039676  0.535010597918699  1.0000
+  Ag  Ag1       1.0  0.10268400059100458  0.5008052304938142  0.8688760643801063  1.0000
+  Ag  Ag2       1.0  0.10255004065589658  0.16740174236470937  0.2015963900256924  1.0000

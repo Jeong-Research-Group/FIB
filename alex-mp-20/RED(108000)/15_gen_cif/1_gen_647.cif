@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Cd2Ni2
+_chemical_formula_sum              "Ca2 Cd2 Ni2"
+_cell_length_a       4.076460951355317
+_cell_length_b       5.277163046014818
+_cell_length_c       6.715036026352412
+_cell_angle_alpha    103.45855978990653
+_cell_angle_beta     107.62187669484219
+_cell_angle_gamma    90.00021389248336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6965770279097044  0.8450207039415814  0.542141295100234  1.0000
+  Ca  Ca2       1.0  0.9613018643833543  0.4569457157996416  0.0716319515866446  1.0000
+  Cd  Cd1       1.0  0.24546482140789797  0.3875563730972916  0.6400843791214398  1.0000
+  Cd  Cd2       1.0  0.4125552611972964  0.9148225009215176  0.9740679027394685  1.0000
+  Ni  Ni1       1.0  0.601419831892601  0.2673547907160905  0.3518236766478133  1.0000
+  Ni  Ni2       1.0  0.056607681476085955  0.03571768913451514  0.2622143313938277  1.0000

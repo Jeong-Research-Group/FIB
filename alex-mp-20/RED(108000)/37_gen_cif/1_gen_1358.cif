@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2GaSn2Pt
+_chemical_formula_sum              "Na2 Ga1 Sn2 Pt1"
+_cell_length_a       4.720877914051846
+_cell_length_b       4.72032065682651
+_cell_length_c       7.127073076261845
+_cell_angle_alpha    89.985078215054
+_cell_angle_beta     90.00110383811719
+_cell_angle_gamma    120.05179459937312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6665140678875708  0.9167307832889371  0.4174199805710114  1.0000
+  Na  Na2       1.0  0.6664886981030269  0.9169443563155152  0.9362050977593338  1.0000
+  Ga  Ga1       1.0  1.5362686017983407e-05  0.583604980660774  0.6234493963423734  1.0000
+  Sn  Sn1       1.0  0.9999388208684782  0.5832067673492004  0.18630785263353414  1.0000
+  Sn  Sn2       1.0  0.3327687728775789  0.2497870758983849  0.729220413041066  1.0000
+  Pt  Pt1       1.0  0.3333156344371449  0.2506351682911155  0.12168663863943807  1.0000

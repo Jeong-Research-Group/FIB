@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyMg2HgC
+_chemical_formula_sum              "Dy1 Mg2 Hg1 C1"
+_cell_length_a       4.457411774374533
+_cell_length_b       4.461273464017206
+_cell_length_c       4.961312566850354
+_cell_angle_alpha    90.00594489214582
+_cell_angle_beta     89.98693709773012
+_cell_angle_gamma    89.99678118442607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6937511996084916  0.27389537789649904  0.3499623017274462  1.0000
+  Mg  Mg1       1.0  0.69358076331572  0.7746687634051731  0.8498298837757107  1.0000
+  Mg  Mg2       1.0  0.1936878628052013  0.27466236417976647  0.849942492290076  1.0000
+  Hg  Hg1       1.0  0.1936621735504579  0.7740059315326854  0.3501956140484239  1.0000
+  C   C1        1.0  0.6937390572067774  0.27433153541974964  0.8487671374718773  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Eu2InOsC
+_chemical_formula_sum              "Eu2 In1 Os1 C1"
+_cell_length_a       3.9403448719679544
+_cell_length_b       5.302853697780555
+_cell_length_c       5.302752907725519
+_cell_angle_alpha    89.99973479922338
+_cell_angle_beta     90.00081591117164
+_cell_angle_gamma    90.00129488044938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.18002043914990132  0.1766574579269078  0.6536498363457707  1.0000
+  Eu  Eu2       1.0  0.18011820181437424  0.6757487435933961  0.15446316260486698  1.0000
+  In  In1       1.0  0.6804215859641598  0.17610477064250918  0.15352300333933097  1.0000
+  Os  Os1       1.0  0.6800955373078427  0.6762774900765859  0.6541920919269248  1.0000
+  C   C1        1.0  0.18002467263946015  0.6768931149444019  0.6540152754673888  1.0000

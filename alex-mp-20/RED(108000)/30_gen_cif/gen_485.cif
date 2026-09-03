@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Te2Cs2TeBaZrTe
+_chemical_formula_sum              "Te4 Cs2 Ba1 Zr1"
+_cell_length_a       4.5974787467218174
+_cell_length_b       9.290728417389065
+_cell_length_c       8.470988273620605
+_cell_angle_alpha    106.25563447169118
+_cell_angle_beta     90.06256703621817
+_cell_angle_gamma    89.99741386130157
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.3315207362174988  0.4256851375102997  0.003011107444763157  1.0000
+  Te  Te2       1.0  0.8316439986228943  0.049123749136924744  0.02889997698366642  1.0000
+  Cs  Cs1       1.0  0.33149391412734985  0.7421010732650757  0.8090587854385376  1.0000
+  Cs  Cs2       1.0  0.8310988545417786  0.7415135502815247  0.30845463275909424  1.0000
+  Te  Te3       1.0  0.33211246132850647  0.057367291301488876  0.6135284304618835  1.0000
+  Ba  Ba1       1.0  0.33180680871009827  0.24217599630355835  0.3088683485984802  1.0000
+  Zr  Zr1       1.0  0.831893801689148  0.24201284348964694  0.8084923028945923  1.0000
+  Te  Te4       1.0  0.8313716053962708  0.43468648195266724  0.5893370509147644  1.0000

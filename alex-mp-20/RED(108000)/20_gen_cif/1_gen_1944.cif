@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Si2Os2
+_chemical_formula_sum              "Y2 Si2 Os2"
+_cell_length_a       4.1901409902561575
+_cell_length_b       4.190129854477414
+_cell_length_c       6.661399418836742
+_cell_angle_alpha    90.0078918398703
+_cell_angle_beta     90.00248628053903
+_cell_angle_gamma    90.00227559377475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.609963382000435  0.16637077205889375  0.2886926599809063  1.0000
+  Y   Y2        1.0  0.10998120232817032  0.6666457376386632  0.936710305831718  1.0000
+  Si  Si1       1.0  0.11000469969007408  0.6664375501274734  0.4214066597781966  1.0000
+  Si  Si2       1.0  0.6100576897635134  0.1665251531827265  0.8040000796210793  1.0000
+  Os  Os1       1.0  0.6100317108542965  0.6664959574744708  0.6126845242667524  1.0000
+  Os  Os2       1.0  0.11004826871756523  0.16651301211048905  0.6127095882412918  1.0000

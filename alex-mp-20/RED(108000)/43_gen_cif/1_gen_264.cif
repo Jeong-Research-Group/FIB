@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Ca2NdSi2
+_chemical_formula_sum              "Li2 Ca2 Nd1 Si2"
+_cell_length_a       4.500646945009298
+_cell_length_b       4.500618868374623
+_cell_length_c       10.208789807207442
+_cell_angle_alpha    77.25993478972765
+_cell_angle_beta     77.25930454856032
+_cell_angle_gamma    60.003382290925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8079873805418255  0.9713128193171958  0.7236798172462058  1.0000
+  Li  Li2       1.0  0.02602556759557645  0.18933888199308702  0.06897141832040195  1.0000
+  Ca  Ca1       1.0  0.5369421276633365  0.7001676939748326  0.5368198708126377  1.0000
+  Ca  Ca2       1.0  0.2971619241312251  0.4604814100317754  0.2554531181772513  1.0000
+  Nd  Nd1       1.0  0.41710214072034285  0.580446094834025  0.8960958501955831  1.0000
+  Si  Si1       1.0  0.1463118224161679  0.3096221289773763  0.7087536370376764  1.0000
+  Si  Si2       1.0  0.6879938121934132  0.8513379915555159  0.08308089997744918  1.0000

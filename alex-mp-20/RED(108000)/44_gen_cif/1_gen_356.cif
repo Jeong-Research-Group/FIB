@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TbMgNi2Ge2
+_chemical_formula_sum              "Tb1 Mg1 Ni2 Ge2"
+_cell_length_a       4.153183844208201
+_cell_length_b       4.153158808500819
+_cell_length_c       6.6629510026919165
+_cell_angle_alpha    90.00197695889256
+_cell_angle_beta     89.99844527052076
+_cell_angle_gamma    120.00104393865226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.9841344773756869  0.42082019029568846  0.07550129064655162  1.0000
+  Mg  Mg1       1.0  0.9841955691664546  0.4208595233633959  0.5754697862114632  1.0000
+  Ni  Ni1       1.0  0.6508867333695347  0.7541677711708935  0.7440696798405072  1.0000
+  Ni  Ni2       1.0  0.3174946851433551  0.08753603072112555  0.40699845119165345  1.0000
+  Ge  Ge1       1.0  0.3175379664060882  0.08749017335220206  0.796332747435391  1.0000
+  Ge  Ge2       1.0  0.6508256984140788  0.7541964360241762  0.35478730195077013  1.0000

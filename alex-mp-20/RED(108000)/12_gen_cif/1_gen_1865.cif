@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3NdPb2
+_chemical_formula_sum              "Li3 Nd1 Pb2"
+_cell_length_a       4.799619106100914
+_cell_length_b       4.7994493943058165
+_cell_length_c       7.007924087820475
+_cell_angle_alpha    89.98840346642292
+_cell_angle_beta     90.00351063660202
+_cell_angle_gamma    119.99508593116606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.37438231667480676  0.2604282800311053  0.3329231713478354  1.0000
+  Li  Li2       1.0  0.7072854704600211  0.9271597267986089  0.15640765822114608  1.0000
+  Li  Li3       1.0  0.04093249716434853  0.5939820275231912  0.5096853184053695  1.0000
+  Nd  Nd1       1.0  0.3740768904820375  0.2606865028154299  0.8330097490653878  1.0000
+  Pb  Pb1       1.0  0.040877121863815785  0.5938893718880939  0.09402356916153348  1.0000
+  Pb  Pb2       1.0  0.7076751788297821  0.9272998981996566  0.5720054190560285  1.0000

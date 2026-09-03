@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Sc3Zn
+_chemical_formula_sum              "Mg2 Sc3 Zn1"
+_cell_length_a       3.33015889591123
+_cell_length_b       3.3301006613187414
+_cell_length_c       11.992460970377753
+_cell_angle_alpha    89.99876196622301
+_cell_angle_beta     90.0003663594758
+_cell_angle_gamma    89.99747271045833
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1722144567912919  0.580102347966683  0.2847532034179342  1.0000
+  Mg  Mg2       1.0  0.6724811753956499  0.08020005365336218  0.824515537609216  1.0000
+  Sc  Sc1       1.0  0.6723351152727169  0.08005506661458456  0.10334090615369794  1.0000
+  Sc  Sc2       1.0  0.1728399933480359  0.5802470947311646  0.6455883192674855  1.0000
+  Sc  Sc3       1.0  0.6726677577636357  0.0801887121265352  0.4627267588583596  1.0000
+  Zn  Zn1       1.0  0.1723785246984238  0.5800884399360124  0.9662694067804743  1.0000

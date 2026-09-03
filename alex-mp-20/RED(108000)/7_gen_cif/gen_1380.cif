@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnGeTbCTbCGe
+_chemical_formula_sum              "Mn1 Ge2 Tb2 C2"
+_cell_length_a       3.922323511536249
+_cell_length_b       3.9329998692217085
+_cell_length_c       7.316164970397949
+_cell_angle_alpha    105.59029127626904
+_cell_angle_beta     90.00879295825663
+_cell_angle_gamma    89.9579763527907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5598201751708984  0.9582169651985168  0.5735940933227539  1.0000
+  Ge  Ge1       1.0  0.5597893595695496  0.7597066164016724  0.1783413589000702  1.0000
+  Tb  Tb1       1.0  0.05882139876484871  0.5740507245063782  0.8065761923789978  1.0000
+  C   C1        1.0  0.5593222975730896  0.4578072428703308  0.5732388496398926  1.0000
+  Tb  Tb2       1.0  0.060029536485672  0.3409859538078308  0.33952784538269043  1.0000
+  C   C2        1.0  0.05966142565011978  0.9589611887931824  0.5729578733444214  1.0000
+  Ge  Ge2       1.0  0.5593310594558716  0.15633417665958405  0.9698539376258849  1.0000

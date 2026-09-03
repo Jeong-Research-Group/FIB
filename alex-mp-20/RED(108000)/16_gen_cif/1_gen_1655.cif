@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Sm2TmGa
+_chemical_formula_sum              "Ca2 Sm2 Tm1 Ga1"
+_cell_length_a       3.693341452482892
+_cell_length_b       3.693316331001342
+_cell_length_c       14.559413451780237
+_cell_angle_alpha    90.00531204263773
+_cell_angle_beta     90.00367434364696
+_cell_angle_gamma    90.00014248535334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6537323207567116  0.03073351096318616  0.5130558762495292  1.0000
+  Ca  Ca2       1.0  0.15355381901222276  0.5305154585177558  0.310415171370577  1.0000
+  Sm  Sm1       1.0  0.6535081067500073  0.03113261302545133  0.11033947956710433  1.0000
+  Sm  Sm2       1.0  0.6532688892517916  0.031055319492718614  0.8630056209349277  1.0000
+  Tm  Tm1       1.0  0.1534686878699199  0.5305378603465614  0.705293630289468  1.0000
+  Ga  Ga1       1.0  0.15328057104162968  0.5315640228586247  0.9947743809728952  1.0000

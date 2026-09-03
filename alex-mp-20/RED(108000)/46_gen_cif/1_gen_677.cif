@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2TaMn2
+_chemical_formula_sum              "Sc2 Ta1 Mn2"
+_cell_length_a       3.911544411497205
+_cell_length_b       5.139466941511595
+_cell_length_c       5.4239309786565455
+_cell_angle_alpha    118.3612431870089
+_cell_angle_beta     111.15245945311213
+_cell_angle_gamma    89.97081650669112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.17913853780516897  0.31750908015545987  0.18690542172841057  1.0000
+  Sc  Sc2       1.0  0.5914470503787053  0.7311675158658958  0.012203782620096146  1.0000
+  Ta  Ta1       1.0  0.3855324536808944  0.022106765089742176  0.5995281619195553  1.0000
+  Mn  Mn1       1.0  0.8855603449757703  0.31515467409202047  0.6001129825045952  1.0000
+  Mn  Mn2       1.0  0.885263811226992  0.7336266740125765  0.5984034429537805  1.0000

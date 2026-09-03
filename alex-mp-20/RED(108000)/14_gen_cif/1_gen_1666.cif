@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hf2TiCdN
+_chemical_formula_sum              "Hf2 Ti1 Cd1 N1"
+_cell_length_a       4.171678338202996
+_cell_length_b       4.477658656285215
+_cell_length_c       4.477640449805105
+_cell_angle_alpha    89.9996886872096
+_cell_angle_beta     89.9989053366651
+_cell_angle_gamma    89.99816735831988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6374117920757234  0.5050880148951579  0.18947606693173635  1.0000
+  Hf  Hf2       1.0  0.6375285372591675  0.004940683568167746  0.6893178624994042  1.0000
+  Ti  Ti1       1.0  0.13727470239624678  0.5048803625868503  0.6896061414501141  1.0000
+  Cd  Cd1       1.0  0.1373238803186466  0.0050956065227108814  0.18924546686071525  1.0000
+  N   N1        1.0  0.637148691403865  0.5050322909660828  0.6892583633661219  1.0000

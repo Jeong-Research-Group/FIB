@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrNiZnNiZnPr
+_chemical_formula_sum              "Pr2 Ni2 Zn2"
+_cell_length_a       4.022512975830903
+_cell_length_b       4.02168767536203
+_cell_length_c       7.599583625793457
+_cell_angle_alpha    90.0324390734187
+_cell_angle_beta     90.04073775252185
+_cell_angle_gamma    90.01926363961284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6576435565948486  0.16907945275306704  0.3982545733451843  1.0000
+  Ni  Ni1       1.0  0.6575692296028137  0.16946680843830111  0.9376783967018127  1.0000
+  Zn  Zn1       1.0  0.1572973132133484  0.16903533041477206  0.7233917117118835  1.0000
+  Ni  Ni2       1.0  0.1572035402059555  0.6691490411758423  0.5094422698020935  1.0000
+  Zn  Zn2       1.0  0.6576592922210693  0.6693903207778931  0.7230672836303711  1.0000
+  Pr  Pr2       1.0  0.1573299914598465  0.6692978143692017  0.04814380407333374  1.0000

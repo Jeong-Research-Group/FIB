@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaMg2InSn2
+_chemical_formula_sum              "Ba1 Mg2 In1 Sn2"
+_cell_length_a       5.066974135592641
+_cell_length_b       5.068651732148495
+_cell_length_c       7.944869498642418
+_cell_angle_alpha    90.01496737066434
+_cell_angle_beta     90.00299118297289
+_cell_angle_gamma    119.98078449172479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.37030461751418403  0.0385034712834392  0.7377143458655294  1.0000
+  Mg  Mg1       1.0  0.037402234178422894  0.37160486006864063  0.08562060698296876  1.0000
+  Mg  Mg2       1.0  0.7035898687614571  0.7052737592339283  0.3875723518587195  1.0000
+  In  In1       1.0  0.3706126511585043  0.03842110569548444  0.2378475364717296  1.0000
+  Sn  Sn1       1.0  0.7037012109979929  0.7050924043175594  0.9985080719289536  1.0000
+  Sn  Sn2       1.0  0.036929676927545084  0.371190907615746  0.47533598666549537  1.0000

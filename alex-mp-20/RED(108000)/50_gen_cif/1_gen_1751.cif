@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2In2Pb2N2
+_chemical_formula_sum              "Sm2 In2 Pb2 N2"
+_cell_length_a       4.388292488041981
+_cell_length_b       4.419293880611136
+_cell_length_c       10.414839620861969
+_cell_angle_alpha    89.98403124417563
+_cell_angle_beta     89.99129313950174
+_cell_angle_gamma    90.00001935427593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.2119439318480038  0.5070344254233196  0.9023587182586111  1.0000
+  Sm  Sm2       1.0  0.7120524317041207  0.007190213614313743  0.7348437403144218  1.0000
+  In  In1       1.0  0.712606104211298  0.5065572648527201  0.315136343973202  1.0000
+  In  In2       1.0  0.21235685850781735  0.006803845449417061  0.31665975055126816  1.0000
+  Pb  Pb1       1.0  0.711981923621325  0.006496316158040595  0.09548969128857994  1.0000
+  Pb  Pb2       1.0  0.21259034987393002  0.5069710542668  0.5364002078455565  1.0000
+  N   N1        1.0  0.21201206830654135  0.007110150846472797  0.8198323208475772  1.0000
+  N   N2        1.0  0.7119995960565533  0.5071254768931733  0.8174158673566391  1.0000

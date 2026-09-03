@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2Y3GeCl2
+_chemical_formula_sum              "Cl4 Y3 Ge1"
+_cell_length_a       4.012205630711634
+_cell_length_b       4.011953831272681
+_cell_length_c       16.83727264404297
+_cell_angle_alpha    90.00095190079637
+_cell_angle_beta     90.00700344835353
+_cell_angle_gamma    119.98910259446089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.03061719611287118  0.24479322135448459  0.5809756517410278  1.0000
+  Cl  Cl2       1.0  0.697797417640686  0.5777779817581177  0.4015633761882782  1.0000
+  Y   Y1        1.0  0.3643260598182679  0.9111343026161195  0.4935778081417084  1.0000
+  Y   Y2        1.0  0.7006269693374634  0.5812422633171082  0.0887828916311264  1.0000
+  Y   Y3        1.0  0.3672367036342621  0.9153583645820618  0.894417941570282  1.0000
+  Ge  Ge1       1.0  0.034369654953479774  0.24776145815849304  0.9913476705551147  1.0000
+  Cl  Cl3       1.0  0.6992046236991882  0.5815505981445312  0.7971477508544922  1.0000
+  Cl  Cl4       1.0  0.3677905201911926  0.9138643741607666  0.18560999631881714  1.0000

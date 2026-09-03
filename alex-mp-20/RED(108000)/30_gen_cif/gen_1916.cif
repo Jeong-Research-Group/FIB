@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2BaMgCa2
+_chemical_formula_sum              "Pr2 Ba1 Mg1 Ca2"
+_cell_length_a       3.9020007665513297
+_cell_length_b       3.8996520145348805
+_cell_length_c       15.845911979675293
+_cell_angle_alpha    89.21629976181256
+_cell_angle_beta     89.0044681934699
+_cell_angle_gamma    88.60118656306034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.08816112577915192  0.03150998055934906  0.3822732567787171  1.0000
+  Pr  Pr2       1.0  0.5889208316802979  0.5323080420494081  0.2282342314720154  1.0000
+  Ba  Ba1       1.0  0.5886621475219727  0.5310796499252319  0.9384527802467347  1.0000
+  Mg  Mg1       1.0  0.08968007564544678  0.03284308314323425  0.10004672408103944  1.0000
+  Ca  Ca1       1.0  0.08841048181056976  0.03029187023639679  0.7305793762207032  1.0000
+  Ca  Ca2       1.0  0.5871588587760925  0.5304776430130005  0.5545420050621033  1.0000

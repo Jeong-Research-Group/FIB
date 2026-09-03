@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgTl2Ag2
+_chemical_formula_sum              "Mg1 Tl2 Ag2"
+_cell_length_a       5.055208177864784
+_cell_length_b       5.05585423619537
+_cell_length_c       6.012999795429236
+_cell_angle_alpha    65.08751126156577
+_cell_angle_beta     65.1345099108391
+_cell_angle_gamma    59.97254869815284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2682282409053674  0.2201812046495936  0.6717863357343671  1.0000
+  Tl  Tl1       1.0  0.4817701003915828  0.4342479762893273  0.03042115444664992  1.0000
+  Tl  Tl2       1.0  0.05489258859665791  0.006556518347912054  0.3125738474526859  1.0000
+  Ag  Ag1       1.0  0.6704261254665294  0.621728802888742  0.46634413057814267  1.0000
+  Ag  Ag2       1.0  0.8663011707745034  0.8190097012467502  0.8763667802572493  1.0000

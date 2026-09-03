@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2FeHC
+_chemical_formula_sum              "La2 Fe1 H1 C1"
+_cell_length_a       3.8457690655057446
+_cell_length_b       3.694963502646742
+_cell_length_c       7.36696054998948
+_cell_angle_alpha    104.63488752859972
+_cell_angle_beta     105.1736962119177
+_cell_angle_gamma    89.99869684680162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.23671742332278206  0.22142056176363767  0.9006564806945591  1.0000
+  La  La2       1.0  0.4896942978177359  0.4723258099898541  0.4047955563404073  1.0000
+  Fe  Fe1       1.0  0.8639760780014528  0.8469975742600704  0.15285037738003227  1.0000
+  H   H1        1.0  0.3623117740674273  0.8471696582981924  0.153189829791183  1.0000
+  C   C1        1.0  0.8630395655386492  0.3469639970899763  0.15276761807499878  1.0000

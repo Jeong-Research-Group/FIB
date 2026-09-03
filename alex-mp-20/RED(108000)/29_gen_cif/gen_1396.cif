@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cr2FeMo
+_chemical_formula_sum              "Cr2 Fe1 Mo1"
+_cell_length_a       2.9724318395780736
+_cell_length_b       4.120249924586978
+_cell_length_c       4.1182451248168945
+_cell_angle_alpha    90.01676378955958
+_cell_angle_beta     90.0199329979169
+_cell_angle_gamma    90.03760952595526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.1952284574508667  0.1254919916391373  0.2890627682209015  1.0000
+  Cr  Cr2       1.0  0.1954488903284073  0.6254757046699524  0.7884305715560913  1.0000
+  Fe  Fe1       1.0  0.6954876184463501  0.6254879832267761  0.289139986038208  1.0000
+  Mo  Mo1       1.0  0.6953044533729553  0.12542517483234408  0.7883701324462891  1.0000

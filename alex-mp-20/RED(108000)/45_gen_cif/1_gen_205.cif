@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zr3GaGe2As
+_chemical_formula_sum              "Zr3 Ga1 Ge2 As1"
+_cell_length_a       3.898793891757464
+_cell_length_b       3.8988104717765513
+_cell_length_c       10.902183313424816
+_cell_angle_alpha    90.0000321216846
+_cell_angle_beta     90.00104394577164
+_cell_angle_gamma    119.98924546292422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9458849717087648  0.5256333363771012  0.3681855120884786  1.0000
+  Zr  Zr2       1.0  0.27922811473666764  0.1922363799893494  0.8028598622601064  1.0000
+  Zr  Zr3       1.0  0.6126670058145057  0.8588146292426707  0.08852446791326266  1.0000
+  Ga  Ga1       1.0  0.6123410584568016  0.8592308685129698  0.5392258027429079  1.0000
+  Ge  Ge1       1.0  0.9458173207195621  0.5258020091990363  0.6392448011472178  1.0000
+  Ge  Ge2       1.0  0.9459349374375805  0.5255297622182871  0.9464201873961933  1.0000
+  As  As1       1.0  0.27925228547590175  0.19223283226393917  0.2343791064339674  1.0000

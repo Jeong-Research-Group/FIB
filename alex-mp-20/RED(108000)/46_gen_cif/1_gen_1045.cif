@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiCaH2
+_chemical_formula_sum              "Li1 Ca1 H2"
+_cell_length_a       3.4764239640624033
+_cell_length_b       3.4748632808685835
+_cell_length_c       4.485883088962584
+_cell_angle_alpha    90.01285145117228
+_cell_angle_beta     90.0098055377528
+_cell_angle_gamma    89.96754233827761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6039986069925902  0.32529726521285646  0.07284661029832618  1.0000
+  Ca  Ca1       1.0  0.10407814112933249  0.8249186028967269  0.5728828546667822  1.0000
+  H   H1        1.0  0.10443736235398332  0.8245117402595468  0.07302735077162131  1.0000
+  H   H2        1.0  0.6042251290367351  0.3250279963011791  0.5736832777685276  1.0000

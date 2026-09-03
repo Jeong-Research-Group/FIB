@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2CoCeFeRe
+_chemical_formula_sum              "Fe3 Co1 Ce1 Re1"
+_cell_length_a       4.874758162519051
+_cell_length_b       4.926836530872065
+_cell_length_c       4.8821234703063965
+_cell_angle_alpha    60.61791702112199
+_cell_angle_beta     60.17510157499056
+_cell_angle_gamma    60.522082611565565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6804813146591187  0.2754361033439636  0.7166692614555359  1.0000
+  Fe  Fe2       1.0  0.17523226141929624  0.2769962847232819  0.22074934840202332  1.0000
+  Co  Co1       1.0  0.1750533580780029  0.7823190093040466  0.7158029079437257  1.0000
+  Ce  Ce1       1.0  0.5514562129974365  0.6546462774276733  0.09224673360586166  1.0000
+  Fe  Fe3       1.0  0.17613902688026425  0.2757856845855713  0.7158545851707458  1.0000
+  Re  Re1       1.0  0.7978994846343994  0.9123274087905885  0.33945927023887634  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Nd2CoRh
+_chemical_formula_sum              "Pr2 Nd2 Co1 Rh1"
+_cell_length_a       4.261132743155207
+_cell_length_b       7.40633293765524
+_cell_length_c       6.157841624151667
+_cell_angle_alpha    113.70688193949093
+_cell_angle_beta     90.00402646074228
+_cell_angle_gamma    89.99998635088457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6074166682934304  0.35521124092462886  0.6781407431091562  1.0000
+  Pr  Pr2       1.0  0.6076437673337243  0.8713615845033149  0.17791279594453804  1.0000
+  Nd  Nd1       1.0  0.1075182191686828  0.35628055655581686  0.1839034838496547  1.0000
+  Nd  Nd2       1.0  0.10769624594977731  0.8694664346031985  0.6713746614884157  1.0000
+  Co  Co1       1.0  0.10787252294928545  0.1131644860836743  0.42790745911911665  1.0000
+  Rh  Rh1       1.0  0.6076453448165542  0.6130458868445179  0.42781085483671266  1.0000

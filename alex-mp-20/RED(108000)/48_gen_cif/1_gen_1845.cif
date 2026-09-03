@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCa3Ni
+_chemical_formula_sum              "Na1 Ca3 Ni1"
+_cell_length_a       3.597269988811955
+_cell_length_b       5.35641723419723
+_cell_length_c       8.290832332431295
+_cell_angle_alpha    89.98314974940789
+_cell_angle_beta     89.97777979886074
+_cell_angle_gamma    90.00440263984622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7090193223481207  0.2928538819093762  0.39627995500964414  1.0000
+  Ca  Ca1       1.0  0.20979691011263285  0.29260553662548233  0.8961415679926843  1.0000
+  Ca  Ca2       1.0  0.20887443697420346  0.7924658697591175  0.6317582527210834  1.0000
+  Ca  Ca3       1.0  0.20854289395186115  0.7926782318220669  0.16081294230734633  1.0000
+  Ni  Ni1       1.0  0.707953270713963  0.7922751832139543  0.8966458636343108  1.0000

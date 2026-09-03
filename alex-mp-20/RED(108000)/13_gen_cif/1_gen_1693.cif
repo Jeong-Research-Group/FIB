@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2DyPbC
+_chemical_formula_sum              "Pr2 Dy1 Pb1 C1"
+_cell_length_a       4.922997202942351
+_cell_length_b       5.196164955105233
+_cell_length_c       5.196152271143644
+_cell_angle_alpha    90.0029038666317
+_cell_angle_beta     90.00314195192202
+_cell_angle_gamma    90.00557159921406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5161890732794783  0.43101010315340005  0.27237864746974305  1.0000
+  Pr  Pr2       1.0  0.5159749411826229  0.930817494127668  0.7722604324326829  1.0000
+  Dy  Dy1       1.0  0.016081010228286084  0.43051086919620135  0.7725023547862586  1.0000
+  Pb  Pb1       1.0  0.01623091896814763  0.9305923963425682  0.2723272707514666  1.0000
+  C   C1        1.0  0.5158394686886909  0.4305579830509279  0.7724178862003114  1.0000

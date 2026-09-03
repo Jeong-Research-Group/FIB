@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2AlIn
+_chemical_formula_sum              "Zr2 Al1 In1"
+_cell_length_a       3.0816150429240667
+_cell_length_b       3.0834698702147465
+_cell_length_c       8.605918884277344
+_cell_angle_alpha    90.0023111082587
+_cell_angle_beta     90.01236514661744
+_cell_angle_gamma    90.05947295579138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.43557399511337275  0.361723393201828  0.3750338554382324  1.0000
+  Zr  Zr2       1.0  0.43587821722030634  0.36229839920997625  0.8406808376312256  1.0000
+  Al  Al1       1.0  0.9357187747955321  0.8621221780776979  0.607732892036438  1.0000
+  In  In1       1.0  0.9357604980468749  0.8621593117713928  0.10783679783344269  1.0000

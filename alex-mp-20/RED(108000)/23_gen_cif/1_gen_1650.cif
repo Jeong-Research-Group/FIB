@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiTe4Ir
+_chemical_formula_sum              "Ni1 Te4 Ir1"
+_cell_length_a       4.068354732900139
+_cell_length_b       5.451056900765006
+_cell_length_c       6.484878393877909
+_cell_angle_alpha    90.47985016947617
+_cell_angle_beta     89.99835698677043
+_cell_angle_gamma    89.99052529128937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8841326457780155  0.09662496309583854  0.7198822160836504  1.0000
+  Te  Te1       1.0  0.8843750606074643  0.8718609957508733  0.08204910195538688  1.0000
+  Te  Te2       1.0  0.8844934938501194  0.32154274773909797  0.35763861696441634  1.0000
+  Te  Te3       1.0  0.38418627237583974  0.365644967493386  0.8542284486480501  1.0000
+  Te  Te4       1.0  0.38425132982642546  0.8273933635128169  0.5855438713398189  1.0000
+  Ir  Ir1       1.0  0.3843540054201061  0.5966085284621161  0.21995684151747216  1.0000

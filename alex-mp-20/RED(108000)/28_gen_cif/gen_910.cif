@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Hg2InCe
+_chemical_formula_sum              "Hg2 In1 Ce1"
+_cell_length_a       4.7110974158069405
+_cell_length_b       4.72983149414359
+_cell_length_c       4.726383209228516
+_cell_angle_alpha    90.1108906133738
+_cell_angle_beta     90.11634113124376
+_cell_angle_gamma    90.00920959995777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.45229336619377136  0.10686688125133514  0.7742385864257812  1.0000
+  Hg  Hg2       1.0  0.4522761404514313  0.6073803901672363  0.2745404839515686  1.0000
+  In  In1       1.0  0.9522541165351868  0.6070221066474915  0.7738020420074463  1.0000
+  Ce  Ce1       1.0  0.9520474076271057  0.10705913603305817  0.2743116617202759  1.0000

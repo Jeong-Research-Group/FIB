@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       La2Ge2Pt2SnGePt2
+_chemical_formula_sum              "La2 Ge3 Pt4 Sn1"
+_cell_length_a       4.439386868690453
+_cell_length_b       4.4400471387390406
+_cell_length_c       10.564887046813965
+_cell_angle_alpha    89.89466048595179
+_cell_angle_beta     89.95361869131382
+_cell_angle_gamma    89.86436860917627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.30310529470443726  0.5629980564117432  0.18743173778057098  1.0000
+  La  La2       1.0  0.8025311827659607  0.062353488057851784  0.7029317617416382  1.0000
+  Ge  Ge1       1.0  0.3032010495662689  0.5628433227539061  0.8206316828727722  1.0000
+  Ge  Ge2       1.0  0.8026857376098633  0.06235966458916664  0.06976138800382614  1.0000
+  Pt  Pt1       1.0  0.3031524419784546  0.5625039339065552  0.5847376585006714  1.0000
+  Pt  Pt2       1.0  0.803168535232544  0.5626450777053833  0.9450858235359191  1.0000
+  Sn  Sn1       1.0  0.8029919266700745  0.562509298324585  0.44547286629676813  1.0000
+  Ge  Ge3       1.0  0.30284583568573  0.06272349506616591  0.445517212152481  1.0000
+  Pt  Pt3       1.0  0.8028911352157593  0.06222692877054214  0.30624204874038696  1.0000
+  Pt  Pt4       1.0  0.3025580942630768  0.06264732778072357  0.9449822306632994  1.0000

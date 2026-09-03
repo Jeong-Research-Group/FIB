@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SiSn2Pt2
+_chemical_formula_sum              "Si1 Sn2 Pt2"
+_cell_length_a       3.9773009603648646
+_cell_length_b       3.9778360826420496
+_cell_length_c       7.676370856045477
+_cell_angle_alpha    90.06313198898744
+_cell_angle_beta     89.9824573531777
+_cell_angle_gamma    120.00201148618784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.4959006396320587  0.45699399286304837  0.423012541667623  1.0000
+  Sn  Sn1       1.0  0.8296219479105162  0.12446512587389465  0.7600140199289044  1.0000
+  Sn  Sn2       1.0  0.16219393745880276  0.7895073693690893  0.0854225467598415  1.0000
+  Pt  Pt1       1.0  0.16256138303482917  0.7906522376005417  0.5441800214529063  1.0000
+  Pt  Pt2       1.0  0.82935007636767  0.12335596410397862  0.3020218943971399  1.0000

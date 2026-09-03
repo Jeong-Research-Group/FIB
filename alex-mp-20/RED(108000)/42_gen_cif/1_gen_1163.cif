@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaCo2P2H
+_chemical_formula_sum              "La1 Co2 P2 H1"
+_cell_length_a       4.119037249478929
+_cell_length_b       4.1189509995353015
+_cell_length_c       5.729270446207781
+_cell_angle_alpha    111.09707244222307
+_cell_angle_beta     111.06382330480953
+_cell_angle_gamma    89.95980686108926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5533407911597422  0.2570923211108904  0.2008745101867103  1.0000
+  Co  Co1       1.0  0.8865583082689571  0.5893607636886272  0.8665568105923496  1.0000
+  Co  Co2       1.0  0.21976261797952332  0.924284621023221  0.5344311158294558  1.0000
+  P   P1        1.0  0.3042399020548931  0.5082480770206972  0.7015520776419756  1.0000
+  P   P2        1.0  0.8026433095685234  0.006097188542658845  0.6998598682500147  1.0000
+  H   H1        1.0  0.05417763200340211  0.7571449322216808  0.2005692852318425  1.0000

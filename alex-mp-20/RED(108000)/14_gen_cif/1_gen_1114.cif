@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmGd2ClO2
+_chemical_formula_sum              "Sm1 Gd2 Cl1 O2"
+_cell_length_a       3.950804932700149
+_cell_length_b       3.9498190474233787
+_cell_length_c       9.141990882628733
+_cell_angle_alpha    89.94981533530414
+_cell_angle_beta     90.00730321643665
+_cell_angle_gamma    90.00628115830139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.12498813129271164  0.014511047689450378  0.33289774885490275  1.0000
+  Gd  Gd1       1.0  0.6248791581568333  0.5149825965500926  0.08823017186157993  1.0000
+  Gd  Gd2       1.0  0.6249142594995252  0.5146082492305567  0.6567198723539736  1.0000
+  Cl  Cl1       1.0  0.1247274034890363  0.013627438211573575  0.8476656664036408  1.0000
+  O   O1        1.0  0.12499988211580769  0.5147581177709109  0.1976470564644525  1.0000
+  O   O2        1.0  0.6249850515136394  0.014879556587343478  0.19746763459434521  1.0000

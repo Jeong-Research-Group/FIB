@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiPdRh2
+_chemical_formula_sum              "Ni1 Pd1 Rh2"
+_cell_length_a       2.7280002601823137
+_cell_length_b       4.628745340711252
+_cell_length_c       4.656438831461927
+_cell_angle_alpha    109.31136602592062
+_cell_angle_beta     89.9967212547805
+_cell_angle_gamma    90.01983773106949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5912877734766224  0.796627308249593  0.5703168794939008  1.0000
+  Pd  Pd1       1.0  0.09125573550768316  0.7962854799107322  0.07057659182472445  1.0000
+  Rh  Rh1       1.0  0.5918204462889735  0.2962506815728217  0.06995014270890854  1.0000
+  Rh  Rh2       1.0  0.09218990573715155  0.2964014058456582  0.5701511064282058  1.0000

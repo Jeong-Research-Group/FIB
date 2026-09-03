@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu2Sc2O
+_chemical_formula_sum              "Lu2 Sc2 O1"
+_cell_length_a       4.555543750192718
+_cell_length_b       4.549690143393993
+_cell_length_c       5.0230323461786615
+_cell_angle_alpha    90.00001157277565
+_cell_angle_beta     90.00003031587677
+_cell_angle_gamma    90.00004381802586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.05871701107518853  0.5846648544774108  0.9689048201415676  1.0000
+  Lu  Lu2       1.0  0.5587176781149447  0.08455581141077118  0.9684415150758886  1.0000
+  Sc  Sc1       1.0  0.058581548530183325  0.08454870056547761  0.468719353978425  1.0000
+  Sc  Sc2       1.0  0.5587476137052617  0.5844501007996836  0.4687546107174225  1.0000
+  O   O1        1.0  0.5588517628244232  0.08458137891965378  0.4689467474438296  1.0000

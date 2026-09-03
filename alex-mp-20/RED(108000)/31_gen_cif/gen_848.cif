@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InSnPt2SnInPt2
+_chemical_formula_sum              "In2 Sn2 Pt4"
+_cell_length_a       4.109007359459181
+_cell_length_b       5.727544533074524
+_cell_length_c       7.284016132354736
+_cell_angle_alpha    113.24329899127115
+_cell_angle_beta     90.00120461783851
+_cell_angle_gamma    90.01929096035059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.13026653230190277  0.6839097738265991  0.7214773297309875  1.0000
+  Sn  Sn1       1.0  0.1296379566192627  0.1837122142314911  0.2299116551876068  1.0000
+  Pt  Pt1       1.0  0.1301145702600479  0.8039942979812622  0.36516061425209045  1.0000
+  Pt  Pt2       1.0  0.12958577275276184  0.3118724822998047  0.8842713236808777  1.0000
+  Sn  Sn2       1.0  0.6297938227653503  0.6344057321548462  0.08179755508899686  1.0000
+  In  In2       1.0  0.6297381520271301  0.13059775531291962  0.5904842615127563  1.0000
+  Pt  Pt3       1.0  0.629737138748169  0.5053631663322449  0.43142405152320856  1.0000
+  Pt  Pt4       1.0  0.6298041343688965  0.009995244443416595  0.9433190226554871  1.0000

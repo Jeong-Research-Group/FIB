@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnNi2As2Rh
+_chemical_formula_sum              "Mn1 Ni2 As2 Rh1"
+_cell_length_a       4.044583427780178
+_cell_length_b       4.044764279118237
+_cell_length_c       5.607780982854602
+_cell_angle_alpha    90.01174873915815
+_cell_angle_beta     89.99098745236192
+_cell_angle_gamma    119.98996977171574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.0298364766971638  0.8795002687877249  0.1361265494322298  1.0000
+  Ni  Ni1       1.0  0.36303979709775674  0.5462032559175967  0.9083692411098422  1.0000
+  Ni  Ni2       1.0  0.6964565308177689  0.21277165288603442  0.3638731355132017  1.0000
+  As  As1       1.0  0.6965320090228327  0.21271260669684758  0.8910176065469336  1.0000
+  As  As2       1.0  0.3630970956526406  0.54626140363598  0.3813308629358783  1.0000
+  Rh  Rh1       1.0  0.029467807510465904  0.8795143414478734  0.6361671515503943  1.0000

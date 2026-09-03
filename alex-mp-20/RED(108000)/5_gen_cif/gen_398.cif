@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NHFeTbH
+_chemical_formula_sum              "N1 H2 Fe1 Tb1"
+_cell_length_a       3.7619403108693197
+_cell_length_b       3.5353796517342673
+_cell_length_c       3.5319106578826904
+_cell_angle_alpha    89.99744118345187
+_cell_angle_beta     90.01105375042012
+_cell_angle_gamma    90.00500903326493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.6419024467468261  0.86268550157547  0.7768791317939758  1.0000
+  H   H1        1.0  0.14224280416965485  0.36196598410606384  0.7762941718101501  1.0000
+  Fe  Fe1       1.0  0.14193980395793915  0.8625026345252991  0.7765661478042603  1.0000
+  Tb  Tb1       1.0  0.6415606141090392  0.3622272312641144  0.27756911516189575  1.0000
+  H   H2        1.0  0.141840860247612  0.8630399703979492  0.27596235275268555  1.0000

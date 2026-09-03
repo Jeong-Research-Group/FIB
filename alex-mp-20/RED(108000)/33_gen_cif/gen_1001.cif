@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al2GeAl3Ni
+_chemical_formula_sum              "Al5 Ge1 Ni1"
+_cell_length_a       4.050705439052044
+_cell_length_b       4.057563204178952
+_cell_length_c       6.675779342651367
+_cell_angle_alpha    89.88962664361152
+_cell_angle_beta     89.99684012686025
+_cell_angle_gamma    90.00063771205431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4274763762950897  0.6409003734588623  0.1328761875629425  1.0000
+  Al  Al2       1.0  0.9275673627853394  0.6406249999999999  0.8351326584815979  1.0000
+  Ge  Ge1       1.0  0.42779505252838135  0.14086511731147763  0.8344778418540955  1.0000
+  Al  Al3       1.0  0.9277862310409546  0.14087346196174622  0.13300687074661255  1.0000
+  Al  Al4       1.0  0.42761242389678955  0.6406213641166686  0.5369094610214233  1.0000
+  Al  Al5       1.0  0.9278357028961182  0.1401911973953247  0.5367265939712524  1.0000
+  Ni  Ni1       1.0  0.927245557308197  0.6403959989547728  0.3349437713623047  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiPr2Cu3
+_chemical_formula_sum              "Li1 Pr2 Cu3"
+_cell_length_a       5.2281549182345115
+_cell_length_b       5.781449749902817
+_cell_length_c       5.808552041070636
+_cell_angle_alpha    60.1330231834041
+_cell_angle_beta     56.31012591355909
+_cell_angle_gamma    56.33766575604223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.18914978628017762  0.4779286971127411  0.6098594151729426  1.0000
+  Pr  Pr1       1.0  0.085290400834348  0.84693694212032  0.9763097975110323  1.0000
+  Pr  Pr2       1.0  0.28903902432872747  0.11078857235127855  0.24465926075197103  1.0000
+  Cu  Cu1       1.0  0.6880344948871175  0.4793029140184086  0.6102027619712005  1.0000
+  Cu  Cu2       1.0  0.6882989282661516  0.47896891661991914  0.10941737220101358  1.0000
+  Cu  Cu3       1.0  0.6883720356299359  0.9761397738995424  0.6109940414775995  1.0000

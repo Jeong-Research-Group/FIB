@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnZn2Ir
+_chemical_formula_sum              "Mn1 Zn2 Ir1"
+_cell_length_a       3.9752373372081298
+_cell_length_b       3.9741248342413815
+_cell_length_c       4.540472653826556
+_cell_angle_alpha    115.95540227744127
+_cell_angle_beta     115.96643089189384
+_cell_angle_gamma    90.00031541339501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.10096738509257458  0.08409547279149795  0.5309623783286699  1.0000
+  Zn  Zn1       1.0  0.3513179383853512  0.833967650151305  0.031222796673606182  1.0000
+  Zn  Zn2       1.0  0.8510449563436462  0.3345332730403512  0.031831097704809456  1.0000
+  Ir  Ir1       1.0  0.6013031935935583  0.584041861673423  0.5317690112822988  1.0000

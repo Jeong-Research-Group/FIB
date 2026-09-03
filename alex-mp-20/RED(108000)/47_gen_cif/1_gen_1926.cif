@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiTi2In2Pt3
+_chemical_formula_sum              "Li1 Ti2 In2 Pt3"
+_cell_length_a       4.5313179651793885
+_cell_length_b       4.526811002427169
+_cell_length_c       8.011274854514978
+_cell_angle_alpha    73.61182342898876
+_cell_angle_beta     73.69337942535046
+_cell_angle_gamma    60.0459150768072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9748943806500624  0.10677063134731514  0.3017651975720201  1.0000
+  Ti  Ti1       1.0  0.10231805325312934  0.234571342085069  0.9187201292794589  1.0000
+  Ti  Ti2       1.0  0.5926308528465489  0.7245302000773579  0.44902519230284177  1.0000
+  In  In1       1.0  0.8485221386808214  0.9805438369899724  0.6806510155201625  1.0000
+  In  In2       1.0  0.3471810544405388  0.47936513804455944  0.18447211820581919  1.0000
+  Pt  Pt1       1.0  0.7159827163445139  0.8481097773095081  0.07798992752174552  1.0000
+  Pt  Pt2       1.0  0.46845856960192783  0.6007133478727454  0.8201659538334582  1.0000
+  Pt  Pt3       1.0  0.22926778942350734  0.36112347510125437  0.5389123202050908  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NdHg2PdHgPd
+_chemical_formula_sum              "Nd1 Hg3 Pd2"
+_cell_length_a       4.7049799645613
+_cell_length_b       5.731159317057659
+_cell_length_c       5.730065822601318
+_cell_angle_alpha    120.02507014381834
+_cell_angle_beta     90.00974235459323
+_cell_angle_gamma    89.95348891660701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.4520663321018219  0.6076254844665527  0.9321205615997314  1.0000
+  Hg  Hg1       1.0  0.9513455629348755  0.6077901721000671  0.4319031536579132  1.0000
+  Hg  Hg2       1.0  0.951801061630249  0.1078803911805153  0.9321252703666687  1.0000
+  Pd  Pd1       1.0  0.4515674412250519  0.9405099153518676  0.598998725414276  1.0000
+  Hg  Hg3       1.0  0.9514886140823364  0.10767970979213715  0.4319033920764923  1.0000
+  Pd  Pd2       1.0  0.4513782262802124  0.2747425436973572  0.2653264105319977  1.0000

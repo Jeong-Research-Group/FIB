@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ag2Hg2NdSm
+_chemical_formula_sum              "Ag2 Hg2 Nd1 Sm1"
+_cell_length_a       4.925152058709419
+_cell_length_b       4.929836342704428
+_cell_length_c       7.100228786468506
+_cell_angle_alpha    89.83835242505752
+_cell_angle_beta     89.91834076160647
+_cell_angle_gamma    119.77565961690918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.32836952805519104  0.05019552260637283  0.6095798611640931  1.0000
+  Ag  Ag2       1.0  0.3278566300868988  0.05205080658197403  0.10380154103040697  1.0000
+  Hg  Hg1       1.0  0.9948875308036804  0.38655540347099304  0.10414908081293107  1.0000
+  Hg  Hg2       1.0  0.9955841898918152  0.3833344578742981  0.6103036403656007  1.0000
+  Nd  Nd1       1.0  0.6615117788314819  0.7183290719985962  0.35773822665214544  1.0000
+  Sm  Sm1       1.0  0.6627451777458191  0.7181605100631714  0.8569878935813905  1.0000

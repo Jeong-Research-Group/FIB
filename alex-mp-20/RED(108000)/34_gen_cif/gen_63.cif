@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyPDyPOs2
+_chemical_formula_sum              "Dy2 P2 Os2"
+_cell_length_a       4.04913400925853
+_cell_length_b       4.051471344743768
+_cell_length_c       6.697662830352783
+_cell_angle_alpha    90.24429786961755
+_cell_angle_beta     90.16564142480166
+_cell_angle_gamma    90.20923852193789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.4792328476905823  0.035582102835178375  0.23037052154541016  1.0000
+  P   P1        1.0  0.4783478379249573  0.03524548560380935  0.6968534588813782  1.0000
+  Dy  Dy2       1.0  0.9775948524475098  0.5342491865158081  0.5679663419723512  1.0000
+  P   P2        1.0  0.9784987568855286  0.5338939428329468  0.10132776200771332  1.0000
+  Os  Os1       1.0  0.4778655469417572  0.5348926186561584  0.8993471264839172  1.0000
+  Os  Os2       1.0  0.978712797164917  0.03467329964041709  0.8987388610839844  1.0000

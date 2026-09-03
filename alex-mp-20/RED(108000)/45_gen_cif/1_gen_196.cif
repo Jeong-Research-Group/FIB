@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2TmGaN
+_chemical_formula_sum              "Dy2 Tm1 Ga1 N1"
+_cell_length_a       4.657970087115772
+_cell_length_b       4.746055336236062
+_cell_length_c       4.746391030538313
+_cell_angle_alpha    89.99331111755724
+_cell_angle_beta     89.99320048652494
+_cell_angle_gamma    89.99838572821803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.0452868571365705  0.7990848176291223  0.93946602582456  1.0000
+  Dy  Dy2       1.0  0.045449664144673274  0.2991071567493373  0.4392871889668538  1.0000
+  Tm  Tm1       1.0  0.545257911137416  0.2991424377409079  0.9394766385582838  1.0000
+  Ga  Ga1       1.0  0.545368711804021  0.7990331297265206  0.4395039850149633  1.0000
+  N   N1        1.0  0.04519640201670811  0.29897763471411376  0.9394497405568497  1.0000

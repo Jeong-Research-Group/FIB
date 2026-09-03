@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiNi2Mo
+_chemical_formula_sum              "Li1 Ni2 Mo1"
+_cell_length_a       2.6711441460180203
+_cell_length_b       2.671277580448546
+_cell_length_c       6.771360562595583
+_cell_angle_alpha    89.98350335355406
+_cell_angle_beta     90.02818831902371
+_cell_angle_gamma    90.00003395281153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.10774984450678021  0.17899390398883055  0.23699721269921642  1.0000
+  Ni  Ni1       1.0  0.6073086739043418  0.6789309817914949  0.4709179806122251  1.0000
+  Ni  Ni2       1.0  0.6077653689409436  0.6785966839209635  0.0025459733497628185  1.0000
+  Mo  Mo1       1.0  0.10793378979000949  0.17827984593284343  0.7366725075958929  1.0000

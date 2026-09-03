@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnNi2PtC
+_chemical_formula_sum              "Mn1 Ni2 Pt1 C1"
+_cell_length_a       3.813382921496065
+_cell_length_b       3.8118051195272797
+_cell_length_c       3.9261335845380496
+_cell_angle_alpha    90.02754115548095
+_cell_angle_beta     90.0281301030777
+_cell_angle_gamma    90.01927404757119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9717750697413327  0.32036466207514763  0.6979901249600439  1.0000
+  Ni  Ni1       1.0  0.4714109469673981  0.32015584231865113  0.1982502599685221  1.0000
+  Ni  Ni2       1.0  0.9715256849685584  0.82043715679299  0.1980590678081859  1.0000
+  Pt  Pt1       1.0  0.47150566182700193  0.8204702416213097  0.6979934142521339  1.0000
+  C   C1        1.0  0.9715066753927276  0.3203550761799772  0.19837270144080354  1.0000

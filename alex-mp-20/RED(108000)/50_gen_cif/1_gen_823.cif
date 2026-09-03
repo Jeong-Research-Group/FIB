@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCe2SnC
+_chemical_formula_sum              "Na1 Ce2 Sn1 C1"
+_cell_length_a       4.972986253804715
+_cell_length_b       4.901539852078363
+_cell_length_c       4.9020650157902645
+_cell_angle_alpha    89.9991388421326
+_cell_angle_beta     89.99779051002639
+_cell_angle_gamma    89.99516429093238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7149376082113469  0.31408651621194744  0.25764084457492925  1.0000
+  Ce  Ce1       1.0  0.2150219845118861  0.3142295021892688  0.7575752790712261  1.0000
+  Ce  Ce2       1.0  0.21502449745950522  0.8142410181565352  0.2578044944496874  1.0000
+  Sn  Sn1       1.0  0.7144753987347621  0.8144221987556486  0.7574721429249224  1.0000
+  C   C1        1.0  0.2148753249320394  0.3145133180704731  0.2575158106982128  1.0000

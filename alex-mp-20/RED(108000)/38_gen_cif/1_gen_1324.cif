@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnRhO3
+_chemical_formula_sum              "Mn1 Rh1 O3"
+_cell_length_a       4.301199002608766
+_cell_length_b       3.662658330741105
+_cell_length_c       4.879763014864678
+_cell_angle_alpha    111.67694819938117
+_cell_angle_beta     102.13773192608772
+_cell_angle_gamma    90.00187357364527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3611063403706359  0.05537650658105912  0.5777416791900328  1.0000
+  Rh  Rh1       1.0  0.8599720284546427  0.5535861815630793  0.5751681505759352  1.0000
+  O   O1        1.0  0.3595779542497654  0.5538366346671795  0.5745269269341984  1.0000
+  O   O2        1.0  0.6795052284230539  0.9359545478463964  0.33533361919352545  1.0000
+  O   O3        1.0  0.040321951271362365  0.17250530845279177  0.8164906406846164  1.0000

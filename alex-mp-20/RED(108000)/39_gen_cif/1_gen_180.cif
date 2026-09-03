@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb2GaFe2
+_chemical_formula_sum              "Tb2 Ga1 Fe2"
+_cell_length_a       4.13436014065567
+_cell_length_b       5.492415220670162
+_cell_length_c       5.49101955447176
+_cell_angle_alpha    58.42757583188138
+_cell_angle_beta     67.88616701584316
+_cell_angle_gamma    67.88944522492372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5458505614364776  0.5107413949184851  0.7554187572804537  1.0000
+  Tb  Tb2       1.0  0.9529881028837504  0.10366424378797096  0.34831512660884695  1.0000
+  Ga  Ga1       1.0  0.7494606177044963  0.8070330223365566  0.052000501963687364  1.0000
+  Fe  Fe1       1.0  0.24926415578230143  0.5231712991592151  0.3361552212473232  1.0000
+  Fe  Fe2       1.0  0.2495230854422283  0.09087999419451331  0.7679502513637775  1.0000

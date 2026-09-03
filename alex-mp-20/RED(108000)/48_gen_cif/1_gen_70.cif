@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2AlTlBi2
+_chemical_formula_sum              "Cs2 Al1 Tl1 Bi2"
+_cell_length_a       4.6298040022750735
+_cell_length_b       5.941239673151166
+_cell_length_c       10.089668234281735
+_cell_angle_alpha    72.79118774183884
+_cell_angle_beta     81.97423720500893
+_cell_angle_gamma    90.00734756473544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8673074117505332  0.9755705443202037  0.4567024610558049  1.0000
+  Cs  Cs2       1.0  0.5302025135524656  0.6271861120238191  0.15246666594507366  1.0000
+  Al  Al1       1.0  0.6991045579359751  0.3012723505244434  0.8043053230499188  1.0000
+  Tl  Tl1       1.0  0.19825573288251652  0.8023118828114758  0.804195993993999  1.0000
+  Bi  Bi1       1.0  0.34426081745953596  0.403932300422279  0.6003457275698291  1.0000
+  Bi  Bi2       1.0  0.0531084261311298  0.19917241464409044  0.008555814441809195  1.0000

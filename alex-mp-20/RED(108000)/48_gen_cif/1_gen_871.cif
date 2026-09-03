@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cr2Re2Mo2
+_chemical_formula_sum              "Cr2 Re2 Mo2"
+_cell_length_a       4.305435853393638
+_cell_length_b       4.305454796988138
+_cell_length_c       5.373939421401656
+_cell_angle_alpha    89.99942686451607
+_cell_angle_beta     90.00031734060556
+_cell_angle_gamma    120.00226795164195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.5526979104568934  0.033798981354828346  0.86858056998329  1.0000
+  Cr  Cr2       1.0  0.5522183609060933  0.033930687097392775  0.36904479384324174  1.0000
+  Re  Re1       1.0  0.8859593422880307  0.7003968895310554  0.5283759395749257  1.0000
+  Re  Re2       1.0  0.21931924712280382  0.36715041018342026  0.2090350276546888  1.0000
+  Mo  Mo1       1.0  0.8858125924089654  0.7005558488139029  0.030639278426672124  1.0000
+  Mo  Mo2       1.0  0.21906028340813577  0.3671951429038013  0.707001548899383  1.0000

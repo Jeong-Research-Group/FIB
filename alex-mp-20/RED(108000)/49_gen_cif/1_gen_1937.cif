@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Ca4Ga2
+_chemical_formula_sum              "Li2 Ca4 Ga2"
+_cell_length_a       5.826514191236394
+_cell_length_b       6.1479832986850615
+_cell_length_c       6.148440368123412
+_cell_angle_alpha    100.43097659869964
+_cell_angle_beta     89.94413741293394
+_cell_angle_gamma    90.05686734832776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8867319213175469  0.6904327326376889  0.7791704472980647  1.0000
+  Li  Li2       1.0  0.38696938946991166  0.6904708059557355  0.7793709314223292  1.0000
+  Ca  Ca1       1.0  0.6372990312481501  0.8677271720794404  0.3179499724228409  1.0000
+  Ca  Ca2       1.0  0.13715421059451086  0.15122257469486777  0.6009019702116041  1.0000
+  Ca  Ca3       1.0  0.1368052400111277  0.5123507746660404  0.2402418406476641  1.0000
+  Ca  Ca4       1.0  0.6365438350971037  0.22934313001904533  0.9583089889064088  1.0000
+  Ga  Ga1       1.0  0.6367601937586568  0.39444328117776195  0.4844039477679668  1.0000
+  Ga  Ga2       1.0  0.13681503361377073  0.9858481329913569  0.07462063008107034  1.0000

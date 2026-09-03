@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2DyAlN
+_chemical_formula_sum              "La2 Dy1 Al1 N1"
+_cell_length_a       4.806666537636003
+_cell_length_b       5.106438164177386
+_cell_length_c       5.108944892883301
+_cell_angle_alpha    89.99766657980294
+_cell_angle_beta     89.94681582463515
+_cell_angle_gamma    89.97806393775093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5336543917655945  0.5335662961006166  0.355554461479187  1.0000
+  La  La2       1.0  0.5340077877044678  0.03327342867851258  0.85547935962677  1.0000
+  Dy  Dy1       1.0  0.034227944910526276  0.5333110094070435  0.8556089401245117  1.0000
+  Al  Al1       1.0  0.0343160554766655  0.033452294766902924  0.35571226477622986  1.0000
+  N   N1        1.0  0.5339264869689941  0.5333381295204163  0.8555054068565369  1.0000

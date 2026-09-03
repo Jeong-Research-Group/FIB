@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2Ge2Li
+_chemical_formula_sum              "Li3 Ge2"
+_cell_length_a       4.471592011427312
+_cell_length_b       4.472608861237612
+_cell_length_c       5.177239418029785
+_cell_angle_alpha    64.82442806883758
+_cell_angle_beta     64.72029665476951
+_cell_angle_gamma    60.217597188431185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9881989359855652  0.8802186846733093  0.6011555194854736  1.0000
+  Li  Li2       1.0  0.3872965872287751  0.2746244072914123  0.40838417410850525  1.0000
+  Ge  Ge1       1.0  0.18742862343788147  0.07211846858263016  0.010663068853318691  1.0000
+  Ge  Ge2       1.0  0.5863440632820129  0.4761759042739868  0.8088676929473877  1.0000
+  Li  Li3       1.0  0.7872355580329896  0.6702997088432311  0.21363355219364166  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta3FeMoPt
+_chemical_formula_sum              "Ta3 Fe1 Mo1 Pt1"
+_cell_length_a       3.3858436616801764
+_cell_length_b       5.296248337596926
+_cell_length_c       6.1602676263625264
+_cell_angle_alpha    109.30518753061372
+_cell_angle_beta     89.99859690291689
+_cell_angle_gamma    108.64520933467305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.4264078272468569  0.6781221985714255  0.8938954761257204  1.0000
+  Ta  Ta2       1.0  0.09908544173459975  0.023691120199781347  0.7113464676253154  1.0000
+  Ta  Ta3       1.0  0.7621885097026297  0.34975037835087064  0.5256598598079539  1.0000
+  Fe  Fe1       1.0  0.7599342657462588  0.34556686004728254  0.023597180547072882  1.0000
+  Mo  Mo1       1.0  0.10551439451221571  0.03600941593891914  0.19444887670883898  1.0000
+  Pt  Pt1       1.0  0.4280700234911035  0.681949712459928  0.3743287446558487  1.0000

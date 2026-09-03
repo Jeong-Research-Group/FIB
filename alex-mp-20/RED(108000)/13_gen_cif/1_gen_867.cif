@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2Ca2Ni
+_chemical_formula_sum              "Sr2 Ca2 Ni1"
+_cell_length_a       5.89904580474262
+_cell_length_b       5.65749687807607
+_cell_length_c       5.899502288188953
+_cell_angle_alpha    89.99330819262423
+_cell_angle_beta     89.99013209320344
+_cell_angle_gamma    89.99364226396081
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9706695359886891  0.24485237961412573  0.07594471084853768  1.0000
+  Sr  Sr2       1.0  0.47064655926293425  0.24480148669460167  0.5758402488938137  1.0000
+  Ca  Ca1       1.0  0.47062525682334894  0.7457308486643129  0.07590863614508392  1.0000
+  Ca  Ca2       1.0  0.970914676659082  0.745183786125382  0.5764475151082904  1.0000
+  Ni  Ni1       1.0  0.47074319110577717  0.2450842369868402  0.07620151420695737  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2TlInRu
+_chemical_formula_sum              "La2 Tl1 In1 Ru1"
+_cell_length_a       5.30365252782572
+_cell_length_b       5.41614309457814
+_cell_length_c       5.416120104933633
+_cell_angle_alpha    89.99004349378501
+_cell_angle_beta     89.99252147451706
+_cell_angle_gamma    90.00349743594708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4018561634384938  0.7037217640895996  0.17582401101692824  1.0000
+  La  La2       1.0  0.40168891745360613  0.20346053665740985  0.6761402267022536  1.0000
+  Tl  Tl1       1.0  0.9009826553492499  0.7035536943121684  0.6758879071091697  1.0000
+  In  In1       1.0  0.9013769636921009  0.20422190563934484  0.17526895850604676  1.0000
+  Ru  Ru1       1.0  0.40106317374440015  0.20404882828245202  0.17663987721231347  1.0000

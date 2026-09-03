@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Yb2CeBiO
+_chemical_formula_sum              "Yb2 Ce1 Bi1 O1"
+_cell_length_a       5.046704594846675
+_cell_length_b       4.802427043905002
+_cell_length_c       4.802922128019286
+_cell_angle_alpha    90.00275409322104
+_cell_angle_beta     89.99952446433933
+_cell_angle_gamma    89.99963729434161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.8252379068157797  0.4582199689299274  0.5715890499210254  1.0000
+  Yb  Yb2       1.0  0.8252970203419377  0.9581333717808498  0.07203334715413771  1.0000
+  Ce  Ce1       1.0  0.325386422707387  0.45823220915134033  0.07162024725017432  1.0000
+  Bi  Bi1       1.0  0.3249796129969559  0.9582548715541415  0.5713209059512593  1.0000
+  O   O1        1.0  0.8257064276594717  0.45806839060187493  0.0719145623502183  1.0000

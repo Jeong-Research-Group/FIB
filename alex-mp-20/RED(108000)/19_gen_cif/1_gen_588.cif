@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiPr2Hg
+_chemical_formula_sum              "Li1 Pr2 Hg1"
+_cell_length_a       3.9755808531052583
+_cell_length_b       5.343432065798507
+_cell_length_c       5.344081783803672
+_cell_angle_alpha    89.99777869423022
+_cell_angle_beta     90.00569458950528
+_cell_angle_gamma    89.9993999884907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.22604415439126094  0.5465958245159607  0.061613639554689514  1.0000
+  Pr  Pr1       1.0  0.7267088513583049  0.046829354929131844  0.062131870226733395  1.0000
+  Pr  Pr2       1.0  0.7266131940643644  0.5467217605589926  0.5611607781053859  1.0000
+  Hg  Hg1       1.0  0.2266635912918907  0.046965405701241594  0.5619562575539527  1.0000

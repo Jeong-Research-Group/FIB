@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgZrSeZrAgSe
+_chemical_formula_sum              "Ag2 Zr2 Se2"
+_cell_length_a       3.785626770133155
+_cell_length_b       3.813755684787273
+_cell_length_c       8.267794609069824
+_cell_angle_alpha    90.05253349109215
+_cell_angle_beta     90.03806715053445
+_cell_angle_gamma    89.99916239120643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.5485052466392517  0.5075732469558716  0.9672890305519104  1.0000
+  Zr  Zr1       1.0  0.049881398677825935  0.5065878629684448  0.672123908996582  1.0000
+  Se  Se1       1.0  0.04911059513688088  0.5083223581314087  0.3301478326320648  1.0000
+  Zr  Zr2       1.0  0.5483137369155884  0.007937248796224594  0.2666062116622925  1.0000
+  Ag  Ag2       1.0  0.04814182966947556  0.007699599489569663  0.975147545337677  1.0000
+  Se  Se2       1.0  0.5489199161529541  0.006547808647155762  0.6105406880378723  1.0000

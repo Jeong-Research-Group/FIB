@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2InCoSnTm
+_chemical_formula_sum              "Co3 In1 Sn1 Tm1"
+_cell_length_a       3.295414960894551
+_cell_length_b       4.3876447934330365
+_cell_length_c       6.967080116271973
+_cell_angle_alpha    108.33850518194453
+_cell_angle_beta     89.99149891947597
+_cell_angle_gamma    90.03995228164402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.3551426231861115  0.2808864116668701  0.5598353147506714  1.0000
+  Co  Co2       1.0  0.35422241687774664  0.6268016695976257  0.251377135515213  1.0000
+  In  In1       1.0  0.8549118638038636  0.79140704870224  0.5815540552139282  1.0000
+  Co  Co3       1.0  0.3547732830047608  0.960403561592102  0.9174115657806396  1.0000
+  Sn  Sn1       1.0  0.8543553948402406  0.12133837491273881  0.24028417468070984  1.0000
+  Tm  Tm1       1.0  0.8551775217056276  0.45548588037490845  0.9086489677429199  1.0000

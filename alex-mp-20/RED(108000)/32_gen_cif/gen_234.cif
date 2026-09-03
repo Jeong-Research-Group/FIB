@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeBe2FeCrFe
+_chemical_formula_sum              "Fe3 Be2 Cr1"
+_cell_length_a       3.4296132333565255
+_cell_length_b       4.177051622695275
+_cell_length_c       4.927431583404541
+_cell_angle_alpha    104.8040952903403
+_cell_angle_beta     90.03998643015984
+_cell_angle_gamma    114.1715777105796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.41138628125190735  0.9289867877960206  0.9527897238731384  1.0000
+  Be  Be1       1.0  0.07354648411273955  0.25394320487976074  0.2874804139137268  1.0000
+  Be  Be2       1.0  0.7473605275154113  0.6019038558006287  0.619240403175354  1.0000
+  Fe  Fe2       1.0  0.4087456166744232  0.9242919087409974  0.45051369071006775  1.0000
+  Cr  Cr1       1.0  0.7425026893615722  0.5923458933830261  0.11909745633602145  1.0000
+  Fe  Fe3       1.0  0.0775260105729103  0.2611081004142761  0.7809649705886841  1.0000

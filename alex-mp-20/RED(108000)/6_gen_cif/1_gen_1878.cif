@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tm2Co2B
+_chemical_formula_sum              "Tm2 Co2 B1"
+_cell_length_a       4.07916085946281
+_cell_length_b       4.077228104396951
+_cell_length_c       4.620157002568389
+_cell_angle_alpha    89.93742631069563
+_cell_angle_beta     89.96926410464198
+_cell_angle_gamma    89.96870065447246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.38905097257655347  0.1970558873086407  0.04220129429422687  1.0000
+  Tm  Tm2       1.0  0.8892163968086284  0.6969305141177083  0.042029144852572545  1.0000
+  Co  Co1       1.0  0.8885658054887077  0.19718645709144933  0.5418878532252674  1.0000
+  Co  Co2       1.0  0.3885219688025887  0.6966180197378471  0.5415058312328056  1.0000
+  B   B1        1.0  0.8884111225905671  0.6969184927329967  0.5421191096019708  1.0000

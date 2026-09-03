@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2GaAg2Ga
+_chemical_formula_sum              "Lu2 Ga2 Ag2"
+_cell_length_a       3.430465520626511
+_cell_length_b       3.428809940323229
+_cell_length_c       10.451492309570312
+_cell_angle_alpha    90.0534077552552
+_cell_angle_beta     90.06840684398477
+_cell_angle_gamma    90.16872866931644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.12122031301259995  0.8281929492950438  0.40094083547592163  1.0000
+  Lu  Lu2       1.0  0.12045612931251526  0.827618420124054  0.03124997578561306  1.0000
+  Ga  Ga1       1.0  0.6210842728614807  0.3281322419643402  0.8627045750617981  1.0000
+  Ag  Ag1       1.0  0.12057991325855255  0.8280010819435119  0.7162190079689026  1.0000
+  Ag  Ag2       1.0  0.620761513710022  0.3276727497577667  0.2157205492258072  1.0000
+  Ga  Ga2       1.0  0.6204356551170349  0.32751655578613276  0.5677684545516968  1.0000

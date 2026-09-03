@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb3HoSn2
+_chemical_formula_sum              "Tb3 Ho1 Sn2"
+_cell_length_a       5.426402007211183
+_cell_length_b       5.425078734930016
+_cell_length_c       6.576543011641275
+_cell_angle_alpha    89.99996563688725
+_cell_angle_beta     89.99977294277703
+_cell_angle_gamma    120.12749028626642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.027883123387009934  0.5527846320169444  0.59445448499016  1.0000
+  Tb  Tb2       1.0  0.028604232456815457  0.554018209948117  0.09277538815349076  1.0000
+  Tb  Tb3       1.0  0.3613949582856665  0.21965392367528758  0.34394995973396075  1.0000
+  Ho  Ho1       1.0  0.6941110784496067  0.8866595665348158  0.8434790802941328  1.0000
+  Sn  Sn1       1.0  0.3613258536004496  0.21944126384781043  0.8439102416724055  1.0000
+  Sn  Sn2       1.0  0.6941504333307781  0.8869087419643507  0.34364885447405075  1.0000

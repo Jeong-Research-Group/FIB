@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2CuGaCu2
+_chemical_formula_sum              "Ce2 Cu3 Ga1"
+_cell_length_a       4.396604719681156
+_cell_length_b       3.375781278734422
+_cell_length_c       7.743932723999023
+_cell_angle_alpha    90.11778912057284
+_cell_angle_beta     90.18173334343395
+_cell_angle_gamma    90.37456323950451
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.6171146631240845  0.18976616859436038  0.20558767020702362  1.0000
+  Ce  Ce2       1.0  0.11695268750190735  0.1893800050020218  0.683249294757843  1.0000
+  Cu  Cu1       1.0  0.6169515252113342  0.6897929906845094  0.5315178036689758  1.0000
+  Ga  Ga1       1.0  0.6167058348655701  0.6899481415748597  0.8653659820556641  1.0000
+  Cu  Cu2       1.0  0.11665747314691544  0.6904336810112001  0.3568657636642456  1.0000
+  Cu  Cu3       1.0  0.1163632720708847  0.6901152729988099  0.02664504572749138  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmMg3In2
+_chemical_formula_sum              "Sm1 Mg3 In2"
+_cell_length_a       5.060123792521572
+_cell_length_b       5.060144967879568
+_cell_length_c       6.643151136952429
+_cell_angle_alpha    90.005737282635
+_cell_angle_beta     90.00576868607585
+_cell_angle_gamma    59.996628240582886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.2737467401349563  0.6100524782347228  0.20818638677700368  1.0000
+  Mg  Mg1       1.0  0.2737053131339102  0.6100711639251003  0.7082662902045153  1.0000
+  Mg  Mg2       1.0  0.9403007979197369  0.27673125083216926  0.49347748179686507  1.0000
+  Mg  Mg3       1.0  0.6070362157165742  0.9434396319546499  0.9228037748188579  1.0000
+  In  In1       1.0  0.9403582456397107  0.27676569198967377  0.9731186265368386  1.0000
+  In  In2       1.0  0.6069974248896565  0.9433414238480768  0.44351223316362826  1.0000

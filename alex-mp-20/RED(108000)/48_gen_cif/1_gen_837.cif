@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2TmMgCo
+_chemical_formula_sum              "Sm2 Tm1 Mg1 Co1"
+_cell_length_a       5.270825993340041
+_cell_length_b       5.194393351124176
+_cell_length_c       5.270861532457801
+_cell_angle_alpha    89.99888746519544
+_cell_angle_beta     89.98375382421182
+_cell_angle_gamma    89.99714493390823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.322741069870907  0.5522471613319894  0.4260657606726556  1.0000
+  Sm  Sm2       1.0  0.823015406484947  0.5519622187636692  0.9255827851246454  1.0000
+  Tm  Tm1       1.0  0.8227003006856958  0.05217117417163555  0.4257577401583281  1.0000
+  Mg  Mg1       1.0  0.32283851234008987  0.05237308188307828  0.9260170582813874  1.0000
+  Co  Co1       1.0  0.8233016451885542  0.5523977945992269  0.42601183848114893  1.0000

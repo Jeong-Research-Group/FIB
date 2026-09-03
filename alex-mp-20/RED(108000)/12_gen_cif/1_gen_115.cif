@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaAl2Pd3
+_chemical_formula_sum              "Ca1 Al2 Pd3"
+_cell_length_a       3.939394061043629
+_cell_length_b       5.663960737172986
+_cell_length_c       5.663652072224201
+_cell_angle_alpha    120.08277330082774
+_cell_angle_beta     90.03273982679261
+_cell_angle_gamma    90.01854224564443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.22887387650279967  0.6799825808141448  0.610955803751939  1.0000
+  Al  Al1       1.0  0.22900817415271327  0.014275025722142452  0.2776046194205673  1.0000
+  Al  Al2       1.0  0.2288736235854399  0.3469867230877841  0.9448133893216015  1.0000
+  Pd  Pd1       1.0  0.7289184603616896  0.18053210731269562  0.1109122503140021  1.0000
+  Pd  Pd2       1.0  0.7289579139607484  0.18071726774879535  0.6113820182442377  1.0000
+  Pd  Pd3       1.0  0.7291172239251462  0.6805727823295772  0.11071492520577422  1.0000

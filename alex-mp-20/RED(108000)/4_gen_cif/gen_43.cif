@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaNa2Pt2Ca
+_chemical_formula_sum              "Ca2 Na2 Pt2"
+_cell_length_a       4.502046730479896
+_cell_length_b       5.825662505860797
+_cell_length_c       6.761740684509277
+_cell_angle_alpha    115.90389762503979
+_cell_angle_beta     109.42814100271879
+_cell_angle_gamma    89.9593013470972
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9615256786346436  0.9362761974334718  0.09316924959421158  1.0000
+  Na  Na1       1.0  0.2462165653705597  0.4608187675476075  0.6642966270446777  1.0000
+  Na  Na2       1.0  0.24476759135723114  0.9787890315055848  0.6615266799926758  1.0000
+  Pt  Pt1       1.0  0.6232706308364868  0.10135796666145325  0.41908735036849976  1.0000
+  Pt  Pt2       1.0  0.8674484491348267  0.33853498101234436  0.9057445526123047  1.0000
+  Ca  Ca2       1.0  0.5289682149887085  0.502924919128418  0.23181389272212982  1.0000

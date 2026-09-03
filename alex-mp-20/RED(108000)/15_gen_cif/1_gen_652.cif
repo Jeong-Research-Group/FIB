@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2SbH2
+_chemical_formula_sum              "Ca2 Sb1 H2"
+_cell_length_a       3.835014926674014
+_cell_length_b       3.8355025231916007
+_cell_length_c       7.02526682567427
+_cell_angle_alpha    105.83819829405509
+_cell_angle_beta     105.81974646815648
+_cell_angle_gamma    90.0002816673925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6959639322076773  0.6217662208421112  0.3170156687789982  1.0000
+  Ca  Ca2       1.0  0.3882582584132618  0.31431957636323765  0.7009932244221676  1.0000
+  Sb  Sb1       1.0  0.04203736799479483  0.9679643159154102  0.008734054616479964  1.0000
+  H   H1        1.0  0.29148466350353763  0.71824771588324  0.5092805658962772  1.0000
+  H   H2        1.0  0.7920854979394948  0.21795786508492487  0.5090728695070987  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuPt2Pb
+_chemical_formula_sum              "Cu1 Pt2 Pb1"
+_cell_length_a       3.8416772638537835
+_cell_length_b       4.181747843205119
+_cell_length_c       4.2036027908325195
+_cell_angle_alpha    90.08141152985932
+_cell_angle_beta     90.0113201279842
+_cell_angle_gamma    90.03929658244027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.05617430806159973  0.21236293017864227  0.5986894369125366  1.0000
+  Pt  Pt1       1.0  0.5559936165809631  0.2123488187789917  0.09823423624038696  1.0000
+  Pt  Pt2       1.0  0.5555722117424011  0.7124135494232178  0.5985023379325867  1.0000
+  Pb  Pb1       1.0  0.05575201287865639  0.7124612331390381  0.0986596941947937  1.0000

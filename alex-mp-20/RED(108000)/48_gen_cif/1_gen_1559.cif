@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2CdPbSe4
+_chemical_formula_sum              "Sr2 Cd1 Pb1 Se4"
+_cell_length_a       4.36339119333671
+_cell_length_b       6.1858773239811455
+_cell_length_c       8.659871719475223
+_cell_angle_alpha    89.99912879135358
+_cell_angle_beta     89.99288304076082
+_cell_angle_gamma    89.99987423185095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.10645436780756791  0.3962409103949575  0.24758975726970184  1.0000
+  Sr  Sr2       1.0  0.6065990502818063  0.8960380160691289  0.9832454509754504  1.0000
+  Cd  Cd1       1.0  0.6062430856655944  0.8962224596527721  0.48815058716416887  1.0000
+  Pb  Pb1       1.0  0.10624426606116714  0.3963521737418423  0.733844151922445  1.0000
+  Se  Se1       1.0  0.10625918384572408  0.8964042634395858  0.25616681251567364  1.0000
+  Se  Se2       1.0  0.10656743709916665  0.8965756921775314  0.7163142220510001  1.0000
+  Se  Se3       1.0  0.6063356111904029  0.3970898509500192  0.49176584845861193  1.0000
+  Se  Se4       1.0  0.6065035998373576  0.39588906057692747  0.9936253820587098  1.0000

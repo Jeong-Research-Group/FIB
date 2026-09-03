@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2Nd2Cd2
+_chemical_formula_sum              "Ba2 Nd2 Cd2"
+_cell_length_a       5.141757404216285
+_cell_length_b       5.141717963039491
+_cell_length_c       9.022890641511607
+_cell_angle_alpha    89.98383625956468
+_cell_angle_beta     90.000503191382
+_cell_angle_gamma    90.00182393591307
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5681743575055292  0.9067879862157417  0.5240327730984649  1.0000
+  Ba  Ba2       1.0  0.06793968514888596  0.406268775178665  0.2331158082121714  1.0000
+  Nd  Nd1       1.0  0.06786669153267048  0.9066467824337162  0.8787598173432695  1.0000
+  Nd  Nd2       1.0  0.5675477631405115  0.40680637268333436  0.8787515492366943  1.0000
+  Cd  Cd1       1.0  0.06751403375959071  0.4066041371131988  0.6553474402352744  1.0000
+  Cd  Cd2       1.0  0.5680166675660381  0.9066351568853682  0.10229096213103596  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Cu2Au2
+_chemical_formula_sum              "Hf2 Cu2 Au2"
+_cell_length_a       4.567796951095464
+_cell_length_b       5.34863974164558
+_cell_length_c       5.348558897275434
+_cell_angle_alpha    63.84082975315368
+_cell_angle_beta     64.7223931804116
+_cell_angle_gamma    64.72352310398838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.20848155448849898  0.9263933051177661  0.16366907747263912  1.0000
+  Hf  Hf2       1.0  0.21248508693175816  0.42253589862721297  0.6596342777240829  1.0000
+  Cu  Cu1       1.0  0.5281186891333299  0.35785066084433537  0.0932880988493605  1.0000
+  Cu  Cu2       1.0  0.8932416893940989  0.49346787021964705  0.2275720769156892  1.0000
+  Au  Au1       1.0  0.5593509971816134  0.8235083420856737  0.5648065731336088  1.0000
+  Au  Au2       1.0  0.8615557181662298  0.021874859216004655  0.7620032667307081  1.0000

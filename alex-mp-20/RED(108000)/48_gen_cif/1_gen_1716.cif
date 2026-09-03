@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2In2Au2
+_chemical_formula_sum              "K2 In2 Au2"
+_cell_length_a       5.235092487561631
+_cell_length_b       5.597981430780378
+_cell_length_c       6.659178442552947
+_cell_angle_alpha    103.03661678415503
+_cell_angle_beta     90.06888548859827
+_cell_angle_gamma    89.8762266608459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7314462977096254  0.9051974672380693  0.10605489813135051  1.0000
+  K   K2        1.0  0.2316671432631015  0.37265648615120145  0.9470565042508386  1.0000
+  In  In1       1.0  0.23126546798143788  0.8111882082228244  0.5326365770142831  1.0000
+  In  In2       1.0  0.7311771515930878  0.4738755379585017  0.5200055948353466  1.0000
+  Au  Au1       1.0  0.7310388674463354  0.00835367857114152  0.627244653871574  1.0000
+  Au  Au2       1.0  0.23179199365011358  0.27707230203837174  0.42630700083050754  1.0000

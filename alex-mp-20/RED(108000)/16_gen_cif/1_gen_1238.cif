@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2CuHRh
+_chemical_formula_sum              "Li2 Cu1 H1 Rh1"
+_cell_length_a       3.0120627046681903
+_cell_length_b       3.59399314170428
+_cell_length_c       5.3826314243331135
+_cell_angle_alpha    89.98891530767605
+_cell_angle_beta     90.02900089845595
+_cell_angle_gamma    89.99210174262575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5127161099041874  0.8604610245135329  0.8505721089006474  1.0000
+  Li  Li2       1.0  0.012367202525672645  0.3604124453803431  0.1449138624506074  1.0000
+  Cu  Cu1       1.0  0.012989141052602479  0.3604504840867176  0.6157009880624441  1.0000
+  H   H1        1.0  0.5126190751741688  0.3603918077944579  0.37478302672004477  1.0000
+  Rh  Rh1       1.0  0.5126840529085772  0.8604214050416843  0.3791216176815278  1.0000

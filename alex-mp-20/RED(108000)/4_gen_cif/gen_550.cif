@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiSi2Nd2Ti
+_chemical_formula_sum              "Ti2 Si2 Nd2"
+_cell_length_a       4.101054523013358
+_cell_length_b       4.113011647840351
+_cell_length_c       10.724187850952148
+_cell_angle_alpha    78.99301040077818
+_cell_angle_beta     79.15697434326364
+_cell_angle_gamma    60.091808786195195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.20801578462123874  0.5565746426582336  0.2239408195018768  1.0000
+  Si  Si1       1.0  0.9030327796936034  0.2501327395439148  0.14125744998455048  1.0000
+  Si  Si2       1.0  0.12335795909166336  0.47383368015289307  0.47380769252777094  1.0000
+  Nd  Nd1       1.0  0.625096082687378  0.9742178320884705  0.970107078552246  1.0000
+  Nd  Nd2       1.0  0.40021008253097534  0.7496654391288757  0.6450796723365784  1.0000
+  Ti  Ti2       1.0  0.8173736929893494  0.16755720973014832  0.39176803827285767  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2HoPPb
+_chemical_formula_sum              "Pr2 Ho1 P1 Pb1"
+_cell_length_a       5.2313673322361804
+_cell_length_b       5.533630605427028
+_cell_length_c       5.533632101865493
+_cell_angle_alpha    90.12528069633176
+_cell_angle_beta     90.02664015759522
+_cell_angle_gamma    89.99948529777247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3374560360350424  0.08599444351804425  0.45097185682983176  1.0000
+  Pr  Pr2       1.0  0.33738641175332323  0.5858146626263073  0.9509200013585184  1.0000
+  Ho  Ho1       1.0  0.837842799652689  0.5858744283881172  0.4505693993038725  1.0000
+  P   P1        1.0  0.33818685295393835  0.5859215507978718  0.4510017578099401  1.0000
+  Pb  Pb1       1.0  0.8378872265438817  0.0864341791454799  0.9506438637017521  1.0000

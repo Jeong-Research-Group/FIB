@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbTa3NbAu
+_chemical_formula_sum              "Nb2 Ta3 Au1"
+_cell_length_a       3.348763793808461
+_cell_length_b       3.347059666425317
+_cell_length_c       9.636173248291016
+_cell_angle_alpha    90.10085024228476
+_cell_angle_beta     89.9602781264277
+_cell_angle_gamma    90.20848721039089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.6746125221252441  0.8461819887161255  0.8654294610023499  1.0000
+  Ta  Ta1       1.0  0.6739498972892761  0.8463355302810669  0.5345767140388489  1.0000
+  Ta  Ta2       1.0  0.1739482432603836  0.34627190232276917  0.6967197060585022  1.0000
+  Ta  Ta3       1.0  0.175225168466568  0.3459016680717469  0.03488698974251747  1.0000
+  Nb  Nb2       1.0  0.6743577122688293  0.8461614251136781  0.19451305270195007  1.0000
+  Au  Au1       1.0  0.17432768642902374  0.3460676372051239  0.3676162362098694  1.0000

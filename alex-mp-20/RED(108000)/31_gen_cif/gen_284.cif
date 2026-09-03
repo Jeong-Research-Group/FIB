@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HoFe2HoIr2
+_chemical_formula_sum              "Ho2 Fe2 Ir2"
+_cell_length_a       5.095925848813258
+_cell_length_b       5.273030635933733
+_cell_length_c       5.2744855880737305
+_cell_angle_alpha    62.984390604010954
+_cell_angle_beta     60.88016837205776
+_cell_angle_gamma    60.87212192031043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.4223379492759704  0.3068996667861939  0.699092447757721  1.0000
+  Fe  Fe1       1.0  0.04318382218480105  0.9341692328453065  0.3253162801265716  1.0000
+  Fe  Fe2       1.0  0.54653000831604  0.934036672115326  0.3252513110637664  1.0000
+  Ho  Ho2       1.0  0.6648054122924805  0.5638456344604492  0.9555293321609497  1.0000
+  Ir  Ir1       1.0  0.044991526752710294  0.9362454414367677  0.8238471746444702  1.0000
+  Ir  Ir2       1.0  0.04500117152929306  0.43245598673820496  0.32729780673980713  1.0000

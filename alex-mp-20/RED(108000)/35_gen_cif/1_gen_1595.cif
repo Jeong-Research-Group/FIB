@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2Ag2HgTe2
+_chemical_formula_sum              "Cs2 Ag2 Hg1 Te2"
+_cell_length_a       4.864407121105893
+_cell_length_b       7.484238475463229
+_cell_length_c       8.439293616631685
+_cell_angle_alpha    92.5517356384607
+_cell_angle_beta     106.73427285464086
+_cell_angle_gamma    108.93904584201883
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.6837344106074048  0.4388486246390217  0.05421768284219023  1.0000
+  Cs  Cs2       1.0  0.26390405862708194  0.8864554324482451  0.7677459289009  1.0000
+  Ag  Ag1       1.0  0.3090744638178847  0.2619542292091852  0.48242307058220396  1.0000
+  Ag  Ag2       1.0  0.6404722511491249  0.06703916736091013  0.34019503894902975  1.0000
+  Hg  Hg1       1.0  0.47428285945912585  0.663858445341182  0.41046608721107186  1.0000
+  Te  Te1       1.0  0.020345214327664674  0.0070917716314187786  0.15947785086003788  1.0000
+  Te  Te2       1.0  0.9278506323838145  0.3183993223530376  0.6638509375032836  1.0000

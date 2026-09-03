@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hf2Sc2O
+_chemical_formula_sum              "Hf2 Sc2 O1"
+_cell_length_a       4.491480142809882
+_cell_length_b       4.561838657484335
+_cell_length_c       4.491538018615711
+_cell_angle_alpha    89.99169388081091
+_cell_angle_beta     89.99370563418826
+_cell_angle_gamma    89.99892605344827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.7226054963423094  0.11913665575826199  0.734713491055061  1.0000
+  Hf  Hf2       1.0  0.22207972809986132  0.11910968116852583  0.23449668055192652  1.0000
+  Sc  Sc1       1.0  0.22271683893724908  0.619231721966501  0.7345688501727103  1.0000
+  Sc  Sc2       1.0  0.7225911229374864  0.6191109696577182  0.23440022440106614  1.0000
+  O   O1        1.0  0.7224188490163036  0.6193349018760163  0.7340571811862096  1.0000

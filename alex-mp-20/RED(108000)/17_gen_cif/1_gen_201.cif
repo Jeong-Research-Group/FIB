@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2FePbC
+_chemical_formula_sum              "Sm2 Fe1 Pb1 C1"
+_cell_length_a       3.791985034905545
+_cell_length_b       5.263669922643471
+_cell_length_c       5.263811825367397
+_cell_angle_alpha    89.9747140863868
+_cell_angle_beta     90.00795040164518
+_cell_angle_gamma    90.0010467587579
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7594457825356792  0.20749534007632592  0.07119015860522984  1.0000
+  Sm  Sm2       1.0  0.759468119195443  0.707156194394394  0.5716096153029275  1.0000
+  Fe  Fe1       1.0  0.2592968497516125  0.20705555276661622  0.5708434714607387  1.0000
+  Pb  Pb1       1.0  0.2593007396532162  0.7079606784045459  0.07165963684230114  1.0000
+  C   C1        1.0  0.7593686034159494  0.2073567905940916  0.5714139813486506  1.0000

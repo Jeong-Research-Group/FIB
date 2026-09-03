@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2Si2Bi3
+_chemical_formula_sum              "K2 Si2 Bi3"
+_cell_length_a       5.097601559866414
+_cell_length_b       5.105411191727389
+_cell_length_c       9.536197723552133
+_cell_angle_alpha    105.4653651101207
+_cell_angle_beta     105.25334855606783
+_cell_angle_gamma    89.98347801866414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.09265724197791121  0.9268019137616728  0.8603657580338262  1.0000
+  K   K2        1.0  0.29303847619909407  0.11848674622436205  0.23395980557651225  1.0000
+  Si  Si1       1.0  0.5268536152138279  0.35801386240551497  0.7190325882603473  1.0000
+  Si  Si2       1.0  0.8585683725359946  0.6885724792233622  0.37760526237574144  1.0000
+  Bi  Bi1       1.0  0.4424906132420795  0.772870324576382  0.5480759835669783  1.0000
+  Bi  Bi2       1.0  0.6913344719716736  0.5206673064759367  0.042629364844388055  1.0000
+  Bi  Bi3       1.0  0.9423535333367978  0.27123321062922584  0.5456050758490312  1.0000

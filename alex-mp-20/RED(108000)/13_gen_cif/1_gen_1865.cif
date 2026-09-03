@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaP2Os2
+_chemical_formula_sum              "Na1 P2 Os2"
+_cell_length_a       4.091880592897459
+_cell_length_b       4.092141990357434
+_cell_length_c       5.612658443249736
+_cell_angle_alpha    111.35097585286732
+_cell_angle_beta     111.35128101990249
+_cell_angle_gamma    89.98091496298314
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7309907714888098  0.22413300744859224  0.6602141888316719  1.0000
+  P   P1        1.0  0.10002804511615523  0.5931726485459058  0.39840716647203234  1.0000
+  P   P2        1.0  0.362165858769022  0.8553117366180596  0.9219394996038114  1.0000
+  Os  Os1       1.0  0.4812903230336571  0.474035225492121  0.16023646873601216  1.0000
+  Os  Os2       1.0  0.9809850834464646  0.9744041317453996  0.16023320758780613  1.0000

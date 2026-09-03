@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaGa2CuPd
+_chemical_formula_sum              "Ca1 Ga2 Cu1 Pd1"
+_cell_length_a       4.3028162546065944
+_cell_length_b       4.303503157895241
+_cell_length_c       5.944686774374907
+_cell_angle_alpha    111.2823894122704
+_cell_angle_beta     111.2602205811423
+_cell_angle_gamma    89.99213423907456
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.4946694353497327  0.5147243702023788  0.5582955155457835  1.0000
+  Ga  Ga1       1.0  0.8690864223805289  0.888855047171594  0.3072028888634249  1.0000
+  Ga  Ga2       1.0  0.12054043643202975  0.14087491356632964  0.8095178783057998  1.0000
+  Cu  Cu1       1.0  0.7448834275023365  0.2638820946767143  0.05835851477755545  1.0000
+  Pd  Pd1       1.0  0.2441284400347638  0.7654399658595815  0.05818020650320733  1.0000

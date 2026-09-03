@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Ca2TmIn2
+_chemical_formula_sum              "Li2 Ca2 Tm1 In2"
+_cell_length_a       4.895016117886023
+_cell_length_b       4.8949017153919625
+_cell_length_c       9.571556700089879
+_cell_angle_alpha    75.18456323541744
+_cell_angle_beta     75.18338087168713
+_cell_angle_gamma    60.01057860009153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.15437446253540424  0.7090783221656131  0.8810819904520854  1.0000
+  Li  Li2       1.0  0.3783151671074874  0.933324151854967  0.20811492913293392  1.0000
+  Ca  Ca1       1.0  0.6403634775476557  0.19529297422792957  0.42211089277525665  1.0000
+  Ca  Ca2       1.0  0.8924497646103337  0.44722568649240424  0.6667833969581789  1.0000
+  Tm  Tm1       1.0  0.7663484102567477  0.3212151312785202  0.04451929025764224  1.0000
+  In  In1       1.0  0.49644065877184945  0.05133781112615704  0.8546329065567738  1.0000
+  In  In2       1.0  0.03629889840440699  0.5912203602746645  0.23426863630877715  1.0000

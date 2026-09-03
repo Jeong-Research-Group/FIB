@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaInNiAs2
+_chemical_formula_sum              "Ca1 In1 Ni1 As2"
+_cell_length_a       4.056513833723066
+_cell_length_b       4.378795379904986
+_cell_length_c       7.25112656459025
+_cell_angle_alpha    93.1027014717761
+_cell_angle_beta     55.66713956886047
+_cell_angle_gamma    90.14293954019962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8988034513303713  0.08262478762420856  0.22249732504734732  1.0000
+  In  In1       1.0  0.7568447836018575  0.5275479210848877  0.8508793911794174  1.0000
+  Ni  Ni1       1.0  0.5550969251968594  0.6087167047652475  0.5578017488702487  1.0000
+  As  As1       1.0  0.37528646220673356  0.11532896118464438  0.7304190773512336  1.0000
+  As  As2       1.0  0.29956269039262484  0.5962279829726803  0.3172221945619524  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdSn2SrPb2SrCd2Pb
+_chemical_formula_sum              "Cd3 Sn2 Sr2 Pb3"
+_cell_length_a       5.24496116723084
+_cell_length_b       7.740576829580235
+_cell_length_c       7.719199180603027
+_cell_angle_alpha    94.68486998125925
+_cell_angle_beta     90.04089484815117
+_cell_angle_gamma    89.9862738247763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6500750780105591  0.8008891344070435  0.5948531627655029  1.0000
+  Sn  Sn1       1.0  0.6502050161361694  0.43783581256866455  0.4699394106864929  1.0000
+  Sn  Sn2       1.0  0.649978518486023  0.9256054162979126  0.9594441056251526  1.0000
+  Sr  Sr1       1.0  0.14960256218910217  0.6113529801368713  0.783573567867279  1.0000
+  Pb  Pb1       1.0  0.15023504197597504  0.10757523775100708  0.6504054069519043  1.0000
+  Pb  Pb2       1.0  0.1500638723373413  0.7439429163932799  0.2878876030445099  1.0000
+  Sr  Sr2       1.0  0.15054363012313843  0.2480422705411911  0.14670222997665405  1.0000
+  Cd  Cd2       1.0  0.6503865718841553  0.5684245228767394  0.10418304055929184  1.0000
+  Cd  Cd3       1.0  0.6504725813865662  0.2912028729915619  0.8265642523765564  1.0000
+  Pb  Pb3       1.0  0.6505810022354126  0.05595485866069793  0.3416517376899719  1.0000

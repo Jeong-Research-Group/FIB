@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hf2Si2Ni2Te2
+_chemical_formula_sum              "Hf2 Si2 Ni2 Te2"
+_cell_length_a       3.771019319077024
+_cell_length_b       3.770910603958648
+_cell_length_c       11.015518713452861
+_cell_angle_alpha    90.05479141246639
+_cell_angle_beta     89.9933871881176
+_cell_angle_gamma    90.00006508720755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.16676297848614038  0.10335707513587568  0.0672205299519285  1.0000
+  Hf  Hf2       1.0  0.6669668073432932  0.6018921794386162  0.6507669623061605  1.0000
+  Si  Si1       1.0  0.16690933624907328  0.6024237029851516  0.8590100494184297  1.0000
+  Si  Si2       1.0  0.6669857277097492  0.10261011005134835  0.8589929254678382  1.0000
+  Ni  Ni1       1.0  0.16701275407568217  0.10205704252500579  0.7443754143728321  1.0000
+  Ni  Ni2       1.0  0.6668619762018583  0.6030038762899435  0.9736570480877756  1.0000
+  Te  Te1       1.0  0.16695060929090705  0.1018537966309547  0.5135680293020091  1.0000
+  Te  Te2       1.0  0.6666202036205341  0.6037011307930611  0.2044642285061683  1.0000

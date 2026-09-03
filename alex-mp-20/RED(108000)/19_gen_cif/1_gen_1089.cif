@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb2Ga2Ni4
+_chemical_formula_sum              "Tb2 Ga2 Ni4"
+_cell_length_a       3.9591623618622043
+_cell_length_b       5.031532985286601
+_cell_length_c       6.551971813985169
+_cell_angle_alpha    89.99368405457862
+_cell_angle_beta     90.00213419448056
+_cell_angle_gamma    90.00040130528663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.05027077990426091  0.7851079150538026  0.17491902110552845  1.0000
+  Tb  Tb2       1.0  0.05046118432144727  0.28591125680409557  0.5868809000692473  1.0000
+  Ga  Ga1       1.0  0.5503392742712342  0.7857593690399096  0.5419839801180163  1.0000
+  Ga  Ga2       1.0  0.5503609475387916  0.285182482434496  0.21993411686964184  1.0000
+  Ni  Ni1       1.0  0.5503316056648266  0.0356618564338461  0.8809074817898709  1.0000
+  Ni  Ni2       1.0  0.05032226971862433  0.28514147416107  0.007043659906232882  1.0000
+  Ni  Ni3       1.0  0.5503151701066278  0.5356597811621968  0.8810226851107973  1.0000
+  Ni  Ni4       1.0  0.050322409354969316  0.7859672910552085  0.7548283830424479  1.0000

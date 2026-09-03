@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaPCaHf2P
+_chemical_formula_sum              "Ca2 P2 Hf2"
+_cell_length_a       4.1203635719731455
+_cell_length_b       4.118162222724575
+_cell_length_c       7.577683448791504
+_cell_angle_alpha    90.0294611097978
+_cell_angle_beta     90.0453413019135
+_cell_angle_gamma    90.05545680895366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9095100164413452  0.7268937826156616  0.9390415549278259  1.0000
+  P   P1        1.0  0.9091155529022217  0.7263331413269044  0.3416306972503662  1.0000
+  Ca  Ca2       1.0  0.409667044878006  0.22523392736911774  0.22707676887512207  1.0000
+  Hf  Hf1       1.0  0.9097146987915039  0.22595295310020447  0.5854141712188721  1.0000
+  Hf  Hf2       1.0  0.40862900018692017  0.7272087335586548  0.5818995237350464  1.0000
+  P   P2        1.0  0.4096201956272125  0.22641056776046753  0.8251824378967285  1.0000

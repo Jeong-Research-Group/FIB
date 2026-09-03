@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbGaAg2Pb
+_chemical_formula_sum              "Pb2 Ga1 Ag2"
+_cell_length_a       3.7192900824978037
+_cell_length_b       5.296063291461579
+_cell_length_c       6.744253635406494
+_cell_angle_alpha    113.28182907906246
+_cell_angle_beta     90.2064518028213
+_cell_angle_gamma    90.20976445478111
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.6175927519798279  0.09822045266628265  0.9838414788246155  1.0000
+  Ga  Ga1       1.0  0.617845356464386  0.7355209589004517  0.25864896178245544  1.0000
+  Ag  Ag1       1.0  0.1175602003931999  0.9024928212165834  0.5899654626846313  1.0000
+  Ag  Ag2       1.0  0.11807674914598464  0.5687299966812134  0.9272593855857849  1.0000
+  Pb  Pb2       1.0  0.6177582144737244  0.3727818727493286  0.5327214002609253  1.0000

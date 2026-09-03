@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InMg2PbMg2InPb
+_chemical_formula_sum              "In2 Mg4 Pb2"
+_cell_length_a       4.514981834722595
+_cell_length_b       4.5043991787346345
+_cell_length_c       9.859375
+_cell_angle_alpha    89.89538449227612
+_cell_angle_beta     89.94613280391867
+_cell_angle_gamma    90.01272714643787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.732896089553833  0.738868772983551  0.8301751017570496  1.0000
+  Mg  Mg1       1.0  0.2331594079732895  0.23868916928768158  0.3438698649406433  1.0000
+  Mg  Mg2       1.0  0.2325502187013626  0.2392153441905975  0.8329651951789856  1.0000
+  Pb  Pb1       1.0  0.7333754301071167  0.7388288378715515  0.34247589111328125  1.0000
+  Mg  Mg3       1.0  0.2330310344696045  0.7388224601745605  0.5903948545455934  1.0000
+  Mg  Mg4       1.0  0.7328493595123291  0.23850739002227783  0.08349265903234482  1.0000
+  In  In2       1.0  0.7328119874000549  0.23885427415370944  0.5948505401611328  1.0000
+  Pb  Pb2       1.0  0.23306119441986084  0.7387855052947998  0.08242424577474594  1.0000

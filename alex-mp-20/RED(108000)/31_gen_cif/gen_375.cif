@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2HMnNiH
+_chemical_formula_sum              "Ni3 H2 Mn1"
+_cell_length_a       2.6648689189691304
+_cell_length_b       4.436614111761105
+_cell_length_c       4.430315017700195
+_cell_angle_alpha    72.82687016110368
+_cell_angle_beta     89.98533125713186
+_cell_angle_gamma    89.99837691923132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.847732663154602  0.8077269792556763  0.5601587891578674  1.0000
+  Ni  Ni2       1.0  0.34587693214416504  0.3097565770149231  0.5590887069702148  1.0000
+  H   H1        1.0  0.3463495075702667  0.5756551623344421  0.7923030853271485  1.0000
+  Mn  Mn1       1.0  0.8465802073478699  0.30727592110633856  0.06038572639226912  1.0000
+  Ni  Ni3       1.0  0.3463696539402008  0.8078921437263489  0.05881666764616966  1.0000
+  H   H2        1.0  0.34689486026763916  0.041004400700330734  0.3282466530799866  1.0000

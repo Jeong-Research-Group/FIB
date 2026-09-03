@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PdAs2Pd4Cu
+_chemical_formula_sum              "Pd5 As2 Cu1"
+_cell_length_a       4.10362629140471
+_cell_length_b       4.105098267150987
+_cell_length_c       7.125567436218262
+_cell_angle_alpha    90.73743066333178
+_cell_angle_beta     90.31744236262685
+_cell_angle_gamma    92.28437293769707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.27519989013671875  0.883201539516449  0.42031869292259216  1.0000
+  As  As1       1.0  0.27475205063819885  0.3872356414794922  0.15234345197677612  1.0000
+  As  As2       1.0  0.7753172516822815  0.8861896991729737  0.6513413786888123  1.0000
+  Pd  Pd2       1.0  0.774181067943573  0.38546437025070196  0.41983625292778015  1.0000
+  Pd  Pd3       1.0  0.7757668495178223  0.8863237500190735  0.15110233426094055  1.0000
+  Pd  Pd4       1.0  0.7771522402763367  0.3871133029460907  0.882660984992981  1.0000
+  Pd  Pd5       1.0  0.2757260799407959  0.8893516063690186  0.8828856348991394  1.0000
+  Cu  Cu1       1.0  0.2750513255596161  0.3861197829246521  0.6505323052406311  1.0000

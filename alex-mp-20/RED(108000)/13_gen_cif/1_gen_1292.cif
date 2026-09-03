@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2Mn2As2H2
+_chemical_formula_sum              "Mg2 Mn2 As2 H2"
+_cell_length_a       3.716874997455191
+_cell_length_b       5.288588807077881
+_cell_length_c       6.05711835232462
+_cell_angle_alpha    80.94705696925743
+_cell_angle_beta     90.0135601479802
+_cell_angle_gamma    90.00349041438785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3417808401807711  0.2390954916981343  0.47385970419018597  1.0000
+  Mg  Mg2       1.0  0.8417240811305967  0.8072263660836838  0.2721930352682181  1.0000
+  Mn  Mn1       1.0  0.34149795306504427  0.6310257016081061  0.9317860236893383  1.0000
+  Mn  Mn2       1.0  0.3414429826758884  0.126902137776992  0.932221625042746  1.0000
+  As  As1       1.0  0.8415068669787578  0.9105068168929741  0.7180371207185301  1.0000
+  As  As2       1.0  0.8415588586157375  0.3370795844890606  0.13419984024668172  1.0000
+  H   H1        1.0  0.3410570543513857  0.4114003086893812  0.738547457895607  1.0000
+  H   H2        1.0  0.3416601782598194  0.8418489669131587  0.13707283741433557  1.0000

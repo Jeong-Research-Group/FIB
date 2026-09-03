@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2NiRh
+_chemical_formula_sum              "Sc2 Ni1 Rh1"
+_cell_length_a       3.2102932789928587
+_cell_length_b       4.531188948659294
+_cell_length_c       4.531517267393987
+_cell_angle_alpha    90.00096731037658
+_cell_angle_beta     89.99451860573593
+_cell_angle_gamma    89.99842281484493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.0309418550471243  0.7679511119964246  0.34495831324239823  1.0000
+  Sc  Sc2       1.0  0.030883421379479113  0.268051387062763  0.8447295275797602  1.0000
+  Ni  Ni1       1.0  0.5307282896939719  0.7681004447751419  0.8449120682494254  1.0000
+  Rh  Rh1       1.0  0.5308704653898435  0.268139882653964  0.34451257001601454  1.0000

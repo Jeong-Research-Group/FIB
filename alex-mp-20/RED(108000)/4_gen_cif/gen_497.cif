@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbHgBaHg2Ba
+_chemical_formula_sum              "Pb1 Hg3 Ba2"
+_cell_length_a       5.755393864915487
+_cell_length_b       5.754540776423897
+_cell_length_c       7.184109687805176
+_cell_angle_alpha    89.9616851431867
+_cell_angle_beta     90.03870918751983
+_cell_angle_gamma    120.061448644305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.3065245747566223  0.39999231696128845  0.7406101822853088  1.0000
+  Hg  Hg1       1.0  0.9737812280654907  0.733674168586731  0.49816662073135376  1.0000
+  Ba  Ba1       1.0  0.640065610408783  0.0668834373354912  0.483778178691864  1.0000
+  Hg  Hg2       1.0  0.30572909116744995  0.3997228741645813  0.24048419296741486  1.0000
+  Hg  Hg3       1.0  0.6393707394599915  0.06668366491794586  0.9825351238250732  1.0000
+  Ba  Ba2       1.0  0.9726475477218628  0.7343382239341737  0.9976176023483276  1.0000

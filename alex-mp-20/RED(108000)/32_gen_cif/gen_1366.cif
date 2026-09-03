@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdBiPdRh4
+_chemical_formula_sum              "Pd2 Bi1 Rh4"
+_cell_length_a       4.871149332416991
+_cell_length_b       4.888003531035133
+_cell_length_c       4.90822172164917
+_cell_angle_alpha    99.08729500680218
+_cell_angle_beta     98.90217799144445
+_cell_angle_gamma    99.68383746028788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.5977028608322144  0.6055310368537903  0.9983648657798767  1.0000
+  Bi  Bi1       1.0  0.9007784128189087  0.18354152143001556  0.15106230974197388  1.0000
+  Pd  Pd2       1.0  0.31841400265693665  0.032818619161844254  0.8498805165290833  1.0000
+  Rh  Rh1       1.0  0.0405000112950802  0.4862585067749024  0.722094476222992  1.0000
+  Rh  Rh2       1.0  0.745280921459198  0.8774144649505615  0.5630512833595276  1.0000
+  Rh  Rh3       1.0  0.4758709669113159  0.3375442624092102  0.4549699127674103  1.0000
+  Rh  Rh4       1.0  0.2014169543981552  0.7596770524978639  0.30670636892318726  1.0000

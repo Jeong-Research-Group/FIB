@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2H2I2Br2
+_chemical_formula_sum              "La2 H2 I2 Br2"
+_cell_length_a       4.135745773638725
+_cell_length_b       8.380593628346006
+_cell_length_c       7.626446324402294
+_cell_angle_alpha    79.80521999606702
+_cell_angle_beta     89.9989349222774
+_cell_angle_gamma    90.18380136168324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4335372611584325  0.06039485624894644  0.7373922983555999  1.0000
+  La  La2       1.0  0.9334627868882404  0.05150531470985358  0.30282190964196964  1.0000
+  H   H1        1.0  0.43312211907028225  0.00357870106810787  0.4550216080432535  1.0000
+  H   H2        1.0  0.9338436733339699  0.10816279708112037  0.5851513663493589  1.0000
+  I   I1        1.0  0.43541286632830206  0.3498307787475043  0.36613559916737587  1.0000
+  I   I2        1.0  0.9315917143849872  0.7620862023343073  0.6743096510573692  1.0000
+  Br  Br1       1.0  0.9347826402308119  0.2514476129181149  0.9223286804239794  1.0000
+  Br  Br2       1.0  0.432276770410596  0.8605895314163312  0.11792650271260204  1.0000

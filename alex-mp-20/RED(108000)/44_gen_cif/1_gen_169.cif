@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2CeScSe4
+_chemical_formula_sum              "Li2 Ce1 Sc1 Se4"
+_cell_length_a       4.008017474552637
+_cell_length_b       7.006002250730443
+_cell_length_c       6.873442112358847
+_cell_angle_alpha    109.49165619358118
+_cell_angle_beta     89.97218646871933
+_cell_angle_gamma    89.98401929426973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8074543096011069  0.101790480772696  0.5536780005275908  1.0000
+  Li  Li2       1.0  0.3070772055273356  0.6013619572184588  0.5543954768564969  1.0000
+  Ce  Ce1       1.0  0.30744365461842776  0.10150721369528974  0.05395407127135813  1.0000
+  Sc  Sc1       1.0  0.8071592686419856  0.6014686319684217  0.0539041744594115  1.0000
+  Se  Se1       1.0  0.8070352755586422  0.3714419830600018  0.30952602835240545  1.0000
+  Se  Se2       1.0  0.3075975671265759  0.3685290961953594  0.8082465623218359  1.0000
+  Se  Se3       1.0  0.3069043858105502  0.8345629029249496  0.29960470821634183  1.0000
+  Se  Se4       1.0  0.8078786943290506  0.8317516738238993  0.7984444025561804  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LuFeLuFeMnFe
+_chemical_formula_sum              "Lu2 Fe3 Mn1"
+_cell_length_a       5.134179794809005
+_cell_length_b       5.1383314667221285
+_cell_length_c       5.137656211853027
+_cell_angle_alpha    59.844614196623155
+_cell_angle_beta     59.82366129711624
+_cell_angle_gamma    59.746795411716136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.08106225728988647  0.39311251044273376  0.04751616343855858  1.0000
+  Fe  Fe1       1.0  0.45593133568763733  0.7679328322410583  0.42208248376846313  1.0000
+  Lu  Lu2       1.0  0.8304667472839355  0.14325343072414398  0.7974103093147278  1.0000
+  Fe  Fe2       1.0  0.45526835322380077  0.7679055333137511  0.9222411513328552  1.0000
+  Mn  Mn1       1.0  0.955689013004303  0.7682186961174011  0.4222971498966217  1.0000
+  Fe  Fe3       1.0  0.4553537368774414  0.26831743121147156  0.42253515124320984  1.0000

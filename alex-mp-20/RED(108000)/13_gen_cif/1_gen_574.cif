@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2Cu2Ge2
+_chemical_formula_sum              "Ti2 Cu2 Ge2"
+_cell_length_a       3.6569266456590825
+_cell_length_b       3.657152056511545
+_cell_length_c       6.619868533067368
+_cell_angle_alpha    90.00626727982267
+_cell_angle_beta     90.00917412070662
+_cell_angle_gamma    89.99136031864062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.202936749583367  0.13749759264185582  0.11933829571541864  1.0000
+  Ti  Ti2       1.0  0.7028741614992143  0.6376203883464352  0.8239569232511126  1.0000
+  Cu  Cu1       1.0  0.7027909389525714  0.13766782944446093  0.47160858238356557  1.0000
+  Cu  Cu2       1.0  0.20310895326137118  0.6376017657476624  0.4714693646714029  1.0000
+  Ge  Ge1       1.0  0.20286566031604272  0.13750486804528328  0.7287910538332247  1.0000
+  Ge  Ge2       1.0  0.703003308130864  0.6376445370639648  0.21456806861237396  1.0000

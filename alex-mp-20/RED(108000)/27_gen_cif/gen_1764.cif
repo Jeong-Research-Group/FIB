@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2TiCo2Mo
+_chemical_formula_sum              "Co4 Ti1 Mo1"
+_cell_length_a       3.5299611498457004
+_cell_length_b       3.6441743681628282
+_cell_length_c       5.883810520172119
+_cell_angle_alpha    89.96975842633236
+_cell_angle_beta     107.37700003792833
+_cell_angle_gamma    89.9921204668014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.4222184717655182  0.02742264606058598  0.05641382560133934  1.0000
+  Co  Co2       1.0  0.2602981925010681  0.5273730158805847  0.7317222356796265  1.0000
+  Ti  Ti1       1.0  0.7401770949363708  0.027311047539114956  0.6924700140953064  1.0000
+  Co  Co3       1.0  0.5875648260116577  0.5273927450180055  0.3854537308216095  1.0000
+  Co  Co4       1.0  0.08590877801179886  0.027080042287707332  0.3815084993839264  1.0000
+  Mo  Mo1       1.0  0.9375662803649902  0.5270614027976991  0.08354323357343674  1.0000

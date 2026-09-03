@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2MgAs2H
+_chemical_formula_sum              "Ce2 Mg1 As2 H1"
+_cell_length_a       4.379736034307817
+_cell_length_b       4.359939107343954
+_cell_length_c       6.82711531220681
+_cell_angle_alpha    89.91401859350889
+_cell_angle_beta     89.9850941095458
+_cell_angle_gamma    89.99724704154093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.5458617336996358  0.7928808215427499  0.8200011839176292  1.0000
+  Ce  Ce2       1.0  0.045519186310711855  0.7927564180471428  0.31985873854348307  1.0000
+  Mg  Mg1       1.0  0.5455402976007626  0.29275533087124267  0.3197218239875577  1.0000
+  As  As1       1.0  0.045690396973617084  0.2933034754954892  0.03449560130377582  1.0000
+  As  As2       1.0  0.04541244509377667  0.2922691642395741  0.6048387431328376  1.0000
+  H   H1        1.0  0.5455465177757006  0.7931849043913798  0.3180235968441624  1.0000

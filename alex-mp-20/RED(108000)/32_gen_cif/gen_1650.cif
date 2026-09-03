@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiHSTeS3H
+_chemical_formula_sum              "Bi1 H2 S4 Te1"
+_cell_length_a       4.2612968240546065
+_cell_length_b       6.036204181657355
+_cell_length_c       7.454656600952148
+_cell_angle_alpha    90.47862116249456
+_cell_angle_beta     89.40605609267726
+_cell_angle_gamma    89.64147222467169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.20837217569351196  0.8529389500617981  0.17727781832218173  1.0000
+  H   H1        1.0  0.2088412195444107  0.3336945176124573  0.8327839374542237  1.0000
+  S   S1        1.0  0.20779649913311005  0.2810279428958893  0.2990139126777649  1.0000
+  Te  Te1       1.0  0.710207462310791  0.38858872652053833  0.5124784111976624  1.0000
+  S   S2        1.0  0.7094992995262146  0.05039723590016365  0.9856293797492982  1.0000
+  S   S3        1.0  0.20915748178958893  0.5263869166374207  0.7426095604896547  1.0000
+  S   S4        1.0  0.7092622518539429  0.7709103226661682  0.43017244338989263  1.0000
+  H   H2        1.0  0.710824191570282  0.9233137369155884  0.8280679583549501  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Eu2HO2
+_chemical_formula_sum              "Eu2 H1 O2"
+_cell_length_a       4.079969583392168
+_cell_length_b       4.079741058589878
+_cell_length_c       5.3122829634792765
+_cell_angle_alpha    89.99779295248894
+_cell_angle_beta     89.99948247161295
+_cell_angle_gamma    120.00372451745469
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.782502211648583  0.45911800796850777  0.9787454126295742  1.0000
+  Eu  Eu2       1.0  0.4492066266483178  0.7924518338474431  0.4880344051254597  1.0000
+  H   H1        1.0  0.11583086070497779  0.12583384995429378  0.7334070864017906  1.0000
+  O   O1        1.0  0.7825065255542615  0.4591796512087536  0.43360072397568517  1.0000
+  O   O2        1.0  0.4491919035930337  0.7924062517912194  0.03311370094181362  1.0000

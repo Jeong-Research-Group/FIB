@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SiNiHRu2
+_chemical_formula_sum              "Si1 Ni1 H1 Ru2"
+_cell_length_a       4.007418024801686
+_cell_length_b       4.007513402429969
+_cell_length_c       3.269983043407566
+_cell_angle_alpha    89.99969419259263
+_cell_angle_beta     90.00114696117309
+_cell_angle_gamma    90.00002750967937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.3011260194690712  0.6469297049260941  0.5796556540072382  1.0000
+  Ni  Ni1       1.0  0.8013588835200437  0.14742201266592134  0.5796835253116341  1.0000
+  H   H1        1.0  0.8011273459629362  0.1476803704334  0.0797836575342847  1.0000
+  Ru  Ru1       1.0  0.8012120950285462  0.6473514381267993  0.07955584020154519  1.0000
+  Ru  Ru2       1.0  0.301270262389135  0.1470627500661422  0.07961045583305941  1.0000

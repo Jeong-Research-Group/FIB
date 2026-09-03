@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si2TeH4I
+_chemical_formula_sum              "Si2 Te1 H4 I1"
+_cell_length_a       4.990701416970734
+_cell_length_b       6.745641089889853
+_cell_length_c       7.835234695355997
+_cell_angle_alpha    122.65693128724888
+_cell_angle_beta     105.27991339423387
+_cell_angle_gamma    80.72619051274071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.9405567592860756  0.6197166794916608  0.8297371121505728  1.0000
+  Si  Si2       1.0  0.020027914406417175  0.40970009478573655  0.48842232980189215  1.0000
+  Te  Te1       1.0  0.5986583485222525  0.2687849402957298  0.21710720452126073  1.0000
+  H   H1        1.0  0.7836504687791152  0.464494363409438  0.8491142093137807  1.0000
+  H   H2        1.0  0.7834739508894993  0.8466792756008646  0.8773336074592396  1.0000
+  H   H3        1.0  0.21950708416469794  0.6686925461363076  0.9721976091113373  1.0000
+  H   H4        1.0  0.22570283449092882  0.5296103298369168  0.46117473806503856  1.0000
+  I   I1        1.0  0.26799648849025987  0.06919525754092938  0.5143312527798289  1.0000

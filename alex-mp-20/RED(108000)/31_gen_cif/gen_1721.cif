@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoVCoHNi
+_chemical_formula_sum              "Co2 V1 H1 Ni1"
+_cell_length_a       3.608863040489944
+_cell_length_b       3.606030419903367
+_cell_length_c       3.5462570190429688
+_cell_angle_alpha    89.92541682998403
+_cell_angle_beta     89.92581981231959
+_cell_angle_gamma    89.92772544313333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.31786736845970154  0.9114938974380493  0.22835735976696014  1.0000
+  V   V1        1.0  0.31803759932518005  0.411121129989624  0.7278986573219299  1.0000
+  Co  Co2       1.0  0.8180911540985107  0.4111595749855042  0.22834235429763794  1.0000
+  H   H1        1.0  0.8181239366531372  0.9123111367225647  0.22812435030937195  1.0000
+  Ni  Ni1       1.0  0.8181333541870117  0.9111884832382203  0.7283381223678589  1.0000

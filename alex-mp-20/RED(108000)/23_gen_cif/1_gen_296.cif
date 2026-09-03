@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2Y4Tm2
+_chemical_formula_sum              "Ca2 Y4 Tm2"
+_cell_length_a       3.6196565955938484
+_cell_length_b       3.620009360882294
+_cell_length_c       20.613715976400748
+_cell_angle_alpha    90.00047371444836
+_cell_angle_beta     89.99981121726765
+_cell_angle_gamma    90.01678447348436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0039931717058579695  0.8579905969678573  0.8638614041155152  1.0000
+  Ca  Ca2       1.0  0.5043078968814949  0.35908400078987224  0.7184847759323133  1.0000
+  Y   Y1        1.0  0.004132180989599611  0.8580222563266195  0.3518318867673173  1.0000
+  Y   Y2        1.0  0.004366674235266472  0.8585444825604117  0.11475313584824541  1.0000
+  Y   Y3        1.0  0.003955945679857404  0.8593265964987961  0.5841497707019144  1.0000
+  Y   Y4        1.0  0.5044760768461406  0.3581558588834258  0.997697184085715  1.0000
+  Tm  Tm1       1.0  0.5037022462901822  0.35746599400790474  0.4705914345140984  1.0000
+  Tm  Tm2       1.0  0.5040317429673724  0.3576215122426856  0.23372328731700268  1.0000

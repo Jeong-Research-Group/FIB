@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Fe3InN
+_chemical_formula_sum              "Fe3 In1 N1"
+_cell_length_a       3.893883488274875
+_cell_length_b       3.891946664206891
+_cell_length_c       3.8884761333465576
+_cell_angle_alpha    89.98637627723171
+_cell_angle_beta     89.99397144739827
+_cell_angle_gamma    89.94749201199201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.86287522315979  0.4293172061443329  0.9119126796722411  1.0000
+  Fe  Fe2       1.0  0.36271965503692627  0.9290151000022887  0.911849021911621  1.0000
+  Fe  Fe3       1.0  0.36265358328819275  0.4290921688079834  0.4115364253520965  1.0000
+  In  In1       1.0  0.8628053665161133  0.9292755722999573  0.41157898306846613  1.0000
+  N   N1        1.0  0.36260658502578735  0.4293290972709656  0.9112064838409423  1.0000

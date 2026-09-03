@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiY2Ga
+_chemical_formula_sum              "Li1 Y2 Ga1"
+_cell_length_a       5.057134941216287
+_cell_length_b       3.737260057705391
+_cell_length_c       5.055792929038985
+_cell_angle_alpha    90.02714083332361
+_cell_angle_beta     90.08973020409722
+_cell_angle_gamma    90.01363453604198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.252506545611694  0.6889346608825373  0.3588969872905087  1.0000
+  Y   Y1        1.0  0.252581080831461  0.18854511129041954  0.8588035638966072  1.0000
+  Y   Y2        1.0  0.7525707645790128  0.189083519447633  0.3587596047612965  1.0000
+  Ga  Ga1       1.0  0.7525160888247667  0.6890191135982411  0.8587282591797596  1.0000

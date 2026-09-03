@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KCoNi2Ge2
+_chemical_formula_sum              "K1 Co1 Ni2 Ge2"
+_cell_length_a       3.982618885576885
+_cell_length_b       3.982523964257878
+_cell_length_c       8.879652685392793
+_cell_angle_alpha    90.26627159693618
+_cell_angle_beta     90.03539939558748
+_cell_angle_gamma    119.84609519648534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.20672090946252353  0.23070794965015873  0.4533089932755679  1.0000
+  Co  Co1       1.0  0.2045875081562103  0.22628798763707564  0.08370973121590437  1.0000
+  Ni  Ni1       1.0  0.5349224840012431  0.8917316545213568  0.8879566280916075  1.0000
+  Ni  Ni2       1.0  0.8697377355110235  0.5589147934919766  0.9974396553053382  1.0000
+  Ge  Ge1       1.0  0.2002903729448229  0.22432757484050686  0.8212495288657397  1.0000
+  Ge  Ge2       1.0  0.5388466750076216  0.893466380286342  0.15936411378555698  1.0000

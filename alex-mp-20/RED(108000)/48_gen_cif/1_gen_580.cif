@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc4TeP2S
+_chemical_formula_sum              "Sc4 Te1 P2 S1"
+_cell_length_a       3.8236856020564423
+_cell_length_b       6.747652523168221
+_cell_length_c       6.657303025637501
+_cell_angle_alpha    109.05424904464748
+_cell_angle_beta     89.99777261646912
+_cell_angle_gamma    89.99763455332346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.510680511937602  0.4367711312702742  0.8119493724915127  1.0000
+  Sc  Sc2       1.0  0.010400937793333188  0.4457088726704514  0.3426065179635024  1.0000
+  Sc  Sc3       1.0  0.010386634711039143  0.9939648055394189  0.8332340232600195  1.0000
+  Sc  Sc4       1.0  0.5107686142657571  0.0036668080258249807  0.3634702773119515  1.0000
+  Te  Te1       1.0  0.01083199417762871  0.7199187824962835  0.08804056283280122  1.0000
+  P   P1        1.0  0.5104432378455775  0.22002037449629736  0.08771474718571058  1.0000
+  P   P2        1.0  0.01076147314598599  0.21993510435594754  0.5879430867889507  1.0000
+  S   S1        1.0  0.5108269462606394  0.7199386531530891  0.5876876075566304  1.0000

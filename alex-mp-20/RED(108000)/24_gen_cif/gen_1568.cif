@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfHgHfCHf
+_chemical_formula_sum              "Hf3 Hg1 C1"
+_cell_length_a       4.489438875741415
+_cell_length_b       4.490687364856146
+_cell_length_c       4.493462085723877
+_cell_angle_alpha    90.0372338643079
+_cell_angle_beta     90.03460424348165
+_cell_angle_gamma    90.01821862118531
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.31395718455314636  0.8877264857292175  0.4678233861923218  1.0000
+  Hg  Hg1       1.0  0.31378722190856934  0.3877381980419159  0.9676246047019958  1.0000
+  Hf  Hf2       1.0  0.8145924210548401  0.38771599531173706  0.4676907956600189  1.0000
+  C   C1        1.0  0.814218282699585  0.88780677318573  0.46767884492874146  1.0000
+  Hf  Hf3       1.0  0.8142344355583191  0.8878461718559265  0.9677031636238098  1.0000

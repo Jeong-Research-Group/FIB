@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ta3V2PtAu
+_chemical_formula_sum              "Ta3 V2 Pt1 Au1"
+_cell_length_a       2.9969182548827558
+_cell_length_b       6.745171751629334
+_cell_length_c       6.408613637760421
+_cell_angle_alpha    111.71312413677761
+_cell_angle_beta     90.01272326454665
+_cell_angle_gamma    89.9939485882287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6653130429746741  0.524142284700133  0.2924682312528262  1.0000
+  Ta  Ta2       1.0  0.6654104728064195  0.9846154186780676  0.5306993918284002  1.0000
+  Ta  Ta3       1.0  0.6652738434784128  0.4463257660180283  0.7775679267624817  1.0000
+  V   V1        1.0  0.1654258248739015  0.7164021434267532  0.6593405815095735  1.0000
+  V   V2        1.0  0.1651454040116758  0.25465917258290943  0.39551146930492764  1.0000
+  Pt  Pt1       1.0  0.1654100833438409  0.18158254116667968  0.9413786813556667  1.0000
+  Au  Au1       1.0  0.16525892456018987  0.8121602482790291  0.1101338544207176  1.0000

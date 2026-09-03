@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2MoAl2Nb
+_chemical_formula_sum              "Al4 Mo1 Nb1"
+_cell_length_a       3.789655636045747
+_cell_length_b       4.080206394901159
+_cell_length_c       6.761348247528076
+_cell_angle_alpha    107.4547540346573
+_cell_angle_beta     90.05297062358692
+_cell_angle_gamma    90.09872606866703
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.2880010604858399  0.457217276096344  0.9302770495414733  1.0000
+  Al  Al2       1.0  0.7879139184951783  0.9583681821823119  0.9323355555534362  1.0000
+  Mo  Mo1       1.0  0.28847545385360723  0.1220790445804596  0.2596208155155182  1.0000
+  Al  Al3       1.0  0.288666844367981  0.7869061827659607  0.5892165303230286  1.0000
+  Al  Al4       1.0  0.7885611057281495  0.2863668203353882  0.5875670313835144  1.0000
+  Nb  Nb1       1.0  0.7885171175003053  0.6219210028648376  0.2598610818386078  1.0000

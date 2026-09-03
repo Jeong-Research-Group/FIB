@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga2SnBi2Se2
+_chemical_formula_sum              "Ga2 Sn1 Bi2 Se2"
+_cell_length_a       3.707586070310664
+_cell_length_b       6.21510100244719
+_cell_length_c       10.269872344001305
+_cell_angle_alpha    100.75224062512903
+_cell_angle_beta     89.94297234952329
+_cell_angle_gamma    90.1064377150623
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.46894189054234253  0.018200351175980557  0.09179462600752032  1.0000
+  Ga  Ga2       1.0  0.9686633143483676  0.5820198330370874  0.2830383880093509  1.0000
+  Sn  Sn1       1.0  0.4680425503542179  0.2336219951455556  0.8857434948120713  1.0000
+  Bi  Bi1       1.0  0.9681118578832701  0.6631552457576175  0.02418324228083327  1.0000
+  Bi  Bi2       1.0  0.472246688297449  0.2215240705261144  0.3588835417644877  1.0000
+  Se  Se1       1.0  0.4684236840070167  0.7790266263245723  0.4194172153215785  1.0000
+  Se  Se2       1.0  0.9681439289094665  0.08458653830608254  0.7153404530762583  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Au3N
+_chemical_formula_sum              "Nd2 Au3 N1"
+_cell_length_a       3.4479612775182082
+_cell_length_b       5.538789723492722
+_cell_length_c       7.264426859221086
+_cell_angle_alpha    112.51177493892465
+_cell_angle_beta     90.00629294844552
+_cell_angle_gamma    90.00128307284386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.6644721069357525  0.2970196711508525  0.5071926180661572  1.0000
+  Nd  Nd2       1.0  0.6648723387407646  0.04978516041165221  0.014475182485934998  1.0000
+  Au  Au1       1.0  0.6648400906450709  0.6733165447906918  0.2609031594053452  1.0000
+  Au  Au2       1.0  0.16464105717825  0.8463692485007979  0.605521761356365  1.0000
+  Au  Au3       1.0  0.16479471198908763  0.5002695635498585  0.9160111927805278  1.0000
+  N   N1        1.0  0.16466575560271673  0.17309733784641837  0.2608398352941193  1.0000

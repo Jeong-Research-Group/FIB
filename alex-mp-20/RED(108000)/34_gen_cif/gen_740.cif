@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2IrMn2Tb
+_chemical_formula_sum              "Mn4 Ir1 Tb1"
+_cell_length_a       4.968520544535799
+_cell_length_b       4.9626779601658235
+_cell_length_c       4.965061187744141
+_cell_angle_alpha    60.05167143427577
+_cell_angle_beta     59.94079861391916
+_cell_angle_gamma    59.96811334999193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6170228719711304  0.07161562889814377  0.20619280636310577  1.0000
+  Mn  Mn2       1.0  0.11893033981323245  0.568954348564148  0.20628368854522705  1.0000
+  Ir  Ir1       1.0  0.4937217235565186  0.4466017186641693  0.5803689360618591  1.0000
+  Mn  Mn3       1.0  0.11894130706787111  0.07228022813796997  0.2057083249092102  1.0000
+  Mn  Mn4       1.0  0.11841376870870592  0.07237192243337631  0.7033013105392456  1.0000
+  Tb  Tb1       1.0  0.7434036135673523  0.6964283585548401  0.8301640748977661  1.0000

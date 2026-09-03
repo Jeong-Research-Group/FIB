@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2GeC
+_chemical_formula_sum              "Tb2 Ge1 C1"
+_cell_length_a       3.576675764196262
+_cell_length_b       3.577442306281756
+_cell_length_c       7.746343612670898
+_cell_angle_alpha    76.7688801934208
+_cell_angle_beta     76.76041865693836
+_cell_angle_gamma    60.031092832233234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.9380787611007692  0.698137640953064  0.5653027892112732  1.0000
+  Tb  Tb2       1.0  0.4810712635517121  0.24228881299495697  0.9341107010841371  1.0000
+  Ge  Ge1       1.0  0.7101356983184816  0.46968871355056757  0.2494362443685532  1.0000
+  C   C1        1.0  0.20887079834938063  0.9702895879745482  0.7508571147918702  1.0000

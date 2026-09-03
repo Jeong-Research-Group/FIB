@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2CdH5Ir
+_chemical_formula_sum              "Ba2 Cd1 H5 Ir1"
+_cell_length_a       4.2576969234071145
+_cell_length_b       5.821869445537621
+_cell_length_c       5.838030648801461
+_cell_angle_alpha    90.12958056127695
+_cell_angle_beta     90.02984816524034
+_cell_angle_gamma    90.01347814178976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.855876290114898  0.284531427100455  0.1823191667736485  1.0000
+  Ba  Ba2       1.0  0.8561332081701343  0.7845210511319397  0.6824665584942209  1.0000
+  Cd  Cd1       1.0  0.3569198032041194  0.28376936481368115  0.6826258423774026  1.0000
+  H   H1        1.0  0.3564903398609438  0.577125608115525  0.3880912793535893  1.0000
+  H   H2        1.0  0.35677626729668194  0.9920390464953017  0.9760743097874186  1.0000
+  H   H3        1.0  0.8563860976994561  0.2852026466973758  0.682547351134059  1.0000
+  H   H4        1.0  0.35675909200810424  0.992490491855826  0.38900454589823436  1.0000
+  H   H5        1.0  0.35668335412389945  0.576298453146672  0.9758155984625666  1.0000
+  Ir  Ir1       1.0  0.35680530886672135  0.7843307831255467  0.18255750220669503  1.0000

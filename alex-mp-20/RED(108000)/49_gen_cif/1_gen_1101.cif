@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2LaZn
+_chemical_formula_sum              "Li2 La1 Zn1"
+_cell_length_a       5.121839438068195
+_cell_length_b       4.373043660060116
+_cell_length_c       4.357234872662448
+_cell_angle_alpha    90.00013443604993
+_cell_angle_beta     90.03457298085372
+_cell_angle_gamma    89.99917706588472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7989240896972207  0.39811414531402584  0.7873509886920468  1.0000
+  Li  Li2       1.0  0.7990225215650246  0.8989555559646234  0.28770978316544676  1.0000
+  La  La1       1.0  0.2989917111152509  0.898109643698313  0.7877326367156273  1.0000
+  Zn  Zn1       1.0  0.2990739952825025  0.3982078103908009  0.28770757596726404  1.0000

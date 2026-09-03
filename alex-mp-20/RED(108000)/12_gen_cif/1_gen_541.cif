@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2ZnGa2Ge
+_chemical_formula_sum              "Y2 Zn1 Ga2 Ge1"
+_cell_length_a       4.0335420162812605
+_cell_length_b       4.23564011623234
+_cell_length_c       7.324403401969711
+_cell_angle_alpha    90.01758330507386
+_cell_angle_beta     90.00335754837504
+_cell_angle_gamma    90.00425900006192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.6101992945752684  0.8234073250812576  0.09485111933613592  1.0000
+  Y   Y2        1.0  0.6102238291062143  0.32343919479109134  0.5854167299165186  1.0000
+  Zn  Zn1       1.0  0.11023643728176627  0.3236104420027414  0.9182787034419118  1.0000
+  Ga  Ga1       1.0  0.10984970383847739  0.8234415675751819  0.7610670255117545  1.0000
+  Ga  Ga2       1.0  0.11040246223925998  0.8233704931145613  0.4265044348204904  1.0000
+  Ge  Ge1       1.0  0.11018214060282777  0.3233710410841336  0.25200080570726885  1.0000

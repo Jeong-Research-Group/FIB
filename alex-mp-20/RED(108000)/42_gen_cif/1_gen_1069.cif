@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrV2As2C
+_chemical_formula_sum              "Sr1 V2 As2 C1"
+_cell_length_a       3.997593700899179
+_cell_length_b       3.99787483407266
+_cell_length_c       6.6391957447291405
+_cell_angle_alpha    90.01569227759094
+_cell_angle_beta     90.01813295847317
+_cell_angle_gamma    89.99993551224202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2855343976543913  0.14320116807315952  0.6776781436193213  1.0000
+  V   V1        1.0  0.2848917794475375  0.6431353528925517  0.1773597230100582  1.0000
+  V   V2        1.0  0.7850617277612173  0.14274992911533826  0.17731133403200253  1.0000
+  As  As1       1.0  0.7853204404562135  0.6428720294645949  0.9268748303299496  1.0000
+  As  As2       1.0  0.785702373036786  0.643196478717902  0.42795275236008107  1.0000
+  C   C1        1.0  0.2852628224187535  0.14313151116116912  0.17791076005253223  1.0000

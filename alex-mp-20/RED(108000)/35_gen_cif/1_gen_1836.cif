@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2NbMo3
+_chemical_formula_sum              "Ti2 Nb1 Mo3"
+_cell_length_a       3.2047528813674266
+_cell_length_b       3.204774740069523
+_cell_length_c       9.538080236463284
+_cell_angle_alpha    90.00079484779857
+_cell_angle_beta     90.00196390427496
+_cell_angle_gamma    90.00013361629273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6821615811771098  0.2905724005946224  0.1059991184798629  1.0000
+  Ti  Ti2       1.0  0.6823985235203779  0.29057036053308155  0.779372812954858  1.0000
+  Nb  Nb1       1.0  0.6820928076571776  0.2903592801632502  0.4430409176769176  1.0000
+  Mo  Mo1       1.0  0.18219669751672227  0.7902788492420685  0.27418089065867224  1.0000
+  Mo  Mo2       1.0  0.18208268427664154  0.7905761450914718  0.6115270537698255  1.0000
+  Mo  Mo3       1.0  0.1820890559777808  0.790771560353458  0.9425282598643364  1.0000

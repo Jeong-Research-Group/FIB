@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ge2IrLaGeLaIr3Mg
+_chemical_formula_sum              "Ge3 Ir4 La2 Mg1"
+_cell_length_a       4.218016346135676
+_cell_length_b       4.2154266350958105
+_cell_length_c       10.802867889404297
+_cell_angle_alpha    90.1200294121366
+_cell_angle_beta     90.05725314903759
+_cell_angle_gamma    90.0254312978088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.39931488037109375  0.5772587060928345  0.4160418212413788  1.0000
+  Ge  Ge2       1.0  0.8993092179298401  0.07740319520235062  0.16551212966442108  1.0000
+  Ir  Ir1       1.0  0.3994199335575104  0.5770418643951416  0.6472848057746887  1.0000
+  La  La1       1.0  0.8992948532104492  0.07701782137155533  0.5393925905227661  1.0000
+  Ge  Ge3       1.0  0.8994523882865906  0.5771051049232483  0.7904249429702759  1.0000
+  La  La2       1.0  0.39947593212127686  0.5775216817855834  0.041862260550260544  1.0000
+  Ir  Ir2       1.0  0.8990984559059143  0.0775149017572403  0.9341431856155396  1.0000
+  Ir  Ir3       1.0  0.8994406461715698  0.5771973133087158  0.29084253311157227  1.0000
+  Ir  Ir4       1.0  0.3996025025844574  0.07762737572193144  0.2906959056854248  1.0000
+  Mg  Mg1       1.0  0.39926329255104065  0.07770906388759612  0.7908703088760376  1.0000

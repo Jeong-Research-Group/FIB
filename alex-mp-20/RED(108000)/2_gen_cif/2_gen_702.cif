@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CsSn2Te2H
+_chemical_formula_sum              "Cs1 Sn2 Te2 H1"
+_cell_length_a       5.802861069525716
+_cell_length_b       5.800242054068009
+_cell_length_c       9.89613111668144
+_cell_angle_alpha    90.3024596272975
+_cell_angle_beta     89.66620411341792
+_cell_angle_gamma    133.09478912998168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8216080871251086  0.26816367595185725  0.3155906914444723  1.0000
+  Sn  Sn1       1.0  0.17568151004046542  0.9109900587225378  0.013773033573395876  1.0000
+  Sn  Sn2       1.0  0.17291076117613743  0.9169515165720138  0.6146752886101493  1.0000
+  Te  Te1       1.0  0.5060121712006574  0.5839420371123831  0.574413683285024  1.0000
+  Te  Te2       1.0  0.5105892248104416  0.577394857332094  0.06012039458277324  1.0000
+  H   H1        1.0  0.14624711115025035  0.9428025557050111  0.8147720630084256  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgGe2Pd2Ag
+_chemical_formula_sum              "Ag2 Ge2 Pd2"
+_cell_length_a       4.065893774728012
+_cell_length_b       4.070296313713152
+_cell_length_c       6.397512435913086
+_cell_angle_alpha    90.0064980143206
+_cell_angle_beta     90.01418880966756
+_cell_angle_gamma    90.00490658067551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.36921536922454834  0.2815178632736206  0.04117488116025925  1.0000
+  Ge  Ge1       1.0  0.8688178062438965  0.7813373804092407  0.15485481917858124  1.0000
+  Ge  Ge2       1.0  0.3684524893760681  0.28192391991615295  0.6340049505233765  1.0000
+  Pd  Pd1       1.0  0.8682909607887268  0.2819120585918427  0.39359140396118164  1.0000
+  Pd  Pd2       1.0  0.3685704171657562  0.7815240621566772  0.3954993486404419  1.0000
+  Ag  Ag2       1.0  0.8683729767799377  0.7819195985794067  0.7478381991386414  1.0000

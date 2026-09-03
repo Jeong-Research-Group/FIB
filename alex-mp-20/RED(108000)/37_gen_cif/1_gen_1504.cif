@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3YAl2
+_chemical_formula_sum              "Li3 Y1 Al2"
+_cell_length_a       4.776917282581986
+_cell_length_b       4.776856107566781
+_cell_length_c       6.152677493035797
+_cell_angle_alpha    90.00182730659634
+_cell_angle_beta     90.00014201813761
+_cell_angle_gamma    119.99941785691354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1189762620391357  0.14498537439179582  0.9768623635492616  1.0000
+  Li  Li2       1.0  0.7856658616841922  0.4782473924060101  0.16214201236182005  1.0000
+  Li  Li3       1.0  0.45230406419146874  0.8116482406643687  0.34763871261642537  1.0000
+  Y   Y1        1.0  0.7856391948492361  0.47833350439269784  0.6621672875553513  1.0000
+  Al  Al1       1.0  0.11896214754920374  0.14499565216201166  0.46770876459480204  1.0000
+  Al  Al2       1.0  0.45229688187086575  0.8116642227094185  0.8566927566517386  1.0000

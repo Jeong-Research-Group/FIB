@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2GaPd2
+_chemical_formula_sum              "Sr2 Ga1 Pd2"
+_cell_length_a       4.282972908702131
+_cell_length_b       4.20366822356559
+_cell_length_c       7.385281634832266
+_cell_angle_alpha    106.51193075333201
+_cell_angle_beta     90.00793659627006
+_cell_angle_gamma    90.0001640968159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.42593720937201135  0.845469504408133  0.32091126161784356  1.0000
+  Sr  Sr2       1.0  0.42578190363697005  0.08870858308812907  0.8067788056713721  1.0000
+  Ga  Ga1       1.0  0.9258794993951438  0.27048753920031565  0.17057543902601924  1.0000
+  Pd  Pd1       1.0  0.9255426300890611  0.4599337491403676  0.5503523921373199  1.0000
+  Pd  Pd2       1.0  0.9259347017781617  0.666980643707373  0.9632118920934041  1.0000

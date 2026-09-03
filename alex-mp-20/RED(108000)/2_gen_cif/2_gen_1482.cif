@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Ni2Hg2
+_chemical_formula_sum              "Sc2 Ni2 Hg2"
+_cell_length_a       4.18003395364926
+_cell_length_b       4.318147928870114
+_cell_length_c       6.230576326698226
+_cell_angle_alpha    90.00493881732343
+_cell_angle_beta     109.60934041149154
+_cell_angle_gamma    89.99928442003515
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.16356255782939172  0.10232321179621404  0.49357155544732495  1.0000
+  Sc  Sc2       1.0  0.3948218707671053  0.6019568116407807  0.9559098083712332  1.0000
+  Ni  Ni1       1.0  0.5238841895808515  0.10214210290668081  0.21413648353079037  1.0000
+  Ni  Ni2       1.0  0.03438332676834064  0.602234730344696  0.2352691976620016  1.0000
+  Hg  Hg1       1.0  0.8746902342581344  0.10195686112827598  0.9155318159316642  1.0000
+  Hg  Hg2       1.0  0.6836155501141928  0.6023511190607236  0.5338067038518642  1.0000

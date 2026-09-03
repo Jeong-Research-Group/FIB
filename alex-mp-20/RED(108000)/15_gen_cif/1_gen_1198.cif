@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Au3SCl3
+_chemical_formula_sum              "Au3 S1 Cl3"
+_cell_length_a       4.994157147859372
+_cell_length_b       7.17352036830636
+_cell_length_c       6.334814589045312
+_cell_angle_alpha    105.2256201801859
+_cell_angle_beta     95.91226362115957
+_cell_angle_gamma    103.11241814689377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.3582831195180439  0.11735957839527936  0.9514272046332032  1.0000
+  Au  Au2       1.0  0.7580809634560673  0.8692469005648655  0.9152438989271717  1.0000
+  Au  Au3       1.0  0.8384611788248089  0.11574087194010105  0.4824527083891943  1.0000
+  S   S1        1.0  0.03097832422146934  0.9080277295793769  0.6516344940620249  1.0000
+  Cl  Cl1       1.0  0.6577065836355456  0.3256096456472993  0.2849082892106262  1.0000
+  Cl  Cl2       1.0  0.10302381445521558  0.414719669092109  0.7380471744433251  1.0000
+  Cl  Cl3       1.0  0.5484516145059667  0.8061627405357026  0.21875489995954034  1.0000

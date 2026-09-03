@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2MoRh
+_chemical_formula_sum              "Ta2 Mo1 Rh1"
+_cell_length_a       3.2395207462371025
+_cell_length_b       3.23982301522204
+_cell_length_c       6.3414747008272325
+_cell_angle_alpha    89.99394042867736
+_cell_angle_beta     89.99504537284835
+_cell_angle_gamma    89.99408196949472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.41751580425378837  0.3423975875602512  0.9279089588138423  1.0000
+  Ta  Ta2       1.0  0.41806018270282463  0.3419800350557737  0.4182415273081054  1.0000
+  Mo  Mo1       1.0  0.9178287479452605  0.8421507196577602  0.17311315697316304  1.0000
+  Rh  Rh1       1.0  0.9179472635931207  0.8421904032269544  0.6731689257582167  1.0000

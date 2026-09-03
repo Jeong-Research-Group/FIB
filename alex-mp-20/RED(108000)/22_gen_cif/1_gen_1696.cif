@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Eu3BiN
+_chemical_formula_sum              "Eu3 Bi1 N1"
+_cell_length_a       5.109353458684333
+_cell_length_b       5.107005753199951
+_cell_length_c       5.108047559042473
+_cell_angle_alpha    90.00229840267284
+_cell_angle_beta     90.02521465448197
+_cell_angle_gamma    89.97991797240458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.9307259326034093  0.33488443566141407  0.18272049673666652  1.0000
+  Eu  Eu2       1.0  0.9307284051397487  0.8350034607824622  0.6825297158794414  1.0000
+  Eu  Eu3       1.0  0.43087093388804515  0.8349548718989912  0.18275569645168788  1.0000
+  Bi  Bi1       1.0  0.4309695608725925  0.33483683910130657  0.6825558000141455  1.0000
+  N   N1        1.0  0.9305069093736221  0.8350645816813691  0.18255476107771812  1.0000

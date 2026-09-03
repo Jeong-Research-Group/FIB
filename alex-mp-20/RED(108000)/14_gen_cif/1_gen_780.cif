@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrAl2InGa
+_chemical_formula_sum              "Pr1 Al2 In1 Ga1"
+_cell_length_a       4.433261404898245
+_cell_length_b       4.453539104894177
+_cell_length_c       6.538680546637009
+_cell_angle_alpha    109.85486830205654
+_cell_angle_beta     109.7935742283539
+_cell_angle_gamma    89.99955885599933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9584012315960552  0.4469128540401307  0.13492053890216324  1.0000
+  Al  Al1       1.0  0.34723517093932527  0.8357673172087553  0.9128272330114436  1.0000
+  Al  Al2       1.0  0.568894101323844  0.056881419816459416  0.35552524307625005  1.0000
+  In  In1       1.0  0.20869466928504096  0.19720551006419418  0.6352985515766332  1.0000
+  Ga  Ga1       1.0  0.7077848328154634  0.6952425161272837  0.6331742706186761  1.0000

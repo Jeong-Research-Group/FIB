@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CZr2CrTiCCrC
+_chemical_formula_sum              "C3 Zr2 Cr2 Ti1"
+_cell_length_a       3.123059087165953
+_cell_length_b       3.1172265057959105
+_cell_length_c       12.0164213180542
+_cell_angle_alpha    90.04807337815652
+_cell_angle_beta     89.827710989576
+_cell_angle_gamma    119.80530402380906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.866015374660492  0.6788765192031861  0.7184067964553833  1.0000
+  Zr  Zr1       1.0  0.5322448015213013  0.011869631707668304  0.43948885798454285  1.0000
+  Zr  Zr2       1.0  0.19932617247104648  0.34568217396736145  0.0025407075881958008  1.0000
+  Cr  Cr1       1.0  0.19941531121730807  0.34602028131484985  0.6385897397994995  1.0000
+  Ti  Ti1       1.0  0.8659748435020448  0.6782879829406739  0.22148464620113373  1.0000
+  C   C2        1.0  0.19901409745216375  0.3464179933071137  0.32547682523727417  1.0000
+  Cr  Cr2       1.0  0.5332813262939453  0.012860913760960104  0.7991694808006287  1.0000
+  C   C3        1.0  0.5329827070236206  0.012087518349289894  0.11748459190130234  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Li2In
+_chemical_formula_sum              "Li2 In1"
+_cell_length_a       2.9153196569277204
+_cell_length_b       4.705430023121343
+_cell_length_c       4.70662690100365
+_cell_angle_alpha    120.02678794506107
+_cell_angle_beta     89.98725662996411
+_cell_angle_gamma    90.02019113454627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4185165055778967  0.9044462241365036  0.7151503370222894  1.0000
+  Li  Li2       1.0  0.3444059054677263  0.5716696315081554  0.04924869964628201  1.0000
+  In  In1       1.0  0.8815615130784514  0.2385312894193482  0.38085668421580227  1.0000

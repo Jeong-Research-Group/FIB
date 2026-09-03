@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn3GePt2
+_chemical_formula_sum              "Zn3 Ge1 Pt2"
+_cell_length_a       3.380165213916862
+_cell_length_b       3.3790334495595467
+_cell_length_c       8.06388446396253
+_cell_angle_alpha    90.00497181260938
+_cell_angle_beta     90.01261207417747
+_cell_angle_gamma    89.99796592968615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5073794915569999  0.951424819651345  0.8694573288641971  1.0000
+  Zn  Zn2       1.0  0.007272219334912058  0.4511243316561841  0.7040666772854814  1.0000
+  Zn  Zn3       1.0  0.006464625476732018  0.45083781512727766  0.38893377310367966  1.0000
+  Ge  Ge1       1.0  0.5070860652020828  0.9515529120479409  0.20159425751260018  1.0000
+  Pt  Pt1       1.0  0.007321639221258111  0.4513863570571358  0.04454452482242361  1.0000
+  Pt  Pt2       1.0  0.5067032366337325  0.9508268471814894  0.5371869708815276  1.0000

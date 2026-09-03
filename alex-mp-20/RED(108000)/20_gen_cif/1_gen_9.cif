@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2GaCu
+_chemical_formula_sum              "Sm2 Ga1 Cu1"
+_cell_length_a       3.6019346887452843
+_cell_length_b       5.10485497840526
+_cell_length_c       5.106384631409131
+_cell_angle_alpha    90.00242711867594
+_cell_angle_beta     89.99258159673
+_cell_angle_gamma    89.99399521858439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.37841195620467477  0.3059982238560947  0.09368786178933602  1.0000
+  Sm  Sm2       1.0  0.37817562937236504  0.8064650824625187  0.5937360972954293  1.0000
+  Ga  Ga1       1.0  0.8781121652035905  0.8063299876506366  0.093806155874408  1.0000
+  Cu  Cu1       1.0  0.8784269536076197  0.30631017512394704  0.593676014075533  1.0000

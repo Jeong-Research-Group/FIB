@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Al2Ge2
+_chemical_formula_sum              "Sr2 Al2 Ge2"
+_cell_length_a       4.325948249841061
+_cell_length_b       4.32994228975443
+_cell_length_c       9.589007296604864
+_cell_angle_alpha    90.00123942694269
+_cell_angle_beta     89.99761792267654
+_cell_angle_gamma    120.0004238839931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.723885063063169  0.349548772058394  0.7490807054832787  1.0000
+  Sr  Sr2       1.0  0.7242923260557004  0.3502875834502755  0.2503204697413619  1.0000
+  Al  Al1       1.0  0.05706206946846049  0.017961275934272346  0.0012064952281352936  1.0000
+  Al  Al2       1.0  0.05668340488530382  0.017285297468290637  0.49905189631117775  1.0000
+  Ge  Ge1       1.0  0.38956621952084175  0.6836299487819651  0.4988954045467623  1.0000
+  Ge  Ge2       1.0  0.3898721384304661  0.6834614786083562  0.00011160760666710473  1.0000

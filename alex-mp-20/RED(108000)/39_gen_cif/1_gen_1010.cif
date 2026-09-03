@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyTi2Ni2
+_chemical_formula_sum              "Dy1 Ti2 Ni2"
+_cell_length_a       4.180446468003027
+_cell_length_b       4.180156881137094
+_cell_length_c       5.857949302734201
+_cell_angle_alpha    110.9064282782489
+_cell_angle_beta     110.88224720717753
+_cell_angle_gamma    89.99924278180069
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.06770932758033593  0.11395374567021099  0.11759599031156008  1.0000
+  Ti  Ti1       1.0  0.8173765347623441  0.3635054983115034  0.6167930791648868  1.0000
+  Ti  Ti2       1.0  0.3178052097548493  0.8636974021931842  0.6169775790244909  1.0000
+  Ni  Ni1       1.0  0.447378592737337  0.4937286672619781  0.8771381211963076  1.0000
+  Ni  Ni2       1.0  0.687150342925025  0.7329995536207323  0.3559050532346181  1.0000

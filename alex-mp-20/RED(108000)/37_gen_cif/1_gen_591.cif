@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca4Ru2C2
+_chemical_formula_sum              "Ca4 Ru2 C2"
+_cell_length_a       4.0014926553691375
+_cell_length_b       4.854231813975253
+_cell_length_c       8.270599068510398
+_cell_angle_alpha    89.98327400728823
+_cell_angle_beta     89.98525594944577
+_cell_angle_gamma    89.9998815990279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.29064486187820604  0.1193409302677118  0.42403131584961673  1.0000
+  Ca  Ca2       1.0  0.29050936723721255  0.6197664274154083  0.9827868490980092  1.0000
+  Ca  Ca3       1.0  0.7905624735880985  0.11970303192601932  0.08253461290145417  1.0000
+  Ca  Ca4       1.0  0.7908998840259838  0.6191056710463881  0.6414103530048956  1.0000
+  Ru  Ru1       1.0  0.7906898152404499  0.6195374709920839  0.28275867318099884  1.0000
+  Ru  Ru2       1.0  0.2916026053891996  0.1195461583296707  0.7826310633986737  1.0000
+  C   C1        1.0  0.7916945931389074  0.11902648401422292  0.7736075408318085  1.0000
+  C   C2        1.0  0.2906945929302046  0.6194333377693073  0.29156350955078353  1.0000

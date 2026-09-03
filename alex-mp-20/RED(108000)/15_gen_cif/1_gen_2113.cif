@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfCo2HIr
+_chemical_formula_sum              "Hf1 Co2 H1 Ir1"
+_cell_length_a       3.858161128416976
+_cell_length_b       3.845891960358889
+_cell_length_c       3.846511956051091
+_cell_angle_alpha    90.0056366000749
+_cell_angle_beta     90.00370600388116
+_cell_angle_gamma    90.00496118450607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.3523011851072895  0.2940393449790504  0.03177278959047921  1.0000
+  Co  Co1       1.0  0.852427612897469  0.29412807644578  0.5318758597401687  1.0000
+  Co  Co2       1.0  0.8522803023495767  0.7939688530852045  0.031989534526156195  1.0000
+  H   H1        1.0  0.8524155531757619  0.7940365045629805  0.5318851200467992  1.0000
+  Ir  Ir1       1.0  0.3523221383390508  0.7940967813485508  0.531727015568127  1.0000

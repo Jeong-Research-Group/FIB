@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Dy2S2TaTmS2
+_chemical_formula_sum              "Dy2 S4 Ta1 Tm1"
+_cell_length_a       3.7753244011402374
+_cell_length_b       6.5972161980914
+_cell_length_c       6.616178512573242
+_cell_angle_alpha    110.76672130304459
+_cell_angle_beta     90.37115498512588
+_cell_angle_gamma    90.38369525821457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.14055408537387848  0.5411556959152222  0.5269590020179749  1.0000
+  Dy  Dy2       1.0  0.6405213475227356  0.5404878258705139  0.027060635387897526  1.0000
+  S   S1        1.0  0.14005707204341888  0.2819318473339081  0.7803993821144104  1.0000
+  S   S2        1.0  0.6402006149291992  0.8081132769584657  0.7909025549888611  1.0000
+  Ta  Ta1       1.0  0.1402577906847  0.04252399504184723  0.02717110514640808  1.0000
+  Tm  Tm1       1.0  0.6405320763587952  0.041742004454135895  0.5271176099777222  1.0000
+  S   S3        1.0  0.6407327651977539  0.2747423052787781  0.26378127932548523  1.0000
+  S   S4        1.0  0.1403658241033554  0.8008806109428406  0.2746739685535431  1.0000

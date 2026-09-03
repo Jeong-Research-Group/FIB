@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2CeOFCeO2
+_chemical_formula_sum              "Na2 Ce2 O3 F1"
+_cell_length_a       3.52664994260869
+_cell_length_b       3.540779408295752
+_cell_length_c       10.062663078308105
+_cell_angle_alpha    90.01019997724723
+_cell_angle_beta     89.97934801272469
+_cell_angle_gamma    89.96770937243318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5390033721923828  0.05150173977017403  0.6872331500053406  1.0000
+  Na  Na2       1.0  0.039298366755247116  0.5512819886207582  0.48675924539566034  1.0000
+  Ce  Ce1       1.0  0.0387885756790638  0.5520477890968323  0.9369507431983948  1.0000
+  O   O1        1.0  0.5378373861312866  0.05176649987697602  0.966367483139038  1.0000
+  F   F1        1.0  0.03820813074707985  0.5541611313819885  0.20274735987186432  1.0000
+  Ce  Ce2       1.0  0.5383871793746948  0.053339399397373206  0.22599825263023376  1.0000
+  O   O2        1.0  0.5395000576972961  0.051957026124000556  0.437247097492218  1.0000
+  O   O3        1.0  0.03926709666848183  0.5511181354522705  0.7301120758056641  1.0000

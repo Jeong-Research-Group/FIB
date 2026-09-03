@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaGa2Sn2Pd
+_chemical_formula_sum              "Ca1 Ga2 Sn2 Pd1"
+_cell_length_a       4.618470512238962
+_cell_length_b       4.620952479981942
+_cell_length_c       8.309305400549478
+_cell_angle_alpha    73.92493289736976
+_cell_angle_beta     73.90829374634176
+_cell_angle_gamma    60.021725726768366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5241044897673004  0.32224166416550165  0.9917182622309401  1.0000
+  Ga  Ga1       1.0  0.07349134381360187  0.8726835111934598  0.34316881144293776  1.0000
+  Ga  Ga2       1.0  0.6611804489645996  0.4594354132828998  0.580699600294699  1.0000
+  Sn  Sn1       1.0  0.9406862272716485  0.7392778067938125  0.7423900841229217  1.0000
+  Sn  Sn2       1.0  0.7773100898167096  0.5761761032857011  0.2313806394156123  1.0000
+  Pd  Pd1       1.0  0.28515732039971015  0.08400591713009194  0.7084110729560781  1.0000

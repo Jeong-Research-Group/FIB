@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Mg2Au2
+_chemical_formula_sum              "Nd2 Mg2 Au2"
+_cell_length_a       3.6290516576761065
+_cell_length_b       4.770962337950383
+_cell_length_c       8.580143574004136
+_cell_angle_alpha    89.99855206225709
+_cell_angle_beta     89.99980768875623
+_cell_angle_gamma    89.99879658841265
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.08753605862938514  0.22012491621094082  0.8289933662332847  1.0000
+  Nd  Nd2       1.0  0.08751632759539968  0.7199066127821971  0.32901643688791316  1.0000
+  Mg  Mg1       1.0  0.5876396196976622  0.2199316099210606  0.5014868494544854  1.0000
+  Mg  Mg2       1.0  0.5873312489920051  0.21993308979520923  0.1567235246609648  1.0000
+  Au  Au1       1.0  0.587616420152566  0.719982046952934  0.999794278145442  1.0000
+  Au  Au2       1.0  0.5875147002521321  0.7199548533480402  0.6591771879710685  1.0000

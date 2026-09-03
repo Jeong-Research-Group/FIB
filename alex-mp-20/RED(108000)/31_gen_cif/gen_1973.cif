@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgCdPbInMgIn
+_chemical_formula_sum              "Mg2 Cd1 Pb1 In2"
+_cell_length_a       4.447597986406991
+_cell_length_b       5.778840532881818
+_cell_length_c       6.779634952545166
+_cell_angle_alpha    107.74762073224431
+_cell_angle_beta     90.00295314619918
+_cell_angle_gamma    112.7341347997443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3858998715877533  0.24363696575164792  0.30917516350746155  1.0000
+  Cd  Cd1       1.0  0.04897394031286235  0.5696699619293212  0.6319004893302917  1.0000
+  Pb  Pb1       1.0  0.05125541612505913  0.5746197700500488  0.13757814466953275  1.0000
+  In  In1       1.0  0.7174279689788818  0.9063381552696228  0.9499363899230957  1.0000
+  Mg  Mg2       1.0  0.38705840706825256  0.2466180473566055  0.7981182932853699  1.0000
+  In  In2       1.0  0.7294206619262695  0.9299367070198058  0.4827459752559662  1.0000

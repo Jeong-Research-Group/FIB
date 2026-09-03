@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd2SnPdSnPd2Sn
+_chemical_formula_sum              "Pd5 Sn3"
+_cell_length_a       4.405026564048078
+_cell_length_b       5.735215370567832
+_cell_length_c       5.735321521759033
+_cell_angle_alpha    100.29258472122832
+_cell_angle_beta     89.96997016352574
+_cell_angle_gamma    90.0436269230612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.7688136100769043  0.8374212980270385  0.7371171116828918  1.0000
+  Pd  Pd2       1.0  0.2691456079483032  0.040296848863363266  0.4386141002178192  1.0000
+  Sn  Sn1       1.0  0.26877135038375854  0.1375661939382553  0.9379522204399109  1.0000
+  Pd  Pd3       1.0  0.7685570120811462  0.33702734112739563  0.7378515005111694  1.0000
+  Sn  Sn2       1.0  0.26890045404434204  0.5388939380645752  0.5397682785987854  1.0000
+  Pd  Pd4       1.0  0.2694839537143707  0.6370421051979065  0.038787007331848145  1.0000
+  Pd  Pd5       1.0  0.768939197063446  0.3373125493526458  0.23870667815208435  1.0000
+  Sn  Sn3       1.0  0.7692312002182007  0.837293803691864  0.23753665387630463  1.0000

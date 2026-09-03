@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2Mo2Ir2
+_chemical_formula_sum              "Ta2 Mo2 Ir2"
+_cell_length_a       4.7652955172016105
+_cell_length_b       5.074524804092233
+_cell_length_c       4.727252903121981
+_cell_angle_alpha    83.15904243444484
+_cell_angle_beta     75.26115007054985
+_cell_angle_gamma    61.98541582209794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.16045649058057798  0.45276268602838843  0.8152518506054991  1.0000
+  Ta  Ta2       1.0  0.48240775213940124  0.8090292319337098  0.81640217037412  1.0000
+  Mo  Mo1       1.0  0.9789552086780069  0.8162394179287329  0.3156362969260034  1.0000
+  Mo  Mo2       1.0  0.6669960249154013  0.44206696279574786  0.3165757338148528  1.0000
+  Ir  Ir1       1.0  0.8214660291491959  0.13057776268777152  0.8162657975181506  1.0000
+  Ir  Ir2       1.0  0.3227842058807797  0.1297084512204188  0.31553931068830915  1.0000

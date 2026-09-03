@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2AlTl2Hg
+_chemical_formula_sum              "Dy2 Al1 Tl2 Hg1"
+_cell_length_a       3.7191319944084986
+_cell_length_b       4.723780795235997
+_cell_length_c       8.672686720068365
+_cell_angle_alpha    90.00401338149585
+_cell_angle_beta     88.49047477991593
+_cell_angle_gamma    89.99835202373822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.18215244209483375  0.7101184904461032  0.1278650647361856  1.0000
+  Dy  Dy2       1.0  0.22141751850071695  0.21008242398142293  0.6750735524151737  1.0000
+  Al  Al1       1.0  0.7054457399199554  0.2100259801710006  0.9794384890512987  1.0000
+  Tl  Tl1       1.0  0.8719379092731021  0.7101763513468018  0.4842871524985027  1.0000
+  Tl  Tl2       1.0  0.5684622810202178  0.2100567671648099  0.30418004170880836  1.0000
+  Hg  Hg1       1.0  0.6891774874561873  0.7099905006386509  0.828930153269424  1.0000

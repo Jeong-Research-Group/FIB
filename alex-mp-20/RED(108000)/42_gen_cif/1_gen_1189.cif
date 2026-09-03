@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiZr2Ga
+_chemical_formula_sum              "Li1 Zr2 Ga1"
+_cell_length_a       3.482632273188181
+_cell_length_b       3.465276873393588
+_cell_length_c       6.2205367484455465
+_cell_angle_alpha    89.99753165848351
+_cell_angle_beta     89.99832448018773
+_cell_angle_gamma    89.99380101534346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2249743229864898  0.7453042174539809  0.2205450530019074  1.0000
+  Zr  Zr1       1.0  0.7249880773364568  0.2453733023768412  0.4733891296718927  1.0000
+  Zr  Zr2       1.0  0.7249608701542054  0.24517637048167348  0.967579099578582  1.0000
+  Ga  Ga1       1.0  0.2249320466457674  0.7452621073554988  0.7205140758136911  1.0000

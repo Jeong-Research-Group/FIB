@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCd2O2
+_chemical_formula_sum              "Mn1 Cd2 O2"
+_cell_length_a       3.316964815799849
+_cell_length_b       3.3170198743645383
+_cell_length_c       8.000208367271687
+_cell_angle_alpha    78.05330508937037
+_cell_angle_beta     78.00299978072468
+_cell_angle_gamma    60.00354891084139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3872487341922483  0.48969541090643726  0.3378823878342757  1.0000
+  Cd  Cd1       1.0  0.6039722404801852  0.7082629407045994  0.6853066035335206  1.0000
+  Cd  Cd2       1.0  0.17015036588636903  0.27166550205527806  0.9904238880327235  1.0000
+  O   O1        1.0  0.7734685273537345  0.8753630137189203  0.17968038639293651  1.0000
+  O   O2        1.0  0.0008609484496742857  0.10376891719935397  0.49655009023380153  1.0000

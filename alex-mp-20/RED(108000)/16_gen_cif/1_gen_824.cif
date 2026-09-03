@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2ZnSi2Ir
+_chemical_formula_sum              "Na2 Zn1 Si2 Ir1"
+_cell_length_a       4.076825267217517
+_cell_length_b       4.0767563905658
+_cell_length_c       7.075399476045398
+_cell_angle_alpha    90.07101244194104
+_cell_angle_beta     89.95302022678433
+_cell_angle_gamma    90.00077185253163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7356384483348379  0.5994747187269759  0.8334360340600596  1.0000
+  Na  Na2       1.0  0.23509800370987188  0.10006852541564719  0.12787594268043959  1.0000
+  Zn  Zn1       1.0  0.23514070296815215  0.5998706574043899  0.4813708818788218  1.0000
+  Si  Si1       1.0  0.23529142086876526  0.10040433521024585  0.6736583647467068  1.0000
+  Si  Si2       1.0  0.7354838315676332  0.5994556178353609  0.288811508828152  1.0000
+  Ir  Ir1       1.0  0.7355286892586361  0.09989647128322729  0.4811340019997202  1.0000

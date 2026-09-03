@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoNi3H
+_chemical_formula_sum              "Co1 Ni3 H1"
+_cell_length_a       3.58821972487037
+_cell_length_b       3.5642529120648625
+_cell_length_c       3.56543287138163
+_cell_angle_alpha    90.01242831117567
+_cell_angle_beta     90.01262751963179
+_cell_angle_gamma    90.0020339321274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.4020294759794536  0.21860742841533157  0.5211860606220317  1.0000
+  Ni  Ni1       1.0  0.40219811533562866  0.7184591419607208  0.021639447570789262  1.0000
+  Ni  Ni2       1.0  0.9021749151155001  0.2186715412621563  0.021638067489099664  1.0000
+  Ni  Ni3       1.0  0.9021524157084456  0.7185541889334159  0.5213761925874283  1.0000
+  H   H1        1.0  0.9022206444844664  0.21856538883407775  0.5211197868539318  1.0000

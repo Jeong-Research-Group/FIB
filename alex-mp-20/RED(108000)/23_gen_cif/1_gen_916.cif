@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2GaHgSb2
+_chemical_formula_sum              "Cd2 Ga1 Hg1 Sb2"
+_cell_length_a       4.271231802332171
+_cell_length_b       5.643389659602144
+_cell_length_c       7.732130955946158
+_cell_angle_alpha    111.34902810497609
+_cell_angle_beta     106.03970552770066
+_cell_angle_gamma    90.0000960821752
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5645429260993357  0.40217670294473473  0.5532064505037955  1.0000
+  Cd  Cd2       1.0  0.18454069531296713  0.021393570284789422  0.7925197144575269  1.0000
+  Ga  Ga1       1.0  0.8746999508890352  0.7126074143810793  0.17306385804938315  1.0000
+  Hg  Hg1       1.0  0.8748005670320181  0.21247823492571727  0.1729918871223243  1.0000
+  Sb  Sb1       1.0  0.2315708742923778  0.5686714587385723  0.8876397124873328  1.0000
+  Sb  Sb2       1.0  0.5168339960292023  0.8546684696610866  0.45812431001428416  1.0000

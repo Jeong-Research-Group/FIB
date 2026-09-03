@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y3Si2Hg
+_chemical_formula_sum              "Y3 Si2 Hg1"
+_cell_length_a       3.363271093467271
+_cell_length_b       3.384080788758275
+_cell_length_c       12.05819001916615
+_cell_angle_alpha    89.99532114066196
+_cell_angle_beta     89.99363310714773
+_cell_angle_gamma    90.13399550992177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5547736637121108  0.8988502526678968  0.45728959795170104  1.0000
+  Y   Y2        1.0  0.5549472670095241  0.8985801889713538  0.7732228768284186  1.0000
+  Y   Y3        1.0  0.5548024985976808  0.8985901792515849  0.14102960830420555  1.0000
+  Si  Si1       1.0  0.05496594611206192  0.39850587257685033  0.6217480765276127  1.0000
+  Si  Si2       1.0  0.054805781042217346  0.3984069627569694  0.2927134121090057  1.0000
+  Hg  Hg1       1.0  0.054835810676333335  0.39900129600248907  0.956907439336279  1.0000

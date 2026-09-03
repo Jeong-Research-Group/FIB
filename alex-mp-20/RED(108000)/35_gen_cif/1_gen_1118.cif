@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiTi2Ga2Cu
+_chemical_formula_sum              "Li1 Ti2 Ga2 Cu1"
+_cell_length_a       3.845471709614553
+_cell_length_b       3.9785177602276205
+_cell_length_c       6.185681223403568
+_cell_angle_alpha    89.99877599140567
+_cell_angle_beta     71.88029844727622
+_cell_angle_gamma    90.0002505291248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.03832218997234857  0.120501313905935  0.3173033804420403  1.0000
+  Ti  Ti1       1.0  0.20370197067206192  0.6203149746127941  0.9876243792208487  1.0000
+  Ti  Ti2       1.0  0.8737944371431595  0.6202551405105797  0.6466767689110826  1.0000
+  Ga  Ga1       1.0  0.7023227734635195  0.12043794013254006  0.9904816477171292  1.0000
+  Ga  Ga2       1.0  0.37483819013153435  0.12017221970792522  0.643676596102603  1.0000
+  Cu  Cu1       1.0  0.5384131563818417  0.6204368005922253  0.3173820641941147  1.0000

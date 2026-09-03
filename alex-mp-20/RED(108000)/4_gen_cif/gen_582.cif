@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Yb3BiO2Bi
+_chemical_formula_sum              "Yb3 Bi2 O2"
+_cell_length_a       3.613255809266719
+_cell_length_b       3.6138246160278227
+_cell_length_c       13.608232498168945
+_cell_angle_alpha    89.97025702975007
+_cell_angle_beta     90.03152383191042
+_cell_angle_gamma    119.91953139075771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.6893949508666992  0.809259295463562  0.976966142654419  1.0000
+  Yb  Yb2       1.0  0.6902931332588196  0.8099589943885803  0.36569157242774963  1.0000
+  Yb  Yb3       1.0  0.3571552336215973  0.14332757890224457  0.787156879901886  1.0000
+  Bi  Bi1       1.0  0.02311224862933159  0.4772702157497406  0.5828983783721924  1.0000
+  O   O1        1.0  0.023213086649775495  0.47648119926452637  0.42077553272247314  1.0000
+  O   O2        1.0  0.02284315600991245  0.47623482346534723  0.8824727535247803  1.0000
+  Bi  Bi2       1.0  0.3560572564601898  0.14323796331882477  0.1644992083311081  1.0000

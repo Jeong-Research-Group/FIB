@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2Pt2HoPd
+_chemical_formula_sum              "Al2 Pt2 Ho1 Pd1"
+_cell_length_a       4.3353634665964345
+_cell_length_b       4.334969354842122
+_cell_length_c       6.524373531341553
+_cell_angle_alpha    90.09559098884522
+_cell_angle_beta     89.96046254136338
+_cell_angle_gamma    120.09572364258338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.36160457134246826  0.6083561182022095  0.6859451532363892  1.0000
+  Al  Al2       1.0  0.694645345211029  0.275014042854309  0.02386236749589443  1.0000
+  Pt  Pt1       1.0  0.36180976033210754  0.6086077690124512  0.08727848529815674  1.0000
+  Pt  Pt2       1.0  0.6953508853912354  0.27527156472206116  0.6224474310874939  1.0000
+  Ho  Ho1       1.0  0.02830343134701252  0.9417033791542052  0.35512399673461914  1.0000
+  Pd  Pd1       1.0  0.028748024255037204  0.9417839646339415  0.8552653789520264  1.0000

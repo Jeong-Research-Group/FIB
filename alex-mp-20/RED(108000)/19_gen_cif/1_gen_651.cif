@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2InGa
+_chemical_formula_sum              "Lu2 In1 Ga1"
+_cell_length_a       5.111127548187172
+_cell_length_b       5.107029016972978
+_cell_length_c       5.109569072723389
+_cell_angle_alpha    60.047139966615596
+_cell_angle_beta     60.002352720269734
+_cell_angle_gamma    60.005726507083345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.45470040989968863  0.5723906164575292  0.5332785257681313  1.0000
+  Lu  Lu2       1.0  0.9551586515952921  0.0727491007070441  0.033505141443817166  1.0000
+  In  In1       1.0  0.2046563035088301  0.3226315376684256  0.2834756670328698  1.0000
+  Ga  Ga1       1.0  0.7045968775834539  0.822730899484352  0.7834219935141582  1.0000

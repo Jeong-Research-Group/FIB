@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2LaGaN
+_chemical_formula_sum              "Ca2 La1 Ga1 N1"
+_cell_length_a       4.883993654618227
+_cell_length_b       5.067350772331027
+_cell_length_c       4.8838830881963595
+_cell_angle_alpha    90.00031955271533
+_cell_angle_beta     90.00040482250365
+_cell_angle_gamma    90.00027345135513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.07884054127642282  0.43160460061760086  0.005351030136550427  1.0000
+  Ca  Ca2       1.0  0.5788113415683013  0.4317877468885334  0.5052505621946799  1.0000
+  La  La1       1.0  0.5790867483079601  0.9317632051512978  0.005319024387216625  1.0000
+  Ga  Ga1       1.0  0.0791545951983638  0.9321579649671417  0.5054575425661696  1.0000
+  N   N1        1.0  0.579076429641354  0.4316280210408611  0.005411225857345764  1.0000

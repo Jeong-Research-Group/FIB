@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2BeFe
+_chemical_formula_sum              "Zr2 Be1 Fe1"
+_cell_length_a       3.2183774350557757
+_cell_length_b       3.2183799005940337
+_cell_length_c       6.235263185714651
+_cell_angle_alpha    90.00961054838075
+_cell_angle_beta     90.01250080803622
+_cell_angle_gamma    90.00022020079197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.24319215631549818  0.9947572064359929  0.7085314640818692  1.0000
+  Zr  Zr2       1.0  0.24247027467483023  0.9942396818763997  0.20702597074615808  1.0000
+  Be  Be1       1.0  0.7427513045996016  0.4945959291166647  0.4578872712914676  1.0000
+  Fe  Fe1       1.0  0.7427334591616125  0.49431728216056264  0.9577533601273718  1.0000

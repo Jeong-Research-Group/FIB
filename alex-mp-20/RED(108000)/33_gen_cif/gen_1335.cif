@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnSi2GeAsGe
+_chemical_formula_sum              "Sn1 Si2 Ge2 As1"
+_cell_length_a       4.093769112872686
+_cell_length_b       7.204520454811414
+_cell_length_c       5.83815336227417
+_cell_angle_alpha    112.88567767208856
+_cell_angle_beta     89.99205216452137
+_cell_angle_gamma    106.54875212503985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.05000506341457367  0.8567202091217041  0.3529222011566162  1.0000
+  Si  Si1       1.0  0.7263160347938538  0.2078311741352081  0.019548781216144562  1.0000
+  Si  Si2       1.0  0.8792679309844971  0.5131052732467651  0.9265711903572083  1.0000
+  Ge  Ge1       1.0  0.3918125629425049  0.5383663773536682  0.7116144895553589  1.0000
+  As  As1       1.0  0.2344397008419037  0.22300028800964355  0.26829129457473755  1.0000
+  Ge  Ge2       1.0  0.56106036901474  0.8782995939254761  0.6505321860313416  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NNiIrAuIr
+_chemical_formula_sum              "N1 Ni1 Ir2 Au1"
+_cell_length_a       4.060195468489305
+_cell_length_b       4.056302073410096
+_cell_length_c       4.016911506652832
+_cell_angle_alpha    90.02786284562661
+_cell_angle_beta     89.99397144742507
+_cell_angle_gamma    90.11842432757824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.2803604304790497  0.23338143527507782  0.4216071665287018  1.0000
+  Ni  Ni1       1.0  0.2819753587245941  0.23299117386341092  0.9220870733261108  1.0000
+  Ir  Ir1       1.0  0.2821727395057678  0.7331706285476685  0.42152175307273865  1.0000
+  Au  Au1       1.0  0.7814502120018005  0.733007252216339  0.9217944741249084  1.0000
+  Ir  Ir2       1.0  0.7815253734588623  0.23308566212654114  0.42122188210487366  1.0000

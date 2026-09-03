@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyCoRh2C
+_chemical_formula_sum              "Dy1 Co1 Rh2 C1"
+_cell_length_a       4.20927937059299
+_cell_length_b       4.209103989928141
+_cell_length_c       3.8982554437331913
+_cell_angle_alpha    89.99818277009356
+_cell_angle_beta     90.00243926647536
+_cell_angle_gamma    89.99952209406469
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.13428785090288228  0.8948678564536643  0.7243470120996964  1.0000
+  Co  Co1       1.0  0.6337998378770107  0.3949501511151644  0.7245195695127081  1.0000
+  Rh  Rh1       1.0  0.13363959784986035  0.39494144542932724  0.224400741408867  1.0000
+  Rh  Rh2       1.0  0.6340281354601758  0.8952329401576721  0.22422583648243483  1.0000
+  C   C1        1.0  0.6341880745695729  0.3950941177804317  0.22446022315429737  1.0000

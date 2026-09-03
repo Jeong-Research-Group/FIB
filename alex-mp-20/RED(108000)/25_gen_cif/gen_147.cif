@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiGeCaIrGe
+_chemical_formula_sum              "Ni1 Ge2 Ca1 Ir1"
+_cell_length_a       4.110538533997799
+_cell_length_b       4.108347767057181
+_cell_length_c       5.952822685241699
+_cell_angle_alpha    110.20737665225245
+_cell_angle_beta     110.14818404308814
+_cell_angle_gamma    89.9045852427503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6062562465667725  0.4122066795825959  0.7159838080406189  1.0000
+  Ge  Ge1       1.0  0.23117142915725705  0.5366253852844238  0.9655813574790955  1.0000
+  Ca  Ca1       1.0  0.8555335402488708  0.16190293431282046  0.21637941896915436  1.0000
+  Ir  Ir1       1.0  0.10621942579746246  0.9128658771514894  0.7156233787536621  1.0000
+  Ge  Ge2       1.0  0.4808627068996429  0.7883586883544922  0.4663960635662079  1.0000

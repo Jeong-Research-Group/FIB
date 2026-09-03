@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       La2AlCd
+_chemical_formula_sum              "La2 Al1 Cd1"
+_cell_length_a       3.845129492065733
+_cell_length_b       5.490842868536374
+_cell_length_c       5.492205619812012
+_cell_angle_alpha    90.00767963706502
+_cell_angle_beta     89.99807639107411
+_cell_angle_gamma    90.06832488345532
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6567069888114929  0.3950335681438446  0.8862456679344177  1.0000
+  La  La2       1.0  0.6566186547279358  0.8949720859527587  0.38633763790130615  1.0000
+  Al  Al1       1.0  0.15671266615390778  0.3949567675590515  0.38614052534103394  1.0000
+  Cd  Cd1       1.0  0.1567005217075348  0.8949311971664429  0.8862003087997437  1.0000

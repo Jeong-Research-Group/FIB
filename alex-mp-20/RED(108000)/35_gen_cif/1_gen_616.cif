@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaAgPd4Au
+_chemical_formula_sum              "Ga1 Ag1 Pd4 Au1"
+_cell_length_a       2.8839894959411163
+_cell_length_b       2.884018485755292
+_cell_length_c       14.101445114771172
+_cell_angle_alpha    89.98442065666107
+_cell_angle_beta     90.00484742791457
+_cell_angle_gamma    90.00564809696398
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5064003296611963  0.9801128833366227  0.6446311777582187  1.0000
+  Ag  Ag1       1.0  0.5069105572278033  0.979386693261846  0.46086320572580763  1.0000
+  Pd  Pd1       1.0  0.006374645894338042  0.4793568579403174  0.03304809446774652  1.0000
+  Pd  Pd2       1.0  0.006472873079589662  0.4798199888332045  0.7580851773518934  1.0000
+  Pd  Pd3       1.0  0.5062998059241209  0.9793003771912158  0.16811453468134957  1.0000
+  Pd  Pd4       1.0  0.5063427919590652  0.9795336262021633  0.899097294659615  1.0000
+  Au  Au1       1.0  0.006490906445443598  0.4794395596789044  0.310066037733725  1.0000

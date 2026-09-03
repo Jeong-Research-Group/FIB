@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2FeF4
+_chemical_formula_sum              "Cs2 Fe1 F4"
+_cell_length_a       4.426981497798467
+_cell_length_b       4.426512511457022
+_cell_length_c       7.950499881832939
+_cell_angle_alpha    106.16112163960605
+_cell_angle_beta     106.17013525416097
+_cell_angle_gamma    90.00003729967541
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.5183432983248333  0.5085786008053237  0.468451293694578  1.0000
+  Cs  Cs2       1.0  0.22734851479116475  0.21763202977760235  0.8865040726514487  1.0000
+  Fe  Fe1       1.0  0.8725891698399291  0.8628028901071761  0.17740020513215796  1.0000
+  F   F1        1.0  0.3725699109755127  0.8632665256719023  0.17749394806044352  1.0000
+  F   F2        1.0  0.733811370123734  0.7240595707015576  0.9003130759260642  1.0000
+  F   F3        1.0  0.011138567304875495  0.0011165467735382737  0.454586308408308  1.0000
+  F   F4        1.0  0.8726831140594317  0.36278910812673604  0.17729679849517657  1.0000

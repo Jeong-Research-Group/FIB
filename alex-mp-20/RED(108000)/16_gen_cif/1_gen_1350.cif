@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiPd4Rh
+_chemical_formula_sum              "Ti1 Pd4 Rh1"
+_cell_length_a       2.814621453955991
+_cell_length_b       3.9024199313463748
+_cell_length_c       8.29234158305385
+_cell_angle_alpha    89.99898088914033
+_cell_angle_beta     90.00050320435994
+_cell_angle_gamma    89.99890628519206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6096572431612556  0.7706534392619041  0.5696554217592448  1.0000
+  Pd  Pd1       1.0  0.1096862267696397  0.270592186025808  0.4071923003920623  1.0000
+  Pd  Pd2       1.0  0.6097877637217467  0.7708474798784113  0.9007015174991261  1.0000
+  Pd  Pd3       1.0  0.10965838423148286  0.2707882552205811  0.7320704248676153  1.0000
+  Pd  Pd4       1.0  0.6099796770421394  0.7706694337074725  0.23856081256832526  1.0000
+  Rh  Rh1       1.0  0.10996198366132291  0.2708441256355309  0.069672476218112  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe3Ni2Pt
+_chemical_formula_sum              "Fe3 Ni2 Pt1"
+_cell_length_a       2.615491042871679
+_cell_length_b       2.6154787212890733
+_cell_length_c       10.764653247613703
+_cell_angle_alpha    90.0001536482751
+_cell_angle_beta     90.00154072408772
+_cell_angle_gamma    89.99965170300331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6422124600497213  0.639557145886579  0.9416832039548275  1.0000
+  Fe  Fe2       1.0  0.6421353006681821  0.6392174444690546  0.25935251653599983  1.0000
+  Fe  Fe3       1.0  0.6419988006795169  0.6397730591315363  0.5780228926880835  1.0000
+  Ni  Ni1       1.0  0.14214584563286214  0.13934074195148854  0.10139376327221762  1.0000
+  Ni  Ni2       1.0  0.14195909644133423  0.1392760104285837  0.4176711458384604  1.0000
+  Pt  Pt1       1.0  0.14193102159729654  0.14008830424012522  0.7600457016196243  1.0000

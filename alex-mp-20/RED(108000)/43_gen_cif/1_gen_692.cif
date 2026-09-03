@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2InGePt2
+_chemical_formula_sum              "K2 In1 Ge1 Pt2"
+_cell_length_a       4.550064418746341
+_cell_length_b       4.557778838827416
+_cell_length_c       8.4664718934036
+_cell_angle_alpha    89.95508763299591
+_cell_angle_beta     89.95186985487301
+_cell_angle_gamma    89.48429980820165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.321704193137462  0.010143767772677658  0.6488496618103085  1.0000
+  K   K2        1.0  0.8221095938012379  0.5101980861146156  0.31166585428375304  1.0000
+  In  In1       1.0  0.3225810564793726  0.010397890225710195  0.14161393596583807  1.0000
+  Ge  Ge1       1.0  0.8215696278950437  0.5097006309267043  0.83365438536186  1.0000
+  Pt  Pt1       1.0  0.32142115415372713  0.5107694547521225  0.9623332162340866  1.0000
+  Pt  Pt2       1.0  0.8229607480462002  0.00953605864689593  0.961122241243417  1.0000

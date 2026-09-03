@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiPrSiPt2
+_chemical_formula_sum              "Li1 Pr1 Si1 Pt2"
+_cell_length_a       4.19036327972975
+_cell_length_b       4.123184679841401
+_cell_length_c       5.459902582678511
+_cell_angle_alpha    89.99861232956518
+_cell_angle_beta     90.00037185290417
+_cell_angle_gamma    89.9991737682654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.544539498190613  0.23535485548339213  0.463846976035308  1.0000
+  Pr  Pr1       1.0  0.5442613199641861  0.7356934556002486  0.9425739256813456  1.0000
+  Si  Si1       1.0  0.04445949405836333  0.23576045847670668  0.18845858262091977  1.0000
+  Pt  Pt1       1.0  0.04442539504975184  0.23573717616172118  0.7506870354566685  1.0000
+  Pt  Pt2       1.0  0.04424924822603592  0.7357603809107347  0.4050450843154138  1.0000

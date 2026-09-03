@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn3Cu2Hg
+_chemical_formula_sum              "Zn3 Cu2 Hg1"
+_cell_length_a       3.765455528829406
+_cell_length_b       3.981094346660297
+_cell_length_c       6.259383779956103
+_cell_angle_alpha    108.5329174144202
+_cell_angle_beta     90.00412448627775
+_cell_angle_gamma    89.99992036149058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.03866600077792866  0.023075857527710533  0.35768878242741264  1.0000
+  Zn  Zn2       1.0  0.03878915292783272  0.6889707936260316  0.689319891634108  1.0000
+  Zn  Zn3       1.0  0.538570408975231  0.5310085980406032  0.37466852071919726  1.0000
+  Cu  Cu1       1.0  0.5387126748294904  0.855626462482391  0.02369306927762264  1.0000
+  Cu  Cu2       1.0  0.5385103707658585  0.17250841149360355  0.657959555558225  1.0000
+  Hg  Hg1       1.0  0.038653662684754675  0.350438094035587  0.012238107015417185  1.0000

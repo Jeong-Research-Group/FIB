@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ge2Ag2Ni
+_chemical_formula_sum              "Ge2 Ag2 Ni1"
+_cell_length_a       4.604274612411469
+_cell_length_b       5.349437977052404
+_cell_length_c       4.58867883682251
+_cell_angle_alpha    111.97669490305489
+_cell_angle_beta     82.99837550566298
+_cell_angle_gamma    67.92146281500234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.10190894454717642  0.9159274697303771  0.23274755477905265  1.0000
+  Ge  Ge2       1.0  0.6035828590393066  0.9147553443908691  0.7333852052688599  1.0000
+  Ag  Ag1       1.0  0.10214767605066298  0.4153476059436798  0.7326095104217529  1.0000
+  Ag  Ag2       1.0  0.6018900871276855  0.41527318954467773  0.233586385846138  1.0000
+  Ni  Ni1       1.0  0.6016481518745421  0.9152577519416809  0.2334494739770889  1.0000

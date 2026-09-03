@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y2Mn2P2O2
+_chemical_formula_sum              "Y2 Mn2 P2 O2"
+_cell_length_a       4.130838884392741
+_cell_length_b       4.4786982019193315
+_cell_length_c       7.204331199060578
+_cell_angle_alpha    89.99027205204568
+_cell_angle_beta     90.11240578632821
+_cell_angle_gamma    89.99465925116668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.7067577802566333  0.6680033214715535  0.07552245589136002  1.0000
+  Y   Y2        1.0  0.2068469968733747  0.6685522289190275  0.5753962473535498  1.0000
+  Mn  Mn1       1.0  0.206884302017651  0.16671762704971851  0.24333043313803215  1.0000
+  Mn  Mn2       1.0  0.706707971799841  0.16821824252303702  0.7427292149155965  1.0000
+  P   P1        1.0  0.7075437165143665  0.17048942257867009  0.4105842818520937  1.0000
+  P   P2        1.0  0.20762938672080944  0.1707227124572264  0.9113408176373405  1.0000
+  O   O1        1.0  0.20703906904261501  0.6698865764507457  0.24344287466020664  1.0000
+  O   O2        1.0  0.7069530754397121  0.6691391404985345  0.7428655150813713  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaFe3Ni3B
+_chemical_formula_sum              "Ga1 Fe3 Ni3 B1"
+_cell_length_a       3.5885182937835483
+_cell_length_b       3.403672742100593
+_cell_length_c       7.05006694886246
+_cell_angle_alpha    89.99953117206846
+_cell_angle_beta     90.0024910592137
+_cell_angle_gamma    89.99998523373115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3222579183371585  0.15798461833784938  0.20688200243935553  1.0000
+  Fe  Fe1       1.0  0.8222299041277915  0.15793782475193258  0.927296236740133  1.0000
+  Fe  Fe2       1.0  0.3222994126029184  0.6579654050165722  0.479607413923085  1.0000
+  Fe  Fe3       1.0  0.8222299910343547  0.15793814145581428  0.48735984177931013  1.0000
+  Ni  Ni1       1.0  0.8221966522938177  0.6578781302901917  0.2072699923218845  1.0000
+  Ni  Ni2       1.0  0.3221956258462102  0.657924038726758  0.9445776438618143  1.0000
+  Ni  Ni3       1.0  0.3222387582946173  0.15789517840738382  0.7116685979774  1.0000
+  B   B1        1.0  0.8223546028513129  0.6579564342727949  0.7118643878057064  1.0000

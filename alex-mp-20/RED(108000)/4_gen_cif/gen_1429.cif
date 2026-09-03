@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2PbSr2Pb
+_chemical_formula_sum              "Hf2 Pb2 Sr2"
+_cell_length_a       4.562576771505753
+_cell_length_b       4.564950615243244
+_cell_length_c       8.907742500305176
+_cell_angle_alpha    90.06579771459052
+_cell_angle_beta     90.0010202026856
+_cell_angle_gamma    89.96271650291088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.91251140832901  0.6010521650314331  0.4593793451786041  1.0000
+  Hf  Hf2       1.0  0.4122062623500824  0.10091432929039001  0.4594264328479767  1.0000
+  Pb  Pb1       1.0  0.9117745161056519  0.10073714703321457  0.22121913731098175  1.0000
+  Sr  Sr1       1.0  0.9117093682289124  0.10082858055830002  0.7995036244392395  1.0000
+  Sr  Sr2       1.0  0.41241663694381714  0.6006223559379578  0.1162915751338005  1.0000
+  Pb  Pb2       1.0  0.4121910035610199  0.6012110114097595  0.6972496509552002  1.0000

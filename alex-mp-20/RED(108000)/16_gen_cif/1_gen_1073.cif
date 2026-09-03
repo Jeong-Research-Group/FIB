@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La3PrHgBi
+_chemical_formula_sum              "La3 Pr1 Hg1 Bi1"
+_cell_length_a       4.698715913177408
+_cell_length_b       4.796795232943991
+_cell_length_c       9.102327890266736
+_cell_angle_alpha    90.0076227450216
+_cell_angle_beta     90.00902675990818
+_cell_angle_gamma    90.00064388908613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.8839731839838436  0.0743461737830913  0.9997685442021593  1.0000
+  La  La2       1.0  0.8842685657098888  0.5745033494153211  0.37220997306687714  1.0000
+  La  La3       1.0  0.3836703879857886  0.07410098233549468  0.6576907324010423  1.0000
+  Pr  Pr1       1.0  0.3839284388786423  0.5743146234197856  0.9963255875331373  1.0000
+  Hg  Hg1       1.0  0.8835318761946531  0.5741785033277973  0.7206984108676749  1.0000
+  Bi  Bi1       1.0  0.3839831847892619  0.07435017403801773  0.2885615663253338  1.0000

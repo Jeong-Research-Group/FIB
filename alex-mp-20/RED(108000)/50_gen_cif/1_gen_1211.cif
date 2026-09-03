@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2FeSiGe
+_chemical_formula_sum              "Zr2 Fe1 Si1 Ge1"
+_cell_length_a       3.8888030821092885
+_cell_length_b       3.3953663406356203
+_cell_length_c       6.665178989619319
+_cell_angle_alpha    89.99858093639278
+_cell_angle_beta     106.963947708601
+_cell_angle_gamma    89.99990355207392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.3381146366161583  0.14420979716661866  0.2950559779773283  1.0000
+  Zr  Zr2       1.0  0.08496356452626339  0.14419797138867918  0.7885482985578823  1.0000
+  Fe  Fe1       1.0  0.9114900988956063  0.6440559968775176  0.44160887224601203  1.0000
+  Si  Si1       1.0  0.5069298984483088  0.6441888609624404  0.6324519278949952  1.0000
+  Ge  Ge1       1.0  0.714391662122699  0.6443466699179016  0.04791298944044939  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Lu4CdTe3
+_chemical_formula_sum              "Lu4 Cd1 Te3"
+_cell_length_a       4.117594402707008
+_cell_length_b       7.53937640116443
+_cell_length_c       7.540081985561891
+_cell_angle_alpha    107.59869965630564
+_cell_angle_beta     90.00647215321453
+_cell_angle_gamma    89.99308205505243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.6674795455782495  0.8462043669793355  0.8778940396047507  1.0000
+  Lu  Lu2       1.0  0.16737452114907378  0.3245719895527162  0.8736726713646584  1.0000
+  Lu  Lu3       1.0  0.16739986039208332  0.8501498378770598  0.3990301837811157  1.0000
+  Lu  Lu4       1.0  0.6675302109009288  0.3286593934922188  0.39405499222139384  1.0000
+  Cd  Cd1       1.0  0.6673186370694028  0.08730233322542888  0.6361421460447515  1.0000
+  Te  Te1       1.0  0.16720074553710748  0.0872933273264316  0.13634985300736174  1.0000
+  Te  Te2       1.0  0.16726853852523177  0.5873025613920139  0.6363720154439525  1.0000
+  Te  Te3       1.0  0.6674150255065865  0.5876642346201204  0.13613678412483957  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfIn2CuSn2
+_chemical_formula_sum              "Hf1 In2 Cu1 Sn2"
+_cell_length_a       4.424162020280931
+_cell_length_b       4.4264777094058765
+_cell_length_c       7.043941108361324
+_cell_angle_alpha    90.00863511481536
+_cell_angle_beta     90.00216684791731
+_cell_angle_gamma    89.99772489003125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9996481741717925  0.592910593454256  0.21757907772262128  1.0000
+  In  In1       1.0  0.9995644567754344  0.09300861875300209  0.5183783107706136  1.0000
+  In  In2       1.0  0.4995543898449676  0.592917622256936  0.9165208376282988  1.0000
+  Cu  Cu1       1.0  0.49970927004003163  0.09305535845124296  0.21767021237156176  1.0000
+  Sn  Sn1       1.0  0.49960762055139935  0.5930096078357091  0.4980948233900023  1.0000
+  Sn  Sn2       1.0  0.9995490103983314  0.0928667608268623  0.9370812168364614  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2Li2Au2Cl
+_chemical_formula_sum              "Cs2 Li2 Au2 Cl1"
+_cell_length_a       4.583215085416645
+_cell_length_b       4.5837073615708
+_cell_length_c       12.222051398532964
+_cell_angle_alpha    89.97776057777175
+_cell_angle_beta     89.97069574281772
+_cell_angle_gamma    59.99769173913185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.9133669065385045  0.25758518317666435  0.3238789142989263  1.0000
+  Cs  Cs2       1.0  0.24706857303367927  0.5909408248145698  0.9619873198536187  1.0000
+  Li  Li1       1.0  0.5781420212912506  0.9240728630509741  0.7388078446224225  1.0000
+  Li  Li2       1.0  0.24574367593731164  0.5910254441707721  0.6086009283383447  1.0000
+  Au  Au1       1.0  0.9114523804141514  0.2575774800070052  0.705413495414878  1.0000
+  Au  Au2       1.0  0.5796745684361452  0.9243879198606291  0.5357212097013178  1.0000
+  Cl  Cl1       1.0  0.5805027074342126  0.9241161692650496  0.14037483346418345  1.0000

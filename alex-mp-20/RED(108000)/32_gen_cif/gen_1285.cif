@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiInGdNiGd
+_chemical_formula_sum              "Ni2 In1 Gd2"
+_cell_length_a       3.715461015904035
+_cell_length_b       3.9365334460713304
+_cell_length_c       7.479276180267334
+_cell_angle_alpha    105.28277446972963
+_cell_angle_beta     89.99940144780743
+_cell_angle_gamma    90.02166786661188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2026240974664688  0.6839303374290466  0.25070101022720337  1.0000
+  In  In1       1.0  0.202421173453331  0.8821061253547668  0.6454025506973267  1.0000
+  Gd  Gd1       1.0  0.7026985883712769  0.24130894243717194  0.3658844828605652  1.0000
+  Ni  Ni2       1.0  0.20295563340187073  0.07948926091194153  0.04053874686360359  1.0000
+  Gd  Gd2       1.0  0.7027155160903931  0.5225649476051331  0.9260706901550293  1.0000

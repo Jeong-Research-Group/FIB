@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3As2RhAu2
+_chemical_formula_sum              "Li3 As2 Rh1 Au2"
+_cell_length_a       5.6539086897958235
+_cell_length_b       5.338682671421677
+_cell_length_c       5.338782736663764
+_cell_angle_alpha    94.02486729313603
+_cell_angle_beta     116.04064439124757
+_cell_angle_gamma    116.03682872773717
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6065912791078143  0.35834019882813684  0.6533916017603658  1.0000
+  Li  Li2       1.0  0.10679876291919073  0.3586601965185611  0.15327939529059545  1.0000
+  Li  Li3       1.0  0.10652208327945648  0.8578034170261002  0.653364069481878  1.0000
+  As  As1       1.0  0.606256033982592  0.8580547268266351  0.653533370261338  1.0000
+  As  As2       1.0  0.6068784684028096  0.35736265347895113  0.15314643855960883  1.0000
+  Rh  Rh1       1.0  0.6069185967690841  0.858422761667135  0.15362936753781187  1.0000
+  Au  Au1       1.0  0.10707355249452044  0.8588993787188899  0.15384568492671022  1.0000
+  Au  Au2       1.0  0.1066683523608133  0.35825517235511734  0.65360460058856  1.0000

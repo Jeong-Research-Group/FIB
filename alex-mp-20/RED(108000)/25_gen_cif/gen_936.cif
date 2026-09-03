@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnMoMnCr
+_chemical_formula_sum              "Mn2 Mo1 Cr1"
+_cell_length_a       2.9494037175968684
+_cell_length_b       4.1124363037427685
+_cell_length_c       4.863988876342773
+_cell_angle_alpha    114.91728863759663
+_cell_angle_beta     107.70478879441494
+_cell_angle_gamma    90.02008360858534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3428010642528534  0.4251219928264618  0.0510230883955956  1.0000
+  Mo  Mo1       1.0  0.8454992771148683  0.927470624446869  0.05639461800456056  1.0000
+  Mn  Mn2       1.0  0.0914507731795311  0.6724801063537598  0.5486224889755249  1.0000
+  Cr  Cr1       1.0  0.5959394574165344  0.17746494710445404  0.5572745203971863  1.0000

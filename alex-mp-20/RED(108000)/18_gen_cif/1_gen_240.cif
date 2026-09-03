@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hf2PdRh2
+_chemical_formula_sum              "Hf2 Pd1 Rh2"
+_cell_length_a       3.992353660119471
+_cell_length_b       5.102766906470061
+_cell_length_c       4.982776668968314
+_cell_angle_alpha    78.37433625424995
+_cell_angle_beta     66.38298999566885
+_cell_angle_gamma    66.96003325016021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.3405703362044882  0.15903717831214886  0.4563015741444531  1.0000
+  Hf  Hf2       1.0  0.2014119416575886  0.738489051832371  0.15598434919630638  1.0000
+  Pd  Pd1       1.0  0.7710097963495103  0.948941623795882  0.8057930453662208  1.0000
+  Rh  Rh1       1.0  0.96842670050944  0.3265370260027817  0.033116711994570114  1.0000
+  Rh  Rh2       1.0  0.5731967667783592  0.5712392472789599  0.5790549036464335  1.0000

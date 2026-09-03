@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       PrSi2PdPrPdSiBePd2
+_chemical_formula_sum              "Pr2 Si3 Pd4 Be1"
+_cell_length_a       4.283916754898064
+_cell_length_b       4.2770099337438925
+_cell_length_c       9.829751968383789
+_cell_angle_alpha    89.7940654697395
+_cell_angle_beta     89.80771903757243
+_cell_angle_gamma    89.87606873427812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.0721760243177414  0.4895037412643432  0.3247222304344177  1.0000
+  Si  Si1       1.0  0.0719936192035675  0.4889871180057525  0.9351586699485779  1.0000
+  Si  Si2       1.0  0.5718076229095459  0.989312171936035  0.201263427734375  1.0000
+  Pd  Pd1       1.0  0.07207191735506058  0.4893062114715577  0.6853329539299011  1.0000
+  Pr  Pr2       1.0  0.5723472833633423  0.9891206622123718  0.8114006519317627  1.0000
+  Pd  Pd2       1.0  0.5725839138031006  0.9889366626739501  0.45042911171913147  1.0000
+  Si  Si3       1.0  0.5721256136894226  0.4887276589870453  0.567865252494812  1.0000
+  Be  Be1       1.0  0.07215282320976257  0.9894986152648927  0.5678906440734863  1.0000
+  Pd  Pd3       1.0  0.07217137515544891  0.9893015027046203  0.06803970038890839  1.0000
+  Pd  Pd4       1.0  0.5722553133964539  0.48907044529914856  0.06783955544233322  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ti4Co2GaCo
+_chemical_formula_sum              "Ti4 Co3 Ga1"
+_cell_length_a       4.01933512628653
+_cell_length_b       4.017304843933586
+_cell_length_c       6.773383140563965
+_cell_angle_alpha    89.97369261594605
+_cell_angle_beta     90.06049748391536
+_cell_angle_gamma    90.08038017034586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2910320460796356  0.2824189364910126  0.33826738595962524  1.0000
+  Ti  Ti2       1.0  0.7909994721412659  0.7824345231056213  0.3381660282611847  1.0000
+  Ti  Ti3       1.0  0.7909277677536011  0.7825610637664795  0.8669030070304871  1.0000
+  Ti  Ti4       1.0  0.2909170091152191  0.282713919878006  0.8669816255569458  1.0000
+  Co  Co1       1.0  0.7910715937614441  0.28250861167907715  0.10466969758272171  1.0000
+  Co  Co2       1.0  0.2910284996032715  0.7824773788452148  0.10260467231273651  1.0000
+  Ga  Ga1       1.0  0.2907771170139313  0.7824444770812988  0.6020196080207825  1.0000
+  Co  Co3       1.0  0.7906782031059265  0.2822611331939697  0.6016680598258972  1.0000

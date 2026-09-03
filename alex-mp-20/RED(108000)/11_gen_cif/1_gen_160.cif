@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr3Si2Pt
+_chemical_formula_sum              "Zr3 Si2 Pt1"
+_cell_length_a       3.9059431498001063
+_cell_length_b       3.907690057379438
+_cell_length_c       7.309306447067426
+_cell_angle_alpha    90.01045817643647
+_cell_angle_beta     90.01755985699855
+_cell_angle_gamma    90.0000408781665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.11273573327846372  0.18503614026300383  0.4830607539897648  1.0000
+  Zr  Zr2       1.0  0.11228884265650699  0.6850419800086044  0.12670987468712772  1.0000
+  Zr  Zr3       1.0  0.6120608927805665  0.6847957138508288  0.770355632312404  1.0000
+  Si  Si1       1.0  0.612743925556373  0.6850928854062898  0.3966170715213022  1.0000
+  Si  Si2       1.0  0.11204507643326028  0.18473348469617026  0.8568733662533125  1.0000
+  Pt  Pt1       1.0  0.6122284309738943  0.1849741337607341  0.126316042542285  1.0000

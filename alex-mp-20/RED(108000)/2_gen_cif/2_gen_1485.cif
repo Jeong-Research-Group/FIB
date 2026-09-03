@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mo2PtRh
+_chemical_formula_sum              "Mo2 Pt1 Rh1"
+_cell_length_a       2.748180762247779
+_cell_length_b       4.034705044517768
+_cell_length_c       5.486929098432717
+_cell_angle_alpha    89.99840947576769
+_cell_angle_beta     89.98765517594543
+_cell_angle_gamma    90.00054726449906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.40117555758029455  0.5914909362435379  0.5681838348623611  1.0000
+  Mo  Mo2       1.0  0.40101468981003263  0.5918008288789197  0.05646128239633335  1.0000
+  Pt  Pt1       1.0  0.9016501225803812  0.09173510166086113  0.3121619699186473  1.0000
+  Rh  Rh1       1.0  0.9008897858425529  0.09160941737362215  0.8120613149429439  1.0000

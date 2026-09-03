@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgCd2In2Ag
+_chemical_formula_sum              "Mg1 Cd2 In2 Ag1"
+_cell_length_a       4.532607759128477
+_cell_length_b       4.385428665354301
+_cell_length_c       7.3074016612263275
+_cell_angle_alpha    107.44550115885073
+_cell_angle_beta     89.96652734309035
+_cell_angle_gamma    89.97990576947232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9141584134389519  0.8331829385992631  0.17681080630130427  1.0000
+  Cd  Cd1       1.0  0.4144144441877918  0.6759799591964591  0.8623160339677612  1.0000
+  Cd  Cd2       1.0  0.413963228788582  0.9900960331353799  0.4907178722386475  1.0000
+  In  In1       1.0  0.9141144987939018  0.49347403431360587  0.4972417093834072  1.0000
+  In  In2       1.0  0.9147295790261931  0.1731884707144978  0.856628585713199  1.0000
+  Ag  Ag1       1.0  0.4147301658445755  0.3332690584142859  0.17637058683817902  1.0000

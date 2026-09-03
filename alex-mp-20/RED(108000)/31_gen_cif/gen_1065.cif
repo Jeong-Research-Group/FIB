@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2RhPtGa
+_chemical_formula_sum              "Ca2 Rh1 Pt1 Ga1"
+_cell_length_a       4.058755254111749
+_cell_length_b       5.708014629030604
+_cell_length_c       5.70861291885376
+_cell_angle_alpha    61.38885885473292
+_cell_angle_beta     69.13185367689732
+_cell_angle_gamma    69.13458586125695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6675868034362793  0.6583657264709473  0.3505569398403168  1.0000
+  Ca  Ca2       1.0  0.2688429653644562  0.05754347890615464  0.7500846982002258  1.0000
+  Rh  Rh1       1.0  0.9685546755790713  0.6168453097343445  0.7911967039108276  1.0000
+  Pt  Pt1       1.0  0.9676644206047058  0.09769754111766815  0.31063091754913325  1.0000
+  Ga  Ga1       1.0  0.46861776709556574  0.3649914264678955  0.043151818215847015  1.0000

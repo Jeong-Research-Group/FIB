@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4BiSb2S
+_chemical_formula_sum              "La4 Bi1 Sb2 S1"
+_cell_length_a       4.540045742251734
+_cell_length_b       7.864946988306405
+_cell_length_c       7.890762210402804
+_cell_angle_alpha    109.33266928461927
+_cell_angle_beta     89.99858706073206
+_cell_angle_gamma    89.99960172619278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.29192995353339823  0.610166071319744  0.2666185905516635  1.0000
+  La  La2       1.0  0.2921223528241397  0.09282704484433331  0.7423510088237617  1.0000
+  La  La3       1.0  0.7921820019413058  0.6038410881178056  0.7446029902505962  1.0000
+  La  La4       1.0  0.7923266355354622  0.09910833653208752  0.26389242487208125  1.0000
+  Bi  Bi1       1.0  0.29218308636739465  0.851531265482961  0.004298796317134368  1.0000
+  Sb  Sb1       1.0  0.2923395035617826  0.3512577724366018  0.5044455112755125  1.0000
+  Sb  Sb2       1.0  0.7920073073972995  0.3517914983035083  0.004357254082409676  1.0000
+  S   S1        1.0  0.7920213790147552  0.8513359789145778  0.5040692090682831  1.0000

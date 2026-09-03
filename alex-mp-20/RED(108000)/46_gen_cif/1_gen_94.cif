@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnFe2HgN
+_chemical_formula_sum              "Mn1 Fe2 Hg1 N1"
+_cell_length_a       3.9336160632161365
+_cell_length_b       4.023054360667418
+_cell_length_c       3.933265313162908
+_cell_angle_alpha    90.0036122194215
+_cell_angle_beta     90.00092605101138
+_cell_angle_gamma    90.00425837910362
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7332305779240285  0.8856747501141744  0.28861650985809995  1.0000
+  Fe  Fe1       1.0  0.733189671651203  0.38596038416008366  0.7886115222873513  1.0000
+  Fe  Fe2       1.0  0.23302614697197546  0.3857908373905345  0.288422127109219  1.0000
+  Hg  Hg1       1.0  0.23284725259604994  0.8861186666041718  0.7882234324104356  1.0000
+  N   N1        1.0  0.733027180748794  0.3857704492878263  0.28855690375173815  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaFe3C3
+_chemical_formula_sum              "Ca1 Fe3 C3"
+_cell_length_a       3.5131410340889246
+_cell_length_b       3.513149943545908
+_cell_length_c       6.038539372559306
+_cell_angle_alpha    89.94481847663108
+_cell_angle_beta     89.98444411830685
+_cell_angle_gamma    90.00012365343734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5359426904713689  0.9002102690645294  0.304466873125191  1.0000
+  Fe  Fe1       1.0  0.5357544971120662  0.3989705242811931  0.719465368900625  1.0000
+  Fe  Fe2       1.0  0.036119820745486385  0.40078215668077494  0.004315353255960112  1.0000
+  Fe  Fe3       1.0  0.03562898014584118  0.8994351101274584  0.7194591421445121  1.0000
+  C   C1        1.0  0.5354838853844658  0.8984824916734206  0.8439170708043339  1.0000
+  C   C2        1.0  0.03578026699789229  0.39952278016886145  0.5375947178661568  1.0000
+  C   C3        1.0  0.035907448037302114  0.4002019421669178  0.30760176593170485  1.0000

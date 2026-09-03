@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YNiAlNi2Y
+_chemical_formula_sum              "Y2 Ni3 Al1"
+_cell_length_a       5.300611800049463
+_cell_length_b       5.297204434320467
+_cell_length_c       5.085214614868164
+_cell_angle_alpha    58.59034563056668
+_cell_angle_beta     58.59002276924658
+_cell_angle_gamma    59.96134169939522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.4319795072078705  0.3390068113803863  0.4895719587802887  1.0000
+  Ni  Ni1       1.0  0.057811770588159575  0.4647640883922577  0.11218326538801193  1.0000
+  Al  Al1       1.0  0.058301217854023014  0.9647251963615416  0.6121469736099243  1.0000
+  Ni  Ni2       1.0  0.05781495571136472  0.9648835659027101  0.11280419677495947  1.0000
+  Ni  Ni3       1.0  0.5579128861427308  0.9651077985763549  0.11140601336956024  1.0000
+  Y   Y2        1.0  0.6832193732261658  0.5902249217033386  0.7363735437393188  1.0000

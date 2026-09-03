@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdSn2Te3
+_chemical_formula_sum              "Cd1 Sn2 Te3"
+_cell_length_a       4.4628680162414005
+_cell_length_b       6.322531351107873
+_cell_length_c       7.7312690489083415
+_cell_angle_alpha    65.86027267474779
+_cell_angle_beta     73.22857112311127
+_cell_angle_gamma    89.98924166563245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.21601976316728302  0.8847453224171319  0.29530416947051136  1.0000
+  Sn  Sn1       1.0  0.5493328245867737  0.21780455765971402  0.629188518983622  1.0000
+  Sn  Sn2       1.0  0.8826898195500634  0.55140968473757  0.961253248908933  1.0000
+  Te  Te1       1.0  0.8750360094606032  0.043249638146779616  0.9771643530515952  1.0000
+  Te  Te2       1.0  0.21549122732926046  0.3840931086759393  0.29510674193956904  1.0000
+  Te  Te3       1.0  0.5570977653182595  0.7258543464047393  0.613559223396649  1.0000

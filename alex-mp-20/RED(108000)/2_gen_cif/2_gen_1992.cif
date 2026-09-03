@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb3DyGe2Te2
+_chemical_formula_sum              "Tb3 Dy1 Ge2 Te2"
+_cell_length_a       4.2721045692299375
+_cell_length_b       7.402517147670774
+_cell_length_c       7.482872062863667
+_cell_angle_alpha    109.25719569202911
+_cell_angle_beta     89.9973870427167
+_cell_angle_gamma    90.00629199699205
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6333469389819011  0.8100486471718455  0.3497049829838091  1.0000
+  Tb  Tb2       1.0  0.6336483006639928  0.33059854019215595  0.9099227919026835  1.0000
+  Tb  Tb3       1.0  0.1339715178173948  0.830988345919239  0.9093847563503878  1.0000
+  Dy  Dy1       1.0  0.13360516354823102  0.3100604866921113  0.3488261164770777  1.0000
+  Ge  Ge1       1.0  0.6339648568709119  0.0708923258283129  0.13025022306539602  1.0000
+  Ge  Ge2       1.0  0.13350612388747343  0.5703721941402176  0.12944482674071053  1.0000
+  Te  Te1       1.0  0.1334987606635301  0.07101708165797145  0.6292770489632981  1.0000
+  Te  Te2       1.0  0.633637259458361  0.569429950387533  0.628751502271974  1.0000

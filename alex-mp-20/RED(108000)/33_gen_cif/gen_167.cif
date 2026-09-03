@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgPbSHgPbS3
+_chemical_formula_sum              "Mg1 Pb2 S4 Hg1"
+_cell_length_a       3.9664812102616542
+_cell_length_b       7.075642951428001
+_cell_length_c       8.026771545410156
+_cell_angle_alpha    123.19017985920297
+_cell_angle_beta     89.99844522140988
+_cell_angle_gamma    90.0475201294627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9825855493545533  0.40429374575614935  0.1019859462976456  1.0000
+  Pb  Pb1       1.0  0.982439160346985  0.40498587489128113  0.6022180318832397  1.0000
+  S   S1        1.0  0.9824119806289674  0.9191177487373352  0.8390792608261108  1.0000
+  Hg  Hg1       1.0  0.4829759895801545  0.9040330052375793  0.6017595529556274  1.0000
+  Pb  Pb2       1.0  0.483150601387024  0.9050406813621521  0.1026704832911492  1.0000
+  S   S2        1.0  0.4823439717292786  0.4134017527103424  0.8868976831436158  1.0000
+  S   S3        1.0  0.4826205968856812  0.39446479082107544  0.31587323546409607  1.0000
+  S   S4        1.0  0.9830096364021302  0.8889524340629578  0.3645702004432679  1.0000

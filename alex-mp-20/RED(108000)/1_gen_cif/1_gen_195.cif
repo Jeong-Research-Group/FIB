@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaGe3H2Ir2
+_chemical_formula_sum              "Ba1 Ge3 H2 Ir2"
+_cell_length_a       4.231645038630163
+_cell_length_b       5.725773277251564
+_cell_length_c       6.332739029901097
+_cell_angle_alpha    90.12005496328968
+_cell_angle_beta     90.00964201115416
+_cell_angle_gamma    90.00253175683419
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7864200484179603  0.06574311541066602  0.04734743701169932  1.0000
+  Ge  Ge1       1.0  0.2863145941050428  0.5663698993287909  0.8581604005374082  1.0000
+  Ge  Ge2       1.0  0.2870364313428877  0.5658502052079647  0.23558813363216302  1.0000
+  Ge  Ge3       1.0  0.7869349646377393  0.5659236325641868  0.5474871020638702  1.0000
+  H   H1        1.0  0.2858732329985836  0.0667996558561588  0.7266797546172532  1.0000
+  H   H2        1.0  0.286744990867633  0.06549073076908643  0.366777320232669  1.0000
+  Ir  Ir1       1.0  0.2871612022188029  0.30283123914308535  0.5463818574790501  1.0000
+  Ir  Ir2       1.0  0.28688007395524673  0.8293881905638574  0.5471459059289479  1.0000

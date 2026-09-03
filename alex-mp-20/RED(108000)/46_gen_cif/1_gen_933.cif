@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnFe2Ru
+_chemical_formula_sum              "Mn1 Fe2 Ru1"
+_cell_length_a       2.9487548184000008
+_cell_length_b       4.141040118499965
+_cell_length_c       4.931982080815467
+_cell_angle_alpha    114.83151155778802
+_cell_angle_beta     107.39422122296357
+_cell_angle_gamma    89.99985754767954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.17289121529541404  0.17545685522020174  0.7072780187612391  1.0000
+  Fe  Fe1       1.0  0.42442255680848034  0.9267041648954127  0.21102308883356571  1.0000
+  Fe  Fe2       1.0  0.9212653949860712  0.42363156647904415  0.20412624424187495  1.0000
+  Ru  Ru1       1.0  0.6725584453052629  0.6752889739058067  0.7069368734382329  1.0000

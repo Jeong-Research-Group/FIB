@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca2InPbH
+_chemical_formula_sum              "Ca2 In1 Pb1 H1"
+_cell_length_a       4.7688291163665895
+_cell_length_b       4.9793512422003365
+_cell_length_c       4.9794440269470215
+_cell_angle_alpha    89.983821785383
+_cell_angle_beta     89.98154050142469
+_cell_angle_gamma    89.94145411865054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7413807511329651  0.6527650356292725  0.4865981638431549  1.0000
+  Ca  Ca2       1.0  0.7412065863609314  0.15349532663822174  0.9865936040878296  1.0000
+  In  In1       1.0  0.24117320775985718  0.653072714805603  0.9874601364135742  1.0000
+  Pb  Pb1       1.0  0.24098213016986847  0.1528632938861847  0.4871504008769989  1.0000
+  H   H1        1.0  0.7414312958717346  0.6535624265670776  0.9861470460891724  1.0000

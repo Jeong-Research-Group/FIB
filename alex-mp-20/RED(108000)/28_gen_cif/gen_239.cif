@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2PtCa2Pt
+_chemical_formula_sum              "La2 Pt2 Ca2"
+_cell_length_a       4.621905704265187
+_cell_length_b       5.9390803419728595
+_cell_length_c       7.241722583770752
+_cell_angle_alpha    108.48648886087923
+_cell_angle_beta     90.10664907403365
+_cell_angle_gamma    90.01622420730853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5148932933807373  0.7926052212715149  0.3509873151779175  1.0000
+  La  La2       1.0  0.014629925601184368  0.784651815891266  0.7436962723731995  1.0000
+  Pt  Pt1       1.0  0.014431326650083065  0.6545921564102174  0.10716972500085833  1.0000
+  Ca  Ca1       1.0  0.014929522760212421  0.22323507070541385  0.23336076736450198  1.0000
+  Ca  Ca2       1.0  0.5140101313591003  0.3540542125701905  0.8616392016410828  1.0000
+  Pt  Pt2       1.0  0.5142695903778076  0.9227321147918701  0.9873225688934326  1.0000

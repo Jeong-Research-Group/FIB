@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La2Ag2Ge2H
+_chemical_formula_sum              "La2 Ag2 Ge2 H1"
+_cell_length_a       4.548428474121959
+_cell_length_b       4.548503499600177
+_cell_length_c       8.209466626950741
+_cell_angle_alpha    89.99971379505821
+_cell_angle_beta     89.998945055032
+_cell_angle_gamma    120.01037929478288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7494148377744787  0.6918976020220001  0.6252746246181876  1.0000
+  La  La2       1.0  0.7493936542311858  0.6919626536405994  0.13092162298298904  1.0000
+  Ag  Ag1       1.0  0.08284779287041684  0.35833427337639523  0.8570716014145265  1.0000
+  Ag  Ag2       1.0  0.4161633267117334  0.025402923199021005  0.3698914977526569  1.0000
+  Ge  Ge1       1.0  0.41601998959699593  0.02517812160224102  0.8814097997418289  1.0000
+  Ge  Ge2       1.0  0.08289196701830863  0.3586786183853432  0.39559300326406277  1.0000
+  H   H1        1.0  0.416087898236888  0.025290251030152377  0.11286664975153247  1.0000

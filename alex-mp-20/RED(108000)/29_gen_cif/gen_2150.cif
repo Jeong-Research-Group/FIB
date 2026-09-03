@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2O2CuO
+_chemical_formula_sum              "Dy2 O3 Cu1"
+_cell_length_a       3.2183577467556024
+_cell_length_b       3.6413078923250066
+_cell_length_c       7.0321879386901855
+_cell_angle_alpha    104.87644046783599
+_cell_angle_beta     103.21039462957958
+_cell_angle_gamma    89.99686059343004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7009432315826416  0.7039908170700073  0.18288297951221466  1.0000
+  Dy  Dy2       1.0  0.41160956025123596  0.41479650139808655  0.6041766405105591  1.0000
+  O   O1        1.0  0.055087693035602577  0.5598844885826111  0.8936667442321777  1.0000
+  O   O2        1.0  0.8748109340667726  0.8775633573532104  0.5302308201789856  1.0000
+  Cu  Cu1       1.0  0.05573835968971253  0.05944681912660599  0.8932954668998718  1.0000
+  O   O3        1.0  0.23728893697261813  0.24156711995601654  0.25788503885269165  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NdSi2NdPr2
+_chemical_formula_sum              "Nd2 Si2 Pr2"
+_cell_length_a       4.502539384681781
+_cell_length_b       4.500541957924846
+_cell_length_c       8.417091369628906
+_cell_angle_alpha    89.98011982288435
+_cell_angle_beta     89.98181370904149
+_cell_angle_gamma    90.00934620299175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.8124480247497559  0.01617344655096531  0.6675066947937012  1.0000
+  Si  Si1       1.0  0.8119667768478394  0.5165418982505798  0.9368565678596497  1.0000
+  Si  Si2       1.0  0.31195005774497986  0.016400177031755447  0.3967136740684509  1.0000
+  Nd  Nd2       1.0  0.3121088147163391  0.5159230828285217  0.6661947965621948  1.0000
+  Pr  Pr1       1.0  0.3118519186973572  0.01642979495227337  0.02809915877878666  1.0000
+  Pr  Pr2       1.0  0.8121684789657593  0.5160801410675049  0.30534422397613525  1.0000

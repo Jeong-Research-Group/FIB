@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlV2Cr3
+_chemical_formula_sum              "Al1 V2 Cr3"
+_cell_length_a       2.959224196574357
+_cell_length_b       2.959310205213245
+_cell_length_c       8.812311657247786
+_cell_angle_alpha    89.99560182285258
+_cell_angle_beta     89.99900248530572
+_cell_angle_gamma    89.99899341358048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7211729197947067  0.17801701777465248  0.4015397011607731  1.0000
+  V   V1        1.0  0.7220538624991278  0.17808564510515237  0.7304994517819438  1.0000
+  V   V2        1.0  0.22230519619829922  0.6780697864026074  0.9082685420919459  1.0000
+  Cr  Cr1       1.0  0.7218854868982342  0.1781493992149772  0.07795734161098891  1.0000
+  Cr  Cr2       1.0  0.22131600202969512  0.6781651733682114  0.2203490476606853  1.0000
+  Cr  Cr3       1.0  0.2213755158497731  0.677973427256205  0.580711356287964  1.0000

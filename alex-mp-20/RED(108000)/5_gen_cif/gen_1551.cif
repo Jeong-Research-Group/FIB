@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ga2La2Ga
+_chemical_formula_sum              "Ga3 La2"
+_cell_length_a       4.22988682378696
+_cell_length_b       6.047321381093383
+_cell_length_c       6.065834045410156
+_cell_angle_alpha    61.035849207128706
+_cell_angle_beta     69.66231471831641
+_cell_angle_gamma    69.68171909818555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.33401858806610113  0.31136175990104675  0.07235708087682724  1.0000
+  Ga  Ga2       1.0  0.3364402353763581  0.7519245147705078  0.6285277009010315  1.0000
+  La  La1       1.0  0.6171412467956544  0.7486655712127686  0.06769096106290817  1.0000
+  La  La2       1.0  0.05307028815150262  0.3143512010574341  0.6334335207939148  1.0000
+  Ga  Ga3       1.0  0.8357428312301637  0.031346652656793594  0.3504384160041809  1.0000

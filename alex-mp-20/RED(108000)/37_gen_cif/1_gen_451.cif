@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Be2Nb2Ir
+_chemical_formula_sum              "Be2 Nb2 Ir1"
+_cell_length_a       2.9880722425394706
+_cell_length_b       3.787472526489666
+_cell_length_c       6.27779558909127
+_cell_angle_alpha    107.55791440187703
+_cell_angle_beta     90.00135620097114
+_cell_angle_gamma    89.99997247882654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.8623452124160753  0.7199079430951819  0.12365051830999868  1.0000
+  Be  Be2       1.0  0.8623076694252653  0.31887771261874587  0.32169122355647356  1.0000
+  Nb  Nb1       1.0  0.3622312201155607  0.14675561234900897  0.977554276904151  1.0000
+  Nb  Nb2       1.0  0.3622780288292378  0.8919545891191609  0.468001186797971  1.0000
+  Ir  Ir1       1.0  0.862278604320736  0.5193097910050017  0.7226452757906698  1.0000

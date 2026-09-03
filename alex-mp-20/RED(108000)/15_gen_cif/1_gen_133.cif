@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ge3As2Ir2
+_chemical_formula_sum              "Ge3 As2 Ir2"
+_cell_length_a       4.045328515956248
+_cell_length_b       5.58807959920471
+_cell_length_c       6.177205330977769
+_cell_angle_alpha    110.29295071887283
+_cell_angle_beta     104.0120538328571
+_cell_angle_gamma    89.64975773834783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.3100443270992203  0.2870630668374039  0.26987790570966175  1.0000
+  Ge  Ge2       1.0  0.9720507829056392  0.6190875352305151  0.5891625814402514  1.0000
+  Ge  Ge3       1.0  0.9274676057393746  0.09606275562270239  0.47240089536026186  1.0000
+  As  As1       1.0  0.6107405126039975  0.7046645664049107  0.02984948886505147  1.0000
+  As  As2       1.0  0.5627056036745558  0.10277320793037324  0.8496088549765219  1.0000
+  Ir  Ir1       1.0  0.4176424869084088  0.7720304692651783  0.42052492351159293  1.0000
+  Ir  Ir2       1.0  0.07400624731808003  0.42081508817218183  0.9163050761597146  1.0000

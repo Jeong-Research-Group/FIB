@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2CaLaRh
+_chemical_formula_sum              "Sr2 Ca1 La1 Rh1"
+_cell_length_a       5.901625266603943
+_cell_length_b       6.111883701371816
+_cell_length_c       5.494976041327683
+_cell_angle_alpha    90.00057843623975
+_cell_angle_beta     90.00299987244142
+_cell_angle_gamma    89.99878312060707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.19869909413731587  0.22364552396966894  0.10266951244877578  1.0000
+  Sr  Sr2       1.0  0.6984924427731709  0.22393263965128243  0.6026660178980834  1.0000
+  Ca  Ca1       1.0  0.19860805638667106  0.7238992050225568  0.6025772489721591  1.0000
+  La  La1       1.0  0.6996333249996248  0.7242822771417977  0.10264654680805836  1.0000
+  Rh  Rh1       1.0  0.6989004669379355  0.7239238730565658  0.6030741929611171  1.0000

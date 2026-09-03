@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrLi2MgCd2
+_chemical_formula_sum              "Sr1 Li2 Mg1 Cd2"
+_cell_length_a       4.831830807226988
+_cell_length_b       4.832035986733922
+_cell_length_c       7.608047859921497
+_cell_angle_alpha    90.00971782576211
+_cell_angle_beta     89.98938810218063
+_cell_angle_gamma    119.99359768263173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6641448240783271  0.5439473168593405  0.2068940034514124  1.0000
+  Li  Li1       1.0  0.33085357572978197  0.8770907436944094  0.887899796485376  1.0000
+  Li  Li2       1.0  0.33102218566413133  0.8773004073791997  0.5245897648819757  1.0000
+  Mg  Mg1       1.0  0.6643903447801313  0.5437993122031662  0.7071660511132289  1.0000
+  Cd  Cd1       1.0  0.9977180658612006  0.21071001696699976  0.5099562385694801  1.0000
+  Cd  Cd2       1.0  0.9975711317699198  0.21041216492468526  0.9047201919223297  1.0000

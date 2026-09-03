@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe3P2Br2
+_chemical_formula_sum              "Fe3 P2 Br2"
+_cell_length_a       3.559020967242893
+_cell_length_b       3.559349937702618
+_cell_length_c       11.22573269979615
+_cell_angle_alpha    80.68269761156135
+_cell_angle_beta     80.59461640278357
+_cell_angle_gamma    60.03029061075187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.10276142226817463  0.5084229890902966  0.9292389364263748  1.0000
+  Fe  Fe2       1.0  0.31919657731105894  0.7285075498922107  0.2673456384638346  1.0000
+  Fe  Fe3       1.0  0.7109014044508236  0.11859360089543426  0.09833258126878201  1.0000
+  P   P1        1.0  0.010812165591468446  0.41928177194801325  0.1952604866415102  1.0000
+  P   P2        1.0  0.4107252523166594  0.8171816769189381  0.0026200268942564377  1.0000
+  Br  Br1       1.0  0.8250689914043566  0.2292608784993488  0.7700837820949148  1.0000
+  Br  Br2       1.0  0.5962803058421928  0.005984171548023769  0.42628883564010084  1.0000

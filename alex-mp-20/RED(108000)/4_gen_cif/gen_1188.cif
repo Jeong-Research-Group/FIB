@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuSrCuHGe2
+_chemical_formula_sum              "Cu2 Sr1 H1 Ge2"
+_cell_length_a       4.235243440280858
+_cell_length_b       4.236952342042141
+_cell_length_c       5.492808818817139
+_cell_angle_alpha    89.99240733395114
+_cell_angle_beta     90.01362873143398
+_cell_angle_gamma    90.02813605234417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7373265027999878  0.9355008602142334  0.9891267418861389  1.0000
+  Sr  Sr1       1.0  0.2369900792837143  0.9351173639297485  0.489459753036499  1.0000
+  Cu  Cu2       1.0  0.2370571792125702  0.4358525574207306  0.9899789094924927  1.0000
+  H   H1        1.0  0.2363806962966919  0.934899091720581  0.9896924495697021  1.0000
+  Ge  Ge1       1.0  0.7371230721473694  0.43552741408348083  0.7315177917480469  1.0000
+  Ge  Ge2       1.0  0.7370114326477051  0.4357746839523315  0.24787454307079315  1.0000

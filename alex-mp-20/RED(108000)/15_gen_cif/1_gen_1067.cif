@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeAg2H3Au
+_chemical_formula_sum              "Fe1 Ag2 H3 Au1"
+_cell_length_a       2.786179672357948
+_cell_length_b       3.1891342658012
+_cell_length_c       9.679767309175237
+_cell_angle_alpha    90.08818956875099
+_cell_angle_beta     89.94935469265381
+_cell_angle_gamma    89.9941448385425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2599837294566126  0.733733266474334  0.11688459298761864  1.0000
+  Ag  Ag1       1.0  0.7626446194857797  0.7331680475109877  0.8260125930696783  1.0000
+  Ag  Ag2       1.0  0.7639481418759003  0.733171433354417  0.4080156832815522  1.0000
+  H   H1        1.0  0.25893908166361196  0.2336800909976136  0.11994294179583292  1.0000
+  H   H2        1.0  0.7601594409759382  0.7243497187902838  0.016910289295488514  1.0000
+  H   H3        1.0  0.7594955101242143  0.7431073608685399  0.21720536706216179  1.0000
+  Au  Au1       1.0  0.26376346020656405  0.23347431785444311  0.6168934169293069  1.0000

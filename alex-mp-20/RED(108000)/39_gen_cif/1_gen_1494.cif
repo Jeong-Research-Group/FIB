@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2HgBi
+_chemical_formula_sum              "Li2 Hg1 Bi1"
+_cell_length_a       3.448470450628728
+_cell_length_b       3.4490513966660448
+_cell_length_c       7.245263432069288
+_cell_angle_alpha    89.99446898397322
+_cell_angle_beta     89.9845658913713
+_cell_angle_gamma    89.99137935872587
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6079242642517368  0.056881111056290144  0.1055624922851835  1.0000
+  Li  Li2       1.0  0.6072496536926995  0.056323739065099875  0.5488665867184499  1.0000
+  Hg  Hg1       1.0  0.10769340464090443  0.556581795575445  0.3270752250564515  1.0000
+  Bi  Bi1       1.0  0.10750030512748954  0.5568402930334897  0.8270289094709269  1.0000

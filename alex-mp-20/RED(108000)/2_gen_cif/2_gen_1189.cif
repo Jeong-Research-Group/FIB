@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiB2IrRu
+_chemical_formula_sum              "Ti1 B2 Ir1 Ru1"
+_cell_length_a       3.8136724561978497
+_cell_length_b       3.8146408131693144
+_cell_length_c       4.8717883217344875
+_cell_angle_alpha    113.0419032739792
+_cell_angle_beta     113.02154231352232
+_cell_angle_gamma    90.00032268514792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5652222968816378  0.875354927124271  0.1446060905804464  1.0000
+  B   B1        1.0  0.9514463335155745  0.2617601563632876  0.9183500436342139  1.0000
+  B   B2        1.0  0.17835180953189353  0.4886324226330394  0.3714187868624194  1.0000
+  Ir  Ir1       1.0  0.31467591734296657  0.1251569279045583  0.6444532261460378  1.0000
+  Ru  Ru1       1.0  0.8150484200056293  0.6253885105404376  0.6452017502297548  1.0000

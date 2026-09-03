@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeHLiPH
+_chemical_formula_sum              "Fe1 H2 Li1 P1"
+_cell_length_a       3.168970204759616
+_cell_length_b       3.1328584608019456
+_cell_length_c       4.988541126251221
+_cell_angle_alpha    89.3557107040754
+_cell_angle_beta     89.32061041521416
+_cell_angle_gamma    89.63007946476857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9933586120605469  0.8128948807716371  0.5161740779876709  1.0000
+  H   H1        1.0  0.9922726154327393  0.8127493858337403  0.1947776973247528  1.0000
+  Li  Li1       1.0  0.49228256940841675  0.3121783435344696  0.010962026193737984  1.0000
+  P   P1        1.0  0.49211782217025757  0.31253311038017273  0.5114650726318359  1.0000
+  H   H2        1.0  0.9911986589431763  0.8123711347579957  0.8365806341171265  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Cr2Rh2
+_chemical_formula_sum              "Nd2 Cr2 Rh2"
+_cell_length_a       4.125569329548134
+_cell_length_b       4.127725108775066
+_cell_length_c       8.842452295964238
+_cell_angle_alpha    89.9582363934048
+_cell_angle_beta     89.9791761404925
+_cell_angle_gamma    120.00750973949813
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.1772238377471668  0.7450835923403297  0.8334160701539002  1.0000
+  Nd  Nd2       1.0  0.17722524541329357  0.7450179375489613  0.3331414483801983  1.0000
+  Cr  Cr1       1.0  0.8443567774714154  0.07828051820085374  0.5834855665743635  1.0000
+  Cr  Cr2       1.0  0.509771971762449  0.41123481473732776  0.08340790657575364  1.0000
+  Rh  Rh1       1.0  0.5112978312536347  0.41195754477039054  0.5850399942166057  1.0000
+  Rh  Rh2       1.0  0.842525404929327  0.07867972892805494  0.08489648101542348  1.0000

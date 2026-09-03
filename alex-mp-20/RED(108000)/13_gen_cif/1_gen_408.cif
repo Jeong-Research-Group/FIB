@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Sc2RhC
+_chemical_formula_sum              "Ce2 Sc2 Rh1 C1"
+_cell_length_a       3.597665659592074
+_cell_length_b       5.97727037758577
+_cell_length_c       6.133486416411708
+_cell_angle_alpha    100.94086937465998
+_cell_angle_beta     89.92278441024793
+_cell_angle_gamma    90.04081324148044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.19201836101213687  0.3878567844020828  0.14924019447587428  1.0000
+  Ce  Ce2       1.0  0.19101793474630743  0.18367918344386455  0.6537548893743202  1.0000
+  Sc  Sc1       1.0  0.691681563719708  0.9336763922559104  0.19407459541352692  1.0000
+  Sc  Sc2       1.0  0.6916979194283054  0.6380503013349201  0.6087933108386462  1.0000
+  Rh  Rh1       1.0  0.19172946232800614  0.7847064131291925  0.9016154977111193  1.0000
+  C   C1        1.0  0.6915099322201489  0.28567430980889685  0.4018164274407333  1.0000

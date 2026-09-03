@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Hg2H2
+_chemical_formula_sum              "Mg2 Hg2 H2"
+_cell_length_a       3.3544202820557167
+_cell_length_b       3.3554524675995485
+_cell_length_c       8.489776569001773
+_cell_angle_alpha    89.87869065113864
+_cell_angle_beta     90.03126591018695
+_cell_angle_gamma    90.00214778554259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8929199075250902  0.2339683243007795  0.30184381895302054  1.0000
+  Mg  Mg2       1.0  0.3930588042657551  0.7329349691504201  0.5752939994277692  1.0000
+  Hg  Hg1       1.0  0.39215186358762927  0.7352489636032571  0.07982889212540525  1.0000
+  Hg  Hg2       1.0  0.893322691199402  0.23215021373553757  0.7976095597816731  1.0000
+  H   H1        1.0  0.3930020845995359  0.23336495366000004  0.43885197548700283  1.0000
+  H   H2        1.0  0.8930455250658498  0.7334679770871207  0.43861939862279287  1.0000

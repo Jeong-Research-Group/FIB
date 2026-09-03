@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiBaAsBaH
+_chemical_formula_sum              "Li1 Ba2 As1 H1"
+_cell_length_a       4.469831908453052
+_cell_length_b       5.398157708254475
+_cell_length_c       5.398478031158447
+_cell_angle_alpha    90.10561772427675
+_cell_angle_beta     90.09139726454812
+_cell_angle_gamma    90.03216586519278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2524469792842865  0.3923777937889099  0.7353348731994629  1.0000
+  Ba  Ba1       1.0  0.7532186508178711  0.3911155462265014  0.23558673262596133  1.0000
+  As  As1       1.0  0.25264406204223633  0.8915862441062927  0.2358357906341553  1.0000
+  Ba  Ba2       1.0  0.7524063587188721  0.891712486743927  0.7365373969078064  1.0000
+  H   H1        1.0  0.7524640560150146  0.39144688844680786  0.7358054518699646  1.0000

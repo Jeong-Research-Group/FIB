@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyNi2P2
+_chemical_formula_sum              "Dy1 Ni2 P2"
+_cell_length_a       3.8722036460614166
+_cell_length_b       3.8722232573636104
+_cell_length_c       5.429587264341569
+_cell_angle_alpha    110.89801544788091
+_cell_angle_beta     110.90894238492491
+_cell_angle_gamma    89.99964782512481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.32600950381985394  0.5651818062457302  0.8189022095118283  1.0000
+  Ni  Ni1       1.0  0.5756314173949306  0.31511379794109684  0.31871598461479195  1.0000
+  Ni  Ni2       1.0  0.0763707082563299  0.8154079779144646  0.31886176967071905  1.0000
+  P   P1        1.0  0.9493921192607033  0.18878365241294873  0.06545886099435692  1.0000
+  P   P2        1.0  0.7027899253078381  0.9421093826247103  0.5726186840253136  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2Tl2Hg2As
+_chemical_formula_sum              "Ca2 Tl2 Hg2 As1"
+_cell_length_a       4.418015806002776
+_cell_length_b       5.050167437017793
+_cell_length_c       9.135240823051912
+_cell_angle_alpha    90.14521305595936
+_cell_angle_beta     90.00463591500296
+_cell_angle_gamma    90.00107939594496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.06767927051248632  0.5255204327812785  0.2322886761966895  1.0000
+  Ca  Ca2       1.0  0.06769640785363094  0.5245397829212355  0.6541794528777586  1.0000
+  Tl  Tl1       1.0  0.5678353323822007  0.02548261155250986  0.2634385303961684  1.0000
+  Tl  Tl2       1.0  0.5678545677393632  0.5251923918993834  0.9545824184639289  1.0000
+  Hg  Hg1       1.0  0.5677857989567207  0.024984315960377593  0.7024030282581731  1.0000
+  Hg  Hg2       1.0  0.06768997302215532  0.025237218344642997  0.9556897514378533  1.0000
+  As  As1       1.0  0.5677065583025  0.5256285273171253  0.44357251957749233  1.0000

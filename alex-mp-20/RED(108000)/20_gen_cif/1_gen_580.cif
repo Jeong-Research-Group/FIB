@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta3FeIr2
+_chemical_formula_sum              "Ta3 Fe1 Ir2"
+_cell_length_a       3.910859990139188
+_cell_length_b       3.913357934883836
+_cell_length_c       6.426128934980506
+_cell_angle_alpha    107.72531659769541
+_cell_angle_beta     89.99847541924288
+_cell_angle_gamma    90.0013236127189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.37087732057535344  0.7865324804029288  0.2713491676283015  1.0000
+  Ta  Ta2       1.0  0.8709289880326382  0.28989915625838  0.27807784068282076  1.0000
+  Ta  Ta3       1.0  0.870830149541856  0.5936577934395457  0.8857786037198231  1.0000
+  Fe  Fe1       1.0  0.37095540867722965  0.4501815241665571  0.5987425558824322  1.0000
+  Ir  Ir1       1.0  0.870953881593599  0.9429092915374184  0.5841334530527763  1.0000
+  Ir  Ir2       1.0  0.3707827876734685  0.10899061607529552  0.9165340746095441  1.0000

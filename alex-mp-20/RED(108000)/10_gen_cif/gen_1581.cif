@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pd2LuIn
+_chemical_formula_sum              "Pd2 Lu1 In1"
+_cell_length_a       3.496702464456218
+_cell_length_b       4.66900429980605
+_cell_length_c       4.671726226806641
+_cell_angle_alpha    89.93814830777185
+_cell_angle_beta     89.94348951478686
+_cell_angle_gamma    89.93239728623742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.11222560703754424  0.0036735446192324166  0.049247995018959045  1.0000
+  Pd  Pd2       1.0  0.1120253801345825  0.5035662651062012  0.5495990514755249  1.0000
+  Lu  Lu1       1.0  0.6116268038749695  0.5034101605415344  0.0498453751206398  1.0000
+  In  In1       1.0  0.6120622158050537  0.0042678117752075195  0.5481936931610109  1.0000

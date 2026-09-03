@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoSc3Hg
+_chemical_formula_sum              "Co1 Sc3 Hg1"
+_cell_length_a       4.792402315890836
+_cell_length_b       4.793889589727765
+_cell_length_c       4.796464443206787
+_cell_angle_alpha    90.02729593866835
+_cell_angle_beta     89.99185408888839
+_cell_angle_gamma    89.95701329067666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6479914784431458  0.7387553453445435  0.7103496193885803  1.0000
+  Sc  Sc1       1.0  0.14814569056034088  0.7383530735969543  0.7117094397544861  1.0000
+  Sc  Sc2       1.0  0.6483221054077148  0.7383362650871276  0.2111164778470993  1.0000
+  Sc  Sc3       1.0  0.6483388543128967  0.2384528815746307  0.7117546796798706  1.0000
+  Hg  Hg1       1.0  0.14822673797607422  0.2383887469768524  0.21146506071090698  1.0000

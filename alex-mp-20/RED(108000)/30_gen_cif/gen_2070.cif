@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sn2Au2PbSn
+_chemical_formula_sum              "Sn3 Au2 Pb1"
+_cell_length_a       4.458362663390011
+_cell_length_b       6.028911980603028
+_cell_length_c       6.627086162567139
+_cell_angle_alpha    76.12831761582095
+_cell_angle_beta     70.96993982017378
+_cell_angle_gamma    68.31430970091841
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.06856314837932585  0.6265174746513367  0.34239447116851807  1.0000
+  Sn  Sn2       1.0  0.6876500248908997  0.17844316363334656  0.6538617014884949  1.0000
+  Au  Au1       1.0  0.6054678559303285  0.8103423714637756  0.034509994089603424  1.0000
+  Au  Au2       1.0  0.37328484654426575  0.054332733154296875  0.4087749719619751  1.0000
+  Pb  Pb1       1.0  0.9110183715820314  0.24230195581912992  0.07939274609088895  1.0000
+  Sn  Sn3       1.0  0.2917477190494537  0.6903613209724426  0.7805042266845703  1.0000

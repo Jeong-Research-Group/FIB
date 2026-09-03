@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdTlCdGa
+_chemical_formula_sum              "Cd2 Tl1 Ga1"
+_cell_length_a       5.179803583354934
+_cell_length_b       5.177125998542525
+_cell_length_c       5.1783833503723145
+_cell_angle_alpha    60.10307186282175
+_cell_angle_beta     60.11437492195098
+_cell_angle_gamma    60.11376026059555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9936930537223816  0.7033988237380981  0.4165092110633852  1.0000
+  Tl  Tl1       1.0  0.7431403398513793  0.45297831296920776  0.16665098071098336  1.0000
+  Cd  Cd2       1.0  0.2431373149156571  0.9527929425239563  0.6667382717132568  1.0000
+  Ga  Ga1       1.0  0.4931023120880127  0.20307591557502747  0.9162558913230896  1.0000

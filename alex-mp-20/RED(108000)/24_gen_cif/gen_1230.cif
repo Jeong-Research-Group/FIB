@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiTb2LiTl2Li
+_chemical_formula_sum              "Li3 Tb2 Tl2"
+_cell_length_a       4.98911373262217
+_cell_length_b       5.581972493718692
+_cell_length_c       6.4807257652282715
+_cell_angle_alpha    92.91536653977182
+_cell_angle_beta     90.0491047328749
+_cell_angle_gamma    116.81456734247557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5477339029312134  0.28931090235710144  0.46454182267189026  1.0000
+  Tb  Tb1       1.0  0.3702990710735321  0.9361804723739623  0.04821031168103218  1.0000
+  Tb  Tb2       1.0  0.9858001470565796  0.1664799153804779  0.7264565229415894  1.0000
+  Li  Li2       1.0  0.27310502529144287  0.7398902773857117  0.5594442486763  1.0000
+  Tl  Tl1       1.0  0.06293785572052002  0.3222348392009735  0.23512965440750122  1.0000
+  Tl  Tl2       1.0  0.6830859780311584  0.5623214840888977  0.8457612395286561  1.0000
+  Li  Li3       1.0  0.7747443914413452  0.7449546456336975  0.29356396198272705  1.0000

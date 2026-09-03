@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2TiFeN2
+_chemical_formula_sum              "Cs2 Ti1 Fe1 N2"
+_cell_length_a       3.7425998103950295
+_cell_length_b       3.742101959864258
+_cell_length_c       11.152569282780448
+_cell_angle_alpha    89.90457484203566
+_cell_angle_beta     89.73214325016204
+_cell_angle_gamma    89.99869533464957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.7236403176614116  0.16520124352312315  0.8268377716178205  1.0000
+  Cs  Cs2       1.0  0.2315664146235412  0.6680856720574676  0.2760003900534162  1.0000
+  Ti  Ti1       1.0  0.228068785205231  0.16665726159308877  0.5513072613948017  1.0000
+  Fe  Fe1       1.0  0.7279496456267933  0.6667686067378085  0.5515557155304264  1.0000
+  N   N1        1.0  0.22709522973599616  0.6662510775074452  0.622767848194317  1.0000
+  N   N2        1.0  0.7291744870686141  0.1669612437921027  0.4799455030530617  1.0000

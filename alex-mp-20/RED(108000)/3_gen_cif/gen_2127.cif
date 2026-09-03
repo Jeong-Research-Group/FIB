@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2InN
+_chemical_formula_sum              "Ta2 In1 N1"
+_cell_length_a       3.14582808736613
+_cell_length_b       3.148360866616747
+_cell_length_c       7.60033655166626
+_cell_angle_alpha    78.06051037664602
+_cell_angle_beta     78.02472134417583
+_cell_angle_gamma    60.10974994113819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.45900014042854304  0.8163097500801086  0.3356569409370422  1.0000
+  Ta  Ta2       1.0  0.9001117944717407  0.257347971200943  0.01143724378198385  1.0000
+  In  In1       1.0  0.6794657707214355  0.03806363418698311  0.6737423539161681  1.0000
+  N   N1        1.0  0.17962637543678284  0.5352455973625183  0.17356947064399716  1.0000

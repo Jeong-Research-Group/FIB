@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2P2Au2
+_chemical_formula_sum              "Si2 P2 Au2"
+_cell_length_a       3.5727144824777572
+_cell_length_b       6.512121288068225
+_cell_length_c       5.331015259010605
+_cell_angle_alpha    89.99836511723457
+_cell_angle_beta     90.00463448290253
+_cell_angle_gamma    90.00319136753161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.31729443409350044  0.2982538692656266  0.41870636536759576  1.0000
+  Si  Si2       1.0  0.8175779206096436  0.6054149983678644  0.9188017812567146  1.0000
+  P   P1        1.0  0.31753467494083804  0.5888256774348288  0.6543171155444467  1.0000
+  P   P2        1.0  0.8172711941107267  0.31490493345430376  0.15427763414937012  1.0000
+  Au  Au1       1.0  0.3175478971261116  0.9490520140497066  0.5362304229596022  1.0000
+  Au  Au2       1.0  0.8174546670344767  0.9544028587487208  0.03706423926769544  1.0000

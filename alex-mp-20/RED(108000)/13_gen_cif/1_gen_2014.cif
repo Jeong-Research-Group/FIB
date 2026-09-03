@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Bi2P2
+_chemical_formula_sum              "Sc2 Bi2 P2"
+_cell_length_a       3.6535085910837553
+_cell_length_b       3.7726051608686295
+_cell_length_c       10.60780915400312
+_cell_angle_alpha    90.10109025908066
+_cell_angle_beta     89.96605218094659
+_cell_angle_gamma    90.00003047940926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.8016072379339864  0.8018782454804942  0.9110166332476314  1.0000
+  Sc  Sc2       1.0  0.3014588661659877  0.30380860539745613  0.15401581740628226  1.0000
+  Bi  Bi1       1.0  0.8022838952640512  0.301030373898141  0.43875930636785965  1.0000
+  Bi  Bi2       1.0  0.3008273978799847  0.8025020925487706  0.6263288763517179  1.0000
+  P   P1        1.0  0.8014640738836033  0.8037178122402278  0.16056548654366204  1.0000
+  P   P2        1.0  0.30160119933384383  0.30190339475983285  0.9044495205915742  1.0000

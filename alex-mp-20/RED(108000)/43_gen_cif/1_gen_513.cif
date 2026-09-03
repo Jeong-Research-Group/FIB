@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2SnTe4Pb
+_chemical_formula_sum              "Cs2 Sn1 Te4 Pb1"
+_cell_length_a       4.60950103183399
+_cell_length_b       8.018228266098358
+_cell_length_c       9.29716669287034
+_cell_angle_alpha    80.42928481201777
+_cell_angle_beta     104.35414354974137
+_cell_angle_gamma    90.0551950948735
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.7450579624849284  0.9655934885417092  0.763527864128228  1.0000
+  Cs  Cs2       1.0  0.22778005508592927  0.4811590155435195  0.7280947252959684  1.0000
+  Sn  Sn1       1.0  0.985243538710424  0.22333354357917942  0.2454251995894867  1.0000
+  Te  Te1       1.0  0.8914077621027113  0.5581502412257794  0.055182380399285205  1.0000
+  Te  Te2       1.0  0.3932292030418481  0.11027949376593799  0.057744811257393336  1.0000
+  Te  Te3       1.0  0.08158902038972377  0.8895313524290787  0.4364571037962181  1.0000
+  Te  Te4       1.0  0.5803648281246597  0.33592301401892116  0.4330674983938091  1.0000
+  Pb  Pb1       1.0  0.48607837363244877  0.7230471969751321  0.2459310432526201  1.0000

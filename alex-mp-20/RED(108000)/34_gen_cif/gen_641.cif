@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuSnCuCaSn
+_chemical_formula_sum              "Cu2 Sn2 Ca1"
+_cell_length_a       4.420349118727245
+_cell_length_b       4.417863334366791
+_cell_length_c       6.425430774688721
+_cell_angle_alpha    110.1644558431687
+_cell_angle_beta     110.084706227623
+_cell_angle_gamma    90.0129863552559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.23688089847564697  0.7918567657470704  0.9596983790397644  1.0000
+  Sn  Sn1       1.0  0.0941585898399353  0.1489648073911667  0.6737611293792725  1.0000
+  Cu  Cu2       1.0  0.4512673318386078  0.006039651576429606  0.38815611600875854  1.0000
+  Ca  Ca1       1.0  0.8439092636108398  0.3994995057582855  0.1738029569387436  1.0000
+  Sn  Sn2       1.0  0.5941928029060364  0.6493335962295532  0.6740460395812988  1.0000

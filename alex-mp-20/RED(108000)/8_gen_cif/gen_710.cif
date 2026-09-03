@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmCoSmLaIn
+_chemical_formula_sum              "Sm2 Co1 La1 In1"
+_cell_length_a       5.174356476375346
+_cell_length_b       5.294455109031371
+_cell_length_c       5.3175249099731445
+_cell_angle_alpha    89.93070340663552
+_cell_angle_beta     89.99552190045534
+_cell_angle_gamma    89.97934118217292
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4173281192779541  0.29522043466567993  0.14954125881195068  1.0000
+  Co  Co1       1.0  0.4171922206878662  0.795107066631317  0.14932020008563995  1.0000
+  Sm  Sm2       1.0  0.41757768392562866  0.7952508926391602  0.6504080295562744  1.0000
+  La  La1       1.0  0.9172754287719727  0.795450985431671  0.1493961066007614  1.0000
+  In  In1       1.0  0.917304515838623  0.29510021209716797  0.6493735313415527  1.0000

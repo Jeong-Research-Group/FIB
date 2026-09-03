@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2NbS3
+_chemical_formula_sum              "Li2 Nb1 S3"
+_cell_length_a       3.632387152339419
+_cell_length_b       3.631475042491553
+_cell_length_c       8.133262952857011
+_cell_angle_alpha    102.92126104242324
+_cell_angle_beta     102.92603182691909
+_cell_angle_gamma    90.00204237009784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4258813320819688  0.15086180549464767  0.5234815908619922  1.0000
+  Li  Li2       1.0  0.07418720734998188  0.7995023913707205  0.8214571529186989  1.0000
+  Nb  Nb1       1.0  0.7500566656010395  0.47581911802080074  0.17176963096840267  1.0000
+  S   S1        1.0  0.24961803000253774  0.9751326334660346  0.17110728132308933  1.0000
+  S   S2        1.0  0.5946888307458988  0.31990728056557216  0.8623889719460608  1.0000
+  S   S3        1.0  0.9048440507994084  0.6300508165104387  0.48120161086209623  1.0000

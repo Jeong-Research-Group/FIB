@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc3Ge2PH2
+_chemical_formula_sum              "Sc3 Ge2 P1 H2"
+_cell_length_a       3.627047720475998
+_cell_length_b       3.7741475890895626
+_cell_length_c       8.840738998682266
+_cell_angle_alpha    89.99102971397629
+_cell_angle_beta     89.99678381685759
+_cell_angle_gamma    89.99993289816832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.37875453882085125  0.5808268217202631  0.20394381678415732  1.0000
+  Sc  Sc2       1.0  0.8788854546198165  0.0808078492852998  0.9716804060756107  1.0000
+  Sc  Sc3       1.0  0.3790014112119222  0.08052564941341782  0.5412966791989491  1.0000
+  Ge  Ge1       1.0  0.8789764187013169  0.5802975823711995  0.6670823054209726  1.0000
+  Ge  Ge2       1.0  0.37893570658306125  0.5808378405738275  0.8537458799586558  1.0000
+  P   P1        1.0  0.8788192490499716  0.08073055734421807  0.30921637010138375  1.0000
+  H   H1        1.0  0.37879826481448947  0.08088502474069816  0.09478366218764618  1.0000
+  H   H2        1.0  0.8787549741023363  0.5808301653159558  0.08401581297456359  1.0000

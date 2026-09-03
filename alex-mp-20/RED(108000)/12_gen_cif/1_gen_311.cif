@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2Be2Rh
+_chemical_formula_sum              "Li2 Be2 Rh1"
+_cell_length_a       3.8408996303515694
+_cell_length_b       3.841308325535852
+_cell_length_c       5.362136914320884
+_cell_angle_alpha    90.00332763937561
+_cell_angle_beta     90.02181843439868
+_cell_angle_gamma    120.0064026608881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.27862312402584927  0.24522469919385878  0.9839287572940837  1.0000
+  Li  Li2       1.0  0.9450799009646108  0.5783364917814587  0.2714347233218205  1.0000
+  Be  Be1       1.0  0.9451850206343075  0.5783631181169804  0.7115566269583526  1.0000
+  Be  Be2       1.0  0.2783730633673106  0.24483850371722923  0.5436820649179865  1.0000
+  Rh  Rh1       1.0  0.611814101065092  0.9115917114908301  0.6277107839089233  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2GaZn2Hg
+_chemical_formula_sum              "Zn4 Ga1 Hg1"
+_cell_length_a       3.4207899577053063
+_cell_length_b       3.421578307588526
+_cell_length_c       9.028844833374023
+_cell_angle_alpha    89.87063188431912
+_cell_angle_beta     89.9988755233673
+_cell_angle_gamma    89.98531076733636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.728013813495636  0.819705605506897  0.9290834665298462  1.0000
+  Zn  Zn2       1.0  0.22759686410427094  0.31948524713516235  0.44872021675109863  1.0000
+  Ga  Ga1       1.0  0.7270972728729248  0.819780170917511  0.6136792898178101  1.0000
+  Zn  Zn3       1.0  0.7270845174789429  0.8181005716323853  0.29575246572494507  1.0000
+  Zn  Zn4       1.0  0.22729724645614624  0.31909632682800293  0.7738350033760071  1.0000
+  Hg  Hg1       1.0  0.22834940254688263  0.3191882073879242  0.11138252168893814  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Rh2Pb2Rh3Dy
+_chemical_formula_sum              "Rh5 Pb2 Dy1"
+_cell_length_a       4.559676878838574
+_cell_length_b       4.572020449535201
+_cell_length_c       6.94001579284668
+_cell_angle_alpha    89.83693857790291
+_cell_angle_beta     89.77083601439736
+_cell_angle_gamma    89.90393589567408
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.42137596011161804  0.7562072277069092  0.5324339866638184  1.0000
+  Rh  Rh2       1.0  0.9215689897537231  0.25607651472091675  0.5317061543464661  1.0000
+  Pb  Pb1       1.0  0.921044647693634  0.75626140832901  0.2826592028141022  1.0000
+  Pb  Pb2       1.0  0.4211920499801636  0.2558749318122864  0.2829974293708801  1.0000
+  Rh  Rh3       1.0  0.4221746027469635  0.7569969892501831  0.03359090909361839  1.0000
+  Rh  Rh4       1.0  0.921892523765564  0.25662702322006226  0.03443565592169762  1.0000
+  Rh  Rh5       1.0  0.4215867817401886  0.25677254796028137  0.7830684185028076  1.0000
+  Dy  Dy1       1.0  0.9218161106109619  0.756974458694458  0.782721221446991  1.0000

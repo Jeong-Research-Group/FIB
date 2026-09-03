@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2FeCoGe2
+_chemical_formula_sum              "Dy2 Fe1 Co1 Ge2"
+_cell_length_a       4.100204918632127
+_cell_length_b       4.098718461093661
+_cell_length_c       6.5538605328286375
+_cell_angle_alpha    89.98438849207038
+_cell_angle_beta     89.98573949614527
+_cell_angle_gamma    89.99983154500117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.05725647250533217  0.705236394097189  0.48455767967073526  1.0000
+  Dy  Dy2       1.0  0.5569807450956363  0.20491879533604546  0.10551920510329003  1.0000
+  Fe  Fe1       1.0  0.05680269392682738  0.20507723552117277  0.7947780283299672  1.0000
+  Co  Co1       1.0  0.5571493309618535  0.7047466027490601  0.7956357509301961  1.0000
+  Ge  Ge1       1.0  0.05699746153092917  0.7049316104831421  0.9937886266786892  1.0000
+  Ge  Ge2       1.0  0.5570666769985656  0.20509578907107606  0.5962528693123454  1.0000

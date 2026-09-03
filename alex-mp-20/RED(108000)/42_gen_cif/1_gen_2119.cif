@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaLi2Ru2C
+_chemical_formula_sum              "Ba1 Li2 Ru2 C1"
+_cell_length_a       4.123707428520225
+_cell_length_b       4.123709471655164
+_cell_length_c       6.102695983296379
+_cell_angle_alpha    90.01906259260497
+_cell_angle_beta     90.00684330532313
+_cell_angle_gamma    90.00286724935873
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6829716664744213  0.259312841647214  0.0001743263719553691  1.0000
+  Li  Li1       1.0  0.18303589607797985  0.7600334468002865  0.738236699318914  1.0000
+  Li  Li2       1.0  0.18269218574472712  0.7590874156484585  0.2618421760736723  1.0000
+  Ru  Ru1       1.0  0.18315125780489033  0.25961536146950104  0.5001355282768327  1.0000
+  Ru  Ru2       1.0  0.6829240944686561  0.7599145313160195  0.5001208169208008  1.0000
+  C   C1        1.0  0.683124796663116  0.25997217800877265  0.5003682987737297  1.0000

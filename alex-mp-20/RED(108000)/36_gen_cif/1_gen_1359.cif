@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2In2Ir2
+_chemical_formula_sum              "Tb2 In2 Ir2"
+_cell_length_a       4.768037157122099
+_cell_length_b       4.766408604409954
+_cell_length_c       6.525308855177791
+_cell_angle_alpha    89.99985802760753
+_cell_angle_beta     90.0001177281183
+_cell_angle_gamma    120.02594982197161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.2540176592787356  0.668240303133537  0.8982335869272908  1.0000
+  Tb  Tb2       1.0  0.25376297095243355  0.6674073824219704  0.3981899776590765  1.0000
+  In  In1       1.0  0.9206069237939775  0.0012027763415279765  0.1475408361818086  1.0000
+  In  In2       1.0  0.5871310868913926  0.3346143566270663  0.647619752531354  1.0000
+  Ir  Ir1       1.0  0.5871994653775169  0.33419818705193843  0.14773402877286596  1.0000
+  Ir  Ir2       1.0  0.9206318614110158  0.0017504320308760373  0.6489207694038035  1.0000

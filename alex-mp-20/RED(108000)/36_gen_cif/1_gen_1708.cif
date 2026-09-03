@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Ge2Au2
+_chemical_formula_sum              "Sm2 Ge2 Au2"
+_cell_length_a       4.515588305804965
+_cell_length_b       4.515624143212747
+_cell_length_c       7.56680225364327
+_cell_angle_alpha    90.00034103232608
+_cell_angle_beta     89.9997082673661
+_cell_angle_gamma    119.98170962356453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5575294824676477  0.3637786728426654  0.4222674431595274  1.0000
+  Sm  Sm2       1.0  0.5573094982318754  0.3641150701106484  0.9220829061276145  1.0000
+  Ge  Ge1       1.0  0.890589924677051  0.03067398337849853  0.7130685232294939  1.0000
+  Ge  Ge2       1.0  0.22430588224603504  0.6972503450571  0.21212337791163993  1.0000
+  Au  Au1       1.0  0.8909119520315765  0.030680762197321  0.14325222853076294  1.0000
+  Au  Au2       1.0  0.22396363625937502  0.6972615870139628  0.6417704575207029  1.0000

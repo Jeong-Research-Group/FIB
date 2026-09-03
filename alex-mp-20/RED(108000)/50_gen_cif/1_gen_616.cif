@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2Ga2CuNi
+_chemical_formula_sum              "Al2 Ga2 Cu1 Ni1"
+_cell_length_a       4.4815523396193
+_cell_length_b       5.034248675694722
+_cell_length_c       4.4717099909222835
+_cell_angle_alpha    82.61438152076248
+_cell_angle_beta     73.24026200335818
+_cell_angle_gamma    63.55304803224694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.06222539339681295  0.6835278575571849  0.5244367853504174  1.0000
+  Al  Al2       1.0  0.2476252735878837  0.31300429657311607  0.024399808091943885  1.0000
+  Ga  Ga1       1.0  0.7614191232807546  0.28522661869804095  0.5242005497656964  1.0000
+  Ga  Ga2       1.0  0.5536849026473768  0.7005885141030013  0.024475142678193278  1.0000
+  Cu  Cu1       1.0  0.39128812976616295  0.02534170272055225  0.5245342871977813  1.0000
+  Ni  Ni1       1.0  0.9296294509585517  0.9486794150233205  0.024381858681232094  1.0000

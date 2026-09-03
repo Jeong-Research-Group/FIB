@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaFe2Mo
+_chemical_formula_sum              "Ta1 Fe2 Mo1"
+_cell_length_a       3.0921582867337882
+_cell_length_b       4.264377480852082
+_cell_length_c       4.2658391794228026
+_cell_angle_alpha    89.99545528211614
+_cell_angle_beta     89.96703661391206
+_cell_angle_gamma    89.97918049324252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.9756900309368379  0.9841634417588296  0.2016197273354447  1.0000
+  Fe  Fe1       1.0  0.4754575347227687  0.4842717930744187  0.20142658238641498  1.0000
+  Fe  Fe2       1.0  0.4758539800393506  0.9840416029092495  0.7016556045397996  1.0000
+  Mo  Mo1       1.0  0.9757820570325589  0.48393597198602  0.701602374553584  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiZn3Au2
+_chemical_formula_sum              "Li1 Zn3 Au2"
+_cell_length_a       2.800936398036509
+_cell_length_b       4.362378943557458
+_cell_length_c       7.638192602106639
+_cell_angle_alpha    89.9044406426582
+_cell_angle_beta     90.14253877690014
+_cell_angle_gamma    89.79849117421479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7320456115901117  0.19188265033429908  0.5687989671241759  1.0000
+  Zn  Zn1       1.0  0.7342133750249966  0.1922042671379502  0.8945659400058935  1.0000
+  Zn  Zn2       1.0  0.7281854184860711  0.6916727780338419  0.07309845333261428  1.0000
+  Zn  Zn3       1.0  0.7353776211465648  0.6925648453379735  0.41150905453490266  1.0000
+  Au  Au1       1.0  0.22793779315218535  0.19199964719599139  0.24117305168739628  1.0000
+  Au  Au2       1.0  0.23699947514365782  0.6920445661965293  0.734589889292844  1.0000

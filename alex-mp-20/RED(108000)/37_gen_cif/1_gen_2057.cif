@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2TiRu3
+_chemical_formula_sum              "Sc2 Ti1 Ru3"
+_cell_length_a       3.159004340701856
+_cell_length_b       3.15900327171931
+_cell_length_c       9.597708314623645
+_cell_angle_alpha    89.99995807529162
+_cell_angle_beta     90.00000702075398
+_cell_angle_gamma    89.99994727607907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9442734941349864  0.2405303443281161  0.9543850393467437  1.0000
+  Sc  Sc2       1.0  0.9442685903315295  0.24109290446835444  0.29175290046181457  1.0000
+  Ti  Ti1       1.0  0.9450200195727556  0.24089369731210253  0.6229910128438169  1.0000
+  Ru  Ru1       1.0  0.444614969712313  0.7407470831541632  0.7771049892326418  1.0000
+  Ru  Ru2       1.0  0.4440226359453411  0.7408537904766369  0.12309001732394237  1.0000
+  Ru  Ru3       1.0  0.4446003405287001  0.7410520440320353  0.4688673921218411  1.0000

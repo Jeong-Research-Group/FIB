@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HMo2VPd
+_chemical_formula_sum              "H1 Mo2 V1 Pd1"
+_cell_length_a       3.9790099473814853
+_cell_length_b       3.976048859769955
+_cell_length_c       4.005742073059082
+_cell_angle_alpha    89.82517014250755
+_cell_angle_beta     89.86068029447968
+_cell_angle_gamma    89.86944343861154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8297704458236694  0.2081347405910492  0.20806288719177246  1.0000
+  Mo  Mo1       1.0  0.3297250270843506  0.20921564102172854  0.20844095945358276  1.0000
+  Mo  Mo2       1.0  0.83099365234375  0.7083186507225037  0.20775355398654938  1.0000
+  V   V1        1.0  0.33004850149154663  0.7087348103523256  0.7086115479469299  1.0000
+  Pd  Pd1       1.0  0.8304001688957214  0.20877170562744143  0.7080711126327515  1.0000

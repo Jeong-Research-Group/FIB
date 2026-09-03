@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2Ni2Pd2
+_chemical_formula_sum              "Ga2 Ni2 Pd2"
+_cell_length_a       4.213742706209232
+_cell_length_b       4.21528860272318
+_cell_length_c       5.293964747831
+_cell_angle_alpha    90.04118020615583
+_cell_angle_beta     89.99967564335469
+_cell_angle_gamma    119.9777578042089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5851802339215657  0.19344461383182895  0.8136992989719324  1.0000
+  Ga  Ga2       1.0  0.9182595005546256  0.8596087189181384  0.3539915492413184  1.0000
+  Ni  Ni1       1.0  0.25173545569917205  0.5266213377292589  0.09585000167386955  1.0000
+  Ni  Ni2       1.0  0.5849577026929461  0.1930143766164114  0.30117368787691406  1.0000
+  Pd  Pd1       1.0  0.25167837134575294  0.5264395258011545  0.5819554668812401  1.0000
+  Pd  Pd2       1.0  0.9185225991464767  0.860082776160473  0.8749188506762303  1.0000

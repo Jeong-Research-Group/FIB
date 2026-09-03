@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiEr2Co
+_chemical_formula_sum              "Li1 Er2 Co1"
+_cell_length_a       3.441114417590834
+_cell_length_b       4.828272423134535
+_cell_length_c       4.829624652862549
+_cell_angle_alpha    90.01045952411172
+_cell_angle_beta     90.06386477104718
+_cell_angle_gamma    90.06290171317569
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.07242763042449951  0.04558819904923439  0.07962782680988312  1.0000
+  Er  Er1       1.0  0.5723625421524048  0.5455011129379272  0.07973218709230423  1.0000
+  Er  Er2       1.0  0.5726699829101562  0.04570658504962921  0.5798063278198242  1.0000
+  Co  Co1       1.0  0.07246211171150208  0.5457473397254944  0.5796728134155273  1.0000

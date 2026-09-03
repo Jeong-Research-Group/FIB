@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ho2CuNiGe
+_chemical_formula_sum              "Ho2 Cu1 Ni1 Ge1"
+_cell_length_a       4.04119951892544
+_cell_length_b       5.49713610493754
+_cell_length_c       5.4706300117635225
+_cell_angle_alpha    120.16414103175308
+_cell_angle_beta     111.67770956607083
+_cell_angle_gamma    90.00230672975215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.1814490041153436  0.3249612230728301  0.4530981836311412  1.0000
+  Ho  Ho2       1.0  0.5764445302684871  0.7199842829294698  0.2431336858682538  1.0000
+  Cu  Cu1       1.0  0.3788093917791144  0.02882665738074666  0.84773843364669  1.0000
+  Ni  Ni1       1.0  0.8789870960194943  0.3131707456505371  0.8479738519043583  1.0000
+  Ge  Ge1       1.0  0.8790749252495611  0.768925215833749  0.8481252062352114  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2In3Hg
+_chemical_formula_sum              "Zr2 In3 Hg1"
+_cell_length_a       3.140459559161946
+_cell_length_b       5.003192645061962
+_cell_length_c       8.673250876063717
+_cell_angle_alpha    90.01188258379413
+_cell_angle_beta     90.00284116219328
+_cell_angle_gamma    89.99951836838235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8552347614950457  0.6338107516145831  0.2668701321137296  1.0000
+  Zr  Zr2       1.0  0.8549610477238342  0.13352126421294017  0.7668196577442412  1.0000
+  In  In1       1.0  0.3550219998074528  0.6336086296292847  0.5982888471982699  1.0000
+  In  In2       1.0  0.35487789611602566  0.6335139685468621  0.9329188459696962  1.0000
+  In  In3       1.0  0.35497607951149257  0.1335839424494851  0.10407226928141414  1.0000
+  Hg  Hg1       1.0  0.35528646526239216  0.13363407921716947  0.4346972477027105  1.0000

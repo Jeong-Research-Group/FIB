@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnLiSnAgLiCe
+_chemical_formula_sum              "Sn2 Li2 Ag1 Ce1"
+_cell_length_a       4.68455577393828
+_cell_length_b       4.686295905753711
+_cell_length_c       7.104290962219238
+_cell_angle_alpha    90.02356665809694
+_cell_angle_beta     89.96822846254037
+_cell_angle_gamma    119.98764143944656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.6075233817100525  0.857234537601471  0.5629580020904541  1.0000
+  Li  Li1       1.0  0.607303261756897  0.8564866185188292  0.9767392873764038  1.0000
+  Sn  Sn2       1.0  0.9408244490623473  0.5229998230934143  0.07313650846481323  1.0000
+  Ag  Ag1       1.0  0.9409132599830626  0.5230749249458313  0.6641874313354492  1.0000
+  Li  Li2       1.0  0.2738698124885559  0.18963897228240967  0.8193188309669495  1.0000
+  Ce  Ce1       1.0  0.273660272359848  0.18980073928833008  0.3221184313297272  1.0000

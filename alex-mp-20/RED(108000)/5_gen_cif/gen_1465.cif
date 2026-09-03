@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2KNaHgKHg2K
+_chemical_formula_sum              "Na3 K3 Hg3"
+_cell_length_a       5.306838782070886
+_cell_length_b       8.700515962443712
+_cell_length_c       8.687294960021973
+_cell_angle_alpha    120.03062834937639
+_cell_angle_beta     90.0303900158107
+_cell_angle_gamma    89.98002420240931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7182953357696533  0.10482039302587509  0.7372143864631653  1.0000
+  Na  Na2       1.0  0.7187262773513794  0.6280089616775513  0.49862927198410045  1.0000
+  K   K1        1.0  0.21806494891643524  0.865769624710083  0.9140689373016357  1.0000
+  Na  Na3       1.0  0.7182509303092957  0.8657001852989197  0.2590163052082063  1.0000
+  Hg  Hg1       1.0  0.7184926867485046  0.5322446823120117  0.8321796655654907  1.0000
+  K   K2        1.0  0.21872615814208984  0.45040580630302435  0.08250958472490316  1.0000
+  Hg  Hg2       1.0  0.2179732769727707  0.8658518791198732  0.49791383743286144  1.0000
+  Hg  Hg3       1.0  0.7181413173675537  0.19927728176116946  0.16533380746841433  1.0000
+  K   K3        1.0  0.21841326355934143  0.2816295623779297  0.498230904340744  1.0000

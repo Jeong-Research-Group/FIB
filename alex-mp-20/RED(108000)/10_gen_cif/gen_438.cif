@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrI2PbPr2I2
+_chemical_formula_sum              "Pr3 I4 Pb1"
+_cell_length_a       4.487052375586721
+_cell_length_b       4.486841157336378
+_cell_length_c       19.34779930114746
+_cell_angle_alpha    90.03647571405797
+_cell_angle_beta     90.03605907271042
+_cell_angle_gamma    120.0021094190735
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6784693598747253  0.10066574811935423  0.7047744393348694  1.0000
+  I   I1        1.0  0.6786720752716064  0.10023149847984314  0.41033926606178284  1.0000
+  I   I2        1.0  0.01191275659948589  0.7676008939743042  0.8071815967559814  1.0000
+  Pb  Pb1       1.0  0.3446901738643646  0.43251320719718933  0.6088067293167114  1.0000
+  Pr  Pr2       1.0  0.6787145733833313  0.10204485058784485  0.10395245254039764  1.0000
+  Pr  Pr3       1.0  0.010883195325732179  0.7663002014160155  0.5140566825866699  1.0000
+  I   I3        1.0  0.3452468812465667  0.43435227870941157  0.002781510353088379  1.0000
+  I   I4        1.0  0.011346103623509423  0.7686654925346375  0.20448769629001617  1.0000

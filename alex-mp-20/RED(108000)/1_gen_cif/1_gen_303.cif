@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TmMn2Al2Ga
+_chemical_formula_sum              "Tm1 Mn2 Al2 Ga1"
+_cell_length_a       3.9516551383235807
+_cell_length_b       3.9497965974312756
+_cell_length_c       6.592304353168581
+_cell_angle_alpha    89.9560379624315
+_cell_angle_beta     89.97245483065706
+_cell_angle_gamma    89.999945314672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.5088430663835245  0.6204485394584207  0.175659109734191  1.0000
+  Mn  Mn1       1.0  0.00923148967871462  0.6209793424342651  0.8286279480015891  1.0000
+  Mn  Mn2       1.0  0.5091487118208244  0.12109163085847996  0.8287942055009667  1.0000
+  Al  Al1       1.0  0.00893509460525061  0.12068842534668116  0.060337158071917654  1.0000
+  Al  Al2       1.0  0.009325600228808338  0.12123124302974093  0.5332419927995663  1.0000
+  Ga  Ga1       1.0  0.5094616920266397  0.6214481595805568  0.6030758754658918  1.0000

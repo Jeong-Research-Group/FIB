@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiHo2TmH
+_chemical_formula_sum              "Li1 Ho2 Tm1 H1"
+_cell_length_a       4.159540367992261
+_cell_length_b       5.0963830049208765
+_cell_length_c       5.096314082915654
+_cell_angle_alpha    89.99997759452631
+_cell_angle_beta     90.00122004407366
+_cell_angle_gamma    90.00250739202545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6802607527931378  0.2782415094549189  0.1390922664944238  1.0000
+  Ho  Ho1       1.0  0.17973823777726558  0.27792429912369526  0.6392264748724624  1.0000
+  Ho  Ho2       1.0  0.17973679887991525  0.7778141496721543  0.1390965281891615  1.0000
+  Tm  Tm1       1.0  0.679697461628205  0.7780092643361812  0.6390286445680877  1.0000
+  H   H1        1.0  0.17980433412101313  0.2777702876023063  0.1391917797952856  1.0000

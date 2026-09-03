@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tl3Cu3AsSe
+_chemical_formula_sum              "Tl3 Cu3 As1 Se1"
+_cell_length_a       5.70172601296483
+_cell_length_b       5.724130451291695
+_cell_length_c       7.586472528817548
+_cell_angle_alpha    90.1641936459004
+_cell_angle_beta     68.8650321403821
+_cell_angle_gamma    59.824632989229094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.2624246277220238  0.2665424115105637  0.28633899737869933  1.0000
+  Tl  Tl2       1.0  0.1518311290986363  0.8231285183690176  0.961543104972699  1.0000
+  Tl  Tl3       1.0  0.4764080016830928  0.6599869508948698  0.4686778706711195  1.0000
+  Cu  Cu1       1.0  0.3352474022116693  0.23094827626564265  0.6844351634036097  1.0000
+  Cu  Cu2       1.0  0.8356344937685422  0.7301935790625158  0.6842885845705314  1.0000
+  Cu  Cu3       1.0  0.8359551397588685  0.23144511735791973  0.6842241324971892  1.0000
+  As  As1       1.0  0.8267716366419149  0.9844334492217433  0.4413977291682511  1.0000
+  Se  Se1       1.0  0.8427873129747223  0.47827298445342376  0.9301643836539717  1.0000

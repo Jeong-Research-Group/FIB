@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Si2PtSiNa2PtAuSiAu
+_chemical_formula_sum              "Si4 Pt2 Na2 Au2"
+_cell_length_a       5.745000802988755
+_cell_length_b       5.952113307753271
+_cell_length_c       6.984039783477783
+_cell_angle_alpha    65.39528882999734
+_cell_angle_beta     81.06402497660437
+_cell_angle_gamma    68.2109995851254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.480346292257309  0.6183466315269469  0.891450822353363  1.0000
+  Si  Si2       1.0  0.7259375452995301  0.6467589139938353  0.32136666774749756  1.0000
+  Pt  Pt1       1.0  0.369926393032074  0.6434370279312134  0.5588857531547546  1.0000
+  Si  Si3       1.0  0.256734013557434  0.33642178773880005  0.8868545293807983  1.0000
+  Na  Na1       1.0  0.8657344579696655  0.0025092097930610176  0.838705837726593  1.0000
+  Na  Na2       1.0  0.36955323815345764  0.23246797919273376  0.3801916837692261  1.0000
+  Pt  Pt2       1.0  0.3628816306591034  0.8794770240783691  0.09268945455551147  1.0000
+  Au  Au1       1.0  0.8687397241592407  0.5832589864730835  0.6676029562950134  1.0000
+  Si  Si4       1.0  0.008616626262664816  0.8760299086570739  0.3284492194652558  1.0000
+  Au  Au2       1.0  0.8714165091514587  0.35492122173309326  0.1287464648485184  1.0000

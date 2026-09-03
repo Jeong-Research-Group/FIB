@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaNaCd2Ge2
+_chemical_formula_sum              "Ba1 Na1 Cd2 Ge2"
+_cell_length_a       4.8204653381155955
+_cell_length_b       4.820496068683757
+_cell_length_c       7.911557403796756
+_cell_angle_alpha    89.99747020162528
+_cell_angle_beta     90.00272366651757
+_cell_angle_gamma    120.00470502290528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7874237931824294  0.2941703270567015  0.46107287615900694  1.0000
+  Na  Na1       1.0  0.7874243410740036  0.29414754000584864  0.9611825998976319  1.0000
+  Cd  Cd1       1.0  0.45410914077929554  0.6275238142480745  0.12461754515090896  1.0000
+  Cd  Cd2       1.0  0.12082912607716509  0.9608307387296664  0.7976708798382705  1.0000
+  Ge  Ge1       1.0  0.4540695021982227  0.6275360157601156  0.7359890404661052  1.0000
+  Ge  Ge2       1.0  0.12088502437076938  0.9607531304654531  0.1862800242023052  1.0000

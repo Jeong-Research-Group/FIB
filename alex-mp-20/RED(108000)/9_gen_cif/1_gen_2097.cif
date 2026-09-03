@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca3TeN
+_chemical_formula_sum              "Ca3 Te1 N1"
+_cell_length_a       4.897698990060492
+_cell_length_b       4.897546311047892
+_cell_length_c       4.897591833016542
+_cell_angle_alpha    89.99656105206763
+_cell_angle_beta     89.9948032864496
+_cell_angle_gamma    89.98835370492222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.34743623972597687  0.4908591909571154  0.5756558700845019  1.0000
+  Ca  Ca2       1.0  0.347407623022155  0.9910019673729051  0.07551650554965833  1.0000
+  Ca  Ca3       1.0  0.8474086748764597  0.49085532421895794  0.07555555088441449  1.0000
+  Te  Te1       1.0  0.8474332288189749  0.9911763984460642  0.5757461757366666  1.0000
+  N   N1        1.0  0.3472294960222336  0.4909615486343412  0.07561623627166575  1.0000

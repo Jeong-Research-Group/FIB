@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Bi2IrSRh
+_chemical_formula_sum              "Bi2 Ir1 S1 Rh1"
+_cell_length_a       3.8209523835118016
+_cell_length_b       5.3576675937277205
+_cell_length_c       6.637451171875
+_cell_angle_alpha    113.86323529302004
+_cell_angle_beta     106.71654164170594
+_cell_angle_gamma    90.03877700903278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.5453346371650695  0.4694132506847381  0.3044288158416748  1.0000
+  Bi  Bi2       1.0  0.945019245147705  0.8669149279594421  0.10091622173786163  1.0000
+  Ir  Ir1       1.0  0.8639726638793945  0.28771328926086426  0.9400932192802429  1.0000
+  S   S1        1.0  0.2468164414167404  0.1689939796924591  0.7046699523925781  1.0000
+  Rh  Rh1       1.0  0.625777006149292  0.048473924398422234  0.46343767642974854  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3MgAl2Zn2
+_chemical_formula_sum              "Al5 Mg1 Zn2"
+_cell_length_a       4.810521606802625
+_cell_length_b       4.938734185684458
+_cell_length_c       5.672835826873779
+_cell_angle_alpha    90.21404696878004
+_cell_angle_beta     90.00238624037482
+_cell_angle_gamma    89.9498347653407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.04305313900113106  0.6143881678581237  0.5756152868270874  1.0000
+  Al  Al2       1.0  0.04279173165559769  0.6164895296096802  0.08922877162694931  1.0000
+  Al  Al3       1.0  0.04337730631232262  0.11195328086614607  0.33216434717178345  1.0000
+  Mg  Mg1       1.0  0.042801469564437866  0.11471059173345564  0.8338277935981752  1.0000
+  Al  Al4       1.0  0.543703556060791  0.461496353149414  0.8331258893013002  1.0000
+  Al  Al5       1.0  0.5433689951896667  0.9472041130065918  0.575492262840271  1.0000
+  Zn  Zn1       1.0  0.5449115633964539  0.9466460347175598  0.08547043055295944  1.0000
+  Zn  Zn2       1.0  0.5436587929725647  0.4442252516746521  0.32928988337516785  1.0000

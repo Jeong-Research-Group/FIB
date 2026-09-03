@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2AlVIr2
+_chemical_formula_sum              "Dy2 Al1 V1 Ir2"
+_cell_length_a       4.189822848203027
+_cell_length_b       4.190954718183806
+_cell_length_c       6.746380421033826
+_cell_angle_alpha    90.0000258223511
+_cell_angle_beta     90.00120984983226
+_cell_angle_gamma    90.0267799861444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.42750414531198855  0.5930976575152824  0.14533225284885895  1.0000
+  Dy  Dy2       1.0  0.9264196611931385  0.09220656502828618  0.4489762186012588  1.0000
+  Al  Al1       1.0  0.925885594584304  0.5926866389997746  0.7975775909632438  1.0000
+  V   V1        1.0  0.42565569714424933  0.09314697285425486  0.7970362041938717  1.0000
+  Ir  Ir1       1.0  0.425962799343622  0.5932811364424387  0.5910664049295322  1.0000
+  Ir  Ir2       1.0  0.9259293229311137  0.09267739308371108  0.0032019052040591915  1.0000

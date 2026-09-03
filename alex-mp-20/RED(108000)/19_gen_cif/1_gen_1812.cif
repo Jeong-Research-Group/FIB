@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrFeGe3
+_chemical_formula_sum              "Sr1 Fe1 Ge3"
+_cell_length_a       4.768048201493468
+_cell_length_b       4.768003889607907
+_cell_length_c       4.767861920966408
+_cell_angle_alpha    90.01502089180438
+_cell_angle_beta     90.03402980427377
+_cell_angle_gamma    90.03523968203214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6622288762053271  0.5848988689941836  0.08614397702322249  1.0000
+  Fe  Fe1       1.0  0.16258420055557357  0.08512044134777023  0.5876418455255178  1.0000
+  Ge  Ge1       1.0  0.16253200297343312  0.08522909326317649  0.08747088061888134  1.0000
+  Ge  Ge2       1.0  0.16255340738048532  0.5851101530526919  0.5862757543862401  1.0000
+  Ge  Ge3       1.0  0.6625831419204908  0.08482884331124141  0.5863354893136324  1.0000

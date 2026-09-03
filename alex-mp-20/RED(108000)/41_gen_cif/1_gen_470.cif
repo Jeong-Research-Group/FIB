@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2InCu2
+_chemical_formula_sum              "Zr2 In1 Cu2"
+_cell_length_a       3.153485422353894
+_cell_length_b       4.216316511144136
+_cell_length_c       7.199329027103879
+_cell_angle_alpha    107.0259636132928
+_cell_angle_beta     90.00140934171904
+_cell_angle_gamma    90.0008183787574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25094718025007345  0.36784887528521276  0.21708351535808237  1.0000
+  Zr  Zr2       1.0  0.2505382958583109  0.6321973006036753  0.7456669362463418  1.0000
+  In  In1       1.0  0.7508486332622197  6.067672874529031e-05  0.48137008694608585  1.0000
+  Cu  Cu1       1.0  0.7503876905706166  0.20237426238577494  0.8861658050158452  1.0000
+  Cu  Cu2       1.0  0.7508697963554929  0.7975841891695934  0.07660056287671625  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pd2LiPd2LiPbPdPb2
+_chemical_formula_sum              "Pd5 Li2 Pb3"
+_cell_length_a       4.043050050769381
+_cell_length_b       6.718721710478992
+_cell_length_c       6.712481498718262
+_cell_angle_alpha    87.46197931373308
+_cell_angle_beta     90.21644438195058
+_cell_angle_gamma    90.1997035929709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.19441580772399902  0.8683093786239624  0.22924202680587769  1.0000
+  Pd  Pd2       1.0  0.6938022375106812  0.7606342434883118  0.548712432384491  1.0000
+  Li  Li1       1.0  0.6941242218017578  0.3770690858364105  0.6904175877571106  1.0000
+  Pd  Pd3       1.0  0.6933417320251465  0.9587862491607666  0.9150688648223877  1.0000
+  Pd  Pd4       1.0  0.19375276565551758  0.46791416406631464  0.4500371813774109  1.0000
+  Li  Li2       1.0  0.1937122642993927  0.682009756565094  0.8262287974357605  1.0000
+  Pb  Pb1       1.0  0.19397412240505219  0.05121354013681411  0.5968692302703857  1.0000
+  Pd  Pd5       1.0  0.6941033005714417  0.17423154413700104  0.31399449706077576  1.0000
+  Pb  Pb2       1.0  0.6938661336898804  0.5990267992019653  0.16967400908470154  1.0000
+  Pb  Pb3       1.0  0.1942228227853775  0.2440754771232605  0.023810768499970436  1.0000

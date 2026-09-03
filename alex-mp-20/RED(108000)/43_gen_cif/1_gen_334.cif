@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2HoBi2
+_chemical_formula_sum              "Li2 Ho1 Bi2"
+_cell_length_a       4.680259038053655
+_cell_length_b       4.680209163811032
+_cell_length_c       7.2168176970473565
+_cell_angle_alpha    89.99776553032264
+_cell_angle_beta     90.00623244639644
+_cell_angle_gamma    120.00692506608137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5423101249969012  0.5255726940977823  0.8395952662774496  1.0000
+  Li  Li2       1.0  0.20893966483611034  0.8587198410339703  0.1250941296611985  1.0000
+  Ho  Ho1       1.0  0.8756265111452228  0.1921522236272725  0.48232987826643237  1.0000
+  Bi  Bi1       1.0  0.20896468693014242  0.8588513690575779  0.7095597752906534  1.0000
+  Bi  Bi2       1.0  0.5422748589131808  0.5254228940285264  0.25515045839243716  1.0000

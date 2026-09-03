@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2PbF4
+_chemical_formula_sum              "Li2 Pb1 F4"
+_cell_length_a       3.784051282329036
+_cell_length_b       4.263596380824274
+_cell_length_c       6.10026295200747
+_cell_angle_alpha    110.4693805952816
+_cell_angle_beta     90.01195916523105
+_cell_angle_gamma    89.99985334472856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3619889215503637  0.5262093292760437  0.3639507839514623  1.0000
+  Li  Li2       1.0  0.3615554931874636  0.16835799618820327  0.6475828246743897  1.0000
+  Pb  Pb1       1.0  0.8618067482055681  0.8476253550426722  0.00573226569857265  1.0000
+  F   F1        1.0  0.8620124727255762  0.4710278814115084  0.25212439475692683  1.0000
+  F   F2        1.0  0.3619245353696538  0.0004603703261483183  0.3103012395925581  1.0000
+  F   F3        1.0  0.8615613495179197  0.22477643549528628  0.759235437799124  1.0000
+  F   F4        1.0  0.36167497531010967  0.6956391470636123  0.7012304525229841  1.0000

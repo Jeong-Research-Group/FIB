@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuY2AsNiAs
+_chemical_formula_sum              "Cu1 Y2 As2 Ni1"
+_cell_length_a       4.0401855888929905
+_cell_length_b       4.037687301677974
+_cell_length_c       6.759748935699463
+_cell_angle_alpha    90.00026205165987
+_cell_angle_beta     89.98505804923828
+_cell_angle_gamma    89.97603536924723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.20838862657546997  0.5313013792037964  0.37466883659362793  1.0000
+  Y   Y1        1.0  0.20819436013698578  0.031808219850063324  0.05498307943344116  1.0000
+  Y   Y2        1.0  0.7082768082618713  0.5315949916839598  0.6951842308044434  1.0000
+  As  As1       1.0  0.20837338268756866  0.031299225986003876  0.6058480143547058  1.0000
+  Ni  Ni1       1.0  0.7083404660224915  0.03132353723049164  0.37546440958976746  1.0000
+  As  As2       1.0  0.7081007361412048  0.5320305228233336  0.14459726214408875  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Si3B
+_chemical_formula_sum              "Sr2 Si3 B1"
+_cell_length_a       3.805213453732362
+_cell_length_b       4.747551415750557
+_cell_length_c       6.765806044217184
+_cell_angle_alpha    89.99740835936097
+_cell_angle_beta     90.0064017594007
+_cell_angle_gamma    89.9997457338096
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6930842916275858  0.9079483910397959  0.01610013700302348  1.0000
+  Sr  Sr2       1.0  0.19268597512703375  0.9080156335898255  0.5084587451869225  1.0000
+  Si  Si1       1.0  0.1929925060661679  0.40811389777595397  0.20421333327757  1.0000
+  Si  Si2       1.0  0.6931014389130075  0.4079472534833938  0.6478731826656182  1.0000
+  Si  Si3       1.0  0.1931775022885573  0.40782462046738643  0.8487049606187901  1.0000
+  B   B1        1.0  0.6929498162498977  0.40814502985912887  0.34220990717961264  1.0000

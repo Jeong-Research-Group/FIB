@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2NiGa2Ni
+_chemical_formula_sum              "Dy2 Ni2 Ga2"
+_cell_length_a       4.273602036942829
+_cell_length_b       4.272228199166791
+_cell_length_c       7.042264461517334
+_cell_angle_alpha    90.05354435751701
+_cell_angle_beta     90.00657314690048
+_cell_angle_gamma    120.06000326234553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.28671571612358093  0.14396402239799502  0.539049506187439  1.0000
+  Dy  Dy2       1.0  0.2865441143512726  0.14405548572540283  0.03876668959856033  1.0000
+  Ni  Ni1       1.0  0.620080292224884  0.8106511831283569  0.29004594683647156  1.0000
+  Ga  Ga1       1.0  0.9532904624938965  0.47727259993553167  0.2893533706665039  1.0000
+  Ga  Ga2       1.0  0.6196178793907166  0.8108276724815369  0.7886199355125427  1.0000
+  Ni  Ni2       1.0  0.9529201984405518  0.4773696959018707  0.7873935699462891  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NbHIr3
+_chemical_formula_sum              "Nb1 H1 Ir3"
+_cell_length_a       3.99146901727585
+_cell_length_b       3.9892679913468565
+_cell_length_c       3.9922825870464558
+_cell_angle_alpha    89.98320784948683
+_cell_angle_beta     90.01669846468113
+_cell_angle_gamma    89.98475630381394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7075468554989096  0.5149895658183654  0.6948934896699697  1.0000
+  H   H1        1.0  0.20739325914612777  0.015163587500956541  0.19493669103395694  1.0000
+  Ir  Ir1       1.0  0.20743244693291335  0.5144678767631519  0.1950739788228357  1.0000
+  Ir  Ir2       1.0  0.20748937684276159  0.015086290778290422  0.6952218726548599  1.0000
+  Ir  Ir3       1.0  0.7074500613171677  0.015073560071268454  0.19500738975192447  1.0000

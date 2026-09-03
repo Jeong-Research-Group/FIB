@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnNFeN
+_chemical_formula_sum              "Mn1 N2 Fe1"
+_cell_length_a       2.8993532765202232
+_cell_length_b       2.8916841373807887
+_cell_length_c       4.0569987297058105
+_cell_angle_alpha    90.01364922208926
+_cell_angle_beta     89.99506427794063
+_cell_angle_gamma    89.93569627402648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8161580562591553  0.15315204858779907  0.086273692548275  1.0000
+  N   N1        1.0  0.8165640234947205  0.15284022688865662  0.5859077572822571  1.0000
+  Fe  Fe1       1.0  0.3162500858306885  0.6527069211006165  0.5862541198730469  1.0000
+  N   N2        1.0  0.31579071283340454  0.6529484391212463  0.08591463416814804  1.0000

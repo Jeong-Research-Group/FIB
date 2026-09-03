@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaO2GeO2
+_chemical_formula_sum              "Ga1 O4 Ge1"
+_cell_length_a       2.9503459056007286
+_cell_length_b       5.137440228135087
+_cell_length_c       4.870850563049316
+_cell_angle_alpha    90.07825597840508
+_cell_angle_beta     89.94067547901058
+_cell_angle_gamma    90.06060677062881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7395880222320557  0.6474596261978149  0.7311747074127197  1.0000
+  O   O1        1.0  0.7409984469413757  0.30245086550712585  0.9382637739181519  1.0000
+  O   O2        1.0  0.23682424426078796  0.8276100158691406  0.933692216873169  1.0000
+  Ge  Ge1       1.0  0.23968730866909027  0.14768928289413452  0.7331910729408264  1.0000
+  O   O3        1.0  0.7393508553504944  0.9927054643630981  0.5258573293685913  1.0000
+  O   O4        1.0  0.23884429037570953  0.4650318622589112  0.5319115519523621  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Te2In2Te2Pb
+_chemical_formula_sum              "Te4 In2 Pb1"
+_cell_length_a       6.409117252651422
+_cell_length_b       6.422225279509974
+_cell_length_c       8.141020774841309
+_cell_angle_alpha    113.48155718121791
+_cell_angle_beta     113.26032593975107
+_cell_angle_gamma    90.35293194083594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.33322200179100037  0.29420801997184753  0.36424049735069275  1.0000
+  Te  Te2       1.0  0.1752317249774933  0.5461905598640442  0.8678385615348816  1.0000
+  In  In1       1.0  0.9999203681945802  0.874614715576172  0.1142454445362091  1.0000
+  In  In2       1.0  0.5026882290840149  0.37483859062194824  0.11680480837821955  1.0000
+  Te  Te3       1.0  0.5826278924942017  0.9547484517097472  0.8657382130622864  1.0000
+  Te  Te4       1.0  0.9231279492378234  0.708762228488922  0.3677954673767089  1.0000
+  Pb  Pb1       1.0  0.7512162923812866  0.1274448186159134  0.6163499355316162  1.0000

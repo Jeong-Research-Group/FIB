@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2ScHgAs2
+_chemical_formula_sum              "Hf2 Sc1 Hg1 As2"
+_cell_length_a       3.9140479433268425
+_cell_length_b       3.9892290689956162
+_cell_length_c       7.722118102282372
+_cell_angle_alpha    90.00214604508874
+_cell_angle_beta     89.99156044794665
+_cell_angle_gamma    90.00151113945796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.03599237495657691  0.5440372403019075  0.28545637503187593  1.0000
+  Hf  Hf2       1.0  0.5360297956917561  0.5441390253550438  0.959926319826439  1.0000
+  Sc  Sc1       1.0  0.036197433162055  0.04405773418765665  0.6487565737139155  1.0000
+  Hg  Hg1       1.0  0.5359838882323459  0.04405737237230302  0.3185815417916905  1.0000
+  As  As1       1.0  0.5362570530970455  0.5441069162830284  0.6077745528551504  1.0000
+  As  As2       1.0  0.036135084726130876  0.04415950099372672  0.9997301132710837  1.0000

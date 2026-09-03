@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SbH3SeS3
+_chemical_formula_sum              "Sb1 H3 Se1 S3"
+_cell_length_a       6.139224440231712
+_cell_length_b       5.959560612908409
+_cell_length_c       6.2611821188283425
+_cell_angle_alpha    107.64266144408222
+_cell_angle_beta     84.61692051911659
+_cell_angle_gamma    86.48742032881145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.24838964464462146  0.10928911414561349  0.7733115042341715  1.0000
+  H   H1        1.0  0.6584759840863222  0.1823083233907068  0.9542690766521367  1.0000
+  H   H2        1.0  0.9948561950077242  0.5843711183235859  0.14663426340744662  1.0000
+  H   H3        1.0  0.4194733353230769  0.573521956993537  0.9457532481935234  1.0000
+  Se  Se1       1.0  0.8716614303359518  0.44829605000237  0.2776947863659203  1.0000
+  S   S1        1.0  0.2574343453972162  0.5412050616679098  0.8105527706018064  1.0000
+  S   S2        1.0  0.13909405242452275  0.15194134526200553  0.1756629418938084  1.0000
+  S   S3        1.0  0.6430952288745283  0.001178061105830741  0.7627848694717076  1.0000

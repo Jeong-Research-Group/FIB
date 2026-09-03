@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrZnSr2N
+_chemical_formula_sum              "Sr3 Zn1 N1"
+_cell_length_a       5.26292140520519
+_cell_length_b       5.264744761787529
+_cell_length_c       5.262115001678467
+_cell_angle_alpha    89.99800808924772
+_cell_angle_beta     89.97383605118786
+_cell_angle_gamma    89.97433465309155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.23865525424480435  0.865976631641388  0.02524726837873459  1.0000
+  Zn  Zn1       1.0  0.7379757761955261  0.8659199476242065  0.5249264240264893  1.0000
+  Sr  Sr2       1.0  0.23842780292034146  0.3662353754043579  0.5256133675575256  1.0000
+  Sr  Sr3       1.0  0.7386854290962219  0.3659743368625641  0.025380723178386688  1.0000
+  N   N1        1.0  0.2386045455932617  0.3664877712726593  0.025419756770133972  1.0000

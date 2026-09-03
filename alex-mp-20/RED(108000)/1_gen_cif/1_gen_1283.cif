@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Co2Ge2
+_chemical_formula_sum              "Lu2 Co2 Ge2"
+_cell_length_a       4.018968914621019
+_cell_length_b       4.018595426900692
+_cell_length_c       6.458853874345818
+_cell_angle_alpha    89.98356573323584
+_cell_angle_beta     90.0074481119088
+_cell_angle_gamma    89.99997355841883
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.32710213474718186  0.16984520570944814  0.016861161191874027  1.0000
+  Lu  Lu2       1.0  0.827340890805267  0.6693940977320613  0.639452599239411  1.0000
+  Co  Co1       1.0  0.8271983170206856  0.16975952092953966  0.32827619267851565  1.0000
+  Co  Co2       1.0  0.32702495451546815  0.6696837758482193  0.32803273185082177  1.0000
+  Ge  Ge1       1.0  0.827032907553374  0.6698560272605706  0.11650438063192702  1.0000
+  Ge  Ge2       1.0  0.32729298499417103  0.16945018917934893  0.5398278350895843  1.0000

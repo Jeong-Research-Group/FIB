@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg3InHgNaHg2
+_chemical_formula_sum              "Hg6 In1 Na1"
+_cell_length_a       6.70624716501043
+_cell_length_b       6.703566650581794
+_cell_length_c       6.703949928283691
+_cell_angle_alpha    90.03870918552552
+_cell_angle_beta     119.95989884937501
+_cell_angle_gamma    119.80217198024188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5975064635276796  0.8735434412956239  0.1304621547460556  1.0000
+  Hg  Hg2       1.0  0.5978307127952576  0.8742378354072571  0.6309561729431152  1.0000
+  Hg  Hg3       1.0  0.5986809134483337  0.37398359179496765  0.630761444568634  1.0000
+  In  In1       1.0  0.09803532063961032  0.8738892078399658  0.630813717842102  1.0000
+  Hg  Hg4       1.0  0.5978823304176331  0.37421455979347235  0.13106828927993774  1.0000
+  Na  Na1       1.0  0.09809126704931259  0.37416350841522217  0.13100047409534454  1.0000
+  Hg  Hg5       1.0  0.09771189838647842  0.3745472729206085  0.6311221122741699  1.0000
+  Hg  Hg6       1.0  0.09818737208843241  0.8738158345222474  0.1308897286653519  1.0000

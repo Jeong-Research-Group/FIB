@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga2Fe3CoFeCo
+_chemical_formula_sum              "Ga2 Fe4 Co2"
+_cell_length_a       3.086619697385631
+_cell_length_b       3.932253368683557
+_cell_length_c       7.8704938888549805
+_cell_angle_alpha    90.0202813359161
+_cell_angle_beta     89.938974758684
+_cell_angle_gamma    89.94110577713057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.11473103612661363  0.03346636146306992  0.9323657155036926  1.0000
+  Ga  Ga2       1.0  0.11466634273529054  0.0313096009194851  0.43024444580078125  1.0000
+  Fe  Fe1       1.0  0.6145183444023132  0.5330368876457214  0.9310933947563171  1.0000
+  Fe  Fe2       1.0  0.6151997447013855  0.03298049420118332  0.680884599685669  1.0000
+  Fe  Fe3       1.0  0.6144837141036987  0.032088469713926315  0.181730255484581  1.0000
+  Co  Co1       1.0  0.11477093398571016  0.5317104458808899  0.18066157400608063  1.0000
+  Fe  Fe4       1.0  0.6144395470619202  0.5327076315879823  0.4315769672393799  1.0000
+  Co  Co2       1.0  0.11466534435749055  0.5326376557350159  0.682516872882843  1.0000

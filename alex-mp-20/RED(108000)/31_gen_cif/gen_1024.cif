@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiSrLi3SrGe2
+_chemical_formula_sum              "Li4 Sr2 Ge2"
+_cell_length_a       4.68229577542193
+_cell_length_b       6.390358987764739
+_cell_length_c       6.2740278244018555
+_cell_angle_alpha    89.94519023907124
+_cell_angle_beta     89.93692570532731
+_cell_angle_gamma    89.95335231388496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8624944686889648  0.02658798173069954  0.8184114098548889  1.0000
+  Sr  Sr1       1.0  0.8624330759048462  0.5354673862457277  0.6040875315666199  1.0000
+  Li  Li2       1.0  0.8626947999000549  0.025821905583143234  0.3892744779586792  1.0000
+  Li  Li3       1.0  0.3627175986766815  0.22285769879817963  0.887686014175415  1.0000
+  Li  Li4       1.0  0.3623782694339752  0.22381502389907837  0.32015863060951233  1.0000
+  Sr  Sr2       1.0  0.3625100255012512  0.7135871648788452  0.10392171889543533  1.0000
+  Ge  Ge1       1.0  0.36275458335876465  0.9019411802291871  0.6041211485862732  1.0000
+  Ge  Ge2       1.0  0.8627842664718628  0.3450129926204682  0.10447482019662857  1.0000

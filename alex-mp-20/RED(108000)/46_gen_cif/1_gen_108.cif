@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiHg2Pb
+_chemical_formula_sum              "Li1 Hg2 Pb1"
+_cell_length_a       3.5740915371497075
+_cell_length_b       3.573381108136005
+_cell_length_c       7.878254232484116
+_cell_angle_alpha    89.96023628799888
+_cell_angle_beta     90.02745790571193
+_cell_angle_gamma    89.9837297470752
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9268148892035504  0.7256416304004308  0.9416424164132088  1.0000
+  Hg  Hg1       1.0  0.9265774632683366  0.7255735307904312  0.5021469950323626  1.0000
+  Hg  Hg2       1.0  0.426565450030616  0.22594451864199658  0.7621550909237589  1.0000
+  Pb  Pb1       1.0  0.4270625406560791  0.22524938304123154  0.2065248849912302  1.0000

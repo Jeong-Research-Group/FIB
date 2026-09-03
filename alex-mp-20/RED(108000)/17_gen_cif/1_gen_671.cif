@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb2CoIr2Os
+_chemical_formula_sum              "Nb2 Co1 Ir2 Os1"
+_cell_length_a       5.165265032170309
+_cell_length_b       5.202487684857273
+_cell_length_c       4.981554615526815
+_cell_angle_alpha    58.51471342327391
+_cell_angle_beta     58.46876793727845
+_cell_angle_gamma    59.76337984185725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.8174793662126476  0.32497197671907974  0.5931633507879075  1.0000
+  Nb  Nb2       1.0  0.5661879516737407  0.07249621540216043  0.3493602215920605  1.0000
+  Co  Co1       1.0  0.19187367947210396  0.6981581044912354  0.4713322254784214  1.0000
+  Ir  Ir1       1.0  0.1923390640025911  0.1982693301233119  0.9714044875830748  1.0000
+  Ir  Ir2       1.0  0.19111889490117617  0.698874462855722  0.971932291732759  1.0000
+  Os  Os1       1.0  0.6920299877283338  0.6982219237182526  0.9714936031171304  1.0000

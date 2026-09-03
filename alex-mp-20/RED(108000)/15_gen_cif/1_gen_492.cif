@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca3HPb
+_chemical_formula_sum              "Ca3 H1 Pb1"
+_cell_length_a       5.014296397514782
+_cell_length_b       5.01066934171371
+_cell_length_c       5.011055635454028
+_cell_angle_alpha    90.01884616608672
+_cell_angle_beta     90.0136705151688
+_cell_angle_gamma    89.96056991045384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0656740509678175  0.32235715712832536  0.640247115186024  1.0000
+  Ca  Ca2       1.0  0.5656152429501886  0.3224003285531545  0.13979823467534455  1.0000
+  Ca  Ca3       1.0  0.5657409610479431  0.82240364297142  0.6398458947063218  1.0000
+  H   H1        1.0  0.5656899504583915  0.3223045451310118  0.6403717501961097  1.0000
+  Pb  Pb1       1.0  0.06564830844077756  0.8224982535686715  0.1395412790814035  1.0000

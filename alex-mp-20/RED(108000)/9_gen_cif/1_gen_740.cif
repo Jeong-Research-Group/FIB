@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaSn2PtRh
+_chemical_formula_sum              "Ba1 Sn2 Pt1 Rh1"
+_cell_length_a       4.662481127035969
+_cell_length_b       4.662838984153723
+_cell_length_c       6.775600713678314
+_cell_angle_alpha    110.13693866162454
+_cell_angle_beta     110.14022656883795
+_cell_angle_gamma    89.97999709918192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5095400921970751  0.4030580602052724  0.6458895303259737  1.0000
+  Sn  Sn1       1.0  0.14918690083677408  0.04262829944054751  0.9255554077085336  1.0000
+  Sn  Sn2       1.0  0.8697613112360162  0.7630905948282214  0.365515853661837  1.0000
+  Pt  Pt1       1.0  0.7592587077406404  0.15307656182512458  0.1455488724283893  1.0000
+  Rh  Rh1       1.0  0.25965110753096526  0.6526485122701247  0.14547622266564364  1.0000

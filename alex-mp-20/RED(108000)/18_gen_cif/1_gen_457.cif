@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiSm2Sb2Pd
+_chemical_formula_sum              "Li1 Sm2 Sb2 Pd1"
+_cell_length_a       4.432916350662139
+_cell_length_b       4.432840646747521
+_cell_length_c       7.264356281198063
+_cell_angle_alpha    90.00713155128275
+_cell_angle_beta     90.0009746663299
+_cell_angle_gamma    89.99999917682256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.503846857058825  0.39556632660623814  0.2512048839658339  1.0000
+  Sm  Sm1       1.0  0.503689365681955  0.8950762259225895  0.9307146838838763  1.0000
+  Sm  Sm2       1.0  0.00354578557740044  0.39542995551451426  0.5717337335024031  1.0000
+  Sb  Sb1       1.0  0.503564725177028  0.8955198943147135  0.4893811672336143  1.0000
+  Sb  Sb2       1.0  0.003770384322281306  0.39501390103561046  0.013103322073231347  1.0000
+  Pd  Pd1       1.0  0.0034683544365904733  0.8949999894832398  0.2512446740572532  1.0000

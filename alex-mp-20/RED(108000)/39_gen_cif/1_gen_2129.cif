@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZrTi2HgC
+_chemical_formula_sum              "Zr1 Ti2 Hg1 C1"
+_cell_length_a       4.269077328860322
+_cell_length_b       4.2690794067221045
+_cell_length_c       4.529719279691999
+_cell_angle_alpha    89.99986186948789
+_cell_angle_beta     89.99935527563757
+_cell_angle_gamma    89.99358350825786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8624561321221086  0.9990440325788851  0.8305218019547227  1.0000
+  Ti  Ti1       1.0  0.8623974476747731  0.49902692301661883  0.330557495133188  1.0000
+  Ti  Ti2       1.0  0.3623743620842851  0.9990400881458071  0.3308071143714506  1.0000
+  Hg  Hg1       1.0  0.3623689053868198  0.4988526365382603  0.8307809553318072  1.0000
+  C   C1        1.0  0.862389927767339  0.9990163575738317  0.3304934751765283  1.0000

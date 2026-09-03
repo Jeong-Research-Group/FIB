@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Ni2Pt2
+_chemical_formula_sum              "Sm2 Ni2 Pt2"
+_cell_length_a       4.221081177774247
+_cell_length_b       4.220139041237028
+_cell_length_c       7.791787991959936
+_cell_angle_alpha    90.01889910306777
+_cell_angle_beta     90.00383392995111
+_cell_angle_gamma    119.99046263490791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.05859765891128433  0.23408469996895642  0.7620549855756416  1.0000
+  Sm  Sm2       1.0  0.05846796413335833  0.2332145404199942  0.2622216194095917  1.0000
+  Ni  Ni1       1.0  0.7267628300342407  0.568429319874972  0.011960874458804203  1.0000
+  Ni  Ni2       1.0  0.7263206043634782  0.5661233463219181  0.5126198276122037  1.0000
+  Pt  Pt1       1.0  0.3932640222521713  0.8990513965061369  0.512925183147688  1.0000
+  Pt  Pt2       1.0  0.3928814930637676  0.902050503415762  0.011397833352448901  1.0000

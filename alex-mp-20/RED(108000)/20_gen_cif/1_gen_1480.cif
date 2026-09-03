@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tm2GaTe4
+_chemical_formula_sum              "Tm2 Ga1 Te4"
+_cell_length_a       4.100068318375103
+_cell_length_b       7.4491471348702865
+_cell_length_c       7.446742243190671
+_cell_angle_alpha    73.25836760832662
+_cell_angle_beta     74.02814568060651
+_cell_angle_gamma    74.0400476598774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.5665009865497763  0.30885373790475806  0.40713640844552595  1.0000
+  Tm  Tm2       1.0  0.5670573541021408  0.7816264108009344  0.933220684494036  1.0000
+  Ga  Ga1       1.0  0.766473127215381  0.34460694390335633  0.9708665545370614  1.0000
+  Te  Te1       1.0  0.9778808968661706  0.6335329765446839  0.2586807280776666  1.0000
+  Te  Te2       1.0  0.2752127111684406  0.5745486952127338  0.7229857557156789  1.0000
+  Te  Te3       1.0  0.2746245503462412  0.09732162169398972  0.20107921933820008  1.0000
+  Te  Te4       1.0  0.005012540049917935  0.10614767660573898  0.7323253024412558  1.0000

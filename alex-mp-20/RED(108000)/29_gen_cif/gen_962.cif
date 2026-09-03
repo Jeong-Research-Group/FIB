@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       As2SrNi2
+_chemical_formula_sum              "As2 Sr1 Ni2"
+_cell_length_a       4.154045670654951
+_cell_length_b       4.151536423441627
+_cell_length_c       5.999476909637451
+_cell_angle_alpha    110.36434720642767
+_cell_angle_beta     110.4457227273877
+_cell_angle_gamma    89.9846004139139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.4303997755050659  0.06181283295154572  0.2674589157104492  1.0000
+  As  As2       1.0  0.7095025181770325  0.3408899605274201  0.826180636882782  1.0000
+  Sr  Sr1       1.0  0.06996975839138032  0.7014666199684144  0.5469864010810852  1.0000
+  Ni  Ni1       1.0  0.8205435276031494  0.9512692093849182  0.04719950258731842  1.0000
+  Ni  Ni2       1.0  0.3198490142822266  0.45190015435218817  0.04701145365834236  1.0000

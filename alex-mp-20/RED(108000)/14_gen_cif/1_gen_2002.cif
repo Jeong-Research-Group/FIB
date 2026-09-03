@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2SnPb3
+_chemical_formula_sum              "Cs2 Sn1 Pb3"
+_cell_length_a       7.104920424037471
+_cell_length_b       7.106690288832932
+_cell_length_c       8.639307998438275
+_cell_angle_alpha    79.6753555183935
+_cell_angle_beta     79.59397366033798
+_cell_angle_gamma    43.84419944959067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.47447057652348446  0.11112976820269772  0.6525280636769855  1.0000
+  Cs  Cs2       1.0  0.2442333967402061  0.8841948787007801  0.2511643651773063  1.0000
+  Sn  Sn1       1.0  0.9680126203020187  0.606605413644576  0.021261459141365478  1.0000
+  Pb  Pb1       1.0  0.7587578532631468  0.3951884769600017  0.8814363731070358  1.0000
+  Pb  Pb2       1.0  0.16488050758064832  0.8007982796774147  0.7643751964962535  1.0000
+  Pb  Pb3       1.0  0.5514308419694017  0.19067359519454716  0.1404371856533867  1.0000

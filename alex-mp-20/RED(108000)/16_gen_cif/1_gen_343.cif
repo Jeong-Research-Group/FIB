@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ti2ZnRh
+_chemical_formula_sum              "Li2 Ti2 Zn1 Rh1"
+_cell_length_a       4.4237904271743345
+_cell_length_b       4.423130089306333
+_cell_length_c       5.32355985438702
+_cell_angle_alpha    90.02974710003187
+_cell_angle_beta     89.98676524409015
+_cell_angle_gamma    120.01550965447504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.03699219358625802  0.779688763143971  0.717023462853648  1.0000
+  Li  Li2       1.0  0.37028701648842477  0.4462701158497616  0.5544324318275048  1.0000
+  Ti  Ti1       1.0  0.7036684800619575  0.11301043708138553  0.8889506457509736  1.0000
+  Ti  Ti2       1.0  0.03705287772802053  0.7796861030481297  0.2321670170874593  1.0000
+  Zn  Zn1       1.0  0.37040641172418753  0.4463758556331272  0.05635464429046854  1.0000
+  Rh  Rh1       1.0  0.703729715443219  0.11302008501804342  0.3592836546111033  1.0000

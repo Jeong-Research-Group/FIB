@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2DyScCo
+_chemical_formula_sum              "Sm2 Dy1 Sc1 Co1"
+_cell_length_a       5.025691963051996
+_cell_length_b       5.330080463413095
+_cell_length_c       5.331789353088272
+_cell_angle_alpha    89.94299448479232
+_cell_angle_beta     89.96648780604501
+_cell_angle_gamma    89.98195903163449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.6104336102229356  0.8719712610218621  0.9271219517803965  1.0000
+  Sm  Sm2       1.0  0.6103381591192942  0.37187550078709114  0.42725163507726  1.0000
+  Dy  Dy1       1.0  0.11065598559799954  0.3725686805793377  0.9277327038883812  1.0000
+  Sc  Sc1       1.0  0.10995704572652037  0.872202167982406  0.42722799645937054  1.0000
+  Co  Co1       1.0  0.6101602434161185  0.8722317987378612  0.42705493956594726  1.0000

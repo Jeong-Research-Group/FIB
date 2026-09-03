@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ni2Rh2
+_chemical_formula_sum              "Li2 Ni2 Rh2"
+_cell_length_a       4.1248253247170235
+_cell_length_b       4.124942083991285
+_cell_length_c       4.9388415810659385
+_cell_angle_alpha    89.98740638859314
+_cell_angle_beta     90.01002978154642
+_cell_angle_gamma    119.99411967054628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.056490712302485445  0.36391295348246405  0.2530678370098895  1.0000
+  Li  Li2       1.0  0.7231508280367597  0.6972364105614685  0.9487537095877421  1.0000
+  Ni  Ni1       1.0  0.3898295176690605  0.030418649788123284  0.6008792504947265  1.0000
+  Ni  Ni2       1.0  0.389903038713603  0.03032076911117206  0.10092395384278062  1.0000
+  Rh  Rh1       1.0  0.7231684011444739  0.697061011475163  0.4456757139384838  1.0000
+  Rh  Rh2       1.0  0.05656545920436864  0.36372510348686304  0.7563323990688281  1.0000

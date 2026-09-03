@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La3Si2H
+_chemical_formula_sum              "La3 Si2 H1"
+_cell_length_a       4.579028676323208
+_cell_length_b       4.576832565118048
+_cell_length_c       6.681373450611082
+_cell_angle_alpha    90.01126229010912
+_cell_angle_beta     90.00104915527388
+_cell_angle_gamma    90.03231300504505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7494494921890094  0.9521024506523388  0.9849096509552127  1.0000
+  La  La2       1.0  0.24952171956471914  0.9516977832682714  0.48716298174127465  1.0000
+  La  La3       1.0  0.7495695377797672  0.45144746641565026  0.4864896884118124  1.0000
+  Si  Si1       1.0  0.24955400958106833  0.45174550371000144  0.16285956789484363  1.0000
+  Si  Si2       1.0  0.24960673272929607  0.45221162322737307  0.808866553499604  1.0000
+  H   H1        1.0  0.7494852731882348  0.9512455551695851  0.6105858603677533  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2Fe2Ni2
+_chemical_formula_sum              "Ti2 Fe2 Ni2"
+_cell_length_a       3.049038805830976
+_cell_length_b       3.034826511548454
+_cell_length_c       8.200724688284721
+_cell_angle_alpha    90.0007261821669
+_cell_angle_beta     90.00141788091081
+_cell_angle_gamma    90.00025033774924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.12358327906177159  0.05840612601543211  0.5162187260196742  1.0000
+  Ti  Ti2       1.0  0.12305977437111863  0.0583432759621561  0.867628619699263  1.0000
+  Fe  Fe1       1.0  0.12325765531163199  0.05837249862055958  0.19194395567840708  1.0000
+  Fe  Fe2       1.0  0.6233678443243569  0.5583644539715247  0.6919035365456362  1.0000
+  Ni  Ni1       1.0  0.6234924038087037  0.5583500067595304  0.3454284456635662  1.0000
+  Ni  Ni2       1.0  0.6231080186680871  0.5583441566613886  0.03833472124612189  1.0000

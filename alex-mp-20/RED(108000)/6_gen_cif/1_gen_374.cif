@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2Ni3PIr2
+_chemical_formula_sum              "Mg2 Ni3 P1 Ir2"
+_cell_length_a       4.057893346914172
+_cell_length_b       4.058610628002876
+_cell_length_c       6.497170782726553
+_cell_angle_alpha    90.00412428763201
+_cell_angle_beta     89.9796499132236
+_cell_angle_gamma    90.00713669835716
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7382862308201296  0.07897980349291994  0.6876001707335901  1.0000
+  Mg  Mg2       1.0  0.2381967375983643  0.5789388225580572  0.6874117454993917  1.0000
+  Ni  Ni1       1.0  0.7380609561310111  0.5793882147783467  0.3989517512536009  1.0000
+  Ni  Ni2       1.0  0.23797799772627873  0.579033676748541  0.18749614388251154  1.0000
+  Ni  Ni3       1.0  0.23841766999056888  0.07900798066866062  0.9761964838951951  1.0000
+  P   P1        1.0  0.7390591535573409  0.07949585189759546  0.18745483896826726  1.0000
+  Ir  Ir1       1.0  0.23879864502043624  0.07905203402492905  0.4000309444463394  1.0000
+  Ir  Ir2       1.0  0.7380784427887107  0.5792072949657525  0.9749363318880743  1.0000

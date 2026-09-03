@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaOsTa2OsTi
+_chemical_formula_sum              "Ta3 Os2 Ti1"
+_cell_length_a       3.184943924440245
+_cell_length_b       4.5259084719427225
+_cell_length_c       7.211038112640381
+_cell_angle_alpha    108.32743380414023
+_cell_angle_beta     89.99545359884439
+_cell_angle_gamma    90.03001435630911
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.4123273491859436  0.6493173837661743  0.7761092782020569  1.0000
+  Os  Os1       1.0  0.911783754825592  0.8171907067298889  0.11113156378269193  1.0000
+  Ta  Ta2       1.0  0.4123159348964691  0.3176078200340271  0.11253345757722855  1.0000
+  Ta  Ta3       1.0  0.4124516546726227  0.9814306497573851  0.43910962343215937  1.0000
+  Os  Os2       1.0  0.9124608635902405  0.48092165589332586  0.4401564598083496  1.0000
+  Ti  Ti1       1.0  0.9121095538139343  0.1491510272026062  0.77570641040802  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnSn2Ru
+_chemical_formula_sum              "Mn1 Sn2 Ru1"
+_cell_length_a       3.1422941993566775
+_cell_length_b       3.1430063577265392
+_cell_length_c       8.212132127748161
+_cell_angle_alpha    90.03367608827045
+_cell_angle_beta     89.99426601543901
+_cell_angle_gamma    89.99725362876644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.20158405938878438  0.5116120606213947  0.031899116722298164  1.0000
+  Sn  Sn1       1.0  0.7017318914132641  0.012203664150604027  0.25590670538837407  1.0000
+  Sn  Sn2       1.0  0.20182557037836643  0.5110983642350515  0.6504168557509832  1.0000
+  Ru  Ru1       1.0  0.7015821081102853  0.011333185444241332  0.8680665997104925  1.0000

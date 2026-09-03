@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni3SnH
+_chemical_formula_sum              "Ni3 Sn1 H1"
+_cell_length_a       3.766040194749122
+_cell_length_b       3.766577891114859
+_cell_length_c       3.7682430046417363
+_cell_angle_alpha    89.99902529684152
+_cell_angle_beta     89.99974596241606
+_cell_angle_gamma    90.00004990639862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8416415211665816  0.5662107289341419  0.7590941240030302  1.0000
+  Ni  Ni2       1.0  0.8412457525817267  0.06614383915773903  0.25895859546358024  1.0000
+  Ni  Ni3       1.0  0.34141761701124346  0.5661951619892046  0.25921809182693606  1.0000
+  Sn  Sn1       1.0  0.3412495790042295  0.06578463694223413  0.7586669615755637  1.0000
+  H   H1        1.0  0.8416948154778175  0.5663620773210799  0.258746998190587  1.0000

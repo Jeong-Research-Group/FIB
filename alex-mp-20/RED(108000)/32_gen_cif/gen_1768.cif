@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InCaInIrCaIr
+_chemical_formula_sum              "In2 Ca2 Ir2"
+_cell_length_a       4.318501740350832
+_cell_length_b       5.718969249979695
+_cell_length_c       6.529944896697998
+_cell_angle_alpha    75.44072287917366
+_cell_angle_beta     70.69332440068099
+_cell_angle_gamma    67.78034990595395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.582310676574707  0.32397693395614624  0.3718149960041046  1.0000
+  Ca  Ca1       1.0  0.9758961200714112  0.7857320308685303  0.1232762485742569  1.0000
+  In  In2       1.0  0.21450787782669073  0.8856598734855652  0.5447577834129333  1.0000
+  Ir  Ir1       1.0  0.26769137382507324  0.18997126817703247  0.13404648005962372  1.0000
+  Ca  Ca2       1.0  0.8207045793533326  0.4238733053207397  0.7940281629562378  1.0000
+  Ir  Ir2       1.0  0.5291230082511902  0.01964777335524559  0.7824929356575012  1.0000

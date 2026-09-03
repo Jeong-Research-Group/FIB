@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgTiMgIn3
+_chemical_formula_sum              "Mg2 Ti1 In3"
+_cell_length_a       3.1807758816240566
+_cell_length_b       3.1792631824893895
+_cell_length_c       13.017585754394531
+_cell_angle_alpha    90.01181190165595
+_cell_angle_beta     90.00129341033136
+_cell_angle_gamma    90.0578746962137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3269774615764618  0.21791833639144895  0.0025136470794677734  1.0000
+  Ti  Ti1       1.0  0.32612183690071106  0.21626122295856476  0.6764883995056152  1.0000
+  Mg  Mg2       1.0  0.3257818818092346  0.21478717029094696  0.35243567824363703  1.0000
+  In  In1       1.0  0.8257421255111694  0.7175751328468323  0.17718395590782163  1.0000
+  In  In2       1.0  0.8263311982154846  0.7172012925148009  0.8310393095016478  1.0000
+  In  In3       1.0  0.8257795572280884  0.7159625291824341  0.5231878757476807  1.0000

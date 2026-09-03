@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2BiO2
+_chemical_formula_sum              "Dy2 Bi1 O2"
+_cell_length_a       3.8843005961259
+_cell_length_b       3.8839458448740527
+_cell_length_c       7.316575902884956
+_cell_angle_alpha    105.34862638919178
+_cell_angle_beta     105.3544413457899
+_cell_angle_gamma    90.00344856384665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.44991557950862665  0.2400039739137435  0.47809075174117216  1.0000
+  Dy  Dy2       1.0  0.11319609278041895  0.903374555608924  0.8064372916573397  1.0000
+  Bi  Bi1       1.0  0.7814669194353845  0.5717000932360832  0.1423391336862299  1.0000
+  O   O1        1.0  0.031728053303704686  0.3214075385697787  0.6418358879987297  1.0000
+  O   O2        1.0  0.5313056225605196  0.8213783980577979  0.6418899188293797  1.0000

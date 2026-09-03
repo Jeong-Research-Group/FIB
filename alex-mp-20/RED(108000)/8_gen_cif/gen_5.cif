@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaPrTm3Ca
+_chemical_formula_sum              "Ca2 Pr1 Tm3"
+_cell_length_a       5.0997325052704445
+_cell_length_b       6.269086389268544
+_cell_length_c       7.3459086418151855
+_cell_angle_alpha    106.32882668640272
+_cell_angle_beta     89.98830239054097
+_cell_angle_gamma    113.98266552055514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.06015926226973532  0.8755022883415222  0.23782296478748322  1.0000
+  Pr  Pr1       1.0  0.054381266236305306  0.8650236129760743  0.7245787382125854  1.0000
+  Tm  Tm1       1.0  0.3848426043987274  0.5265516042709351  0.8803792595863342  1.0000
+  Tm  Tm2       1.0  0.7323899865150452  0.22149603068828586  0.5780898332595825  1.0000
+  Tm  Tm3       1.0  0.39783310890197754  0.5526691675186157  0.42163172364234924  1.0000
+  Ca  Ca2       1.0  0.7283061742782593  0.21178314089775085  0.06815536320209503  1.0000

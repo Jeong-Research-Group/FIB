@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdCo2CRu
+_chemical_formula_sum              "Cd1 Co2 C1 Ru1"
+_cell_length_a       4.013189183985023
+_cell_length_b       3.9316295548483806
+_cell_length_c       3.9265196323394775
+_cell_angle_alpha    89.89334909456248
+_cell_angle_beta     89.79912664249036
+_cell_angle_gamma    89.62752495237491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5084874629974365  0.265202283859253  0.8105059862136842  1.0000
+  Co  Co1       1.0  0.009083352982997894  0.26557305455207825  0.3105472028255463  1.0000
+  Co  Co2       1.0  0.008806890808045864  0.7653955221176149  0.8108013272285463  1.0000
+  C   C1        1.0  0.008932709693908691  0.7652316093444824  0.31090751290321356  1.0000
+  Ru  Ru1       1.0  0.5092150568962097  0.7655907869338989  0.3104902803897858  1.0000

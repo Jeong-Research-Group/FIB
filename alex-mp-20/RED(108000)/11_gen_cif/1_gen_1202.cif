@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2NiSnAu
+_chemical_formula_sum              "Zr2 Ni1 Sn1 Au1"
+_cell_length_a       3.297946119946435
+_cell_length_b       4.262190962216297
+_cell_length_c       7.21946503284365
+_cell_angle_alpha    107.1590280954415
+_cell_angle_beta     89.9936372350218
+_cell_angle_gamma    89.99984731640865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.4271366610954894  0.29710672324146165  0.541699261687777  1.0000
+  Zr  Zr2       1.0  0.4272604831727566  0.03687329097965924  0.020956730168891647  1.0000
+  Ni  Ni1       1.0  0.927598997376034  0.8651142436115824  0.6770692272697793  1.0000
+  Sn  Sn1       1.0  0.927715634478642  0.6735538805058867  0.2948813153589784  1.0000
+  Au  Au1       1.0  0.9272566858307519  0.46967752686443254  0.8863826440937695  1.0000

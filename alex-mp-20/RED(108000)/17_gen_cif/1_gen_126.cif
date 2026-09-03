@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2CeGa
+_chemical_formula_sum              "Tb2 Ce1 Ga1"
+_cell_length_a       3.535399669126592
+_cell_length_b       3.5354248960868566
+_cell_length_c       8.737179672856566
+_cell_angle_alpha    90.01141330444516
+_cell_angle_beta     89.99301381860911
+_cell_angle_gamma    90.00375512538545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.04912723740503532  0.27172643897185284  0.05928996796797618  1.0000
+  Tb  Tb2       1.0  0.048898791180331955  0.27211477237787807  0.48521550499010035  1.0000
+  Ce  Ce1       1.0  0.5487585484477822  0.7716927507799926  0.7723045493302866  1.0000
+  Ga  Ga1       1.0  0.5492426587739653  0.7723238791888903  0.27232277053395204  1.0000

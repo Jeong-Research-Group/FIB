@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiCo2Sn
+_chemical_formula_sum              "Li1 Co2 Sn1"
+_cell_length_a       3.7411872742354184
+_cell_length_b       3.7473903979101135
+_cell_length_c       3.8374414331423012
+_cell_angle_alpha    89.96133564373328
+_cell_angle_beta     89.9650011422371
+_cell_angle_gamma    89.99332258086399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.730505430332819  0.17589299713580145  0.04360876080052633  1.0000
+  Co  Co1       1.0  0.7303655296106859  0.6765266494411174  0.5436710197354369  1.0000
+  Co  Co2       1.0  0.23035550260283696  0.1758827344181551  0.5438291017787061  1.0000
+  Sn  Sn1       1.0  0.23067570356303888  0.675654639928107  0.04373150143881889  1.0000

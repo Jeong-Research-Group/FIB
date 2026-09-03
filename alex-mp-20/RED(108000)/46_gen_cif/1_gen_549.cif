@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaCo3B
+_chemical_formula_sum              "La1 Co3 B1"
+_cell_length_a       4.035729974034424
+_cell_length_b       4.035840217685828
+_cell_length_c       4.035612173645826
+_cell_angle_alpha    90.01082464139135
+_cell_angle_beta     89.9853972670009
+_cell_angle_gamma    89.98476846910134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.1307843645731503  0.18500586128740704  0.16945677745293244  1.0000
+  Co  Co1       1.0  0.13109936498085525  0.6853103313326728  0.669710009635091  1.0000
+  Co  Co2       1.0  0.6310321187212528  0.6848365528895443  0.16963477952979422  1.0000
+  Co  Co3       1.0  0.6307461668995364  0.18532025954224915  0.6698631725697852  1.0000
+  B   B1        1.0  0.6309048544009089  0.6852565103735604  0.6698419787210537  1.0000

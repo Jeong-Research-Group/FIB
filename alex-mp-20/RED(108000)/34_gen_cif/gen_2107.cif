@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InSrInGaPt
+_chemical_formula_sum              "In2 Sr1 Ga1 Pt1"
+_cell_length_a       4.547052772546752
+_cell_length_b       4.606353228908594
+_cell_length_c       6.812315940856934
+_cell_angle_alpha    109.01087631816371
+_cell_angle_beta     109.15875123638422
+_cell_angle_gamma    89.88855419399715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.08282499760389328  0.5905693173408508  0.4115464985370636  1.0000
+  Sr  Sr1       1.0  0.4727078974246979  0.9805793762207031  0.19255584478378296  1.0000
+  In  In2       1.0  0.7404171824455261  0.7513094544410706  0.7282058596611023  1.0000
+  Ga  Ga1       1.0  0.25218597054481506  0.2586336135864258  0.7471259236335754  1.0000
+  Pt  Pt1       1.0  0.8587340712547302  0.365522176027298  0.9638279676437378  1.0000

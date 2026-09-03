@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaCo2Re2Si
+_chemical_formula_sum              "La1 Co2 Re2 Si1"
+_cell_length_a       4.172178820825029
+_cell_length_b       5.197351840786037
+_cell_length_c       5.212178495343549
+_cell_angle_alpha    120.81538682134521
+_cell_angle_beta     89.9965750599043
+_cell_angle_gamma    89.99614760683454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6029833830137752  0.2468441056063958  0.5665505419852935  1.0000
+  Co  Co1       1.0  0.6032388059943018  0.585218953524875  0.2240438305904516  1.0000
+  Co  Co2       1.0  0.6031858327221313  0.9089328358978653  0.9088455926241453  1.0000
+  Re  Re1       1.0  0.10325841206985999  0.7459636309084536  0.5658740922871509  1.0000
+  Re  Re2       1.0  0.1032311155548531  0.2480791837065605  0.06742167421344546  1.0000
+  Si  Si1       1.0  0.1029665111769076  0.7475017324691984  0.06632579770059013  1.0000

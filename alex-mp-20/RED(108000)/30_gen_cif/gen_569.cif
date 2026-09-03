@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tm2LaAlCa
+_chemical_formula_sum              "Tm2 La1 Al1 Ca1"
+_cell_length_a       5.549682144556422
+_cell_length_b       5.552071466412632
+_cell_length_c       5.833803653717041
+_cell_angle_alpha    90.02097118725038
+_cell_angle_beta     89.96633650337475
+_cell_angle_gamma    89.96968329244534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.15277983248233795  0.15944969654083252  0.5068804025650024  1.0000
+  Tm  Tm2       1.0  0.6506378650665283  0.6595101952552795  0.5068647265434265  1.0000
+  La  La1       1.0  0.6519893407821655  0.1601253300905228  0.007212130352854729  1.0000
+  Al  Al1       1.0  0.6510551571846008  0.15956313908100128  0.5070924162864685  1.0000
+  Ca  Ca1       1.0  0.152415469288826  0.6595082283020021  0.006700873374938965  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2Cu2Ni2
+_chemical_formula_sum              "Fe2 Cu2 Ni2"
+_cell_length_a       3.5722849235867797
+_cell_length_b       4.434260775685688
+_cell_length_c       5.065151207638499
+_cell_angle_alpha    108.5863333263745
+_cell_angle_beta     90.00072072246489
+_cell_angle_gamma    113.75277819598007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.42469108952093076  0.5713823020561476  0.8837753013226018  1.0000
+  Fe  Fe2       1.0  0.7564989031802248  0.23487536837324696  0.5427744995986963  1.0000
+  Cu  Cu1       1.0  0.7597860215569368  0.24143594871615903  0.04934522260744915  1.0000
+  Cu  Cu2       1.0  0.09081398214328405  0.9035506222230085  0.7141597593453841  1.0000
+  Ni  Ni1       1.0  0.0907283770111117  0.9034923770690546  0.21466745930623726  1.0000
+  Ni  Ni2       1.0  0.42353820385107693  0.5690563107785499  0.38630839558701285  1.0000

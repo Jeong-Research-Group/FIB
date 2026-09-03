@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgVGe2H
+_chemical_formula_sum              "Mg1 V1 Ge2 H1"
+_cell_length_a       3.0988093003045583
+_cell_length_b       4.911428725246091
+_cell_length_c       5.071758311462462
+_cell_angle_alpha    101.31750561879134
+_cell_angle_beta     80.43637519579305
+_cell_angle_gamma    76.26481422760908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.40633899170685533  0.7798122978338162  0.6389269230136659  1.0000
+  V   V1        1.0  0.05567844968167701  0.248266513650323  0.2658466937680501  1.0000
+  Ge  Ge1       1.0  0.7507602604699902  0.29793011492864685  0.8413885233746105  1.0000
+  Ge  Ge2       1.0  0.8179151842270764  0.7836962496180037  0.1325440202427051  1.0000
+  H   H1        1.0  0.46303952988722946  0.39425017360691494  0.41868840560358583  1.0000

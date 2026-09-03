@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmAg2Pb2Se
+_chemical_formula_sum              "Sm1 Ag2 Pb2 Se1"
+_cell_length_a       4.5074515837822196
+_cell_length_b       4.170926162706631
+_cell_length_c       8.759911940303352
+_cell_angle_alpha    101.51318778105559
+_cell_angle_beta     90.00586585379344
+_cell_angle_gamma    89.99354838940233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.1698247345481816  0.5196445604998358  0.5467162498611838  1.0000
+  Ag  Ag1       1.0  0.6698838840934197  0.6714908216262556  0.9081583760859004  1.0000
+  Ag  Ag2       1.0  0.169826076985755  0.1591289598648  0.8931567365550338  1.0000
+  Pb  Pb1       1.0  0.669816359174342  0.07526628416398924  0.6760949906883633  1.0000
+  Pb  Pb2       1.0  0.6695976652648422  0.26740575394597244  0.16169086087831783  1.0000
+  Se  Se1       1.0  0.16998178799713348  0.9188854846038229  0.31034442502832665  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm4SnSe3
+_chemical_formula_sum              "Sm4 Sn1 Se3"
+_cell_length_a       6.030887058994079
+_cell_length_b       6.030992374691892
+_cell_length_c       6.030845932726424
+_cell_angle_alpha    89.9840661979335
+_cell_angle_beta     90.00534375123208
+_cell_angle_gamma    90.00773410048204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.8442527773168209  0.6220729376257764  0.9482990647386668  1.0000
+  Sm  Sm2       1.0  0.8445930609637232  0.12229501875152879  0.4482316464910539  1.0000
+  Sm  Sm3       1.0  0.3443099789407395  0.12241493484720467  0.9481343997429192  1.0000
+  Sm  Sm4       1.0  0.34409712382596963  0.6218757720193455  0.4484027275604022  1.0000
+  Sn  Sn1       1.0  0.3449680134280261  0.12185141912584052  0.4481891322131841  1.0000
+  Se  Se1       1.0  0.8443110228542334  0.12187074404135673  0.9483355147400666  1.0000
+  Se  Se2       1.0  0.34451488534402047  0.6222603687599254  0.9480486832179201  1.0000
+  Se  Se3       1.0  0.8446706816857263  0.6224998636611156  0.44857158518595214  1.0000

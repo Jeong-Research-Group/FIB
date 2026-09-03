@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TlLiTlPd2Pb
+_chemical_formula_sum              "Tl2 Li1 Pd2 Pb1"
+_cell_length_a       4.644997901847232
+_cell_length_b       4.643866613290556
+_cell_length_c       7.524970531463623
+_cell_angle_alpha    72.04281429027355
+_cell_angle_beta     72.05984100908772
+_cell_angle_gamma    59.938107599253684
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.2302185595035553  0.18307311832904816  0.7570785880088807  1.0000
+  Li  Li1       1.0  0.8098615407943727  0.7632552981376647  0.016560522839426935  1.0000
+  Tl  Tl2       1.0  0.08291847258806229  0.03613462299108505  0.19699822366237643  1.0000
+  Pd  Pd1       1.0  0.3725918233394623  0.32549670338630676  0.32791891694068914  1.0000
+  Pd  Pd2       1.0  0.5079782009124756  0.4617241322994232  0.9223164319992067  1.0000
+  Pb  Pb1       1.0  0.6495750546455383  0.6020539999008179  0.49871411919593817  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiTe3Pd2
+_chemical_formula_sum              "Ni1 Te3 Pd2"
+_cell_length_a       3.8157662906047225
+_cell_length_b       6.2931267137399125
+_cell_length_c       6.67829965675996
+_cell_angle_alpha    117.99523098500512
+_cell_angle_beta     106.53804434462064
+_cell_angle_gamma    90.05357600922355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8119707192120028  0.3136285517353566  0.3476080142316091  1.0000
+  Te  Te1       1.0  0.6398440223270586  0.8917671153296434  0.00461270273563863  1.0000
+  Te  Te2       1.0  0.2903922863411566  0.5427003299750675  0.3036098062566148  1.0000
+  Te  Te3       1.0  0.9924246056939752  0.2608932584855582  0.7103201718852271  1.0000
+  Pd  Pd1       1.0  0.9624252018325664  0.8091721805549201  0.6485725560205853  1.0000
+  Pd  Pd2       1.0  0.32881271158146264  0.010753985053624893  0.3828889629592985  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La3InH
+_chemical_formula_sum              "La3 In1 H1"
+_cell_length_a       5.126366117595193
+_cell_length_b       5.127603067227822
+_cell_length_c       5.127336492191323
+_cell_angle_alpha    89.91081146373111
+_cell_angle_beta     89.93418008910612
+_cell_angle_gamma    89.98438115635041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.38684766424411565  0.20191625545346015  0.3814239173468688  1.0000
+  La  La2       1.0  0.38646785873234896  0.7019633545743179  0.8814386676507849  1.0000
+  La  La3       1.0  0.8864222946438797  0.7012808419211632  0.38221147900640073  1.0000
+  In  In1       1.0  0.8869204591681434  0.20159701816552789  0.8816224693001427  1.0000
+  H   H1        1.0  0.38651263727359886  0.7011776217995487  0.38152989717037145  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2CoSi2Ge
+_chemical_formula_sum              "Ce2 Co1 Si2 Ge1"
+_cell_length_a       4.115818442333964
+_cell_length_b       4.048360574030753
+_cell_length_c       7.0610146839295025
+_cell_angle_alpha    89.9953227439452
+_cell_angle_beta     89.98745649853929
+_cell_angle_gamma    89.99964135425242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.20477689535356908  0.8070183000815357  0.046886918084946536  1.0000
+  Ce  Ce2       1.0  0.7044421442497018  0.8070814279491059  0.5740508963119156  1.0000
+  Co  Co1       1.0  0.20490599845878157  0.30746179538943064  0.7441284311565054  1.0000
+  Si  Si1       1.0  0.7047356150033293  0.30693869093714443  0.8897828613088612  1.0000
+  Si  Si2       1.0  0.7045630667384225  0.3069478403581331  0.22320937229354776  1.0000
+  Ge  Ge1       1.0  0.20471712754421287  0.3070705139887751  0.4103572948596312  1.0000

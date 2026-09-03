@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2ScGaN
+_chemical_formula_sum              "Zr2 Sc1 Ga1 N1"
+_cell_length_a       4.359968677094245
+_cell_length_b       4.46970390290728
+_cell_length_c       4.470904551665774
+_cell_angle_alpha    90.00724441344899
+_cell_angle_beta     90.00147483108384
+_cell_angle_gamma    89.998054247255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7839124557935092  0.008101929736366302  0.8206291220889292  1.0000
+  Zr  Zr2       1.0  0.7840182273081346  0.5084306998799911  0.3206645696981307  1.0000
+  Sc  Sc1       1.0  0.28386937012626623  0.00841974351925397  0.32071549573428715  1.0000
+  Ga  Ga1       1.0  0.28441518331800714  0.5082798215484315  0.8205996746196055  1.0000
+  N   N1        1.0  0.7844302373633395  0.008216359714297853  0.32078117539147366  1.0000

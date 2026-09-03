@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaAg2Au
+_chemical_formula_sum              "Ga1 Ag2 Au1"
+_cell_length_a       3.0723729579836436
+_cell_length_b       3.943215228381677
+_cell_length_c       5.880667447957992
+_cell_angle_alpha    89.97015382346281
+_cell_angle_beta     90.0815067818993
+_cell_angle_gamma    89.97467800490455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7245284086204073  0.0065123443266414905  0.4331231332009073  1.0000
+  Ag  Ag1       1.0  0.22389859495378006  0.5063671382389369  0.6908879546272791  1.0000
+  Ag  Ag2       1.0  0.724736899910427  0.006409871055223904  0.9367202468382111  1.0000
+  Au  Au1       1.0  0.22562463695002621  0.5063512203762215  0.20106186205420712  1.0000

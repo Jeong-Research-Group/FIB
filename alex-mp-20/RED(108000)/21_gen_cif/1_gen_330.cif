@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hf2Tl2Cu
+_chemical_formula_sum              "Hf2 Tl2 Cu1"
+_cell_length_a       3.2080550412941062
+_cell_length_b       4.424940471312584
+_cell_length_c       7.553290739302729
+_cell_angle_alpha    107.05526703372901
+_cell_angle_beta     89.92147908609603
+_cell_angle_gamma    90.00349102561238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6745150715483218  0.4995843994376775  0.07605321925672766  1.0000
+  Hf  Hf2       1.0  0.6748969514671176  0.2735313493516992  0.6246991160913025  1.0000
+  Tl  Tl1       1.0  0.17399042725326977  0.8910158609484724  0.8589661287864642  1.0000
+  Tl  Tl2       1.0  0.17494775765431103  0.6798899636657151  0.4373471996135904  1.0000
+  Cu  Cu1       1.0  0.17437581479232864  0.07684130315642439  0.23156653316871917  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaFe2W
+_chemical_formula_sum              "Ga1 Fe2 W1"
+_cell_length_a       3.0271169090750925
+_cell_length_b       4.113797060304824
+_cell_length_c       4.115013599395752
+_cell_angle_alpha    89.95439732995222
+_cell_angle_beta     89.97159574503732
+_cell_angle_gamma    90.00356103335088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3461073626807711  0.6869380475482407  0.2726167130518247  1.0000
+  Fe  Fe1       1.0  0.84672701258791  0.1864813852609033  0.27270805951118465  1.0000
+  Fe  Fe2       1.0  0.8456395859528284  0.6870697142699292  0.7728098638062065  1.0000
+  W   W1        1.0  0.3464745871707157  0.18656027347504456  0.772837282416685  1.0000

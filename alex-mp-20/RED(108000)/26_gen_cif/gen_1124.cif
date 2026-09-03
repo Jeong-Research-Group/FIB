@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdHg2RbHg3
+_chemical_formula_sum              "Pd1 Hg5 Rb1"
+_cell_length_a       5.02727607685258
+_cell_length_b       6.901751550705967
+_cell_length_c       6.975081443786621
+_cell_angle_alpha    70.30025315763258
+_cell_angle_beta     68.93082122248686
+_cell_angle_gamma    68.69975069611637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.22873523831367493  0.7837530970573425  0.4992566108703614  1.0000
+  Hg  Hg1       1.0  0.715292751789093  0.9904703497886658  0.31939113140106207  1.0000
+  Hg  Hg2       1.0  0.9572421908378601  0.05061928182840347  0.7778922915458679  1.0000
+  Rb  Rb1       1.0  0.08197528123855591  0.42858517169952387  0.1481471508741379  1.0000
+  Hg  Hg3       1.0  0.4118545353412628  0.33751907944679255  0.5794203877449036  1.0000
+  Hg  Hg4       1.0  0.4135936498641968  0.8563160300254822  0.05750514566898352  1.0000
+  Hg  Hg5       1.0  0.7130398750305175  0.605807900428772  0.7069514393806458  1.0000

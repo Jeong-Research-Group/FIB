@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba3AgHgN
+_chemical_formula_sum              "Ba3 Ag1 Hg1 N1"
+_cell_length_a       5.3135325509211695
+_cell_length_b       5.302496576785875
+_cell_length_c       7.462885883755837
+_cell_angle_alpha    90.02601951242231
+_cell_angle_beta     90.05131187665967
+_cell_angle_gamma    90.00000778946423
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9314678570917626  0.39622042338179286  0.05927611660287854  1.0000
+  Ba  Ba2       1.0  0.9318405692282027  0.8964469563570422  0.4998178037594351  1.0000
+  Ba  Ba3       1.0  0.4314705493551354  0.8963567957504169  0.060839599900365984  1.0000
+  Ag  Ag1       1.0  0.4318696159637177  0.39672292821818567  0.369364456561629  1.0000
+  Hg  Hg1       1.0  0.43088643172395846  0.3962141344728378  0.7469676863576938  1.0000
+  N   N1        1.0  0.931184849923412  0.8958656606942741  0.16747895691605708  1.0000

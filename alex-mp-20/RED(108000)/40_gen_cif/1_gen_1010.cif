@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbBaSr2H
+_chemical_formula_sum              "Rb1 Ba1 Sr2 H1"
+_cell_length_a       5.993220718101986
+_cell_length_b       5.99124749318822
+_cell_length_c       6.436967891639594
+_cell_angle_alpha    89.99995435500809
+_cell_angle_beta     90.0009362412967
+_cell_angle_gamma    89.99853492166778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6924464767270947  0.48897178699859334  0.34236105567645864  1.0000
+  Ba  Ba1       1.0  0.19165053383274927  0.988334742087567  0.34265440265845876  1.0000
+  Sr  Sr1       1.0  0.19291261569022694  0.48841824102963133  0.8428941939583317  1.0000
+  Sr  Sr2       1.0  0.6917854241493019  0.9889185171034759  0.8429020141454291  1.0000
+  H   H1        1.0  0.192478812393183  0.9882891389541809  0.8418897455971043  1.0000

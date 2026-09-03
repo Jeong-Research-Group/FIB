@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4HgCS2
+_chemical_formula_sum              "Pr4 Hg1 C1 S2"
+_cell_length_a       4.053400051106283
+_cell_length_b       7.108530546182676
+_cell_length_c       7.383503945059792
+_cell_angle_alpha    108.64622600661319
+_cell_angle_beta     89.99559979589824
+_cell_angle_gamma    90.0044779127965
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5281419389678039  0.3668510326884205  0.3016124592455523  1.0000
+  Pr  Pr2       1.0  0.028095626415574247  0.8894011701484972  0.2969144245406273  1.0000
+  Pr  Pr3       1.0  0.528092757843826  0.8766360904248567  0.7316294895693348  1.0000
+  Pr  Pr4       1.0  0.027759784988411845  0.35382393089637915  0.7358052993005303  1.0000
+  Hg  Hg1       1.0  0.028140677701557173  0.12190180372587238  0.016589345862122677  1.0000
+  C   C1        1.0  0.5280639840800716  0.12158860627141392  0.5161447986203921  1.0000
+  S   S1        1.0  0.02796353706171826  0.6217641203746559  0.5165409624042492  1.0000
+  S   S2        1.0  0.5279075989356595  0.6213900740854387  0.016391902579327444  1.0000

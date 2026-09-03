@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2H2Cl3
+_chemical_formula_sum              "Tb2 H2 Cl3"
+_cell_length_a       3.8422371224175564
+_cell_length_b       5.911039173568221
+_cell_length_c       7.080901683125402
+_cell_angle_alpha    99.25544725822606
+_cell_angle_beta     105.67658716392685
+_cell_angle_gamma    90.01401577355348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.16305693794031934  0.3797808471379387  0.06999739172098751  1.0000
+  Tb  Tb2       1.0  0.5391940649844804  0.7925855427234817  0.8212110644053412  1.0000
+  H   H1        1.0  0.073169701504983  0.6411837867313509  0.8893340563702522  1.0000
+  H   H2        1.0  0.6275305045699561  0.5282152477845566  0.998427137413404  1.0000
+  Cl  Cl1       1.0  0.35045847626192367  0.5898833285057862  0.44433611435356796  1.0000
+  Cl  Cl2       1.0  0.7171681586183463  0.08022557066240697  0.17907269206064322  1.0000
+  Cl  Cl3       1.0  0.9849338239829661  0.09217047310509494  0.7122330291172962  1.0000

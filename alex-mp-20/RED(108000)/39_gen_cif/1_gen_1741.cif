@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4BiS3
+_chemical_formula_sum              "Tb4 Bi1 S3"
+_cell_length_a       4.043749474915865
+_cell_length_b       7.080768073402664
+_cell_length_c       7.0797483393705525
+_cell_angle_alpha    109.13213496194214
+_cell_angle_beta     89.9980675441262
+_cell_angle_gamma    90.00022641290957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.02191081400661561  0.9573867129703563  0.6165919698891437  1.0000
+  Tb  Tb2       1.0  0.521589923939524  0.9435577764220823  0.07638196199799266  1.0000
+  Tb  Tb3       1.0  0.5218518487473625  0.4175653030040071  0.6034632897848565  1.0000
+  Tb  Tb4       1.0  0.021719548593275878  0.40486254488308887  0.06206972603419065  1.0000
+  Bi  Bi1       1.0  0.5216701378763859  0.6805133337738996  0.3400885293906834  1.0000
+  S   S1        1.0  0.5217724075480296  0.18085217604736475  0.8398678746452871  1.0000
+  S   S2        1.0  0.02154369168959485  0.6809759087887295  0.8397273797904613  1.0000
+  S   S3        1.0  0.0218104183991597  0.18088937902769403  0.33954484370150895  1.0000

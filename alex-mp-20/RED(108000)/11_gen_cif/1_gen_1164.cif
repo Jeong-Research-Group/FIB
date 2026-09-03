@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       In3SnHg2
+_chemical_formula_sum              "In3 Sn1 Hg2"
+_cell_length_a       4.006523229221155
+_cell_length_b       4.006560719270249
+_cell_length_c       10.532361085294578
+_cell_angle_alpha    90.15506287336675
+_cell_angle_beta     90.03768180102266
+_cell_angle_gamma    90.0044078945703
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.01499471363899012  0.4995712606411316  0.5863992275684867  1.0000
+  In  In2       1.0  0.5144879359767185  0.9991042442936354  0.7615296195415108  1.0000
+  In  In3       1.0  0.5142950540251696  0.000383255621370369  0.09603163902192004  1.0000
+  Sn  Sn1       1.0  0.014608606825141774  0.4995348517038191  0.924113354571247  1.0000
+  Hg  Hg1       1.0  0.5137759359332473  0.9993736539779485  0.42630438778970864  1.0000
+  Hg  Hg2       1.0  0.014312878749339644  0.5008551598035975  0.25744456830578  1.0000

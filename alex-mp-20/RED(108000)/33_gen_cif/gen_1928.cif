@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrP2NiPd
+_chemical_formula_sum              "Sr1 P2 Ni1 Pd1"
+_cell_length_a       4.157996704718481
+_cell_length_b       4.155147583067631
+_cell_length_c       5.747387409210205
+_cell_angle_alpha    111.25049461277048
+_cell_angle_beta     111.21358616303455
+_cell_angle_gamma    89.93579899403464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.46537977457046503  0.49291294813156133  0.815182626247406  1.0000
+  P   P1        1.0  0.8423541784286499  0.870241403579712  0.5710868835449219  1.0000
+  P   P2        1.0  0.08778209984302521  0.11473147571086884  0.0572509691119194  1.0000
+  Ni  Ni1       1.0  0.7145788669586182  0.24310889840126038  0.31482067704200745  1.0000
+  Pd  Pd1       1.0  0.2149345129728317  0.7421779632568359  0.3140116035938263  1.0000

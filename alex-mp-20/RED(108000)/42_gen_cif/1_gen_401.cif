@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgNiHPt2
+_chemical_formula_sum              "Mg1 Ni1 H1 Pt2"
+_cell_length_a       3.75446251408905
+_cell_length_b       4.019746132230572
+_cell_length_c       4.0196476302728605
+_cell_angle_alpha    89.9818757672243
+_cell_angle_beta     89.98708358901948
+_cell_angle_gamma    90.00980507053183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8557027953326132  0.24847945114254227  0.8327140963034997  1.0000
+  Ni  Ni1       1.0  0.8557243124969864  0.7485382273882606  0.3326359225394322  1.0000
+  H   H1        1.0  0.35570577733795034  0.7483642211625957  0.33261566544018595  1.0000
+  Pt  Pt1       1.0  0.3559116131188985  0.7484269757495012  0.8326380503885655  1.0000
+  Pt  Pt2       1.0  0.3558120186436007  0.2484354439506779  0.3327014578792367  1.0000

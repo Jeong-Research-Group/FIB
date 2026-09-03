@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4C2SeS
+_chemical_formula_sum              "Tb4 C2 Se1 S1"
+_cell_length_a       5.453148052163688
+_cell_length_b       5.408383170039464
+_cell_length_c       5.4531403997747
+_cell_angle_alpha    90.00070433915063
+_cell_angle_beta     89.99991765468883
+_cell_angle_gamma    89.99975575717457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4841589154822492  0.5462134996468168  0.7603576335292848  1.0000
+  Tb  Tb2       1.0  0.4833475299883516  0.04497117143635441  0.2603035346171351  1.0000
+  Tb  Tb3       1.0  0.9835205585516726  0.04470336753436586  0.7606499305316385  1.0000
+  Tb  Tb4       1.0  0.9835125672927247  0.5463184371179333  0.260133533681196  1.0000
+  C   C1        1.0  0.9835521677894017  0.5481866233176528  0.7605919595872737  1.0000
+  C   C2        1.0  0.4834094438651549  0.5475555018795455  0.2600793961840179  1.0000
+  Se  Se1       1.0  0.98335480913101  0.04656940673831746  0.260987170122902  1.0000
+  S   S1        1.0  0.48363053005262885  0.04645433772329657  0.7603401237727653  1.0000

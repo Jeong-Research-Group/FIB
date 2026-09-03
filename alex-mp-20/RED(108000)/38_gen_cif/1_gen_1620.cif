@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tl2InBi
+_chemical_formula_sum              "Tl2 In1 Bi1"
+_cell_length_a       4.842056294011727
+_cell_length_b       4.845683408230347
+_cell_length_c       6.424860761119887
+_cell_angle_alpha    112.3516677242924
+_cell_angle_beta     112.27077860439667
+_cell_angle_gamma    90.010030641048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.3057407752130707  0.4306115071876417  0.004819073051927938  1.0000
+  Tl  Tl2       1.0  0.8059206605399719  0.9306301853560639  0.0045816618469577955  1.0000
+  In  In1       1.0  0.05603262746710721  0.6800690400069002  0.5041433477304943  1.0000
+  Bi  Bi1       1.0  0.556167547125215  0.18033727372548494  0.5044763637804801  1.0000

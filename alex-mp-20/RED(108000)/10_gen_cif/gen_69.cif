@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2Ga2PtPd2Pt
+_chemical_formula_sum              "Sm2 Ga2 Pt2 Pd2"
+_cell_length_a       4.354812145727266
+_cell_length_b       5.427047538283221
+_cell_length_c       6.775959491729736
+_cell_angle_alpha    90.45798722342087
+_cell_angle_beta     90.00086310834293
+_cell_angle_gamma    90.03089545278517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.035572782158851624  0.026986120268702507  0.06772065907716751  1.0000
+  Sm  Sm2       1.0  0.5348588228225708  0.7063710093498229  0.5847099423408508  1.0000
+  Ga  Ga1       1.0  0.5352296233177185  0.5363991260528564  0.07836705446243286  1.0000
+  Ga  Ga2       1.0  0.03541511297225952  0.1961526721715927  0.5737403035163879  1.0000
+  Pt  Pt1       1.0  0.03513078764081001  0.5285811424255371  0.8682462573051454  1.0000
+  Pd  Pd1       1.0  0.5354261994361877  0.2003445327281952  0.3616333305835724  1.0000
+  Pd  Pd2       1.0  0.035337183624506  0.5325576066970825  0.2909112870693207  1.0000
+  Pt  Pt2       1.0  0.535258948802948  0.20523995161056519  0.7840668559074402  1.0000

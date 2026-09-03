@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs3Ga2As2H
+_chemical_formula_sum              "Cs3 Ga2 As2 H1"
+_cell_length_a       6.697369549702824
+_cell_length_b       7.183164542242984
+_cell_length_c       6.996467553479889
+_cell_angle_alpha    101.69254109027753
+_cell_angle_beta     90.36646100941758
+_cell_angle_gamma    117.62492433870848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.6206893745293942  0.4925480456798146  0.18821312062993292  1.0000
+  Cs  Cs2       1.0  0.8959537716357253  0.03895815018064179  0.9176768264666936  1.0000
+  Cs  Cs3       1.0  0.1708895729302079  0.5861869413921371  0.646533459022799  1.0000
+  Ga  Ga1       1.0  0.16928471557116687  0.03774191452285215  0.4203737577977209  1.0000
+  Ga  Ga2       1.0  0.6227450779741386  0.04089847436183069  0.41453031260959594  1.0000
+  As  As1       1.0  0.5167404725192893  0.2757331398208562  0.6575414949906064  1.0000
+  As  As2       1.0  0.275463655440316  0.8022549958294669  0.17769521105772568  1.0000
+  H   H1        1.0  0.8925687889222388  0.039256014330669387  0.41760870736566846  1.0000

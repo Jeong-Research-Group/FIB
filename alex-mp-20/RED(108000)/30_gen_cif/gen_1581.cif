@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2SiLaErSi
+_chemical_formula_sum              "Li2 Si2 La1 Er1"
+_cell_length_a       4.447956085371811
+_cell_length_b       4.447379121505068
+_cell_length_c       7.396775245666504
+_cell_angle_alpha    90.00369763679444
+_cell_angle_beta     89.99950390067433
+_cell_angle_gamma    60.07693781277147
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8487892746925354  0.33886680006980896  0.8707917332649231  1.0000
+  Li  Li2       1.0  0.5149834752082825  0.0050621023401618  0.4592541456222534  1.0000
+  Si  Si1       1.0  0.5150176286697388  0.005777809768915176  0.8903516530990601  1.0000
+  La  La1       1.0  0.18123976886272433  0.6718167662620544  0.1648934930562973  1.0000
+  Er  Er1       1.0  0.1817062944173813  0.6720782518386841  0.6643455028533936  1.0000
+  Si  Si2       1.0  0.8483479022979736  0.3385452628135681  0.43799638748168945  1.0000

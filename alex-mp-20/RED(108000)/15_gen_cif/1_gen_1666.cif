@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Nb2InC
+_chemical_formula_sum              "Nb2 In1 C1"
+_cell_length_a       3.208665359036648
+_cell_length_b       3.20961148566345
+_cell_length_c       7.474677472296116
+_cell_angle_alpha    77.58335967646104
+_cell_angle_beta     77.60384844939726
+_cell_angle_gamma    60.00963199906595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2307803398105372  0.6784868780697174  0.545247099743144  1.0000
+  Nb  Nb2       1.0  0.6732120135495474  0.1212887132108479  0.21759275226190905  1.0000
+  In  In1       1.0  0.45303532958510684  0.8998524685566639  0.8815770051336  1.0000
+  C   C1        1.0  0.9520379839781064  0.3998827842931471  0.3813300237635898  1.0000

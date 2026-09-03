@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb2Rh2YbPb2
+_chemical_formula_sum              "Pb4 Rh2 Yb1"
+_cell_length_a       4.425664257801772
+_cell_length_b       5.815089986194023
+_cell_length_c       7.693070888519287
+_cell_angle_alpha    110.83049355671398
+_cell_angle_beta     90.08262046417781
+_cell_angle_gamma    112.2682845063892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2701109051704407  0.13192135095596313  0.12938089668750763  1.0000
+  Pb  Pb2       1.0  0.13613077998161316  0.8645465970039368  0.6766362190246582  1.0000
+  Rh  Rh1       1.0  0.894181489944458  0.3792009651660919  0.34058746695518494  1.0000
+  Rh  Rh2       1.0  0.6387467980384827  0.8690750002861023  0.9344024658203125  1.0000
+  Yb  Yb1       1.0  0.9253075122833252  0.44082716107368475  0.932884693145752  1.0000
+  Pb  Pb3       1.0  0.40290743112564087  0.3979002833366394  0.5944281816482544  1.0000
+  Pb  Pb4       1.0  0.6058080792427064  0.8021230697631837  0.3065948784351349  1.0000

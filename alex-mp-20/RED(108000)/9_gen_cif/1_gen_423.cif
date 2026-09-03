@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Si2IrRh
+_chemical_formula_sum              "Hf2 Si2 Ir1 Rh1"
+_cell_length_a       4.267232918388569
+_cell_length_b       4.267110306504644
+_cell_length_c       6.181337579234803
+_cell_angle_alpha    89.99951582455918
+_cell_angle_beta     90.00008423696966
+_cell_angle_gamma    120.0067080923984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.4557208473954777  0.796538233813111  0.5092412094757515  1.0000
+  Hf  Hf2       1.0  0.45569803457398844  0.7965633683988746  0.008290466184928591  1.0000
+  Si  Si1       1.0  0.789000604603469  0.4630026434415348  0.24547682698023612  1.0000
+  Si  Si2       1.0  0.7890184774826899  0.4630275122935888  0.7708610936321215  1.0000
+  Ir  Ir1       1.0  0.12226690114919986  0.12991398228351334  0.7505633287199501  1.0000
+  Rh  Rh1       1.0  0.12232537898585884  0.12986379164109302  0.2647055830148904  1.0000

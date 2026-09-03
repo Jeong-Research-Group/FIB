@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtSiPtCu2Ni
+_chemical_formula_sum              "Pt2 Si1 Cu2 Ni1"
+_cell_length_a       3.8267754012300452
+_cell_length_b       3.608533895501578
+_cell_length_c       5.932101249694824
+_cell_angle_alpha    90.03055394139918
+_cell_angle_beta     108.81660618200193
+_cell_angle_gamma    90.03510284719745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.567399799823761  0.1836781799793243  0.5398070216178894  1.0000
+  Si  Si1       1.0  0.41111883521080017  0.6841167211532592  0.2262283563613892  1.0000
+  Pt  Pt2       1.0  0.2547958791255951  0.1844320148229599  0.9120948910713197  1.0000
+  Cu  Cu1       1.0  0.7492574453353882  0.6842799186706542  0.9023712873458863  1.0000
+  Cu  Cu2       1.0  0.07429524511098862  0.6839076280593871  0.5522927641868591  1.0000
+  Ni  Ni1       1.0  0.9110364317893982  0.18445655703544614  0.22613424062728885  1.0000

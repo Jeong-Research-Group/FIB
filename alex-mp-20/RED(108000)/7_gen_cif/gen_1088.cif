@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2Ir2Sm2Cl2
+_chemical_formula_sum              "Sm4 Ir2 Cl2"
+_cell_length_a       4.0687710602189355
+_cell_length_b       7.048304240403658
+_cell_length_c       7.8566203117370605
+_cell_angle_alpha    107.60987462972014
+_cell_angle_beta     90.10513959506072
+_cell_angle_gamma    90.08665712723568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.47551295161247253  0.1764532625675201  0.0714167058467865  1.0000
+  Sm  Sm2       1.0  0.47486382722854614  0.6458126902580261  0.47703349590301514  1.0000
+  Ir  Ir1       1.0  0.47547468543052673  0.9111925959587096  0.2741890549659729  1.0000
+  Ir  Ir2       1.0  0.9753241539001465  0.41102239489555353  0.2742360234260559  1.0000
+  Sm  Sm3       1.0  0.9757114052772522  0.6760817766189575  0.07095164060592654  1.0000
+  Sm  Sm4       1.0  0.97542405128479  0.1459774225950241  0.477681964635849  1.0000
+  Cl  Cl1       1.0  0.9752400517463684  0.9108139872550963  0.7741013169288635  1.0000
+  Cl  Cl2       1.0  0.47520408034324646  0.4105404317378997  0.774170994758606  1.0000

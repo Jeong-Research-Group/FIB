@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbHgPbCd
+_chemical_formula_sum              "Pb2 Hg1 Cd1"
+_cell_length_a       3.585839512554518
+_cell_length_b       3.9729663347792297
+_cell_length_c       8.017837524414062
+_cell_angle_alpha    89.92956959377413
+_cell_angle_beta     89.94467797262506
+_cell_angle_gamma    89.88561050095956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5966145992279053  0.9622424244880675  0.07810848206281662  1.0000
+  Hg  Hg1       1.0  0.5970662832260132  0.9627983570098877  0.5332123637199402  1.0000
+  Pb  Pb2       1.0  0.09671468287706375  0.46308708190917963  0.7848432660102844  1.0000
+  Cd  Cd1       1.0  0.09689854830503464  0.46235767006874084  0.33231931924819946  1.0000

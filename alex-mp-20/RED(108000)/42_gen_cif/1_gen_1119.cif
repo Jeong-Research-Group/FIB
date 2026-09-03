@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd3GeIr2
+_chemical_formula_sum              "Cd3 Ge1 Ir2"
+_cell_length_a       3.966595873144749
+_cell_length_b       4.8514222661444775
+_cell_length_c       7.177646770984198
+_cell_angle_alpha    109.75050707738632
+_cell_angle_beta     106.0498825670701
+_cell_angle_gamma    90.00041726400933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5916839465165425  0.34556261794331006  0.2853994769843139  1.0000
+  Cd  Cd2       1.0  0.8253635864104542  0.5791130415377684  0.7526379677480993  1.0000
+  Cd  Cd3       1.0  0.3583558332126137  0.11166331269608541  0.8175482599561004  1.0000
+  Ge  Ge1       1.0  0.0913316381067733  0.8453672868337142  0.28496681185112926  1.0000
+  Ir  Ir1       1.0  0.7016946620654368  0.955637803264095  0.5057508736887824  1.0000
+  Ir  Ir2       1.0  0.4811429195491848  0.735066028842737  0.0643146509253702  1.0000

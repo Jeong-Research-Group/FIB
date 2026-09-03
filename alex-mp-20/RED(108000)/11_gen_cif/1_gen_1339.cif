@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiPt2Rh
+_chemical_formula_sum              "Li1 Pt2 Rh1"
+_cell_length_a       3.8548238649277993
+_cell_length_b       3.855239102032754
+_cell_length_c       3.8618622707642647
+_cell_angle_alpha    90.01726748275398
+_cell_angle_beta     90.01121794493882
+_cell_angle_gamma    90.02120605944155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7996863866529863  0.9154502597618775  0.8052902223258037  1.0000
+  Pt  Pt1       1.0  0.3002763022366413  0.9152150996357713  0.3063123681104344  1.0000
+  Pt  Pt2       1.0  0.8003798286093782  0.41539914396199884  0.30587728949178267  1.0000
+  Rh  Rh1       1.0  0.30029661147644104  0.41542656269364997  0.806563670743839  1.0000

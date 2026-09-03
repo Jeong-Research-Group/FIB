@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2SmAlC
+_chemical_formula_sum              "Pr2 Sm1 Al1 C1"
+_cell_length_a       5.145891791948086
+_cell_length_b       5.016030178482091
+_cell_length_c       5.1474067775382695
+_cell_angle_alpha    89.99666942039771
+_cell_angle_beta     89.991334446473
+_cell_angle_gamma    89.9889890505861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7529118091364921  0.10537758965185143  0.7227620115547023  1.0000
+  Pr  Pr2       1.0  0.2530155844737859  0.10533359170818499  0.22304771798805828  1.0000
+  Sm  Sm1       1.0  0.2527125496374604  0.6053535464481273  0.7229097394328711  1.0000
+  Al  Al1       1.0  0.7527511160854599  0.6052501962594224  0.22294393117484965  1.0000
+  C   C1        1.0  0.25285018987279806  0.10520184083438727  0.7229896928008808  1.0000

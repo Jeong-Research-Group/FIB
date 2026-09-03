@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li4CdHg
+_chemical_formula_sum              "Li4 Cd1 Hg1"
+_cell_length_a       3.063218186874159
+_cell_length_b       4.751527182215835
+_cell_length_c       7.778250761063861
+_cell_angle_alpha    90.02916156554785
+_cell_angle_beta     101.36446782233459
+_cell_angle_gamma    89.99611500005132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9503904193952334  0.22345349859196362  0.7434979702691468  1.0000
+  Li  Li2       1.0  0.397561200835182  0.7220030374106331  0.6373230836902937  1.0000
+  Li  Li3       1.0  0.6167606535809919  0.22225550445409264  0.07587590732265544  1.0000
+  Li  Li4       1.0  0.7220667481991047  0.7209822021911299  0.288207471632651  1.0000
+  Cd  Cd1       1.0  0.2860323524772194  0.22081375734997347  0.4160682300783352  1.0000
+  Hg  Hg1       1.0  0.05760942482295777  0.7242395039553596  0.9574332021548587  1.0000

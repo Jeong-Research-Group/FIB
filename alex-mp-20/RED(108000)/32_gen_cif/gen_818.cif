@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2GaNiCoNi
+_chemical_formula_sum              "Nd2 Ga1 Ni2 Co1"
+_cell_length_a       4.1153006825269145
+_cell_length_b       4.114317035277945
+_cell_length_c       8.021712303161621
+_cell_angle_alpha    89.96979257701776
+_cell_angle_beta     89.97164355903983
+_cell_angle_gamma    119.86972582228876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.5580800771713257  0.8885639905929564  0.11338954418897629  1.0000
+  Nd  Nd2       1.0  0.5579357147216797  0.888730227947235  0.641446590423584  1.0000
+  Ga  Ga1       1.0  0.8910134434700012  0.5554535388946533  0.37808758020401  1.0000
+  Ni  Ni1       1.0  0.891512930393219  0.5559558868408203  0.877166211605072  1.0000
+  Co  Co1       1.0  0.22463281452655792  0.22192122042179105  0.877558171749115  1.0000
+  Ni  Ni2       1.0  0.22380255162715912  0.22234664857387543  0.3764927387237549  1.0000

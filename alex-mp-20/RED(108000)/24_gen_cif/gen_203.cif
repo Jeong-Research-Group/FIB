@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb2InGaMgIn
+_chemical_formula_sum              "Pb2 In2 Ga1 Mg1"
+_cell_length_a       4.849522088457834
+_cell_length_b       5.6823336622611516
+_cell_length_c       6.630556583404541
+_cell_angle_alpha    105.75278188877847
+_cell_angle_beta     90.05047760297744
+_cell_angle_gamma    115.2306056737547
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5519870519638063  0.9408677220344545  0.5119236707687378  1.0000
+  Pb  Pb2       1.0  0.8795152902603149  0.5967422723770142  0.15357793867588043  1.0000
+  In  In1       1.0  0.21546877920627594  0.2686191499233246  0.8335744738578795  1.0000
+  Ga  Ga1       1.0  0.5421949028968812  0.922577202320099  0.9928274154663085  1.0000
+  Mg  Mg1       1.0  0.887524425983429  0.6119688153266907  0.671112835407257  1.0000
+  In  In2       1.0  0.21470309793949127  0.2672846019268036  0.3306393921375274  1.0000

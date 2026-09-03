@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaNiH3
+_chemical_formula_sum              "La1 Ni1 H3"
+_cell_length_a       3.6780683885666376
+_cell_length_b       3.67530045235302
+_cell_length_c       3.6849794387817383
+_cell_angle_alpha    90.07828330273377
+_cell_angle_beta     90.14726139423784
+_cell_angle_gamma    90.04216526405946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7322180258790498  0.5035078538954624  0.9724273686619657  1.0000
+  Ni  Ni1       1.0  0.23216082099485266  0.0040352341501206975  0.4724286495780234  1.0000
+  H   H1        1.0  0.732209922007204  0.004052280396112456  0.4726572921683441  1.0000
+  H   H2        1.0  0.23228541145374426  0.5035070784477198  0.47284883343959255  1.0000
+  H   H3        1.0  0.23210516673347323  0.003888231025069977  0.9712871903743124  1.0000

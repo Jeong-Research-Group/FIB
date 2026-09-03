@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KNa2InBr
+_chemical_formula_sum              "K1 Na2 In1 Br1"
+_cell_length_a       5.708793805843984
+_cell_length_b       5.70835268139199
+_cell_length_c       6.127097684486431
+_cell_angle_alpha    89.999037206554
+_cell_angle_beta     90.0121219961058
+_cell_angle_gamma    89.94008021340804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.2623832526659059  0.06346876116821812  0.03681727160530047  1.0000
+  Na  Na1       1.0  0.26034944703405644  0.5638824137357347  0.5352481684946749  1.0000
+  Na  Na2       1.0  0.7622687461562501  0.06548762212275128  0.5357065805609428  1.0000
+  In  In1       1.0  0.7622446714098229  0.5645449355807183  0.03715692741880464  1.0000
+  Br  Br1       1.0  0.26293517108706954  0.06392627303896939  0.5374790969194893  1.0000

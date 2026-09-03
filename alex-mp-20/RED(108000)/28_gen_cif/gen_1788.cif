@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaPdLaMg2Pd
+_chemical_formula_sum              "La2 Pd2 Mg2"
+_cell_length_a       4.290648072243017
+_cell_length_b       4.286454240237679
+_cell_length_c       7.98253870010376
+_cell_angle_alpha    90.02812239512548
+_cell_angle_beta     89.98835020223666
+_cell_angle_gamma    89.97757899293993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.1403876096010208  0.23812437057495117  0.17226292192935944  1.0000
+  Pd  Pd1       1.0  0.6393298506736755  0.7382743954658509  0.07187675684690475  1.0000
+  La  La2       1.0  0.6402158141136169  0.7378266453742981  0.4919091165065765  1.0000
+  Mg  Mg1       1.0  0.6405609250068665  0.23795187473297122  0.8321717381477355  1.0000
+  Mg  Mg2       1.0  0.13992150127887726  0.7379407286643982  0.8320528864860534  1.0000
+  Pd  Pd2       1.0  0.14043152332305908  0.2369898706674576  0.5923717617988586  1.0000

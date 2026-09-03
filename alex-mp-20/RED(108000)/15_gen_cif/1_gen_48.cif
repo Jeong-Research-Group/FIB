@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Ti2Sb2
+_chemical_formula_sum              "Ca2 Ti2 Sb2"
+_cell_length_a       4.3041957882405
+_cell_length_b       4.303354076336508
+_cell_length_c       8.074042669025719
+_cell_angle_alpha    90.01231196109745
+_cell_angle_beta     90.00398540690664
+_cell_angle_gamma    89.94660333600231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.43700636562738887  0.5592213045648909  0.008757354915490657  1.0000
+  Ca  Ca2       1.0  0.9362822912694422  0.05927440897247775  0.32948351671402365  1.0000
+  Ti  Ti1       1.0  0.9367343748192388  0.5592503979992538  0.6689141571966155  1.0000
+  Ti  Ti2       1.0  0.4365435708349709  0.059243963357433344  0.6689228082036015  1.0000
+  Sb  Sb1       1.0  0.9369912585238818  0.0592192710156116  0.909134308529545  1.0000
+  Sb  Sb2       1.0  0.43637595383762234  0.5593056633959493  0.42950758843991255  1.0000

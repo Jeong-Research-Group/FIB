@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlTiNbTiAlNb
+_chemical_formula_sum              "Al2 Ti2 Nb2"
+_cell_length_a       3.800859687596231
+_cell_length_b       4.107665347228909
+_cell_length_c       6.74514102935791
+_cell_angle_alpha    89.92908464570662
+_cell_angle_beta     106.40757175892824
+_cell_angle_gamma    90.01604661965578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5720077753067017  0.585838794708252  0.379128634929657  1.0000
+  Ti  Ti1       1.0  0.23630957305431363  0.5859959125518799  0.7082297801971436  1.0000
+  Nb  Nb1       1.0  0.9076192378997802  0.5857836008071899  0.05211542546749115  1.0000
+  Ti  Ti2       1.0  0.07653045654296875  0.08613669127225876  0.3888913094997406  1.0000
+  Al  Al2       1.0  0.7399094700813293  0.08561661839485168  0.7169680595397949  1.0000
+  Nb  Nb2       1.0  0.40416303277015686  0.08642841130495071  0.04317476227879524  1.0000

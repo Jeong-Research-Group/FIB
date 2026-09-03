@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2CuBi2Cu
+_chemical_formula_sum              "K2 Cu2 Bi2"
+_cell_length_a       4.5627032965587375
+_cell_length_b       4.6016762947544825
+_cell_length_c       9.408211708068848
+_cell_angle_alpha    75.91211502917436
+_cell_angle_beta     103.93884723212419
+_cell_angle_gamma    89.92169466943321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.6972731947898865  0.35946366190910345  0.11463480442762375  1.0000
+  K   K2        1.0  0.03354601562023163  0.0228083822876215  0.7857816219329834  1.0000
+  Cu  Cu1       1.0  0.36510559916496277  0.18973496556282043  0.45127856731414795  1.0000
+  Bi  Bi1       1.0  0.45497387647628784  0.6004968881607056  0.6323190331459045  1.0000
+  Bi  Bi2       1.0  0.2751040458679199  0.7810161113739014  0.2685992121696472  1.0000
+  Cu  Cu2       1.0  0.8639183044433595  0.6917444467544556  0.4499795734882355  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrGe2S3
+_chemical_formula_sum              "Cr1 Ge2 S3"
+_cell_length_a       3.710312589969629
+_cell_length_b       3.710376578082208
+_cell_length_c       9.45489222139138
+_cell_angle_alpha    89.99556869760795
+_cell_angle_beta     89.99926454077868
+_cell_angle_gamma    60.000068382573154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.5871203220744478  0.2231515400509024  0.9710297232764942  1.0000
+  Ge  Ge1       1.0  0.25300474572366033  0.8898529193058758  0.2977804068668947  1.0000
+  Ge  Ge2       1.0  0.920042238772124  0.5561240312152496  0.6439948835310778  1.0000
+  S   S1        1.0  0.9204552340053235  0.5564441784704499  0.11367252052298307  1.0000
+  S   S2        1.0  0.5868309229591094  0.22295325273829597  0.4711106931048052  1.0000
+  S   S3        1.0  0.25388213896587336  0.8898216330882348  0.8287834352122715  1.0000

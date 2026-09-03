@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdHg2Rh
+_chemical_formula_sum              "Cd1 Hg2 Rh1"
+_cell_length_a       4.15500509213724
+_cell_length_b       4.319924115384585
+_cell_length_c       4.319963433602031
+_cell_angle_alpha    89.98817693896933
+_cell_angle_beta     90.0013317495377
+_cell_angle_gamma    90.00618265777844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7015587801216328  0.44068522647376035  0.7506630531841318  1.0000
+  Hg  Hg1       1.0  0.20157867216984793  0.9406682387859523  0.7506028553201527  1.0000
+  Hg  Hg2       1.0  0.201568060793971  0.4405441418865668  0.2506179903671321  1.0000
+  Rh  Rh1       1.0  0.7015841442450579  0.9405246886462058  0.2506577609482614  1.0000

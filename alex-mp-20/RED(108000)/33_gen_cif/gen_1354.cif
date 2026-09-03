@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y2RhYRh2YGe
+_chemical_formula_sum              "Y4 Rh3 Ge1"
+_cell_length_a       3.940057753206612
+_cell_length_b       4.251481310211267
+_cell_length_c       10.660594940185547
+_cell_angle_alpha    89.96640480375927
+_cell_angle_beta     90.02814971538693
+_cell_angle_gamma    90.01924314757052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.29080769419670105  0.27497488260269165  0.3681187033653259  1.0000
+  Y   Y2        1.0  0.7904300689697266  0.27527326345443726  0.863055944442749  1.0000
+  Rh  Rh1       1.0  0.7910158634185791  0.7749162316322327  0.4264237582683563  1.0000
+  Y   Y3        1.0  0.7914145588874817  0.7751634120941162  0.15289287269115448  1.0000
+  Rh  Rh2       1.0  0.7901808619499207  0.27516734600067133  0.5902155637741089  1.0000
+  Rh  Rh3       1.0  0.29008400440216064  0.27582916617393494  0.08248279243707657  1.0000
+  Y   Y4        1.0  0.2907732129096985  0.7754080891609192  0.6426573395729065  1.0000
+  Ge  Ge1       1.0  0.29072490334510803  0.7758054137229919  0.9334961175918579  1.0000

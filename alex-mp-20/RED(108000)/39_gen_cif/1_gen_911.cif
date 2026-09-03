@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr3AgPd2
+_chemical_formula_sum              "Zr3 Ag1 Pd2"
+_cell_length_a       4.644227903199195
+_cell_length_b       4.666290631043161
+_cell_length_c       5.84804360653209
+_cell_angle_alpha    113.51402496509995
+_cell_angle_beta     90.00140051795798
+_cell_angle_gamma    89.99925532615438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8494700275585244  0.32359362879011855  0.3405580549524227  1.0000
+  Zr  Zr2       1.0  0.34947834899935604  0.8354096960002195  0.3641486751778815  1.0000
+  Zr  Zr3       1.0  0.34949532255191784  0.5216769854256645  0.7367240099855104  1.0000
+  Ag  Ag1       1.0  0.8494676752346675  0.010645586508750977  0.7147772328183725  1.0000
+  Pd  Pd1       1.0  0.3494951310708277  0.17680289649572947  0.04704928893447816  1.0000
+  Pd  Pd2       1.0  0.8494910647503625  0.6747551536759497  0.0431476278897009  1.0000

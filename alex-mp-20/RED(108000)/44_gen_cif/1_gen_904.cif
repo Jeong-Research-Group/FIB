@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tl3HRh
+_chemical_formula_sum              "Tl3 H1 Rh1"
+_cell_length_a       3.3668786827573345
+_cell_length_b       5.722117283646872
+_cell_length_c       5.707066222767931
+_cell_angle_alpha    105.56275368736203
+_cell_angle_beta     90.05499470510162
+_cell_angle_gamma    90.06455364106856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8002503476730076  0.3136482760841217  0.9305989652072991  1.0000
+  Tl  Tl2       1.0  0.801232958398362  0.9081545991361601  0.3363779511537076  1.0000
+  Tl  Tl3       1.0  0.3005035666459327  0.4544058282434213  0.476453888616143  1.0000
+  H   H1        1.0  0.3014023374351392  0.8723993426801107  0.8885798698836888  1.0000
+  Rh  Rh1       1.0  0.8011346014344879  0.8012687464755275  0.8225554466887893  1.0000

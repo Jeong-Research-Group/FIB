@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgSn2HgTe4
+_chemical_formula_sum              "Mg1 Sn2 Hg1 Te4"
+_cell_length_a       4.39981269039426
+_cell_length_b       7.667954519730288
+_cell_length_c       7.656440445444001
+_cell_angle_alpha    110.2756353296763
+_cell_angle_beta     90.00881709630359
+_cell_angle_gamma    90.00979857406926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7028984383623135  0.015990217863829006  0.6931172339677398  1.0000
+  Sn  Sn1       1.0  0.20286377211490525  0.5163788011556879  0.6933595159201277  1.0000
+  Sn  Sn2       1.0  0.70281252755014  0.5166124039952193  0.19299165298560908  1.0000
+  Hg  Hg1       1.0  0.2028371189749283  0.016787542760617696  0.19350136810446922  1.0000
+  Te  Te1       1.0  0.20276278838577938  0.25467415968226875  0.9287843997148294  1.0000
+  Te  Te2       1.0  0.7027668846456361  0.2550085361378318  0.44614365912562803  1.0000
+  Te  Te3       1.0  0.702630034111371  0.778227169530245  0.9411624354010509  1.0000
+  Te  Te4       1.0  0.20278817315508516  0.7784543459838393  0.4587081198279405  1.0000

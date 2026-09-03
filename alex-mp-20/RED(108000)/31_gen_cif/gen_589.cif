@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       S2FeAuS2Au
+_chemical_formula_sum              "S4 Fe1 Au2"
+_cell_length_a       3.5787416202850424
+_cell_length_b       4.8983395265554766
+_cell_length_c       7.714409828186035
+_cell_angle_alpha    111.40406714654196
+_cell_angle_beta     103.46571268766456
+_cell_angle_gamma    89.95512107331552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5518069863319397  0.8386330604553222  0.8756845593452453  1.0000
+  S   S2        1.0  0.952459216117859  0.2848326861858368  0.6760992407798766  1.0000
+  Fe  Fe1       1.0  0.09892022609710695  0.6220428943634033  0.9688193202018737  1.0000
+  Au  Au1       1.0  0.3886591792106629  0.8571516275405883  0.5531367063522338  1.0000
+  S   S3        1.0  0.24589200317859652  0.9577065706253052  0.26165664196014404  1.0000
+  S   S4        1.0  0.6452695727348329  0.4051231741905212  0.059631198644638055  1.0000
+  Au  Au2       1.0  0.8098421692848207  0.3857602179050445  0.3835963904857635  1.0000

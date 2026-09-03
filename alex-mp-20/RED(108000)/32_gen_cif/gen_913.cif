@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LuSnNiLuNi2SnNi
+_chemical_formula_sum              "Lu2 Sn2 Ni4"
+_cell_length_a       4.226857819650531
+_cell_length_b       5.36414737618876
+_cell_length_c       6.060645580291748
+_cell_angle_alpha    90.24565708374456
+_cell_angle_beta     90.0496648068492
+_cell_angle_gamma    89.9419936987959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.8105313181877136  0.4679681658744812  0.7781665921211243  1.0000
+  Sn  Sn1       1.0  0.310741662979126  0.7332621812820435  0.09753333777189255  1.0000
+  Ni  Ni1       1.0  0.810958206653595  0.7373000979423523  0.37355169653892517  1.0000
+  Lu  Lu2       1.0  0.3106123208999634  0.9662724733352661  0.6177295446395874  1.0000
+  Ni  Ni2       1.0  0.3103434145450592  0.2375488728284836  0.023899681866168983  1.0000
+  Ni  Ni3       1.0  0.31058260798454285  0.4665803015232087  0.45511722564697266  1.0000
+  Sn  Sn2       1.0  0.8103859424591064  0.23266592621803284  0.29937607049942017  1.0000
+  Ni  Ni4       1.0  0.8103960156440735  0.967145025730133  0.939361035823822  1.0000

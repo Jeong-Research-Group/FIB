@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaGe2Ir2
+_chemical_formula_sum              "Ga1 Ge2 Ir2"
+_cell_length_a       4.182496965551413
+_cell_length_b       4.182579398293095
+_cell_length_c       5.474947935162262
+_cell_angle_alpha    90.00075935035508
+_cell_angle_beta     90.00061028496224
+_cell_angle_gamma    119.99855186505648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9797312561791037  0.3569288652461059  0.10908572359834214  1.0000
+  Ge  Ge1       1.0  0.6463530521805609  0.6903584325744982  0.3866826688502561  1.0000
+  Ge  Ge2       1.0  0.31305392121687714  0.02362970568881736  0.7694021294655387  1.0000
+  Ir  Ir1       1.0  0.9796688729913181  0.3570780154779332  0.5709395589640806  1.0000
+  Ir  Ir2       1.0  0.6464027953080199  0.6902687728627521  0.9170974596065642  1.0000

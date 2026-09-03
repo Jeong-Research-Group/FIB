@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CoP2Ru
+_chemical_formula_sum              "Co1 P2 Ru1"
+_cell_length_a       2.8823228166455097
+_cell_length_b       3.4550923235753466
+_cell_length_c       5.059779254170726
+_cell_angle_alpha    89.999882211968
+_cell_angle_beta     90.00016541775321
+_cell_angle_gamma    90.0000008444232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7561787366539234  0.3280884498616472  0.9976729455737279  1.0000
+  P   P1        1.0  0.2561799129754112  0.8280829831201812  0.09248692768137755  1.0000
+  P   P2        1.0  0.7561534166694014  0.3281324850300979  0.454192512231324  1.0000
+  Ru  Ru1       1.0  0.256159487271375  0.8281332284434358  0.6229941250298571  1.0000

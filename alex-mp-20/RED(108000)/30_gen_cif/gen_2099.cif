@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2IrCu
+_chemical_formula_sum              "Lu2 Ir1 Cu1"
+_cell_length_a       3.334615878020674
+_cell_length_b       4.788585489719647
+_cell_length_c       4.789372444152832
+_cell_angle_alpha    89.96728589974553
+_cell_angle_beta     89.92584030846528
+_cell_angle_gamma    89.9250684951066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7494288682937622  0.6692215800285339  0.031978506594896317  1.0000
+  Lu  Lu2       1.0  0.7495186924934387  0.1692236065864563  0.5318045020103455  1.0000
+  Ir  Ir1       1.0  0.24934412539005282  0.1692754328250885  0.032037101686000824  1.0000
+  Cu  Cu1       1.0  0.24955743551254275  0.669154167175293  0.5322384238243103  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiSc2P2Pd
+_chemical_formula_sum              "Li1 Sc2 P2 Pd1"
+_cell_length_a       4.046878683423836
+_cell_length_b       4.046878497208904
+_cell_length_c       7.0425369304613525
+_cell_angle_alpha    90.00082392889819
+_cell_angle_beta     89.99945916177798
+_cell_angle_gamma    120.00220178792394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3647709336822289  0.4274429117681354  0.363336421491673  1.0000
+  Sc  Sc1       1.0  0.031478248956057525  0.7607564089149642  0.5806040523045378  1.0000
+  Sc  Sc2       1.0  0.36483093754209095  0.427400225871258  0.9573879614860246  1.0000
+  P   P1        1.0  0.698162357559067  0.09407724822940404  0.7490807654954412  1.0000
+  P   P2        1.0  0.031428103651771816  0.7607775006687253  0.18646419687422985  1.0000
+  Pd  Pd1       1.0  0.6981011576643418  0.09410148604247952  0.26896347219284006  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Rh2I2
+_chemical_formula_sum              "Sm2 Rh2 I2"
+_cell_length_a       4.248465832625732
+_cell_length_b       4.246693382936834
+_cell_length_c       12.650608849774038
+_cell_angle_alpha    89.85643221777363
+_cell_angle_beta     89.97851441375424
+_cell_angle_gamma    59.98703991177872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5863719845062499  0.6835354630203816  0.6169753038512191  1.0000
+  Sm  Sm2       1.0  0.25359263426740963  0.35183042081316845  0.2827833645352218  1.0000
+  Rh  Rh1       1.0  0.9209034790431707  0.016680879573376012  0.4644715302708922  1.0000
+  Rh  Rh2       1.0  0.5875342058344586  0.6838247019318484  0.40659207392048113  1.0000
+  I   I1        1.0  0.9193621907627317  0.020343235509925506  0.11605939525361128  1.0000
+  I   I2        1.0  0.2532804163082741  0.3491739845676448  0.7856601439626616  1.0000

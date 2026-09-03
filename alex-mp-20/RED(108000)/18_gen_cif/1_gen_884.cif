@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiLaGa2Pt
+_chemical_formula_sum              "Li1 La1 Ga2 Pt1"
+_cell_length_a       4.338904733184811
+_cell_length_b       4.336692299967512
+_cell_length_c       6.130156781983909
+_cell_angle_alpha    110.71891851759806
+_cell_angle_beta     110.72458684958521
+_cell_angle_gamma    89.99767976552361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3086527177582456  0.5984686558818018  0.034437383951165246  1.0000
+  La  La1       1.0  0.5581021653160746  0.34873798155704305  0.5342668258453128  1.0000
+  Ga  Ga1       1.0  0.9344575529291684  0.7253812612247504  0.28643047713825526  1.0000
+  Ga  Ga2       1.0  0.18152356678486944  0.9724911900717127  0.7819955554961411  1.0000
+  Pt  Pt1       1.0  0.807477597646468  0.09935669326263194  0.0340478603013486  1.0000

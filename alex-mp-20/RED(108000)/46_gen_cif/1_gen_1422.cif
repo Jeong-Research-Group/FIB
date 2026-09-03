@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaAs2IrOs
+_chemical_formula_sum              "Ba1 As2 Ir1 Os1"
+_cell_length_a       4.152263640201642
+_cell_length_b       4.152232997085947
+_cell_length_c       7.020114705339131
+_cell_angle_alpha    107.22151876763358
+_cell_angle_beta     107.22660233256244
+_cell_angle_gamma    90.00007446773496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8473881264408948  0.3353324986093465  0.2423853658955234  1.0000
+  As  As1       1.0  0.49289995607081044  0.9809522078253835  0.5334936146377748  1.0000
+  As  As2       1.0  0.20189344187642053  0.6903310504849414  0.9515063179720297  1.0000
+  Ir  Ir1       1.0  0.09755510738955749  0.08572542106773948  0.7425148184112978  1.0000
+  Os  Os1       1.0  0.5972381359377331  0.5856362438169962  0.7425249208396604  1.0000

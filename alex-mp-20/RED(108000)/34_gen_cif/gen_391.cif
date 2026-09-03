@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiOLiOLiMgO
+_chemical_formula_sum              "Li3 O3 Mg1"
+_cell_length_a       4.1470403108906355
+_cell_length_b       4.162533242512055
+_cell_length_c       4.136954307556152
+_cell_angle_alpha    89.88072690611034
+_cell_angle_beta     89.84006680125898
+_cell_angle_gamma    89.76113032071578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.21107731759548187  0.5330777168273926  0.04718492925167084  1.0000
+  O   O1        1.0  0.2114538848400116  0.5336703658103943  0.5473203063011169  1.0000
+  Li  Li2       1.0  0.21073515713214874  0.03357542306184769  0.5468833446502686  1.0000
+  O   O2        1.0  0.7115497589111328  0.5330837965011597  0.04723276197910309  1.0000
+  Li  Li3       1.0  0.7108851075172424  0.03305922448635101  0.047610804438591  1.0000
+  Mg  Mg1       1.0  0.7114015817642212  0.5332741737365723  0.5477919578552246  1.0000
+  O   O3        1.0  0.7110368013381958  0.033147893846035004  0.5468477606773376  1.0000

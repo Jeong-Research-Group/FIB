@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Pr2Zn2
+_chemical_formula_sum              "Li2 Pr2 Zn2"
+_cell_length_a       4.175873542533809
+_cell_length_b       4.2508906066393335
+_cell_length_c       7.92432109575062
+_cell_angle_alpha    89.99937882279177
+_cell_angle_beta     89.99973486802945
+_cell_angle_gamma    89.998318190245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9838064857477355  0.27614375828290516  0.04657977953822301  1.0000
+  Li  Li2       1.0  0.4835683405038029  0.7760227052311285  0.04630103833110046  1.0000
+  Pr  Pr1       1.0  0.4836723840828301  0.27595563161147096  0.40097378269812933  1.0000
+  Pr  Pr2       1.0  0.983707812697558  0.7759496105623177  0.6922105719948063  1.0000
+  Zn  Zn1       1.0  0.9835972762935323  0.7760045952689724  0.27516116748078073  1.0000
+  Zn  Zn2       1.0  0.4837803322158207  0.27593885624359343  0.8175305725728084  1.0000

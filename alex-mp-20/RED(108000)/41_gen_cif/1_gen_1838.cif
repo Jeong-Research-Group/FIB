@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       V3SbH
+_chemical_formula_sum              "V3 Sb1 H1"
+_cell_length_a       3.9605210383954677
+_cell_length_b       3.962011020342438
+_cell_length_c       3.962249785756137
+_cell_angle_alpha    89.98659535925292
+_cell_angle_beta     89.97019662792418
+_cell_angle_gamma    89.96989242855778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.40386668510309065  0.33876869220996547  0.6304267240273677  1.0000
+  V   V2        1.0  0.40332282957122095  0.8386469234133506  0.12912913471969228  1.0000
+  V   V3        1.0  0.9046838934429245  0.3385898497972532  0.13033254178546083  1.0000
+  Sb  Sb1       1.0  0.9038619268446864  0.838811242663727  0.6299581237245134  1.0000
+  H   H1        1.0  0.4040147543724733  0.3387851056529128  0.13007800988234555  1.0000

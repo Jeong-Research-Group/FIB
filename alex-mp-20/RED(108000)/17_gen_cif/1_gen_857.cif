@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2CuPt
+_chemical_formula_sum              "Sc2 Cu1 Pt1"
+_cell_length_a       3.338589791986512
+_cell_length_b       4.589716292703565
+_cell_length_c       4.589718509688923
+_cell_angle_alpha    90.02665862166596
+_cell_angle_beta     89.98433753840307
+_cell_angle_gamma    90.0017803407392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.4319150388125003  0.5035948598478525  0.771389974674391  1.0000
+  Sc  Sc2       1.0  0.43227199181304227  0.0036288439322285757  0.27166030292375576  1.0000
+  Cu  Cu1       1.0  0.9319208162659699  0.003582558827621403  0.7714967018984656  1.0000
+  Pt  Pt1       1.0  0.9316127709497711  0.5036502998014741  0.27101745309450825  1.0000

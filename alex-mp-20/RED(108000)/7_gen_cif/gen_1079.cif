@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AgCRh3
+_chemical_formula_sum              "Ag1 C1 Rh3"
+_cell_length_a       4.108466048676836
+_cell_length_b       4.105037047209273
+_cell_length_c       4.106042861938477
+_cell_angle_alpha    90.03551265852116
+_cell_angle_beta     89.96305801007365
+_cell_angle_gamma    90.01614224071045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.38450461626052856  0.5782099962234497  0.6304973363876343  1.0000
+  C   C1        1.0  0.8846026062965393  0.07815024256706238  0.13078279793262482  1.0000
+  Rh  Rh1       1.0  0.38437703251838684  0.07813552767038345  0.13087770342826843  1.0000
+  Rh  Rh2       1.0  0.884250819683075  0.07783576846122742  0.6303277015686035  1.0000
+  Rh  Rh3       1.0  0.8844701647758484  0.5779588222503662  0.13072872161865234  1.0000

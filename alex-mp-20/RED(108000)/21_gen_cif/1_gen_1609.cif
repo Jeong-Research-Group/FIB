@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Lu3CdP4
+_chemical_formula_sum              "Lu3 Cd1 P4"
+_cell_length_a       3.949390918993047
+_cell_length_b       5.533840205912363
+_cell_length_c       7.845115408234903
+_cell_angle_alpha    89.9917852976344
+_cell_angle_beta     90.00315221650364
+_cell_angle_gamma    90.00243986849624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.6782115669480506  0.16229704042637674  0.9996614125522209  1.0000
+  Lu  Lu2       1.0  0.17829610043459931  0.6619030885869343  0.25487657886226317  1.0000
+  Lu  Lu3       1.0  0.17845327450468854  0.6626398619294792  0.7452988827414521  1.0000
+  Cd  Cd1       1.0  0.67834727874786  0.1625754930956992  0.49988321894681353  1.0000
+  P   P1        1.0  0.17811449411903746  0.16255667306806423  0.7539052277433121  1.0000
+  P   P2        1.0  0.1782843804973698  0.16180994014915254  0.24549461333317874  1.0000
+  P   P3        1.0  0.67839262347525  0.6622490274795243  0.9999785361874959  1.0000
+  P   P4        1.0  0.6783338439720535  0.6623826445835146  0.5001021719205941  1.0000

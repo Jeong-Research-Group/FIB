@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr3SiPrSiAlRu
+_chemical_formula_sum              "Pr4 Si2 Al1 Ru1"
+_cell_length_a       4.09876017184533
+_cell_length_b       4.440346234654009
+_cell_length_c       11.190566062927246
+_cell_angle_alpha    90.05929536860387
+_cell_angle_beta     90.07861797706931
+_cell_angle_gamma    89.99129401393316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.2776915729045868  0.5021253824234009  0.7036126255989075  1.0000
+  Pr  Pr2       1.0  0.2777406871318817  0.0018475055694580076  0.2174266278743744  1.0000
+  Pr  Pr3       1.0  0.7783187627792358  0.5029724836349487  0.004482740070670843  1.0000
+  Si  Si1       1.0  0.2783515155315399  0.502700686454773  0.41334986686706543  1.0000
+  Pr  Pr4       1.0  0.7777943015098572  0.002505577402189374  0.4886748492717743  1.0000
+  Si  Si2       1.0  0.7781652212142944  0.0028029787354171276  0.7803306579589844  1.0000
+  Al  Al1       1.0  0.27877870202064514  0.0024029253982007504  0.9153470993041992  1.0000
+  Ru  Ru1       1.0  0.7781623601913452  0.5025649070739746  0.2854362428188324  1.0000

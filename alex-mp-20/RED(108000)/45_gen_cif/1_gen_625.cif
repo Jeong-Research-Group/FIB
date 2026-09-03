@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Zr2Pb2
+_chemical_formula_sum              "La2 Zr2 Pb2"
+_cell_length_a       4.532516283414403
+_cell_length_b       4.532661754731131
+_cell_length_c       8.749082223956135
+_cell_angle_alpha    90.01373143090821
+_cell_angle_beta     90.00199847957586
+_cell_angle_gamma    89.99220271065114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.11458805707345228  0.5317394747110531  0.3023217477127483  1.0000
+  La  La2       1.0  0.6145750755118701  0.03199573450050433  0.6093129987314407  1.0000
+  Zr  Zr1       1.0  0.11448733502739698  0.032037266840371614  0.9559896027164984  1.0000
+  Zr  Zr2       1.0  0.6144771105215809  0.5319923905422355  0.9559496084512394  1.0000
+  Pb  Pb1       1.0  0.11447549253053294  0.5320302416962409  0.703133339438173  1.0000
+  Pb  Pb2       1.0  0.6145590808081742  0.03176466146717092  0.20889092475420673  1.0000

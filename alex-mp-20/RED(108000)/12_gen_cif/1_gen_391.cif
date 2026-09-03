@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiCdCo2H
+_chemical_formula_sum              "Li1 Cd1 Co2 H1"
+_cell_length_a       3.6210229420381874
+_cell_length_b       3.6205768451467204
+_cell_length_c       4.226945427064605
+_cell_angle_alpha    90.00108132306511
+_cell_angle_beta     90.0018930265779
+_cell_angle_gamma    90.00044456763428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5069843739191575  0.11331605425117325  0.9436741698055414  1.0000
+  Cd  Cd1       1.0  0.0073696094479460145  0.6134215593674447  0.9437616549557956  1.0000
+  Co  Co1       1.0  0.007583035801384816  0.1134367624791407  0.44356713618490584  1.0000
+  Co  Co2       1.0  0.50746309273387  0.6134501212644508  0.4438631174447079  1.0000
+  H   H1        1.0  0.5071155031016449  0.11367054647535774  0.4434532189643769  1.0000

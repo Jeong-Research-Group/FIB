@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiHIrPt2
+_chemical_formula_sum              "Ti1 H1 Ir1 Pt2"
+_cell_length_a       4.0364163060115406
+_cell_length_b       3.9778778280768274
+_cell_length_c       3.977824723381849
+_cell_angle_alpha    89.99981718227724
+_cell_angle_beta     90.00037131202463
+_cell_angle_gamma    89.99973776880648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.45524132959035624  0.865573253656932  0.5675032537363034  1.0000
+  H   H1        1.0  0.9550768524120326  0.3654903859525902  0.06731521657974329  1.0000
+  Ir  Ir1       1.0  0.4552039770958173  0.36579438729379055  0.06747632619777727  1.0000
+  Pt  Pt1       1.0  0.9551293006583037  0.8656542908013721  0.06734142655378085  1.0000
+  Pt  Pt2       1.0  0.9550556053472098  0.365699434186011  0.5675314050719092  1.0000

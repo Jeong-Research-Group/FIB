@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al3CrNi3
+_chemical_formula_sum              "Al3 Cr1 Ni3"
+_cell_length_a       3.8457807562043
+_cell_length_b       5.023260345074705
+_cell_length_c       5.02438041558662
+_cell_angle_alpha    105.56148460945879
+_cell_angle_beta     90.0592664620914
+_cell_angle_gamma    90.05925632126304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6674977560139304  0.3985090478088371  0.9348936707117478  1.0000
+  Al  Al2       1.0  0.17129767117084946  0.20958128028932738  0.32805946655959844  1.0000
+  Al  Al3       1.0  0.6675114034733669  0.8188142218866405  0.5151399474882423  1.0000
+  Cr  Cr1       1.0  0.6682592716582487  0.9129504613329474  0.02971711522947317  1.0000
+  Ni  Ni1       1.0  0.16743312901972837  0.10866939777113213  0.7954790555776426  1.0000
+  Ni  Ni2       1.0  0.1674442550701065  0.6763899841840907  0.22455941904525076  1.0000
+  Ni  Ni3       1.0  0.16693300066430058  0.6083731895727281  0.7247801665604707  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tl2SrPbSPbS
+_chemical_formula_sum              "Tl2 Sr1 Pb2 S2"
+_cell_length_a       5.199699159160355
+_cell_length_b       5.206947625485098
+_cell_length_c       10.272303581237793
+_cell_angle_alpha    89.66056259749139
+_cell_angle_beta     90.05749903435705
+_cell_angle_gamma    119.71981514183294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.20596101880073547  0.17245857417583468  0.06153265759348869  1.0000
+  Tl  Tl2       1.0  0.8721706867218018  0.5084718465805055  0.09713152796030043  1.0000
+  Sr  Sr1       1.0  0.5401496291160583  0.8396628499031067  0.2647658884525299  1.0000
+  Pb  Pb1       1.0  0.20508739352226257  0.17391932010650635  0.5195338129997253  1.0000
+  S   S1        1.0  0.2047954499721527  0.17496748268604279  0.7898249626159668  1.0000
+  Pb  Pb2       1.0  0.539067268371582  0.840928316116333  0.8180907368659973  1.0000
+  S   S2        1.0  0.5373924970626832  0.8399148583412172  0.5487876534461975  1.0000

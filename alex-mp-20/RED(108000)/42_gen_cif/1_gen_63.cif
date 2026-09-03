@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2InHg
+_chemical_formula_sum              "Li2 In1 Hg1"
+_cell_length_a       3.4169088732976927
+_cell_length_b       4.744435932359519
+_cell_length_c       4.744427285747681
+_cell_angle_alpha    90.09518834874099
+_cell_angle_beta     90.00498176569839
+_cell_angle_gamma    90.00659145676774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2872625856004504  0.38408827556095826  0.34748854520493466  1.0000
+  Li  Li2       1.0  0.28726894679015313  0.8837776448921993  0.8471829654700317  1.0000
+  In  In1       1.0  0.7867905440383104  0.383807350404941  0.8475106390260075  1.0000
+  Hg  Hg1       1.0  0.7875264547524101  0.8837717935647744  0.347461427812623  1.0000

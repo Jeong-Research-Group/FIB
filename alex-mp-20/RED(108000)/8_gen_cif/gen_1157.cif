@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgGa2BaIn
+_chemical_formula_sum              "Mg1 Ga2 Ba1 In1"
+_cell_length_a       4.690170620192415
+_cell_length_b       4.692293513512297
+_cell_length_c       6.743733882904053
+_cell_angle_alpha    110.3569795381145
+_cell_angle_beta     110.26348709583606
+_cell_angle_gamma    89.98279722737904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9910358190536499  0.7893591523170471  0.9879696965217589  1.0000
+  Ga  Ga1       1.0  0.13108864426612854  0.4287844598293305  0.2675996720790863  1.0000
+  Ga  Ga2       1.0  0.3511490523815155  0.6501625180244446  0.7093823552131653  1.0000
+  Ba  Ba1       1.0  0.7413876056671143  0.039862725883722305  0.4889028072357177  1.0000
+  In  In1       1.0  0.4906178414821625  0.2895923852920532  0.988896608352661  1.0000

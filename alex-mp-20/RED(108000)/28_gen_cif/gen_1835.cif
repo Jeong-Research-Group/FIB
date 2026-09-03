@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Mg2EuCd
+_chemical_formula_sum              "Eu3 Mg2 Cd1"
+_cell_length_a       4.04578740924367
+_cell_length_b       4.043695940370777
+_cell_length_c       12.05712604522705
+_cell_angle_alpha    89.99528284372252
+_cell_angle_beta     90.04085386589267
+_cell_angle_gamma    90.00626578825424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.4373692274093628  0.6225214004516602  0.7009367346763611  1.0000
+  Eu  Eu2       1.0  0.4378138780593872  0.6223093867301941  0.04081881791353226  1.0000
+  Mg  Mg1       1.0  0.9376699924468994  0.12288656830787659  0.5347433090209961  1.0000
+  Mg  Mg2       1.0  0.9376353621482849  0.12278716266155243  0.8684722781181337  1.0000
+  Eu  Eu3       1.0  0.43787282705307007  0.6228484511375427  0.36281511187553406  1.0000
+  Cd  Cd1       1.0  0.9378345012664795  0.12231651693582535  0.20093357563018802  1.0000

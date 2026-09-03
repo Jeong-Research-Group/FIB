@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiFePd3Li
+_chemical_formula_sum              "Li2 Fe1 Pd3"
+_cell_length_a       2.930133295937785
+_cell_length_b       4.3062460483043825
+_cell_length_c       6.806281566619873
+_cell_angle_alpha    89.98069355911213
+_cell_angle_beta     102.470322840561
+_cell_angle_gamma    89.96248427365533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7743403911590576  0.046796541661024094  0.8052864670753479  1.0000
+  Fe  Fe1       1.0  0.9375711679458618  0.5475476384162902  0.13176050782203674  1.0000
+  Pd  Pd1       1.0  0.43695375323295593  0.04730209708213806  0.13091401755809784  1.0000
+  Pd  Pd2       1.0  0.2769964933395386  0.5469072461128235  0.8103154897689819  1.0000
+  Pd  Pd3       1.0  0.5981770157814026  0.546613037586212  0.45327785611152643  1.0000
+  Li  Li2       1.0  0.09955215454101562  0.046985071152448654  0.4569773972034454  1.0000

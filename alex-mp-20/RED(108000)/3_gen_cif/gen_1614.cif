@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Cd2AgAu
+_chemical_formula_sum              "Tb2 Cd2 Ag1 Au1"
+_cell_length_a       3.4440515171628743
+_cell_length_b       4.872238006638359
+_cell_length_c       8.453774452209473
+_cell_angle_alpha    89.97909529388775
+_cell_angle_beta     89.99501646632858
+_cell_angle_gamma    90.01778831725781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.22676518559455872  0.4134553968906403  0.08011211454868317  1.0000
+  Tb  Tb2       1.0  0.22671034932136536  0.9136419892311097  0.5162633657455444  1.0000
+  Cd  Cd1       1.0  0.7276085615158081  0.9137381315231324  0.8784072995185852  1.0000
+  Cd  Cd2       1.0  0.7267758846282959  0.413774698972702  0.7187362313270569  1.0000
+  Ag  Ag1       1.0  0.72724449634552  0.4136290550231934  0.3888508081436157  1.0000
+  Au  Au1       1.0  0.7267529368400574  0.9138039350509644  0.21264193952083588  1.0000

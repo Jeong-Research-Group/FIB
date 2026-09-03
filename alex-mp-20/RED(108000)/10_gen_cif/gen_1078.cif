@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdBaInO2
+_chemical_formula_sum              "Cd1 Ba1 In1 O2"
+_cell_length_a       3.9109090324147138
+_cell_length_b       4.797218274270987
+_cell_length_c       6.885192394256592
+_cell_angle_alpha    110.23976435725696
+_cell_angle_beta     89.7189128754334
+_cell_angle_gamma    89.99992737696734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5290793776512146  0.4713382720947265  0.4735635817050934  1.0000
+  Ba  Ba1       1.0  0.02338174916803837  0.7815277576446533  0.09134554862976074  1.0000
+  In  In1       1.0  0.5241638422012329  0.11580872535705566  0.7593702673912048  1.0000
+  O   O1        1.0  0.023400481790304187  0.18776850402355194  0.9009169340133667  1.0000
+  O   O2        1.0  0.5239259600639343  0.646198570728302  0.8186054825782776  1.0000

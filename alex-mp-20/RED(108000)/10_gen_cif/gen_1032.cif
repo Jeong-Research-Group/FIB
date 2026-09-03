@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbCrP2Rh
+_chemical_formula_sum              "Tb1 Cr1 P2 Rh1"
+_cell_length_a       4.019229744939126
+_cell_length_b       4.019373419055996
+_cell_length_c       5.617122650146484
+_cell_angle_alpha    111.05270721427644
+_cell_angle_beta     111.05681882412175
+_cell_angle_gamma    90.01380025884092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.024374678730964664  0.7739769816398621  0.41432511806488037  1.0000
+  Cr  Cr1       1.0  0.7739723920822144  0.023398883640766144  0.914031445980072  1.0000
+  P   P1        1.0  0.645851194858551  0.39504402875900274  0.6556367874145508  1.0000
+  P   P2        1.0  0.40263763070106506  0.15229934453964233  0.17105430364608765  1.0000
+  Rh  Rh1       1.0  0.2741181254386902  0.5237218737602234  0.9143784642219543  1.0000

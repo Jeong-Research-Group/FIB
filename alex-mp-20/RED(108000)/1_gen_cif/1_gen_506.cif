@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaZr2Te2H
+_chemical_formula_sum              "Ba1 Zr2 Te2 H1"
+_cell_length_a       4.348517180161975
+_cell_length_b       4.345776186721192
+_cell_length_c       8.059588189425952
+_cell_angle_alpha    90.00391497331596
+_cell_angle_beta     89.99661415171411
+_cell_angle_gamma    90.02574876014536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6323140033592458  0.5109715157783283  0.31487450232339875  1.0000
+  Zr  Zr1       1.0  0.6323737866724316  0.010548379522089067  0.8148953366718711  1.0000
+  Zr  Zr2       1.0  0.132300209425264  0.5106272120553363  0.8148954490159102  1.0000
+  Te  Te1       1.0  0.13235981101403593  0.010748141117025474  0.07559919372206744  1.0000
+  Te  Te2       1.0  0.13247798551821843  0.010669447792335281  0.5540864577558293  1.0000
+  H   H1        1.0  0.6322027262600091  0.5106133373205343  0.8151774398742879  1.0000

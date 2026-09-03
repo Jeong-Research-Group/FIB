@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiAuTiAuHf
+_chemical_formula_sum              "Ti2 Au2 Hf1"
+_cell_length_a       4.566164257273795
+_cell_length_b       4.566530747494271
+_cell_length_c       5.650538921356201
+_cell_angle_alpha    66.11884758276464
+_cell_angle_beta     66.14924907559148
+_cell_angle_gamma    60.04323827540985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0702504813671112  0.6766061186790466  0.8986871838569641  1.0000
+  Au  Au1       1.0  0.8684124946594238  0.4740806818008423  0.5079665184020996  1.0000
+  Ti  Ti2       1.0  0.4794310927391052  0.0858398824930191  0.6694430708885193  1.0000
+  Au  Au2       1.0  0.682309627532959  0.2884843647480011  0.06053585559129715  1.0000
+  Hf  Hf1       1.0  0.27538833022117615  0.8816788196563721  0.28369271755218506  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoHoP2Mn
+_chemical_formula_sum              "Co1 Ho1 P2 Mn1"
+_cell_length_a       3.819917956154459
+_cell_length_b       3.824038798544278
+_cell_length_c       5.541887283325195
+_cell_angle_alpha    110.23685601036374
+_cell_angle_beta     110.23029903763373
+_cell_angle_gamma    89.95282024255403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5618188977241516  0.41144004464149475  0.8930826187133789  1.0000
+  Ho  Ho1       1.0  0.3112678825855255  0.6608217358589172  0.3922019302845001  1.0000
+  P   P1        1.0  0.9396682381629944  0.2896919250488281  0.6489710807800293  1.0000
+  P   P2        1.0  0.6824281215667725  0.03287698328495026  0.13609698414802548  1.0000
+  Mn  Mn1       1.0  0.06155971810221672  0.9108472466468811  0.8921970129013062  1.0000

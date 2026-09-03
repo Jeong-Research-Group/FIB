@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mn2InFe
+_chemical_formula_sum              "Mn2 In1 Fe1"
+_cell_length_a       3.0123865975391557
+_cell_length_b       3.011842360809154
+_cell_length_c       6.350727641658958
+_cell_angle_alpha    89.99790548526688
+_cell_angle_beta     90.00033379122834
+_cell_angle_gamma    89.99719206943965
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.1720301813976442  0.9390654000885176  0.933312668789417  1.0000
+  Mn  Mn2       1.0  0.6719749592634893  0.4391712662340492  0.7202904784267794  1.0000
+  In  In1       1.0  0.6720940104268276  0.439223116246456  0.22781610400560032  1.0000
+  Fe  Fe1       1.0  0.17196232523769664  0.9392729793547597  0.5144199056145312  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2CaInH
+_chemical_formula_sum              "Li2 Ca1 In1 H1"
+_cell_length_a       4.530974597344919
+_cell_length_b       4.5379794814440215
+_cell_length_c       4.626060106782192
+_cell_angle_alpha    89.9988629413459
+_cell_angle_beta     90.00426183735215
+_cell_angle_gamma    89.9996151639166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5098786126444872  0.8178621094054224  0.1499149959422378  1.0000
+  Li  Li2       1.0  0.009308162718048844  0.3192538771607715  0.15036594467792175  1.0000
+  Ca  Ca1       1.0  0.009676285148748543  0.8184855450357228  0.6504229388987928  1.0000
+  In  In1       1.0  0.5096048763741233  0.3183191970937944  0.6502854892282566  1.0000
+  H   H1        1.0  0.009468645944516818  0.8189610096811438  0.15066168094774685  1.0000

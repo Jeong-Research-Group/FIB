@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4H2C2
+_chemical_formula_sum              "Tb4 H2 C2"
+_cell_length_a       3.61529482874776
+_cell_length_b       6.247893912073792
+_cell_length_c       6.2620706668228205
+_cell_angle_alpha    109.55914317169714
+_cell_angle_beta     89.99987034879443
+_cell_angle_gamma    90.0124682776012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.3033167945934232  0.8295726507192608  0.7807218568492454  1.0000
+  Tb  Tb2       1.0  0.8037244710316908  0.27780268080416914  0.7640202860290508  1.0000
+  Tb  Tb3       1.0  0.8031634428765867  0.8294384827444204  0.2806832935697735  1.0000
+  Tb  Tb4       1.0  0.3037644425153717  0.2776316790789477  0.2640785757536051  1.0000
+  H   H1        1.0  0.8043716664902818  0.5527922195625469  0.5222997050370044  1.0000
+  H   H2        1.0  0.30381946698570095  0.5532520188732778  0.022543870512352335  1.0000
+  C   C1        1.0  0.8035005306643616  0.05386403063835855  0.02269719495519874  1.0000
+  C   C2        1.0  0.3033693089924907  0.05392016490058014  0.5227299917913224  1.0000

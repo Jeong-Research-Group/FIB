@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu3NTl
+_chemical_formula_sum              "Lu3 N1 Tl1"
+_cell_length_a       4.693435228863033
+_cell_length_b       4.690680507571465
+_cell_length_c       4.6931281089782715
+_cell_angle_alpha    90.00228378761643
+_cell_angle_beta     89.93633147617304
+_cell_angle_gamma    89.9885960888439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.03766769915819168  0.22422681748867038  0.1546003520488739  1.0000
+  Lu  Lu2       1.0  0.03767091780900955  0.7243999242782593  0.6545329093933105  1.0000
+  Lu  Lu3       1.0  0.5377063751220703  0.7243911027908325  0.15451613068580627  1.0000
+  N   N1        1.0  0.037435535341501236  0.7246032953262329  0.15458743274211884  1.0000
+  Tl  Tl1       1.0  0.5379086136817932  0.22412754595279694  0.6545807123184204  1.0000

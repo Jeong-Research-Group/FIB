@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnS3SiS2Sn
+_chemical_formula_sum              "Sn2 S5 Si1"
+_cell_length_a       6.25001020540842
+_cell_length_b       6.765395136050473
+_cell_length_c       6.698476314544678
+_cell_angle_alpha    65.72583026892855
+_cell_angle_beta     57.6439491736596
+_cell_angle_gamma    89.70439140721683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9892383217811584  0.5217837691307068  0.7218961715698241  1.0000
+  S   S1        1.0  0.34878280758857727  0.8364347815513611  0.33097136020660395  1.0000
+  S   S2        1.0  0.5749444365501404  0.6232545971870422  0.8231221437454224  1.0000
+  S   S3        1.0  0.00679912697523832  0.2386312484741211  0.5376673340797423  1.0000
+  Si  Si1       1.0  0.16718530654907224  0.4255815148353576  0.1174866184592247  1.0000
+  S   S4        1.0  0.04417278245091438  0.19974185526371002  0.023565912619233114  1.0000
+  S   S5        1.0  0.9814406633377075  0.6845340132713317  0.04013536870479584  1.0000
+  Sn  Sn2       1.0  0.400002658367157  0.03151960298418998  0.5738459825515747  1.0000

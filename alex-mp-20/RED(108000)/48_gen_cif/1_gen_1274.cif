@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2TiAl2Ge
+_chemical_formula_sum              "Li2 Ti1 Al2 Ge1"
+_cell_length_a       2.8221405632613594
+_cell_length_b       4.7918724949194464
+_cell_length_c       7.405494426701657
+_cell_angle_alpha    77.76635252176435
+_cell_angle_beta     101.00336704473948
+_cell_angle_gamma    89.98760191476511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8884274039031993  0.16594961157028712  0.8722458870142964  1.0000
+  Li  Li2       1.0  0.21158308150812893  0.17212715431137615  0.5163494436710042  1.0000
+  Ti  Ti1       1.0  0.0499780130287144  0.6686137889421961  0.1940870138408609  1.0000
+  Al  Al1       1.0  0.7201474132250647  0.66776625454513  0.5335130436088981  1.0000
+  Al  Al2       1.0  0.3797677348219433  0.6703601543394783  0.8545178482249252  1.0000
+  Ge  Ge1       1.0  0.5500753910707226  0.16860977144820433  0.19433622801790593  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2TiSn
+_chemical_formula_sum              "Zr2 Ti1 Sn1"
+_cell_length_a       4.355806128367874
+_cell_length_b       4.401124417183959
+_cell_length_c       4.404403300583488
+_cell_angle_alpha    90.00075683435132
+_cell_angle_beta     89.99982908719176
+_cell_angle_gamma    90.00713244306665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.8741038822399085  0.6436919938426743  0.6114778886527913  1.0000
+  Zr  Zr2       1.0  0.8740857196504673  0.14349605921672717  0.11180429860640272  1.0000
+  Ti  Ti1       1.0  0.3745927612787646  0.14351460738727737  0.6114047929164105  1.0000
+  Sn  Sn1       1.0  0.37432347174488856  0.6435611795743826  0.1114915524481931  1.0000

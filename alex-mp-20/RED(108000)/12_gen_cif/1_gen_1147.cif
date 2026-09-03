@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaLiCd2In2Ag
+_chemical_formula_sum              "Na1 Li1 Cd2 In2 Ag1"
+_cell_length_a       5.358904222647542
+_cell_length_b       5.3603313199739215
+_cell_length_c       7.055901769686897
+_cell_angle_alpha    82.53657110440069
+_cell_angle_beta     82.5367587068899
+_cell_angle_gamma    50.90736320910986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6925757840713005  0.6624502939838907  0.18100193046309146  1.0000
+  Li  Li1       1.0  0.5591172529346657  0.5266378749359031  0.6350490792525438  1.0000
+  Cd  Cd1       1.0  0.40562154411852513  0.370187024025742  0.028200013612074432  1.0000
+  Cd  Cd2       1.0  0.9886588028645086  0.9594340888805888  0.3542187784946328  1.0000
+  In  In1       1.0  0.2863073172476439  0.25533048790913604  0.47495081805856504  1.0000
+  In  In2       1.0  0.1129586913455266  0.07925566935939046  0.8923652109106097  1.0000
+  Ag  Ag1       1.0  0.8370704041804703  0.8027249154633591  0.7500639077539498  1.0000

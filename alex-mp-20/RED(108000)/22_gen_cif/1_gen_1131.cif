@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li3Sb3Pb
+_chemical_formula_sum              "Li3 Sb3 Pb1"
+_cell_length_a       4.86751109951279
+_cell_length_b       4.867028560687529
+_cell_length_c       8.628891735824073
+_cell_angle_alpha    73.59662353325137
+_cell_angle_beta     73.59002894217083
+_cell_angle_gamma    60.04203399241797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.014949582742570425  0.5940860332972706  0.9810617250275157  1.0000
+  Li  Li2       1.0  0.2948822755502012  0.8742188723049723  0.14056486847249777  1.0000
+  Li  Li3       1.0  0.7361646718060663  0.3154819094743218  0.8171515617741394  1.0000
+  Sb  Sb1       1.0  0.6127358447297344  0.19201258696106266  0.1875790987687618  1.0000
+  Sb  Sb2       1.0  0.8929638470109088  0.4723524493931839  0.3468138567191373  1.0000
+  Sb  Sb3       1.0  0.41221767785936375  0.9916328485273794  0.788122053540453  1.0000
+  Pb  Pb1       1.0  0.14855211219334072  0.7278508017490785  0.5797737834079532  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrHf2NbIrNb
+_chemical_formula_sum              "Ir2 Hf2 Nb2"
+_cell_length_a       4.591645013842546
+_cell_length_b       4.594013259942077
+_cell_length_c       5.762393474578857
+_cell_angle_alpha    90.09447085088182
+_cell_angle_beta     89.96776401272902
+_cell_angle_gamma    120.01090345794674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.6107685565948486  0.6767411231994629  0.060637887567281716  1.0000
+  Hf  Hf1       1.0  0.6101014018058777  0.6760581135749817  0.5701978206634521  1.0000
+  Hf  Hf2       1.0  0.2770797610282898  0.009736494161188602  0.9040826559066771  1.0000
+  Nb  Nb1       1.0  0.2772296667098999  0.009795772843062878  0.397018700838089  1.0000
+  Ir  Ir2       1.0  0.9428607225418091  0.3427511751651764  0.7525013685226438  1.0000
+  Nb  Nb2       1.0  0.9443137049674988  0.34297990798950195  0.24145102500915525  1.0000

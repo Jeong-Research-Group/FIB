@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd2Si4Au2
+_chemical_formula_sum              "Nd2 Si4 Au2"
+_cell_length_a       4.107298364916593
+_cell_length_b       4.1075581575526865
+_cell_length_c       10.041558114194768
+_cell_angle_alpha    90.00477693031115
+_cell_angle_beta     89.9991021932436
+_cell_angle_gamma    89.99990809635916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.6767509127318654  0.6742212930428121  0.6970763077184239  1.0000
+  Nd  Nd2       1.0  0.17700456194085326  0.174218273915593  0.22175558306172877  1.0000
+  Si  Si1       1.0  0.6770271823799032  0.6742073724042809  0.11584586314976711  1.0000
+  Si  Si2       1.0  0.17725104202477762  0.6745799112174006  0.45966834850976307  1.0000
+  Si  Si3       1.0  0.6765870032337337  0.17409922931641428  0.45966190342036833  1.0000
+  Si  Si4       1.0  0.17666965339135016  0.17420859795373786  0.802147665749114  1.0000
+  Au  Au1       1.0  0.6767520129530901  0.1741943450969273  0.959306525196577  1.0000
+  Au  Au2       1.0  0.1768488858971029  0.6742230494203082  0.9588914111691096  1.0000

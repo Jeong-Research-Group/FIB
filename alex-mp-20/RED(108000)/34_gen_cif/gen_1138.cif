@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BNiSmNi2
+_chemical_formula_sum              "B1 Ni3 Sm1"
+_cell_length_a       4.033040527545269
+_cell_length_b       4.032391105588173
+_cell_length_c       4.033358097076416
+_cell_angle_alpha    89.99253027792898
+_cell_angle_beta     90.00255699515088
+_cell_angle_gamma    90.01810250590819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.9427040219306946  0.6176947951316833  0.5108809471130371  1.0000
+  Ni  Ni1       1.0  0.9425063729286194  0.6179868578910828  0.011321711353957653  1.0000
+  Sm  Sm1       1.0  0.44261154532432556  0.11809013783931732  0.01171388290822506  1.0000
+  Ni  Ni2       1.0  0.44240647554397583  0.618104577064514  0.5113867521286011  1.0000
+  Ni  Ni3       1.0  0.9426083564758301  0.11799342185258865  0.5111279487609863  1.0000

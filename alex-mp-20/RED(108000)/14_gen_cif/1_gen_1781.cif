@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Rh2SBr
+_chemical_formula_sum              "Rh2 S1 Br1"
+_cell_length_a       3.694111237063681
+_cell_length_b       3.695038623445677
+_cell_length_c       7.706726515510642
+_cell_angle_alpha    76.18291535816371
+_cell_angle_beta     76.22596500574275
+_cell_angle_gamma    60.01866460401108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25893146005776013  0.8784204875015433  0.21010426540794183  1.0000
+  Rh  Rh2       1.0  0.6665008833380768  0.2870038485231365  0.9851768911379921  1.0000
+  S   S1        1.0  0.03327109901947852  0.6541398885594571  0.883780710566538  1.0000
+  Br  Br1       1.0  0.8667843731493702  0.48549112496557223  0.38822661238140244  1.0000

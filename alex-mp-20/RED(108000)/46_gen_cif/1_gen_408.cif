@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2TiCrH
+_chemical_formula_sum              "Ta2 Ti1 Cr1 H1"
+_cell_length_a       4.470539603680383
+_cell_length_b       4.466396837496559
+_cell_length_c       3.3375773881630777
+_cell_angle_alpha    89.99697616385916
+_cell_angle_beta     89.99659154629708
+_cell_angle_gamma    89.99520829560181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.062227945542368684  0.26084684739512215  0.8483544476540064  1.0000
+  Ta  Ta2       1.0  0.5623895298463047  0.7609214671558395  0.8487531266576742  1.0000
+  Ti  Ti1       1.0  0.5620869126155357  0.2609787194781516  0.34896373079595233  1.0000
+  Cr  Cr1       1.0  0.0622252059871044  0.7607328146123188  0.34894471299037155  1.0000
+  H   H1        1.0  0.06259119734807694  0.7610856994201814  0.8489878753925377  1.0000

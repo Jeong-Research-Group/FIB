@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti3AlB
+_chemical_formula_sum              "Ti3 Al1 B1"
+_cell_length_a       4.265106205377597
+_cell_length_b       4.265083356745901
+_cell_length_c       4.265164434592632
+_cell_angle_alpha    89.98245720957826
+_cell_angle_beta     90.00812593285526
+_cell_angle_gamma    89.99860110789751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7664173244519431  0.23608538679398522  0.08158519095233185  1.0000
+  Ti  Ti2       1.0  0.7663893128250877  0.7363566591460902  0.5815098973704406  1.0000
+  Ti  Ti3       1.0  0.26621203797374743  0.7361558947662306  0.08153630449325282  1.0000
+  Al  Al1       1.0  0.2662698839394069  0.23640638993481414  0.5814655984356607  1.0000
+  B   B1        1.0  0.766639606529709  0.7362199848564323  0.0816636120609744  1.0000

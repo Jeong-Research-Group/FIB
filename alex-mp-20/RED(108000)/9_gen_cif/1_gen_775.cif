@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2GePbN
+_chemical_formula_sum              "Sr2 Ge1 Pb1 N1"
+_cell_length_a       4.846379089080709
+_cell_length_b       5.163751779692502
+_cell_length_c       5.163662609382011
+_cell_angle_alpha    89.99971288407907
+_cell_angle_beta     89.9997283996617
+_cell_angle_gamma    89.99987166963527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9986794915761691  0.8403216353480056  0.2282742067382705  1.0000
+  Sr  Sr2       1.0  0.9984366746438669  0.34026992450616783  0.7285482006669187  1.0000
+  Ge  Ge1       1.0  0.5004712848659697  0.8405163259191972  0.7282247480027016  1.0000
+  Pb  Pb1       1.0  0.4995031201113643  0.3403376393152622  0.22865785941403446  1.0000
+  N   N1        1.0  0.008245176959856309  0.34033962298376036  0.2284161788262372  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ga2Sr2Pb
+_chemical_formula_sum              "Ga2 Sr2 Pb1"
+_cell_length_a       4.416080270055221
+_cell_length_b       6.293674101853014
+_cell_length_c       6.543964385986328
+_cell_angle_alpha    77.53649124811463
+_cell_angle_beta     69.84689267183798
+_cell_angle_gamma    69.18502605179634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.09424601495265963  0.35979956388473505  0.062497347593307495  1.0000
+  Ga  Ga2       1.0  0.4504226744174958  0.5493250489234924  0.1602640599012375  1.0000
+  Sr  Sr1       1.0  0.7525959014892577  0.5115776062011719  0.5939680933952332  1.0000
+  Sr  Sr2       1.0  0.832184076309204  0.95840984582901  0.9873732924461365  1.0000
+  Pb  Pb1       1.0  0.1144480928778649  0.9629038572311401  0.4169725775718689  1.0000

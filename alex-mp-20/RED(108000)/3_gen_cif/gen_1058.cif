@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnNiCrMnZn2CrNi
+_chemical_formula_sum              "Mn2 Ni2 Cr2 Zn2"
+_cell_length_a       4.098456350612894
+_cell_length_b       4.830189710537266
+_cell_length_c       5.063065528869629
+_cell_angle_alpha    101.39376203371567
+_cell_angle_beta     90.03842231906371
+_cell_angle_gamma    89.96515487951274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8055364489555359  0.9301313161849977  0.7560343742370605  1.0000
+  Ni  Ni1       1.0  0.30519458651542664  0.2082686871290207  0.15339455008506775  1.0000
+  Cr  Cr1       1.0  0.8058000206947327  0.9952454566955566  0.26578250527381897  1.0000
+  Mn  Mn2       1.0  0.3055444657802582  0.22142766416072843  0.6614250540733337  1.0000
+  Zn  Zn1       1.0  0.3063969612121582  0.7101465463638306  0.39949071407318115  1.0000
+  Zn  Zn2       1.0  0.805946409702301  0.4597254693508148  0.01645299233496188  1.0000
+  Cr  Cr2       1.0  0.8053755164146423  0.4129897952079773  0.5118814706802368  1.0000
+  Ni  Ni2       1.0  0.3061464726924896  0.7171247005462646  0.9008194208145142  1.0000

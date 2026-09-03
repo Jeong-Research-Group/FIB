@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CaIn
+_chemical_formula_sum              "Ca1 In1"
+_cell_length_a       3.8745499243760007
+_cell_length_b       3.8754106059973936
+_cell_length_c       3.8817820339571165
+_cell_angle_alpha    90.00074956446528
+_cell_angle_beta     89.9832690070954
+_cell_angle_gamma    89.99352323463101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.03635900338801734  0.5929858189485631  0.5606643781787054  1.0000
+  In  In1       1.0  0.5393267529321742  0.092287738815523  0.061530383244734345  1.0000

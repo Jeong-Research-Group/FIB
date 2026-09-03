@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Be2CoNi
+_chemical_formula_sum              "Be2 Co1 Ni1"
+_cell_length_a       2.600628657391246
+_cell_length_b       3.6654635219489
+_cell_length_c       3.6650266641516946
+_cell_angle_alpha    90.00442888429761
+_cell_angle_beta     90.00279651001254
+_cell_angle_gamma    90.00265862248237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.9468974163242474  0.877592684533751  0.7665050694087325  1.0000
+  Be  Be2       1.0  0.9467596197046463  0.3768720875662198  0.26640781227615756  1.0000
+  Co  Co1       1.0  0.44687984434229705  0.3772803319973818  0.7665401538375929  1.0000
+  Ni  Ni1       1.0  0.4467035643225092  0.876838083482129  0.2666106667976106  1.0000

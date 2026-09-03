@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaSiNi2
+_chemical_formula_sum              "Ga1 Si1 Ni2"
+_cell_length_a       2.77238866211201
+_cell_length_b       2.77136599078301
+_cell_length_c       6.173052630800661
+_cell_angle_alpha    89.995333137334
+_cell_angle_beta     89.99100126418904
+_cell_angle_gamma    90.00035123027658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9988167767527253  0.5217803157492568  0.338792239416213  1.0000
+  Si  Si1       1.0  0.9987748149239624  0.5216989440001804  0.8384519522127296  1.0000
+  Ni  Ni1       1.0  0.49888312503629806  0.021698266078337882  0.6151671602485994  1.0000
+  Ni  Ni2       1.0  0.49864312522365706  0.021613949840537047  0.062361626199765346  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdFeAlFeN
+_chemical_formula_sum              "Pd1 Fe2 Al1 N1"
+_cell_length_a       3.817850910383705
+_cell_length_b       3.814162309737477
+_cell_length_c       4.062005996704102
+_cell_angle_alpha    89.92914612240584
+_cell_angle_beta     89.9689934452674
+_cell_angle_gamma    90.05467133992654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.5955202579498291  0.9665560126304626  0.30995622277259827  1.0000
+  Fe  Fe1       1.0  0.09593179821968079  0.9666574001312255  0.810088038444519  1.0000
+  Al  Al1       1.0  0.09591978788375854  0.46668380498886103  0.30909252166748047  1.0000
+  Fe  Fe2       1.0  0.5958237648010254  0.4670892357826233  0.8099257946014404  1.0000
+  N   N1        1.0  0.09573783725500107  0.46658656001091  0.8098032474517822  1.0000

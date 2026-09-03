@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       FeMgNi2Ge2Ni3Ge
+_chemical_formula_sum              "Fe1 Mg1 Ni5 Ge3"
+_cell_length_a       3.724578687692454
+_cell_length_b       3.7166607337973834
+_cell_length_c       9.464009284973145
+_cell_angle_alpha    101.32764647514156
+_cell_angle_beta     89.96282578304674
+_cell_angle_gamma    90.06893960254774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3527526259422302  0.6005907654762268  0.17726948857307434  1.0000
+  Mg  Mg1       1.0  0.8524218797683716  0.3042909801006317  0.5847045183181763  1.0000
+  Ni  Ni1       1.0  0.853272557258606  0.510822594165802  0.9971984624862671  1.0000
+  Ni  Ni2       1.0  0.3524824380874634  0.4116809666156769  0.7999978065490723  1.0000
+  Ge  Ge1       1.0  0.852085530757904  0.9217123985290526  0.8205642104148865  1.0000
+  Ge  Ge2       1.0  0.8527358770370483  0.1038314551115036  0.18375131487846375  1.0000
+  Ni  Ni3       1.0  0.8527662754058838  0.6947702765464783  0.3639381527900696  1.0000
+  Ni  Ni4       1.0  0.3530288636684418  0.19411177933216092  0.3638767898082733  1.0000
+  Ni  Ni5       1.0  0.352893590927124  0.01016484946012497  0.9972555041313171  1.0000
+  Ge  Ge3       1.0  0.3531063497066498  0.7816700339317322  0.5380576848983765  1.0000

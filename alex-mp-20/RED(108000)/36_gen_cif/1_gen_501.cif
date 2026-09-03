@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Fe2Si2C
+_chemical_formula_sum              "Tb2 Fe2 Si2 C1"
+_cell_length_a       3.9403904972875883
+_cell_length_b       5.670330209634787
+_cell_length_c       5.652124155091882
+_cell_angle_alpha    73.34806838716456
+_cell_angle_beta     69.59542779878744
+_cell_angle_gamma    69.66776784397544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4034394230255277  0.6844396979972426  0.5797436137013032  1.0000
+  Tb  Tb2       1.0  0.28576984495303087  0.2725243191997685  0.22746301763714166  1.0000
+  Fe  Fe1       1.0  0.6444340009486388  0.07219550930382646  0.7106851355432164  1.0000
+  Fe  Fe2       1.0  0.04484430198251467  0.8849739063169577  0.09636791496077915  1.0000
+  Si  Si1       1.0  0.680406051345984  0.6974844087285266  0.012929593347664907  1.0000
+  Si  Si2       1.0  0.008835904126056065  0.25970656493424843  0.7942671120637079  1.0000
+  C   C1        1.0  0.844576399346105  0.9785394605156195  0.4035756378646864  1.0000

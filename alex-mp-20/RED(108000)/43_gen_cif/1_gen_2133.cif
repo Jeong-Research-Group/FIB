@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeRu3N
+_chemical_formula_sum              "Ge1 Ru3 N1"
+_cell_length_a       4.033130307129069
+_cell_length_b       4.033062546687664
+_cell_length_c       4.033071111064458
+_cell_angle_alpha    90.00925407176393
+_cell_angle_beta     89.99205023207807
+_cell_angle_gamma    89.9791857679404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9066283777059223  0.5467295755581156  0.2957676585018717  1.0000
+  Ru  Ru1       1.0  0.4070872312860736  0.04703703395658654  0.2961097139223929  1.0000
+  Ru  Ru2       1.0  0.9069909039933697  0.046954422591421595  0.7967020945426867  1.0000
+  Ru  Ru3       1.0  0.4068913701379523  0.5468353328075781  0.79599429046308  1.0000
+  N   N1        1.0  0.40706895457511594  0.04691620750260633  0.7959384164853893  1.0000

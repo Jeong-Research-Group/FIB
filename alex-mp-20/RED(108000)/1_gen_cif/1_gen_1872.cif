@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Be2B2
+_chemical_formula_sum              "Pr2 Be2 B2"
+_cell_length_a       3.460470372867106
+_cell_length_b       3.4592248545695634
+_cell_length_c       8.340953946397093
+_cell_angle_alpha    90.02221839733627
+_cell_angle_beta     89.9990673167258
+_cell_angle_gamma    89.90930803752872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.878786951456659  0.813197752541413  0.22171105060781798  1.0000
+  Pr  Pr2       1.0  0.3784360667718547  0.3134432291745251  0.7895807449547065  1.0000
+  Be  Be1       1.0  0.8786090283835005  0.31338920212419785  0.5063480306215754  1.0000
+  Be  Be2       1.0  0.3786680601206519  0.8133562205301106  0.5056085134923414  1.0000
+  B   B1        1.0  0.37856744102764817  0.31317441614001024  0.37854727658216974  1.0000
+  B   B2        1.0  0.8785457527250379  0.8137075737555322  0.6338986559781596  1.0000

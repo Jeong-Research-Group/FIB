@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnHoMnAl2Mn
+_chemical_formula_sum              "Mn3 Ho1 Al2"
+_cell_length_a       3.9615541513761516
+_cell_length_b       5.141124429904197
+_cell_length_c       5.1464385986328125
+_cell_angle_alpha    116.7287919411011
+_cell_angle_beta     90.09412934083365
+_cell_angle_gamma    89.94586642623051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.539457380771637  0.9497090578079224  0.7940282225608826  1.0000
+  Ho  Ho1       1.0  0.539766788482666  0.5931106805801393  0.1523573845624924  1.0000
+  Mn  Mn2       1.0  0.5403276681900024  0.23489294946193698  0.5103209018707275  1.0000
+  Al  Al1       1.0  0.04056365787982941  0.09211041778326035  0.1524052619934082  1.0000
+  Al  Al2       1.0  0.039935022592544556  0.592931866645813  0.6529586315155029  1.0000
+  Mn  Mn3       1.0  0.04025932401418686  0.09281186014413834  0.6524444222450256  1.0000

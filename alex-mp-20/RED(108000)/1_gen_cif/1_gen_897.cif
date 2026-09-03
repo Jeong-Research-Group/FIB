@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2AlZnAg2
+_chemical_formula_sum              "Ca2 Al1 Zn1 Ag2"
+_cell_length_a       4.650864372498675
+_cell_length_b       4.652463675839975
+_cell_length_c       7.5104788642284
+_cell_angle_alpha    89.98673043243383
+_cell_angle_beta     89.99470601988028
+_cell_angle_gamma    119.97627543926865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.35784508158633493  0.4051915336717805  0.6004883051973015  1.0000
+  Ca  Ca2       1.0  0.3575826085790169  0.40465132378509383  0.10296649737492676  1.0000
+  Al  Al1       1.0  0.024478334136725826  0.7380796186244515  0.8521821317429034  1.0000
+  Zn  Zn1       1.0  0.6907710293684095  0.07137417161816723  0.35249231415675053  1.0000
+  Ag  Ag1       1.0  0.691007507344712  0.07169968943262979  0.8506063783580635  1.0000
+  Ag  Ag2       1.0  0.024244759626884806  0.7378258165658329  0.35056798807305056  1.0000

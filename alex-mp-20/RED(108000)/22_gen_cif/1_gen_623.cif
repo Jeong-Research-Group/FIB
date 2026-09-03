@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2BeCuB2
+_chemical_formula_sum              "Zr2 Be1 Cu1 B2"
+_cell_length_a       3.3874071489981343
+_cell_length_b       3.387201845937427
+_cell_length_c       7.520299982487905
+_cell_angle_alpha    89.99521108931742
+_cell_angle_beta     90.02424326647898
+_cell_angle_gamma    120.0032133340187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.4660489396168287  0.7391932767889134  0.22027582515200328  1.0000
+  Zr  Zr2       1.0  0.4671492869225101  0.7394733754254279  0.665735346185137  1.0000
+  Be  Be1       1.0  0.798859585254789  0.4063301629778172  0.9416555652076745  1.0000
+  Cu  Cu1       1.0  0.13223238985638275  0.07302449318130215  0.9436401668462474  1.0000
+  B   B1        1.0  0.7999653786711115  0.4059787196224248  0.4429443680356473  1.0000
+  B   B2        1.0  0.13345036564489632  0.07242768581120054  0.4433682930950145  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2TiAuC
+_chemical_formula_sum              "Zr2 Ti1 Au1 C1"
+_cell_length_a       4.542997595003989
+_cell_length_b       4.186061203430067
+_cell_length_c       4.543996641234773
+_cell_angle_alpha    89.98580564894235
+_cell_angle_beta     89.99107749873203
+_cell_angle_gamma    89.98715028514455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.14618617014088908  0.24422273120367527  0.4850754794156538  1.0000
+  Zr  Zr2       1.0  0.6463333087332623  0.2443315985210104  0.9852906131852603  1.0000
+  Ti  Ti1       1.0  0.6462480556717899  0.7442037680399771  0.4855284625643379  1.0000
+  Au  Au1       1.0  0.1463148228337416  0.7443798269902699  0.9855449611493946  1.0000
+  C   C1        1.0  0.646037261229307  0.2442049391358955  0.4849669278725134  1.0000

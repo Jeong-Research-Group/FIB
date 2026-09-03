@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2ZnMoN
+_chemical_formula_sum              "Sc2 Zn1 Mo1 N1"
+_cell_length_a       4.027077903631214
+_cell_length_b       4.447225801479247
+_cell_length_c       4.447365822017268
+_cell_angle_alpha    90.00256385012737
+_cell_angle_beta     90.00088239665746
+_cell_angle_gamma    90.0022721602312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.11655011877623228  0.160840070161232  0.9825054391789741  1.0000
+  Sc  Sc2       1.0  0.11648343855621832  0.6611654218039751  0.4827117573408793  1.0000
+  Zn  Zn1       1.0  0.6163057630130232  0.16084632687722492  0.48255630384433895  1.0000
+  Mo  Mo1       1.0  0.616888410358473  0.6608670276197286  0.9827368952122154  1.0000
+  N   N1        1.0  0.11699585163770566  0.6609745718169645  0.9825676447536354  1.0000

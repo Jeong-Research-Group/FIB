@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2Sr2Ir
+_chemical_formula_sum              "Na2 Sr2 Ir1"
+_cell_length_a       5.782358451280545
+_cell_length_b       5.782401571729483
+_cell_length_c       5.807230386210398
+_cell_angle_alpha    90.0032245186529
+_cell_angle_beta     89.99872209287629
+_cell_angle_gamma    90.00689535507667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9997959380538348  0.5168695913167132  0.1451234592127513  1.0000
+  Na  Na2       1.0  0.5008634052295936  0.015410770053414518  0.1445574882952581  1.0000
+  Sr  Sr1       1.0  0.5001072530019546  0.5165124016167545  0.6453011862385338  1.0000
+  Sr  Sr2       1.0  0.9995974532640944  0.017182733403787096  0.6439613784393143  1.0000
+  Ir  Ir1       1.0  0.9993576547662398  0.5174177996252866  0.644681893799408  1.0000

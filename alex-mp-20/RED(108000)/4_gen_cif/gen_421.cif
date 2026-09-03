@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaMgLaCEr
+_chemical_formula_sum              "La2 Mg1 C1 Er1"
+_cell_length_a       5.272895829080213
+_cell_length_b       4.8374695142610795
+_cell_length_c       5.277828216552734
+_cell_angle_alpha    89.97631540800303
+_cell_angle_beta     90.00447627864617
+_cell_angle_gamma    90.01552752451526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9242882132530212  0.3293511867523193  0.34093886613845825  1.0000
+  Mg  Mg1       1.0  0.4245089888572693  0.8292970657348632  0.3408205509185791  1.0000
+  La  La2       1.0  0.42422613501548767  0.32911661267280573  0.8409062027931213  1.0000
+  C   C1        1.0  0.923309326171875  0.3291570842266082  0.840839147567749  1.0000
+  Er  Er1       1.0  0.9244771599769592  0.8289811015129089  0.8408307433128357  1.0000

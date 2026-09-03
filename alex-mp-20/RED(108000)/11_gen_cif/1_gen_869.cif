@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2BeSb2Pd
+_chemical_formula_sum              "Ca2 Be1 Sb2 Pd1"
+_cell_length_a       4.351230577666978
+_cell_length_b       6.159346119088775
+_cell_length_c       6.171365636216309
+_cell_angle_alpha    76.78838107824048
+_cell_angle_beta     69.34900021316581
+_cell_angle_gamma    69.32564959752983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.907423208393842  0.7203215029383573  0.038957019142506245  1.0000
+  Ca  Ca2       1.0  0.42241471345361775  0.20313178077339403  0.5269986645594558  1.0000
+  Be  Be1       1.0  0.6665103320741599  0.29450656348592197  0.9469533206621411  1.0000
+  Sb  Sb1       1.0  0.6642178894638626  0.609645612712016  0.6367150189368901  1.0000
+  Sb  Sb2       1.0  0.16323308996368416  0.14598488479828153  0.10190923550811233  1.0000
+  Pd  Pd1       1.0  0.16879703603615168  0.7968196725634601  0.4406113235511308  1.0000

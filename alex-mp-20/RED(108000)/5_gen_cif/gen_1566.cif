@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2GaMgGaHf
+_chemical_formula_sum              "Mg3 Ga2 Hf1"
+_cell_length_a       3.1107645099394556
+_cell_length_b       3.110122167576674
+_cell_length_c       12.331622123718262
+_cell_angle_alpha    89.97934118102752
+_cell_angle_beta     89.996307372387
+_cell_angle_gamma    89.8359413669541
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6962091326713562  0.13471929728984833  0.22860781848430634  1.0000
+  Mg  Mg2       1.0  0.19595275819301608  0.6341139078140259  0.04113801568746567  1.0000
+  Ga  Ga1       1.0  0.19605188071727755  0.635320782661438  0.38202330470085144  1.0000
+  Mg  Mg3       1.0  0.6962960362434387  0.13499866425991058  0.8536781668663025  1.0000
+  Ga  Ga2       1.0  0.1966001391410828  0.6355038881301879  0.7006344199180603  1.0000
+  Hf  Hf1       1.0  0.6964132785797119  0.13566270470619202  0.5422674417495728  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2PbAu
+_chemical_formula_sum              "Sm2 Pb1 Au1"
+_cell_length_a       3.8722825520101734
+_cell_length_b       5.335278522529341
+_cell_length_c       5.334286212921143
+_cell_angle_alpha    90.0686185858937
+_cell_angle_beta     89.99107544736522
+_cell_angle_gamma    89.96174661617819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.3938754200935364  0.5720148682594299  0.6414146423339844  1.0000
+  Sm  Sm2       1.0  0.3938330411911011  0.0718361958861351  0.14154110848903656  1.0000
+  Pb  Pb1       1.0  0.8939650058746339  0.5723018050193787  0.14144791662693024  1.0000
+  Au  Au1       1.0  0.8947187662124635  0.07141504436731339  0.6410490870475769  1.0000

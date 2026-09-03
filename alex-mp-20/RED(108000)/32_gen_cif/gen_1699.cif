@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2OCuO2
+_chemical_formula_sum              "Mn2 O3 Cu1"
+_cell_length_a       3.190624059578163
+_cell_length_b       4.397868359167729
+_cell_length_c       5.424289703369141
+_cell_angle_alpha    66.0800161010348
+_cell_angle_beta     106.97146478152561
+_cell_angle_gamma    89.88140986867421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.01988537609577179  0.9419018626213075  0.7230612635612488  1.0000
+  Mn  Mn2       1.0  0.6918802261352539  0.270655632019043  0.0668577700853348  1.0000
+  O   O1        1.0  0.3565446138381958  0.10647883266210557  0.39521437883377075  1.0000
+  Cu  Cu1       1.0  0.3562569320201874  0.6065350770950317  0.3950453996658325  1.0000
+  O   O2        1.0  0.6913949847221375  0.7715745568275453  0.06379684805870055  1.0000
+  O   O3        1.0  0.021792782470583916  0.44083458185195923  0.7264540195465088  1.0000

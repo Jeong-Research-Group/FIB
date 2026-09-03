@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2CuAg
+_chemical_formula_sum              "Lu2 Cu1 Ag1"
+_cell_length_a       3.435570675050181
+_cell_length_b       3.4334378822371607
+_cell_length_c       7.121769795510077
+_cell_angle_alpha    90.01360749241587
+_cell_angle_beta     89.97674303685395
+_cell_angle_gamma    89.94974798420715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.6248659364054663  0.5041609094456235  0.6370932758624813  1.0000
+  Lu  Lu2       1.0  0.6250788335094853  0.5041700529523504  0.10654631464961438  1.0000
+  Cu  Cu1       1.0  0.12486523720766644  0.004170391906501136  0.8719111874027093  1.0000
+  Ag  Ag1       1.0  0.12485448081355277  0.004134626616045696  0.3719838577983561  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2HoMgO
+_chemical_formula_sum              "La2 Ho1 Mg1 O1"
+_cell_length_a       4.567195249341065
+_cell_length_b       5.258843981111848
+_cell_length_c       5.260157926798484
+_cell_angle_alpha    89.99869788496726
+_cell_angle_beta     89.95793238915915
+_cell_angle_gamma    89.95799091054816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.1580133911050321  0.18068841098152466  0.6985596281213635  1.0000
+  La  La2       1.0  0.1583971421301139  0.6806765957393062  0.19839591265904083  1.0000
+  Ho  Ho1       1.0  0.6583601899197731  0.1807887331678401  0.1987658792924154  1.0000
+  Mg  Mg1       1.0  0.6586714203109509  0.6807515163357334  0.698539888582628  1.0000
+  O   O1        1.0  0.15839128448079912  0.180639825106392  0.19858942479534858  1.0000

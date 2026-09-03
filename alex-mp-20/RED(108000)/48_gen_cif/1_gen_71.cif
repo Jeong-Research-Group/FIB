@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2In2Cu2H2
+_chemical_formula_sum              "Sm2 In2 Cu2 H2"
+_cell_length_a       4.335523688691197
+_cell_length_b       4.3408082993792725
+_cell_length_c       7.480662634104789
+_cell_angle_alpha    90.00487676649497
+_cell_angle_beta     90.01085074663673
+_cell_angle_gamma    90.0222081580088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.6928204369761832  0.82844581953307  0.21425718867847018  1.0000
+  Sm  Sm2       1.0  0.1928215950900721  0.3283332032172056  0.5221163110169414  1.0000
+  In  In1       1.0  0.6928146313743918  0.8281242964612396  0.6755702066319523  1.0000
+  In  In2       1.0  0.1928990575768308  0.3282148796353008  0.06122044293873115  1.0000
+  Cu  Cu1       1.0  0.19280304608650822  0.8280209759220415  0.8687940718507827  1.0000
+  Cu  Cu2       1.0  0.6927789377345288  0.3278224531676154  0.8679256528111409  1.0000
+  H   H1        1.0  0.6930301279293595  0.3285610649374989  0.3677978590268103  1.0000
+  H   H2        1.0  0.19282284567432423  0.828836145889889  0.3694131484142911  1.0000

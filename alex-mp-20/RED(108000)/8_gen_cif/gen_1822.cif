@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaAlGaCu2
+_chemical_formula_sum              "Ga2 Al1 Cu2"
+_cell_length_a       2.849993642336309
+_cell_length_b       4.510541715517963
+_cell_length_c       6.368775367736816
+_cell_angle_alpha    110.61925686447735
+_cell_angle_beta     102.42188290528972
+_cell_angle_gamma    89.67338276413047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.613752007484436  0.6423893570899963  0.13713307678699493  1.0000
+  Al  Al1       1.0  0.0027911141514778137  0.03115064464509487  0.9145720601081848  1.0000
+  Ga  Ga2       1.0  0.3924192488193512  0.42037099599838257  0.6931927800178528  1.0000
+  Cu  Cu1       1.0  0.29780757427215576  0.8270368576049805  0.50702965259552  1.0000
+  Cu  Cu2       1.0  0.7091141939163208  0.23557734489440918  0.3234279751777649  1.0000

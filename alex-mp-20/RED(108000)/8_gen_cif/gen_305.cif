@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiBeTi2BeH
+_chemical_formula_sum              "Ti3 Be2 H1"
+_cell_length_a       3.7669181399330838
+_cell_length_b       3.7688016420316846
+_cell_length_c       5.184277534484863
+_cell_angle_alpha    90.03974054406788
+_cell_angle_beta     89.89843759515855
+_cell_angle_gamma    90.08072167854424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.3525298535823822  0.42953264713287354  0.29075416922569275  1.0000
+  Be  Be1       1.0  0.8533956408500671  0.4297503530979156  0.976904273033142  1.0000
+  Ti  Ti2       1.0  0.3525737524032593  0.9292985796928406  0.7915775179862975  1.0000
+  Ti  Ti3       1.0  0.8525497317314148  0.9295293092727661  0.29141223430633545  1.0000
+  Be  Be2       1.0  0.8513751029968262  0.43012532591819763  0.6053208708763123  1.0000
+  H   H1        1.0  0.3525545597076416  0.9296468496322631  0.2950113117694855  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtDy2In2Pt
+_chemical_formula_sum              "Pt2 Dy2 In2"
+_cell_length_a       4.197697227738614
+_cell_length_b       4.219485422860526
+_cell_length_c       7.658451080322266
+_cell_angle_alpha    89.98524246404357
+_cell_angle_beta     89.9708854066945
+_cell_angle_gamma    89.99688793813253
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.8225923180580139  0.10382279753684998  0.30901116132736206  1.0000
+  Dy  Dy1       1.0  0.8230748772621155  0.10371724516153336  0.929628849029541  1.0000
+  Dy  Dy2       1.0  0.32262590527534485  0.6038445234298706  0.22549739480018616  1.0000
+  In  In1       1.0  0.3230315148830414  0.1036420539021492  0.5769356489181519  1.0000
+  In  In2       1.0  0.8223606944084167  0.6035040616989136  0.5770400762557983  1.0000
+  Pt  Pt2       1.0  0.322827011346817  0.6038068532943726  0.8456743359565735  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsHg2PdAu
+_chemical_formula_sum              "Cs1 Hg2 Pd1 Au1"
+_cell_length_a       5.4643296038315885
+_cell_length_b       5.407105744528976
+_cell_length_c       5.407165350993736
+_cell_angle_alpha    90.06895102227223
+_cell_angle_beta     90.03828111980005
+_cell_angle_gamma    90.01523593894426
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.668259676263127  0.14799385087509115  0.24074414951768391  1.0000
+  Hg  Hg1       1.0  0.16835288530525094  0.6475666578201605  0.24081183395783506  1.0000
+  Hg  Hg2       1.0  0.1684409256935368  0.14762780978820225  0.7410438084940388  1.0000
+  Pd  Pd1       1.0  0.16751119253906138  0.6475774164621064  0.7409173665064321  1.0000
+  Au  Au1       1.0  0.6681190474594683  0.6478899365062781  0.7407078742059459  1.0000

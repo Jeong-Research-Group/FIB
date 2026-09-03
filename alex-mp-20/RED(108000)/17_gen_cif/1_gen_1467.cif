@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2GaRh3
+_chemical_formula_sum              "Mg2 Ga1 Rh3"
+_cell_length_a       4.185311232053329
+_cell_length_b       4.099986094752618
+_cell_length_c       5.717797118422875
+_cell_angle_alpha    89.99709594437044
+_cell_angle_beta     111.46673739927515
+_cell_angle_gamma    90.00210394692348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9318937655203026  0.002348034260973097  0.7813135371835694  1.0000
+  Mg  Mg2       1.0  0.11959073235131207  0.5023367658533477  0.15686201553040066  1.0000
+  Ga  Ga1       1.0  0.4266154839739658  0.5023342415685805  0.7708447339351967  1.0000
+  Rh  Rh1       1.0  0.7766556262004359  0.5023750584947321  0.4709384697039603  1.0000
+  Rh  Rh2       1.0  0.5932931758906678  0.0023869396172145965  0.10411015993691508  1.0000
+  Rh  Rh3       1.0  0.27899962826817293  0.002340913492845982  0.47549482119021363  1.0000

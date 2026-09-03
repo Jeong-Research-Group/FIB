@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TbCd2Ge3Pb
+_chemical_formula_sum              "Tb1 Cd2 Ge3 Pb1"
+_cell_length_a       4.513075234612963
+_cell_length_b       4.553614815855994
+_cell_length_c       8.676904620933982
+_cell_angle_alpha    105.22774844579061
+_cell_angle_beta     90.01894182178526
+_cell_angle_gamma    90.00109495452612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.28176367730222396  0.9195882408278012  0.3612748978334058  1.0000
+  Cd  Cd1       1.0  0.2830951616844446  0.6989406581842663  0.9183294908417601  1.0000
+  Cd  Cd2       1.0  0.7810864205676815  0.42774013601236166  0.3782012180040078  1.0000
+  Ge  Ge1       1.0  0.2798255193765449  0.30232555728130966  0.1257997156990572  1.0000
+  Ge  Ge2       1.0  0.7823191104385768  0.802367604612788  0.1292852245698424  1.0000
+  Ge  Ge3       1.0  0.28109510609533067  0.5388263404152854  0.6000707119341641  1.0000
+  Pb  Pb1       1.0  0.7823057749199634  0.09022015031321731  0.7019479966715403  1.0000

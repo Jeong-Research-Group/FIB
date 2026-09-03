@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2MoIrPdPt
+_chemical_formula_sum              "Li2 Mo1 Ir1 Pd1 Pt1"
+_cell_length_a       2.7637110328480654
+_cell_length_b       2.763694554685287
+_cell_length_c       12.325692339112337
+_cell_angle_alpha    89.99051636535606
+_cell_angle_beta     90.0141667422382
+_cell_angle_gamma    90.00351497117106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9645606444840901  0.7948188553116271  0.40965893397334946  1.0000
+  Li  Li2       1.0  0.46411616061172273  0.2954407774925473  0.605411161218069  1.0000
+  Mo  Mo1       1.0  0.46551502444110404  0.29472439897849434  0.22731270575194998  1.0000
+  Ir  Ir1       1.0  0.9653660747668343  0.7948648861861277  0.0781291111636877  1.0000
+  Pd  Pd1       1.0  0.9643668807476125  0.7954082295649695  0.7443907975915659  1.0000
+  Pt  Pt1       1.0  0.46477842106625405  0.29514516090138904  0.912530776376106  1.0000

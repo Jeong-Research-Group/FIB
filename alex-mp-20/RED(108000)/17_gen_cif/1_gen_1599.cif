@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnHg2Pb3
+_chemical_formula_sum              "Sn1 Hg2 Pb3"
+_cell_length_a       5.0441155332945575
+_cell_length_b       5.022380763001414
+_cell_length_c       7.615686530780228
+_cell_angle_alpha    89.99753435779023
+_cell_angle_beta     70.60651433168199
+_cell_angle_gamma    90.01160451923128
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.009376363082356835  0.45804198429311677  0.6878487936665185  1.0000
+  Hg  Hg1       1.0  0.34210822740341285  0.45795697740388497  0.020568191877282843  1.0000
+  Hg  Hg2       1.0  0.8431603991754067  0.957602033999425  0.01984894534107296  1.0000
+  Pb  Pb1       1.0  0.5049328560416957  0.9582156958837309  0.6956657734393356  1.0000
+  Pb  Pb2       1.0  0.6719597551854474  0.45820080028143323  0.36136364385332403  1.0000
+  Pb  Pb3       1.0  0.17608083046137757  0.9578512585774505  0.35326327147166137  1.0000

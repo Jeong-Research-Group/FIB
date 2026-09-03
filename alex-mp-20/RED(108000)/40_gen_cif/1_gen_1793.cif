@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdIn2SnAu
+_chemical_formula_sum              "Cd1 In2 Sn1 Au1"
+_cell_length_a       3.312452177251596
+_cell_length_b       6.280923628794456
+_cell_length_c       6.348773877920947
+_cell_angle_alpha    87.12698342533311
+_cell_angle_beta     90.3995596666061
+_cell_angle_gamma    105.09357477878359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.006307875982248048  0.5718134591072882  0.383380257368848  1.0000
+  In  In1       1.0  0.3619833192813519  0.29401935187505857  0.9800434732115375  1.0000
+  In  In2       1.0  0.09194963256926013  0.7497524961723193  0.8428975647989605  1.0000
+  Sn  Sn1       1.0  0.29052137182520726  0.13964018137727657  0.49698165020626106  1.0000
+  Au  Au1       1.0  0.683071679144314  0.924566260744578  0.17711986999085785  1.0000

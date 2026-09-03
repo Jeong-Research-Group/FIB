@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Lu3C2
+_chemical_formula_sum              "Lu3 C2"
+_cell_length_a       3.4769582151630116
+_cell_length_b       3.4764280171020037
+_cell_length_c       9.062423461587082
+_cell_angle_alpha    90.0277174077796
+_cell_angle_beta     90.05171462546906
+_cell_angle_gamma    119.99410966666136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.3964607553949773  0.5696714574454627  0.6183896700352194  1.0000
+  Lu  Lu2       1.0  0.3958878116073968  0.569411970179926  0.9335123851967108  1.0000
+  Lu  Lu3       1.0  0.7304377045039009  0.23715345399023857  0.2263595726376212  1.0000
+  C   C1        1.0  0.06343220476285716  0.9033317717542715  0.74604409087703  1.0000
+  C   C2        1.0  0.06326570570540657  0.9033775662554027  0.09711714562473923  1.0000

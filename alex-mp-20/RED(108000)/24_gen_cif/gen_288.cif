@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaCCa3CSeS
+_chemical_formula_sum              "Ca4 C2 Se1 S1"
+_cell_length_a       3.7709220285381293
+_cell_length_b       5.662010075573761
+_cell_length_c       8.24363899230957
+_cell_angle_alpha    90.30727224437288
+_cell_angle_beta     90.04711715161507
+_cell_angle_gamma    90.11016662560337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.3928166329860687  0.13931593298912048  0.9386642575263977  1.0000
+  C   C1        1.0  0.3936399519443512  0.6380836963653564  0.9542242288589478  1.0000
+  Ca  Ca2       1.0  0.893146276473999  0.6388856768608093  0.18696902692317963  1.0000
+  Ca  Ca3       1.0  0.39299559593200684  0.1393669992685318  0.4911706745624542  1.0000
+  Ca  Ca4       1.0  0.8929319381713867  0.637849748134613  0.7274497151374817  1.0000
+  C   C2        1.0  0.8921198844909668  0.1405942142009735  0.7153743505477905  1.0000
+  Se  Se1       1.0  0.8934310674667358  0.14035823941230774  0.21301241219043732  1.0000
+  S   S1        1.0  0.3933875560760498  0.6392538547515869  0.4633519947528839  1.0000

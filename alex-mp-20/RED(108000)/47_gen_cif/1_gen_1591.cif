@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiNi2HRh
+_chemical_formula_sum              "Ti1 Ni2 H1 Rh1"
+_cell_length_a       3.696310868893621
+_cell_length_b       3.8775159679591242
+_cell_length_c       3.697490370282488
+_cell_angle_alpha    89.96844638744612
+_cell_angle_beta     89.9386798306755
+_cell_angle_gamma    89.96693416871075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.23463018945083897  0.6535479717853108  0.9773114889564913  1.0000
+  Ni  Ni1       1.0  0.7343582441182751  0.15341033547990413  0.97738202639565  1.0000
+  Ni  Ni2       1.0  0.23489645791497044  0.15343875695217313  0.47738817192961935  1.0000
+  H   H1        1.0  0.7353927055913387  0.1531211226810485  0.47765494134436665  1.0000
+  Rh  Rh1       1.0  0.734525986804114  0.6533166380864245  0.47736335462278573  1.0000

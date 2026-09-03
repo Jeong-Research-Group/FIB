@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Fe2MoIrN
+_chemical_formula_sum              "Fe2 Mo1 Ir1 N1"
+_cell_length_a       3.847009509171214
+_cell_length_b       3.846907302678213
+_cell_length_c       4.045219888137034
+_cell_angle_alpha    90.00109086798396
+_cell_angle_beta     89.9918172417065
+_cell_angle_gamma    90.00003556754837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.42712398180436084  0.2671245193408055  0.676207665589635  1.0000
+  Fe  Fe2       1.0  0.9271730783104758  0.7672307376878336  0.6762255099864606  1.0000
+  Mo  Mo1       1.0  0.9271315730715011  0.2672696334292131  0.17655911803011393  1.0000
+  Ir  Ir1       1.0  0.42708066111387727  0.767029698092681  0.17622707578794997  1.0000
+  N   N1        1.0  0.9271220865317675  0.26724253063252223  0.6764674066017838  1.0000

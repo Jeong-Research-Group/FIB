@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2NdSnTe4
+_chemical_formula_sum              "Li2 Nd1 Sn1 Te4"
+_cell_length_a       4.382044938199283
+_cell_length_b       7.5834805688901765
+_cell_length_c       7.601986473288932
+_cell_angle_alpha    110.30035128059583
+_cell_angle_beta     90.00145156347354
+_cell_angle_gamma    89.99991938127705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6409897198789457  0.8763267863970859  0.8620001610375535  1.0000
+  Li  Li2       1.0  0.1408442503496249  0.8757727141633117  0.36250365661452866  1.0000
+  Nd  Nd1       1.0  0.6404187274600066  0.37624646838212666  0.36203500282853984  1.0000
+  Sn  Sn1       1.0  0.14040308631186313  0.3758203602043979  0.8620108540502535  1.0000
+  Te  Te1       1.0  0.6404236172350033  0.6309755806833512  0.10919946144980497  1.0000
+  Te  Te2       1.0  0.14051030839625092  0.1148930345540901  0.10391799052098921  1.0000
+  Te  Te3       1.0  0.6402570753551086  0.12160072644729888  0.6147739242244434  1.0000
+  Te  Te4       1.0  0.14049506075384907  0.6376837928804259  0.6206504875809964  1.0000

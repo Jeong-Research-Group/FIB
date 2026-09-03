@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiInCoNi2
+_chemical_formula_sum              "Ni3 In1 Co1"
+_cell_length_a       3.688281982853968
+_cell_length_b       4.519977971420759
+_cell_length_c       4.550436496734619
+_cell_angle_alpha    80.81750324866272
+_cell_angle_beta     113.97529707251607
+_cell_angle_gamma    114.02892108419016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.33783695101737976  0.1664830595254898  0.7326881885528564  1.0000
+  In  In1       1.0  0.7453698515892029  0.3836205005645752  0.32967180013656616  1.0000
+  Co  Co1       1.0  0.5653852224349976  0.7906608581542969  0.5636394023895264  1.0000
+  Ni  Ni2       1.0  0.9365066885948182  0.9785707592964173  0.11688426882028577  1.0000
+  Ni  Ni3       1.0  0.15651553869247437  0.6048789620399475  0.9291543364524841  1.0000

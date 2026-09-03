@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTl4In2Hg
+_chemical_formula_sum              "Na1 Tl4 In2 Hg1"
+_cell_length_a       5.607245244911201
+_cell_length_b       6.959992438464999
+_cell_length_c       7.179553768668766
+_cell_angle_alpha    122.17920845240327
+_cell_angle_beta     89.9663730046044
+_cell_angle_gamma    89.9988869290747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9342040272555735  0.9859468396867678  0.1569611315528864  1.0000
+  Tl  Tl1       1.0  0.934849938593949  0.47723041863008264  0.6614487655242159  1.0000
+  Tl  Tl2       1.0  0.934060242239612  0.48180872757246024  0.16740010385467802  1.0000
+  Tl  Tl3       1.0  0.4342129016702921  0.6359259350111675  0.0025245903900109733  1.0000
+  Tl  Tl4       1.0  0.4338639715490693  0.12915944173894944  0.5031256753097424  1.0000
+  In  In1       1.0  0.4349219063035128  0.6373271014951297  0.5023454453639998  1.0000
+  In  In2       1.0  0.9334299820616039  0.9815446260735008  0.6764041420659773  1.0000
+  Hg  Hg1       1.0  0.4338171508058759  0.12470431513591669  0.9931735671441705  1.0000

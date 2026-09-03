@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbBiCd2BiPb
+_chemical_formula_sum              "Pb2 Bi2 Cd2"
+_cell_length_a       5.488741884863897
+_cell_length_b       5.49023581264533
+_cell_length_c       6.8611159324646
+_cell_angle_alpha    89.9970791834118
+_cell_angle_beta     89.99651227766664
+_cell_angle_gamma    119.98818790404204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2065213173627854  0.7859668135643006  0.8981458544731141  1.0000
+  Bi  Bi1       1.0  0.5397160053253174  0.4525858461856842  0.6499300003051758  1.0000
+  Cd  Cd1       1.0  0.5398297905921936  0.4517049193382263  0.1501370370388031  1.0000
+  Cd  Cd2       1.0  0.8735289573669434  0.119500532746315  0.6491278409957886  1.0000
+  Bi  Bi2       1.0  0.8732495903968811  0.11857797205448152  0.14913934469223022  1.0000
+  Pb  Pb2       1.0  0.20626229047775269  0.7854021191596985  0.40042832493782043  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnCuInCu
+_chemical_formula_sum              "Mn1 Cu2 In1"
+_cell_length_a       3.5413172250944207
+_cell_length_b       4.133700859907061
+_cell_length_c       4.139191150665283
+_cell_angle_alpha    89.99558337240296
+_cell_angle_beta     90.00104752341853
+_cell_angle_gamma    90.00317854245372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6631243824958801  0.5241084694862366  0.6776005029678345  1.0000
+  Cu  Cu1       1.0  0.1632288694381714  0.5240973234176636  0.17758485674858093  1.0000
+  In  In1       1.0  0.6631048321723938  0.024168187752366066  0.17787578701972961  1.0000
+  Cu  Cu2       1.0  0.16305308043956757  0.02410217933356762  0.6778754591941833  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrCuSn2Ir
+_chemical_formula_sum              "Sr1 Cu1 Sn2 Ir1"
+_cell_length_a       4.548084580683403
+_cell_length_b       4.5531324806399365
+_cell_length_c       6.49051506142578
+_cell_angle_alpha    110.59601848444812
+_cell_angle_beta     69.48709652159282
+_cell_angle_gamma    90.07650656481434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4854424302814203  0.8076072580844975  0.8505964404183456  1.0000
+  Cu  Cu1       1.0  0.23511402331264297  0.5587229624578647  0.3519079214706473  1.0000
+  Sn  Sn1       1.0  0.11638040690042124  0.1764516466942525  0.5879227028604326  1.0000
+  Sn  Sn2       1.0  0.8543687624805061  0.4382568671199238  0.11388957305938927  1.0000
+  Ir  Ir1       1.0  0.7348405781917559  0.05728558399637704  0.35065277876785195  1.0000

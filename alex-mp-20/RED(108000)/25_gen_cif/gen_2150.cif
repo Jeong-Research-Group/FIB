@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KPKFePFe
+_chemical_formula_sum              "K2 P2 Fe2"
+_cell_length_a       3.8298817523617283
+_cell_length_b       3.8325829976557433
+_cell_length_c       10.429701805114746
+_cell_angle_alpha    89.94213713119595
+_cell_angle_beta     90.03702213209044
+_cell_angle_gamma    90.09406104698084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.8291090726852417  0.41904890537261963  0.359138548374176  1.0000
+  P   P1        1.0  0.32847902178764343  0.919144093990326  0.18177004158496857  1.0000
+  K   K2        1.0  0.32851123809814453  0.9193743467330933  0.7943419814109802  1.0000
+  Fe  Fe1       1.0  0.8284798860549927  0.9190166592597963  0.07738907635211945  1.0000
+  P   P2        1.0  0.8285602331161499  0.4188716411590576  0.9710250496864319  1.0000
+  Fe  Fe2       1.0  0.32867172360420227  0.41888502240180975  0.07687260955572128  1.0000

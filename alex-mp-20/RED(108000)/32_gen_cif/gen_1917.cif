@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrSiPrClPrAsClPr
+_chemical_formula_sum              "Pr4 Si1 Cl2 As1"
+_cell_length_a       4.288896815048289
+_cell_length_b       7.427798193172681
+_cell_length_c       7.438802719116211
+_cell_angle_alpha    109.23960064652671
+_cell_angle_beta     89.94921321428785
+_cell_angle_gamma    89.96874072782413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.20390716195106506  0.30980560183525085  0.26503220200538635  1.0000
+  Si  Si1       1.0  0.7035549283027649  0.07353437691926956  0.03832296282052994  1.0000
+  Pr  Pr2       1.0  0.7032313942909241  0.8218998908996583  0.26508721709251404  1.0000
+  Cl  Cl1       1.0  0.20369236171245575  0.0735277459025383  0.5385251045227051  1.0000
+  Pr  Pr3       1.0  0.20337055623531342  0.8374475240707397  0.8120986223220826  1.0000
+  As  As1       1.0  0.20383977890014648  0.5733606815338136  0.03837386146187782  1.0000
+  Cl  Cl2       1.0  0.7035230398178101  0.5735543966293335  0.5383091568946838  1.0000
+  Pr  Pr4       1.0  0.7040993571281433  0.324647605419159  0.8110944628715516  1.0000

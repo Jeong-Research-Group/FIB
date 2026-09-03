@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmRe2Si2C
+_chemical_formula_sum              "Sm1 Re2 Si2 C1"
+_cell_length_a       4.180954000062087
+_cell_length_b       4.180942893614037
+_cell_length_c       5.3309670138147105
+_cell_angle_alpha    90.00454383416513
+_cell_angle_beta     89.99768092495508
+_cell_angle_gamma    89.99996164670016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.18026047792840763  0.2738397510441058  0.06553413332074379  1.0000
+  Re  Re1       1.0  0.6799458563431594  0.27353556309848875  0.5654012169106051  1.0000
+  Re  Re2       1.0  0.17989899520168626  0.7736181154752644  0.5656396437272291  1.0000
+  Si  Si1       1.0  0.6799590701361514  0.773491129569932  0.2921621541943777  1.0000
+  Si  Si2       1.0  0.6799039941490287  0.7735974116712209  0.8389048421546367  1.0000
+  C   C1        1.0  0.17995692163851448  0.2736588277843252  0.5656392913512973  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2CoIr
+_chemical_formula_sum              "Fe2 Co1 Ir1"
+_cell_length_a       2.5965838403635377
+_cell_length_b       3.9348049240790886
+_cell_length_c       5.190668356131233
+_cell_angle_alpha    90.0009332899811
+_cell_angle_beta     106.6989500731208
+_cell_angle_gamma    90.00007154103675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.581424518749569  0.47420337409322355  0.3243922951903633  1.0000
+  Fe  Fe2       1.0  0.40072019635947587  0.9741677290980005  0.5710826210051693  1.0000
+  Co  Co1       1.0  0.1827504369882615  0.4741838558362746  0.801216916108675  1.0000
+  Ir  Ir1       1.0  0.8690853851041191  0.9741685205188694  0.0710766617092848  1.0000

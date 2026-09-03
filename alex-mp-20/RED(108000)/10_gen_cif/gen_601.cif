@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HSeGaSeH
+_chemical_formula_sum              "H2 Se2 Ga1"
+_cell_length_a       4.083371201800522
+_cell_length_b       4.059451285017723
+_cell_length_c       7.7120442390441895
+_cell_angle_alpha    80.66718487823836
+_cell_angle_beta     80.20533369275567
+_cell_angle_gamma    59.89959374325539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.1483837962150574  0.21132358908653257  0.580464243888855  1.0000
+  Se  Se1       1.0  0.2803325951099396  0.6355783343315125  0.07078386843204498  1.0000
+  Ga  Ga1       1.0  0.9230527877807617  0.27773481607437134  0.19436337053775787  1.0000
+  Se  Se2       1.0  0.8192957639694214  0.2200314253568649  0.5245981216430664  1.0000
+  H   H2        1.0  0.5723433494567871  0.6322354078292847  0.5389070510864258  1.0000

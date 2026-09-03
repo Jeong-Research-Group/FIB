@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co3Cu2GeH2
+_chemical_formula_sum              "Co3 Cu2 Ge1 H2"
+_cell_length_a       3.697273060974691
+_cell_length_b       3.603326485979013
+_cell_length_c       5.739517608223397
+_cell_angle_alpha    89.99555889675055
+_cell_angle_beta     71.21464102393031
+_cell_angle_gamma    89.99754037485967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.601124018165  0.2708394247114128  0.26048889420935073  1.0000
+  Co  Co2       1.0  0.937915359497983  0.2708535442421112  0.5868503914714529  1.0000
+  Co  Co3       1.0  0.2747331227200262  0.27045555303192437  0.9134440699697837  1.0000
+  Cu  Cu1       1.0  0.7670999231592798  0.7705357021087924  0.9285362358774676  1.0000
+  Cu  Cu2       1.0  0.10872952447269976  0.7707781856612952  0.24544393537657028  1.0000
+  Ge  Ge1       1.0  0.4379145800035125  0.7706328434514271  0.5869852711246376  1.0000
+  H   H1        1.0  0.1077119978543227  0.2714535907400762  0.2470676231510466  1.0000
+  H   H2        1.0  0.7682059150898326  0.2701118983625328  0.9266562663059698  1.0000

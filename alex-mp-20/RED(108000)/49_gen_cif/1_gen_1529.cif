@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeNi2B2Mo
+_chemical_formula_sum              "Ce1 Ni2 B2 Mo1"
+_cell_length_a       3.417301207741243
+_cell_length_b       3.4176710474188834
+_cell_length_c       7.589277689942611
+_cell_angle_alpha    90.00309777321543
+_cell_angle_beta     90.00723569710013
+_cell_angle_gamma    120.00432485689656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.9901140443408727  0.7895487366522735  0.07726284167662176  1.0000
+  Ni  Ni1       1.0  0.32334484935271096  0.45613818953086227  0.34149139117477995  1.0000
+  Ni  Ni2       1.0  0.65695835178149  0.12302301673021779  0.8130541751201223  1.0000
+  B   B1        1.0  0.6566217590353929  0.12280969574117807  0.3988789433505053  1.0000
+  B   B2        1.0  0.32364433106180107  0.456326121211436  0.7557279610656195  1.0000
+  Mo  Mo1       1.0  0.9901395612715452  0.7895842515554393  0.5772820878367307  1.0000

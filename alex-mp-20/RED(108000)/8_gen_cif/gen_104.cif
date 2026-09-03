@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeAsNiAsNiAs
+_chemical_formula_sum              "Ge1 As3 Ni2"
+_cell_length_a       3.3986866457219826
+_cell_length_b       3.3971228634197352
+_cell_length_c       8.739317893981934
+_cell_angle_alpha    89.92559441665726
+_cell_angle_beta     89.80685841496135
+_cell_angle_gamma    89.96634333356012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7721526026725769  0.4844227135181427  0.2810327112674713  1.0000
+  As  As1       1.0  0.773141622543335  0.48286283016204834  0.7282206416130066  1.0000
+  Ni  Ni1       1.0  0.7739400267601013  0.4860090613365173  0.9929189085960388  1.0000
+  As  As2       1.0  0.27262812852859497  0.9845383167266845  0.05198654159903526  1.0000
+  Ni  Ni2       1.0  0.26947644352912903  0.9835302233695983  0.33745524287223816  1.0000
+  As  As3       1.0  0.27322131395339966  0.9831311106681823  0.6010557413101196  1.0000

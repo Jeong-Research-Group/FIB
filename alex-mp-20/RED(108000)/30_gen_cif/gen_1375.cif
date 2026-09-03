@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2SeHClGa2Se
+_chemical_formula_sum              "Cl3 Se2 H1 Ga2"
+_cell_length_a       3.820434496006407
+_cell_length_b       6.420292759334608
+_cell_length_c       9.880575180053711
+_cell_angle_alpha    98.23675290808019
+_cell_angle_beta     88.23253392802714
+_cell_angle_gamma    92.01643155568533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.25804588198661804  0.5289185643196106  0.8930054903030396  1.0000
+  Cl  Cl2       1.0  0.7537720799446106  0.03179556131362915  0.8683552742004395  1.0000
+  Se  Se1       1.0  0.35981130599975586  0.11793238669633865  0.5545710921287537  1.0000
+  H   H1        1.0  0.06212073937058449  0.9484520554542542  0.5178638100624083  1.0000
+  Cl  Cl3       1.0  0.20574045181274414  0.1409597396850586  0.20853595435619354  1.0000
+  Ga  Ga1       1.0  0.23125295341014862  0.3833765685558319  0.3885363042354584  1.0000
+  Ga  Ga2       1.0  0.2645759880542755  0.21211014688014987  0.7992602586746216  1.0000
+  Se  Se2       1.0  0.7462939023971558  0.6047044992446899  0.4149276912212372  1.0000

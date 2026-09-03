@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2InCo2
+_chemical_formula_sum              "Sm2 In1 Co2"
+_cell_length_a       4.016155379355568
+_cell_length_b       3.828251358012525
+_cell_length_c       7.327828955265709
+_cell_angle_alpha    105.12923631941078
+_cell_angle_beta     90.00243273625618
+_cell_angle_gamma    89.99539448092723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.2735633534121404  0.036805984643376984  0.12122299780102756  1.0000
+  Sm  Sm2       1.0  0.27313894171720793  0.7624650253547295  0.5726338709103619  1.0000
+  In  In1       1.0  0.7727878918122911  0.3993667110419577  0.846810978989094  1.0000
+  Co  Co1       1.0  0.7735901173790682  0.19282248686137363  0.4322769054060149  1.0000
+  Co  Co2       1.0  0.774411833131972  0.6073925499858653  0.2609767384017442  1.0000

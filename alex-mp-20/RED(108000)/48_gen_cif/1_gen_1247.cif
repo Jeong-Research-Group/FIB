@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2Si2Ru2
+_chemical_formula_sum              "K2 Si2 Ru2"
+_cell_length_a       4.349009806571246
+_cell_length_b       4.345545635390913
+_cell_length_c       9.467808265485811
+_cell_angle_alpha    89.99817680114909
+_cell_angle_beta     89.99999548901827
+_cell_angle_gamma    90.0086904477701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5139456367339819  0.31232260530948847  0.0930146047692582  1.0000
+  K   K2        1.0  0.014289938285712326  0.8121634233653621  0.50563847758312  1.0000
+  Si  Si1       1.0  0.5137285848614668  0.3122734122418121  0.7064477293734102  1.0000
+  Si  Si2       1.0  0.013593196799969964  0.8122765251182575  0.8929190459611223  1.0000
+  Ru  Ru1       1.0  0.013667840378640422  0.31232916517155895  0.7993754310351725  1.0000
+  Ru  Ru2       1.0  0.5136305321211696  0.8122159201104248  0.8001583778027819  1.0000

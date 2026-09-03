@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoRhCoBIr2
+_chemical_formula_sum              "Co2 Rh1 B1 Ir2"
+_cell_length_a       2.7824378351110592
+_cell_length_b       3.805572856297668
+_cell_length_c       6.979572296142578
+_cell_angle_alpha    89.91773287420592
+_cell_angle_beta     89.9017980440671
+_cell_angle_gamma    90.0023725800835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8969080448150634  0.44750812649726873  0.034868836402893066  1.0000
+  Rh  Rh1       1.0  0.8974555730819701  0.9447755217552186  0.7513030171394347  1.0000
+  Co  Co2       1.0  0.39822432398796076  0.9438521862030029  0.046698838472366326  1.0000
+  B   B1        1.0  0.39714315533638  0.4452524781227112  0.24469053745269773  1.0000
+  Ir  Ir1       1.0  0.3965338170528412  0.44496276974678045  0.5549481511116028  1.0000
+  Ir  Ir2       1.0  0.8965225219726561  0.9454742670059205  0.35059896111488337  1.0000

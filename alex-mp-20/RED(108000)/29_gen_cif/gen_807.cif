@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2GaH2
+_chemical_formula_sum              "Ta2 Ga1 H2"
+_cell_length_a       2.955461535553256
+_cell_length_b       2.9500517019036834
+_cell_length_c       6.859583854675293
+_cell_angle_alpha    102.33232507698298
+_cell_angle_beta     102.39055306625193
+_cell_angle_gamma    90.17508752568453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.9574406147003174  0.9974107146263123  0.9174218773841858  1.0000
+  Ta  Ta2       1.0  0.2498776763677597  0.2917023301124573  0.502966582775116  1.0000
+  Ga  Ga1       1.0  0.6042812466621399  0.6446950435638428  0.21071892976760864  1.0000
+  H   H1        1.0  0.35374224185943604  0.8954896330833435  0.7109184861183167  1.0000
+  H   H2        1.0  0.8536524176597595  0.39362433552742004  0.7088114023208618  1.0000

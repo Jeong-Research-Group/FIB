@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2Mn2Fe
+_chemical_formula_sum              "Zr2 Mn2 Fe1"
+_cell_length_a       3.7338518432875336
+_cell_length_b       5.026888837707143
+_cell_length_c       5.2338357681507075
+_cell_angle_alpha    118.7160492214537
+_cell_angle_beta     110.8981265702697
+_cell_angle_gamma    90.00274225934994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5037908626302665  0.1405416654880675  0.09037558208552755  1.0000
+  Zr  Zr2       1.0  0.9008242953404475  0.5366845546264598  0.8842027774476489  1.0000
+  Mn  Mn1       1.0  0.2025307400854106  0.5851958913666598  0.48720570431924703  1.0000
+  Mn  Mn2       1.0  0.7025322766302916  0.8362615696106211  0.48682120890139213  1.0000
+  Fe  Fe1       1.0  0.20240527976393619  0.1022277977412963  0.48740922364062483  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NRhNOCa
+_chemical_formula_sum              "N2 Rh1 O1 Ca1"
+_cell_length_a       4.006261052899071
+_cell_length_b       3.848356981643871
+_cell_length_c       3.8373055458068848
+_cell_angle_alpha    87.61970221123111
+_cell_angle_beta     90.30543488930175
+_cell_angle_gamma    90.24858724144553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.7557209730148315  0.8673306107521057  0.4912041425704956  1.0000
+  Rh  Rh1       1.0  0.7555432319641113  0.7646617293357849  0.005581110715866089  1.0000
+  N   N2        1.0  0.7556247711181641  0.26944124698638916  0.10193866491317749  1.0000
+  O   O1        1.0  0.25589531660079956  0.7427915930747985  0.9292646646499635  1.0000
+  Ca  Ca1       1.0  0.2570849657058716  0.26234808564186096  0.518847644329071  1.0000

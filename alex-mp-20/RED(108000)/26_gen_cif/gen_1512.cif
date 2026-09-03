@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2Tb2Pt2
+_chemical_formula_sum              "Zn2 Tb2 Pt2"
+_cell_length_a       4.450970253376531
+_cell_length_b       4.453823579171916
+_cell_length_c       7.107639312744141
+_cell_angle_alpha    90.00433284465352
+_cell_angle_beta     90.01089665636479
+_cell_angle_gamma    119.99826721315702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.3086086213588715  0.6386441588401796  0.9081917405128479  1.0000
+  Zn  Zn2       1.0  0.6421757340431213  0.30533954501152044  0.40852224826812744  1.0000
+  Tb  Tb1       1.0  0.9753696322441101  0.971933662891388  0.15804673731327057  1.0000
+  Tb  Tb2       1.0  0.9754844903945923  0.971719264984131  0.6588058471679688  1.0000
+  Pt  Pt1       1.0  0.30897796154022217  0.638737678527832  0.4083831012248993  1.0000
+  Pt  Pt2       1.0  0.6419517993927003  0.30495220422744757  0.9084056615829468  1.0000

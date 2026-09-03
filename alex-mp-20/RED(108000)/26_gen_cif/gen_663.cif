@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2InPtZn2Pt3Zn
+_chemical_formula_sum              "Sr2 In1 Pt4 Zn3"
+_cell_length_a       4.335959019326385
+_cell_length_b       4.334562823389377
+_cell_length_c       11.036171913146973
+_cell_angle_alpha    89.99175163593712
+_cell_angle_beta     89.9903377869468
+_cell_angle_gamma    89.95292884313176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9252719879150391  0.40864852070808416  0.0852433443069458  1.0000
+  Sr  Sr2       1.0  0.42508167028427124  0.9084890484809875  0.6130563616752625  1.0000
+  In  In1       1.0  0.4250003695487976  0.4088610112667084  0.3488202691078186  1.0000
+  Pt  Pt1       1.0  0.4248695969581604  0.40894103050231934  0.8493738174438477  1.0000
+  Zn  Zn1       1.0  0.9248917102813721  0.9086347818374635  0.3489341139793396  1.0000
+  Zn  Zn2       1.0  0.42483454942703247  0.9087507724761963  0.975124418735504  1.0000
+  Pt  Pt2       1.0  0.9250782132148743  0.9090375900268556  0.8494095206260681  1.0000
+  Pt  Pt3       1.0  0.9252838492393494  0.4088269770145416  0.4933573901653289  1.0000
+  Pt  Pt4       1.0  0.4248492419719696  0.9087290167808533  0.20476442575454712  1.0000
+  Zn  Zn3       1.0  0.9249956607818604  0.4090267419815064  0.7230549454689026  1.0000

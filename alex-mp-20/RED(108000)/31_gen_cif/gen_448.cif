@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2SnHLi
+_chemical_formula_sum              "Sc2 Sn1 H1 Li1"
+_cell_length_a       4.450189954811918
+_cell_length_b       4.244533955807464
+_cell_length_c       4.451491355895996
+_cell_angle_alpha    90.02539714985292
+_cell_angle_beta     90.08288002122531
+_cell_angle_gamma    90.03011681347934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.3007863163948059  0.14531195163726807  0.35061898827552795  1.0000
+  Sc  Sc2       1.0  0.7999616265296936  0.14519552886486053  0.8504382371902466  1.0000
+  Sn  Sn1       1.0  0.3003637492656708  0.6450111865997314  0.8501200079917908  1.0000
+  H   H1        1.0  0.8003089427947998  0.14527247846126556  0.3504350781440735  1.0000
+  Li  Li1       1.0  0.8005865216255188  0.644948422908783  0.3502006530761719  1.0000

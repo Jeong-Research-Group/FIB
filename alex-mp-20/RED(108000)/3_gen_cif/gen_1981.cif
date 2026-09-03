@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y4SiSnTe2
+_chemical_formula_sum              "Y4 Si1 Sn1 Te2"
+_cell_length_a       4.297551970002248
+_cell_length_b       7.473531886049335
+_cell_length_c       7.626851558685303
+_cell_angle_alpha    109.00438727243133
+_cell_angle_beta     90.02272654604131
+_cell_angle_gamma    90.01718042859217
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.3224908709526062  0.35090410709381104  0.9434693455696105  1.0000
+  Y   Y2        1.0  0.32252246141433716  0.8614494204521178  0.4045727849006653  1.0000
+  Y   Y3        1.0  0.8226785063743591  0.33772358298301697  0.3970123529434204  1.0000
+  Y   Y4        1.0  0.8224689960479736  0.8756008148193359  0.9513911604881286  1.0000
+  Si  Si1       1.0  0.32250118255615234  0.10610339045524596  0.1740753948688507  1.0000
+  Sn  Sn1       1.0  0.822645366191864  0.6062632203102112  0.1743801087141037  1.0000
+  Te  Te1       1.0  0.3226601779460907  0.6065495014190674  0.6751289963722229  1.0000
+  Te  Te2       1.0  0.8225155472755432  0.10655397176742552  0.673879861831665  1.0000

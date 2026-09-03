@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaZn2Si2N
+_chemical_formula_sum              "La1 Zn2 Si2 N1"
+_cell_length_a       4.543949931618914
+_cell_length_b       4.543479700773851
+_cell_length_c       4.955327181107818
+_cell_angle_alpha    90.00890579076939
+_cell_angle_beta     90.00037973682838
+_cell_angle_gamma    90.00153753511196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.20334512084009296  0.813053341219867  0.4241798989709573  1.0000
+  Zn  Zn1       1.0  0.20315849298725927  0.31300822356652086  0.9240525192525454  1.0000
+  Zn  Zn2       1.0  0.7036010897368072  0.8130672435045134  0.9237004481490858  1.0000
+  Si  Si1       1.0  0.7031789410849716  0.31294213682274485  0.6576303315038392  1.0000
+  Si  Si2       1.0  0.7032306587162594  0.3132436250369941  0.19043581058635217  1.0000
+  N   N1        1.0  0.20350677878571283  0.813157161495687  0.9255337104998411  1.0000

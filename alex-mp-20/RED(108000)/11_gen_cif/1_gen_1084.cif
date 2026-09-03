@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2ZnAg2
+_chemical_formula_sum              "Li2 Zn1 Ag2"
+_cell_length_a       3.2754106066247317
+_cell_length_b       3.2694513676560226
+_cell_length_c       7.8276675581232364
+_cell_angle_alpha    102.05742731774589
+_cell_angle_beta     102.08307658389097
+_cell_angle_gamma    89.99919049672562
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.811025904556641  0.6511659431153661  0.7249648075934718  1.0000
+  Li  Li2       1.0  0.004667192814277679  0.8452260514601556  0.11348214940225397  1.0000
+  Zn  Zn1       1.0  0.40761677027657034  0.2479939161188371  0.9190986646400534  1.0000
+  Ag  Ag1       1.0  0.5996027230546249  0.4400620299893794  0.302836370245834  1.0000
+  Ag  Ag2       1.0  0.21652056096493774  0.0567141570513913  0.5359215090722901  1.0000

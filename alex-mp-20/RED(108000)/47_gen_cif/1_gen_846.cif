@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Zr2P2
+_chemical_formula_sum              "Li2 Zr2 P2"
+_cell_length_a       3.698039090972533
+_cell_length_b       3.698030845758086
+_cell_length_c       7.107193587505934
+_cell_angle_alpha    89.99860724003973
+_cell_angle_beta     90.00030395507497
+_cell_angle_gamma    90.00109332210836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.31312669848177954  0.07037870773049693  0.30656972623002143  1.0000
+  Li  Li2       1.0  0.8131154935279412  0.570339742221216  0.3065981983875005  1.0000
+  Zr  Zr1       1.0  0.31320467703208604  0.5704005246357627  0.9467134773887608  1.0000
+  Zr  Zr2       1.0  0.813065103626482  0.07034045690362115  0.6664746572241294  1.0000
+  P   P1        1.0  0.3130582714262126  0.5704068326069842  0.5659123888677676  1.0000
+  P   P2        1.0  0.813094189832922  0.07035171652555387  0.04721074587611402  1.0000

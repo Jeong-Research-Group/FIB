@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnPd3N
+_chemical_formula_sum              "Mn1 Pd3 N1"
+_cell_length_a       3.919642768269961
+_cell_length_b       4.179582855360453
+_cell_length_c       4.179523697771549
+_cell_angle_alpha    89.8262689843973
+_cell_angle_beta     89.97940532528787
+_cell_angle_gamma    89.95451583331288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.32841782643318557  0.7430578381900409  0.6232632729488267  1.0000
+  Pd  Pd1       1.0  0.8285215026338579  0.2429218724553302  0.6228864995993876  1.0000
+  Pd  Pd2       1.0  0.32871297618954676  0.24295656969445809  0.12285108660696674  1.0000
+  Pd  Pd3       1.0  0.8285872592364633  0.7430031846408709  0.12305358300920924  1.0000
+  N   N1        1.0  0.8284098754431738  0.7432608421721437  0.6229979466348868  1.0000

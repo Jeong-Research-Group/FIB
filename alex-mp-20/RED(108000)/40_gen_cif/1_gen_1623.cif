@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2As2Rh
+_chemical_formula_sum              "Pr2 As2 Rh1"
+_cell_length_a       4.277022703543713
+_cell_length_b       4.276664682029689
+_cell_length_c       7.887752447332087
+_cell_angle_alpha    90.0120209932638
+_cell_angle_beta     90.00118551961681
+_cell_angle_gamma    119.9982926220373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7187525968936906  0.23831808202250207  0.3791158062148766  1.0000
+  Pr  Pr2       1.0  0.7184826959125397  0.2380743711421378  0.8601219572531291  1.0000
+  As  As1       1.0  0.05200930719193592  0.9048434950109308  0.6190037341197807  1.0000
+  As  As2       1.0  0.38532597733976637  0.5714903575358375  0.11603827552132576  1.0000
+  Rh  Rh1       1.0  0.05195603807384122  0.9048301570183811  0.12432927224601328  1.0000

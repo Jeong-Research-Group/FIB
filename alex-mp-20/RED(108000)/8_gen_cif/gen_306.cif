@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PbSeCaSe2PbSeCd
+_chemical_formula_sum              "Pb2 Se4 Ca1 Cd1"
+_cell_length_a       6.044172252449653
+_cell_length_b       6.044721158266971
+_cell_length_c       7.4200968742370605
+_cell_angle_alpha    114.07234782273976
+_cell_angle_beta     114.04163233239053
+_cell_angle_gamma    90.01211257119154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.9146453142166137  0.6381745934486389  0.5572646260261536  1.0000
+  Se  Se1       1.0  0.16401098668575287  0.8880537748336792  0.05716045945882797  1.0000
+  Ca  Ca1       1.0  0.6646853685379028  0.8877531290054322  0.057991605252027574  1.0000
+  Se  Se2       1.0  0.6649173498153687  0.38799014687538147  0.05830897763371462  1.0000
+  Se  Se3       1.0  0.41180118918418884  0.6345207095146179  0.5519217848777771  1.0000
+  Pb  Pb2       1.0  0.41398781538009644  0.13740497827529907  0.5578905344009399  1.0000
+  Se  Se4       1.0  0.9162990450859069  0.14017833769321442  0.5623399615287781  1.0000
+  Cd  Cd1       1.0  0.16378837823867798  0.3878101110458374  0.058453597128391266  1.0000

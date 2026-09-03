@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TlIn2Pb3
+_chemical_formula_sum              "Tl1 In2 Pb3"
+_cell_length_a       4.9558623680865805
+_cell_length_b       5.054881415840275
+_cell_length_c       7.955682797882713
+_cell_angle_alpha    89.99496063681696
+_cell_angle_beta     108.15585510223694
+_cell_angle_gamma    89.98998520734987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.7639880339058345  0.595973709904272  0.7869815245378292  1.0000
+  In  In1       1.0  0.2664767148066283  0.09633264704267193  0.7924960304751185  1.0000
+  In  In2       1.0  0.9269152508598917  0.09634760059709935  0.11403389390658335  1.0000
+  Pb  Pb1       1.0  0.09502349223363661  0.5960650254453417  0.4491249020286982  1.0000
+  Pb  Pb2       1.0  0.4318935546743706  0.5966984591187645  0.12285202283830934  1.0000
+  Pb  Pb3       1.0  0.5929654294461504  0.09635442929595289  0.4477696169832126  1.0000

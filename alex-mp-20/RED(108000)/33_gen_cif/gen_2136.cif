@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2AgGaAgGa
+_chemical_formula_sum              "Mg2 Ag2 Ga2"
+_cell_length_a       3.222432626689778
+_cell_length_b       5.523454536451964
+_cell_length_c       7.009113311767578
+_cell_angle_alpha    108.10150498178167
+_cell_angle_beta     89.99479107029558
+_cell_angle_gamma    106.96931212734594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6236982941627502  0.855750322341919  0.9713259935379028  1.0000
+  Mg  Mg2       1.0  0.2845744788646698  0.17734140157699585  0.7153624296188354  1.0000
+  Ag  Ag1       1.0  0.990649938583374  0.590499222278595  0.6233172416687012  1.0000
+  Ga  Ga1       1.0  0.5992484092712401  0.8077439665794371  0.37513989210128784  1.0000
+  Ag  Ag2       1.0  0.9153819680213928  0.4441913664340973  0.06314998865127565  1.0000
+  Ga  Ga2       1.0  0.3091422915458679  0.22771693766117096  0.30870264768600464  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb2PdRh3
+_chemical_formula_sum              "Nb2 Pd1 Rh3"
+_cell_length_a       3.756426098169311
+_cell_length_b       4.073745492900043
+_cell_length_c       6.453877312609614
+_cell_angle_alpha    108.39825392527874
+_cell_angle_beta     90.00357388229857
+_cell_angle_gamma    89.99993873832524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.43881795100622606  0.4844300634539675  0.8907620948687849  1.0000
+  Nb  Nb2       1.0  0.4386595362932179  0.16954982279852446  0.2609471469326473  1.0000
+  Pd  Pd1       1.0  0.4387256009951815  0.8269314903664782  0.5758650921937889  1.0000
+  Rh  Rh1       1.0  0.9386287824208346  0.658994538129262  0.23973441957169403  1.0000
+  Rh  Rh2       1.0  0.9387126524979591  0.32702800461550263  0.5758361165165841  1.0000
+  Rh  Rh3       1.0  0.9387948645921007  0.9949746742470597  0.9119611938313116  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClCaInCl2
+_chemical_formula_sum              "Cl3 Ca1 In1"
+_cell_length_a       5.45404980645862
+_cell_length_b       5.468593828911378
+_cell_length_c       5.459227561950684
+_cell_angle_alpha    88.94571496211472
+_cell_angle_beta     88.95827563678472
+_cell_angle_gamma    88.92074376581705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.4769691228866577  0.541964590549469  0.21626891195774078  1.0000
+  Ca  Ca1       1.0  0.4510236382484436  0.5120847225189209  0.7104660272598267  1.0000
+  In  In1       1.0  0.8692018985748291  0.9267198443412781  0.12887348234653473  1.0000
+  Cl  Cl2       1.0  0.4771179258823395  0.017746977508068085  0.7370836734771729  1.0000
+  Cl  Cl3       1.0  0.9553864002227783  0.5410652160644531  0.7365986704826355  1.0000

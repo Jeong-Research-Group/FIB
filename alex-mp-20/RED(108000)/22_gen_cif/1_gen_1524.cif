@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pr2InNi
+_chemical_formula_sum              "Pr2 In1 Ni1"
+_cell_length_a       3.565021682836716
+_cell_length_b       3.564684108364104
+_cell_length_c       8.11897561550398
+_cell_angle_alpha    90.03073674915788
+_cell_angle_beta     89.99564639734172
+_cell_angle_gamma    89.96938985027472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9484715787860152  0.1563178282904589  0.711582131815648  1.0000
+  Pr  Pr2       1.0  0.9484031727257302  0.1565630920498562  0.2835326808368367  1.0000
+  In  In1       1.0  0.4484422293071794  0.6563130498688126  0.9977298664881888  1.0000
+  Ni  Ni1       1.0  0.4487905141203384  0.6566852863399595  0.4978818517487092  1.0000

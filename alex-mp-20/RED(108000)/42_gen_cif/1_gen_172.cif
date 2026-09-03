@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na3Li3Bi3
+_chemical_formula_sum              "Na3 Li3 Bi3"
+_cell_length_a       3.516095590630007
+_cell_length_b       8.673807546558752
+_cell_length_c       8.924074261198522
+_cell_angle_alpha    120.75763041585901
+_cell_angle_beta     90.08147812238872
+_cell_angle_gamma    90.83890833411131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3263272710595098  0.01688690288280836  0.7920054409551601  1.0000
+  Na  Na2       1.0  0.3166695638698906  0.44252432600161246  0.5086300311114313  1.0000
+  Na  Na3       1.0  0.8247623055038934  0.360130235569836  0.8040116981479131  1.0000
+  Li  Li1       1.0  0.3246128724977473  0.7283313656679586  0.10001174018618149  1.0000
+  Li  Li2       1.0  0.8227330928192703  0.727017001028235  0.3997656965297706  1.0000
+  Li  Li3       1.0  0.8233063858655529  0.08841239965431646  0.169539721796654  1.0000
+  Bi  Bi1       1.0  0.32407412353049253  0.40002454111028585  0.14344304610494227  1.0000
+  Bi  Bi2       1.0  0.323921810748129  0.04287521295704677  0.44079622828195814  1.0000
+  Bi  Bi3       1.0  0.821680274294373  0.7394677468260001  0.8375589166751308  1.0000

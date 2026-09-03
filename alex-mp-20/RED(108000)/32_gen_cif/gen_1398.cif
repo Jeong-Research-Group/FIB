@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SiCeSiIr2
+_chemical_formula_sum              "Si2 Ce1 Ir2"
+_cell_length_a       4.09014404771937
+_cell_length_b       4.091691974047643
+_cell_length_c       5.892784595489502
+_cell_angle_alpha    110.36500316559203
+_cell_angle_beta     110.36018808068626
+_cell_angle_gamma    89.96207439957399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.0760742202401161  0.948849320411682  0.5945376753807068  1.0000
+  Ce  Ce1       1.0  0.4546311497688294  0.3272593319416046  0.3513471782207489  1.0000
+  Si  Si2       1.0  0.8330682516098022  0.7061002850532531  0.10865521430969238  1.0000
+  Ir  Ir1       1.0  0.7047932147979736  0.07766784727573395  0.8520300388336182  1.0000
+  Ir  Ir2       1.0  0.20469976961612701  0.5775214433670044  0.8513667583465576  1.0000

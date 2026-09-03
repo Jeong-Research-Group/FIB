@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdOGeO3
+_chemical_formula_sum              "Pd1 O4 Ge1"
+_cell_length_a       3.0840225421104916
+_cell_length_b       4.594673353660143
+_cell_length_c       4.571732521057129
+_cell_angle_alpha    90.54656107765243
+_cell_angle_beta     89.99345235304588
+_cell_angle_gamma    90.00036450448212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.9949014782905579  0.8470387458801271  0.7501360177993774  1.0000
+  O   O1        1.0  0.9951505064964294  0.1622961461544037  0.43429750204086304  1.0000
+  Ge  Ge1       1.0  0.4930373430252075  0.34554606676101685  0.2500461935997009  1.0000
+  O   O2        1.0  0.4934268295764923  0.049458593130111694  0.9547179341316223  1.0000
+  O   O3        1.0  0.4955276548862457  0.6411948800086975  0.5447995662689209  1.0000
+  O   O4        1.0  0.9946438074111938  0.5300307273864746  0.06635303795337677  1.0000

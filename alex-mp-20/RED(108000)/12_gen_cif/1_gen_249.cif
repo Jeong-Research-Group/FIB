@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3AlIn2
+_chemical_formula_sum              "Lu3 Al1 In2"
+_cell_length_a       5.163996267869651
+_cell_length_b       5.163510918581039
+_cell_length_c       6.335237133754741
+_cell_angle_alpha    89.99679117132376
+_cell_angle_beta     90.01538930975926
+_cell_angle_gamma    119.99394773933606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.8855284646543392  0.654016978782833  0.5354033891465146  1.0000
+  Lu  Lu2       1.0  0.21887663931520493  0.3210017054569287  0.8746721671372698  1.0000
+  Lu  Lu3       1.0  0.5524891671686637  0.9875067047072845  0.21462508563907895  1.0000
+  Al  Al1       1.0  0.21922673230491646  0.32115791080851597  0.37466686125295734  1.0000
+  In  In1       1.0  0.5524417947729405  0.9875277151114981  0.7072075578119588  1.0000
+  In  In2       1.0  0.885542609131756  0.6541476056620117  0.04297390585655488  1.0000

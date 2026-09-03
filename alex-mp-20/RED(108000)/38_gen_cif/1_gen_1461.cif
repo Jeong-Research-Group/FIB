@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4Mg2Si2
+_chemical_formula_sum              "Li4 Mg2 Si2"
+_cell_length_a       4.478113263893832
+_cell_length_b       5.501406324817017
+_cell_length_c       5.472733331732066
+_cell_angle_alpha    89.9901946835053
+_cell_angle_beta     89.9998174896306
+_cell_angle_gamma    90.00029157998418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6089358108048346  0.6072869716663484  0.4905262320984414  1.0000
+  Li  Li2       1.0  0.6089358452164804  0.6068423568581047  0.002660487307768349  1.0000
+  Li  Li3       1.0  0.10893673509939979  0.3374161677004718  0.9893887620724555  1.0000
+  Li  Li4       1.0  0.10890671514651466  0.3364604043222584  0.5016419252552129  1.0000
+  Mg  Mg1       1.0  0.6089355490105369  0.05746599881342013  0.24640485941432141  1.0000
+  Mg  Mg2       1.0  0.10893480516649376  0.8864357222284304  0.7460289736272746  1.0000
+  Si  Si1       1.0  0.10892720333068369  0.7552986964215106  0.24605097673061413  1.0000
+  Si  Si2       1.0  0.608942726540475  0.18866782760332027  0.7462661124172206  1.0000

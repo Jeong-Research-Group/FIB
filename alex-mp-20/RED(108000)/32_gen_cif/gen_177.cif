@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtIrPtIrW2
+_chemical_formula_sum              "Pt2 Ir2 W2"
+_cell_length_a       2.78831071287637
+_cell_length_b       4.844666336984952
+_cell_length_c       7.373580455780029
+_cell_angle_alpha    109.6803727973606
+_cell_angle_beta     101.01276041196589
+_cell_angle_gamma    90.03078625878308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.2316976636648178  0.4036743640899658  0.17917287349700928  1.0000
+  Ir  Ir1       1.0  0.5563867092132568  0.05100575461983681  0.8282727599143982  1.0000
+  Pt  Pt2       1.0  0.3896437883377075  0.20842626690864563  0.489138126373291  1.0000
+  Ir  Ir2       1.0  0.06498946249485016  0.559882640838623  0.8408299684524536  1.0000
+  W   W1        1.0  0.903292179107666  0.7241817116737366  0.5196101069450378  1.0000
+  W   W2        1.0  0.7186640501022339  0.8860793709754944  0.1490319520235062  1.0000

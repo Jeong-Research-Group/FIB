@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ni2CoV
+_chemical_formula_sum              "Ni2 Co1 V1"
+_cell_length_a       3.4960525852041933
+_cell_length_b       3.4971053184170096
+_cell_length_c       3.6687989234924316
+_cell_angle_alpha    89.93038922271033
+_cell_angle_beta     89.95109152048082
+_cell_angle_gamma    90.03445397611175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.859651029109955  0.6892251968383789  0.4127624928951263  1.0000
+  Ni  Ni2       1.0  0.3596485853195191  0.18883393704891205  0.41318786144256586  1.0000
+  Co  Co1       1.0  0.8598254323005677  0.18882235884666446  0.9130465388298034  1.0000
+  V   V1        1.0  0.35985431075096136  0.68894761800766  0.913050353527069  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnIr2RuC
+_chemical_formula_sum              "Sn1 Ir2 Ru1 C1"
+_cell_length_a       4.132965066868117
+_cell_length_b       4.1604917095193645
+_cell_length_c       4.161178523547658
+_cell_angle_alpha    89.98562926877186
+_cell_angle_beta     90.00304369446062
+_cell_angle_gamma    90.01755734001296
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.39621893212723636  0.06535531070744484  0.31721995766635697  1.0000
+  Ir  Ir1       1.0  0.8964181929699201  0.06545515663432812  0.8176798143456377  1.0000
+  Ir  Ir2       1.0  0.8961702027964219  0.5655267128742439  0.3177556714461378  1.0000
+  Ru  Ru1       1.0  0.3965946007136056  0.5659060559841158  0.8180828617157666  1.0000
+  C   C1        1.0  0.8967223703030112  0.5656601034007432  0.8179508697874072  1.0000

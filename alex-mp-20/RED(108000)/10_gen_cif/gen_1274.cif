@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrClPr2OPrOS
+_chemical_formula_sum              "Pr4 Cl1 O2 S1"
+_cell_length_a       3.762308384861378
+_cell_length_b       6.522520772762258
+_cell_length_c       7.0816473960876465
+_cell_angle_alpha    108.35029043166764
+_cell_angle_beta     90.15004128539269
+_cell_angle_gamma    90.06484831328022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3312079608440399  0.1566547453403473  0.21371702849864962  1.0000
+  Cl  Cl1       1.0  0.3310684561729431  0.9160521030426025  0.5078045725822449  1.0000
+  Pr  Pr2       1.0  0.3306388258934021  0.6739627122879029  0.800514876842499  1.0000
+  Pr  Pr3       1.0  0.8306081295013428  0.18914882838726046  0.806673049926758  1.0000
+  O   O1        1.0  0.331164687871933  0.41622370481491094  0.007353498600423368  1.0000
+  Pr  Pr4       1.0  0.8318300247192383  0.6418409943580627  0.20761334896087652  1.0000
+  O   O2        1.0  0.8313345909118652  0.9148232340812684  0.006905647460371288  1.0000
+  S   S1        1.0  0.8317532539367676  0.4141775667667389  0.5063591003417969  1.0000

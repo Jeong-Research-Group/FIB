@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sc2AlHg
+_chemical_formula_sum              "Sc2 Al1 Hg1"
+_cell_length_a       3.3877574056517963
+_cell_length_b       4.9725320853938335
+_cell_length_c       4.971982670313998
+_cell_angle_alpha    90.02560646437377
+_cell_angle_beta     90.00127849925636
+_cell_angle_gamma    89.99907241820029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.06474659340548702  0.46063481091727443  0.32477298848656827  1.0000
+  Sc  Sc2       1.0  0.06466069938328066  0.9603564629135151  0.8247893446876567  1.0000
+  Al  Al1       1.0  0.5645186083980092  0.9606519044697412  0.32481586917617794  1.0000
+  Hg  Hg1       1.0  0.5650642891406248  0.4602280833726403  0.8247385268674298  1.0000

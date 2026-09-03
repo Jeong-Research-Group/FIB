@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2GeHNiH
+_chemical_formula_sum              "Dy2 Ge1 H2 Ni1"
+_cell_length_a       4.254164256695143
+_cell_length_b       4.073581251897317
+_cell_length_c       5.656442642211914
+_cell_angle_alpha    89.9926873723701
+_cell_angle_beta     111.8941520707239
+_cell_angle_gamma    90.01752877016843
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.8162018656730651  0.19815406203269958  0.23438273370265958  1.0000
+  Dy  Dy2       1.0  0.5403457283973694  0.6978102326393127  0.6812295913696288  1.0000
+  Ge  Ge1       1.0  0.24844844639301297  0.6980027556419373  0.09643836319446564  1.0000
+  H   H1        1.0  0.2708576023578644  0.19770421087741852  0.609260082244873  1.0000
+  Ni  Ni1       1.0  0.11534193158149718  0.19803635776042938  0.8276521563529968  1.0000
+  H   H2        1.0  0.7414613366127013  0.19831857085227966  0.6129553318023682  1.0000

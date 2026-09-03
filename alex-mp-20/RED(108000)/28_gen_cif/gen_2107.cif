@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cr2ZnHZnH
+_chemical_formula_sum              "Cr2 Zn2 H2"
+_cell_length_a       2.9796514863716266
+_cell_length_b       2.9889910688116257
+_cell_length_c       6.544196128845215
+_cell_angle_alpha    90.06939721855015
+_cell_angle_beta     90.02455703480983
+_cell_angle_gamma    90.02476877082552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.6678526401519775  0.3001549243927002  0.5034763216972351  1.0000
+  Cr  Cr2       1.0  0.1682901829481125  0.8008444905281067  0.2104824036359787  1.0000
+  Zn  Zn1       1.0  0.6683575510978699  0.3007296025753021  0.9734966158866881  1.0000
+  H   H1        1.0  0.6683452725410461  0.8012517690658569  0.35691848397254944  1.0000
+  Zn  Zn2       1.0  0.16777507960796356  0.8006575107574463  0.7378109693527222  1.0000
+  H   H2        1.0  0.16788765788078308  0.30105757713317877  0.35621392726898193  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeCo2Re3
+_chemical_formula_sum              "Fe1 Co2 Re3"
+_cell_length_a       2.6356595259215125
+_cell_length_b       3.749741598731905
+_cell_length_c       7.8908949511712
+_cell_angle_alpha    89.99363560761937
+_cell_angle_beta     90.01258912447612
+_cell_angle_gamma    89.98277078384554
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9299828457085842  0.1384715495692235  0.020935495857739506  1.0000
+  Co  Co1       1.0  0.929117019128653  0.13857673193552453  0.6956668631327168  1.0000
+  Co  Co2       1.0  0.42984240998294526  0.637936478047518  0.5313220512399016  1.0000
+  Re  Re1       1.0  0.9295548008553549  0.1383286146118381  0.3748829791305206  1.0000
+  Re  Re2       1.0  0.4306279215809951  0.6381263591719667  0.8487802352422348  1.0000
+  Re  Re3       1.0  0.4302010689871691  0.638140514515756  0.18833309901754966  1.0000

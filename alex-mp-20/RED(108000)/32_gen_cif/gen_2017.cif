@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cu2AuGe
+_chemical_formula_sum              "Cu2 Au1 Ge1"
+_cell_length_a       3.9244471780709715
+_cell_length_b       3.9245729973873966
+_cell_length_c       3.8375437259674072
+_cell_angle_alpha    90.04563500056639
+_cell_angle_beta     90.0244340935102
+_cell_angle_gamma    90.04106560075063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.48385268449783325  0.3565427362918854  0.1101881116628647  1.0000
+  Cu  Cu2       1.0  0.9839113354682922  0.8566411733627318  0.11009062081575395  1.0000
+  Au  Au1       1.0  0.9837448000907898  0.35621109604835505  0.6101725697517395  1.0000
+  Ge  Ge1       1.0  0.4837188720703125  0.8567471504211426  0.6101855635643005  1.0000

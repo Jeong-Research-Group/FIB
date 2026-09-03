@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2MgReC
+_chemical_formula_sum              "Dy2 Mg1 Re1 C1"
+_cell_length_a       4.0065414759417965
+_cell_length_b       5.019768626594134
+_cell_length_c       5.019745662485314
+_cell_angle_alpha    90.04832277848023
+_cell_angle_beta     90.01447256467746
+_cell_angle_gamma    89.97537918463956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.31826196339561147  0.48212253069734257  0.2773573307298065  1.0000
+  Dy  Dy2       1.0  0.3181827429624899  0.9816717994404498  0.777237330365477  1.0000
+  Mg  Mg1       1.0  0.8180815695882545  0.9826029346574299  0.27820715866778134  1.0000
+  Re  Re1       1.0  0.8180756531239449  0.48144931831982707  0.7773280387971467  1.0000
+  C   C1        1.0  0.31814799327224186  0.4822811466250709  0.7773643185557622  1.0000

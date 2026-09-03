@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LaFe2Ni2C2
+_chemical_formula_sum              "La1 Fe2 Ni2 C2"
+_cell_length_a       3.6281682407278213
+_cell_length_b       5.120043050584842
+_cell_length_c       5.511805919384254
+_cell_angle_alpha    70.00554720737703
+_cell_angle_beta     70.78091142373873
+_cell_angle_gamma    69.24713197173106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4787274765722338  0.6510428553351815  0.7042737780852727  1.0000
+  Fe  Fe1       1.0  0.8635810616160329  0.39341437662944895  0.19226386397979914  1.0000
+  Fe  Fe2       1.0  0.2694339611863006  0.22984611117045184  0.5441161545301003  1.0000
+  Ni  Ni1       1.0  0.6779316045034262  0.05500499426875799  0.9018463649379258  1.0000
+  Ni  Ni2       1.0  0.12143240605616301  0.8338649760412502  0.2358741684762492  1.0000
+  C   C1        1.0  0.09722070063810148  0.1996210332414588  0.9186587167420276  1.0000
+  C   C2        1.0  0.8584953774889464  0.09345144017817218  0.5024073303310014  1.0000

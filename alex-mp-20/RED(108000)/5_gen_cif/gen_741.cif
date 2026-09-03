@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La2TbAlO
+_chemical_formula_sum              "La2 Tb1 Al1 O1"
+_cell_length_a       5.044189477011479
+_cell_length_b       4.858813872128322
+_cell_length_c       5.043915271759033
+_cell_angle_alpha    89.98783793784402
+_cell_angle_beta     90.005575938847
+_cell_angle_gamma    89.99775537230681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.27820512652397156  0.9060313701629639  0.556495726108551  1.0000
+  La  La2       1.0  0.7779621481895447  0.9061518311500549  0.05624406039714813  1.0000
+  Tb  Tb1       1.0  0.27841490507125854  0.40631029009819036  0.05628214031457901  1.0000
+  Al  Al1       1.0  0.7778900861740112  0.405764251947403  0.5567255616188049  1.0000
+  O   O1        1.0  0.2784178555011749  0.9061187505722046  0.0564347580075264  1.0000

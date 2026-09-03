@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sb2H2Pd3
+_chemical_formula_sum              "Sb2 H2 Pd3"
+_cell_length_a       3.164284645472215
+_cell_length_b       5.494445334129759
+_cell_length_c       6.5039975277953115
+_cell_angle_alpha    85.85980345796494
+_cell_angle_beta     75.9126891659708
+_cell_angle_gamma    89.96999104074568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.3987637013190548  0.6143067768611462  0.8062179120852788  1.0000
+  Sb  Sb2       1.0  0.11760642401212679  0.02123887797583642  0.36894533634465393  1.0000
+  H   H1        1.0  0.6551060735179066  0.5264281516673326  0.2935111541466102  1.0000
+  H   H2        1.0  0.8627317170278949  0.10885964456638297  0.8812883512480362  1.0000
+  Pd  Pd1       1.0  0.4382525550874242  0.12716465047370465  0.7291949160290478  1.0000
+  Pd  Pd2       1.0  0.0788968850642119  0.5085814645855236  0.445764541634509  1.0000
+  Pd  Pd3       1.0  0.7588880940985536  0.3176193380622387  0.08754135313615394  1.0000

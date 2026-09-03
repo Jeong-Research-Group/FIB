@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2InSnH2
+_chemical_formula_sum              "Tb2 In1 Sn1 H2"
+_cell_length_a       4.021378861520372
+_cell_length_b       4.023899132240456
+_cell_length_c       7.044331313475836
+_cell_angle_alpha    90.0195787111306
+_cell_angle_beta     90.02545046700041
+_cell_angle_gamma    89.9994417321945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.042116278219193164  0.7858135344832113  0.639670004480685  1.0000
+  Tb  Tb2       1.0  0.5412836140933106  0.28540342007083713  0.3408625546135613  1.0000
+  In  In1       1.0  0.5418245180177095  0.28546061268532813  0.8847017733737879  1.0000
+  Sn  Sn1       1.0  0.04194246720698368  0.7855530243805077  0.10518771809070324  1.0000
+  H   H1        1.0  0.5420423980819589  0.7854896425194808  0.49236354030200297  1.0000
+  H   H2        1.0  0.04138562660150759  0.2857031352267866  0.493295250376224  1.0000

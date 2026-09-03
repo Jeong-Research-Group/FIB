@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaPrSiPtSiPtGa2PtPr
+_chemical_formula_sum              "Ga3 Pr2 Si2 Pt3"
+_cell_length_a       4.250256066522996
+_cell_length_b       4.249329110254014
+_cell_length_c       10.44844913482666
+_cell_angle_alpha    89.99442224022944
+_cell_angle_beta     89.9972294476043
+_cell_angle_gamma    89.96377518282827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.998170018196106  0.45562654733657837  0.6195846199989319  1.0000
+  Pr  Pr1       1.0  0.49797454476356506  0.45535317063331604  0.3734589219093323  1.0000
+  Si  Si1       1.0  0.9980902671813965  0.9554184079170226  0.4871540069580078  1.0000
+  Pt  Pt1       1.0  0.49796995520591736  0.9550253748893737  0.11976726353168488  1.0000
+  Si  Si2       1.0  0.49788564443588257  0.45513492822647095  0.7517862319946289  1.0000
+  Pt  Pt2       1.0  0.9978209733963013  0.4551191329956054  0.11969452351331711  1.0000
+  Ga  Ga2       1.0  0.49783197045326233  0.45526599884033203  0.9884698987007141  1.0000
+  Ga  Ga3       1.0  0.9976505041122437  0.9553467631340026  0.2504919171333313  1.0000
+  Pt  Pt3       1.0  0.4978378117084503  0.9553616642951965  0.6196908950805664  1.0000
+  Pr  Pr2       1.0  0.9981374740600586  0.9550625085830688  0.8654454350471497  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgTl2Sn
+_chemical_formula_sum              "Mg1 Tl2 Sn1"
+_cell_length_a       3.4403569274720147
+_cell_length_b       3.440201337444496
+_cell_length_c       9.53869524978212
+_cell_angle_alpha    90.0195288573952
+_cell_angle_beta     90.02528800251832
+_cell_angle_gamma    90.03176990600761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5802375761204259  0.018309961616789553  0.9980260570776385  1.0000
+  Tl  Tl1       1.0  0.5789930691449137  0.019404927999332473  0.4833704166946041  1.0000
+  Tl  Tl2       1.0  0.0799079358629489  0.5189252636513921  0.7673873638516387  1.0000
+  Sn  Sn1       1.0  0.0801892972191618  0.5187665748162852  0.21094739770785387  1.0000

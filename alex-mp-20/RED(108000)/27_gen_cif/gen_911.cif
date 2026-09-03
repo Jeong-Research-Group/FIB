@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sm2InGaNiInNiGaInGa
+_chemical_formula_sum              "Sm2 In3 Ga3 Ni2"
+_cell_length_a       4.348302899399402
+_cell_length_b       4.348937009249198
+_cell_length_c       10.978229522705078
+_cell_angle_alpha    90.02610748612955
+_cell_angle_beta     89.99062465465377
+_cell_angle_gamma    90.11571957440447
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.763118326663971  0.14732171595096588  0.5749912261962891  1.0000
+  Sm  Sm2       1.0  0.26331913471221924  0.6474090218544006  0.11752019077539444  1.0000
+  In  In1       1.0  0.7633243203163147  0.14767326414585116  0.003763914108276367  1.0000
+  Ga  Ga1       1.0  0.7629820704460144  0.647529661655426  0.8469023108482361  1.0000
+  Ni  Ni1       1.0  0.7633329629898071  0.14763158559799194  0.22896753251552582  1.0000
+  In  In2       1.0  0.26281824707984924  0.6476448774337769  0.6888847351074219  1.0000
+  Ni  Ni2       1.0  0.2631700932979584  0.6475016474723816  0.4636210501194  1.0000
+  Ga  Ga2       1.0  0.7630845308303833  0.6474003791809082  0.3466029763221741  1.0000
+  In  In3       1.0  0.2632383704185486  0.14746305346488953  0.3464198112487793  1.0000
+  Ga  Ga3       1.0  0.26330554485321045  0.1474630981683731  0.8466503620147705  1.0000

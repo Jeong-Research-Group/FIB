@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgFe2HAu
+_chemical_formula_sum              "Mg1 Fe2 H1 Au1"
+_cell_length_a       3.739003425657384
+_cell_length_b       3.737876168390608
+_cell_length_c       4.3832999133510615
+_cell_angle_alpha    89.99974102485359
+_cell_angle_beta     89.99979288650938
+_cell_angle_gamma    90.00028971630645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6126058246863543  0.11749469344584122  0.03290929288262049  1.0000
+  Fe  Fe1       1.0  0.11269041675383108  0.11761256048002881  0.5327973465746134  1.0000
+  Fe  Fe2       1.0  0.612670466982837  0.6174914892215342  0.5325863681691462  1.0000
+  H   H1        1.0  0.6124503650761116  0.11716087305606997  0.5323363523540272  1.0000
+  Au  Au1       1.0  0.11264023798154023  0.6174531848826835  0.03289851894082541  1.0000

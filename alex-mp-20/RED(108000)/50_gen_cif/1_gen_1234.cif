@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaCd2InPb
+_chemical_formula_sum              "Ba1 Cd2 In1 Pb1"
+_cell_length_a       4.954599048287813
+_cell_length_b       4.953003312570071
+_cell_length_c       7.25084647052708
+_cell_angle_alpha    109.9811970405027
+_cell_angle_beta     109.97665393527545
+_cell_angle_gamma    89.9939663930922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.3410853720093451  0.00044592856883153185  0.0725909366181375  1.0000
+  Cd  Cd1       1.0  0.09536755902536276  0.25413804079333696  0.5788455678482627  1.0000
+  Cd  Cd2       1.0  0.5953987489082805  0.7536409711031767  0.5784625184165766  1.0000
+  In  In1       1.0  0.7196608570706166  0.3788344039097813  0.8288637946896587  1.0000
+  Pb  Pb1       1.0  0.9523774819553411  0.6117949447719495  0.2945149865077199  1.0000

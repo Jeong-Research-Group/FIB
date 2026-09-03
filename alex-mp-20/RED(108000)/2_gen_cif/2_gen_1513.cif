@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2La3Bi2Pb
+_chemical_formula_sum              "Ca2 La3 Bi2 Pb1"
+_cell_length_a       4.770592752269183
+_cell_length_b       4.770730280904748
+_cell_length_c       12.325013310107456
+_cell_angle_alpha    90.00310814715115
+_cell_angle_beta     89.98584678872614
+_cell_angle_gamma    90.00057345471937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7318125900113019  0.4854329669348573  0.4218307348363088  1.0000
+  Ca  Ca2       1.0  0.7324534991636634  0.48536436352362805  0.9175173012978298  1.0000
+  La  La1       1.0  0.233207795222441  0.48616299076035635  0.17096810449941865  1.0000
+  La  La2       1.0  0.731091376301547  0.9842593719005328  0.168477957561193  1.0000
+  La  La3       1.0  0.23191370615292234  0.9855904237652043  0.6689217844393395  1.0000
+  Bi  Bi1       1.0  0.23198322583845352  0.985563437683677  0.9634193651185624  1.0000
+  Bi  Bi2       1.0  0.23174774943147317  0.9856993665962712  0.3758565954571095  1.0000
+  Pb  Pb1       1.0  0.7317941923218054  0.48558009527584534  0.6696965676635404  1.0000

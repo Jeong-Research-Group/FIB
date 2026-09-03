@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg2Ag3InMgAg2Pb
+_chemical_formula_sum              "Mg3 Ag5 In1 Pb1"
+_cell_length_a       4.142102132879291
+_cell_length_b       6.982431525482715
+_cell_length_c       7.078341960906982
+_cell_angle_alpha    89.35486378364915
+_cell_angle_beta     89.94660408444295
+_cell_angle_gamma    89.97191676533417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.06620432436466217  0.07935505360364914  0.5492770671844482  1.0000
+  Mg  Mg2       1.0  0.06604760140180588  0.5160433053970337  0.7347325682640076  1.0000
+  Ag  Ag1       1.0  0.5657398104667664  0.3832541108131409  0.4695073962211609  1.0000
+  Ag  Ag2       1.0  0.066131591796875  0.8931756615638734  0.9200431704521179  1.0000
+  Ag  Ag3       1.0  0.5664701461791992  0.7889261841773987  0.647331953048706  1.0000
+  In  In1       1.0  0.06581943482160568  0.3237265050411225  0.14212974905967712  1.0000
+  Mg  Mg3       1.0  0.5655049085617065  0.18558084964752197  0.8439378142356873  1.0000
+  Ag  Ag4       1.0  0.5659937858581543  0.5965270996093751  0.024858148768544197  1.0000
+  Ag  Ag5       1.0  0.06556057184934616  0.671067237854004  0.3591128885746002  1.0000
+  Pb  Pb1       1.0  0.56647789478302  0.9748542904853821  0.24252234399318695  1.0000

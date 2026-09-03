@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgCs2AgSe2LiSe
+_chemical_formula_sum              "Ag2 Cs2 Se3 Li1"
+_cell_length_a       5.39027995486731
+_cell_length_b       7.749629807788433
+_cell_length_c       8.084585189819336
+_cell_angle_alpha    117.03460668915828
+_cell_angle_beta     98.389004708742
+_cell_angle_gamma    87.66504797815915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.5208914875984192  0.7606319785118103  0.31671354174613947  1.0000
+  Cs  Cs1       1.0  0.6174355149269104  0.43187916278839106  0.6656461954116821  1.0000
+  Cs  Cs2       1.0  0.4206554591655731  0.08118884265422821  0.9681243896484375  1.0000
+  Ag  Ag2       1.0  0.01657707244157791  0.9463003277778624  0.3176227509975433  1.0000
+  Se  Se1       1.0  0.018540004268288612  0.2725723385810852  0.31973400712013245  1.0000
+  Se  Se2       1.0  0.17934080958366394  0.6213703751564026  0.04200939089059824  1.0000
+  Li  Li1       1.0  0.020402200520038605  0.5814869999885559  0.31232219934463495  1.0000
+  Se  Se3       1.0  0.8626155853271484  0.8914363384246826  0.5913571715354919  1.0000

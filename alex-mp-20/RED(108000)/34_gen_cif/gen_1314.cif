@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfPbHfCo2Pb
+_chemical_formula_sum              "Hf2 Pb2 Co2"
+_cell_length_a       4.354345195560194
+_cell_length_b       4.3563734072241935
+_cell_length_c       6.4371418952941895
+_cell_angle_alpha    90.08973069734537
+_cell_angle_beta     89.94817502642464
+_cell_angle_gamma    89.98990748509658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.5979902744293213  0.27025842666625977  0.9043255448341372  1.0000
+  Pb  Pb1       1.0  0.5974913239479065  0.2711893618106842  0.4138696491718292  1.0000
+  Hf  Hf2       1.0  0.09756269305944443  0.7709705233573914  0.35144567489624023  1.0000
+  Co  Co1       1.0  0.09743952006101608  0.2702071964740753  0.12792867422103882  1.0000
+  Co  Co2       1.0  0.5982729196548462  0.7709798812866211  0.1277306079864502  1.0000
+  Pb  Pb2       1.0  0.09832552820444107  0.7701223492622375  0.8415712118148804  1.0000

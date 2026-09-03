@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pd2AgPb
+_chemical_formula_sum              "Pd2 Ag1 Pb1"
+_cell_length_a       3.4736070478724446
+_cell_length_b       3.4851953887226648
+_cell_length_c       6.208479404449463
+_cell_angle_alpha    89.70181691935552
+_cell_angle_beta     89.76462736085077
+_cell_angle_gamma    89.71541582467712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.3578508198261261  0.07718997448682786  0.11550655215978622  1.0000
+  Pd  Pd2       1.0  0.35777547955513  0.07777275890111923  0.6388931274414062  1.0000
+  Ag  Ag1       1.0  0.8583487868309021  0.5775418877601624  0.8773064613342285  1.0000
+  Pb  Pb1       1.0  0.858066737651825  0.5773203372955322  0.37747740745544434  1.0000

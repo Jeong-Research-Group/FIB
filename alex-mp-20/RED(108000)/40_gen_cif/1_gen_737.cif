@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4SiBi2P
+_chemical_formula_sum              "Pr4 Si1 Bi2 P1"
+_cell_length_a       4.3949315156013435
+_cell_length_b       7.617977623419831
+_cell_length_c       7.825391311346009
+_cell_angle_alpha    108.91161150353634
+_cell_angle_beta     89.9984958398219
+_cell_angle_gamma    90.00038815534805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5909204450151365  0.23557487563302684  0.5273103768010657  1.0000
+  Pr  Pr2       1.0  0.09071780280117343  0.2168487952566685  0.9723750424724746  1.0000
+  Pr  Pr3       1.0  0.09102035958423585  0.7427743507934685  0.530873752785451  1.0000
+  Pr  Pr4       1.0  0.5907649715536395  0.7241205543181156  0.9760884509061073  1.0000
+  Si  Si1       1.0  0.09085351541662513  0.47984354624494246  0.7516473081406674  1.0000
+  Bi  Bi1       1.0  0.09081803554437771  0.9798955549395326  0.2516942279746667  1.0000
+  Bi  Bi2       1.0  0.5908866873654655  0.4797676949260008  0.2516561435938959  1.0000
+  P   P1        1.0  0.5908575030016289  0.9798017740550518  0.7516035579691365  1.0000

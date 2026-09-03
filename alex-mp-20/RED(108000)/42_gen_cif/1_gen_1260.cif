@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ca2Bi2
+_chemical_formula_sum              "Li2 Ca2 Bi2"
+_cell_length_a       4.625599052420706
+_cell_length_b       4.62558824047923
+_cell_length_c       7.564549195517606
+_cell_angle_alpha    90.02727313025935
+_cell_angle_beta     90.01169337229477
+_cell_angle_gamma    90.00148383965035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.40198696152472685  0.16392822119530892  0.07052950121320589  1.0000
+  Li  Li2       1.0  0.9021708301586349  0.6637878003959428  0.07052076723806733  1.0000
+  Ca  Ca1       1.0  0.9016508852790407  0.16345309674160802  0.739795454611285  1.0000
+  Ca  Ca2       1.0  0.40203556117419864  0.6636319590543919  0.40101443091394356  1.0000
+  Bi  Bi1       1.0  0.4018704056819801  0.6633544827615802  0.8343209673993567  1.0000
+  Bi  Bi2       1.0  0.9020402026904036  0.163960544846209  0.3064346907801424  1.0000

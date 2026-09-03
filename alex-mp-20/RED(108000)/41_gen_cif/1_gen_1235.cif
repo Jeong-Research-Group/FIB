@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sc2GaCo2
+_chemical_formula_sum              "Sc2 Ga1 Co2"
+_cell_length_a       4.028667295408458
+_cell_length_b       5.162991165458492
+_cell_length_c       5.02924287091946
+_cell_angle_alpha    120.88799838090097
+_cell_angle_beta     113.606936777657
+_cell_angle_gamma    90.00711838942333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.4383395082391066  0.6789981888512366  0.3903506323198199  1.0000
+  Sc  Sc2       1.0  0.8539402253457682  0.09429423997180911  0.22116144641263003  1.0000
+  Ga  Ga1       1.0  0.6462429252806496  0.3866904189282358  0.8057891114901201  1.0000
+  Co  Co1       1.0  0.14606281302368387  0.10504452174196885  0.8055713672498185  1.0000
+  Co  Co2       1.0  0.14633134214555418  0.6680776676591328  0.8058034765476759  1.0000

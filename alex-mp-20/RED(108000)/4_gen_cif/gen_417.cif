@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ga2HgPb
+_chemical_formula_sum              "Ga2 Hg1 Pb1"
+_cell_length_a       4.440687859708134
+_cell_length_b       4.682877308432001
+_cell_length_c       4.681131362915039
+_cell_angle_alpha    89.96819431065363
+_cell_angle_beta     90.01733752583652
+_cell_angle_gamma    90.0145029961651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9528462886810303  0.8126775622367858  0.7691879272460938  1.0000
+  Ga  Ga2       1.0  0.9523287415504456  0.31349483132362366  0.26938146352767944  1.0000
+  Hg  Hg1       1.0  0.4519180357456207  0.8129018545150757  0.26976194977760315  1.0000
+  Pb  Pb1       1.0  0.4531152844429016  0.31300923228263855  0.7695921063423157  1.0000

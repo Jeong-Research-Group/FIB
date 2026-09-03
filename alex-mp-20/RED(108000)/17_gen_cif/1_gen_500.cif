@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li4CaMg2
+_chemical_formula_sum              "Li4 Ca1 Mg2"
+_cell_length_a       3.4620091545430682
+_cell_length_b       5.065683060289114
+_cell_length_c       9.890068501052406
+_cell_angle_alpha    104.84771899929756
+_cell_angle_beta     90.0055137631608
+_cell_angle_gamma    89.99044269930992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24722997738607544  0.3253872397575761  0.14604330752034686  1.0000
+  Li  Li2       1.0  0.2475371960726538  0.9164556618161351  0.32873241200251585  1.0000
+  Li  Li3       1.0  0.24734494283584488  0.6598236253452406  0.8140569540891962  1.0000
+  Li  Li4       1.0  0.24765751561914853  0.06859127988847347  0.6313130732397965  1.0000
+  Ca  Ca1       1.0  0.7474410756123704  0.49254090838542763  0.4801057980528039  1.0000
+  Mg  Mg1       1.0  0.7477428533228457  0.7923256046412572  0.07970419762128325  1.0000
+  Mg  Mg2       1.0  0.7474589994675289  0.1929181383991162  0.8803085730682966  1.0000

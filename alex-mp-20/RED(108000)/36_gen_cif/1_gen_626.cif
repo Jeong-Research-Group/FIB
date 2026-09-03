@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2CoSi2Ni
+_chemical_formula_sum              "Ce2 Co1 Si2 Ni1"
+_cell_length_a       4.0619399663972295
+_cell_length_b       4.061874206642701
+_cell_length_c       6.685538328114057
+_cell_angle_alpha    90.00279664026613
+_cell_angle_beta     90.00240610606163
+_cell_angle_gamma    90.00099718280755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.17256915156326116  0.25973480033275403  0.1190924549924186  1.0000
+  Ce  Ce2       1.0  0.6725885518945862  0.7595059772083886  0.4757825983537006  1.0000
+  Co  Co1       1.0  0.6726008728166185  0.2595807316837389  0.7976757337721379  1.0000
+  Si  Si1       1.0  0.17254652676476026  0.2595536813399614  0.6147248235363205  1.0000
+  Si  Si2       1.0  0.6726083783917128  0.7594600486675332  0.9804031432261334  1.0000
+  Ni  Ni1       1.0  0.17254310093279765  0.7594765938885181  0.7977981532698447  1.0000

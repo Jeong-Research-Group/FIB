@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2VOCuO2
+_chemical_formula_sum              "Na2 V1 O3 Cu1"
+_cell_length_a       3.506732754160936
+_cell_length_b       5.776128407877825
+_cell_length_c       6.2506103515625
+_cell_angle_alpha    116.71015843354954
+_cell_angle_beta     106.25295601448072
+_cell_angle_gamma    90.1356577079353
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.03268394246697426  0.360213041305542  0.06883662939071657  1.0000
+  Na  Na2       1.0  0.8538005352020264  0.6744368076324463  0.7114052176475525  1.0000
+  V   V1        1.0  0.30452075600624084  0.04191223531961442  0.6143546104431152  1.0000
+  O   O1        1.0  0.807407796382904  0.21708206832408908  0.6178802251815796  1.0000
+  Cu  Cu1       1.0  0.632106602191925  0.11360318958759309  0.2707042396068573  1.0000
+  O   O2        1.0  0.46651536226272583  0.041810180991888046  0.937512993812561  1.0000
+  O   O3        1.0  0.21418529748916626  0.6946865320205688  0.4337889552116394  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CuBe
+_chemical_formula_sum              "Cu1 Be1"
+_cell_length_a       2.696194845831552
+_cell_length_b       2.695890548532068
+_cell_length_c       2.696305751800537
+_cell_angle_alpha    90.06148786749448
+_cell_angle_beta     90.05293647150063
+_cell_angle_gamma    90.05348288631166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9952002763748169  0.7686059474945067  0.025201240554451942  1.0000
+  Be  Be1       1.0  0.4955713748931885  0.2670876383781433  0.5249693393707275  1.0000

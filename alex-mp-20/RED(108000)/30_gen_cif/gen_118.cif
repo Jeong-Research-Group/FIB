@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SiTa3FeTaSiFe
+_chemical_formula_sum              "Si2 Ta4 Fe2"
+_cell_length_a       3.6100927992999976
+_cell_length_b       5.073214933098992
+_cell_length_c       7.061136722564697
+_cell_angle_alpha    112.56640139310139
+_cell_angle_beta     89.98297484246173
+_cell_angle_gamma    89.99526235376808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6573042869567871  0.5223343968391418  0.13093684613704681  1.0000
+  Ta  Ta1       1.0  0.15795737504959106  0.8859400749206543  0.3528224527835846  1.0000
+  Ta  Ta2       1.0  0.6575056910514832  0.9461865425109863  2.2632419131704085e-05  1.0000
+  Ta  Ta3       1.0  0.15767285227775574  0.36883744597435  0.8386615514755249  1.0000
+  Fe  Fe1       1.0  0.6580175161361694  0.02366241067647934  0.6306387186050415  1.0000
+  Ta  Ta4       1.0  0.6575530171394348  0.4273803532123566  0.48472264409065247  1.0000
+  Si  Si2       1.0  0.158343106508255  0.7928990125656128  0.7067400813102722  1.0000
+  Fe  Fe2       1.0  0.15802732110023499  0.2905133366584778  0.20721328258514404  1.0000

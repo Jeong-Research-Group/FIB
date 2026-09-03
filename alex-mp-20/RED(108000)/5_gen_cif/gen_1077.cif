@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PrSnPrSnNaSb2
+_chemical_formula_sum              "Pr2 Sn2 Na1 Sb2"
+_cell_length_a       4.440002764496216
+_cell_length_b       4.554297471134204
+_cell_length_c       10.632060050964355
+_cell_angle_alpha    90.03754122245863
+_cell_angle_beta     89.9565488392271
+_cell_angle_gamma    90.10151277683664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.20494680106639862  0.3445119857788086  0.9485060572624207  1.0000
+  Sn  Sn1       1.0  0.7045443058013916  0.8457375764846802  0.024425648152828217  1.0000
+  Pr  Pr2       1.0  0.7042690515518188  0.8443443179130554  0.46347537636756897  1.0000
+  Sn  Sn2       1.0  0.2048589140176773  0.8432022929191589  0.20534488558769226  1.0000
+  Na  Na1       1.0  0.20230156183242798  0.8450912833213806  0.7085495591163635  1.0000
+  Sb  Sb1       1.0  0.20486292243003845  0.3427896201610565  0.39712265133857727  1.0000
+  Sb  Sb2       1.0  0.702824056148529  0.34540635347366333  0.7076775431632996  1.0000

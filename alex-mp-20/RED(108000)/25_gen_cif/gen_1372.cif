@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtHg2CdK
+_chemical_formula_sum              "Pt1 Hg2 Cd1 K1"
+_cell_length_a       5.349832611094021
+_cell_length_b       5.34058610780041
+_cell_length_c       5.292441368103027
+_cell_angle_alpha    90.02215280786146
+_cell_angle_beta     89.97394533356835
+_cell_angle_gamma    89.98272895592832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.8313454389572144  0.0967729613184929  0.5932682156562805  1.0000
+  Hg  Hg1       1.0  0.8311750292778015  0.5958113074302673  0.5918503999710083  1.0000
+  Hg  Hg2       1.0  0.33091798424720764  0.09601234644651414  0.5918898582458496  1.0000
+  Cd  Cd1       1.0  0.8310428261756897  0.09617790579795839  0.09337026625871658  1.0000
+  K   K1        1.0  0.3309098482131958  0.5961844325065613  0.09261661022901535  1.0000

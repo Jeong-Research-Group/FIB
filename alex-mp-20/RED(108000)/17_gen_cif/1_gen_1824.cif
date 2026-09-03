@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd2B2H2Os2
+_chemical_formula_sum              "Nd2 B2 H2 Os2"
+_cell_length_a       3.9213330588628517
+_cell_length_b       5.694641226888199
+_cell_length_c       5.555140228839745
+_cell_angle_alpha    104.749071866275
+_cell_angle_beta     89.99874562670666
+_cell_angle_gamma    110.13908952377642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.11705712424571829  0.12350600962105426  0.3850229380951689  1.0000
+  Nd  Nd2       1.0  0.3206059952355558  0.5306903867075354  0.9859886749358863  1.0000
+  B   B1        1.0  0.020153686577570242  0.9298560205303071  0.8873403560176136  1.0000
+  B   B2        1.0  0.4174493627655417  0.724398846103984  0.4835693332111343  1.0000
+  H   H1        1.0  0.7187180264945018  0.32671040674317986  0.1849595118612759  1.0000
+  H   H2        1.0  0.7193409572381598  0.32771927335843676  0.6851428595791524  1.0000
+  Os  Os1       1.0  0.868743578850662  0.6270179420219955  0.5374142957847177  1.0000
+  Os  Os2       1.0  0.5688869194613688  0.027357698069714456  0.8337430181634848  1.0000

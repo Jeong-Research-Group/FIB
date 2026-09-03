@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Ir2RhN
+_chemical_formula_sum              "Cs2 Ir2 Rh1 N1"
+_cell_length_a       3.9255856019328474
+_cell_length_b       6.046007303338488
+_cell_length_c       6.1839396933290685
+_cell_angle_alpha    89.60413184251192
+_cell_angle_beta     89.9989208309861
+_cell_angle_gamma    90.00029102000609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.8689592211608191  0.0370807385192894  0.5215446957465734  1.0000
+  Cs  Cs2       1.0  0.36896366729354474  0.04291434308760589  0.02319053984786159  1.0000
+  Ir  Ir1       1.0  0.36880299021491886  0.5396885439808297  0.33725344766809534  1.0000
+  Ir  Ir2       1.0  0.8688097960952132  0.541600604761288  0.10229865476191555  1.0000
+  Rh  Rh1       1.0  0.3688261531031661  0.5449844940568351  0.7595499829168867  1.0000
+  N   N1        1.0  0.8688261326713298  0.5469560432368699  0.7960935796477064  1.0000

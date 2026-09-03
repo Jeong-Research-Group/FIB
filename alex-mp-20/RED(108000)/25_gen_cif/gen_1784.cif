@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyRhBRh2
+_chemical_formula_sum              "Dy1 Rh3 B1"
+_cell_length_a       4.217378828420888
+_cell_length_b       4.215312107083179
+_cell_length_c       4.220688343048096
+_cell_angle_alpha    90.01266567541182
+_cell_angle_beta     90.01817080847968
+_cell_angle_gamma    90.0042918633808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.1588006168603897  0.7381604313850404  0.09802502393722534  1.0000
+  Rh  Rh1       1.0  0.1585344672203064  0.2383607625961304  0.5978185534477234  1.0000
+  B   B1        1.0  0.658637523651123  0.2381251007318497  0.5980664491653442  1.0000
+  Rh  Rh2       1.0  0.6586765646934509  0.7379453778266907  0.5978928208351135  1.0000
+  Rh  Rh3       1.0  0.6589296460151672  0.23787313699722293  0.09780391305685043  1.0000

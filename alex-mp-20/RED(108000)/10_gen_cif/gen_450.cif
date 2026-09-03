@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgPdPt2Ga
+_chemical_formula_sum              "Mg1 Pd1 Pt2 Ga1"
+_cell_length_a       3.829841997597195
+_cell_length_b       5.029389229220627
+_cell_length_c       4.83136510848999
+_cell_angle_alpha    85.1448443374522
+_cell_angle_beta     113.26239814137308
+_cell_angle_gamma    112.35600222706942
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8164986371994019  0.6346694231033325  0.5156380534172058  1.0000
+  Pd  Pd1       1.0  0.1772962063550949  0.2150559276342392  0.6568486094474792  1.0000
+  Pt  Pt1       1.0  0.014276135712862043  0.44744533300399786  0.09693031758069992  1.0000
+  Pt  Pt2       1.0  0.625356912612915  0.8434975147247316  0.9252629280090332  1.0000
+  Ga  Ga1       1.0  0.3976183831691742  0.06367894262075424  0.24947530031204224  1.0000

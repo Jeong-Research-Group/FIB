@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiZnPd5Au
+_chemical_formula_sum              "Li1 Zn1 Pd5 Au1"
+_cell_length_a       4.134011435519526
+_cell_length_b       4.133986006199755
+_cell_length_c       7.029812611546787
+_cell_angle_alpha    90.00079817648917
+_cell_angle_beta     90.00238036464933
+_cell_angle_gamma    90.00127342460166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9439166848936685  0.8569212988638462  0.6994426809342176  1.0000
+  Zn  Zn1       1.0  0.4438519352711508  0.3569378042137622  0.6994989203701568  1.0000
+  Pd  Pd1       1.0  0.9436757667995558  0.3570401243186147  0.4743786061549872  1.0000
+  Pd  Pd2       1.0  0.44377069651514195  0.3571509936927167  0.19947127021087785  1.0000
+  Pd  Pd3       1.0  0.4438617249928615  0.8569610944332288  0.47417534869150313  1.0000
+  Pd  Pd4       1.0  0.9439620786561949  0.3571013649375528  0.9246473542393813  1.0000
+  Pd  Pd5       1.0  0.44387108167934847  0.8571163784071537  0.9244995437950108  1.0000
+  Au  Au1       1.0  0.9438544705359784  0.8572037692475022  0.1992542598728956  1.0000

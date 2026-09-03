@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb2Mn2Si2Ge2
+_chemical_formula_sum              "Tb2 Mn2 Si2 Ge2"
+_cell_length_a       3.8765671708537774
+_cell_length_b       3.8755379123474887
+_cell_length_c       9.976479906109564
+_cell_angle_alpha    89.99368348818354
+_cell_angle_beta     90.00982804385411
+_cell_angle_gamma    89.99994843870775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.788317659854939  0.9059944122310845  0.9804856399197927  1.0000
+  Tb  Tb2       1.0  0.28878992615167076  0.40597075210271094  0.49111711487566956  1.0000
+  Mn  Mn1       1.0  0.28857026802871877  0.9060159775508599  0.2362328667554897  1.0000
+  Mn  Mn2       1.0  0.7884487635918146  0.40613142861046914  0.23620414564795827  1.0000
+  Si  Si1       1.0  0.7886753958265654  0.9060497102657523  0.3740095654871676  1.0000
+  Si  Si2       1.0  0.28843274652276235  0.4060629364250687  0.09845201826492547  1.0000
+  Ge  Ge1       1.0  0.7887442024389419  0.40578125465529413  0.7350975342293448  1.0000
+  Ge  Ge2       1.0  0.2883166426343466  0.905366274006828  0.7356119023693535  1.0000

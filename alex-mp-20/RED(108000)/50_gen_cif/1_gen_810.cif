@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li4Si2Ni
+_chemical_formula_sum              "Li4 Si2 Ni1"
+_cell_length_a       3.9141592274481924
+_cell_length_b       4.995059774549621
+_cell_length_c       7.215978541518655
+_cell_angle_alpha    117.6588452209311
+_cell_angle_beta     89.99221968630654
+_cell_angle_gamma    113.07173367756475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7522994549107254  0.8928916082895278  0.9065840166161651  1.0000
+  Li  Li2       1.0  0.2985711881698099  0.9848989289178932  0.31651820279470283  1.0000
+  Li  Li3       1.0  0.08323546187780154  0.5543632801664287  0.5539618341279148  1.0000
+  Li  Li4       1.0  0.5370998812118958  0.4626232010660881  0.14416669269507562  1.0000
+  Si  Si1       1.0  0.04573497620456816  0.4797196768298798  0.903262215270722  1.0000
+  Si  Si2       1.0  0.7896748427966279  0.967542506246579  0.5572963521026922  1.0000
+  Ni  Ni1       1.0  0.4175507423511497  0.2233483298596613  0.7304541122756443  1.0000

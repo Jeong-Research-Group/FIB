@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2SiOs
+_chemical_formula_sum              "Li2 Si1 Os1"
+_cell_length_a       2.986433964394908
+_cell_length_b       4.418021981370995
+_cell_length_c       3.92049462155547
+_cell_angle_alpha    90.0137354178071
+_cell_angle_beta     90.00060081655907
+_cell_angle_gamma    90.00389632950224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8995844975927253  0.9685759696043793  0.8408875877381797  1.0000
+  Li  Li2       1.0  0.40041272292781593  0.9689128589109242  0.3410839987030346  1.0000
+  Si  Si1       1.0  0.9002090968852485  0.47006781423226934  0.3406690988940096  1.0000
+  Os  Os1       1.0  0.4001510060527587  0.4669557882506608  0.8404830017253551  1.0000

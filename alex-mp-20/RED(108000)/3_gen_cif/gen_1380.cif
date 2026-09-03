@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PrBaHgInHgInPr
+_chemical_formula_sum              "Pr2 Ba1 Hg2 In2"
+_cell_length_a       5.156149963005793
+_cell_length_b       5.1547204871839325
+_cell_length_c       10.2401704788208
+_cell_angle_alpha    75.33615266039729
+_cell_angle_beta     75.34052410503924
+_cell_angle_gamma    60.00778181672511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.4521678388118744  0.9065257310867308  0.011255132034420967  1.0000
+  Ba  Ba1       1.0  0.5849795937538147  0.03928741440176964  0.6131171584129333  1.0000
+  Hg  Hg1       1.0  0.8359320163726807  0.29041507840156555  0.8594090342521667  1.0000
+  In  In1       1.0  0.16133262217044836  0.615810751914978  0.8840613961219788  1.0000
+  Hg  Hg2       1.0  0.3362861573696136  0.7904947996139527  0.3601202964782715  1.0000
+  In  In2       1.0  0.007151123136281985  0.4607883393764496  0.347720593214035  1.0000
+  Pr  Pr2       1.0  0.7194518446922302  0.17342627048492432  0.21091321110725403  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaCuAsLaIr2
+_chemical_formula_sum              "La2 Cu1 As1 Ir2"
+_cell_length_a       4.150149006562032
+_cell_length_b       4.244144457981158
+_cell_length_c       8.134978294372559
+_cell_angle_alpha    105.05707162676241
+_cell_angle_beta     104.7199466923037
+_cell_angle_gamma    90.05642010820672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.3756302297115326  0.7831128835678101  0.1623562127351761  1.0000
+  Cu  Cu1       1.0  0.03937416523694992  0.9467877745628357  0.4893101155757904  1.0000
+  As  As1       1.0  0.7901248931884766  0.1971023827791214  0.9901651740074158  1.0000
+  La  La2       1.0  0.6224911212921143  0.529829740524292  0.6558248400688171  1.0000
+  Ir  Ir1       1.0  0.20357225835323334  0.11153769493103027  0.8170729875564575  1.0000
+  Ir  Ir2       1.0  0.9505820274353027  0.3575403392314911  0.31175127625465393  1.0000

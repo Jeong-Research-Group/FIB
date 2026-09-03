@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Sc2Ga2
+_chemical_formula_sum              "Mg2 Sc2 Ga2"
+_cell_length_a       4.3571660043653475
+_cell_length_b       5.556588722552912
+_cell_length_c       6.059367513125982
+_cell_angle_alpha    72.21245397613284
+_cell_angle_beta     68.9301367749519
+_cell_angle_gamma    66.9180170266332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25258955292540214  0.2162917796932105  0.023703647607271134  1.0000
+  Mg  Mg2       1.0  0.6029962709437903  0.695122938597138  0.8442081434599732  1.0000
+  Sc  Sc1       1.0  0.8643295765048816  0.7609106806241716  0.2557042742939873  1.0000
+  Sc  Sc2       1.0  0.9912429202989802  0.15028331839276296  0.6124905773475743  1.0000
+  Ga  Ga1       1.0  0.27739835406056323  0.595306799057925  0.5951943476467801  1.0000
+  Ga  Ga2       1.0  0.5784917533887183  0.3157717647273922  0.2725887986662893  1.0000

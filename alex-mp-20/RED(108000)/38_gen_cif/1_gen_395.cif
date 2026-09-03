@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Sn2Pb2
+_chemical_formula_sum              "Cs2 Sn2 Pb2"
+_cell_length_a       6.056668815868359
+_cell_length_b       5.201418722166877
+_cell_length_c       8.996538853343969
+_cell_angle_alpha    90.02223076083968
+_cell_angle_beta     90.00214057307933
+_cell_angle_gamma    89.99263191532353
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.016753300557474145  0.7735046074504361  0.2874265064554008  1.0000
+  Cs  Cs2       1.0  0.0155875524174204  0.27603228904833227  0.7870477219037016  1.0000
+  Sn  Sn1       1.0  0.49926106538487064  0.7757570668297704  0.6204549109565988  1.0000
+  Sn  Sn2       1.0  0.5145328684708188  0.27501388646925473  0.12063825165995111  1.0000
+  Pb  Pb1       1.0  0.517600335843068  0.7754393088759644  0.9546310943120706  1.0000
+  Pb  Pb2       1.0  0.5281735695893447  0.274951680268467  0.45400461005375536  1.0000

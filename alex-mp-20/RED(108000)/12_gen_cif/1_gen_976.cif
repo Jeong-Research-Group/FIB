@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2SrCd2
+_chemical_formula_sum              "Ba2 Sr1 Cd2"
+_cell_length_a       5.882828405571203
+_cell_length_b       5.889247453295609
+_cell_length_c       7.458926321439528
+_cell_angle_alpha    89.90045911288072
+_cell_angle_beta     89.89570221846809
+_cell_angle_gamma    60.03110496978149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.30603511375340053  0.5015296893392743  0.7127213551880944  1.0000
+  Ba  Ba2       1.0  0.6393638006296123  0.8351444252857106  0.056856177220953694  1.0000
+  Sr  Sr1       1.0  0.9730979171875906  0.16786965633716627  0.3835170799908355  1.0000
+  Cd  Cd1       1.0  0.3059122495700368  0.5012449279021647  0.2314728363502342  1.0000
+  Cd  Cd2       1.0  0.6394877055785407  0.8364886047335717  0.5394053823655077  1.0000

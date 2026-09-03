@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       EuH2EuH3RuH
+_chemical_formula_sum              "Eu2 H6 Ru1"
+_cell_length_a       5.3115186036033615
+_cell_length_b       5.308022651656041
+_cell_length_c       5.3047308921813965
+_cell_angle_alpha    120.06855222710966
+_cell_angle_beta     59.9976386479162
+_cell_angle_gamma    119.9334380625208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.0434943474829197  0.6052277684211731  0.6432749629020691  1.0000
+  H   H1        1.0  0.5243993401527405  0.12431358546018599  0.6626633405685425  1.0000
+  H   H2        1.0  0.523858368396759  0.5856538414955139  0.6630164384841919  1.0000
+  Eu  Eu2       1.0  0.5430251359939575  0.10484533756971359  0.14373145997524264  1.0000
+  H   H3        1.0  0.06307068467140198  0.12483382970094681  0.662787675857544  1.0000
+  H   H4        1.0  0.06273186206817627  0.5862754583358765  0.12441805750131602  1.0000
+  H   H5        1.0  0.06301601976156235  0.1249079555273056  0.12426950782537459  1.0000
+  Ru  Ru1       1.0  0.2930971086025238  0.3562276065349579  0.8936899304389953  1.0000
+  H   H6        1.0  0.5236892700195312  0.5862160921096802  0.12446051090955731  1.0000

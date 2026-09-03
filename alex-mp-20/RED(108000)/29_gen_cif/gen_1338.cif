@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3HgPt2
+_chemical_formula_sum              "Lu3 Hg1 Pt2"
+_cell_length_a       4.91647250078023
+_cell_length_b       4.914378888198592
+_cell_length_c       6.107477188110352
+_cell_angle_alpha    90.04002058139866
+_cell_angle_beta     89.90181852670331
+_cell_angle_gamma    120.00261734577289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.23048877716064453  0.559392511844635  0.89837646484375  1.0000
+  Lu  Lu2       1.0  0.8975203037261963  0.8932464718818665  0.2115580439567566  1.0000
+  Lu  Lu3       1.0  0.5637713074684143  0.22634650766849518  0.5880225300788879  1.0000
+  Hg  Hg1       1.0  0.23080459237098694  0.559185802936554  0.3982839286327362  1.0000
+  Pt  Pt1       1.0  0.5637718439102173  0.226449117064476  0.08712870627641678  1.0000
+  Pt  Pt2       1.0  0.8972979784011841  0.8928655982017517  0.7130935192108154  1.0000

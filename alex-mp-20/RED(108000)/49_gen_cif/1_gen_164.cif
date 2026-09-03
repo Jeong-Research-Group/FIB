@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Ti2In2
+_chemical_formula_sum              "Hf2 Ti2 In2"
+_cell_length_a       4.346315972867162
+_cell_length_b       4.346660181472316
+_cell_length_c       6.935788685376467
+_cell_angle_alpha    108.25773909548967
+_cell_angle_beta     89.99500316840596
+_cell_angle_gamma    90.00119004650176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6639127316316796  0.07724709168675406  0.8304339292010209  1.0000
+  Hf  Hf2       1.0  0.16412865376672917  0.5774370792302077  0.8307961469768784  1.0000
+  Ti  Ti1       1.0  0.6639805019847306  0.42253383341552764  0.5209202623425759  1.0000
+  Ti  Ti2       1.0  0.163854892965191  0.9219976768905956  0.5201727459098549  1.0000
+  In  In1       1.0  0.663862209840537  0.7621485787859341  0.20046487641212615  1.0000
+  In  In2       1.0  0.16385381670085186  0.2621851475102168  0.2006662417516432  1.0000

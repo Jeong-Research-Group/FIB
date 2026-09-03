@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2CrNiPdNi
+_chemical_formula_sum              "Ni4 Cr1 Pd1"
+_cell_length_a       3.614511366373694
+_cell_length_b       3.6089519196006585
+_cell_length_c       5.711860179901123
+_cell_angle_alpha    108.50579064538502
+_cell_angle_beta     90.01444835508337
+_cell_angle_gamma    90.04597651010201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.06357289105653763  0.7476378083229066  0.051001496613025665  1.0000
+  Ni  Ni2       1.0  0.5631552338600159  0.924684464931488  0.40618714690208435  1.0000
+  Cr  Cr1       1.0  0.5633636713027954  0.5927974581718446  0.7418915033340454  1.0000
+  Ni  Ni3       1.0  0.5633594989776611  0.24496610462665558  0.04579778388142586  1.0000
+  Pd  Pd1       1.0  0.06332675367593765  0.4187927544116974  0.3948908746242523  1.0000
+  Ni  Ni4       1.0  0.06350528448820114  0.09120924770832062  0.7382997274398804  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mg2HRh
+_chemical_formula_sum              "Mg2 H1 Rh1"
+_cell_length_a       3.518201542000191
+_cell_length_b       3.4490039614604484
+_cell_length_c       5.128193867511056
+_cell_angle_alpha    109.6465485382454
+_cell_angle_beta     110.06519235382618
+_cell_angle_gamma    89.99941254932384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.09634397309827998  0.1135018292746479  0.3491227264789241  1.0000
+  Mg  Mg2       1.0  0.7810950552407133  0.7978946309019598  0.7181924626723128  1.0000
+  H   H1        1.0  0.4389127249492308  0.9551295268197925  0.03396397022191315  1.0000
+  Rh  Rh1       1.0  0.4386204062539787  0.4550683602681882  0.03350418676062014  1.0000

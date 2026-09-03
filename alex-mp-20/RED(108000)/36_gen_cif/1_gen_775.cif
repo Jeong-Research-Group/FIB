@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2SnAu
+_chemical_formula_sum              "Li2 Sn1 Au1"
+_cell_length_a       4.630076526289997
+_cell_length_b       4.630324283261913
+_cell_length_c       4.625408465744387
+_cell_angle_alpha    120.02348037487708
+_cell_angle_beta     120.02853207353569
+_cell_angle_gamma    90.01016630821705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7059897040232658  0.5616033086532963  0.3154381212471993  1.0000
+  Li  Li2       1.0  0.4560788762006214  0.8116944281460888  0.8156963330900991  1.0000
+  Sn  Sn1       1.0  0.20593328477176448  0.061505787237740264  0.3154727948487638  1.0000
+  Au  Au1       1.0  0.9560241806446976  0.3117885290398223  0.8155939695016282  1.0000

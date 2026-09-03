@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hg2Au2Br2
+_chemical_formula_sum              "Hg2 Au2 Br2"
+_cell_length_a       5.657579882804639
+_cell_length_b       7.518017019425455
+_cell_length_c       7.465372740984758
+_cell_angle_alpha    131.9594313616003
+_cell_angle_beta     106.73290838615598
+_cell_angle_gamma    98.85376972050459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9883521204780222  0.9987426022428679  0.32786100894271264  1.0000
+  Hg  Hg2       1.0  0.48848055190131867  0.49907900073429184  0.3279864268671602  1.0000
+  Au  Au1       1.0  0.4884369024060978  0.998861718719477  0.3279093314091812  1.0000
+  Au  Au2       1.0  0.9884634910187214  0.9990160409394678  0.8280324924842682  1.0000
+  Br  Br1       1.0  0.23480319577836045  0.7327774800424064  0.811310553560969  1.0000
+  Br  Br2       1.0  0.7420524512000842  0.2651580401221911  0.8445881218346204  1.0000

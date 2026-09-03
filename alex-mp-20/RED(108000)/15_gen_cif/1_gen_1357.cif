@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni3PdPt2
+_chemical_formula_sum              "Ni3 Pd1 Pt2"
+_cell_length_a       4.516116329196327
+_cell_length_b       4.692622670856822
+_cell_length_c       4.694243004084788
+_cell_angle_alpha    60.00436119337204
+_cell_angle_beta     80.02944848475583
+_cell_angle_gamma    69.72236770507018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5706024977146398  0.2465197929734084  0.9788841889753045  1.0000
+  Ni  Ni2       1.0  0.5706090327840759  0.9082117604559627  0.6561401249157828  1.0000
+  Ni  Ni3       1.0  0.5706135015489608  0.5778640928291136  0.3172524405868319  1.0000
+  Pd  Pd1       1.0  0.0704063828402354  0.0775418246934837  0.3172510989120228  1.0000
+  Pt  Pt1       1.0  0.07082152111178455  0.7439168784843279  0.9841931765050551  1.0000
+  Pt  Pt2       1.0  0.0705812192203341  0.41100730216787534  0.650275795475076  1.0000

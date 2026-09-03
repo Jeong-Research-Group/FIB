@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlCu2NiH
+_chemical_formula_sum              "Al1 Cu2 Ni1 H1"
+_cell_length_a       3.632473332635546
+_cell_length_b       3.7183427291138975
+_cell_length_c       3.720887424560209
+_cell_angle_alpha    89.92235993951718
+_cell_angle_beta     89.99145542360053
+_cell_angle_gamma    90.01293569906991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.15960443011877026  0.9739646586855821  0.36559347372402806  1.0000
+  Cu  Cu1       1.0  0.6591837079680397  0.9750675131384501  0.8655806388371416  1.0000
+  Cu  Cu2       1.0  0.6591174557965876  0.47310372233334175  0.3654208559276566  1.0000
+  Ni  Ni1       1.0  0.15909245371699057  0.474317731236034  0.8655865268067607  1.0000
+  H   H1        1.0  0.6599079019658918  0.47491853598672845  0.8654393685540401  1.0000

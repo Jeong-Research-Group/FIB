@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2PtAu
+_chemical_formula_sum              "Li2 Pt1 Au1"
+_cell_length_a       2.8237176497887053
+_cell_length_b       6.345563050279536
+_cell_length_c       4.622639742424416
+_cell_angle_alpha    123.25199895799669
+_cell_angle_beta     89.73317501223282
+_cell_angle_gamma    116.81095248692382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.19486226233750567  0.37541630847669666  0.9108124598660067  1.0000
+  Li  Li2       1.0  0.6970493845695237  0.8767854661627877  0.914847134759477  1.0000
+  Pt  Pt1       1.0  0.692965405868131  0.3763465924120568  0.41288009789121083  1.0000
+  Au  Au1       1.0  0.19844670903157385  0.8753737075936261  0.4125512867807918  1.0000

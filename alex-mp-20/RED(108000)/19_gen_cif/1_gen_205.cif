@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiLu2GaN
+_chemical_formula_sum              "Li1 Lu2 Ga1 N1"
+_cell_length_a       4.097710928823935
+_cell_length_b       4.640751738468888
+_cell_length_c       4.640759846515959
+_cell_angle_alpha    90.00071184027757
+_cell_angle_beta     90.0020332405256
+_cell_angle_gamma    90.00138441074783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7885924248345192  0.8393413677630297  0.02435337324127999  1.0000
+  Lu  Lu1       1.0  0.28776493149393634  0.3393674142574637  0.02413383018310623  1.0000
+  Lu  Lu2       1.0  0.28923456248106916  0.8392834991615938  0.524280020669152  1.0000
+  Ga  Ga1       1.0  0.7889971209602327  0.3391877264231723  0.5242868434237339  1.0000
+  N   N1        1.0  0.28843315055615937  0.8393645504049666  0.024250618486690727  1.0000

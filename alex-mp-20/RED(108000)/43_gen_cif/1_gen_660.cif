@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaSi2PdRu
+_chemical_formula_sum              "Ca1 Si2 Pd1 Ru1"
+_cell_length_a       4.131137778603652
+_cell_length_b       4.130131909127174
+_cell_length_c       5.836966595841448
+_cell_angle_alpha    110.71968470725885
+_cell_angle_beta     110.72238570996126
+_cell_angle_gamma    89.99859412822892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5229027341853223  0.15351355272413536  0.8162949711674312  1.0000
+  Si  Si1       1.0  0.898904800593245  0.5291989569098903  0.5680193858515246  1.0000
+  Si  Si2       1.0  0.14733791835059684  0.7776089135414647  0.06467110805234624  1.0000
+  Pd  Pd1       1.0  0.7730918676766149  0.9032797996343442  0.3161739979520545  1.0000
+  Ru  Ru1       1.0  0.2732201862827205  0.4034703517818884  0.3164688896840248  1.0000

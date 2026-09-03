@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ca2CdIr
+_chemical_formula_sum              "Ca2 Cd1 Ir1"
+_cell_length_a       3.848464018406527
+_cell_length_b       4.9180561950536195
+_cell_length_c       4.918004140760907
+_cell_angle_alpha    90.00283686614922
+_cell_angle_beta     90.05113215283087
+_cell_angle_gamma    90.02544749791788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.11971989470038101  0.14737010279331542  0.6945178066450057  1.0000
+  Ca  Ca2       1.0  0.12072235721991106  0.6477082136106107  0.19412100755469747  1.0000
+  Cd  Cd1       1.0  0.620241272300461  0.6471238820453931  0.6939057542354898  1.0000
+  Ir  Ir1       1.0  0.6202227071960972  0.14738638457242373  0.19444365549386136  1.0000

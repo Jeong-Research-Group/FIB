@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TbCMoTbMoC2
+_chemical_formula_sum              "Tb2 C3 Mo2"
+_cell_length_a       3.37834656582832
+_cell_length_b       5.585666131831539
+_cell_length_c       5.554907321929932
+_cell_angle_alpha    86.36557672994022
+_cell_angle_beta     90.02648997912468
+_cell_angle_gamma    90.02934500006396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.23151762783527374  0.7886422276496888  0.6504420042037964  1.0000
+  C   C1        1.0  0.7312676906585693  0.49344259500503546  0.8546836376190186  1.0000
+  Mo  Mo1       1.0  0.7307632565498352  0.6722303628921509  0.17431658506393433  1.0000
+  Tb  Tb2       1.0  0.23087812960147858  0.1977665722370148  0.057862445712089546  1.0000
+  Mo  Mo2       1.0  0.7310711741447449  0.3140790462493897  0.5316932797431946  1.0000
+  C   C2        1.0  0.2312679886817932  0.4932291209697724  0.35386678576469427  1.0000
+  C   C3        1.0  0.7315813899040222  0.992780089378357  0.35350486636161804  1.0000

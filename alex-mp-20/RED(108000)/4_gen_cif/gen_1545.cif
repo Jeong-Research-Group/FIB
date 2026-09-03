@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnInRu2ZnIn
+_chemical_formula_sum              "Zn2 In2 Ru2"
+_cell_length_a       3.265699032976217
+_cell_length_b       3.2628463590183983
+_cell_length_c       9.503122329711914
+_cell_angle_alpha    89.98397887993009
+_cell_angle_beta     90.01573926080205
+_cell_angle_gamma    89.88626619741035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9595138430595398  0.8146375417709351  0.9334200620651245  1.0000
+  In  In1       1.0  0.9607649445533752  0.8155592083930968  0.23928901553153992  1.0000
+  Ru  Ru1       1.0  0.4601731300354004  0.315157949924469  0.0786474347114563  1.0000
+  Ru  Ru2       1.0  0.9585884213447571  0.8138722181320189  0.6435967683792114  1.0000
+  Zn  Zn2       1.0  0.45849448442459106  0.31395080685615534  0.7892581820487976  1.0000
+  In  In2       1.0  0.45843783020973206  0.313737690448761  0.48349159955978394  1.0000

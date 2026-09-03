@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiBrLiInBr4
+_chemical_formula_sum              "Li2 Br5 In1"
+_cell_length_a       6.89080309304518
+_cell_length_b       5.754979075103683
+_cell_length_c       6.943539142608643
+_cell_angle_alpha    65.26784518100997
+_cell_angle_beta     76.80153515142761
+_cell_angle_gamma    65.09835283095398
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8660613894462585  0.8576770424842834  0.31640177965164185  1.0000
+  Br  Br1       1.0  0.8338668942451477  0.3832685649394989  0.3005087375640869  1.0000
+  Li  Li2       1.0  0.05260343477129938  0.4664523303508758  0.9149713516235352  1.0000
+  In  In1       1.0  0.4591442048549652  0.6633084416389465  0.11652117967605591  1.0000
+  Br  Br2       1.0  0.08384101837873462  0.9429642558097838  0.9292277097702026  1.0000
+  Br  Br3       1.0  0.6829537153244019  0.739582896232605  0.7408199906349182  1.0000
+  Br  Br4       1.0  0.4587971568107605  0.1651235669851303  0.11440138518810272  1.0000
+  Br  Br5       1.0  0.23550216853618625  0.58668053150177  0.4903273284435272  1.0000

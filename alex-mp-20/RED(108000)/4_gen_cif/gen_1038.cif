@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2PbS3PbS
+_chemical_formula_sum              "Ni2 Pb2 S4"
+_cell_length_a       4.942473074815827
+_cell_length_b       7.022365147174893
+_cell_length_c       6.742732524871826
+_cell_angle_alpha    121.63695320548445
+_cell_angle_beta     111.33267616194831
+_cell_angle_gamma    90.45410109452837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.27324178814888  0.7811989784240723  0.6141554713249207  1.0000
+  Ni  Ni2       1.0  0.7746163010597229  0.7805929780006409  0.6115312576293945  1.0000
+  Pb  Pb1       1.0  0.8363289833068848  0.06393910199403763  0.23340335488319397  1.0000
+  S   S1        1.0  0.602299153804779  0.6260913610458374  0.7739859223365784  1.0000
+  S   S2        1.0  0.8614069223403931  0.5112158060073853  0.2874835431575775  1.0000
+  S   S3        1.0  0.44836926460266113  0.9413613080978394  0.45773857831954956  1.0000
+  Pb  Pb2       1.0  0.21668441593647003  0.5003054141998291  0.003996198996901512  1.0000
+  S   S4        1.0  0.18858949840068817  0.04826134443283081  0.9416923522949219  1.0000

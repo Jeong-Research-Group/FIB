@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeZr2SnN
+_chemical_formula_sum              "Ce1 Zr2 Sn1 N1"
+_cell_length_a       4.822813161660833
+_cell_length_b       4.58453162965534
+_cell_length_c       4.583567444065244
+_cell_angle_alpha    90.00259636217908
+_cell_angle_beta     90.01011148661453
+_cell_angle_gamma    89.99611694411067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.28388441787023105  0.07912028665471472  0.16476192030445277  1.0000
+  Zr  Zr1       1.0  0.7840410816197962  0.5797377145301592  0.16479213310616758  1.0000
+  Zr  Zr2       1.0  0.7840754119535368  0.08007695771736284  0.6643846170071572  1.0000
+  Sn  Sn1       1.0  0.2839320360601699  0.5793710798918635  0.6645543772505065  1.0000
+  N   N1        1.0  0.7840811636774264  0.07902786085755535  0.16475432485187919  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3Zn3Co2
+_chemical_formula_sum              "Al3 Zn3 Co2"
+_cell_length_a       3.5302166323756494
+_cell_length_b       3.824288138218146
+_cell_length_c       7.84399025669987
+_cell_angle_alpha    90.00063463363958
+_cell_angle_beta     89.99952223956784
+_cell_angle_gamma    89.9995650406759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.18285510448066808  0.37117356104118726  0.3875834253258859  1.0000
+  Al  Al2       1.0  0.18289932583422716  0.8711846375639115  0.13748438304190866  1.0000
+  Al  Al3       1.0  0.1829453963848889  0.8711885715129705  0.6376321533301397  1.0000
+  Zn  Zn1       1.0  0.6829009432887291  0.37116856856506686  0.1329530628151956  1.0000
+  Zn  Zn2       1.0  0.6829274647600226  0.3711540678497232  0.6422552002445704  1.0000
+  Zn  Zn3       1.0  0.6829631187542553  0.8711433600393288  0.8875558402856689  1.0000
+  Co  Co1       1.0  0.18294482008556143  0.3711325044441792  0.8876411734077808  1.0000
+  Co  Co2       1.0  0.6828505271812388  0.8711869772783081  0.38760071117174155  1.0000

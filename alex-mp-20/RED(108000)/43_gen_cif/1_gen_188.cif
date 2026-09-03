@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiCd2Ga
+_chemical_formula_sum              "Li1 Cd2 Ga1"
+_cell_length_a       4.19048431572431
+_cell_length_b       4.362000455039724
+_cell_length_c       4.365570143865509
+_cell_angle_alpha    90.08008836000027
+_cell_angle_beta     90.14770665174264
+_cell_angle_gamma    90.04686131337431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.41383627118604027  0.7806968218643665  0.034964287698507464  1.0000
+  Cd  Cd1       1.0  0.9148414529514425  0.2813147296638106  0.03478568285785123  1.0000
+  Cd  Cd2       1.0  0.9140232869075773  0.7808993818679024  0.534634940259762  1.0000
+  Ga  Ga1       1.0  0.4141942986181533  0.2807458742597713  0.5348236570214017  1.0000

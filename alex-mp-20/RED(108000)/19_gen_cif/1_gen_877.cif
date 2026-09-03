@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc3CdGa2
+_chemical_formula_sum              "Sc3 Cd1 Ga2"
+_cell_length_a       3.368384392315629
+_cell_length_b       3.3683162963912534
+_cell_length_c       10.649196018625277
+_cell_angle_alpha    89.99741753135977
+_cell_angle_beta     89.99878115480932
+_cell_angle_gamma    89.99729806910908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.2790321809355734  0.8234555608699722  0.6598918234559868  1.0000
+  Sc  Sc2       1.0  0.2790518381174852  0.8232006835972671  0.34336851410214164  1.0000
+  Sc  Sc3       1.0  0.27887527682789404  0.8229909445457478  0.027017505909516456  1.0000
+  Cd  Cd1       1.0  0.7789633247454709  0.3231438777696919  0.8435018243751329  1.0000
+  Ga  Ga1       1.0  0.7791006396229431  0.3233822581276574  0.5022571345828678  1.0000
+  Ga  Ga2       1.0  0.7789111119254187  0.3230366470378505  0.1845350412068122  1.0000

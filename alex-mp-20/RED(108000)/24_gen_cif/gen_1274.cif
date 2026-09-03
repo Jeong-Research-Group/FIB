@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RuNiGeNiH
+_chemical_formula_sum              "Ru1 Ni2 Ge1 H1"
+_cell_length_a       3.641030006061388
+_cell_length_b       3.6473350281522725
+_cell_length_c       3.934443712234497
+_cell_angle_alpha    89.95415144332797
+_cell_angle_beta     89.97281835144803
+_cell_angle_gamma    89.95884378584672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.027298174798488617  0.30441951751708984  0.013703086413443089  1.0000
+  Ni  Ni1       1.0  0.5278591513633728  0.3040724098682404  0.5132566690444946  1.0000
+  Ge  Ge1       1.0  0.5280641317367554  0.8044885993003846  0.014012761414051056  1.0000
+  Ni  Ni2       1.0  0.027292942628264427  0.8042244911193848  0.5132250785827637  1.0000
+  H   H1        1.0  0.026942363008856773  0.30500972270965576  0.5124574303627014  1.0000

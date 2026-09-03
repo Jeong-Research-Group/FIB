@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Nb2AlIr
+_chemical_formula_sum              "Nb2 Al1 Ir1"
+_cell_length_a       2.883157151981316
+_cell_length_b       2.8822317313739276
+_cell_length_c       7.9876841995308405
+_cell_angle_alpha    89.9698428566022
+_cell_angle_beta     90.03018892337913
+_cell_angle_gamma    90.00055521952598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7089655463540738  0.7347003245783512  0.8356953607368854  1.0000
+  Nb  Nb2       1.0  0.7085119791129766  0.7340328313815442  0.32282990005483897  1.0000
+  Al  Al1       1.0  0.20823388909048604  0.2341660448825889  0.5793513156856254  1.0000
+  Ir  Ir1       1.0  0.20881984656668684  0.2344531716854536  0.07916408264318264  1.0000

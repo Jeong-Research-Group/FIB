@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pd2Ti2Au2
+_chemical_formula_sum              "Pd2 Ti2 Au2"
+_cell_length_a       3.021644666156425
+_cell_length_b       3.0222337358618154
+_cell_length_c       10.798852920532227
+_cell_angle_alpha    90.00494756179569
+_cell_angle_beta     89.9384624933546
+_cell_angle_gamma    90.05653597785313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.9801801443099976  0.31832122802734375  0.8068934082984924  1.0000
+  Pd  Pd2       1.0  0.4802846610546112  0.8178704380989076  0.638279914855957  1.0000
+  Ti  Ti1       1.0  0.48010343313217163  0.818725049495697  0.30293670296669006  1.0000
+  Ti  Ti2       1.0  0.4798329472541809  0.8181894421577454  0.9520726799964905  1.0000
+  Au  Au1       1.0  0.9803279042243958  0.31821826100349426  0.12947377562522888  1.0000
+  Au  Au2       1.0  0.9802471399307251  0.31903648376464844  0.4637429416179657  1.0000

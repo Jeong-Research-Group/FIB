@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2CdNi2
+_chemical_formula_sum              "Ba2 Cd1 Ni2"
+_cell_length_a       4.512319201637867
+_cell_length_b       4.513120784067553
+_cell_length_c       9.751652036047059
+_cell_angle_alpha    76.6704320576314
+_cell_angle_beta     76.7014345526101
+_cell_angle_gamma    59.993000838859174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.1505597258506276  0.9253213574307426  0.2299981734666144  1.0000
+  Ba  Ba2       1.0  0.6621152897050915  0.4385722330071253  0.6912173038338129  1.0000
+  Cd  Cd1       1.0  0.9060957439155629  0.681633993208746  0.9615647816194554  1.0000
+  Ni  Ni1       1.0  0.25176031387485553  0.027676428080607777  0.9237783005194142  1.0000
+  Ni  Ni2       1.0  0.5610222982914437  0.33618261057806237  0.9976498100589801  1.0000

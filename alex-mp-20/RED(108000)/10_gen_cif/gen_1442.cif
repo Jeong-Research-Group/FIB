@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2NaCaYIn
+_chemical_formula_sum              "Ca3 Na1 Y1 In1"
+_cell_length_a       3.701020058891086
+_cell_length_b       3.700995160116654
+_cell_length_c       15.599721908569336
+_cell_angle_alpha    89.95492325499688
+_cell_angle_beta     89.95293567115802
+_cell_angle_gamma    90.0209711857557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7913013696670532  0.11688359826803209  0.8731725215911865  1.0000
+  Ca  Ca2       1.0  0.29268428683280945  0.6177695989608765  0.06919398903846741  1.0000
+  Na  Na1       1.0  0.7921721935272217  0.11773180961608887  0.5988497138023376  1.0000
+  Ca  Ca3       1.0  0.29183998703956604  0.6175593733787537  0.4073604345321655  1.0000
+  Y   Y1        1.0  0.7916464805603027  0.1169278472661972  0.238356739282608  1.0000
+  In  In1       1.0  0.2912675738334656  0.6171818971633911  0.7365120649337769  1.0000

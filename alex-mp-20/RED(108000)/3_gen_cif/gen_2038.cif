@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb2Zn2PbIn
+_chemical_formula_sum              "Pb3 Zn2 In1"
+_cell_length_a       5.197121834287112
+_cell_length_b       5.81570278955771
+_cell_length_c       5.835821628570557
+_cell_angle_alpha    104.3927066971605
+_cell_angle_beta     89.64141756087481
+_cell_angle_gamma    89.54490700387203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.46552714705467224  0.44115370512008667  0.8590742349624634  1.0000
+  Pb  Pb2       1.0  0.4671918749809265  0.9622723460197448  0.3390942513942718  1.0000
+  Zn  Zn1       1.0  0.9672743082046509  0.2003005892038345  0.5975362062454224  1.0000
+  Zn  Zn2       1.0  0.9675732254981995  0.7043865919113159  0.10233557969331741  1.0000
+  Pb  Pb3       1.0  0.9662106037139893  0.7009643912315369  0.6003335118293762  1.0000
+  In  In1       1.0  0.9673123955726624  0.20290488004684445  0.09843675792217255  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2OBr2O
+_chemical_formula_sum              "Tb2 O2 Br2"
+_cell_length_a       3.888504764588084
+_cell_length_b       3.888705401951041
+_cell_length_c       10.998860359191895
+_cell_angle_alpha    79.68421733852367
+_cell_angle_beta     79.70011850011424
+_cell_angle_gamma    59.90765795478652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.45928192138671886  0.70574152469635  0.8047049045562744  1.0000
+  Tb  Tb2       1.0  0.2135885059833527  0.46050900220870966  0.5398996472358704  1.0000
+  O   O1        1.0  0.5290877223014832  0.7766357660293579  0.5920476317405701  1.0000
+  Br  Br1       1.0  0.9418123960494995  0.1897544413805008  0.3578612804412842  1.0000
+  Br  Br2       1.0  0.7334381341934205  0.9787892103195189  0.9854033589363097  1.0000
+  O   O2        1.0  0.14125297963619232  0.3883724510669708  0.7528718709945679  1.0000

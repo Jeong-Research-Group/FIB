@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PCoSmPSmFe
+_chemical_formula_sum              "P2 Co1 Sm2 Fe1"
+_cell_length_a       3.8033863972388264
+_cell_length_b       3.8062975406912822
+_cell_length_c       7.492245674133301
+_cell_angle_alpha    90.00021424034071
+_cell_angle_beta     90.01791126126365
+_cell_angle_gamma    90.05902216651961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.6281728148460388  0.4642673432826996  0.2757061719894409  1.0000
+  Co  Co1       1.0  0.12826116383075714  0.4645198583602906  0.4422275722026825  1.0000
+  Sm  Sm1       1.0  0.12767352163791656  0.9647539258003235  0.13387267291545868  1.0000
+  P   P2        1.0  0.12833143770694733  0.9643627405166626  0.6089375019073486  1.0000
+  Sm  Sm2       1.0  0.6286789774894714  0.46435111761093145  0.7514214515686035  1.0000
+  Fe  Fe1       1.0  0.6281924247741699  0.9643701314926149  0.4419914484024048  1.0000

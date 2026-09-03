@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DySc2PbC
+_chemical_formula_sum              "Dy1 Sc2 Pb1 C1"
+_cell_length_a       4.59928929963698
+_cell_length_b       4.599378959242819
+_cell_length_c       4.87990626516132
+_cell_angle_alpha    90.00321625423801
+_cell_angle_beta     89.99606990841185
+_cell_angle_gamma    89.99925522443084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6122152046618202  0.4046696198574227  0.8361265091346922  1.0000
+  Sc  Sc1       1.0  0.6122457826553297  0.9043609393711118  0.33618158995500186  1.0000
+  Sc  Sc2       1.0  0.11250325949957284  0.40424353726146556  0.3360670780081074  1.0000
+  Pb  Pb1       1.0  0.11244066781106796  0.9046260131388936  0.8363494632429913  1.0000
+  C   C1        1.0  0.6123503338265439  0.40437837846843316  0.33594576761893064  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaAg2Hg
+_chemical_formula_sum              "Ga1 Ag2 Hg1"
+_cell_length_a       4.222797422618209
+_cell_length_b       4.2272203639395585
+_cell_length_c       5.283706165926261
+_cell_angle_alpha    113.51759701446683
+_cell_angle_beta     113.47675452155731
+_cell_angle_gamma    90.00055519325683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.2332624463189761  0.4182670633229246  0.6197725834831482  1.0000
+  Ag  Ag1       1.0  0.4831418628235142  0.1683555376139298  0.1198126059154731  1.0000
+  Ag  Ag2       1.0  0.9832394005865271  0.6680557813135835  0.11950533486682138  1.0000
+  Hg  Hg1       1.0  0.7332416514876887  0.918248444615997  0.6197385380820608  1.0000

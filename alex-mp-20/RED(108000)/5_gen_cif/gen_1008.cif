@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmCaSmIn3
+_chemical_formula_sum              "Sm2 Ca1 In3"
+_cell_length_a       3.8307175383983587
+_cell_length_b       3.828734421298006
+_cell_length_c       11.595004081726074
+_cell_angle_alpha    89.99366408893381
+_cell_angle_beta     89.98088480519607
+_cell_angle_gamma    89.97803661602296
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7066081166267395  0.23172567784786224  0.9302322864532471  1.0000
+  Ca  Ca1       1.0  0.7067754864692688  0.23178136348724362  0.5980651378631592  1.0000
+  Sm  Sm2       1.0  0.706863522529602  0.2319667488336563  0.26439958810806274  1.0000
+  In  In1       1.0  0.20769914984703064  0.7319875955581664  0.4283449947834015  1.0000
+  In  In2       1.0  0.20634664595127106  0.731759786605835  0.09746948629617691  1.0000
+  In  In3       1.0  0.20677413046360016  0.7322764992713928  0.7669944167137146  1.0000

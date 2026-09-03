@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Al2Rh2
+_chemical_formula_sum              "Nd2 Al2 Rh2"
+_cell_length_a       4.3160650811896755
+_cell_length_b       4.084944295680125
+_cell_length_c       7.515861669333491
+_cell_angle_alpha    90.01420791183749
+_cell_angle_beta     89.99151703289537
+_cell_angle_gamma    89.98745476491452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.5377449373916638  0.2488645791413631  0.020205087693779808  1.0000
+  Nd  Nd2       1.0  0.03735395031098424  0.24770712547007567  0.5195681511164895  1.0000
+  Al  Al1       1.0  0.5372872634626665  0.7481075248906555  0.6865589964365933  1.0000
+  Al  Al2       1.0  0.03748705886585113  0.7486874612723372  0.18646082544404516  1.0000
+  Rh  Rh1       1.0  0.037246229085886595  0.7465813997565197  0.8540778433335012  1.0000
+  Rh  Rh2       1.0  0.5376422920346862  0.7488715083744666  0.35408803057684324  1.0000

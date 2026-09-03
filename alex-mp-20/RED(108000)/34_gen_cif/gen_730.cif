@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdEr2InCdHg
+_chemical_formula_sum              "Cd2 Er2 In1 Hg1"
+_cell_length_a       4.897528682923086
+_cell_length_b       4.896847323022251
+_cell_length_c       7.074812412261963
+_cell_angle_alpha    89.98997578732033
+_cell_angle_beta     90.0068053728966
+_cell_angle_gamma    119.98220364295885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.1392510086297989  0.3144749701023102  0.41706290841102606  1.0000
+  Er  Er1       1.0  0.8059322237968445  0.6486995220184326  0.6719089746475221  1.0000
+  Er  Er2       1.0  0.8060819506645203  0.647901177406311  0.16345360875129702  1.0000
+  In  In1       1.0  0.4726118743419647  0.9812242388725281  0.41900655627250677  1.0000
+  Cd  Cd2       1.0  0.4726833999156952  0.9810965657234192  0.917914390563965  1.0000
+  Hg  Hg1       1.0  0.13899484276771545  0.3153512477874756  0.9183289408683778  1.0000

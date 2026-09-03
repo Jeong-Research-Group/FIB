@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg3InCu2
+_chemical_formula_sum              "Mg3 In1 Cu2"
+_cell_length_a       4.41842288430626
+_cell_length_b       5.714846143871974
+_cell_length_c       5.329001682642248
+_cell_angle_alpha    114.27367893914669
+_cell_angle_beta     114.36441483996529
+_cell_angle_gamma    89.99257816501054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.850753999459796  0.4098760588832729  0.8464275933552375  1.0000
+  Mg  Mg2       1.0  0.47470988118827795  0.17251035219390626  0.09437975249370091  1.0000
+  Mg  Mg3       1.0  0.11987089101734473  0.0035587425652865556  0.3867216689283801  1.0000
+  In  In1       1.0  0.2003554875633491  0.5746257416801438  0.5435708241952799  1.0000
+  Cu  Cu1       1.0  0.5097968845689589  0.6962329422211612  0.16621212941899058  1.0000
+  Cu  Cu2       1.0  0.8041750113715436  0.8976057429332994  0.7519293601156266  1.0000

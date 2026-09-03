@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2Cd2In2
+_chemical_formula_sum              "K2 Cd2 In2"
+_cell_length_a       5.27061535738195
+_cell_length_b       6.749898866332723
+_cell_length_c       6.753684117032691
+_cell_angle_alpha    81.05601774340681
+_cell_angle_beta     67.03149395170806
+_cell_angle_gamma    67.00697859647494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.3924182751083582  0.23614717874584476  0.5939775470212889  1.0000
+  K   K2        1.0  0.8891912678345353  0.6094777714152189  0.22764394213354672  1.0000
+  Cd  Cd1       1.0  0.2122962234537437  0.012513437420147565  0.17800009764941696  1.0000
+  Cd  Cd2       1.0  0.716241245977423  0.18848800192328805  0.9937826359449671  1.0000
+  In  In1       1.0  0.06843826273032275  0.8305774340590973  0.6471976659195717  1.0000
+  In  In2       1.0  0.5665045399932964  0.6576705363692114  0.8239841751274443  1.0000

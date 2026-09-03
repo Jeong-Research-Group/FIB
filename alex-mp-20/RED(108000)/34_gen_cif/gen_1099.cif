@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnRh2Ga
+_chemical_formula_sum              "Mn1 Rh2 Ga1"
+_cell_length_a       3.0278251201911774
+_cell_length_b       4.29499258178628
+_cell_length_c       4.293844699859619
+_cell_angle_alpha    90.01435956402212
+_cell_angle_beta     90.00258431580558
+_cell_angle_gamma    89.99278982439102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.007344982586801052  0.07136724144220352  0.04181622713804245  1.0000
+  Rh  Rh1       1.0  0.50794517993927  0.07153365015983583  0.541753351688385  1.0000
+  Rh  Rh2       1.0  0.5079339742660522  0.5723465085029603  0.04191186651587486  1.0000
+  Ga  Ga1       1.0  0.007390900049358606  0.5727354288101196  0.5420339703559875  1.0000

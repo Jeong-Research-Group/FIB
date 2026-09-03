@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2In2Hg2
+_chemical_formula_sum              "Rb2 In2 Hg2"
+_cell_length_a       4.861956340620754
+_cell_length_b       4.861501712229534
+_cell_length_c       9.847663060760304
+_cell_angle_alpha    89.99674943848082
+_cell_angle_beta     90.02854043756739
+_cell_angle_gamma    89.9956720604635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.5695785162478267  0.2368930527114176  0.026940090859278083  1.0000
+  Rb  Rb2       1.0  0.06922509448845661  0.7368509829897367  0.34158373248537716  1.0000
+  In  In1       1.0  0.5701435577184011  0.7363175902532367  0.6831849857856491  1.0000
+  In  In2       1.0  0.06967753555468263  0.23688116709996979  0.6834132019441909  1.0000
+  Hg  Hg1       1.0  0.07027636509185413  0.7370718849200197  0.8868073713478585  1.0000
+  Hg  Hg2       1.0  0.5694655205849996  0.23618493956380346  0.4786040773133265  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbCdI3
+_chemical_formula_sum              "Rb1 Cd1 I3"
+_cell_length_a       6.011137709487132
+_cell_length_b       6.010545841380316
+_cell_length_c       6.010434014021163
+_cell_angle_alpha    90.00488770512881
+_cell_angle_beta     90.01011945660449
+_cell_angle_gamma    90.00379322837792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.5525427896827838  0.17772332080967476  0.059023034736882724  1.0000
+  Cd  Cd1       1.0  0.05309448863803618  0.6771527430984022  0.558879795469239  1.0000
+  I   I1        1.0  0.5529711321987121  0.6774661059941673  0.5593010261736063  1.0000
+  I   I2        1.0  0.05309285013524829  0.17709687338802035  0.558976418415213  1.0000
+  I   I3        1.0  0.052372673669432206  0.6778058525663263  0.05925862889387549  1.0000

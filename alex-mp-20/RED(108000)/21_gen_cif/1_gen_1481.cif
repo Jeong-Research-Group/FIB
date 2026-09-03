@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4SnAsS2
+_chemical_formula_sum              "La4 Sn1 As1 S2"
+_cell_length_a       4.354900857180945
+_cell_length_b       7.566347503801651
+_cell_length_c       7.504392223141099
+_cell_angle_alpha    109.60564686656868
+_cell_angle_beta     90.00011700641711
+_cell_angle_gamma    90.00009972708582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.23654129592181483  0.0397962019462673  0.9124022802181518  1.0000
+  La  La2       1.0  0.7364777809458949  0.03282973433866241  0.3946258523647134  1.0000
+  La  La3       1.0  0.2365675649219114  0.5485526303608989  0.4009891424951297  1.0000
+  La  La4       1.0  0.7365597673413976  0.5551672462654748  0.919199327363965  1.0000
+  Sn  Sn1       1.0  0.2364614489718487  0.29424467596250076  0.6567166484342113  1.0000
+  As  As1       1.0  0.7366788465072306  0.7941430652992831  0.6567191917840427  1.0000
+  S   S1        1.0  0.7365354147358365  0.29376245397831247  0.1569085218845885  1.0000
+  S   S2        1.0  0.23656801323036475  0.7941536142229169  0.15701381196076145  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuNi2Pt
+_chemical_formula_sum              "Cu1 Ni2 Pt1"
+_cell_length_a       2.656551728527256
+_cell_length_b       4.435623958918402
+_cell_length_c       4.450941706090445
+_cell_angle_alpha    108.45368803710528
+_cell_angle_beta     90.02201384835215
+_cell_angle_gamma    90.01437845126149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7191779573253161  0.6506633326807226  0.9578522113408614  1.0000
+  Ni  Ni1       1.0  0.719336491534712  0.15082650131942407  0.45822880427667706  1.0000
+  Ni  Ni2       1.0  0.21924959611903494  0.15089157433288172  0.9578729848428871  1.0000
+  Pt  Pt1       1.0  0.21921332790089934  0.6508627200365547  0.4579886798798884  1.0000

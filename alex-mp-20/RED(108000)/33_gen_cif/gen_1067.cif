@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pd2HgPdHgPd
+_chemical_formula_sum              "Pd4 Hg2"
+_cell_length_a       4.148549189848399
+_cell_length_b       4.904489427681268
+_cell_length_c       5.715901851654053
+_cell_angle_alpha    104.67340542954047
+_cell_angle_beta     90.1036301317121
+_cell_angle_gamma    115.02248805172326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.893702507019043  0.09526364505290985  0.9318817257881165  1.0000
+  Pd  Pd2       1.0  0.22472400963306427  0.7568871378898621  0.10371410101652143  1.0000
+  Hg  Hg1       1.0  0.5665397047996521  0.44123089313507086  0.7877569198608398  1.0000
+  Pd  Pd3       1.0  0.5550912022590637  0.41781124472618103  0.2754440903663635  1.0000
+  Hg  Hg2       1.0  0.8821864128112793  0.07224982976913452  0.4187791645526886  1.0000
+  Pd  Pd4       1.0  0.22433531284332275  0.7568486928939819  0.6034421324729919  1.0000

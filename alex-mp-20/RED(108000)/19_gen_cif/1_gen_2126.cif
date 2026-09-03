@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Fe2CoHgN
+_chemical_formula_sum              "Fe2 Co1 Hg1 N1"
+_cell_length_a       3.925349271850881
+_cell_length_b       3.908251941842185
+_cell_length_c       3.9083415205689396
+_cell_angle_alpha    89.99568246904771
+_cell_angle_beta     90.00013859076358
+_cell_angle_gamma    89.99989000410153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.006954045279162741  0.48992467715644117  0.8263272683833395  1.0000
+  Fe  Fe2       1.0  0.006920779223181592  0.9896977348477505  0.3256961817685599  1.0000
+  Co  Co1       1.0  0.5067221295509753  0.4898435580272366  0.32587449722835105  1.0000
+  Hg  Hg1       1.0  0.5068872696021273  0.9899918980292056  0.8258262264137969  1.0000
+  N   N1        1.0  0.006862203152607236  0.48965958403956494  0.326090302839212  1.0000

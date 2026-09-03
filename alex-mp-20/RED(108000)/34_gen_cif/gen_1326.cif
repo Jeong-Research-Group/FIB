@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnSrFeSrFeCP2
+_chemical_formula_sum              "Mn1 Sr2 Fe2 C1 P2"
+_cell_length_a       3.7636689314792697
+_cell_length_b       3.971977902284396
+_cell_length_c       9.414790153503418
+_cell_angle_alpha    90.08137737942688
+_cell_angle_beta     89.9835075966002
+_cell_angle_gamma    90.02359397940586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8192586302757263  0.8712708950042725  0.6770147681236267  1.0000
+  Sr  Sr1       1.0  0.32038095593452454  0.3692809641361236  0.9641133546829224  1.0000
+  Fe  Fe1       1.0  0.32052019238471985  0.8695846199989319  0.25427475571632385  1.0000
+  Sr  Sr2       1.0  0.8205310106277466  0.36972343921661377  0.3881327211856842  1.0000
+  Fe  Fe2       1.0  0.3203020691871643  0.37023541331291193  0.6528573036193848  1.0000
+  C   C1        1.0  0.8204147815704346  0.369742751121521  0.7120270133018494  1.0000
+  P   P1        1.0  0.3200303912162781  0.8697823286056519  0.5266445875167847  1.0000
+  P   P2        1.0  0.8208397030830383  0.8680253028869629  0.12659518420696259  1.0000

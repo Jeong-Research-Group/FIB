@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SiZrSiZr2PdSiPt3
+_chemical_formula_sum              "Si3 Zr3 Pd1 Pt3"
+_cell_length_a       3.801638112259426
+_cell_length_b       7.149985861398527
+_cell_length_c       7.723287582397461
+_cell_angle_alpha    125.00554961836662
+_cell_angle_beta     89.9803178994524
+_cell_angle_gamma    90.04978775304482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.24135467410087583  0.8962157368659973  0.43290328979492193  1.0000
+  Zr  Zr1       1.0  0.7414990663528441  0.5354639291763306  0.07943824678659439  1.0000
+  Si  Si2       1.0  0.7413086891174315  0.775511145591736  0.8797621726989746  1.0000
+  Zr  Zr2       1.0  0.24144153296947476  0.07172830402851105  0.8799791932106018  1.0000
+  Zr  Zr3       1.0  0.7413927912712096  0.1975086480379105  0.32768529653549194  1.0000
+  Pd  Pd1       1.0  0.7416607737541198  0.7049314379692079  0.5360040068626404  1.0000
+  Si  Si3       1.0  0.24193106591701505  0.46258041262626654  0.3022201359272003  1.0000
+  Pt  Pt1       1.0  0.24209696054458615  0.4807142913341522  0.6621472835540771  1.0000
+  Pt  Pt2       1.0  0.2415094822645187  0.8404166102409364  0.09593494981527334  1.0000
+  Pt  Pt3       1.0  0.7419390678405761  0.15956339240074158  0.6622335314750671  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       HoTe
+_chemical_formula_sum              "Ho1 Te1"
+_cell_length_a       4.329074167617328
+_cell_length_b       4.330792531631544
+_cell_length_c       4.3377597708559
+_cell_angle_alpha    60.12034443433805
+_cell_angle_beta     60.1121521157822
+_cell_angle_gamma    60.03656426392961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.14052498700804805  0.8995677485514582  0.357700958165624  1.0000
+  Te  Te1       1.0  0.6395820647098549  0.39841887700637213  0.8574145007907192  1.0000

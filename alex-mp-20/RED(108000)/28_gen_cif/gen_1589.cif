@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuCl2CuClHg
+_chemical_formula_sum              "Cu2 Cl3 Hg1"
+_cell_length_a       3.684381277014826
+_cell_length_b       3.6851170071549535
+_cell_length_c       12.801300048828125
+_cell_angle_alpha    81.52884713694534
+_cell_angle_beta     81.53469356156604
+_cell_angle_gamma    59.913387253073985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3418939113616943  0.662062406539917  0.571445882320404  1.0000
+  Cl  Cl1       1.0  0.4025620222091675  0.7210832238197327  0.3876197934150695  1.0000
+  Cl  Cl2       1.0  0.8051512241363525  0.12623603641986847  0.18019956350326538  1.0000
+  Cu  Cu2       1.0  0.10766562819480896  0.4261883497238159  0.2749643921852112  1.0000
+  Cl  Cl3       1.0  0.6515936851501465  0.9709640145301819  0.6410908102989197  1.0000
+  Hg  Hg1       1.0  0.22605434060096743  0.5462672710418701  0.9169569611549376  1.0000

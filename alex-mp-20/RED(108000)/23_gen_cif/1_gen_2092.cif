@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ca2InCu
+_chemical_formula_sum              "Ca2 In1 Cu1"
+_cell_length_a       3.7047411699513413
+_cell_length_b       5.294282146341603
+_cell_length_c       5.294390115206984
+_cell_angle_alpha    90.00151920261243
+_cell_angle_beta     89.9999494810703
+_cell_angle_gamma    90.00374635596908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8465763470717854  0.012109928131748831  0.8275377740921137  1.0000
+  Ca  Ca2       1.0  0.8466576211476061  0.5121135001421476  0.3274870327017417  1.0000
+  In  In1       1.0  0.3466540797517013  0.5121792927290647  0.8274837022435526  1.0000
+  Cu  Cu1       1.0  0.3465719859699023  0.012066201394187747  0.3277160551147858  1.0000

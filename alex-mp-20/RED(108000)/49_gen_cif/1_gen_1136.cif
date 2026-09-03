@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2InRh
+_chemical_formula_sum              "Zn2 In1 Rh1"
+_cell_length_a       3.135231870353374
+_cell_length_b       3.6731735405131003
+_cell_length_c       5.77280934818846
+_cell_angle_alpha    89.9960378653171
+_cell_angle_beta     89.98904620136342
+_cell_angle_gamma    90.00031488465832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2209228702983221  0.3813967669534572  0.02066664931333852  1.0000
+  Zn  Zn2       1.0  0.22076308874648232  0.3813317941650947  0.45156474306940164  1.0000
+  In  In1       1.0  0.7210920740763469  0.8815151080656312  0.7361987937022942  1.0000
+  Rh  Rh1       1.0  0.7207967349859262  0.8812850595080804  0.23620960735512098  1.0000

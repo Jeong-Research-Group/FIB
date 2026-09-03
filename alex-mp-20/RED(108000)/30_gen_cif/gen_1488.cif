@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiNiBCoNi
+_chemical_formula_sum              "Ti1 Ni2 B1 Co1"
+_cell_length_a       3.836092612021433
+_cell_length_b       3.83184707728603
+_cell_length_c       3.835967540740967
+_cell_angle_alpha    90.01462593965542
+_cell_angle_beta     89.94080525180456
+_cell_angle_gamma    90.02365544990766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7598766684532166  0.9993971586227416  0.15087217092514038  1.0000
+  Ni  Ni1       1.0  0.7601796984672546  0.49950224161148066  0.6505334377288818  1.0000
+  B   B1        1.0  0.26132625341415405  0.4995560050010681  0.6501103639602661  1.0000
+  Co  Co1       1.0  0.2599826753139496  0.9992028474807739  0.6502111554145813  1.0000
+  Ni  Ni2       1.0  0.25944381952285767  0.4995262622833252  0.15106110274791718  1.0000

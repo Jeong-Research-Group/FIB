@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SbTe3Pb3
+_chemical_formula_sum              "Sb1 Te3 Pb3"
+_cell_length_a       4.5379142553421685
+_cell_length_b       4.536130943795483
+_cell_length_c       13.569364355658571
+_cell_angle_alpha    89.98639717204527
+_cell_angle_beta     90.0100570511123
+_cell_angle_gamma    119.99022345112706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.3650049897407329  0.5320364244041426  0.7788537840497789  1.0000
+  Te  Te1       1.0  0.6976490518596278  0.19763647926662006  0.5077313318812507  1.0000
+  Te  Te2       1.0  0.3636762938952588  0.5305727430781445  0.35934277992728736  1.0000
+  Te  Te3       1.0  0.36372392518159746  0.531010467570808  0.06557396433402496  1.0000
+  Pb  Pb1       1.0  0.6978373311921643  0.19830125344579455  0.9218127611287253  1.0000
+  Pb  Pb2       1.0  0.030104899684267335  0.8639287875674886  0.22108742906220985  1.0000
+  Pb  Pb3       1.0  0.031407987618987235  0.864549262283147  0.6425396344158575  1.0000

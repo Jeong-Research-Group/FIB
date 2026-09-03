@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd3InPt2
+_chemical_formula_sum              "Cd3 In1 Pt2"
+_cell_length_a       3.893886866908622
+_cell_length_b       5.2510149080527615
+_cell_length_c       7.141344031455705
+_cell_angle_alpha    72.60926159123625
+_cell_angle_beta     74.1722473888825
+_cell_angle_gamma    68.22272776029087
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8279223117473817  0.708209515591786  0.9425934020354949  1.0000
+  Cd  Cd2       1.0  0.24861520282297567  0.14835820905682698  0.6612216935959804  1.0000
+  Cd  Cd3       1.0  0.5854868505995378  0.6161286160924271  0.5189277027449123  1.0000
+  In  In1       1.0  0.010674553825852163  0.07111967595849585  0.2138175974052371  1.0000
+  Pt  Pt1       1.0  0.27934768211981864  0.48391644221110386  0.2636096074847202  1.0000
+  Pt  Pt2       1.0  0.550976666817156  0.2890014226329709  0.9156820598733475  1.0000

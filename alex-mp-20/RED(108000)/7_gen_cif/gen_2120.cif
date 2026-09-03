@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ag3ZnAgYAu
+_chemical_formula_sum              "Ag4 Zn1 Y1 Au1"
+_cell_length_a       4.292870089858209
+_cell_length_b       4.329670957370072
+_cell_length_c       7.609444618225098
+_cell_angle_alpha    90.00882027884393
+_cell_angle_beta     89.99169016449443
+_cell_angle_gamma    89.99437442869616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7530139684677124  0.30857256054878235  0.1892874240875244  1.0000
+  Ag  Ag2       1.0  0.2533182203769684  0.8085048794746398  0.6001580357551575  1.0000
+  Ag  Ag3       1.0  0.7533243894577026  0.3085894286632538  0.6005550026893616  1.0000
+  Zn  Zn1       1.0  0.2531190514564514  0.3088352382183075  0.3948760032653808  1.0000
+  Ag  Ag4       1.0  0.2533144950866699  0.8086317181587219  0.1892706602811813  1.0000
+  Y   Y1        1.0  0.2532421350479126  0.3087261915206909  0.8952268362045287  1.0000
+  Au  Au1       1.0  0.7534448504447937  0.8082090616226195  0.8949838876724242  1.0000

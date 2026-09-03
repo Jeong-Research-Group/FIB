@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2PrNi2Ge2
+_chemical_formula_sum              "Li2 Pr1 Ni2 Ge2"
+_cell_length_a       4.147751163849386
+_cell_length_b       4.1477410153292995
+_cell_length_c       8.075482890646462
+_cell_angle_alpha    75.11630015239201
+_cell_angle_beta     75.11768545974464
+_cell_angle_gamma    59.99768171559594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.015339377570139609  0.4479479686865372  0.4993564731953335  1.0000
+  Li  Li2       1.0  0.12176216898438082  0.5542929512438235  0.18061465759153064  1.0000
+  Pr  Pr1       1.0  0.8765983331176705  0.3092693293563292  0.9157030679445477  1.0000
+  Ni  Ni1       1.0  0.6361950845817199  0.06890919837322658  0.6367505296033863  1.0000
+  Ni  Ni2       1.0  0.4077889209909256  0.8402042495369693  0.322497725795747  1.0000
+  Ge  Ge1       1.0  0.2942991565728506  0.7269963200542976  0.6625406116437907  1.0000
+  Ge  Ge2       1.0  0.7422946821494403  0.17473280462464982  0.31880183484739566  1.0000

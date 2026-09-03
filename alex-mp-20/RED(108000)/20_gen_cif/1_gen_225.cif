@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2LiInAs2
+_chemical_formula_sum              "K2 Li1 In1 As2"
+_cell_length_a       4.556925954798867
+_cell_length_b       4.561018817255687
+_cell_length_c       7.861774979299239
+_cell_angle_alpha    90.01648399900003
+_cell_angle_beta     90.00227708034343
+_cell_angle_gamma    90.01055017313863
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.4735645795423347  0.046361264494685486  0.3221725203360053  1.0000
+  K   K2        1.0  0.9738046222676046  0.5468321374484363  0.021942700739003177  1.0000
+  Li  Li1       1.0  0.4734806279591357  0.5466011780548209  0.6729701287655544  1.0000
+  In  In1       1.0  0.9734193462616724  0.046659125518732615  0.6719679378435602  1.0000
+  As  As1       1.0  0.973772177126405  0.5466588582923328  0.4746820987630145  1.0000
+  As  As2       1.0  0.4734630696956587  0.046449540676667914  0.8695725006937967  1.0000

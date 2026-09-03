@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiBiPRh2
+_chemical_formula_sum              "Li1 Bi1 P1 Rh2"
+_cell_length_a       4.622878111943699
+_cell_length_b       4.451744061355694
+_cell_length_c       4.4517503049837845
+_cell_angle_alpha    89.96521268321035
+_cell_angle_beta     90.00541330800952
+_cell_angle_gamma    89.94866145901007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3288910617800493  0.5464410394467855  0.5102395164069288  1.0000
+  Bi  Bi1       1.0  0.32966431145063124  0.04598420895870346  0.011107370970934042  1.0000
+  P   P1        1.0  0.8287053706042223  0.5460449463932988  0.5117116528503403  1.0000
+  Rh  Rh1       1.0  0.8298049381731707  0.5461606258543301  0.011573612795162176  1.0000
+  Rh  Rh2       1.0  0.8295173956592276  0.04594502934150017  0.5111426968911575  1.0000

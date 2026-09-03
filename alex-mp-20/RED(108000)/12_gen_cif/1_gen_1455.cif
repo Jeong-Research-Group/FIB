@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2HAu2
+_chemical_formula_sum              "Ta2 H1 Au2"
+_cell_length_a       4.086499727123044
+_cell_length_b       4.092887242325496
+_cell_length_c       5.306283813780505
+_cell_angle_alpha    112.70814988422278
+_cell_angle_beta     112.6584449758507
+_cell_angle_gamma    89.99953889706701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6762166241532207  0.34335257593813595  0.1200884985830568  1.0000
+  Ta  Ta2       1.0  0.17639419331068582  0.8435666374896442  0.1214717971023604  1.0000
+  H   H1        1.0  0.17684071726329795  0.34328011597524066  0.12087339654214103  1.0000
+  Au  Au1       1.0  0.9112963026146025  0.07867765750755153  0.5905682317216632  1.0000
+  Au  Au2       1.0  0.44083404918913016  0.6076705912047309  0.6506158032862085  1.0000

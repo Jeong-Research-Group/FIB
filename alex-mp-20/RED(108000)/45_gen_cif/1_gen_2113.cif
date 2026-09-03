@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiMgSi2Ni
+_chemical_formula_sum              "Li1 Mg1 Si2 Ni1"
+_cell_length_a       3.791545147328716
+_cell_length_b       4.924964313648164
+_cell_length_c       5.1783669871364495
+_cell_angle_alpha    118.40059839296525
+_cell_angle_beta     111.48149175063206
+_cell_angle_gamma    89.99648272859518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7741201057096898  0.0021934733838331333  0.27782746080642134  1.0000
+  Mg  Mg1       1.0  0.35301808167476406  0.5812556893120454  0.435785384068091  1.0000
+  Si  Si1       1.0  0.06023273371358706  0.030060515142434265  0.8499562623700301  1.0000
+  Si  Si2       1.0  0.0602847387687687  0.5465474170652507  0.8502209801107131  1.0000
+  Ni  Ni1       1.0  0.55806504168634  0.28614672987110396  0.8458211747995508  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V4CrNi
+_chemical_formula_sum              "V4 Cr1 Ni1"
+_cell_length_a       2.98548451548889
+_cell_length_b       4.125523689307149
+_cell_length_c       6.4983277733057605
+_cell_angle_alpha    108.54111703168184
+_cell_angle_beta     90.04994955141898
+_cell_angle_gamma    90.01714303702747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.40788907064296265  0.6722942369386131  0.030862057532999275  1.0000
+  V   V2        1.0  0.40761151385523176  0.006726323993058217  0.7000632464913739  1.0000
+  V   V3        1.0  0.9079677002274051  0.8424619618102556  0.3713247038917637  1.0000
+  V   V4        1.0  0.4078073791551875  0.334699269747108  0.355517639719899  1.0000
+  Cr  Cr1       1.0  0.907900575745441  0.16540983695750727  0.017163222551202343  1.0000
+  Ni  Ni1       1.0  0.907942101237526  0.5050223688727927  0.6967617558404826  1.0000

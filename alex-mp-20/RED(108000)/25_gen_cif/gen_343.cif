@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TbFeTbFeGe2
+_chemical_formula_sum              "Tb2 Fe2 Ge2"
+_cell_length_a       4.109940530000345
+_cell_length_b       4.055744518461591
+_cell_length_c       7.048239707946777
+_cell_angle_alpha    89.97628808569485
+_cell_angle_beta     89.97236756103959
+_cell_angle_gamma    89.9054726762427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.7966451644897461  0.005512228701263666  0.917131781578064  1.0000
+  Fe  Fe1       1.0  0.2966288924217224  0.5054752826690674  0.7672064304351807  1.0000
+  Tb  Tb2       1.0  0.29664990305900574  0.0058456240221858025  0.41521894931793213  1.0000
+  Fe  Fe2       1.0  0.2967481017112732  0.5054943561553955  0.06674394011497498  1.0000
+  Ge  Ge1       1.0  0.7969136238098145  0.5051054954528809  0.5948016047477722  1.0000
+  Ge  Ge2       1.0  0.7966194152832031  0.5052070617675781  0.2376590222120285  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2In2Pt2
+_chemical_formula_sum              "Lu2 In2 Pt2"
+_cell_length_a       4.582429106113822
+_cell_length_b       5.223093580244704
+_cell_length_c       5.928077393848865
+_cell_angle_alpha    89.96453252866061
+_cell_angle_beta     89.99941047090618
+_cell_angle_gamma    116.01999222126321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.4898068741336791  0.842193727553767  0.40986647632976836  1.0000
+  Lu  Lu2       1.0  0.11413293459850832  0.09089681121473678  0.9094394154931662  1.0000
+  In  In1       1.0  0.8017900966561041  0.4666478871066399  0.16015419791434382  1.0000
+  In  In2       1.0  0.8022183033845774  0.46689861888929696  0.659771760693018  1.0000
+  Pt  Pt1       1.0  0.17663202601704744  0.2157737169100379  0.40953135964553994  1.0000
+  Pt  Pt2       1.0  0.4277863016127904  0.7181398736107854  0.9099602150344871  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmTmSmCSn
+_chemical_formula_sum              "Sm2 Tm1 C1 Sn1"
+_cell_length_a       4.808833235728738
+_cell_length_b       5.034792090028916
+_cell_length_c       5.03727912902832
+_cell_angle_alpha    89.98631480558944
+_cell_angle_beta     90.01244710865264
+_cell_angle_gamma    89.96216326066096
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.27296876907348633  0.5580485463142395  0.5180930495262146  1.0000
+  Tm  Tm1       1.0  0.7727028727531433  0.05809735506772995  0.5185843110084534  1.0000
+  Sm  Sm2       1.0  0.2730262577533722  0.0580495148897171  0.01898023672401905  1.0000
+  C   C1        1.0  0.27306434512138367  0.058279242366552346  0.5187801122665405  1.0000
+  Sn  Sn1       1.0  0.7729665637016296  0.5580780506134033  0.01859981007874012  1.0000

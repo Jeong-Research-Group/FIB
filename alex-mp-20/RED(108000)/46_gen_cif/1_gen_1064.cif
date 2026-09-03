@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2In2Bi2
+_chemical_formula_sum              "Cs2 In2 Bi2"
+_cell_length_a       5.525961061553864
+_cell_length_b       5.508104876949074
+_cell_length_c       8.861548129657962
+_cell_angle_alpha    89.94889670876235
+_cell_angle_beta     89.92131276246378
+_cell_angle_gamma    90.01888164135454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.44008071428595724  0.8342589833962422  0.8852135448690506  1.0000
+  Cs  Cs2       1.0  0.9393569957064417  0.33394553520421577  0.22038528346901948  1.0000
+  In  In1       1.0  0.4396671496568155  0.33409172215924254  0.5537318306682018  1.0000
+  In  In2       1.0  0.9398968389359283  0.8346118890515672  0.55226897839209  1.0000
+  Bi  Bi1       1.0  0.938100480763914  0.33427770975740567  0.7340632380328608  1.0000
+  Bi  Bi2       1.0  0.44128487512592846  0.8347455374358338  0.36972118568467344  1.0000

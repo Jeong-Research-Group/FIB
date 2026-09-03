@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn3VCo2
+_chemical_formula_sum              "Mn3 V1 Co2"
+_cell_length_a       4.027739894467555
+_cell_length_b       4.02499921906416
+_cell_length_c       4.961447039932945
+_cell_angle_alpha    90.00810976436608
+_cell_angle_beta     89.96948025436859
+_cell_angle_gamma    120.00901069671696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.07428280294193393  0.8408053303790127  0.4118731858989689  1.0000
+  Mn  Mn2       1.0  0.0740521102940862  0.8404339743507232  0.903627935941055  1.0000
+  Mn  Mn3       1.0  0.4075609753227617  0.5075620325435426  0.5435404280242948  1.0000
+  V   V1        1.0  0.4075053079722531  0.5074832515632433  0.045281581038319335  1.0000
+  Co  Co1       1.0  0.7412801569612106  0.17424339229639685  0.22877639385235327  1.0000
+  Co  Co2       1.0  0.7410643307212949  0.17425534435229875  0.7256518406442072  1.0000

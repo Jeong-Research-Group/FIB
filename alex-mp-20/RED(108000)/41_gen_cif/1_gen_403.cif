@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2InAu3
+_chemical_formula_sum              "Dy2 In1 Au3"
+_cell_length_a       5.047038426426035
+_cell_length_b       5.047554139767259
+_cell_length_c       6.0894070449083
+_cell_angle_alpha    89.99954769075723
+_cell_angle_beta     90.00089049882253
+_cell_angle_gamma    120.00018631122134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6562081635870574  0.6138768284383821  0.6879823543932798  1.0000
+  Dy  Dy2       1.0  0.989619611103958  0.28049995954010054  0.2404876226733385  1.0000
+  In  In1       1.0  0.32307083353840343  0.9470399041808927  0.9640977169547857  1.0000
+  Au  Au1       1.0  0.6562866082914998  0.6138953538958224  0.19065527645624405  1.0000
+  Au  Au2       1.0  0.32277988049503303  0.9474078421849085  0.46404880619544736  1.0000
+  Au  Au3       1.0  0.9894836744098078  0.2805264869549337  0.7381529753786027  1.0000

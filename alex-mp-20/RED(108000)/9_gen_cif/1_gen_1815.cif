@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Al2TlCd2
+_chemical_formula_sum              "Al2 Tl1 Cd2"
+_cell_length_a       3.201218639859861
+_cell_length_b       3.200962791913913
+_cell_length_c       12.838827027396773
+_cell_angle_alpha    82.87018544781837
+_cell_angle_beta     82.87836784901103
+_cell_angle_gamma    59.77637321862099
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6949825018871034  0.3932225549042755  0.7907925650536495  1.0000
+  Al  Al2       1.0  0.08125701046201321  0.7801151932086524  0.6262705359828149  1.0000
+  Tl  Tl1       1.0  0.8860621670436392  0.5876984319750117  0.2090953552522618  1.0000
+  Cd  Cd1       1.0  0.30067191295625634  0.001885624751458887  0.9740264401827913  1.0000
+  Cd  Cd2       1.0  0.47246393652299473  0.17377059538529752  0.4430879417231045  1.0000

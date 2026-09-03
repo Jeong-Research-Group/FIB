@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti3PtC
+_chemical_formula_sum              "Ti3 Pt1 C1"
+_cell_length_a       2.9883811974390246
+_cell_length_b       4.123002902050384
+_cell_length_c       5.740842123185761
+_cell_angle_alpha    89.99234078218701
+_cell_angle_beta     90.0094006592128
+_cell_angle_gamma    90.00076306859692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6538375319833173  0.5942644325888419  0.5467707521732744  1.0000
+  Ti  Ti2       1.0  0.1537025019948637  0.09440128952795872  0.2924083009623682  1.0000
+  Ti  Ti3       1.0  0.15384147715685298  0.09415949999449084  0.8015351476660222  1.0000
+  Pt  Pt1       1.0  0.6541627150387528  0.5941380399624164  0.0470534182028854  1.0000
+  C   C1        1.0  0.6538219968516716  0.09430895389977433  0.5469845508689538  1.0000

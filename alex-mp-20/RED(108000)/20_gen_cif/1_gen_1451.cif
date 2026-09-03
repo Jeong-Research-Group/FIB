@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Nb2CoNi
+_chemical_formula_sum              "Nb2 Co1 Ni1"
+_cell_length_a       2.7879775331278065
+_cell_length_b       4.362576765270963
+_cell_length_c       4.7020541838770304
+_cell_angle_alpha    89.99543343661155
+_cell_angle_beta     90.00812000372994
+_cell_angle_gamma    89.99960766237818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7045739986896371  0.2715833093993293  0.536738281263088  1.0000
+  Nb  Nb2       1.0  0.7044186860539964  0.7709254170749199  0.9392944261210127  1.0000
+  Co  Co1       1.0  0.2045704480515082  0.7715495477130966  0.4045585553637607  1.0000
+  Ni  Ni1       1.0  0.2044456655113816  0.27088823925438077  0.0673911257196653  1.0000

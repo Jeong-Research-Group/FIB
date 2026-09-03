@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HTa2GeH
+_chemical_formula_sum              "H2 Ta2 Ge1"
+_cell_length_a       3.375897702533565
+_cell_length_b       3.6794603026917665
+_cell_length_c       5.131757736206055
+_cell_angle_alpha    110.03996046596271
+_cell_angle_beta     88.73677955070428
+_cell_angle_gamma    89.67917488920892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5282217264175415  0.9802604317665099  0.3593946099281311  1.0000
+  Ta  Ta1       1.0  0.5207005739212036  0.5713768601417542  0.9988172650337219  1.0000
+  Ta  Ta2       1.0  0.023239919915795326  0.2694031894207001  0.38911372423171997  1.0000
+  Ge  Ge1       1.0  0.02449828013777733  0.9749583601951599  0.8007710576057434  1.0000
+  H   H2        1.0  0.525994062423706  0.5184164047241211  0.36172565817832947  1.0000

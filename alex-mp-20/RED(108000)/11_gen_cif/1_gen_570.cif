@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca3Tl2Cd
+_chemical_formula_sum              "Ca3 Tl2 Cd1"
+_cell_length_a       3.896369796607742
+_cell_length_b       3.8971629716886413
+_cell_length_c       11.634200645051777
+_cell_angle_alpha    90.00567252148171
+_cell_angle_beta     90.0032590662039
+_cell_angle_gamma    90.01112162407871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5761625431519944  0.5751772505514828  0.7058139436608254  1.0000
+  Ca  Ca2       1.0  0.5762454895282316  0.5757284646311779  0.03099289996035351  1.0000
+  Ca  Ca3       1.0  0.5763313528272642  0.5754259684825856  0.3681746970429819  1.0000
+  Tl  Tl1       1.0  0.07649367946666394  0.0754555621776944  0.5387491738409634  1.0000
+  Tl  Tl2       1.0  0.07635995552328784  0.07573285761226596  0.19839894664590638  1.0000
+  Cd  Cd1       1.0  0.07619677204786661  0.07497965238079464  0.8681223960589247  1.0000

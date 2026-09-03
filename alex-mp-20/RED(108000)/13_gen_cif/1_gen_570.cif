@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La3PrMg2
+_chemical_formula_sum              "La3 Pr1 Mg2"
+_cell_length_a       3.900734546211098
+_cell_length_b       3.901358745945165
+_cell_length_c       12.99981925509753
+_cell_angle_alpha    90.01987633216312
+_cell_angle_beta     89.9970599499415
+_cell_angle_gamma    89.96697354332943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7890522654444373  0.41646469643166234  0.19318156548404158  1.0000
+  La  La2       1.0  0.7895602316140499  0.4163130648124133  0.5712108060535831  1.0000
+  La  La3       1.0  0.7895027704410619  0.4164499906925422  0.8821105352333142  1.0000
+  Pr  Pr1       1.0  0.28955680830634717  0.9164685047502485  0.38208885221452377  1.0000
+  Mg  Mg1       1.0  0.28909691720459185  0.9166140260364336  0.03715737612153429  1.0000
+  Mg  Mg2       1.0  0.28961209059993714  0.9162716632824411  0.7271945374750096  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2Si2Os2Rh
+_chemical_formula_sum              "Ba2 Si2 Os2 Rh1"
+_cell_length_a       4.365607400166743
+_cell_length_b       5.8768793615430415
+_cell_length_c       7.111754506571099
+_cell_angle_alpha    77.06029818468315
+_cell_angle_beta     90.0008640568175
+_cell_angle_gamma    68.19683140601502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9910406109157693  0.5199968279452265  0.5187682821399923  1.0000
+  Ba  Ba2       1.0  0.7754051923865368  0.9512258069018316  0.8427000312249737  1.0000
+  Si  Si1       1.0  0.25087999446602954  0.0004421659219628893  0.4026012146597669  1.0000
+  Si  Si2       1.0  0.5156795505694607  0.4708200327260129  0.9586826533716687  1.0000
+  Os  Os1       1.0  0.6905942841659309  0.12101549263555107  0.25844064113346105  1.0000
+  Os  Os2       1.0  0.07589453444495009  0.3503998551569848  0.10294348262703766  1.0000
+  Rh  Rh1       1.0  0.38325384128489737  0.7354642425473253  0.18076058719510682  1.0000

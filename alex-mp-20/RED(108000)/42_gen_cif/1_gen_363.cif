@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiInTe2
+_chemical_formula_sum              "Ti1 In1 Te2"
+_cell_length_a       3.7144830123689925
+_cell_length_b       3.7145426549615883
+_cell_length_c       10.033036353994456
+_cell_angle_alpha    90.03940178354631
+_cell_angle_beta     89.93021747427387
+_cell_angle_gamma    120.00591213708454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2738690580487186  0.6964474283852157  0.22844029589934597  1.0000
+  In  In1       1.0  0.9400816665317557  0.02890458485089207  0.7272658908866487  1.0000
+  Te  Te1       1.0  0.9410172162766445  0.029794251566296108  0.05210270598751788  1.0000
+  Te  Te2       1.0  0.9401292158730395  0.02985932598535252  0.40502410430829355  1.0000

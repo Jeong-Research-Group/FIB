@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2H4Ir
+_chemical_formula_sum              "Li2 H4 Ir1"
+_cell_length_a       3.1665547468843926
+_cell_length_b       4.300838745464554
+_cell_length_c       5.078592188431866
+_cell_angle_alpha    113.53360712362498
+_cell_angle_beta     108.37807049906998
+_cell_angle_gamma    89.82760225961192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.08895278427185438  0.6355447124245396  0.686017045641154  1.0000
+  Li  Li2       1.0  0.3952729623646975  0.9200532619868379  0.3035126257474831  1.0000
+  H   H1        1.0  0.6007995962119888  0.8841231149902702  0.7107697813839781  1.0000
+  H   H2        1.0  0.5780878348726018  0.363061706828573  0.6630953515717943  1.0000
+  H   H3        1.0  0.28989443864335723  0.23010795101619738  0.08798851238092509  1.0000
+  H   H4        1.0  0.8814610977796375  0.6706868878975365  0.2731534967104856  1.0000
+  Ir  Ir1       1.0  0.7307712519411597  0.28491827285399585  0.971445834425426  1.0000

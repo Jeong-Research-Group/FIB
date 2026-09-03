@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2AgAsPd2
+_chemical_formula_sum              "Sr2 Ag1 As1 Pd2"
+_cell_length_a       4.518490730669575
+_cell_length_b       4.519068558802661
+_cell_length_c       8.50639358881801
+_cell_angle_alpha    90.00418053563067
+_cell_angle_beta     89.99479941102462
+_cell_angle_gamma    120.0567669879723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5865182739791744  0.4940223060977662  0.21273797562934438  1.0000
+  Sr  Sr2       1.0  0.586471858779266  0.4938529766787752  0.6997216484480163  1.0000
+  Ag  Ag1       1.0  0.9194722552089474  0.16054882158153255  0.9562865066234005  1.0000
+  As  As1       1.0  0.25369364272546757  0.8274447941106405  0.45617287844932775  1.0000
+  Pd  Pd1       1.0  0.9203037235639312  0.16070864335587143  0.45626826923691033  1.0000
+  Pd  Pd2       1.0  0.2524263646550632  0.8269322260252746  0.9553787436429502  1.0000

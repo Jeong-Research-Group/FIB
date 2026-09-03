@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaMgCuGaCu2
+_chemical_formula_sum              "Ga2 Mg1 Cu3"
+_cell_length_a       3.366340278669618
+_cell_length_b       4.172352295876718
+_cell_length_c       6.4083638191223145
+_cell_angle_alpha    104.80552877827584
+_cell_angle_beta     89.7914904954964
+_cell_angle_gamma    89.93144788920974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.04988249018788338  0.46927616000175476  0.8822330236434938  1.0000
+  Mg  Mg1       1.0  0.05189971253275871  0.8185248374938965  0.5561110377311707  1.0000
+  Cu  Cu1       1.0  0.5512899160385132  0.31793534755706787  0.5554932951927185  1.0000
+  Ga  Ga2       1.0  0.05250135064125061  0.16784246265888217  0.2306342422962189  1.0000
+  Cu  Cu2       1.0  0.5525836944580078  0.6527646780014038  0.20835599303245547  1.0000
+  Cu  Cu3       1.0  0.5517862439155579  0.9844295382499695  0.9031834602355958  1.0000

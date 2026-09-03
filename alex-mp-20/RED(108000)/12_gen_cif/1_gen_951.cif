@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2ZnSnHg2
+_chemical_formula_sum              "La2 Zn1 Sn1 Hg2"
+_cell_length_a       3.9992843185939564
+_cell_length_b       4.839549979623539
+_cell_length_c       8.46641994865402
+_cell_angle_alpha    90.08985224983473
+_cell_angle_beta     90.05117568502277
+_cell_angle_gamma    90.05558250791155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6756845092055666  0.3099933674086222  0.016197892543544527  1.0000
+  La  La2       1.0  0.6760527771069719  0.8111266708887889  0.524261752853442  1.0000
+  Zn  Zn1       1.0  0.17637517550409865  0.8105268654448312  0.8467252221409548  1.0000
+  Sn  Sn1       1.0  0.17583214361443686  0.8106431358774561  0.1728731370419141  1.0000
+  Hg  Hg1       1.0  0.17599519509532136  0.3104909629141868  0.7012096075569998  1.0000
+  Hg  Hg2       1.0  0.1747765300873216  0.31087379219942474  0.35865417105533337  1.0000

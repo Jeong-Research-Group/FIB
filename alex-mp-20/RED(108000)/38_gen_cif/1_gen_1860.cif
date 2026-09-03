@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Ga2Cu2
+_chemical_formula_sum              "La2 Ga2 Cu2"
+_cell_length_a       4.464471618253275
+_cell_length_b       4.464688445691459
+_cell_length_c       7.7651666048729115
+_cell_angle_alpha    89.99245345518577
+_cell_angle_beta     90.02689744407782
+_cell_angle_gamma    119.98014507255243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5121736950498442  0.42050527615364736  0.47593070336929955  1.0000
+  La  La2       1.0  0.5119771327904477  0.42080006061121206  0.9776123388142235  1.0000
+  Ga  Ga1       1.0  0.8461936516671061  0.08818434320219895  0.22670948193418825  1.0000
+  Ga  Ga2       1.0  0.17864908990330447  0.7540116359878224  0.7265994538851493  1.0000
+  Cu  Cu1       1.0  0.17910984196098131  0.7546646163504603  0.22757769488468177  1.0000
+  Cu  Cu2       1.0  0.8451524681749232  0.08724779996876518  0.7275293377751009  1.0000

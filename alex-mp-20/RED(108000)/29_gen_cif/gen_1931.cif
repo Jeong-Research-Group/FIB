@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sb2CuYSb
+_chemical_formula_sum              "Sb3 Cu1 Y1"
+_cell_length_a       4.41048547323441
+_cell_length_b       4.404327182833383
+_cell_length_c       8.084864616394043
+_cell_angle_alpha    89.96669850263311
+_cell_angle_beta     90.07736121677836
+_cell_angle_gamma    119.93102064952087
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.14468654990196228  0.27317991852760315  0.4124702215194702  1.0000
+  Sb  Sb2       1.0  0.8104485869407654  0.6065003275871277  0.9150915145874023  1.0000
+  Cu  Cu1       1.0  0.1439483463764191  0.27250823378562933  0.992766261100769  1.0000
+  Y   Y1        1.0  0.47782331705093384  0.9398140907287598  0.1678459197282791  1.0000
+  Sb  Sb3       1.0  0.47786620259284984  0.9401039481163026  0.6195554733276367  1.0000

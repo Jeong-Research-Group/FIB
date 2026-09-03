@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2In2GaSn
+_chemical_formula_sum              "Rb2 In2 Ga1 Sn1"
+_cell_length_a       4.857718051422558
+_cell_length_b       5.508321005300125
+_cell_length_c       9.18265037937271
+_cell_angle_alpha    72.55066870721897
+_cell_angle_beta     105.33003536647348
+_cell_angle_gamma    90.00022632020794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.21357018039931294  0.22103075900687452  0.7772848410195707  1.0000
+  Rb  Rb2       1.0  0.48167048247407074  0.4515938578940341  0.31610856608700305  1.0000
+  In  In1       1.0  0.808206842375073  0.625844252161017  0.9680707825622518  1.0000
+  In  In2       1.0  0.8884113063076949  0.045179445245294006  0.12950201044370807  1.0000
+  Ga  Ga1       1.0  0.05464239409287991  0.8791534663990542  0.46166799310313417  1.0000
+  Sn  Sn1       1.0  0.6332764729097264  0.8002270161570001  0.6188695243213508  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ca2Sb2
+_chemical_formula_sum              "Li2 Ca2 Sb2"
+_cell_length_a       4.735893546665015
+_cell_length_b       4.735748738601092
+_cell_length_c       7.736261114521671
+_cell_angle_alpha    90.00723692637646
+_cell_angle_beta     89.99915791728125
+_cell_angle_gamma    120.01748053108996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.684774885187263  0.7703383609420602  0.11156452129268221  1.0000
+  Li  Li2       1.0  0.3519060984381873  0.10285935347454532  0.6113389166028642  1.0000
+  Ca  Ca1       1.0  0.018529436122425115  0.4367069003430264  0.361960432780749  1.0000
+  Ca  Ca2       1.0  0.01845199723646299  0.43668704414632603  0.8618333254596325  1.0000
+  Sb  Sb1       1.0  0.6851797826642456  0.7698389510175752  0.611705800027851  1.0000
+  Sb  Sb2       1.0  0.3515862134869483  0.10344970787321672  0.11175163511582036  1.0000

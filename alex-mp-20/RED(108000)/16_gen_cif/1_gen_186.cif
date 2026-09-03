@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2In2Se2
+_chemical_formula_sum              "Cd2 In2 Se2"
+_cell_length_a       4.130398068506405
+_cell_length_b       4.130329692825141
+_cell_length_c       9.203601535594208
+_cell_angle_alpha    90.00127541404738
+_cell_angle_beta     90.00207750252281
+_cell_angle_gamma    89.99821821456236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8395865757065821  0.41344065013310854  0.3536803280255483  1.0000
+  Cd  Cd2       1.0  0.33902341247662243  0.9133298260485587  0.042499075171848893  1.0000
+  In  In1       1.0  0.3393331237396502  0.9132724329076372  0.6690183553323277  1.0000
+  In  In2       1.0  0.8393149093861334  0.4132740893814756  0.7272779477766746  1.0000
+  Se  Se1       1.0  0.8390291884715235  0.4132886783374667  0.033868769837623804  1.0000
+  Se  Se2       1.0  0.33948993997491894  0.913383165806627  0.3622819730953065  1.0000

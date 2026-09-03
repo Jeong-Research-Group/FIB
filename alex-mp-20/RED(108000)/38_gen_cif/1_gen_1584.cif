@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiAlFe2H
+_chemical_formula_sum              "Ti1 Al1 Fe2 H1"
+_cell_length_a       3.8245316961271074
+_cell_length_b       3.8226218209570346
+_cell_length_c       3.6608014358061616
+_cell_angle_alpha    90.01224320787647
+_cell_angle_beta     89.98956154967304
+_cell_angle_gamma    89.99888802594849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.44278590393669864  0.8430408721047229  0.8213345121336474  1.0000
+  Al  Al1       1.0  0.942879484584762  0.3430435129957458  0.8214735601539509  1.0000
+  Fe  Fe1       1.0  0.9423017762239868  0.8430209970216386  0.3214870538772259  1.0000
+  Fe  Fe2       1.0  0.44286109477015423  0.3431015948248567  0.32143981831812085  1.0000
+  H   H1        1.0  0.4428089112148433  0.8433751850742532  0.3216153779082317  1.0000

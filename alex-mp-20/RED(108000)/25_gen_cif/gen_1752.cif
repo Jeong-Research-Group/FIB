@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       DySe2ErDyO2
+_chemical_formula_sum              "Dy2 Se2 Er1 O2"
+_cell_length_a       3.989041542018266
+_cell_length_b       4.2079167954255725
+_cell_length_c       9.55713939666748
+_cell_angle_alpha    89.9904197494373
+_cell_angle_beta     90.05908363762605
+_cell_angle_gamma    90.03796469553761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7033861875534058  0.7551446557044983  0.643261730670929  1.0000
+  Se  Se1       1.0  0.20313525199890137  0.2546880543231964  0.5861963629722595  1.0000
+  Se  Se2       1.0  0.2040221244096756  0.2545410394668579  0.12136343866586685  1.0000
+  Er  Er1       1.0  0.703302800655365  0.25470370054244995  0.3535909652709961  1.0000
+  Dy  Dy2       1.0  0.7042954564094543  0.75505530834198  0.06459546089172363  1.0000
+  O   O1        1.0  0.7037903070449829  0.75501948595047  0.8536759614944458  1.0000
+  O   O2        1.0  0.7032238841056824  0.7537919878959656  0.3572861850261688  1.0000

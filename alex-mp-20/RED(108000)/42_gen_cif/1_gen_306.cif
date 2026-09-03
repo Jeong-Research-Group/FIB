@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti3SnC
+_chemical_formula_sum              "Ti3 Sn1 C1"
+_cell_length_a       4.242040280071207
+_cell_length_b       4.242611820295166
+_cell_length_c       4.242664912753944
+_cell_angle_alpha    89.98789913777759
+_cell_angle_beta     89.98926959697965
+_cell_angle_gamma    90.00574460156571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24568863562013324  0.8152491710229296  0.9096058426341385  1.0000
+  Ti  Ti2       1.0  0.7458298947175495  0.815428989983791  0.40966002821852004  1.0000
+  Ti  Ti3       1.0  0.7456856723885725  0.31589706790478156  0.9095911482700357  1.0000
+  Sn  Sn1       1.0  0.24604087790033735  0.3152305534258978  0.4095903177981458  1.0000
+  C   C1        1.0  0.745725983088354  0.8160428910929859  0.909553296121048  1.0000

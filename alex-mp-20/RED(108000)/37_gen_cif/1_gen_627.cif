@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2Cr2H2
+_chemical_formula_sum              "Mn2 Cr2 H2"
+_cell_length_a       2.5462218277180555
+_cell_length_b       4.588741886621396
+_cell_length_c       4.5768896676726385
+_cell_angle_alpha    113.39710566722212
+_cell_angle_beta     83.79189607548145
+_cell_angle_gamma    85.68732494543902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.32803060967324893  0.5115847245842268  0.24185438979407234  1.0000
+  Mn  Mn2       1.0  0.19875432889427722  0.0727508683040664  0.7852601264473095  1.0000
+  Cr  Cr1       1.0  0.8399550265191904  0.010788312969284331  0.23931190118700568  1.0000
+  Cr  Cr2       1.0  0.6867840262426891  0.5735190908739296  0.7879149812817378  1.0000
+  H   H1        1.0  0.2632127585183506  0.292089965908328  0.5140280340009533  1.0000
+  H   H2        1.0  0.7634032909031114  0.7919197264188416  0.5138355592322228  1.0000

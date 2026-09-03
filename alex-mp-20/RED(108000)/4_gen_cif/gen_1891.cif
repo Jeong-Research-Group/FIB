@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuBi2PbCu
+_chemical_formula_sum              "Cu2 Bi2 Pb1"
+_cell_length_a       3.570832601863832
+_cell_length_b       3.6302355089073073
+_cell_length_c       9.82895565032959
+_cell_angle_alpha    100.70367469847812
+_cell_angle_beta     100.47512813678645
+_cell_angle_gamma    90.04418709004167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.34270229935646057  0.19401279091835022  0.8789300918579102  1.0000
+  Bi  Bi1       1.0  0.4583883583545684  0.8084505200386047  0.1114269569516182  1.0000
+  Bi  Bi2       1.0  0.7277984023094177  0.0746799185872078  0.6480128765106201  1.0000
+  Pb  Pb1       1.0  0.09424827247858047  0.44147300720214844  0.38247573375701904  1.0000
+  Cu  Cu2       1.0  0.8434107303619384  0.6933833360671997  0.8808691501617432  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrCl2FeCd
+_chemical_formula_sum              "Br1 Cl2 Fe1 Cd1"
+_cell_length_a       3.9006022680946106
+_cell_length_b       6.65062416979705
+_cell_length_c       7.036705017089844
+_cell_angle_alpha    119.49621007617385
+_cell_angle_beta     106.21849277097498
+_cell_angle_gamma    90.06505246893914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.46937239170074463  0.7164907455444336  0.7011347413063049  1.0000
+  Cl  Cl1       1.0  0.8570564985275269  0.13592429459095  0.4812846779823303  1.0000
+  Cl  Cl2       1.0  0.6430778503417969  0.38774931430816656  0.054518856108188664  1.0000
+  Fe  Fe1       1.0  0.46137839555740356  0.34152621030807495  0.6866790652275085  1.0000
+  Cd  Cd1       1.0  0.1237988993525505  0.06379207968711853  0.012419636361300945  1.0000

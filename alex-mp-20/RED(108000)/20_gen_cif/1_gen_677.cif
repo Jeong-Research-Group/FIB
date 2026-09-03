@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2GaRh3
+_chemical_formula_sum              "Y2 Ga1 Rh3"
+_cell_length_a       5.138830456590442
+_cell_length_b       5.139154566598338
+_cell_length_c       5.139310790675001
+_cell_angle_alpha    66.59945045968706
+_cell_angle_beta     66.60465521256192
+_cell_angle_gamma    66.60719161210758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.6679668545041286  0.30761589640211523  0.08846772364324912  1.0000
+  Y   Y2        1.0  0.40672175962953855  0.046370597075135266  0.8272167891412366  1.0000
+  Ga  Ga1       1.0  0.03721879542178418  0.6768770857560045  0.4576589816292306  1.0000
+  Rh  Rh1       1.0  0.03714656774856932  0.6767327789723239  0.957632665993947  1.0000
+  Rh  Rh2       1.0  0.03708588026458906  0.17681421041069423  0.4577248140776578  1.0000
+  Rh  Rh3       1.0  0.5373275360262709  0.6767701173772693  0.4576504029446247  1.0000

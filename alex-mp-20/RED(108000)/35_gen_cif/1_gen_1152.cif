@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tm2GaNiIr
+_chemical_formula_sum              "Tm2 Ga1 Ni1 Ir1"
+_cell_length_a       4.182208825185736
+_cell_length_b       5.434418053580996
+_cell_length_c       5.384345986366232
+_cell_angle_alpha    120.32856008048569
+_cell_angle_beta     112.84695204724916
+_cell_angle_gamma    90.006230251673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.9841938615516855  0.5622174983186906  0.7779602937598402  1.0000
+  Tm  Tm2       1.0  0.5845662222372641  0.16272185259903627  0.9786456839113743  1.0000
+  Ga  Ga1       1.0  0.7843632541121297  0.8739394463084225  0.37815777690085745  1.0000
+  Ni  Ni1       1.0  0.2845601889885631  0.12291613670462732  0.3785380704683909  1.0000
+  Ir  Ir1       1.0  0.2842701209864492  0.5875517140067614  0.37835671768769885  1.0000

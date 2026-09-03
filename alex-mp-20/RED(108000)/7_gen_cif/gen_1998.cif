@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V2IrCo2Ir
+_chemical_formula_sum              "V2 Ir2 Co2"
+_cell_length_a       4.5993179246516664
+_cell_length_b       4.530460361602167
+_cell_length_c       4.548529148101807
+_cell_angle_alpha    119.62562824074489
+_cell_angle_beta     99.81841399831274
+_cell_angle_gamma    99.81772210408845
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.31736963987350464  0.7484878301620483  0.4049211144447328  1.0000
+  V   V2        1.0  0.818829357624054  0.5535618662834167  0.6067739129066467  1.0000
+  Ir  Ir1       1.0  0.31781238317489624  0.405694842338562  0.7519838213920593  1.0000
+  Co  Co1       1.0  0.31758612394332886  0.07716912776231766  0.08029618114233018  1.0000
+  Co  Co2       1.0  0.8169920444488525  0.22553981840610507  0.9332376718521118  1.0000
+  Ir  Ir2       1.0  0.8173670768737793  0.8970369696617128  0.26060837507247936  1.0000

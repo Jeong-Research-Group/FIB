@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiZn2CuLiCu2
+_chemical_formula_sum              "Li2 Zn2 Cu3"
+_cell_length_a       3.8615683667408516
+_cell_length_b       4.5463139052885975
+_cell_length_c       5.774543285369873
+_cell_angle_alpha    82.9021586467494
+_cell_angle_beta     89.87646486983766
+_cell_angle_gamma    64.80793467457828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.10572541505098342  0.08103703707456589  0.7074019312858582  1.0000
+  Zn  Zn1       1.0  0.8188390135765076  0.6526570320129395  0.8599449396133423  1.0000
+  Zn  Zn2       1.0  0.2436283677816391  0.8048925399780273  0.1717884540557861  1.0000
+  Cu  Cu1       1.0  0.6773812174797057  0.9397567510604858  0.4439638555049895  1.0000
+  Li  Li2       1.0  0.5287275314331055  0.23408250510692596  0.021206701174378388  1.0000
+  Cu  Cu2       1.0  0.3929414749145508  0.5062682628631592  0.5775020122528076  1.0000
+  Cu  Cu3       1.0  0.95491361618042  0.38247981667518616  0.2957983911037445  1.0000

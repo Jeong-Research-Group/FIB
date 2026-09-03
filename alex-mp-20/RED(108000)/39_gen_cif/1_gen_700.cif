@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4Rh2NCl
+_chemical_formula_sum              "Tb4 Rh2 N1 Cl1"
+_cell_length_a       3.488164542163354
+_cell_length_b       7.053518860155273
+_cell_length_c       7.0526705636385385
+_cell_angle_alpha    103.7525979988299
+_cell_angle_beta     90.00184221472864
+_cell_angle_gamma    90.00008721975811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5781626379039096  0.518785508976506  0.35766995874210966  1.0000
+  Tb  Tb2       1.0  0.07811748728533002  0.5634742588294668  0.9260952098569477  1.0000
+  Tb  Tb3       1.0  0.5780674305061984  0.994894396177229  0.8825297242301894  1.0000
+  Tb  Tb4       1.0  0.0782340715820427  0.9498363579682839  0.3133843932650387  1.0000
+  Rh  Rh1       1.0  0.07821262282678246  0.7566574375975362  0.6203413721202915  1.0000
+  Rh  Rh2       1.0  0.07823311992153387  0.2568721019973451  0.12030088847039505  1.0000
+  N   N1        1.0  0.5779845082707782  0.7571368744616332  0.11995327440993823  1.0000
+  Cl  Cl1       1.0  0.5781438350601703  0.2573877437222325  0.620577003682252  1.0000

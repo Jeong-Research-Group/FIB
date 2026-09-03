@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca3HgIr
+_chemical_formula_sum              "Ca3 Hg1 Ir1"
+_cell_length_a       5.4969661805318495
+_cell_length_b       5.4967135013524935
+_cell_length_c       5.496202686641544
+_cell_angle_alpha    90.01851308967242
+_cell_angle_beta     90.01310042090965
+_cell_angle_gamma    90.02932557714084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7525948337222801  0.3450572865258936  0.17516488005329453  1.0000
+  Ca  Ca2       1.0  0.7528488340170608  0.8456022707726304  0.6751434908752895  1.0000
+  Ca  Ca3       1.0  0.2522147645556883  0.3455065052145948  0.6749712703158881  1.0000
+  Hg  Hg1       1.0  0.25259716196202475  0.8454158607875955  0.17522951331961792  1.0000
+  Ir  Ir1       1.0  0.752454380765265  0.34549612818777925  0.6752981159053758  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2CdIn2
+_chemical_formula_sum              "Pr2 Cd1 In2"
+_cell_length_a       4.70244548226758
+_cell_length_b       6.22242596250701
+_cell_length_c       6.221550594143875
+_cell_angle_alpha    63.893904820645965
+_cell_angle_beta     67.79850807646118
+_cell_angle_gamma    67.7997590841135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7005510406361045  0.8614847242053371  0.3360366360108154  1.0000
+  Pr  Pr2       1.0  0.28714110358889094  0.2746124701999211  0.7499787994822364  1.0000
+  Cd  Cd1       1.0  0.4937111938718598  0.5682679984308256  0.043306424937991986  1.0000
+  In  In1       1.0  0.9941080783532273  0.8451008225184042  0.7655017902780905  1.0000
+  In  In2       1.0  0.9937659654948593  0.29086983030402963  0.3205291293875908  1.0000

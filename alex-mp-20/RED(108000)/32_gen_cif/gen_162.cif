@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Si2CaNiRh
+_chemical_formula_sum              "Si2 Ca1 Ni1 Rh1"
+_cell_length_a       4.020061059584655
+_cell_length_b       4.020913968255327
+_cell_length_c       5.78080940246582
+_cell_angle_alpha    110.36459433348308
+_cell_angle_beta     110.39636684376488
+_cell_angle_gamma    89.99283082796643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.7562016844749451  0.9052854776382447  0.5052399635314941  1.0000
+  Si  Si2       1.0  0.5063056945800781  0.6553841829299928  0.006179898045957088  1.0000
+  Ca  Ca1       1.0  0.13155928254127502  0.28020077943801885  0.25577807426452637  1.0000
+  Ni  Ni1       1.0  0.38144657015800476  0.03017048351466656  0.755625009536743  1.0000
+  Rh  Rh1       1.0  0.8816282153129578  0.5307329893112184  0.7559516429901122  1.0000

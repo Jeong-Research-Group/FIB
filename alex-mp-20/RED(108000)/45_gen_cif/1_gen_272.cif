@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb5FeP2
+_chemical_formula_sum              "Tb5 Fe1 P2"
+_cell_length_a       4.54991536818897
+_cell_length_b       4.554698122654459
+_cell_length_c       9.31059412611066
+_cell_angle_alpha    90.02517554429345
+_cell_angle_beta     90.03877282965493
+_cell_angle_gamma    90.00247184293282
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.538142776784751  0.9613523239265419  0.10036072591671122  1.0000
+  Tb  Tb2       1.0  0.038318962645173864  0.9611150682220674  0.4142503857123747  1.0000
+  Tb  Tb3       1.0  0.03797192084714754  0.46146814289786225  0.7212487924006635  1.0000
+  Tb  Tb4       1.0  0.03805285014399515  0.46136143019799253  0.09992457518447871  1.0000
+  Tb  Tb5       1.0  0.5377716141311281  0.9613312375202298  0.7210427405968822  1.0000
+  Fe  Fe1       1.0  0.5373530301218072  0.46103113413781666  0.5333365352170583  1.0000
+  P   P1        1.0  0.03810796376748279  0.9613398955189459  0.9153635363514959  1.0000
+  P   P2        1.0  0.5382072920951796  0.4619133751718132  0.29198225088794694  1.0000

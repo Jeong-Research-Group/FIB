@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd3CuCdCu
+_chemical_formula_sum              "Cd4 Cu2"
+_cell_length_a       5.3201641798661665
+_cell_length_b       5.347240760116249
+_cell_length_c       5.227629661560059
+_cell_angle_alpha    61.50366672581882
+_cell_angle_beta     61.478621660130855
+_cell_angle_gamma    64.52910728265648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.43090224266052246  0.5411361455917358  0.8034182190895081  1.0000
+  Cd  Cd2       1.0  0.5642305612564087  0.1764899641275406  0.41621315479278564  1.0000
+  Cd  Cd3       1.0  0.6974441409111024  0.8104569911956787  0.028502469882368955  1.0000
+  Cu  Cu1       1.0  0.06464125216007234  0.17543332278728482  0.9164811372756958  1.0000
+  Cd  Cd4       1.0  0.0637023225426674  0.6756594181060791  0.41647353768348694  1.0000
+  Cu  Cu2       1.0  0.06490798294544221  0.17511650919914243  0.41626089811325073  1.0000

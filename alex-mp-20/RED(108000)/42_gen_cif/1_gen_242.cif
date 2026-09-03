@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiMn2Fe
+_chemical_formula_sum              "Ti1 Mn2 Fe1"
+_cell_length_a       2.91424584634924
+_cell_length_b       4.0647096587790985
+_cell_length_c       4.061558752115871
+_cell_angle_alpha    90.00003218870486
+_cell_angle_beta     89.99999602111065
+_cell_angle_gamma    90.00001501743209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8050613084931905  0.1719922954257264  0.7972240789404204  1.0000
+  Mn  Mn1       1.0  0.3050871822866411  0.6719920006977537  0.7972241240303701  1.0000
+  Mn  Mn2       1.0  0.8050904251701589  0.6719893288638465  0.2972261083999436  1.0000
+  Fe  Fe1       1.0  0.30509987837425  0.17199069653031487  0.2972285721767993  1.0000

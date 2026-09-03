@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaSmGaRh3
+_chemical_formula_sum              "Ga2 Sm1 Rh3"
+_cell_length_a       3.819725642509433
+_cell_length_b       5.610399508860211
+_cell_length_c       5.6088666915893555
+_cell_angle_alpha    120.06670688843153
+_cell_angle_beta     90.08478563389919
+_cell_angle_gamma    90.02826583158817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.13876938819885254  0.1432759165763855  0.02482339181005955  1.0000
+  Sm  Sm1       1.0  0.1391797959804535  0.8100200295448303  0.3589449226856233  1.0000
+  Ga  Ga2       1.0  0.13858939707279205  0.4760664105415345  0.69183748960495  1.0000
+  Rh  Rh1       1.0  0.6386052370071411  0.3098686039447785  0.8581698536872865  1.0000
+  Rh  Rh2       1.0  0.6388196349143982  0.3098452389240265  0.35809665918350225  1.0000
+  Rh  Rh3       1.0  0.6387661695480347  0.8098016977310181  0.8582599759101869  1.0000

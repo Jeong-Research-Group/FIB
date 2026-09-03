@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sn2GeS3
+_chemical_formula_sum              "Sn2 Ge1 S3"
+_cell_length_a       5.18070732272044
+_cell_length_b       5.883856138789925
+_cell_length_c       6.159513684618687
+_cell_angle_alpha    73.29112133676611
+_cell_angle_beta     68.88346033735984
+_cell_angle_gamma    76.07826610036804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.8799723343107321  0.9447589207301496  0.2533358700358843  1.0000
+  Sn  Sn2       1.0  0.16843322688750242  0.36446056563973966  0.8150202980815539  1.0000
+  Ge  Ge1       1.0  0.612966605268464  0.6550365610150406  0.8925658150405683  1.0000
+  S   S1        1.0  0.1903013648452239  0.5276587546492847  0.1761281101622002  1.0000
+  S   S2        1.0  0.6334067799880314  0.03286996497166353  0.9256131979591085  1.0000
+  S   S3        1.0  0.4468527331912493  0.7556986555262719  0.5705842427397066  1.0000

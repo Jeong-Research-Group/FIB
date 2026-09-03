@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgSi2PrAgPr
+_chemical_formula_sum              "Ag2 Si2 Pr2"
+_cell_length_a       4.348831742124577
+_cell_length_b       4.34874500597176
+_cell_length_c       7.234925746917725
+_cell_angle_alpha    89.98563178610279
+_cell_angle_beta     89.9884389948714
+_cell_angle_gamma    89.99858865535101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.3939831256866455  0.19460922479629517  0.6295061707496643  1.0000
+  Si  Si1       1.0  0.3938988447189331  0.6939743161201477  0.8660627603530884  1.0000
+  Si  Si2       1.0  0.8937863111495972  0.19460901618003845  0.3933968245983124  1.0000
+  Pr  Pr1       1.0  0.3938538432121277  0.6940464973449707  0.30897286534309387  1.0000
+  Ag  Ag2       1.0  0.8937077522277832  0.6938321590423584  0.6295449137687683  1.0000
+  Pr  Pr2       1.0  0.8938877582550049  0.19457866251468658  0.9506744146347046  1.0000

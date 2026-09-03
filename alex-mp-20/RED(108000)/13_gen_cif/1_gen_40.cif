@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2Ga2Au2
+_chemical_formula_sum              "Cd2 Ga2 Au2"
+_cell_length_a       5.009752185836687
+_cell_length_b       5.006528561710129
+_cell_length_c       5.721018350570966
+_cell_angle_alpha    90.05612601716619
+_cell_angle_beta     89.96957789738907
+_cell_angle_gamma    120.18089531530308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5823510833053934  0.518297472949685  0.8686399211012649  1.0000
+  Cd  Cd2       1.0  0.9150605178877143  0.1857454264725711  0.36353091230697887  1.0000
+  Ga  Ga1       1.0  0.24804702000294682  0.8515147819701533  0.6151510088648067  1.0000
+  Ga  Ga2       1.0  0.24853506745992152  0.8512294729639756  0.11624821679558854  1.0000
+  Au  Au1       1.0  0.5818902592999605  0.5178360402182234  0.36849399163630003  1.0000
+  Au  Au2       1.0  0.9152995534757257  0.18521931235894606  0.8639249625629538  1.0000

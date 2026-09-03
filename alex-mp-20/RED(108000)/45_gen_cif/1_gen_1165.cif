@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiCd2Ag
+_chemical_formula_sum              "Li1 Cd2 Ag1"
+_cell_length_a       3.9725059015977062
+_cell_length_b       4.401926894393275
+_cell_length_c       4.407308900141978
+_cell_angle_alpha    90.0260906580907
+_cell_angle_beta     90.02483798383874
+_cell_angle_gamma    90.00627287787904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.30795536639452875  0.9338056921145307  0.6036297880025924  1.0000
+  Cd  Cd1       1.0  0.8078701072807314  0.43359542359734055  0.6036292468687057  1.0000
+  Cd  Cd2       1.0  0.807841913309749  0.9337914041497735  0.1034647562173979  1.0000
+  Ag  Ag1       1.0  0.30791459809143457  0.4337788541732029  0.10366445516921578  1.0000

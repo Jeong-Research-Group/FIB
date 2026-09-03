@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoHCoHPdCo
+_chemical_formula_sum              "Co3 H2 Pd1"
+_cell_length_a       3.802491700533333
+_cell_length_b       3.7227882574054467
+_cell_length_c       3.7247865200042725
+_cell_angle_alpha    90.02657194012303
+_cell_angle_beta     89.99215461748874
+_cell_angle_gamma    89.98067306939272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.1758104562759399  0.1484547257423401  0.0623348243534565  1.0000
+  H   H1        1.0  0.675384759902954  0.14860311150550842  0.061605773866176605  1.0000
+  Co  Co2       1.0  0.6769388914108275  0.14781449735164642  0.5621398091316223  1.0000
+  H   H2        1.0  0.6778385043144225  0.647222638130188  0.562443196773529  1.0000
+  Pd  Pd1       1.0  0.1772370785474777  0.648452877998352  0.5620337724685669  1.0000
+  Co  Co3       1.0  0.6763859391212462  0.6476990580558778  0.06247863173484802  1.0000

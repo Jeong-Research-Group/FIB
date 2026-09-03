@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuBe2CoBe2
+_chemical_formula_sum              "Cu1 Be4 Co1"
+_cell_length_a       4.226006640457281
+_cell_length_b       4.227069779316006
+_cell_length_c       4.225194454193115
+_cell_angle_alpha    60.02544551947418
+_cell_angle_beta     59.97988819202274
+_cell_angle_gamma    60.06461142030182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7288259267807009  0.9868587255477904  0.4685000479221344  1.0000
+  Be  Be1       1.0  0.601233184337616  0.3628703653812408  0.8444554209709167  1.0000
+  Be  Be2       1.0  0.1041892468929291  0.3627002537250518  0.8441389799118042  1.0000
+  Co  Co1       1.0  0.4789752066135406  0.7366775274276733  0.21810203790664673  1.0000
+  Be  Be3       1.0  0.10494451969861987  0.36307123303413386  0.34046053886413574  1.0000
+  Be  Be4       1.0  0.10456184297800067  0.8589519262313842  0.8444904088973999  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiBaLi2Cd2
+_chemical_formula_sum              "Li3 Ba1 Cd2"
+_cell_length_a       5.953817895890768
+_cell_length_b       5.917229276317051
+_cell_length_c       5.964970111846924
+_cell_angle_alpha    59.60969978227194
+_cell_angle_beta     60.04069894558071
+_cell_angle_gamma    59.6762450379747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.15778002142906186  0.5128151178359985  0.022172018885612484  1.0000
+  Ba  Ba1       1.0  0.29173576831817627  0.13432040810585022  0.6449168920516968  1.0000
+  Li  Li2       1.0  0.6717287898063661  0.515144646167755  0.020780369639396667  1.0000
+  Li  Li3       1.0  0.6687828898429872  0.511459231376648  0.5101187825202941  1.0000
+  Cd  Cd1       1.0  0.042123466730117784  0.885445773601532  0.39397391676902765  1.0000
+  Cd  Cd2       1.0  0.6662275791168213  0.010405011475086212  0.021346639841794964  1.0000

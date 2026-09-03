@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaLi2AlPt
+_chemical_formula_sum              "Ba1 Li2 Al1 Pt1"
+_cell_length_a       4.8118026082361895
+_cell_length_b       5.077481920395299
+_cell_length_c       5.077368538387054
+_cell_angle_alpha    89.99747253335151
+_cell_angle_beta     90.03921103060281
+_cell_angle_gamma    89.99872327377416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.14105686855691563  0.10081953109212552  0.7508652265173629  1.0000
+  Li  Li1       1.0  0.6406850588207262  0.10017796567035349  0.2502695963662064  1.0000
+  Li  Li2       1.0  0.6405154678293682  0.601226731615814  0.7505732760195445  1.0000
+  Al  Al1       1.0  0.1416413940859145  0.6007617365072547  0.2509703010424798  1.0000
+  Pt  Pt1       1.0  0.6416084422024512  0.6006216810238952  0.25104194522136725  1.0000

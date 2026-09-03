@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Tl2Cd2
+_chemical_formula_sum              "Lu2 Tl2 Cd2"
+_cell_length_a       3.434850836037663
+_cell_length_b       5.017838728631788
+_cell_length_c       8.781025968220597
+_cell_angle_alpha    89.96002329759021
+_cell_angle_beta     90.00050198171768
+_cell_angle_gamma    89.99202563382431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.17799545369024092  0.779804625319882  0.19978472673135117  1.0000
+  Lu  Lu2       1.0  0.1772319102718109  0.28056392700249516  0.7000904761278475  1.0000
+  Tl  Tl1       1.0  0.6774796881352273  0.2799476787534477  0.027412226373453134  1.0000
+  Tl  Tl2       1.0  0.6776826235048933  0.2798041174713147  0.3727740927795065  1.0000
+  Cd  Cd1       1.0  0.6768780361844279  0.7807138748603072  0.8614799117473079  1.0000
+  Cd  Cd2       1.0  0.6776909796891089  0.7799823693891152  0.5387690168838675  1.0000

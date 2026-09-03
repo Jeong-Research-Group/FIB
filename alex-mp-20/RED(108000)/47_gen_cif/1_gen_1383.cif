@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2In2AgHg
+_chemical_formula_sum              "Ca2 In2 Ag1 Hg1"
+_cell_length_a       4.979151887191483
+_cell_length_b       4.977214556711985
+_cell_length_c       7.225822118976308
+_cell_angle_alpha    90.00054508379245
+_cell_angle_beta     89.98594431749387
+_cell_angle_gamma    119.98450776512215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9805141674275333  0.9058290029045231  0.0752218736968404  1.0000
+  Ca  Ca2       1.0  0.980385986844311  0.9059480737280537  0.5672275512123408  1.0000
+  In  In1       1.0  0.6469991166634341  0.23937707233690644  0.8203964043567525  1.0000
+  In  In2       1.0  0.313811226071652  0.5725765588425378  0.3214220889407059  1.0000
+  Ag  Ag1       1.0  0.6473597625686847  0.23922319428297115  0.3207660995258941  1.0000
+  Hg  Hg1       1.0  0.3133695938472182  0.5725215238981716  0.8221974520384595  1.0000

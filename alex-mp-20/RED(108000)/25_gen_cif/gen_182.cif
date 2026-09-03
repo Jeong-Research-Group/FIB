@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdMnPdHPd3
+_chemical_formula_sum              "Pd5 Mn1 H1"
+_cell_length_a       3.934332312415382
+_cell_length_b       4.884223319631381
+_cell_length_c       5.639845371246338
+_cell_angle_alpha    107.72219708459725
+_cell_angle_beta     90.0434971510928
+_cell_angle_gamma    113.87510698929613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.5530683994293213  0.4063292145729065  0.09924574196338654  1.0000
+  Mn  Mn1       1.0  0.2175401747226716  0.7346428632736207  0.4258351922035217  1.0000
+  Pd  Pd2       1.0  0.5486982464790344  0.3976222276687622  0.5871281027793884  1.0000
+  H   H1        1.0  0.7176001667976382  0.7349225282669068  0.9252300858497619  1.0000
+  Pd  Pd3       1.0  0.8862526416778566  0.07176657766103745  0.26229923963546753  1.0000
+  Pd  Pd4       1.0  0.8816874623298646  0.06303028017282486  0.7500131130218506  1.0000
+  Pd  Pd5       1.0  0.21716687083244327  0.7347238659858704  0.9250267148017882  1.0000

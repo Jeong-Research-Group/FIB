@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Ni2Sn2
+_chemical_formula_sum              "Tb2 Ni2 Sn2"
+_cell_length_a       4.439012290928489
+_cell_length_b       4.438781869831675
+_cell_length_c       6.641990899087292
+_cell_angle_alpha    90.00429730636512
+_cell_angle_beta     90.0206976139053
+_cell_angle_gamma    89.99885954436316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.757029912135714  0.5667525774446711  0.19075743588084854  1.0000
+  Tb  Tb2       1.0  0.25662976050015407  0.06673319583491152  0.6106190956332143  1.0000
+  Ni  Ni1       1.0  0.2566620341149139  0.5666103232655368  0.9006364500443365  1.0000
+  Ni  Ni2       1.0  0.7568256469374848  0.06698407338606065  0.9006754368161753  1.0000
+  Sn  Sn1       1.0  0.7566283827182003  0.5668475587851936  0.6816531995528844  1.0000
+  Sn  Sn2       1.0  0.2570013496228154  0.06665898826227677  0.1197560143308098  1.0000

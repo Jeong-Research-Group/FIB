@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgIn2MgTl
+_chemical_formula_sum              "Mg2 In2 Tl1"
+_cell_length_a       4.571882572431505
+_cell_length_b       5.578627403308625
+_cell_length_c       5.864826679229736
+_cell_angle_alpha    79.08583056070803
+_cell_angle_beta     67.00831265717481
+_cell_angle_gamma    65.78476701408803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.01924173533916475  0.911865234375  0.07648468017578125  1.0000
+  In  In1       1.0  0.8144683837890625  0.7354883551597595  0.6617034673690796  1.0000
+  In  In2       1.0  0.6122593879699707  0.525533139705658  0.27717527747154236  1.0000
+  Mg  Mg2       1.0  0.20957408845424655  0.13236966729164124  0.47398680448532104  1.0000
+  Tl  Tl1       1.0  0.4140712916851044  0.31335893273353577  0.8844388127326965  1.0000

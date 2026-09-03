@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2AsIr
+_chemical_formula_sum              "Li2 As1 Ir1"
+_cell_length_a       4.227635372530222
+_cell_length_b       4.227700850287457
+_cell_length_c       4.229175477827051
+_cell_angle_alpha    60.02128312862377
+_cell_angle_beta     119.9714061088222
+_cell_angle_gamma    119.99376923315731
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5346604275333308  0.4525022329328185  0.8595673545375647  1.0000
+  Li  Li2       1.0  0.7851055291975522  0.20257032710605719  0.6096860099266539  1.0000
+  As  As1       1.0  0.03485054921601827  0.9525995165933882  0.35977947752523953  1.0000
+  Ir  Ir1       1.0  0.2851858674049352  0.7022224695739633  0.1095351563109813  1.0000

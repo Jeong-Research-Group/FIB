@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2LaNiCdNi
+_chemical_formula_sum              "Li2 La1 Ni2 Cd1"
+_cell_length_a       5.224074476265072
+_cell_length_b       5.245138017916669
+_cell_length_c       5.240654945373535
+_cell_angle_alpha    60.31920427144426
+_cell_angle_beta     59.97538037168566
+_cell_angle_gamma    60.00501552376173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.10883984714746477  0.9046155214309692  0.9851174354553223  1.0000
+  Li  Li2       1.0  0.5967273116111756  0.9035574197769165  0.9845314621925354  1.0000
+  La  La1       1.0  0.96720290184021  0.2907553017139435  0.370316743850708  1.0000
+  Ni  Ni1       1.0  0.5995270013809204  0.9062519073486328  0.48929181694984436  1.0000
+  Cd  Cd1       1.0  0.22405335307121277  0.5342116355895996  0.6127036213874817  1.0000
+  Ni  Ni2       1.0  0.6002127528190613  0.40962761640548706  0.9855797290802002  1.0000

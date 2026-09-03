@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pr2AlIn
+_chemical_formula_sum              "Pr2 Al1 In1"
+_cell_length_a       3.8149771353886965
+_cell_length_b       5.449602036464337
+_cell_length_c       5.4509283422303945
+_cell_angle_alpha    90.03653582605196
+_cell_angle_beta     90.01290852548179
+_cell_angle_gamma    90.03500736590507
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.8628855824716966  0.1787551189277907  0.43039557383816585  1.0000
+  Pr  Pr2       1.0  0.8628217702075334  0.6788825351155137  0.9297412979283969  1.0000
+  Al  Al1       1.0  0.3628340697042739  0.17913787352710817  0.9301673160737597  1.0000
+  In  In1       1.0  0.3630503971729398  0.6782994890686305  0.42995923429518557  1.0000

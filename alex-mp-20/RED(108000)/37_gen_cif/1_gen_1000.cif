@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2SnHgPt2
+_chemical_formula_sum              "K2 Sn1 Hg1 Pt2"
+_cell_length_a       4.715753726977597
+_cell_length_b       5.106572248620572
+_cell_length_c       7.846446416949176
+_cell_angle_alpha    86.0816898104064
+_cell_angle_beta     89.9826477488014
+_cell_angle_gamma    90.00049811100871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7555079227518156  0.291219122987462  0.48530227297231093  1.0000
+  K   K2        1.0  0.25525471614605366  0.8153783624576626  0.15560287447233828  1.0000
+  Sn  Sn1       1.0  0.7553391962923194  0.39428423468149004  0.9423814067321841  1.0000
+  Hg  Hg1       1.0  0.2554684013623215  0.7366351090638573  0.6673811667596163  1.0000
+  Pt  Pt1       1.0  0.255406451474834  0.2139718015884435  0.835200090197174  1.0000
+  Pt  Pt2       1.0  0.7553793355505793  0.90301644443112  0.8207990927748346  1.0000

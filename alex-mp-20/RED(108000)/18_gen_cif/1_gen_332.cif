@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2Ag2SnPb
+_chemical_formula_sum              "Cd2 Ag2 Sn1 Pb1"
+_cell_length_a       4.995865978463469
+_cell_length_b       4.997940582410722
+_cell_length_c       6.7236867921739085
+_cell_angle_alpha    90.05485237113008
+_cell_angle_beta     89.99459654293243
+_cell_angle_gamma    120.0028393745232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.853566665182114  0.027791843355662357  0.21486783263217485  1.0000
+  Cd  Cd2       1.0  0.5199787849638402  0.3607519090219975  0.6817203282754728  1.0000
+  Ag  Ag1       1.0  0.8533157327463332  0.026946997768378795  0.6880277258562895  1.0000
+  Ag  Ag2       1.0  0.5201643750159098  0.3614409356143385  0.2049400318365572  1.0000
+  Sn  Sn1       1.0  0.1869375495265182  0.6942994450030135  0.44744965312165885  1.0000
+  Pb  Pb1       1.0  0.18681232137051026  0.694149951648858  0.9473728883931931  1.0000

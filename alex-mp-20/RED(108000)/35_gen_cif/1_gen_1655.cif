@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2V2Cu2
+_chemical_formula_sum              "Al2 V2 Cu2"
+_cell_length_a       4.249829002203837
+_cell_length_b       4.25009158675157
+_cell_length_c       5.203312867611843
+_cell_angle_alpha    89.99969083707533
+_cell_angle_beta     90.00042756928761
+_cell_angle_gamma    119.97532820041036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8563401523489655  0.7703684829538343  0.45693951550128337  1.0000
+  Al  Al2       1.0  0.5227184588351286  0.10442689023040783  0.9557926215292186  1.0000
+  V   V1        1.0  0.1896326089837634  0.43729230320932266  0.7076913206071789  1.0000
+  V   V2        1.0  0.1897525429307868  0.4373478953255322  0.20531681359102663  1.0000
+  Cu  Cu1       1.0  0.85619098391788  0.7703228549454022  0.9569477930345641  1.0000
+  Cu  Cu2       1.0  0.5228397910272525  0.1044252299990241  0.45598851392378725  1.0000

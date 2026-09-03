@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NdNiP2Os
+_chemical_formula_sum              "Nd1 Ni1 P2 Os1"
+_cell_length_a       3.857295860253091
+_cell_length_b       3.857569763898399
+_cell_length_c       6.252122620203893
+_cell_angle_alpha    107.95063098038507
+_cell_angle_beta     107.95144987961635
+_cell_angle_gamma    90.0011105013277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.5331020828069677  0.7348279766433037  0.6453399671379643  1.0000
+  Ni  Ni1       1.0  0.7831821780816639  0.4848193938591929  0.14550492232896448  1.0000
+  P   P1        1.0  0.8964331714496107  0.09805006206326825  0.37226684379579916  1.0000
+  P   P2        1.0  0.16977620408992578  0.37144305280364537  0.9184612495748982  1.0000
+  Os  Os1       1.0  0.28307172045622964  0.9847575727923479  0.14532586617340873  1.0000

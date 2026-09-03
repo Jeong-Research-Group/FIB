@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Ni2Pd2
+_chemical_formula_sum              "Lu2 Ni2 Pd2"
+_cell_length_a       4.2227521127639545
+_cell_length_b       4.222740139011972
+_cell_length_c       6.992266935103453
+_cell_angle_alpha    90.0010528879794
+_cell_angle_beta     89.99917392454579
+_cell_angle_gamma    119.93576298445575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.16547978478774794  0.13133078573690582  0.8561537017276367  1.0000
+  Lu  Lu2       1.0  0.16546508431460485  0.1314421393836616  0.35687145239702045  1.0000
+  Ni  Ni1       1.0  0.8321700810294226  0.46465237143199006  0.6068612182853408  1.0000
+  Ni  Ni2       1.0  0.4987194793022121  0.7984853804530707  0.10648522691890888  1.0000
+  Pd  Pd1       1.0  0.8322486974848867  0.46487347225880626  0.1063790660003475  1.0000
+  Pd  Pd2       1.0  0.4985550275216658  0.7982190897102318  0.6065164297720407  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Tb2HoCdC
+_chemical_formula_sum              "Tb2 Ho1 Cd1 C1"
+_cell_length_a       4.964837290544608
+_cell_length_b       4.965074797029837
+_cell_length_c       4.891582522253497
+_cell_angle_alpha    90.01180505151176
+_cell_angle_beta     90.00307952496573
+_cell_angle_gamma    90.00336345738161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.8695366130984441  0.7303018155020495  0.5166543692722294  1.0000
+  Tb  Tb2       1.0  0.3695746320709139  0.230382338202036  0.5170674264542847  1.0000
+  Ho  Ho1       1.0  0.36937294463950554  0.7304820042537392  0.016804871990059443  1.0000
+  Cd  Cd1       1.0  0.8695462970014519  0.23036782697174138  0.016887437545435518  1.0000
+  C   C1        1.0  0.36941807236316215  0.7307848358286096  0.5170025936528974  1.0000

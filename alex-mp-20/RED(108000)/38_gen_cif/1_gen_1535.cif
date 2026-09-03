@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Ti3Nb
+_chemical_formula_sum              "Li2 Ti3 Nb1"
+_cell_length_a       2.8241176895285314
+_cell_length_b       2.824104493740564
+_cell_length_c       14.799742702557342
+_cell_angle_alpha    89.79817703208556
+_cell_angle_beta     90.18266702206768
+_cell_angle_gamma    112.4661820150604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.684523266111351  0.22650519745505937  0.5911921880880034  1.0000
+  Li  Li2       1.0  0.1857067346902965  0.7244471503093153  0.7642618922688402  1.0000
+  Ti  Ti1       1.0  0.18380878752175026  0.7264570023256525  0.4149311654301943  1.0000
+  Ti  Ti2       1.0  0.18589579683184623  0.7274930473445896  0.09197367303477201  1.0000
+  Ti  Ti3       1.0  0.6887577592737614  0.22501629088125033  0.9439128298970718  1.0000
+  Nb  Nb1       1.0  0.6857931002433799  0.22619465417810505  0.25773926578805706  1.0000

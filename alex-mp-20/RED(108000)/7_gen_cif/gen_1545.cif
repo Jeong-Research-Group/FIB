@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2InPbLaIn
+_chemical_formula_sum              "La3 In2 Pb1"
+_cell_length_a       4.584406461964748
+_cell_length_b       6.340385392335225
+_cell_length_c       7.207979679107666
+_cell_angle_alpha    105.71479148845546
+_cell_angle_beta     89.92082011855898
+_cell_angle_gamma    111.16816381937858
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.05702371150255203  0.24193347990512848  0.8611233234405518  1.0000
+  La  La2       1.0  0.048338077962398515  0.22716739773750302  0.3321873843669891  1.0000
+  In  In1       1.0  0.7225870490074158  0.5737679600715637  0.16973263025283813  1.0000
+  Pb  Pb1       1.0  0.3706550598144531  0.8678948283195496  0.0055463132448494434  1.0000
+  La  La3       1.0  0.35321906208992004  0.8337347507476807  0.5006583333015442  1.0000
+  In  In2       1.0  0.6998360753059386  0.5287576317787169  0.6791234016418457  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LuCd3Fe
+_chemical_formula_sum              "Lu1 Cd3 Fe1"
+_cell_length_a       4.956444882150619
+_cell_length_b       4.9564281011892
+_cell_length_c       4.956388998743048
+_cell_angle_alpha    89.9585875812803
+_cell_angle_beta     90.17412774950478
+_cell_angle_gamma    89.80397585654386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.653799381846678  0.982282375598884  0.8476536402573086  1.0000
+  Cd  Cd1       1.0  0.6545737267140163  0.4824978569275233  0.34773391594462866  1.0000
+  Cd  Cd2       1.0  0.15427595396160765  0.48214871818635896  0.8475177771658726  1.0000
+  Cd  Cd3       1.0  0.15395577144273118  0.9829208851249807  0.34780443685283663  1.0000
+  Fe  Fe1       1.0  0.154630987383244  0.48298293034654866  0.34749545360101264  1.0000

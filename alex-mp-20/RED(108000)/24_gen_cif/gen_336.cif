@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuSrH3
+_chemical_formula_sum              "Cu1 Sr1 H3"
+_cell_length_a       3.7887629733258317
+_cell_length_b       3.7976505235350775
+_cell_length_c       3.8106439113616943
+_cell_angle_alpha    89.45304100953716
+_cell_angle_beta     89.38223237931088
+_cell_angle_gamma    89.36359965757057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5229193568229675  0.31740581989288325  0.528080940246582  1.0000
+  Sr  Sr1       1.0  0.023177180439233776  0.8171313405036926  0.02724455669522286  1.0000
+  H   H1        1.0  0.02316317334771156  0.31700044870376587  0.5279150009155273  1.0000
+  H   H2        1.0  0.523105800151825  0.8174217343330383  0.528052568435669  1.0000
+  H   H3        1.0  0.5227065682411194  0.31677085161209106  0.027504488825798038  1.0000

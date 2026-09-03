@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr2CaCuN
+_chemical_formula_sum              "Sr2 Ca1 Cu1 N1"
+_cell_length_a       4.775000005078499
+_cell_length_b       5.253825938505023
+_cell_length_c       5.255030242558294
+_cell_angle_alpha    90.01458833017615
+_cell_angle_beta     90.00009252876819
+_cell_angle_gamma    90.00020879357875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4398123333404182  0.6767514060616899  0.5200252702975459  1.0000
+  Sr  Sr2       1.0  0.4403276477587318  0.17651708828242457  0.02011738946622083  1.0000
+  Ca  Ca1       1.0  0.9398561002130422  0.6769321480519982  0.01990029831505661  1.0000
+  Cu  Cu1       1.0  0.9396158869530986  0.1769798348677257  0.5206210392383717  1.0000
+  N   N1        1.0  0.4391262493239797  0.6768474352201209  0.020198621240913556  1.0000

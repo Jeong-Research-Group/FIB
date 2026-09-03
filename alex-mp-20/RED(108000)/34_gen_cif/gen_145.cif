@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2PbScPbSc
+_chemical_formula_sum              "Li2 Pb2 Sc2"
+_cell_length_a       4.6772691428551045
+_cell_length_b       4.6789155280728885
+_cell_length_c       6.662838935852051
+_cell_angle_alpha    90.00620431617621
+_cell_angle_beta     89.97007944534845
+_cell_angle_gamma    119.95643981634294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4164521098136902  0.015753228217363358  0.4292382001876831  1.0000
+  Li  Li2       1.0  0.0837090015411377  0.3485892713069916  0.9306929707527161  1.0000
+  Pb  Pb1       1.0  0.08306188881397247  0.3492544889450073  0.4306580722332001  1.0000
+  Sc  Sc1       1.0  0.749999463558197  0.6822062134742737  0.18101634085178375  1.0000
+  Pb  Pb2       1.0  0.4168049097061157  0.015248630195856094  0.9304186105728149  1.0000
+  Sc  Sc2       1.0  0.7501028180122375  0.6819362044334412  0.6806565523147583  1.0000

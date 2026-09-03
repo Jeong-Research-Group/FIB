@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InPd2Pb
+_chemical_formula_sum              "In1 Pd2 Pb1"
+_cell_length_a       3.3725097318537927
+_cell_length_b       4.8308638269586455
+_cell_length_c       4.830716608413079
+_cell_angle_alpha    90.0001771189134
+_cell_angle_beta     90.00385766493405
+_cell_angle_gamma    90.03365630783756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9962074213776594  0.788271586462  0.17481288944405407  1.0000
+  Pd  Pd1       1.0  0.496189767588695  0.2883248883124966  0.17486808583671765  1.0000
+  Pd  Pd2       1.0  0.4960860011918643  0.7883589360238841  0.6747678553445579  1.0000
+  Pb  Pb1       1.0  0.9960859417307856  0.2883181708788534  0.6748456628065297  1.0000

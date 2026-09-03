@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtHgHLi2
+_chemical_formula_sum              "Pt1 Hg1 H1 Li2"
+_cell_length_a       3.666487696268189
+_cell_length_b       4.261302477227936
+_cell_length_c       4.2664570808410645
+_cell_angle_alpha    89.9969425797423
+_cell_angle_beta     89.99789197590682
+_cell_angle_gamma    89.98339831379111
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.13394005596637726  0.5675562024116516  0.9779328107833862  1.0000
+  Hg  Hg1       1.0  0.13454769551753998  0.0672164112329483  0.4784878194332123  1.0000
+  H   H1        1.0  0.6337608098983765  0.5671740174293518  0.9781045913696289  1.0000
+  Li  Li1       1.0  0.6348284482955933  0.06780088692903519  0.9775256514549255  1.0000
+  Li  Li2       1.0  0.6343710422515869  0.5672503113746642  0.4774632751941681  1.0000

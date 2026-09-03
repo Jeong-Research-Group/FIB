@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tb2SnHg
+_chemical_formula_sum              "Tb2 Sn1 Hg1"
+_cell_length_a       4.107501908538897
+_cell_length_b       5.092832608747021
+_cell_length_c       5.093082744546293
+_cell_angle_alpha    90.0072865042149
+_cell_angle_beta     90.01097359862715
+_cell_angle_gamma    89.96153571677185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.7293275016712235  0.2510862817116805  0.5333888937660888  1.0000
+  Tb  Tb2       1.0  0.7293486689681151  0.7511795996175219  0.033446052045887034  1.0000
+  Sn  Sn1       1.0  0.2293287910172117  0.2511905300309857  0.03337515612777135  1.0000
+  Hg  Hg1       1.0  0.2295377200391392  0.7509265259365459  0.5332665956226896  1.0000

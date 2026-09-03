@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdOAuO3
+_chemical_formula_sum              "Pd1 O4 Au1"
+_cell_length_a       3.2974833185337813
+_cell_length_b       4.672343539365398
+_cell_length_c       4.688478946685791
+_cell_angle_alpha    90.0200217898998
+_cell_angle_beta     90.0264421667864
+_cell_angle_gamma    90.07984740979754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.5868181586265564  0.8935229182243346  0.008519536815583706  1.0000
+  O   O1        1.0  0.5870994329452515  0.19928814470767975  0.6986281275749207  1.0000
+  Au  Au1       1.0  0.08596308529376984  0.39287182688713074  0.5081192851066589  1.0000
+  O   O2        1.0  0.5868160128593445  0.5889104604721069  0.3184286952018738  1.0000
+  O   O3        1.0  0.08630407601594925  0.08139835298061371  0.19318825006484985  1.0000
+  O   O4        1.0  0.08752352744340897  0.7059207558631897  0.8232061862945557  1.0000

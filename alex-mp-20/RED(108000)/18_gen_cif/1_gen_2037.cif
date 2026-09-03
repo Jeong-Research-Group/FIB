@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2In3Ir
+_chemical_formula_sum              "Lu2 In3 Ir1"
+_cell_length_a       4.714245397379983
+_cell_length_b       4.713117079274615
+_cell_length_c       7.307778866405209
+_cell_angle_alpha    90.00609117717941
+_cell_angle_beta     89.992040715776
+_cell_angle_gamma    119.97463350443331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.16578055357177002  0.6314654737702273  0.8833567887099502  1.0000
+  Lu  Lu2       1.0  0.16563218280258266  0.6314128088878375  0.33343841255406115  1.0000
+  In  In1       1.0  0.4988655906772614  0.2979617286836776  0.11632138957730541  1.0000
+  In  In2       1.0  0.4988729681140057  0.29812076188409387  0.5540592200349731  1.0000
+  In  In3       1.0  0.832369737755591  0.9648782757640944  0.6703947757723666  1.0000
+  Ir  Ir1       1.0  0.8326662013109435  0.9647135325667663  0.06202502219354105  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaV2Sn2N
+_chemical_formula_sum              "Ba1 V2 Sn2 N1"
+_cell_length_a       3.961748490204658
+_cell_length_b       3.961777185038016
+_cell_length_c       8.331921674940661
+_cell_angle_alpha    89.99945403567007
+_cell_angle_beta     90.01538202361537
+_cell_angle_gamma    89.99163431553805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8245550331897125  0.6326593695514723  0.32341309617293856  1.0000
+  V   V1        1.0  0.8241505783200445  0.13235645378061325  0.8233230818297353  1.0000
+  V   V2        1.0  0.32423002730683725  0.6325235227745741  0.8232909656358085  1.0000
+  Sn  Sn1       1.0  0.3238055392299962  0.13253432937130416  0.5869327904084304  1.0000
+  Sn  Sn2       1.0  0.32461598692415056  0.1326119944744012  0.0598068203623719  1.0000
+  N   N1        1.0  0.8242242371696066  0.6323669031431904  0.8227445641858344  1.0000

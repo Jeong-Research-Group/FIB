@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HFeHPdMn
+_chemical_formula_sum              "H2 Fe1 Pd1 Mn1"
+_cell_length_a       2.7501986969491004
+_cell_length_b       2.7433687274387655
+_cell_length_c       6.217729091644287
+_cell_angle_alpha    102.75566829875348
+_cell_angle_beta     102.82432479548159
+_cell_angle_gamma    90.09192342731245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.6542358994483948  0.6937907934188844  0.07189834862947464  1.0000
+  Fe  Fe1       1.0  0.8131356835365295  0.8511247038841248  0.3865564167499542  1.0000
+  H   H2        1.0  0.31158125400543213  0.3505839109420777  0.38465574383735657  1.0000
+  Pd  Pd1       1.0  0.4804780483245849  0.5193443894386293  0.7227570414543152  1.0000
+  Mn  Mn1       1.0  0.14688456058502197  0.18557898700237274  0.05636468157172203  1.0000

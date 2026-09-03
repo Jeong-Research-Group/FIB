@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiMgBiMgBiIn
+_chemical_formula_sum              "Bi3 Mg2 In1"
+_cell_length_a       3.4786021302631616
+_cell_length_b       6.224906965608912
+_cell_length_c       8.935164451599121
+_cell_angle_alpha    109.46076840540141
+_cell_angle_beta     100.1749281630978
+_cell_angle_gamma    88.73590528806561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.66535484790802  0.12282473593950272  0.3620683252811432  1.0000
+  Mg  Mg1       1.0  0.013390609994530678  0.9634128212928772  0.040073711425065994  1.0000
+  Bi  Bi2       1.0  0.35149484872817993  0.7985658645629882  0.7150004506111145  1.0000
+  Mg  Mg2       1.0  0.6901116967201233  0.6371383666992188  0.39150193333625793  1.0000
+  Bi  Bi3       1.0  0.0318087637424469  0.4765928387641907  0.06805967539548874  1.0000
+  In  In1       1.0  0.3531593084335327  0.29917997121810913  0.7166231274604797  1.0000

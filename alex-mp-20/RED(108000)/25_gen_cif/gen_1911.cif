@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PrLi2PrPb2
+_chemical_formula_sum              "Pr2 Li2 Pb2"
+_cell_length_a       3.9484929920509875
+_cell_length_b       4.854206802729775
+_cell_length_c       8.414722442626953
+_cell_angle_alpha    89.98195714338969
+_cell_angle_beta     90.03420126116775
+_cell_angle_gamma    90.0493028129201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.4018611311912537  0.4562768340110778  0.4331166446208954  1.0000
+  Li  Li1       1.0  0.9009245038032533  0.4569905400276184  0.09964548796415329  1.0000
+  Li  Li2       1.0  0.9028902649879457  0.9554943442344666  0.6015550494194031  1.0000
+  Pr  Pr2       1.0  0.401501476764679  0.9572725296020507  0.9348187446594238  1.0000
+  Pb  Pb1       1.0  0.9043641090393068  0.45642581582069397  0.7665442228317261  1.0000
+  Pb  Pb2       1.0  0.9013645052909852  0.95650976896286  0.2665959298610687  1.0000

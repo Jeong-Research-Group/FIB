@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Yb2InBi2
+_chemical_formula_sum              "Yb2 In1 Bi2"
+_cell_length_a       5.547339735325705
+_cell_length_b       5.552880196724515
+_cell_length_c       6.555092459709035
+_cell_angle_alpha    89.9840223988728
+_cell_angle_beta     90.05925503915032
+_cell_angle_gamma    120.0565003904788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.44468219118248503  0.8901905004190487  0.7654781702164218  1.0000
+  Yb  Yb2       1.0  0.7768833774502991  0.5562801281839519  0.22615686833006576  1.0000
+  In  In1       1.0  0.11067265953433848  0.22307468106781903  0.4955634401057931  1.0000
+  Bi  Bi1       1.0  0.7769433844681565  0.5560895229912344  0.727309560162512  1.0000
+  Bi  Bi2       1.0  0.4440224840256144  0.8893358352155603  0.264429184901735  1.0000

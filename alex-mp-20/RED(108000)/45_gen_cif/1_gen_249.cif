@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti3CrIn2
+_chemical_formula_sum              "Ti3 Cr1 In2"
+_cell_length_a       4.333613656237847
+_cell_length_b       3.7457102990114852
+_cell_length_c       6.965811736758111
+_cell_angle_alpha    89.99997172593754
+_cell_angle_beta     108.12063679685137
+_cell_angle_gamma    89.99997345573428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7337230500450812  0.20553539071509505  0.23525611311766476  1.0000
+  Ti  Ti2       1.0  0.8913355770964452  0.705289673417963  0.5505589130949708  1.0000
+  Ti  Ti3       1.0  0.04904712065192068  0.2054748317188005  0.866171446084687  1.0000
+  Cr  Cr1       1.0  0.3909874446514323  0.20545964446528261  0.5501041303099088  1.0000
+  In  In1       1.0  0.2313280922346043  0.7055531136368797  0.23048291972465568  1.0000
+  In  In2       1.0  0.551085969489697  0.7054979165113072  0.8702448054414949  1.0000

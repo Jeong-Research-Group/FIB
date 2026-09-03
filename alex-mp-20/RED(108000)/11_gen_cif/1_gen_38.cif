@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2Mn2Si3Ir
+_chemical_formula_sum              "Pr2 Mn2 Si3 Ir1"
+_cell_length_a       4.04708710139531
+_cell_length_b       4.075918140561817
+_cell_length_c       9.18693241111966
+_cell_angle_alpha    102.81542482615396
+_cell_angle_beta     89.99966073176843
+_cell_angle_gamma    89.99999983256258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.006444542415391612  0.35922036797042345  0.12740861622564206  1.0000
+  Pr  Pr2       1.0  0.5065070029607289  0.5666975997603946  0.5421150222692567  1.0000
+  Mn  Mn1       1.0  0.5064630478514504  0.21226781669211028  0.8335749934138382  1.0000
+  Mn  Mn2       1.0  0.006441336216228049  0.7118678968609685  0.8326179668733896  1.0000
+  Si  Si1       1.0  0.006511042492053523  0.9971348989076922  0.40283093550082943  1.0000
+  Si  Si2       1.0  0.5064315237740794  0.785267165619064  0.9795743924522659  1.0000
+  Si  Si3       1.0  0.006488477799514984  0.1383979010573485  0.6855757949701843  1.0000
+  Ir  Ir1       1.0  0.5064811164629783  0.9254877616701368  0.2598044725920121  1.0000

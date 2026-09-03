@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Cd2Pb2
+_chemical_formula_sum              "Li2 Cd2 Pb2"
+_cell_length_a       5.53511472633879
+_cell_length_b       5.535928475139745
+_cell_length_c       5.73062352328092
+_cell_angle_alpha    98.87472150998386
+_cell_angle_beta     99.15060729574206
+_cell_angle_gamma    119.39301026565512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5503265809376764  0.6803690830464257  0.10790074121419202  1.0000
+  Li  Li2       1.0  0.7418533801143408  0.4966333189809223  0.6086386647358922  1.0000
+  Cd  Cd1       1.0  0.2170879371176133  0.014613559672356549  0.1074203722214667  1.0000
+  Cd  Cd2       1.0  0.07539280010647016  0.16259875681104227  0.6088613678092022  1.0000
+  Pb  Pb1       1.0  0.8808895896846405  0.35007969298881125  0.10926537184108807  1.0000
+  Pb  Pb2       1.0  0.4119784255993805  0.8274568061999529  0.6077649453419486  1.0000

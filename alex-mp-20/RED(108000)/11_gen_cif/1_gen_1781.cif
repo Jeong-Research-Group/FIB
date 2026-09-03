@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta2Be2Ga2Ni2
+_chemical_formula_sum              "Ta2 Be2 Ga2 Ni2"
+_cell_length_a       3.444593918148493
+_cell_length_b       3.445221106035149
+_cell_length_c       8.799904606905251
+_cell_angle_alpha    90.00415151200797
+_cell_angle_beta     90.00929959651042
+_cell_angle_gamma    90.00121876397147
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.40943253528387624  0.5583487790381894  0.9682600938309547  1.0000
+  Ta  Ta2       1.0  0.9094598153913126  0.05818741274365041  0.48356270238814064  1.0000
+  Be  Be1       1.0  0.40945355725037613  0.5581974415618953  0.5707914258595157  1.0000
+  Be  Be2       1.0  0.9094059395125221  0.05828942802024442  0.8810520359178189  1.0000
+  Ga  Ga1       1.0  0.9095942069787711  0.05856295063348566  0.1442144027288734  1.0000
+  Ga  Ga2       1.0  0.4094476368686748  0.5581765743879288  0.30756520256362146  1.0000
+  Ni  Ni1       1.0  0.4094204555236967  0.05823445432406795  0.7259488678817124  1.0000
+  Ni  Ni2       1.0  0.9094337651369121  0.5582392953273834  0.7259256842586269  1.0000

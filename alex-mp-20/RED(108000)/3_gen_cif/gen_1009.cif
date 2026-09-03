@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaRhSrGaOs
+_chemical_formula_sum              "Ga2 Rh1 Sr1 Os1"
+_cell_length_a       4.380046046821993
+_cell_length_b       4.384389159352419
+_cell_length_c       5.99324369430542
+_cell_angle_alpha    111.49804098872572
+_cell_angle_beta     111.44471160477545
+_cell_angle_gamma    90.01616348813072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.41877061128616333  0.0779358521103859  0.1028117835521698  1.0000
+  Rh  Rh1       1.0  0.8042296767234802  0.9634085297584534  0.8739480972290039  1.0000
+  Sr  Sr1       1.0  0.05459877848625183  0.7135717272758484  0.3735824525356293  1.0000
+  Ga  Ga2       1.0  0.6915915012359619  0.35007840394973755  0.6468223929405212  1.0000
+  Os  Os1       1.0  0.3055471181869507  0.46360790729522705  0.8738887906074524  1.0000

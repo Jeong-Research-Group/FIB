@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PtNi2PtGePt2Ni
+_chemical_formula_sum              "Pt4 Ni3 Ge1"
+_cell_length_a       3.8725478953800976
+_cell_length_b       3.8777871341829924
+_cell_length_c       7.28914737701416
+_cell_angle_alpha    89.97096736982796
+_cell_angle_beta     89.95447246198108
+_cell_angle_gamma    90.2290870635243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.02415621280670166  0.6856712102890015  0.05641010776162147  1.0000
+  Ni  Ni1       1.0  0.023215314373373985  0.18565981090068817  0.8087772727012633  1.0000
+  Ni  Ni2       1.0  0.023535387590527534  0.6857525110244751  0.5955772399902344  1.0000
+  Pt  Pt2       1.0  0.5237604975700378  0.6860018372535706  0.34661045670509333  1.0000
+  Ge  Ge1       1.0  0.5241093635559082  0.6859326958656311  0.8039230704307555  1.0000
+  Pt  Pt3       1.0  0.5238809585571289  0.18567629158496857  0.05796572566032409  1.0000
+  Pt  Pt4       1.0  0.022503318265080452  0.1852211356163025  0.3472214043140411  1.0000
+  Ni  Ni3       1.0  0.5230178236961365  0.18578138947486877  0.5954377055168152  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtAsNaAsPt
+_chemical_formula_sum              "Pt2 As2 Na1"
+_cell_length_a       4.545208266522569
+_cell_length_b       4.553955605530059
+_cell_length_c       5.85721492767334
+_cell_angle_alpha    112.86026961213066
+_cell_angle_beta     112.81869548708882
+_cell_angle_gamma    89.99571229469817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.39404579997062683  0.0293594803661108  0.028521675616502765  1.0000
+  As  As1       1.0  0.2840239703655243  0.4190509021282196  0.8071504831314088  1.0000
+  Na  Na1       1.0  0.033515565097332  0.6686931848526001  0.3072053790092468  1.0000
+  As  As2       1.0  0.7830134034156799  0.9183441400527954  0.8058560490608216  1.0000
+  Pt  Pt2       1.0  0.6729447245597839  0.30796611309051514  0.5843451619148254  1.0000

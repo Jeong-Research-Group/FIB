@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TlSe2Hg2Se
+_chemical_formula_sum              "Tl1 Se3 Hg2"
+_cell_length_a       4.656776175255925
+_cell_length_b       5.741883241791913
+_cell_length_c       6.911940097808838
+_cell_angle_alpha    85.10460139288325
+_cell_angle_beta     109.53119284386476
+_cell_angle_gamma    89.863945096029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.4194892644882202  0.29173555970191956  0.3534846603870392  1.0000
+  Se  Se1       1.0  0.09266813099384308  0.07474967837333679  0.6990334391593933  1.0000
+  Se  Se2       1.0  0.7444730401039124  0.5104007720947266  0.004947047680616395  1.0000
+  Hg  Hg1       1.0  0.11992129683494568  0.5601785778999329  0.7550317645072937  1.0000
+  Hg  Hg2       1.0  0.7183577418327332  0.02176845818758011  0.9512686133384705  1.0000
+  Se  Se3       1.0  0.9197927117347717  0.7929298281669616  0.3548508286476135  1.0000

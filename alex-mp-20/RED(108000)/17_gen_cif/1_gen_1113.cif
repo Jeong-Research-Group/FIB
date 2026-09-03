@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Ga2GeS
+_chemical_formula_sum              "Sm2 Ga2 Ge1 S1"
+_cell_length_a       4.083930716329669
+_cell_length_b       4.0847365100358815
+_cell_length_c       8.272310059046688
+_cell_angle_alpha    89.9995389384475
+_cell_angle_beta     89.99804552497199
+_cell_angle_gamma    90.00002261280332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4246948322250572  0.7836072420316672  0.042959537802303625  1.0000
+  Sm  Sm2       1.0  0.9247235313069521  0.2836593337313697  0.6610677700186809  1.0000
+  Ga  Ga1       1.0  0.42444246842988176  0.2835633517345393  0.3397778552489576  1.0000
+  Ga  Ga2       1.0  0.9245160088597474  0.7835448457576577  0.3396811740937248  1.0000
+  Ge  Ge1       1.0  0.9246784939945917  0.28359893078698045  0.07622889492289006  1.0000
+  S   S1        1.0  0.4247412439844783  0.783706660842285  0.7174315065294143  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb3DyNi2
+_chemical_formula_sum              "Tb3 Dy1 Ni2"
+_cell_length_a       3.6553307680663547
+_cell_length_b       6.369108682402
+_cell_length_c       6.902043201272233
+_cell_angle_alpha    75.285212929993
+_cell_angle_beta     74.62059505748003
+_cell_angle_gamma    73.32675540500838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.10295392218672453  0.8497404919753587  0.32078829996034663  1.0000
+  Tb  Tb2       1.0  0.85774912315765  0.8055615493382092  0.8579359871401883  1.0000
+  Tb  Tb3       1.0  0.6834265664334453  0.3728330653889474  0.6355560115422958  1.0000
+  Dy  Dy1       1.0  0.43817748819397473  0.32755525642309147  0.17286545510502685  1.0000
+  Ni  Ni1       1.0  0.14859291582560005  0.14645864709513445  0.9323875205074276  1.0000
+  Ni  Ni2       1.0  0.3911282940729819  0.03210247604524705  0.5623677905721269  1.0000

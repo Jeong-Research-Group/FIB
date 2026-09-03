@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2Hg2Pd2
+_chemical_formula_sum              "Si2 Hg2 Pd2"
+_cell_length_a       4.027635872586504
+_cell_length_b       4.029371180886234
+_cell_length_c       8.915977561114328
+_cell_angle_alpha    76.73824427702456
+_cell_angle_beta     76.92202329570603
+_cell_angle_gamma    60.024326562934476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6597029865568376  0.5581166430795947  0.9554967061758936  1.0000
+  Si  Si2       1.0  0.06961809025639923  0.9699172240065442  0.723754963324757  1.0000
+  Hg  Hg1       1.0  0.24867410091867642  0.14992086540659966  0.18806289120881495  1.0000
+  Hg  Hg2       1.0  0.5038440579649822  0.4050041286427026  0.42140238871236907  1.0000
+  Pd  Pd1       1.0  0.762999748512557  0.6640741312664684  0.6427296417969987  1.0000
+  Pd  Pd2       1.0  0.36132577228289803  0.26023722666519084  0.849867187557601  1.0000

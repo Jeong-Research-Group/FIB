@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       La3HgH
+_chemical_formula_sum              "La3 Hg1 H1"
+_cell_length_a       5.089017740336291
+_cell_length_b       5.089856104544289
+_cell_length_c       5.090890288716449
+_cell_angle_alpha    90.01004384750044
+_cell_angle_beta     90.01096565756374
+_cell_angle_gamma    89.98467891271221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.1674172921646554  0.675291245816602  0.03342272830930312  1.0000
+  La  La2       1.0  0.6674372310257365  0.6750307016819481  0.5332217114171413  1.0000
+  La  La3       1.0  0.1674045703794824  0.17501090049629633  0.5330589056650168  1.0000
+  Hg  Hg1       1.0  0.6669187041511226  0.17517344316609712  0.03318059090952626  1.0000
+  H   H1        1.0  0.16752332605341075  0.6755785287241842  0.532651517671927  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hf2TiN2
+_chemical_formula_sum              "Hf2 Ti1 N2"
+_cell_length_a       3.1414346801880693
+_cell_length_b       3.1415494011828864
+_cell_length_c       7.679129049985241
+_cell_angle_alpha    89.99695295797147
+_cell_angle_beta     90.01062245660403
+_cell_angle_gamma    120.0020101366382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.292233688184181  0.4750680884845935  0.8956183186611696  1.0000
+  Hf  Hf2       1.0  0.959391747884387  0.808544896247383  0.540615691296283  1.0000
+  Ti  Ti1       1.0  0.6260236417528786  0.14161754450769345  0.2181240719991549  1.0000
+  N   N1        1.0  0.2926950922937652  0.47510854348198145  0.3726515204127628  1.0000
+  N   N2        1.0  0.9590851702484612  0.8083663517618983  0.06359796254989683  1.0000

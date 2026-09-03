@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sr3InN
+_chemical_formula_sum              "Sr3 In1 N1"
+_cell_length_a       5.314468576831452
+_cell_length_b       5.314963018836607
+_cell_length_c       5.315434357484953
+_cell_angle_alpha    90.00154109279633
+_cell_angle_beta     90.01615500180284
+_cell_angle_gamma    89.98959426442673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9765682350202477  0.29111476725846586  0.9617557400887636  1.0000
+  Sr  Sr2       1.0  0.4764157041037995  0.29110759976682865  0.4617620944916136  1.0000
+  Sr  Sr3       1.0  0.9765224235979888  0.7911333632963623  0.4617364447785359  1.0000
+  In  In1       1.0  0.4765361629430858  0.7911673765224647  0.9616615515119451  1.0000
+  N   N1        1.0  0.9762893809446307  0.29095097218336863  0.4620017218008653  1.0000

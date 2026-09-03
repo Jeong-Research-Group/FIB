@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2In2Se2O2
+_chemical_formula_sum              "Cs2 In2 Se2 O2"
+_cell_length_a       6.966726353073397
+_cell_length_b       6.988310154383953
+_cell_length_c       6.740126756604881
+_cell_angle_alpha    61.07874173337548
+_cell_angle_beta     61.23635786019632
+_cell_angle_gamma    64.15186017994233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.10759431125245651  0.7676918768576568  0.9641503797694068  1.0000
+  Cs  Cs2       1.0  0.2745896473372801  0.9358113963353966  0.2975444990925339  1.0000
+  In  In1       1.0  0.6014838421398323  0.26276738939909733  0.4709786487844256  1.0000
+  In  In2       1.0  0.7804354128661546  0.44098658879720004  0.7926825664903513  1.0000
+  Se  Se1       1.0  0.19022016302218137  0.3518867489098356  0.47965135974683376  1.0000
+  Se  Se2       1.0  0.6889307356340267  0.8515305662947346  0.7836015883949855  1.0000
+  O   O1        1.0  0.8128125616088726  0.23252532467253165  0.13205562411278657  1.0000
+  O   O2        1.0  0.569338044616495  0.47122152347881907  0.6332811093516423  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaNi4Pb
+_chemical_formula_sum              "Ca1 Ni4 Pb1"
+_cell_length_a       4.119247750367843
+_cell_length_b       5.043922539042303
+_cell_length_c       5.282921420089876
+_cell_angle_alpha    118.53162661144849
+_cell_angle_beta     90.00856066316817
+_cell_angle_gamma    90.0000474028116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.003523213513839398  0.4113624132279583  0.7084077062625821  1.0000
+  Ni  Ni1       1.0  0.5035824958517054  0.41158333540190667  0.20850622101075383  1.0000
+  Ni  Ni2       1.0  0.5035933878251269  0.911372455027396  0.20845001973157473  1.0000
+  Ni  Ni3       1.0  0.003657106992560539  0.714238611962041  0.3143838892982985  1.0000
+  Ni  Ni4       1.0  0.003562333003585719  0.10879926757138976  0.1028653170429045  1.0000
+  Pb  Pb1       1.0  0.5036269632959208  0.911488784121617  0.7085930592240208  1.0000

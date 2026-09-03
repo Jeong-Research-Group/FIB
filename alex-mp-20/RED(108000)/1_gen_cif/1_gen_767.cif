@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaCoNi2H
+_chemical_formula_sum              "Ga1 Co1 Ni2 H1"
+_cell_length_a       3.609714851582262
+_cell_length_b       3.653699097585231
+_cell_length_c       3.607811162798695
+_cell_angle_alpha    89.98571602086253
+_cell_angle_beta     89.97891700169518
+_cell_angle_gamma    90.0097953636631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5330904809837843  0.1954259142998887  0.9476143188065078  1.0000
+  Co  Co1       1.0  0.033077073682068886  0.1953784772495402  0.4474698243782483  1.0000
+  Ni  Ni1       1.0  0.5330440740091743  0.6952557126759965  0.4477725989978668  1.0000
+  Ni  Ni2       1.0  0.03278919513766337  0.6955016443614089  0.9474210500867556  1.0000
+  H   H1        1.0  0.03264224591850956  0.6954747428313208  0.44763545621311696  1.0000

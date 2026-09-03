@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn3MoRh2
+_chemical_formula_sum              "Zn3 Mo1 Rh2"
+_cell_length_a       2.826471902679865
+_cell_length_b       4.7406806622719975
+_cell_length_c       7.486614154564589
+_cell_angle_alpha    112.81471045881035
+_cell_angle_beta     90.00545363103394
+_cell_angle_gamma    107.32626364160105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7975745535452962  0.3364407395373706  0.29960458852128036  1.0000
+  Zn  Zn2       1.0  0.7937495709765944  0.32972290937425636  0.782766567638675  1.0000
+  Zn  Zn3       1.0  0.12249253470283263  0.986616118611485  0.45001763411746115  1.0000
+  Mo  Mo1       1.0  0.1244254211570002  0.9893475010950867  0.9571467101536223  1.0000
+  Rh  Rh1       1.0  0.46752631408009854  0.6775774522475577  0.6302581378540532  1.0000
+  Rh  Rh2       1.0  0.45716495144397146  0.6558450362731999  0.11591406230523678  1.0000

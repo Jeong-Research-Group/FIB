@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Si2Os2
+_chemical_formula_sum              "Hf2 Si2 Os2"
+_cell_length_a       5.402673933493538
+_cell_length_b       5.069764838756207
+_cell_length_c       5.069286178286281
+_cell_angle_alpha    59.2671687478483
+_cell_angle_beta     57.8152941219729
+_cell_angle_gamma    57.82060955985759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8697758987844946  0.5341409341310185  0.30663332519583597  1.0000
+  Hf  Hf2       1.0  0.623156058610088  0.28316576788120146  0.0540301892326892  1.0000
+  Si  Si1       1.0  0.24630269850783323  0.9088171698095967  0.1810512631834076  1.0000
+  Si  Si2       1.0  0.2461376557114466  0.409678726671448  0.6805486762008244  1.0000
+  Os  Os1       1.0  0.746622452173223  0.9091724235846936  0.6802229706829076  1.0000
+  Os  Os2       1.0  0.2466845530213177  0.909328303307948  0.6809791733017462  1.0000

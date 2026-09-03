@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr3Cd2Ir
+_chemical_formula_sum              "Sr3 Cd2 Ir1"
+_cell_length_a       4.6725494452072915
+_cell_length_b       4.671441624850515
+_cell_length_c       11.92809403861264
+_cell_angle_alpha    90.0000937103872
+_cell_angle_beta     90.01072323113812
+_cell_angle_gamma    60.02992492434372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9660830400867874  0.14265321858931104  0.5282744768202818  1.0000
+  Sr  Sr2       1.0  0.2992674089323843  0.4756405429429521  0.21556210987469474  1.0000
+  Sr  Sr3       1.0  0.2990878773985521  0.4757352504533129  0.8919616596459436  1.0000
+  Cd  Cd1       1.0  0.9655803326379231  0.14234523056716494  0.05448062370562652  1.0000
+  Cd  Cd2       1.0  0.6326322113857344  0.8093235846919702  0.708080035352833  1.0000
+  Ir  Ir1       1.0  0.6320365476049412  0.8089881353352644  0.05981775966368623  1.0000

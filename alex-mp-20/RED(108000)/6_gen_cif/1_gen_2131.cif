@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2SnIr
+_chemical_formula_sum              "Ta2 Sn1 Ir1"
+_cell_length_a       2.9048428094660768
+_cell_length_b       2.9048515464746956
+_cell_length_c       8.586242533222137
+_cell_angle_alpha    90.00122922167188
+_cell_angle_beta     89.998970777801
+_cell_angle_gamma    90.00032610847062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5492505901378358  0.1411470432895425  0.9084291016408562  1.0000
+  Ta  Ta2       1.0  0.5487414608530763  0.14192022909488042  0.35882746106005103  1.0000
+  Sn  Sn1       1.0  0.04896582738059388  0.6416648422262764  0.6336815659997563  1.0000
+  Ir  Ir1       1.0  0.04901689488100331  0.6415015950311072  0.13364141642939337  1.0000

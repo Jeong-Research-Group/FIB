@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgYGe2Rh2
+_chemical_formula_sum              "Mg1 Y1 Ge2 Rh2"
+_cell_length_a       4.304979212650648
+_cell_length_b       4.30684488131242
+_cell_length_c       6.689321994781494
+_cell_angle_alpha    89.80867523961933
+_cell_angle_beta     89.92484992748693
+_cell_angle_gamma    119.70034961358554
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7922925353050232  0.9255124330520631  0.9326906800270081  1.0000
+  Y   Y1        1.0  0.7925785779953003  0.9259366393089294  0.4328586757183075  1.0000
+  Ge  Ge1       1.0  0.4597751200199127  0.25837838649749756  0.6944369077682495  1.0000
+  Ge  Ge2       1.0  0.12517741322517395  0.59271240234375  0.17073267698287964  1.0000
+  Rh  Rh1       1.0  0.12558808922767645  0.5920681357383729  0.7840843796730042  1.0000
+  Rh  Rh2       1.0  0.45922333002090454  0.2595402002334595  0.08109283447265625  1.0000

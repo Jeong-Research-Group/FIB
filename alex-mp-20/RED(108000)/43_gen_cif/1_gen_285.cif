@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Al2Zn2
+_chemical_formula_sum              "Mg2 Al2 Zn2"
+_cell_length_a       4.509820760573311
+_cell_length_b       4.510829604374447
+_cell_length_c       6.142055502139464
+_cell_angle_alpha    89.99975093855072
+_cell_angle_beta     90.00100868745024
+_cell_angle_gamma    119.98878741114642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.584605269151069  0.09561370497942943  0.6630223407936064  1.0000
+  Mg  Mg2       1.0  0.585236233968291  0.09602502306638194  0.16304908433646134  1.0000
+  Al  Al1       1.0  0.2515885305721702  0.4293064420968826  0.9128077055987058  1.0000
+  Al  Al2       1.0  0.25154893410382834  0.4292888945379203  0.4135439270766497  1.0000
+  Zn  Zn1       1.0  0.9183456860938554  0.7628438387279297  0.9203880680476525  1.0000
+  Zn  Zn2       1.0  0.9182826026685107  0.7627312695679523  0.40580773617442634  1.0000

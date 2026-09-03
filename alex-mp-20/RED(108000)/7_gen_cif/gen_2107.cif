@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiSiLiCdSi
+_chemical_formula_sum              "Li2 Si2 Cd1"
+_cell_length_a       2.870718964828036
+_cell_length_b       3.9218775034468747
+_cell_length_c       8.125884056091309
+_cell_angle_alpha    104.10868769936994
+_cell_angle_beta     110.70222170790521
+_cell_angle_gamma    89.89026905782964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4695715010166168  0.6747072935104369  0.31738999485969543  1.0000
+  Si  Si1       1.0  0.6274683475494385  0.49462795257568354  0.9578167200088501  1.0000
+  Li  Li2       1.0  0.9767370223999023  0.9136345982551575  0.7952778935432434  1.0000
+  Cd  Cd1       1.0  0.2230975329875946  0.2944318354129791  0.5563562512397766  1.0000
+  Si  Si2       1.0  0.8178226947784424  0.09368646889925003  0.1553937792778015  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       RbBa2B2C2
+_chemical_formula_sum              "Rb1 Ba2 B2 C2"
+_cell_length_a       3.359402696715898
+_cell_length_b       4.698468650756652
+_cell_length_c       10.612459165005339
+_cell_angle_alpha    89.99977725974313
+_cell_angle_beta     89.95962486959097
+_cell_angle_gamma    89.99990111091905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.05883315796905557  0.05005321349974764  0.6796647466767559  1.0000
+  Ba  Ba1       1.0  0.06026088464870188  0.05031135392328161  0.060577632822607794  1.0000
+  Ba  Ba2       1.0  0.059375214488709284  0.549885852144055  0.3736662735844463  1.0000
+  B   B1        1.0  0.5606457372458301  0.5503353308995148  0.8922655609377805  1.0000
+  B   B2        1.0  0.06076748681883604  0.5502462749339386  0.8883696248152403  1.0000
+  C   C1        1.0  0.5597098960523943  0.050201067037472534  0.29656924130387635  1.0000
+  C   C2        1.0  0.5592630412566539  0.05013201977261519  0.41785732062269654  1.0000

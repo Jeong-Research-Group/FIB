@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2Nd2Ru2C2
+_chemical_formula_sum              "Ca2 Nd2 Ru2 C2"
+_cell_length_a       3.780387051483116
+_cell_length_b       5.490454399634637
+_cell_length_c       8.477643688821598
+_cell_angle_alpha    88.70593277516497
+_cell_angle_beta     102.88356443725998
+_cell_angle_gamma    90.00545242307456
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6301987416042654  0.8226699728610944  0.915733327697417  1.0000
+  Ca  Ca2       1.0  0.07604994427273475  0.31174221590546713  0.8073063408813622  1.0000
+  Nd  Nd1       1.0  0.9277149301276382  0.8300440990299471  0.5110314073846183  1.0000
+  Nd  Nd2       1.0  0.7784642628149522  0.304374809813351  0.21200405993219368  1.0000
+  Ru  Ru1       1.0  0.4254890783988804  0.32825813218107347  0.5062754964464882  1.0000
+  Ru  Ru2       1.0  0.28072495545867854  0.8061458849063305  0.21679408809696527  1.0000
+  C   C1        1.0  0.5035558809436103  0.08761171378265793  0.6624868304875546  1.0000
+  C   C2        1.0  0.20269261730679858  0.04679667099067526  0.0605687046266542  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuIrCuPt
+_chemical_formula_sum              "Cu2 Ir1 Pt1"
+_cell_length_a       2.7145550448687894
+_cell_length_b       3.6539488700977203
+_cell_length_c       5.466171741485596
+_cell_angle_alpha    90.01244710888814
+_cell_angle_beta     90.0069146557532
+_cell_angle_gamma    90.00079480640805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7311036586761475  0.27618306875228876  0.30568739771842957  1.0000
+  Ir  Ir1       1.0  0.23115016520023346  0.7754477858543395  0.060924824327230453  1.0000
+  Cu  Cu2       1.0  0.7309636473655701  0.2761784493923187  0.8174013495445251  1.0000
+  Pt  Pt1       1.0  0.23216308653354645  0.7752925157546996  0.5623225569725037  1.0000

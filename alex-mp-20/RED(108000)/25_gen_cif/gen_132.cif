@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbHgAuSn2Au
+_chemical_formula_sum              "Rb1 Hg1 Au2 Sn2"
+_cell_length_a       4.850481952636998
+_cell_length_b       4.85048174569257
+_cell_length_c       8.503860473632812
+_cell_angle_alpha    90.03105254565527
+_cell_angle_beta     89.88946955138344
+_cell_angle_gamma    120.00182068559089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.951490581035614  0.9405868053436279  0.8627260327339172  1.0000
+  Hg  Hg1       1.0  0.9518604874610902  0.9405429363250734  0.3626762628555298  1.0000
+  Au  Au1       1.0  0.618323028087616  0.27312701940536505  0.20473328232765198  1.0000
+  Sn  Sn1       1.0  0.6177513003349304  0.27361732721328735  0.5593824982643127  1.0000
+  Sn  Sn2       1.0  0.2851352393627167  0.6073508858680725  0.16600008308887482  1.0000
+  Au  Au2       1.0  0.28505218029022217  0.6077837944030762  0.5215954184532166  1.0000

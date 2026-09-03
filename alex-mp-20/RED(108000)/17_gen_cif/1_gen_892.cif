@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mo4AuC3
+_chemical_formula_sum              "Mo4 Au1 C3"
+_cell_length_a       3.1121707930922446
+_cell_length_b       3.112256600751019
+_cell_length_c       11.758661890118477
+_cell_angle_alpha    90.00344721719532
+_cell_angle_beta     89.99119964581405
+_cell_angle_gamma    120.001598526914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.20853329990960479  0.8698812952252415  0.9865436854006542  1.0000
+  Mo  Mo2       1.0  0.8748391828819231  0.20317637839663916  0.2021977495394383  1.0000
+  Mo  Mo3       1.0  0.5420378540256906  0.5366411857411961  0.7879539754539256  1.0000
+  Mo  Mo4       1.0  0.5413612911086095  0.5365698839139684  0.3989846075438079  1.0000
+  Au  Au1       1.0  0.8750326286298544  0.203187064772027  0.5940856293561414  1.0000
+  C   C1        1.0  0.2080941762688086  0.8698821462901115  0.3126436933406737  1.0000
+  C   C2        1.0  0.8753150152974164  0.20327750909384065  0.8752850725472318  1.0000
+  C   C3        1.0  0.5416837370995817  0.5365143861295698  0.09406232250569746  1.0000

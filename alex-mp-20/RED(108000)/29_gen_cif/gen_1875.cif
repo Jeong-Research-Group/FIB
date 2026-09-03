@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiPrLiAlGa
+_chemical_formula_sum              "Li2 Pr1 Al1 Ga1"
+_cell_length_a       4.560149072295332
+_cell_length_b       4.358314844961758
+_cell_length_c       6.067766189575195
+_cell_angle_alpha    110.95816355260793
+_cell_angle_beta     111.99194163045048
+_cell_angle_gamma    90.07829673529594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5008798837661743  0.6232787370681763  0.33798909187316895  1.0000
+  Pr  Pr1       1.0  0.8683475255966187  0.9918537735939026  0.07468639314174652  1.0000
+  Li  Li2       1.0  0.6226183772087097  0.24652032554149628  0.5831722617149353  1.0000
+  Al  Al1       1.0  0.2486627995967865  0.37221637368202215  0.8366255164146423  1.0000
+  Ga  Ga1       1.0  0.11675256490707397  0.7418396472930908  0.5723928213119507  1.0000

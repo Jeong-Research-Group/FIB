@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2CdHg2Pb2
+_chemical_formula_sum              "Li2 Cd1 Hg2 Pb2"
+_cell_length_a       5.053712326446501
+_cell_length_b       5.053285495125732
+_cell_length_c       8.146795618179935
+_cell_angle_alpha    71.91027324785261
+_cell_angle_beta     71.89054336943795
+_cell_angle_gamma    59.98735411176975
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.017227403454697206  0.33413522348878805  0.8880818916297091  1.0000
+  Li  Li2       1.0  0.4839051318634408  0.8011731228494609  0.48575504176284  1.0000
+  Cd  Cd1       1.0  0.748978531715973  0.06605102844833427  0.6921574391904977  1.0000
+  Hg  Hg1       1.0  0.6138524724362572  0.9308044008835139  0.09772035041380038  1.0000
+  Hg  Hg2       1.0  0.137737440890115  0.45508758309228503  0.5241826165656556  1.0000
+  Pb  Pb1       1.0  0.8868822180776239  0.20400020061298532  0.27744051035848416  1.0000
+  Pb  Pb2       1.0  0.3388896726421785  0.6557550047001601  0.923097983086915  1.0000

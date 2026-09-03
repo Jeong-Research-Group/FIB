@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y3SiNi2YNi
+_chemical_formula_sum              "Y4 Si1 Ni3"
+_cell_length_a       3.948753533676335
+_cell_length_b       4.136892856047763
+_cell_length_c       10.754249572753906
+_cell_angle_alpha    101.02172201695127
+_cell_angle_beta     100.50430742875811
+_cell_angle_gamma    90.01549363675885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.15918588638305664  0.06819092482328415  0.9084566831588745  1.0000
+  Y   Y2        1.0  0.9064422249794006  0.31515154242515564  0.4012438654899597  1.0000
+  Y   Y3        1.0  0.29968300461769104  0.7071329355239868  0.18683665990829468  1.0000
+  Si  Si1       1.0  0.0112410057336092  0.9201833605766296  0.6105322241783142  1.0000
+  Ni  Ni1       1.0  0.4453997015953064  0.8529415130615234  0.47935694456100464  1.0000
+  Ni  Ni2       1.0  0.763923704624176  0.17223066091537476  0.11497896909713745  1.0000
+  Y   Y4        1.0  0.5502142310142517  0.4588933289051056  0.6906144022941589  1.0000
+  Ni  Ni3       1.0  0.6928321123123169  0.6029474139213562  0.9779221415519714  1.0000

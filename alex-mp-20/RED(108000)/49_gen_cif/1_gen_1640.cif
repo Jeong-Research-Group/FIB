@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiCeAs2Rh2
+_chemical_formula_sum              "Li1 Ce1 As2 Rh2"
+_cell_length_a       4.201097169601893
+_cell_length_b       4.198671603965028
+_cell_length_c       6.760602417399189
+_cell_angle_alpha    90.06181571698528
+_cell_angle_beta     90.0180910371409
+_cell_angle_gamma    120.02698476224332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6880648277138655  0.8555715267881377  0.2794724153740636  1.0000
+  Ce  Ce1       1.0  0.6878998615380146  0.8552780206462991  0.7793109482682717  1.0000
+  As  As1       1.0  0.3540541625499977  0.18835682337474938  0.041634625491175324  1.0000
+  As  As2       1.0  0.021841505893928713  0.5220356658740828  0.5169893604849203  1.0000
+  Rh  Rh1       1.0  0.021382372755364455  0.5218433850880226  0.14221512399877773  1.0000
+  Rh  Rh2       1.0  0.3547302622641211  0.18817890788922137  0.415339732953743  1.0000

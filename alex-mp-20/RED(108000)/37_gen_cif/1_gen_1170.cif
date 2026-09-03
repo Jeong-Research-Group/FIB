@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnZn2Pd
+_chemical_formula_sum              "Mn1 Zn2 Pd1"
+_cell_length_a       4.336625181853465
+_cell_length_b       4.336620149434594
+_cell_length_c       4.34735295032132
+_cell_angle_alpha    119.84824453217861
+_cell_angle_beta     119.84831760784108
+_cell_angle_gamma    90.12081448053365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.07750461528742571  0.4417553555991411  0.04827404166431937  1.0000
+  Zn  Zn1       1.0  0.8277383970058975  0.6919208145329085  0.5482759586392812  1.0000
+  Zn  Zn2       1.0  0.3277021024919316  0.19206805407329727  0.5482146432931061  1.0000
+  Pd  Pd1       1.0  0.577805901185334  0.9421492989971864  0.04814564473909233  1.0000

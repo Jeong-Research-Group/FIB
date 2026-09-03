@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb3CuGeCl2
+_chemical_formula_sum              "Tb3 Cu1 Ge1 Cl2"
+_cell_length_a       4.088895840252061
+_cell_length_b       4.088599102450517
+_cell_length_c       10.239731012003205
+_cell_angle_alpha    90.00115711053151
+_cell_angle_beta     89.9943124737965
+_cell_angle_gamma    119.95141717577758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.640833889254252  0.3094093543496529  0.439765872004671  1.0000
+  Tb  Tb2       1.0  0.3079996396953059  0.6422764685532097  0.129874763776149  1.0000
+  Tb  Tb3       1.0  0.3080295596932143  0.6423239892736864  0.7489559131528473  1.0000
+  Cu  Cu1       1.0  0.9748905587314267  0.9754847403825984  0.9396663963334552  1.0000
+  Ge  Ge1       1.0  0.6414536131088255  0.3088953816326722  0.9390870527693533  1.0000
+  Cl  Cl1       1.0  0.9744370129365862  0.9758844205301771  0.5924575094337255  1.0000
+  Cl  Cl2       1.0  0.9744060618564391  0.9758312203461162  0.28686565603094  1.0000

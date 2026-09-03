@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2In2Ga3
+_chemical_formula_sum              "Mg2 In2 Ga3"
+_cell_length_a       4.144983841411341
+_cell_length_b       5.499814568049946
+_cell_length_c       7.189911494903099
+_cell_angle_alpha    95.58827163273487
+_cell_angle_beta     89.9920309030105
+_cell_angle_gamma    112.15118175841741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6343907285326836  0.9442722146477287  0.5310319325673963  1.0000
+  Mg  Mg2       1.0  0.4908184542161937  0.6570768613041156  0.08546011107760731  1.0000
+  In  In1       1.0  0.20853174499235308  0.0924561892778111  0.24318220282732816  1.0000
+  In  In2       1.0  0.7748827624925819  0.22581207900924924  0.9304261722583352  1.0000
+  Ga  Ga1       1.0  0.3542534215212795  0.3835724998602398  0.6464650310859901  1.0000
+  Ga  Ga2       1.0  0.054793551890370315  0.7858249085102263  0.7928481321633523  1.0000
+  Ga  Ga3       1.0  0.9271794877950684  0.5290551192669496  0.38560197680535585  1.0000

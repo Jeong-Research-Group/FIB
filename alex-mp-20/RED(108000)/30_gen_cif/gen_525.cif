@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdSr2SnCd2GeCdSnGe
+_chemical_formula_sum              "Cd4 Sr2 Sn2 Ge2"
+_cell_length_a       4.6493459868081874
+_cell_length_b       4.649798452453039
+_cell_length_c       12.263005256652832
+_cell_angle_alpha    89.99085688136158
+_cell_angle_beta     90.18754583842384
+_cell_angle_gamma    90.14388045451165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2787240445613861  0.11247044801712036  0.08336306363344193  1.0000
+  Sr  Sr1       1.0  0.7786737084388733  0.11216980963945389  0.8469594717025757  1.0000
+  Sr  Sr2       1.0  0.2787902355194092  0.6129955053329468  0.3415527641773224  1.0000
+  Sn  Sn1       1.0  0.27845481038093567  0.11248289793729782  0.5945433974266052  1.0000
+  Cd  Cd2       1.0  0.7791568636894226  0.11281908303499223  0.4563976228237152  1.0000
+  Cd  Cd3       1.0  0.7785871624946594  0.612609326839447  0.08336000889539719  1.0000
+  Ge  Ge1       1.0  0.7787837982177734  0.6125307679176331  0.5946238040924072  1.0000
+  Cd  Cd4       1.0  0.27872586250305176  0.6124315857887268  0.736227810382843  1.0000
+  Sn  Sn2       1.0  0.7788141369819641  0.11290086060762405  0.22921167314052582  1.0000
+  Ge  Ge2       1.0  0.27850276231765747  0.6124270558357239  0.9521551132202148  1.0000

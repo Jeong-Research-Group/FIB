@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2GaNiH
+_chemical_formula_sum              "Li2 Ga1 Ni1 H1"
+_cell_length_a       3.6592112842858215
+_cell_length_b       3.773904090875286
+_cell_length_c       3.7737124030102778
+_cell_angle_alpha    90.00082210793322
+_cell_angle_beta     90.00583460100738
+_cell_angle_gamma    89.99555199504867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.031182927498209688  0.4999724394943502  0.30964838865297883  1.0000
+  Li  Li2       1.0  0.031081512970557827  0.00016095520160690972  0.8099732142226413  1.0000
+  Ga  Ga1       1.0  0.5312879791044526  0.5000559602071688  0.8097522043521062  1.0000
+  Ni  Ni1       1.0  0.5312050997209761  0.9997408530782668  0.31017153263203545  1.0000
+  H   H1        1.0  0.0319114450311043  1.8921764574976e-05  0.30996227944152555  1.0000

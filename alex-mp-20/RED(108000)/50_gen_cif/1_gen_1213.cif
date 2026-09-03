@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Cd3Sn
+_chemical_formula_sum              "Y2 Cd3 Sn1"
+_cell_length_a       3.5472137947055895
+_cell_length_b       4.986320109733425
+_cell_length_c       8.558548125946261
+_cell_angle_alpha    89.99097989424072
+_cell_angle_beta     90.00068450430763
+_cell_angle_gamma    90.00028224252428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.48085662941370794  0.07000555476923681  0.4991366799057882  1.0000
+  Y   Y2        1.0  0.4809731190773222  0.5696853265605278  0.9849549727776037  1.0000
+  Cd  Cd1       1.0  0.98100282333025  0.5698788283608128  0.6502792430904429  1.0000
+  Cd  Cd2       1.0  0.9808899533603327  0.06984335732742314  0.16676410288215054  1.0000
+  Cd  Cd3       1.0  0.9804968322363616  0.5698583090393275  0.32159047580834665  1.0000
+  Sn  Sn1       1.0  0.9810055500514945  0.06983671449383153  0.8278604875294308  1.0000

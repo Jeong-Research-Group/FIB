@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ga2Pb2Ga
+_chemical_formula_sum              "Ga3 Pb2"
+_cell_length_a       3.647775716154698
+_cell_length_b       6.335502724908742
+_cell_length_c       6.334603786468506
+_cell_angle_alpha    62.51613988627572
+_cell_angle_beta     73.42542706271898
+_cell_angle_gamma    73.4519428215824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7304611206054688  0.00900280475616455  0.6643597483634949  1.0000
+  Ga  Ga2       1.0  0.7290536165237427  0.6139620542526245  0.05888940021395683  1.0000
+  Pb  Pb1       1.0  0.9919391274452208  0.04895208030939102  0.09939125180244449  1.0000
+  Pb  Pb2       1.0  0.4679493606090545  0.5729959011077881  0.6232692003250122  1.0000
+  Ga  Ga3       1.0  0.22971701622009275  0.3110001981258393  0.3616527318954468  1.0000

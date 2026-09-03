@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaFeRh2C
+_chemical_formula_sum              "Ca1 Fe1 Rh2 C1"
+_cell_length_a       3.928344509425197
+_cell_length_b       4.211891404581521
+_cell_length_c       4.211797336058903
+_cell_angle_alpha    90.00993787040683
+_cell_angle_beta     90.0037504141124
+_cell_angle_gamma    89.99869107129084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.437229883301457  0.8713190420634424  0.02952083051899924  1.0000
+  Fe  Fe1       1.0  0.4382962057119558  0.3717005507996209  0.5293344745446924  1.0000
+  Rh  Rh1       1.0  0.9375606931363012  0.8719821415345705  0.5289357639777134  1.0000
+  Rh  Rh2       1.0  0.9375117519326907  0.3717938098107348  0.028977580799447518  1.0000
+  C   C1        1.0  0.9381024402742925  0.3719061932909583  0.5291554418214008  1.0000

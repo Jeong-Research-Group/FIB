@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2Ag2As2
+_chemical_formula_sum              "Ni2 Ag2 As2"
+_cell_length_a       4.033437847016552
+_cell_length_b       4.0335747555287025
+_cell_length_c       5.965894342940632
+_cell_angle_alpha    90.055267888565
+_cell_angle_beta     90.06356163169117
+_cell_angle_gamma    90.0030159798911
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.12831719673120787  0.1071304431501387  0.06082128768072367  1.0000
+  Ni  Ni2       1.0  0.6282573575031668  0.6072531433340059  0.0608266566744536  1.0000
+  Ag  Ag1       1.0  0.12893079420641973  0.6075979947557337  0.3904002557382824  1.0000
+  Ag  Ag2       1.0  0.6277219422621348  0.10662618349778288  0.731135962891944  1.0000
+  As  As1       1.0  0.12794008186782385  0.6068620933208084  0.8354241281684374  1.0000
+  As  As2       1.0  0.62871237202065  0.10758649384512631  0.2860940913934887  1.0000

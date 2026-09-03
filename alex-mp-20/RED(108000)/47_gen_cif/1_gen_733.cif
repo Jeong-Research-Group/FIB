@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2TaMnGa2
+_chemical_formula_sum              "Tb2 Ta1 Mn1 Ga2"
+_cell_length_a       4.016042145129119
+_cell_length_b       4.018945375717811
+_cell_length_c       7.801621055804029
+_cell_angle_alpha    89.99145501431602
+_cell_angle_beta     90.00257274981865
+_cell_angle_gamma    89.98486613576992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.8882949152471274  0.4640255345360784  0.12311001006944751  1.0000
+  Tb  Tb2       1.0  0.38848647872985775  0.963774283247607  0.8027376740010099  1.0000
+  Ta  Ta1       1.0  0.8880727651503434  0.964189965880061  0.4628354662820828  1.0000
+  Mn  Mn1       1.0  0.388318998276928  0.46397899327019515  0.46276170571404635  1.0000
+  Ga  Ga1       1.0  0.8886458163204322  0.463961042405736  0.6946252090780294  1.0000
+  Ga  Ga2       1.0  0.38814438277930946  0.9639885316357898  0.230758781741269  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4GeTe2As
+_chemical_formula_sum              "Pr4 Ge1 Te2 As1"
+_cell_length_a       4.412974802504902
+_cell_length_b       7.622301857318663
+_cell_length_c       7.814339682467575
+_cell_angle_alpha    109.03794438740293
+_cell_angle_beta     89.99641990371597
+_cell_angle_gamma    90.00396244289834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5598144211464215  0.4778103527406935  0.6808280998625046  1.0000
+  Pr  Pr2       1.0  0.0600082284465352  0.49457863874769087  0.23353482213596857  1.0000
+  Pr  Pr3       1.0  0.559749542375705  0.9931723590017087  0.23502398316031953  1.0000
+  Pr  Pr4       1.0  0.059654368755022606  0.9759873639094778  0.6827237519672036  1.0000
+  Ge  Ge1       1.0  0.5597196358344375  0.7355411955334309  0.45782785262033004  1.0000
+  Te  Te1       1.0  0.5597840074655621  0.2355582724235937  0.9580565237482684  1.0000
+  Te  Te2       1.0  0.05984214789311435  0.7351120542328172  0.9581543839337907  1.0000
+  As  As1       1.0  0.05980848456454517  0.2353648156753913  0.45813216053938666  1.0000

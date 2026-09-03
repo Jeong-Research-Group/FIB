@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgAuSeHgSeAu
+_chemical_formula_sum              "Hg2 Au2 Se2"
+_cell_length_a       4.361652255442114
+_cell_length_b       5.448732888254224
+_cell_length_c       6.352603912353516
+_cell_angle_alpha    87.69955385211561
+_cell_angle_beta     89.81878392993782
+_cell_angle_gamma    89.99147842876286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2555139362812042  0.7551748156547546  0.4208057820796966  1.0000
+  Au  Au1       1.0  0.7544125318527222  0.7567875981330872  0.7125578522682189  1.0000
+  Se  Se1       1.0  0.7539427280426025  0.2548966407775879  0.7262752652168273  1.0000
+  Hg  Hg2       1.0  0.7546694874763489  0.25515592098236084  0.27770212292671204  1.0000
+  Se  Se2       1.0  0.2551208734512329  0.7544233202934265  0.9759368300437926  1.0000
+  Au  Au2       1.0  0.2536666691303253  0.25428810715675354  0.9822987318038939  1.0000

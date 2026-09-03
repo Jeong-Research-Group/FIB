@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Be2PtAu
+_chemical_formula_sum              "Be2 Pt1 Au1"
+_cell_length_a       2.8736686243403606
+_cell_length_b       2.8739034178724987
+_cell_length_c       5.985136816637053
+_cell_angle_alpha    90.00364964002624
+_cell_angle_beta     90.0211238982814
+_cell_angle_gamma    89.999009617709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.3533940203452949  0.2985581974223822  0.7595066514839134  1.0000
+  Be  Be2       1.0  0.3526390309801392  0.2983870876075157  0.3057526784922307  1.0000
+  Pt  Pt1       1.0  0.8532072208882366  0.7985679305865746  0.5324564030811963  1.0000
+  Au  Au1       1.0  0.8530064883486076  0.7983779814505721  0.03234238439290462  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Ga2IrPd
+_chemical_formula_sum              "Ca2 Ga2 Ir1 Pd1"
+_cell_length_a       4.30682866920227
+_cell_length_b       4.081382559127049
+_cell_length_c       7.472941247023865
+_cell_angle_alpha    89.99109299195744
+_cell_angle_beta     89.98976512831858
+_cell_angle_gamma    89.9976442323879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.19013322248886452  0.7204429487898149  0.8562235201190652  1.0000
+  Ca  Ca2       1.0  0.6905343170176623  0.7207797112893518  0.34075219525595835  1.0000
+  Ga  Ga1       1.0  0.6905484831812625  0.2200616010671467  0.02005207024041043  1.0000
+  Ga  Ga2       1.0  0.19060363231218358  0.22049735514534294  0.5092149010820293  1.0000
+  Ir  Ir1       1.0  0.19060536468665812  0.22037448257498965  0.18076466539546557  1.0000
+  Pd  Pd1       1.0  0.6902594098960908  0.2202190081550997  0.6837150995498344  1.0000

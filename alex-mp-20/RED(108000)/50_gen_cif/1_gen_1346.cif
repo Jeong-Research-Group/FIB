@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaFe2Ir2
+_chemical_formula_sum              "La1 Fe2 Ir2"
+_cell_length_a       4.66848101460973
+_cell_length_b       4.439845422076407
+_cell_length_c       4.669299199136138
+_cell_angle_alpha    90.03268919489408
+_cell_angle_beta     90.08679473553407
+_cell_angle_gamma    90.05381368059346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.3914441157415099  0.4259534385343817  0.6939402403311359  1.0000
+  Fe  Fe1       1.0  0.8912434692240558  0.4273142999044339  0.19386141383109776  1.0000
+  Fe  Fe2       1.0  0.8913702054380646  0.9273095782512221  0.19387869692172538  1.0000
+  Ir  Ir1       1.0  0.3908980589067039  0.9267963124431653  0.1938871329322244  1.0000
+  Ir  Ir2       1.0  0.8906360971836577  0.9259577877876168  0.6938900723396229  1.0000

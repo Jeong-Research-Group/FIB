@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnZn2Ge
+_chemical_formula_sum              "Mn1 Zn2 Ge1"
+_cell_length_a       4.025826889318119
+_cell_length_b       3.80001967243767
+_cell_length_c       3.7996900383227388
+_cell_angle_alpha    90.00607746794269
+_cell_angle_beta     90.00333776360762
+_cell_angle_gamma    90.0057326256143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.42913986934105386  0.020548506812442306  0.37356664085609553  1.0000
+  Zn  Zn1       1.0  0.9291023248566712  0.020668583844638964  0.873636344161495  1.0000
+  Zn  Zn2       1.0  0.9290098752301881  0.5205433666934376  0.3732038521815666  1.0000
+  Ge  Ge1       1.0  0.42912081000891633  0.520759873364436  0.8733237969580379  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pr2NdBi4
+_chemical_formula_sum              "Pr2 Nd1 Bi4"
+_cell_length_a       5.463560432540607
+_cell_length_b       5.46342072835714
+_cell_length_c       9.250394369703153
+_cell_angle_alpha    109.95293203202874
+_cell_angle_beta     109.94198656588888
+_cell_angle_gamma    79.8596403081546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9688428315649892  0.7419930561360898  0.2616743427080183  1.0000
+  Pr  Pr2       1.0  0.22084504717326328  0.9940081684225403  0.7690794416035521  1.0000
+  Nd  Nd1       1.0  0.47104964952601663  0.24439088652661267  0.2742081287249507  1.0000
+  Bi  Bi1       1.0  0.5975974747606103  0.863192493689297  0.5178810149578352  1.0000
+  Bi  Bi2       1.0  0.8431162268360617  0.12233398195292594  0.01827344878124606  1.0000
+  Bi  Bi3       1.0  0.3493550920203108  0.616244758429019  0.018346472270903497  1.0000
+  Bi  Bi4       1.0  0.08971338332068257  0.37098545880287187  0.5178943431883561  1.0000

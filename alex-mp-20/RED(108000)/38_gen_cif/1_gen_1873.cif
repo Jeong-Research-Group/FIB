@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TbNd2Ru2Au
+_chemical_formula_sum              "Tb1 Nd2 Ru2 Au1"
+_cell_length_a       3.492678535102456
+_cell_length_b       3.4922186819421723
+_cell_length_c       11.053724683159844
+_cell_angle_alpha    90.00060908272881
+_cell_angle_beta     90.00037956955
+_cell_angle_gamma    90.00081683358508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.8749350663084338  0.09555633671579282  0.8880251438319136  1.0000
+  Nd  Nd1       1.0  0.8749052882891537  0.09557739525775608  0.1987928706206837  1.0000
+  Nd  Nd2       1.0  0.8749820905277536  0.09580719496488865  0.5773932797272632  1.0000
+  Ru  Ru1       1.0  0.3750385754005787  0.5958031744044014  0.04384054575829885  1.0000
+  Ru  Ru2       1.0  0.3748527768429966  0.5953903735608839  0.7320723255458773  1.0000
+  Au  Au1       1.0  0.3750699888265029  0.5955939322616526  0.38806351295217983  1.0000

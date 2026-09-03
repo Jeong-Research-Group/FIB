@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiSnHIr2
+_chemical_formula_sum              "Ni1 Sn1 H1 Ir2"
+_cell_length_a       4.023599394698774
+_cell_length_b       4.023461726172
+_cell_length_c       3.8691721029688373
+_cell_angle_alpha    89.99698236040669
+_cell_angle_beta     89.99576535641017
+_cell_angle_gamma    89.99913616810501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.23508063521319048  0.69151249531707  0.2713396504332164  1.0000
+  Sn  Sn1       1.0  0.735125728950577  0.19104971931610287  0.27169607619148856  1.0000
+  H   H1        1.0  0.2347936941637283  0.6914158781344358  0.7714964932163939  1.0000
+  Ir  Ir1       1.0  0.23510196144875548  0.1908364623124018  0.7718770112660404  1.0000
+  Ir  Ir2       1.0  0.7351215064317174  0.6909344355555137  0.771835219868852  1.0000

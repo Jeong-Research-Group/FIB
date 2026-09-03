@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2Al2Fe2
+_chemical_formula_sum              "Sc2 Al2 Fe2"
+_cell_length_a       4.141939135277181
+_cell_length_b       4.141698298158535
+_cell_length_c       6.143891958146607
+_cell_angle_alpha    90.06039922169664
+_cell_angle_beta     90.0462697274841
+_cell_angle_gamma    90.00119307093355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.7885391080441044  0.25631548219632444  0.8941521915966308  1.0000
+  Sc  Sc2       1.0  0.2878889447275551  0.7557491636998299  0.32863107998962304  1.0000
+  Al  Al1       1.0  0.7880102280578886  0.2558652771416781  0.4077164294901563  1.0000
+  Al  Al2       1.0  0.28862402907097784  0.7564315142812618  0.8149667403814719  1.0000
+  Fe  Fe1       1.0  0.288364107206669  0.2562097493608727  0.6113722415974406  1.0000
+  Fe  Fe2       1.0  0.7886205704109065  0.7563781527097879  0.6113990928337264  1.0000

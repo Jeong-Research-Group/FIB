@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       DyHo2PbC
+_chemical_formula_sum              "Dy1 Ho2 Pb1 C1"
+_cell_length_a       4.921943667055523
+_cell_length_b       4.893725357048205
+_cell_length_c       4.893876602475735
+_cell_angle_alpha    89.99860119552878
+_cell_angle_beta     90.00741829327222
+_cell_angle_gamma    90.01116539478791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.5622854393082745  0.6262084931099532  0.27057364694825753  1.0000
+  Ho  Ho1       1.0  0.06201633498944016  0.6262434008702112  0.770606558340127  1.0000
+  Ho  Ho2       1.0  0.061943700023756834  0.12620898146725457  0.2703698400191413  1.0000
+  Pb  Pb1       1.0  0.562319284749072  0.12613222236919974  0.7706653199215585  1.0000
+  C   C1        1.0  0.0622916921154093  0.6261416020681737  0.27080092394027255  1.0000

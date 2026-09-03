@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2CdNi3
+_chemical_formula_sum              "Sc2 Cd1 Ni3"
+_cell_length_a       3.1593286072263216
+_cell_length_b       3.1593523824535
+_cell_length_c       9.389469818248916
+_cell_angle_alpha    90.00489540430814
+_cell_angle_beta     90.00974987057506
+_cell_angle_gamma    90.0036799410246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.806900670981905  0.7921766054131386  0.0582607048969194  1.0000
+  Sc  Sc2       1.0  0.807337859384978  0.7928663861601413  0.7218424983145443  1.0000
+  Cd  Cd1       1.0  0.8071836744290714  0.7923983708790322  0.39009633311337916  1.0000
+  Ni  Ni1       1.0  0.30742479625058355  0.2927819033956258  0.568199907160355  1.0000
+  Ni  Ni2       1.0  0.30722960735991106  0.29265658434059566  0.890109286928463  1.0000
+  Ni  Ni3       1.0  0.3071395443611174  0.29222123609981954  0.21201937914751265  1.0000

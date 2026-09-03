@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li4GaAg
+_chemical_formula_sum              "Li4 Ga1 Ag1"
+_cell_length_a       4.508628599077983
+_cell_length_b       5.2493772132596215
+_cell_length_c       5.253027034188681
+_cell_angle_alpha    61.70578432435524
+_cell_angle_beta     64.68205608552974
+_cell_angle_gamma    64.65680269623503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6115364029759109  0.35981363369011177  0.37574713273425986  1.0000
+  Li  Li2       1.0  0.6137809090868458  0.8543685160265435  0.8810625053131466  1.0000
+  Li  Li3       1.0  0.27825784600878767  0.6906375610982433  0.7103052906152322  1.0000
+  Li  Li4       1.0  0.2772549504618593  0.18512662399322918  0.2152612707054247  1.0000
+  Ga  Ga1       1.0  0.9454592989412306  0.7721064468705273  0.29571593299571913  1.0000
+  Ag  Ag1       1.0  0.9452421494022948  0.27239200557973386  0.7960398533507448  1.0000

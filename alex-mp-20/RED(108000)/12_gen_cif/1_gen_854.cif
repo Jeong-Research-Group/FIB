@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgFeCo2C
+_chemical_formula_sum              "Mg1 Fe1 Co2 C1"
+_cell_length_a       3.801389390917115
+_cell_length_b       3.801367121117419
+_cell_length_c       3.786841984675587
+_cell_angle_alpha    89.97468864003427
+_cell_angle_beta     89.97059885240999
+_cell_angle_gamma    90.02502572060253
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6611756059745071  0.02601195096079141  0.7167323023621519  1.0000
+  Fe  Fe1       1.0  0.16118009096335112  0.5260871740649671  0.716640443977517  1.0000
+  Co  Co1       1.0  0.16116316965305874  0.02605574172955231  0.21670810136407523  1.0000
+  Co  Co2       1.0  0.6611959015244626  0.5261520678636143  0.21688146773594835  1.0000
+  C   C1        1.0  0.16116306460750845  0.5261161795053326  0.21686285713717302  1.0000

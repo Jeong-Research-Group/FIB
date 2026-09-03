@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdSn2SrLi
+_chemical_formula_sum              "Cd1 Sn2 Sr1 Li1"
+_cell_length_a       4.706031187787429
+_cell_length_b       4.71144060077369
+_cell_length_c       7.071272373199463
+_cell_angle_alpha    70.60192968853826
+_cell_angle_beta     70.59057790228479
+_cell_angle_gamma    89.95517602744188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.21030454337596893  0.13469067215919495  0.08525872975587845  1.0000
+  Sn  Sn1       1.0  0.8460889458656311  0.2708907723426819  0.8125485777854918  1.0000
+  Sn  Sn2       1.0  0.07482116669416429  0.49873745441436773  0.35625430941581726  1.0000
+  Sr  Sr1       1.0  0.4600231945514679  0.8842363953590393  0.5847136974334717  1.0000
+  Li  Li1       1.0  0.7104480862617493  0.6349688768386841  0.08424736559391022  1.0000

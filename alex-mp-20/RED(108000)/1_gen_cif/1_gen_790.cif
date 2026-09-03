@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl2Hg2Pd2
+_chemical_formula_sum              "Tl2 Hg2 Pd2"
+_cell_length_a       4.602588450028475
+_cell_length_b       4.602087202248282
+_cell_length_c       6.618846432100148
+_cell_angle_alpha    90.10882144949176
+_cell_angle_beta     89.92556781374377
+_cell_angle_gamma    90.0027671435053
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.47619681710682743  0.8792876948368066  0.2532459993099332  1.0000
+  Tl  Tl2       1.0  0.9746581440089315  0.38143880008175385  0.8357328817610288  1.0000
+  Hg  Hg1       1.0  0.47447961779735637  0.8811154125246444  0.8107123181948003  1.0000
+  Hg  Hg2       1.0  0.9763986432055856  0.379568698398047  0.27844561585034383  1.0000
+  Pd  Pd1       1.0  0.4759135883417652  0.3801374879066763  0.5443667058915732  1.0000
+  Pd  Pd2       1.0  0.974947116133758  0.8806029483799802  0.5444286095247599  1.0000

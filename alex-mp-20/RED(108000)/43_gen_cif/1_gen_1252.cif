@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SrCa3Pb2O
+_chemical_formula_sum              "Sr1 Ca3 Pb2 O1"
+_cell_length_a       4.649128695663832
+_cell_length_b       5.087602125662803
+_cell_length_c       9.113661994238301
+_cell_angle_alpha    106.18877059015539
+_cell_angle_beta     104.73436439751383
+_cell_angle_gamma    90.00001475440685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5656752474699773  0.9707579177477207  0.1267705857349297  1.0000
+  Ca  Ca1       1.0  0.7272450515442095  0.6326005040079271  0.45086310820795306  1.0000
+  Ca  Ca2       1.0  0.40404305401145657  0.3087886144742377  0.8026235362643334  1.0000
+  Ca  Ca3       1.0  0.06569253619458072  0.4708745761192261  0.12675784297896303  1.0000
+  Pb  Pb1       1.0  0.918992169754575  0.8237990416216358  0.8324474425245876  1.0000
+  Pb  Pb2       1.0  0.21245542682924548  0.11767975193839089  0.4213567259558185  1.0000
+  O   O1        1.0  0.5657811061407496  0.47101301524090533  0.12705135426413125  1.0000

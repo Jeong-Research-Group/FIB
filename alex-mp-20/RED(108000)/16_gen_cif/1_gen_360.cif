@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga3Ge3C2
+_chemical_formula_sum              "Ga3 Ge3 C2"
+_cell_length_a       3.3005510535682303
+_cell_length_b       3.3005243505569912
+_cell_length_c       14.202623451627245
+_cell_angle_alpha    89.782167956754
+_cell_angle_beta     90.26102161825955
+_cell_angle_gamma    119.99445783540101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3617433448399726  0.3853789623542515  0.3486728770848004  1.0000
+  Ga  Ga2       1.0  0.02971360338182756  0.7181710605062865  0.47826817839658003  1.0000
+  Ga  Ga3       1.0  0.02397636229294991  0.7206343830844886  0.9901191936823619  1.0000
+  Ge  Ge1       1.0  0.6967343936481541  0.04819313327496946  0.7992170568190046  1.0000
+  Ge  Ge2       1.0  0.6930595308535525  0.05270913187506082  0.16292897110185728  1.0000
+  Ge  Ge3       1.0  0.027511746623345764  0.71664739913581  0.6601554443969432  1.0000
+  C   C1        1.0  0.36039618294641057  0.38571466176818736  0.21042436882842386  1.0000
+  C   C2        1.0  0.6910414341377403  0.05372269011944949  0.02116716857963307  1.0000

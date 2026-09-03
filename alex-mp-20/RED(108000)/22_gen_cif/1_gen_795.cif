@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2Ge5Pt
+_chemical_formula_sum              "Al2 Ge5 Pt1"
+_cell_length_a       3.925983443889023
+_cell_length_b       5.490573507048498
+_cell_length_c       7.469182962812383
+_cell_angle_alpha    95.3221305544699
+_cell_angle_beta     89.8717600142576
+_cell_angle_gamma    89.9919074215351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.051332996756724425  0.44210627825942217  0.8306510065401774  1.0000
+  Al  Al2       1.0  0.05074254712208907  0.7614245896851204  0.2587524487557168  1.0000
+  Ge  Ge1       1.0  0.05227589060440781  0.19246281826742126  0.4400793841468707  1.0000
+  Ge  Ge2       1.0  0.05155171165929373  0.988977375839323  0.7389109450010831  1.0000
+  Ge  Ge3       1.0  0.5521762296221209  0.018578657864296577  0.08397335313282771  1.0000
+  Ge  Ge4       1.0  0.5522443275428568  0.5026853153367433  0.480391622910805  1.0000
+  Ge  Ge5       1.0  0.5506953261799322  0.4913817802557057  0.0888016572455785  1.0000
+  Pt  Pt1       1.0  0.5512644809055108  0.7229727970066245  0.7931157187117926  1.0000

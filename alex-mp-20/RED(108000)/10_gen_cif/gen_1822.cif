@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La2AuSn2AuSi
+_chemical_formula_sum              "La2 Au2 Sn2 Si1"
+_cell_length_a       4.598050029772408
+_cell_length_b       6.027442651543828
+_cell_length_c       7.038722991943359
+_cell_angle_alpha    107.17354161894765
+_cell_angle_beta     90.11615671172441
+_cell_angle_gamma    112.45786772687262
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5000098347663879  0.3008222281932831  0.30649304389953613  1.0000
+  La  La2       1.0  0.21297776699066162  0.725825309753418  0.7753826379776001  1.0000
+  Au  Au1       1.0  0.7765185832977294  0.8526800870895385  0.10618719458580014  1.0000
+  Sn  Sn1       1.0  0.8704231977462769  0.04214027523994445  0.5544601678848267  1.0000
+  Sn  Sn2       1.0  0.1940563172101974  0.6882046461105346  0.2675178349018097  1.0000
+  Au  Au2       1.0  0.5125771760940552  0.32532119750976557  0.83390873670578  1.0000
+  Si  Si1       1.0  0.9571727514266968  0.2148081511259079  0.9657071232795715  1.0000

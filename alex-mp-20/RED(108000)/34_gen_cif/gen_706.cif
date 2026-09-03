@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2FeCr3
+_chemical_formula_sum              "Zr2 Fe1 Cr3"
+_cell_length_a       5.065731408761856
+_cell_length_b       5.0703840394358375
+_cell_length_c       5.063885688781738
+_cell_angle_alpha    58.83943123577446
+_cell_angle_beta     58.854365376694794
+_cell_angle_gamma    58.77204359211031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.11546194553375244  0.8359178304672241  0.4247628152370453  1.0000
+  Zr  Zr2       1.0  0.8656780719757081  0.5856320858001709  0.17467984557151786  1.0000
+  Fe  Fe1       1.0  0.490675687789917  0.21088393032550815  0.7995284795761108  1.0000
+  Cr  Cr1       1.0  0.4905441701412201  0.7111576795578003  0.7994554042816162  1.0000
+  Cr  Cr2       1.0  0.9905549883842468  0.21075846254825592  0.8000218272209167  1.0000
+  Cr  Cr3       1.0  0.49086084961891174  0.2108427733182907  0.2998966872692108  1.0000

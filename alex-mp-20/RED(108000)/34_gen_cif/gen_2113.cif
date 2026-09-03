@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pr2Ni3SnInNiSn2
+_chemical_formula_sum              "Pr2 Ni4 Sn3 In1"
+_cell_length_a       4.445205419328193
+_cell_length_b       4.447499376757638
+_cell_length_c       10.19564151763916
+_cell_angle_alpha    90.06613239355069
+_cell_angle_beta     90.03179703871767
+_cell_angle_gamma    90.08255899654374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.36845192313194275  0.9116441607475281  0.3562009036540985  1.0000
+  Pr  Pr2       1.0  0.8686453700065613  0.41205930709838867  0.8384763598442078  1.0000
+  Ni  Ni1       1.0  0.8687838315963745  0.41183480620384216  0.22861716151237485  1.0000
+  Ni  Ni2       1.0  0.867886483669281  0.9116119742393494  0.5966525673866272  1.0000
+  Ni  Ni3       1.0  0.36838164925575256  0.911977231502533  0.9656146764755248  1.0000
+  Sn  Sn1       1.0  0.3685826361179352  0.9119290709495544  0.7197150588035583  1.0000
+  In  In1       1.0  0.3684615194797516  0.41187661886215216  0.09708710014820099  1.0000
+  Ni  Ni4       1.0  0.3684510886669159  0.4117009043693543  0.5969182848930359  1.0000
+  Sn  Sn2       1.0  0.8685316443443298  0.4117755889892578  0.473909318447113  1.0000
+  Sn  Sn3       1.0  0.8683608770370483  0.9118539690971376  0.09704336524009705  1.0000

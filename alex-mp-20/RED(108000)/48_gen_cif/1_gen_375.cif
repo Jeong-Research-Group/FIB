@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Ti2Si2Rh2
+_chemical_formula_sum              "Li2 Ti2 Si2 Rh2"
+_cell_length_a       3.9873268583162584
+_cell_length_b       3.9869993647934843
+_cell_length_c       6.914322698311352
+_cell_angle_alpha    89.9968178428508
+_cell_angle_beta     89.98159149641732
+_cell_angle_gamma    89.99946076559526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5950745645055012  0.13982319576617078  0.5900661551463823  1.0000
+  Li  Li2       1.0  0.09633657988097923  0.6396994043863253  0.09096250696662259  1.0000
+  Ti  Ti1       1.0  0.5952032495839474  0.6399664329905523  0.34016127619870995  1.0000
+  Ti  Ti2       1.0  0.5958154084379772  0.6401796231609653  0.840927499068358  1.0000
+  Si  Si1       1.0  0.09411404927639738  0.13995411927705909  0.33999820497290173  1.0000
+  Si  Si2       1.0  0.09639975094067417  0.1391717311409017  0.8404329525870542  1.0000
+  Rh  Rh1       1.0  0.09487418617931467  0.6393991129391888  0.5912242023173144  1.0000
+  Rh  Rh2       1.0  0.5958112290878946  0.13977562606671803  0.08976713763341582  1.0000

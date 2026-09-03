@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdPdPtIn
+_chemical_formula_sum              "Cd1 Pd1 Pt1 In1"
+_cell_length_a       4.665322117249295
+_cell_length_b       4.663053109842584
+_cell_length_c       4.664419174194336
+_cell_angle_alpha    60.0152485045764
+_cell_angle_beta     59.961068491913935
+_cell_angle_gamma    60.00071803821922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7894227504730226  0.7465540766716003  0.3147616684436798  1.0000
+  Pd  Pd1       1.0  0.5394969582557678  0.4965256154537201  0.06448148936033249  1.0000
+  Pt  Pt1       1.0  0.03963211178779602  0.9963875412940979  0.564742386341095  1.0000
+  In  In1       1.0  0.2895972728729248  0.2462041825056076  0.8145228624343872  1.0000

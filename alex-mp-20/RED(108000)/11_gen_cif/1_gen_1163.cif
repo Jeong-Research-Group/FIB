@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiTe3Pb2
+_chemical_formula_sum              "Li1 Te3 Pb2"
+_cell_length_a       4.504384872598122
+_cell_length_b       6.351390813783384
+_cell_length_c       7.693300612692284
+_cell_angle_alpha    114.28939554927965
+_cell_angle_beta     107.01299084261079
+_cell_angle_gamma    90.0126924288905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5462053752882374  0.26401888678359703  0.8320489641205929  1.0000
+  Te  Te1       1.0  0.5463625509606652  0.7628431749087977  0.8326869057863655  1.0000
+  Te  Te2       1.0  0.8927552773947222  0.11133360922824652  0.5262487373522834  1.0000
+  Te  Te3       1.0  0.1999147280228959  0.41702862240512883  0.13925154100257053  1.0000
+  Pb  Pb1       1.0  0.8750648601083258  0.59407894514524  0.4898821682555669  1.0000
+  Pb  Pb2       1.0  0.21775162707210335  0.9349138181104308  0.1755694666150681  1.0000

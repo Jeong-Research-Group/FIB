@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HgCd2EuCd
+_chemical_formula_sum              "Hg1 Cd3 Eu1"
+_cell_length_a       4.431628336670418
+_cell_length_b       4.510706071219658
+_cell_length_c       6.694697856903076
+_cell_angle_alpha    90.02955673337385
+_cell_angle_beta     90.0762479023308
+_cell_angle_gamma    90.03603858187878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.43049338459968567  0.8429836630821228  0.8441218137741089  1.0000
+  Cd  Cd1       1.0  0.43000736832618713  0.3428849577903747  0.5507110953330994  1.0000
+  Cd  Cd2       1.0  0.930303156375885  0.8427418470382689  0.5514156818389893  1.0000
+  Eu  Eu1       1.0  0.9297313690185547  0.34304094314575195  0.042841579765081406  1.0000
+  Cd  Cd3       1.0  0.4314268231391907  0.8430072665214539  0.2657570242881775  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2PRu2CN
+_chemical_formula_sum              "Li2 P1 Ru2 C1 N1"
+_cell_length_a       3.7879977556740627
+_cell_length_b       3.789758655042216
+_cell_length_c       6.435756537871675
+_cell_angle_alpha    89.97445059113703
+_cell_angle_beta     90.07460146659473
+_cell_angle_gamma    90.00112432762502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8555841633776774  0.6590931217689641  0.5355578810334374  1.0000
+  Li  Li2       1.0  0.355588648309953  0.15855497282146513  0.24633969699987404  1.0000
+  P   P1        1.0  0.3551470713239746  0.15897533184136578  0.6666137283850017  1.0000
+  Ru  Ru1       1.0  0.8557285849711274  0.1589561460094699  0.8723969416926568  1.0000
+  Ru  Ru2       1.0  0.3558536443404006  0.6588746028273936  0.8720598325910814  1.0000
+  C   C1        1.0  0.8568013702183828  0.658418437933212  0.04265993630135878  1.0000
+  N   N1        1.0  0.8553289216114167  0.6588850090751709  0.23850459155655598  1.0000

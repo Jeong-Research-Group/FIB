@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Lu2PdRh
+_chemical_formula_sum              "Lu2 Pd1 Rh1"
+_cell_length_a       3.378637574349819
+_cell_length_b       3.3776130838219225
+_cell_length_c       6.89998550037126
+_cell_angle_alpha    89.99884824659584
+_cell_angle_beta     90.00494051313746
+_cell_angle_gamma    90.00795281639155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.07058871370079443  0.3216166383813366  0.3945671601722006  1.0000
+  Lu  Lu2       1.0  0.07068082295792248  0.3217856804294742  0.8802977128292814  1.0000
+  Pd  Pd1       1.0  0.5707517700571004  0.8218982560621013  0.1373828717634314  1.0000
+  Rh  Rh1       1.0  0.570586857196128  0.8217795339940742  0.6372478929187353  1.0000

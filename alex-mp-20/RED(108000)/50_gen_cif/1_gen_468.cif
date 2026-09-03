@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiDyCuSn2Pd
+_chemical_formula_sum              "Li1 Dy1 Cu1 Sn2 Pd1"
+_cell_length_a       4.607276626408326
+_cell_length_b       4.6066240453827465
+_cell_length_c       6.4209452130603495
+_cell_angle_alpha    90.01560458241313
+_cell_angle_beta     90.0073836768166
+_cell_angle_gamma    119.9950878064486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2555143376142089  0.8422832011334591  0.85873148635084  1.0000
+  Dy  Dy1       1.0  0.2557585412807409  0.8425136666848151  0.35911097026538813  1.0000
+  Cu  Cu1       1.0  0.5890259611838708  0.5093043285806363  0.09133250717104884  1.0000
+  Sn  Sn1       1.0  0.5892919309177774  0.5094888965809986  0.6375824019028081  1.0000
+  Sn  Sn2       1.0  0.9224091931174695  0.17584010129215202  0.08071116181632534  1.0000
+  Pd  Pd1       1.0  0.9227913864033361  0.17628711131712096  0.6351525556435056  1.0000

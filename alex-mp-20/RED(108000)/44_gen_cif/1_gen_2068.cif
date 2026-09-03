@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2In2Bi2
+_chemical_formula_sum              "Zn2 In2 Bi2"
+_cell_length_a       3.3209605612541884
+_cell_length_b       6.429749729049477
+_cell_length_c       8.01550291655491
+_cell_angle_alpha    111.1595255820076
+_cell_angle_beta     90.17038689545808
+_cell_angle_gamma    90.13147552975673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2915523775080383  0.35505495617200017  0.9159770336957718  1.0000
+  Zn  Zn2       1.0  0.7911802718061339  0.012459931873895293  0.8279932758662745  1.0000
+  In  In1       1.0  0.29194442832537515  0.016391057782481695  0.500333914468635  1.0000
+  In  In2       1.0  0.7903740276351333  0.3482144453688838  0.24275226464155128  1.0000
+  Bi  Bi1       1.0  0.2861194671872209  0.5778375062858382  0.6436720661696611  1.0000
+  Bi  Bi2       1.0  0.7959059664031265  0.7892858718808377  0.09915834393748456  1.0000

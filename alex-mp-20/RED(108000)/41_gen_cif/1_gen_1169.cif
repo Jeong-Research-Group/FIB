@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2SnTe2P
+_chemical_formula_sum              "Mg2 Sn1 Te2 P1"
+_cell_length_a       4.084278626808152
+_cell_length_b       4.08378350000237
+_cell_length_c       10.74631713930943
+_cell_angle_alpha    79.05140865724442
+_cell_angle_beta     79.05101367552611
+_cell_angle_gamma    59.990079305951056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5808689026898227  0.24770652014661643  0.14519277745098372  1.0000
+  Mg  Mg2       1.0  0.6952543417741082  0.3618987917453898  0.8015765848191394  1.0000
+  Sn  Sn1       1.0  0.8230133654200625  0.48939718387750664  0.42023664045708725  1.0000
+  Te  Te1       1.0  0.4180652750487421  0.08458717450760951  0.6340068343763428  1.0000
+  Te  Te2       1.0  0.9727246019480144  0.6390878582808488  0.9690625470958163  1.0000
+  P   P1        1.0  0.20179967526831552  0.8680216830473949  0.28381818442471257  1.0000

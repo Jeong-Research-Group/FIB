@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2SiAu2I3
+_chemical_formula_sum              "Sm2 Si1 Au2 I3"
+_cell_length_a       4.781469009900059
+_cell_length_b       4.288182745146847
+_cell_length_c       13.041312457357547
+_cell_angle_alpha    90.0129763809345
+_cell_angle_beta     90.11268627912166
+_cell_angle_gamma    89.9993991785256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.6351992783531606  0.9170440523878656  0.6092251822993046  1.0000
+  Sm  Sm2       1.0  0.13602471792181361  0.4170579342871074  0.972339739641037  1.0000
+  Si  Si1       1.0  0.1394848449573338  0.4164971523599428  0.6934112274752906  1.0000
+  Au  Au1       1.0  0.13498025213295994  0.9165838039274544  0.7803235271623131  1.0000
+  Au  Au2       1.0  0.6388829686412418  0.4171499456435718  0.7723053687490516  1.0000
+  I   I1        1.0  0.6372464531899783  0.4169693253097441  0.43478979833282283  1.0000
+  I   I2        1.0  0.1368248558289257  0.9169975565757742  0.16685326310216755  1.0000
+  I   I3        1.0  0.6357672191285165  0.9171332663309794  0.9669415949530132  1.0000

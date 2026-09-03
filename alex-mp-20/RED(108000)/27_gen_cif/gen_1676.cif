@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb3AsBrTbBrSn
+_chemical_formula_sum              "Tb4 As1 Br2 Sn1"
+_cell_length_a       4.284287476830493
+_cell_length_b       7.370614802336047
+_cell_length_c       7.415250301361084
+_cell_angle_alpha    109.73240449753183
+_cell_angle_beta     90.00608137302137
+_cell_angle_gamma    89.99625956115055
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5765190720558167  0.136862650513649  0.14831942319869995  1.0000
+  Tb  Tb2       1.0  0.07598142325878143  0.6012529730796814  0.13689444959163666  1.0000
+  Tb  Tb3       1.0  0.5762611031532288  0.5841290354728699  0.5777617692947388  1.0000
+  As  As1       1.0  0.07660291343927383  0.36075079441070557  0.3630477786064148  1.0000
+  Br  Br1       1.0  0.07635673880577087  0.8604638576507567  0.863132894039154  1.0000
+  Tb  Tb4       1.0  0.07606247067451477  0.11956631392240524  0.5894065499305725  1.0000
+  Br  Br2       1.0  0.5762096643447876  0.36052754521369934  0.863513708114624  1.0000
+  Sn  Sn1       1.0  0.5762189030647278  0.8603465557098389  0.3632315397262573  1.0000

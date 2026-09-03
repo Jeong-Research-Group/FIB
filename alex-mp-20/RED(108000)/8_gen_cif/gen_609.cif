@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2N2PrN2Ca
+_chemical_formula_sum              "Ce2 N4 Pr1 Ca1"
+_cell_length_a       5.066473253905294
+_cell_length_b       5.034156673911295
+_cell_length_c       5.063673496246338
+_cell_angle_alpha    90.17587305340707
+_cell_angle_beta     90.23121806259162
+_cell_angle_gamma    90.08074216487245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7093630433082581  0.2982850968837738  0.0976637452840805  1.0000
+  Ce  Ce2       1.0  0.20959673821926117  0.298635870218277  0.5984969735145569  1.0000
+  N   N1        1.0  0.7097225785255432  0.2982226610183716  0.5982266068458557  1.0000
+  N   N2        1.0  0.20989757776260376  0.298838347196579  0.09866540133953094  1.0000
+  Pr  Pr1       1.0  0.7100285887718201  0.7986075282096863  0.5977067351341248  1.0000
+  N   N3        1.0  0.21021683514118195  0.7989041209220885  0.5987380743026733  1.0000
+  N   N4        1.0  0.7097614407539368  0.7977042198181152  0.09823593497276306  1.0000
+  Ca  Ca1       1.0  0.20979094505310059  0.7987671494483947  0.09849265962839127  1.0000

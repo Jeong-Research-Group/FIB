@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Hf2NbPtN
+_chemical_formula_sum              "Hf2 Nb1 Pt1 N1"
+_cell_length_a       4.192056490919725
+_cell_length_b       4.400667955237942
+_cell_length_c       4.401548461550584
+_cell_angle_alpha    89.99528430747763
+_cell_angle_beta     90.00368024407128
+_cell_angle_gamma    89.99329092706047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.4851910986393721  0.3411684785807819  0.2136370713690639  1.0000
+  Hf  Hf2       1.0  0.4854163696784376  0.8413249380543861  0.713483365640031  1.0000
+  Nb  Nb1       1.0  0.985110901060111  0.34129854058342113  0.7137652819515707  1.0000
+  Pt  Pt1       1.0  0.9855069742602429  0.8412222484052262  0.21412485556954078  1.0000
+  N   N1        1.0  0.4852809983978413  0.3414498159815421  0.7133993281913519  1.0000

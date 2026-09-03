@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sb3PIr2
+_chemical_formula_sum              "Sb3 P1 Ir2"
+_cell_length_a       4.440230949127099
+_cell_length_b       4.44102775277865
+_cell_length_c       7.921956429779929
+_cell_angle_alpha    73.70103032673765
+_cell_angle_beta     73.71440268723995
+_cell_angle_gamma    60.01672181552846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.3375211862066072  0.7217756473087426  0.3397885954391289  1.0000
+  Sb  Sb2       1.0  0.582332169354516  0.9663472373124914  0.605309788160948  1.0000
+  Sb  Sb3       1.0  0.8274653742218798  0.21131698446853198  0.8700943391589869  1.0000
+  P   P1        1.0  0.08175413681597092  0.46594316714402023  0.10722285746259247  1.0000
+  Ir  Ir1       1.0  0.9639310475257724  0.348064635837876  0.46050086185123756  1.0000
+  Ir  Ir2       1.0  0.4545159791764377  0.8381085734358129  0.9890498990212774  1.0000

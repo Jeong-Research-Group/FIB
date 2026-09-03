@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiLa2NiOsSi
+_chemical_formula_sum              "Si2 La2 Ni1 Os1"
+_cell_length_a       4.08324247072874
+_cell_length_b       4.084249714211786
+_cell_length_c       7.472232341766357
+_cell_angle_alpha    90.05147481513845
+_cell_angle_beta     90.04025964041169
+_cell_angle_gamma    89.97438246502449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6610680222511292  0.723975419998169  0.61723393201828  1.0000
+  La  La1       1.0  0.6611469388008118  0.7243258357048035  0.1078299731016159  1.0000
+  La  La2       1.0  0.16102412343025208  0.22380861639976501  0.469847172498703  1.0000
+  Ni  Ni1       1.0  0.16068845987319946  0.7241497039794922  0.7879630327224731  1.0000
+  Os  Os1       1.0  0.6604045629501343  0.22428566217422485  0.78868168592453  1.0000
+  Si  Si2       1.0  0.16094687581062317  0.22422312200069427  0.9605797529220581  1.0000

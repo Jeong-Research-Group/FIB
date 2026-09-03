@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2CdPbSe2
+_chemical_formula_sum              "Ho2 Cd1 Pb1 Se2"
+_cell_length_a       4.023241090832809
+_cell_length_b       4.022972111801623
+_cell_length_c       12.205531882323433
+_cell_angle_alpha    80.5029367954813
+_cell_angle_beta     80.50620185235987
+_cell_angle_gamma    60.000825300379546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9625932988665299  0.3468054214790234  0.9664471831104005  1.0000
+  Ho  Ho2       1.0  0.20095637217778323  0.5853626018849302  0.25072618460074747  1.0000
+  Cd  Cd1       1.0  0.7475243478464052  0.1313814809257947  0.6115402582760219  1.0000
+  Pb  Pb1       1.0  0.35852395127357706  0.7427799302113687  0.7781274857796724  1.0000
+  Se  Se1       1.0  0.5830748997916234  0.9673824874579731  0.10471042592537166  1.0000
+  Se  Se2       1.0  0.823531274612443  0.20791955250032348  0.38266308002150135  1.0000

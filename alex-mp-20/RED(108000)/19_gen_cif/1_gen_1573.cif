@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sc2In2Hg2
+_chemical_formula_sum              "Sc2 In2 Hg2"
+_cell_length_a       4.990281789560894
+_cell_length_b       4.991825421872848
+_cell_length_c       6.277440499913707
+_cell_angle_alpha    89.99851215967233
+_cell_angle_beta     89.99347869093444
+_cell_angle_gamma    119.97894111797446
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.10051087104433287  0.6281428918322011  0.7916603607938884  1.0000
+  Sc  Sc2       1.0  0.43366749127201476  0.29424434139131533  0.2911102490728988  1.0000
+  In  In1       1.0  0.7670359092533355  0.9613548782078174  0.5416817031547675  1.0000
+  In  In2       1.0  0.7670435015979512  0.9616506159032462  0.04138924338097281  1.0000
+  Hg  Hg1       1.0  0.10043582901301258  0.628482032676125  0.2913298425502383  1.0000
+  Hg  Hg2       1.0  0.43376199232690993  0.2944621332650582  0.7916565207818291  1.0000

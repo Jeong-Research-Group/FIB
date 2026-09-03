@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Ag2Sn2
+_chemical_formula_sum              "Mg2 Ag2 Sn2"
+_cell_length_a       4.925458865890013
+_cell_length_b       4.92866980166559
+_cell_length_c       6.236975486844861
+_cell_angle_alpha    90.00135503862403
+_cell_angle_beta     89.9989303958819
+_cell_angle_gamma    120.0233708574788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9991847589776832  0.6114805495811871  0.5135374792309536  1.0000
+  Mg  Mg2       1.0  0.9991307807641617  0.6115110123916113  0.013610008642370521  1.0000
+  Ag  Ag1       1.0  0.3322000851453363  0.2779843013854732  0.2637685446415832  1.0000
+  Ag  Ag2       1.0  0.6656082045219872  0.944211919829111  0.7636337832594906  1.0000
+  Sn  Sn1       1.0  0.6652075402040188  0.94446524757666  0.26360871410809994  1.0000
+  Sn  Sn2       1.0  0.33262152907050235  0.2776065137267648  0.7637170632051853  1.0000

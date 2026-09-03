@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaEr2ScN
+_chemical_formula_sum              "La1 Er2 Sc1 N1"
+_cell_length_a       5.119565866690143
+_cell_length_b       5.120885085266331
+_cell_length_c       4.417399257763417
+_cell_angle_alpha    90.01699212202718
+_cell_angle_beta     90.00863685157127
+_cell_angle_gamma    90.01490695522632
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5266923422001684  0.5119381656425313  0.3355576065851446  1.0000
+  Er  Er1       1.0  0.5271607853426422  0.011994341174132821  0.8357693694846623  1.0000
+  Er  Er2       1.0  0.026953926441813134  0.5119909238534117  0.8354197410823232  1.0000
+  Sc  Sc1       1.0  0.026976557790067853  0.012046464283179294  0.33577117827037334  1.0000
+  N   N1        1.0  0.026138454942283958  0.01204205814707111  0.8355955940102346  1.0000

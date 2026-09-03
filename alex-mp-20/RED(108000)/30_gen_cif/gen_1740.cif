@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HSHBrAg
+_chemical_formula_sum              "H2 S1 Br1 Ag1"
+_cell_length_a       4.582190216826872
+_cell_length_b       4.616285705847913
+_cell_length_c       5.282966136932373
+_cell_angle_alpha    82.01104451379521
+_cell_angle_beta     97.50179730127586
+_cell_angle_gamma    104.14898481133557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8899292349815369  0.6272833943367004  0.04647701978683471  1.0000
+  S   S1        1.0  0.10800563544034958  0.7786772847175598  0.8757339715957642  1.0000
+  H   H2        1.0  0.2514129877090454  0.9921287894248962  0.042065430432558046  1.0000
+  Br  Br1       1.0  0.5336523056030273  0.34309738874435425  0.32859182357788086  1.0000
+  Ag  Ag1       1.0  0.8284314274787903  0.05654093623161316  0.6202975511550903  1.0000

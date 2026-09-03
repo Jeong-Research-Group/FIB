@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Er2Hg2
+_chemical_formula_sum              "Li2 Er2 Hg2"
+_cell_length_a       5.1404236267911045
+_cell_length_b       5.142509859984263
+_cell_length_c       6.122068269581128
+_cell_angle_alpha    89.96438727124915
+_cell_angle_beta     90.03036954881776
+_cell_angle_gamma    119.83825174478979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7796174794165539  0.11775123165841032  0.21584634564564106  1.0000
+  Li  Li2       1.0  0.7798817472139861  0.11797080689896149  0.7147886592954262  1.0000
+  Er  Er1       1.0  0.4458366131836257  0.45207984849477867  0.9867600478193442  1.0000
+  Er  Er2       1.0  0.11349298741153756  0.7835499453744504  0.44370283480749556  1.0000
+  Hg  Hg1       1.0  0.44718917262031305  0.4495564183158913  0.4862461012180132  1.0000
+  Hg  Hg2       1.0  0.11202829534626549  0.7860166342950753  0.9447143595715989  1.0000

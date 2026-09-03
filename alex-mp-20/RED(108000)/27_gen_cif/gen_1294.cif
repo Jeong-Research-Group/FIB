@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaClBaSbClTe
+_chemical_formula_sum              "Ba2 Cl2 Sb1 Te1"
+_cell_length_a       4.508436728226472
+_cell_length_b       6.891916873711771
+_cell_length_c       7.974514007568359
+_cell_angle_alpha    75.7061592279057
+_cell_angle_beta     89.79067086519188
+_cell_angle_gamma    70.91194515523455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.2886383533477783  0.9474931955337524  0.43327453732490545  1.0000
+  Cl  Cl1       1.0  0.6188731789588928  0.28612425923347473  0.33885884284973145  1.0000
+  Ba  Ba2       1.0  0.5435170531272888  0.43519794940948486  0.9301114082336426  1.0000
+  Sb  Sb1       1.0  0.2575819790363312  0.005577450618147849  0.9221417903900145  1.0000
+  Cl  Cl2       1.0  0.9467048645019531  0.6280900239944458  0.6463581323623657  1.0000
+  Te  Te1       1.0  0.8764509558677673  0.7746723294258118  0.12713882327079776  1.0000

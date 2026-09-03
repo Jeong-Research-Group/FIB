@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2B2Ir2
+_chemical_formula_sum              "Ba2 B2 Ir2"
+_cell_length_a       3.9499269985314567
+_cell_length_b       3.9494431457600543
+_cell_length_c       10.072267649507003
+_cell_angle_alpha    89.95440073634886
+_cell_angle_beta     89.94116965473265
+_cell_angle_gamma    89.98605400880346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.849724113517857  0.5907248250069821  0.5070098163143083  1.0000
+  Ba  Ba2       1.0  0.350539790994612  0.09111727272613437  0.9636984400434049  1.0000
+  B   B1        1.0  0.8503113379191932  0.5908753156692482  0.15041931602301425  1.0000
+  B   B2        1.0  0.3500227636334816  0.09078142408763652  0.32018337340771474  1.0000
+  Ir  Ir1       1.0  0.850169476772464  0.09087481930475837  0.2351646975963198  1.0000
+  Ir  Ir2       1.0  0.35022788226665147  0.5908256259871614  0.23516383661690765  1.0000

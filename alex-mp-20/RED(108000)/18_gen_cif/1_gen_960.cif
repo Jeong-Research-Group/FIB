@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Dy2InRu3
+_chemical_formula_sum              "Dy2 In1 Ru3"
+_cell_length_a       4.730007287224536
+_cell_length_b       4.729895775269423
+_cell_length_c       5.79896969098468
+_cell_angle_alpha    90.00287992298594
+_cell_angle_beta     89.99541772635372
+_cell_angle_gamma    119.99748176910705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.3044304461251662  0.03583439352371856  0.5366647349055811  1.0000
+  Dy  Dy2       1.0  0.9710389532357744  0.36923880253969044  0.8843346959716606  1.0000
+  In  In1       1.0  0.6378657734037328  0.702645199955313  0.21057620628823964  1.0000
+  Ru  Ru1       1.0  0.6377455631994217  0.7025208689637868  0.7106114065996153  1.0000
+  Ru  Ru2       1.0  0.3044380088352542  0.035946200076610736  0.04540475730880669  1.0000
+  Ru  Ru3       1.0  0.9710420199471026  0.369328586269861  0.3756998146715378  1.0000

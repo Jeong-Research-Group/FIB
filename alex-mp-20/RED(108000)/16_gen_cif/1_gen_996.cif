@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Co2Ru2
+_chemical_formula_sum              "Sm2 Co2 Ru2"
+_cell_length_a       4.047682422815483
+_cell_length_b       4.048141373295073
+_cell_length_c       8.3579517221372
+_cell_angle_alpha    89.99884388308682
+_cell_angle_beta     90.00161392411381
+_cell_angle_gamma    119.95978929341011
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7003312877356769  0.8016182124405034  0.12449763929210628  1.0000
+  Sm  Sm2       1.0  0.7002032170525063  0.8016082811294413  0.6244072753260149  1.0000
+  Co  Co1       1.0  0.03342420903902593  0.4686210000510459  0.8747282155785564  1.0000
+  Co  Co2       1.0  0.3674531696495492  0.13462985788470302  0.37414593834913606  1.0000
+  Ru  Ru1       1.0  0.033309839409434196  0.46878158964523603  0.37443044381310747  1.0000
+  Ru  Ru2       1.0  0.36656346750065866  0.13467382698047287  0.8748946179376522  1.0000

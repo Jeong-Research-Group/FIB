@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaSi2Pt4Pb
+_chemical_formula_sum              "Ba1 Si2 Pt4 Pb1"
+_cell_length_a       4.059920795756417
+_cell_length_b       4.059167133764858
+_cell_length_c       10.612086191166092
+_cell_angle_alpha    90.0055252709472
+_cell_angle_beta     89.9991208638407
+_cell_angle_gamma    90.00218476499971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.36714281493521217  0.6822006940470978  0.715396039244238  1.0000
+  Si  Si1       1.0  0.8669585876964321  0.18195604033602486  0.5335307202371663  1.0000
+  Si  Si2       1.0  0.8668174242423681  0.18233840453955852  0.897662157249668  1.0000
+  Pt  Pt1       1.0  0.8668036127805268  0.6819402311097625  0.41573497197213793  1.0000
+  Pt  Pt2       1.0  0.36678754516776396  0.18231944199410707  0.015293741427514112  1.0000
+  Pt  Pt3       1.0  0.8668432831540962  0.682373925881826  0.015263471127402208  1.0000
+  Pt  Pt4       1.0  0.3668859514762496  0.18199250562990238  0.41594257626389114  1.0000
+  Pb  Pb1       1.0  0.36699672912079884  0.6823717044938942  0.21562223231340932  1.0000

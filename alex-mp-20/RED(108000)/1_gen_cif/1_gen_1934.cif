@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlSiNi5Ir
+_chemical_formula_sum              "Al1 Si1 Ni5 Ir1"
+_cell_length_a       3.5763155371212068
+_cell_length_b       3.5752391763878597
+_cell_length_c       7.220446932783722
+_cell_angle_alpha    89.99936549471639
+_cell_angle_beta     89.99919955705371
+_cell_angle_gamma    89.99998745525576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8210131862252091  0.5741414365578885  0.9858061509562913  1.0000
+  Si  Si1       1.0  0.820751926272448  0.574167480250114  0.4854445614807981  1.0000
+  Ni  Ni1       1.0  0.3207903978928584  0.07436650751687457  0.4856188611981315  1.0000
+  Ni  Ni2       1.0  0.8206577068591256  0.0738534296242309  0.7182947287179996  1.0000
+  Ni  Ni3       1.0  0.3209262458088157  0.5742008941236659  0.25278102233185784  1.0000
+  Ni  Ni4       1.0  0.32068407903829904  0.5739810774067335  0.7183765786681295  1.0000
+  Ni  Ni5       1.0  0.8209891895433349  0.07396951206919226  0.2527354053941456  1.0000
+  Ir  Ir1       1.0  0.32096986618448586  0.07416939959999173  0.9854152374875296  1.0000

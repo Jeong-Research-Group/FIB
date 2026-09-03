@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pt2GeRhNd
+_chemical_formula_sum              "Pt2 Ge1 Rh1 Nd1"
+_cell_length_a       4.149442290100054
+_cell_length_b       4.153926769175945
+_cell_length_c       6.191674709320068
+_cell_angle_alpha    109.98045637210534
+_cell_angle_beta     109.7899675862858
+_cell_angle_gamma    90.23613618884336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.5523324012756348  0.09607942402362825  0.5196131467819214  1.0000
+  Pt  Pt2       1.0  0.052960824221372604  0.5958805680274963  0.5192784667015076  1.0000
+  Ge  Ge1       1.0  0.9244312644004822  0.967536211013794  0.2642608880996704  1.0000
+  Rh  Rh1       1.0  0.7094597816467285  0.7533865571022034  0.8346458077430725  1.0000
+  Nd  Nd1       1.0  0.2994610071182251  0.3426720201969147  0.013420467264950275  1.0000

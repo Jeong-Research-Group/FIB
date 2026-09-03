@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Lu4SiGe2Ir
+_chemical_formula_sum              "Lu4 Si1 Ge2 Ir1"
+_cell_length_a       4.084299297034168
+_cell_length_b       3.94653730770605
+_cell_length_c       10.444449495431819
+_cell_angle_alpha    89.99907453612106
+_cell_angle_beta     89.99982810809513
+_cell_angle_gamma    90.0000840645336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7174514660651207  0.8323052102194998  0.14682536641662425  1.0000
+  Lu  Lu2       1.0  0.2179858045506046  0.33242199155499447  0.37242473772320456  1.0000
+  Lu  Lu3       1.0  0.21754417445672627  0.8314817139765903  0.6609394313913203  1.0000
+  Lu  Lu4       1.0  0.7170889140016686  0.3317783889243672  0.8721575534989181  1.0000
+  Si  Si1       1.0  0.7181045815156788  0.8324173931083746  0.42710809884819545  1.0000
+  Ge  Ge1       1.0  0.717663010899276  0.3317231252507813  0.5879767440531244  1.0000
+  Ge  Ge2       1.0  0.2173986857976186  0.3323268824842266  0.09149046391751546  1.0000
+  Ir  Ir1       1.0  0.2168058859678679  0.8321128075430979  0.9284990576341731  1.0000
