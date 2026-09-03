@@ -1,3 +1,30 @@
-# FIB
-This dataset contains the DFT-relaxed CIF structures of the five final fluoride electrolyte candidates reported in this study.
-The structures are LiNi2F5, CSNaNi3F6, NiF2, KNi2F5, and NaNi2F5.
+# First-Principles Screening of Fluoride-Ion Battery Materials
+
+This repository contains crystal structures generated and screened for the discovery of candidate materials for fluoride-ion batteries (FIBs).
+
+## Screening Workflow
+
+![Screening workflow](figures/screening_workflow.pdf)
+
+Candidate structures were generated using MatterGen and subsequently screened through multiple stages based on composition, predicted electronic properties, chemical criteria, oxidation states, and DFT calculations.
+
+## Repository Structure
+
+```text
+.
+├── alex-mp-20/
+│   ├── RED/
+│   ├── ORANGE/
+│   ├── YELLOW/
+│   ├── GREEN/
+│   ├── BLUE/
+│   └── NAVY/
+│
+├── structures/
+│   └── final_candidate/
+│
+├── figures/
+│   └── screening_workflow.png
+│
+├── README.md
+└── LICENSE
