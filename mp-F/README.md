@@ -1,4 +1,4 @@
-Alex-MP-20 Screening Dataset
+MP-ㄹ Screening Dataset
 
 This directory contains candidate structures derived from the Alex-MP-20 dataset
 during the screening process for fluoride-ion battery (FIB) materials.
