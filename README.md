@@ -13,7 +13,7 @@ Candidate structures were generated using MatterGen and subsequently screened th
 ```text
 .
 ├── alex-mp-20/
-│   ├── README.txt 
+│   ├── README.txt
 │   ├── RED/
 │   ├── ORANGE/
 │   ├── YELLOW/
@@ -29,6 +29,7 @@ Candidate structures were generated using MatterGen and subsequently screened th
 │
 ├── README.md
 └── LICENSE
+```
 
 ## Methods and Software
 
@@ -49,7 +50,7 @@ The screening workflow employs the following datasets and computational tools:
 - **VASP (Vienna Ab initio Simulation Package)**  
   Used for density functional theory (DFT) calculations and validation of the screened candidate structures.
 
-Detailed information on each screening stage and the corresponding intermediate structures is provided in [`alex-mp-20/README.md`](alex-mp-20/README.md).
+Detailed information on each screening stage and the corresponding intermediate structures is provided in [`alex-mp-20/README.txt`](alex-mp-20/README.txt).
 
 ---
 
@@ -86,7 +87,3 @@ Detailed information on each screening stage and the corresponding intermediate 
 ## License
 
 See the [`LICENSE`](LICENSE) file for information regarding the use and distribution of the data and code contained in this repository.
-
-License
-
-See the LICENSE file for information regarding the use and distribution of the data and code contained in this repository.
