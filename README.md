@@ -50,7 +50,7 @@ The screening workflow employs the following datasets and computational tools:
 - **VASP (Vienna Ab initio Simulation Package)**  
   Used for density functional theory (DFT) calculations and validation of the screened candidate structures.
 
-Detailed information on each screening stage and the corresponding intermediate structures is provided in [`alex-mp-20/README.txt`](alex-mp-20/README.txt).
+Detailed information on each screening stage and the corresponding intermediate structures is provided in [`alex-mp-20/README.txt`](alex-mp-20/README.txt) and [`mp-F/README.txt`](mp-F/README.txt).
 
 ---
 
