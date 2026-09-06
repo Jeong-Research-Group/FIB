@@ -1,6 +1,6 @@
 MP-F Screening Dataset
 
-This directory contains candidate structures derived from the Alex-MP-20 dataset
+This directory contains candidate structures derived from the MP-F dataset
 during the screening process for fluoride-ion battery (FIB) materials.
 
 The subdirectories correspond to different stages of the screening workflow.
@@ -9,7 +9,7 @@ The color labels are consistent with those used in the screening workflow figure
 Directory Description
 
 RED
-Initial fluoride-containing structures selected from the Alex-MP-20 dataset.
+Initial fluoride-containing structures selected from the MP-F dataset.
 
 ORANGE
 Structures selected after thermodynamic stability screening using MatterSim.
@@ -49,7 +49,7 @@ Computational Tools
 
 The screening workflow employs the following computational tools and datasets:
 
-* Alex-MP-20
+* MP-F
     Source dataset for the initial materials screening.
 * MatterSim
     Used for machine-learning-based structural and thermodynamic stability
@@ -73,7 +73,7 @@ separately in the ../structures/ directory.
 
 References
 
-[1] Alex-MP-20 / MatterGen
+[1] MP-20 / MatterGen
 
 C. Zeni, R. Pinsler, D. Zügner, A. Fowler, M. Horton, X. Fu, Z. Wang,
 A. Shysheya, J. Crabbé, S. Ueda, R. Sordillo, L. Sun, J. Smith,
