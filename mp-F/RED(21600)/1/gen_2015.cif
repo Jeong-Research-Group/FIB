@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrF2BiF2
+_chemical_formula_sum              "Sr1 F4 Bi1"
+_cell_length_a       4.145165366688704
+_cell_length_b       4.140347925325547
+_cell_length_c       5.935768127441406
+_cell_angle_alpha    89.44528867757614
+_cell_angle_beta     89.35674890887326
+_cell_angle_gamma    89.48358559358688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.35619479417800903  0.10161232203245162  0.9797398447990417  1.0000
+  F   F1        1.0  0.8564776182174683  0.10100767761468887  0.2375834882259369  1.0000
+  F   F2        1.0  0.35631459951400757  0.6005462408065796  0.24178309738636017  1.0000
+  Bi  Bi1       1.0  0.8558406233787537  0.6011938452720642  0.47990378737449646  1.0000
+  F   F3        1.0  0.3573494553565979  0.6017313599586487  0.7225063443183899  1.0000
+  F   F4        1.0  0.8574234247207642  0.10194666683673857  0.7181848883628845  1.0000

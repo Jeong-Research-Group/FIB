@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2BiF2FeF2
+_chemical_formula_sum              "F6 Bi1 Fe1"
+_cell_length_a       3.880141779183066
+_cell_length_b       4.04400721242522
+_cell_length_c       6.877619743347168
+_cell_angle_alpha    89.82008166465279
+_cell_angle_beta     90.18968368325622
+_cell_angle_gamma    90.02271971345115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.518388569355011  0.7318969964981079  0.39671099185943604  1.0000
+  F   F2        1.0  0.021032817661762238  0.7334846258163452  0.7095881700515747  1.0000
+  Bi  Bi1       1.0  0.019681833684444427  0.7342129945755005  0.20944015681743622  1.0000
+  F   F3        1.0  0.016339801251888275  0.2332017719745636  0.41621994972229004  1.0000
+  F   F4        1.0  0.02441771700978279  0.23456241190433502  0.002895063953474164  1.0000
+  Fe  Fe1       1.0  0.02069263532757759  0.2336258143186569  0.7097997069358826  1.0000
+  F   F5        1.0  0.5202792286872864  0.2344616800546646  0.7090947031974792  1.0000
+  F   F6        1.0  0.5226413011550903  0.7365934252738952  0.024242527782917023  1.0000

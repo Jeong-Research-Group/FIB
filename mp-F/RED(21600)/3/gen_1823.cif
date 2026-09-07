@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgCuF3
+_chemical_formula_sum              "Mg1 Cu1 F3"
+_cell_length_a       3.9646850432706775
+_cell_length_b       3.96881035793034
+_cell_length_c       3.960947036743164
+_cell_angle_alpha    90.34235207624806
+_cell_angle_beta     90.3466414285476
+_cell_angle_gamma    90.00334246660951
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5192120671272278  0.9250358939170837  0.4595122635364533  1.0000
+  Cu  Cu1       1.0  0.019284920766949654  0.4251164197921753  0.9597306847572328  1.0000
+  F   F1        1.0  0.5190780162811279  0.4247094988822937  0.4592914283275605  1.0000
+  F   F2        1.0  0.019154805690050125  0.9246736764907837  0.45919388532638555  1.0000
+  F   F3        1.0  0.5191125869750977  0.9247206449508667  0.9590166211128236  1.0000

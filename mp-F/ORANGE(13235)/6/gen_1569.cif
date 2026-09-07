@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2S2F2
+_chemical_formula_sum              "La2 S2 F2"
+_cell_length_a       4.007282699397309
+_cell_length_b       4.000925641055995
+_cell_length_c       6.907654285430908
+_cell_angle_alpha    90.09365805462932
+_cell_angle_beta     90.02692028000297
+_cell_angle_gamma    90.03725435610528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6512413620948792  0.503226101398468  0.3547738790512085  1.0000
+  La  La2       1.0  0.15194208920001984  0.0034543275833129883  0.815136194229126  1.0000
+  S   S1        1.0  0.6518356204032898  0.5036005973815918  0.9338594079017639  1.0000
+  S   S2        1.0  0.15159854292869568  0.004365208093076944  0.23572324216365814  1.0000
+  F   F1        1.0  0.15145890414714813  0.5029872059822083  0.5851020216941833  1.0000
+  F   F2        1.0  0.6514707803726196  0.003778219223022461  0.5843462347984314  1.0000

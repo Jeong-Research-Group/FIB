@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       As2CaFeCaF2Ca
+_chemical_formula_sum              "As2 Ca3 Fe1 F2"
+_cell_length_a       3.9925553915039678
+_cell_length_b       3.963438109149948
+_cell_length_c       9.16100025177002
+_cell_angle_alpha    90.0826956037577
+_cell_angle_beta     90.44806290335062
+_cell_angle_gamma    90.27691887272678
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.17084050178527832  0.09307548403739928  0.011335192248225212  1.0000
+  As  As2       1.0  0.6717724800109863  0.5928095579147339  0.6280947327613831  1.0000
+  Ca  Ca1       1.0  0.6724666953086853  0.09161771088838577  0.8187304735183716  1.0000
+  Fe  Fe1       1.0  0.17152142524719238  0.5919209718704224  0.8199336528778076  1.0000
+  Ca  Ca2       1.0  0.669601559638977  0.5924144983291626  0.18035107851028442  1.0000
+  F   F1        1.0  0.6699008941650391  0.09259565919637679  0.31910261511802673  1.0000
+  F   F2        1.0  0.16879810392856598  0.5929475426673889  0.3196161389350891  1.0000
+  Ca  Ca3       1.0  0.16968323290348053  0.09247010201215743  0.4578985869884491  1.0000

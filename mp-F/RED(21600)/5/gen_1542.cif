@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OFeO2NbF
+_chemical_formula_sum              "O3 Fe1 Nb1 F1"
+_cell_length_a       3.1463549464038456
+_cell_length_b       4.7485294379594905
+_cell_length_c       4.787952899932861
+_cell_angle_alpha    87.26493530479402
+_cell_angle_beta     90.02378522406215
+_cell_angle_gamma    89.97031166980598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.17365410923957825  0.13469387590885162  0.545968770980835  1.0000
+  Fe  Fe1       1.0  0.1747363805770874  0.8144780993461609  0.8284292221069335  1.0000
+  O   O2        1.0  0.17356012761592865  0.5322300791740417  0.15071247518062592  1.0000
+  O   O3        1.0  0.6735943555831909  0.6377518773078918  0.6524149775505066  1.0000
+  Nb  Nb1       1.0  0.6730487942695618  0.35345780849456787  0.36779260635375977  1.0000
+  F   F1        1.0  0.673501193523407  0.02946591190993786  0.04374442249536514  1.0000

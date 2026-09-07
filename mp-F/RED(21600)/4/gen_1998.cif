@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuPbO2FPbF
+_chemical_formula_sum              "Cu1 Pb2 O2 F2"
+_cell_length_a       3.936155175412125
+_cell_length_b       3.9256731823158826
+_cell_length_c       7.415611267089844
+_cell_angle_alpha    74.6330189952843
+_cell_angle_beta     105.66194574407592
+_cell_angle_gamma    90.0952357728958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8279147148132324  0.17994970083236694  0.6786583662033082  1.0000
+  Pb  Pb1       1.0  0.19877977669239044  0.8079372048377991  0.4245241284370423  1.0000
+  O   O1        1.0  0.3280796706676483  0.18039786815643308  0.6785321235656739  1.0000
+  O   O2        1.0  0.8277091979980469  0.6802631616592407  0.6783285140991212  1.0000
+  F   F1        1.0  0.6506067514419556  0.356288343667984  0.3254664838314057  1.0000
+  Pb  Pb2       1.0  0.45447373390197754  0.5529428720474243  0.9314434528350831  1.0000
+  F   F2        1.0  0.0005518198013305664  0.006200489588081837  0.029550464823842052  1.0000

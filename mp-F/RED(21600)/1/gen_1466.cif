@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuFGaF4Cu
+_chemical_formula_sum              "Cu2 F5 Ga1"
+_cell_length_a       3.070356034237626
+_cell_length_b       4.848414587435273
+_cell_length_c       7.872343063354492
+_cell_angle_alpha    65.47167086110984
+_cell_angle_beta     78.44170409107663
+_cell_angle_gamma    90.00376578753577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8388943672180176  0.842047393321991  0.0818156301975251  1.0000
+  F   F1        1.0  0.2674463987350464  0.5798801779747009  0.22497640550136572  1.0000
+  Ga  Ga1       1.0  0.5022789239883423  0.539564847946167  0.7566301822662355  1.0000
+  F   F2        1.0  0.6234678030014038  0.9397699832916259  0.5152108669281006  1.0000
+  F   F3        1.0  0.05980275198817253  0.39788416028022766  0.6432733535766602  1.0000
+  F   F4        1.0  0.3908315896987915  0.13650371134281158  0.978837013244629  1.0000
+  F   F5        1.0  0.9502931237220764  0.6838533282279968  0.8602629303932191  1.0000
+  Cu  Cu2       1.0  0.1509861052036285  0.2159009128808975  0.456901103258133  1.0000

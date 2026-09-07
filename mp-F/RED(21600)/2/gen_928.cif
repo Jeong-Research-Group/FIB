@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       FK
+_chemical_formula_sum              "F1 K1"
+_cell_length_a       3.4064721985724056
+_cell_length_b       3.3836973808402457
+_cell_length_c       3.3776566982269287
+_cell_angle_alpha    89.35997274654126
+_cell_angle_beta     89.19420410372669
+_cell_angle_gamma    89.37311407431336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.1211729645729065  0.9325544834136964  0.5863510370254518  1.0000
+  K   K1        1.0  0.6180440783500671  0.4347172379493714  0.0854518711566925  1.0000

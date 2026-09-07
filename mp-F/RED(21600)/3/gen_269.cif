@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OBiOBiF2
+_chemical_formula_sum              "O2 Bi2 F2"
+_cell_length_a       3.998983331491902
+_cell_length_b       3.9920004785674488
+_cell_length_c       5.808789253234863
+_cell_angle_alpha    90.04235650911524
+_cell_angle_beta     89.73471796897758
+_cell_angle_gamma    89.9210796603651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2487512677907944  0.3631615936756134  0.19280824065208435  1.0000
+  Bi  Bi1       1.0  0.7507190704345704  0.3634084463119507  0.9752839803695679  1.0000
+  O   O2        1.0  0.7507141828536988  0.8634931445121765  0.1918366402387619  1.0000
+  Bi  Bi2       1.0  0.24971964955329898  0.8635226488113403  0.4098604619503021  1.0000
+  F   F1        1.0  0.24934194982051852  0.36283013224601746  0.6918025016784668  1.0000
+  F   F2        1.0  0.7500328421592714  0.8626201152801514  0.6926539540290833  1.0000

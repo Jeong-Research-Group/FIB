@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2CaFSn
+_chemical_formula_sum              "F3 Ca1 Sn1"
+_cell_length_a       4.456302983763881
+_cell_length_b       4.459651755395952
+_cell_length_c       4.497795581817627
+_cell_angle_alpha    92.35209431720382
+_cell_angle_beta     86.86000055162293
+_cell_angle_gamma    87.13629555277852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.632707953453064  0.08924096822738647  0.09836781769990921  1.0000
+  F   F2        1.0  0.20458196103572845  0.6584855318069458  0.09960297495126724  1.0000
+  Ca  Ca1       1.0  0.720660924911499  0.57285076379776  0.005284638144075877  1.0000
+  F   F3        1.0  0.633375346660614  0.6642648577690125  0.5250419974327087  1.0000
+  Sn  Sn1       1.0  0.26444119215011597  0.028028106316924095  0.4578445255756378  1.0000

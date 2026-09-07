@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KCoF3
+_chemical_formula_sum              "K1 Co1 F3"
+_cell_length_a       4.1230259173372765
+_cell_length_b       4.127556141662832
+_cell_length_c       4.127083778381348
+_cell_angle_alpha    90.03502771625469
+_cell_angle_beta     90.00607454261811
+_cell_angle_gamma    89.97223778648755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7769681811332703  3.7670135498046875e-05  0.32874372601509094  1.0000
+  Co  Co1       1.0  0.2763446867465973  0.5003358125686646  0.8293720483779907  1.0000
+  F   F1        1.0  0.27662569284439087  0.5001688599586487  0.3294467628002167  1.0000
+  F   F2        1.0  0.7767878174781799  0.5001338124275208  0.8289739489555359  1.0000
+  F   F3        1.0  0.2767169177532196  4.9114227294921875e-05  0.8292157649993896  1.0000

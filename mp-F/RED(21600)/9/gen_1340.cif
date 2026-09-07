@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ONbF2O
+_chemical_formula_sum              "O2 Nb1 F2"
+_cell_length_a       3.986142468358068
+_cell_length_b       4.221691205026574
+_cell_length_c       3.988211154937744
+_cell_angle_alpha    89.9893132588477
+_cell_angle_beta     90.15766376873
+_cell_angle_gamma    90.08037333689421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9187930822372437  0.7357845902442932  0.778127908706665  1.0000
+  Nb  Nb1       1.0  0.9183181524276733  0.7335330247879028  0.2802049219608307  1.0000
+  F   F1        1.0  0.41839170455932617  0.2350287288427353  0.7784216403961182  1.0000
+  F   F2        1.0  0.9184186458587646  0.23375985026359558  0.27935370802879333  1.0000
+  O   O2        1.0  0.4181382656097412  0.732516348361969  0.2787579894065857  1.0000

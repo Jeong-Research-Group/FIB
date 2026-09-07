@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2BrF2Br
+_chemical_formula_sum              "Sr2 Br2 F2"
+_cell_length_a       4.208815966654135
+_cell_length_b       4.211044849364374
+_cell_length_c       7.421258926391602
+_cell_angle_alpha    90.03977469405837
+_cell_angle_beta     89.9287636273882
+_cell_angle_gamma    89.92712438382976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.15819427371025085  0.8136431574821472  0.3069373667240143  1.0000
+  Sr  Sr2       1.0  0.6587321162223816  0.3138277232646942  0.9395796656608582  1.0000
+  Br  Br1       1.0  0.6584488749504089  0.31375652551651  0.47653186321258545  1.0000
+  F   F1        1.0  0.15830262005329132  0.3127496838569641  0.12442266196012497  1.0000
+  F   F2        1.0  0.6578165888786316  0.813102662563324  0.12335357815027237  1.0000
+  Br  Br2       1.0  0.15838049352169037  0.8137210607528687  0.7718362212181091  1.0000

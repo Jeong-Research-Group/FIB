@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbFSnF2Br
+_chemical_formula_sum              "Pb1 F3 Sn1 Br1"
+_cell_length_a       4.111325194957773
+_cell_length_b       4.111660625935794
+_cell_length_c       7.615439414978027
+_cell_angle_alpha    89.92047860977213
+_cell_angle_beta     89.91788313503585
+_cell_angle_gamma    89.99783733446925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5335268378257751  0.5069614052772521  0.46946021914482117  1.0000
+  F   F1        1.0  0.03313454985618591  0.006260432302951813  0.6032270789146423  1.0000
+  Sn  Sn1       1.0  0.03471224382519722  0.006865426432341337  0.07381956279277802  1.0000
+  F   F2        1.0  0.03367938473820686  0.5062546133995056  0.2694067656993866  1.0000
+  F   F3        1.0  0.5338411331176758  0.006131832487881184  0.26926106214523315  1.0000
+  Br  Br1       1.0  0.5339261293411255  0.5067315101623535  0.9181690216064453  1.0000

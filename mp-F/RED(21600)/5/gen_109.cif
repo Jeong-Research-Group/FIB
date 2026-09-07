@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cl3BrTl
+_chemical_formula_sum              "Cl3 Br1 Tl1"
+_cell_length_a       5.0412486696158725
+_cell_length_b       5.035536343313829
+_cell_length_c       5.0506415367126465
+_cell_angle_alpha    89.86546144178017
+_cell_angle_beta     89.861855093889
+_cell_angle_gamma    89.78179846491406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.03643235564231872  0.9740459322929383  0.1534581333398819  1.0000
+  Cl  Cl2       1.0  0.5371390581130981  0.9744404554367065  0.65317702293396  1.0000
+  Cl  Cl3       1.0  0.5369049310684204  0.474323034286499  0.15340596437454224  1.0000
+  Br  Br1       1.0  0.5367732644081116  0.9750198125839235  0.15310053527355194  1.0000
+  Tl  Tl1       1.0  0.037324391305446625  0.4746051728725434  0.6529066562652588  1.0000

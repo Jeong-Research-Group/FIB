@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HgFCsF2
+_chemical_formula_sum              "Hg1 F3 Cs1"
+_cell_length_a       4.568226021669631
+_cell_length_b       4.5783443504383525
+_cell_length_c       4.577498912811279
+_cell_angle_alpha    90.00276873103991
+_cell_angle_beta     89.98478484208364
+_cell_angle_gamma    89.97725797312268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6240372061729431  0.8314161896705627  0.2507340610027313  1.0000
+  F   F1        1.0  0.12395133078098297  0.8313025832176208  0.24966338276863098  1.0000
+  Cs  Cs1       1.0  0.12410779297351837  0.3322848975658417  0.7502800226211548  1.0000
+  F   F2        1.0  0.6246476173400879  0.8329260349273682  0.7503214478492737  1.0000
+  F   F3        1.0  0.6243796944618225  0.3317681849002838  0.2493310570716858  1.0000

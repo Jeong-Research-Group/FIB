@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OClFeClFeF
+_chemical_formula_sum              "O1 Cl2 Fe2 F1"
+_cell_length_a       3.2981505172306425
+_cell_length_b       5.3987229579416915
+_cell_length_c       5.3975605964660645
+_cell_angle_alpha    78.02480259038774
+_cell_angle_beta     90.20885603598333
+_cell_angle_gamma    89.9687475594323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5448542237281799  0.9299673438072205  0.6790086627006531  1.0000
+  Cl  Cl1       1.0  0.045332230627536774  0.8207982182502747  0.1948728561401367  1.0000
+  Fe  Fe1       1.0  0.5450854301452637  0.6366312503814697  0.9708998799324035  1.0000
+  Cl  Cl2       1.0  0.0457458458840847  0.4142790734767914  0.787536859512329  1.0000
+  Fe  Fe2       1.0  0.04486092925071716  0.09321965277194977  0.5173322558403015  1.0000
+  F   F1        1.0  0.5449765920639038  0.31574663519859314  0.29558300971984863  1.0000

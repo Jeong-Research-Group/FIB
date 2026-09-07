@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiMnMgMnOFO2
+_chemical_formula_sum              "Li1 Mn2 Mg1 O3 F1"
+_cell_length_a       3.1553482776635478
+_cell_length_b       4.359291701728794
+_cell_length_c       6.365567684173584
+_cell_angle_alpha    89.78845788434701
+_cell_angle_beta     89.81646167403295
+_cell_angle_gamma    89.91517839155357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7026188373565674  0.672635555267334  0.7086362242698669  1.0000
+  Mn  Mn1       1.0  0.20389023423194885  0.1720699816942215  0.9192394614219666  1.0000
+  Mg  Mg1       1.0  0.2038491815328598  0.17185214161872864  0.45067098736763  1.0000
+  Mn  Mn2       1.0  0.7029528021812439  0.6730282306671143  0.1652015596628189  1.0000
+  O   O1        1.0  0.20316360890865326  0.6723558306694032  0.9334848523139954  1.0000
+  F   F1        1.0  0.2030031383037567  0.6719063520431519  0.44099313020706177  1.0000
+  O   O2        1.0  0.7068374156951904  0.17206245660781863  0.21442213654518127  1.0000
+  O   O3        1.0  0.7018073797225952  0.17143431305885315  0.667165994644165  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgF3AlF2
+_chemical_formula_sum              "Ag1 F5 Al1"
+_cell_length_a       3.683783049191159
+_cell_length_b       5.495230791917985
+_cell_length_c       5.505999565124512
+_cell_angle_alpha    93.78779991690898
+_cell_angle_beta     109.30221872846585
+_cell_angle_gamma    109.41697238121854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.49601811170578  0.5828562378883361  0.9802238941192627  1.0000
+  F   F1        1.0  0.7690895795822144  0.35554051399230957  0.7521510124206543  1.0000
+  F   F2        1.0  0.22298364341259005  0.8090600967407227  0.20756520330905914  1.0000
+  F   F3        1.0  0.49391365051269526  0.860056161880493  0.7003840804100037  1.0000
+  Al  Al1       1.0  0.4954241812229157  0.08241553604602814  0.47980061173439026  1.0000
+  F   F4        1.0  0.49559506773948664  0.3017628192901611  0.2595236599445343  1.0000
+  F   F5        1.0  0.9951760172843934  0.08161611109971999  0.4799706041812897  1.0000

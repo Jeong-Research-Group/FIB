@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AgF3Cu
+_chemical_formula_sum              "Ag1 F3 Cu1"
+_cell_length_a       3.988388050472431
+_cell_length_b       3.9968173962035123
+_cell_length_c       4.007288932800293
+_cell_angle_alpha    89.97839178518245
+_cell_angle_beta     89.9559068030253
+_cell_angle_gamma    89.81652314972638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.515015721321106  0.7472416758537292  0.5165899395942688  1.0000
+  F   F1        1.0  0.5153952836990356  0.2464267015457153  0.01679086871445179  1.0000
+  F   F2        1.0  0.015415875241160393  0.24696370959281919  0.5166189670562744  1.0000
+  F   F3        1.0  0.015338430181145668  0.7466089725494385  0.016556505113840103  1.0000
+  Cu  Cu1       1.0  0.015135766938328743  0.24653923511505124  0.01687762141227722  1.0000

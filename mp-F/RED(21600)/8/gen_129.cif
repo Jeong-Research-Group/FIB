@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2F2NiF2
+_chemical_formula_sum              "K2 F4 Ni1"
+_cell_length_a       4.001091080820215
+_cell_length_b       3.9983153251684045
+_cell_length_c       7.086208820343018
+_cell_angle_alpha    106.37019638275598
+_cell_angle_beta     106.34840651105087
+_cell_angle_gamma    90.00127308280898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.776213526725769  0.7867207527160645  0.13353221118450165  1.0000
+  K   K2        1.0  0.0663820132613182  0.07693208754062653  0.7122606039047241  1.0000
+  F   F1        1.0  0.5754703283309937  0.585089385509491  0.7312911748886108  1.0000
+  F   F2        1.0  0.42026659846305847  0.9313592314720154  0.4224339723587036  1.0000
+  Ni  Ni1       1.0  0.4202108383178711  0.43113049864768976  0.42274588346481323  1.0000
+  F   F3        1.0  0.2668333649635315  0.27637287974357605  0.11387354135513306  1.0000
+  F   F4        1.0  0.9206103086471559  0.4316941797733307  0.4231311082839966  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbF2PbBiSb
+_chemical_formula_sum              "Sb2 F2 Pb1 Bi1"
+_cell_length_a       4.210875248312917
+_cell_length_b       4.220972099089956
+_cell_length_c       7.904836177825928
+_cell_angle_alpha    90.25704301590443
+_cell_angle_beta     89.93635197255082
+_cell_angle_gamma    90.13400399647038
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6896133422851562  0.19341273605823517  0.7423086762428283  1.0000
+  F   F1        1.0  0.1862872838973999  0.19379296898841858  0.07317659258842468  1.0000
+  F   F2        1.0  0.6893564462661743  0.6944466829299927  0.07307207584381104  1.0000
+  Pb  Pb1       1.0  0.6865605115890503  0.19436535239219666  0.2584284543991089  1.0000
+  Bi  Bi1       1.0  0.18998214602470398  0.6922610998153687  0.873628795146942  1.0000
+  Sb  Sb2       1.0  0.1861204206943512  0.6932505965232848  0.44573774933814997  1.0000

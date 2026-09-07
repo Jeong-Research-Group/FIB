@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2MnFMnFO2
+_chemical_formula_sum              "Sr2 Mn2 F2 O2"
+_cell_length_a       4.819885821570169
+_cell_length_b       4.844031167139819
+_cell_length_c       6.295076370239258
+_cell_angle_alpha    112.91162486678265
+_cell_angle_beta     112.76455125133454
+_cell_angle_gamma    89.45251532742793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.4127825200557709  0.05840621516108513  0.4171704351902008  1.0000
+  Sr  Sr2       1.0  0.912047803401947  0.5553409457206726  0.415726900100708  1.0000
+  Mn  Mn1       1.0  0.6634344458580017  0.806187629699707  0.9169079065322876  1.0000
+  F   F1        1.0  0.4122624397277832  0.5559550523757935  0.41588032245635986  1.0000
+  Mn  Mn2       1.0  0.1632521152496338  0.30636459589004517  0.917470395565033  1.0000
+  F   F2        1.0  0.9128583073616028  0.05651047080755234  0.4166618883609772  1.0000
+  O   O1        1.0  0.16184118390083313  0.8075870275497437  0.9163656830787659  1.0000
+  O   O2        1.0  0.6625445485115051  0.3047436475753784  0.9165775775909424  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2MnInF
+_chemical_formula_sum              "F3 Mn1 In1"
+_cell_length_a       4.3295892930141715
+_cell_length_b       4.329361523021781
+_cell_length_c       4.326302528381348
+_cell_angle_alpha    89.90238544131306
+_cell_angle_beta     89.95464321668163
+_cell_angle_gamma    89.96331755973571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.5282122492790222  0.35312941670417786  0.7066017389297485  1.0000
+  F   F2        1.0  0.028697535395622253  0.8516881465911866  0.7092763185501099  1.0000
+  Mn  Mn1       1.0  0.027734631672501564  0.34993797540664673  0.7042048573493958  1.0000
+  In  In1       1.0  0.5283369421958923  0.8497413396835327  0.2026798576116562  1.0000
+  F   F3        1.0  0.02843208983540535  0.35360917448997503  0.20543065667152405  1.0000

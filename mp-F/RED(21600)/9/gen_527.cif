@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeF2TlF
+_chemical_formula_sum              "Fe1 F3 Tl1"
+_cell_length_a       4.2384362290914614
+_cell_length_b       4.243327692147919
+_cell_length_c       4.231393814086914
+_cell_angle_alpha    89.9601142016209
+_cell_angle_beta     89.99670352304733
+_cell_angle_gamma    89.96025763339505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6818463802337646  0.4752305746078492  0.3332376480102539  1.0000
+  F   F1        1.0  0.18074175715446472  0.47685870528221136  0.3327295184135437  1.0000
+  F   F2        1.0  0.6783745288848877  0.4780926704406739  0.8328209519386292  1.0000
+  Tl  Tl1       1.0  0.18445247411727905  0.9757587313652039  0.8327122926712036  1.0000
+  F   F3        1.0  0.6797560453414917  0.9770095348358154  0.33251890540122986  1.0000

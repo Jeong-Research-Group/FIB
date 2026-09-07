@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeOTiOF2
+_chemical_formula_sum              "Ce1 O2 Ti1 F2"
+_cell_length_a       3.8456516324908643
+_cell_length_b       3.8514913728563234
+_cell_length_c       5.429793357849121
+_cell_angle_alpha    90.1583194703448
+_cell_angle_beta     89.75124018998066
+_cell_angle_gamma    89.73783936306786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.20276115834712982  0.8141228556632996  0.9007117748260497  1.0000
+  O   O1        1.0  0.2038302719593048  0.31377360224723816  0.6453742980957031  1.0000
+  Ti  Ti1       1.0  0.7029556632041931  0.31378006935119634  0.3999543488025665  1.0000
+  O   O2        1.0  0.7029364109039307  0.8146571516990662  0.15516044199466705  1.0000
+  F   F1        1.0  0.2030181884765625  0.31443935632705694  0.16687513887882233  1.0000
+  F   F2        1.0  0.703571617603302  0.813537061214447  0.6325746774673462  1.0000

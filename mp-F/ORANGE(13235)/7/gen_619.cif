@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2MgRbF
+_chemical_formula_sum              "F3 Mg1 Rb1"
+_cell_length_a       4.092382030840218
+_cell_length_b       4.0979806735131055
+_cell_length_c       4.098816394805908
+_cell_angle_alpha    90.10104831454932
+_cell_angle_beta     90.06283340991155
+_cell_angle_gamma    90.07253227881442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.3881189823150635  0.09151765704154968  0.24045005440711975  1.0000
+  F   F2        1.0  0.8884449601173401  0.09146676957607269  0.739249050617218  1.0000
+  Mg  Mg1       1.0  0.8881704211235046  0.09112647920846938  0.23995231091976166  1.0000
+  Rb  Rb1       1.0  0.3882865011692047  0.5916191935539246  0.7402878403663635  1.0000
+  F   F3        1.0  0.8880500197410583  0.5903211832046509  0.24058546125888824  1.0000

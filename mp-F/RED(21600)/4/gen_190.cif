@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgFOBiF2
+_chemical_formula_sum              "Mg1 F3 O1 Bi1"
+_cell_length_a       3.4241662525272427
+_cell_length_b       5.067434583664778
+_cell_length_c       5.046971321105957
+_cell_angle_alpha    92.17122421742602
+_cell_angle_beta     90.0683180555694
+_cell_angle_gamma    89.93611291417126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.19097767770290375  0.33766570687294006  0.3474128246307373  1.0000
+  F   F1        1.0  0.6904226541519165  0.5219538211822511  0.18236710131168365  1.0000
+  O   O1        1.0  0.18974795937538147  0.057001516222953796  0.06800016760826111  1.0000
+  Bi  Bi1       1.0  0.6905497312545776  0.866019070148468  0.87578547000885  1.0000
+  F   F2        1.0  0.19016830623149872  0.6242354512214662  0.6345273852348328  1.0000
+  F   F3        1.0  0.6916177868843079  0.17345233261585238  0.5325435400009155  1.0000

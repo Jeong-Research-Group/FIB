@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SeFBiF2
+_chemical_formula_sum              "Se1 F3 Bi1"
+_cell_length_a       3.683759779145361
+_cell_length_b       4.5422843911708295
+_cell_length_c       7.399993419647217
+_cell_angle_alpha    89.95610487811412
+_cell_angle_beta     90.22237979962088
+_cell_angle_gamma    89.7230109991892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.011065459810197353  0.8946235775947571  0.28019654750823975  1.0000
+  F   F1        1.0  0.5115683078765869  0.3930894434452057  0.9740125536918641  1.0000
+  Bi  Bi1       1.0  0.010704993270337582  0.3913464844226837  0.7807800173759462  1.0000
+  F   F2        1.0  0.009523337706923485  0.8922941088676453  0.7802596092224122  1.0000
+  F   F3        1.0  0.5100254416465759  0.39330071210861206  0.5873474478721619  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2O2HTeOF
+_chemical_formula_sum              "H3 O3 Te1 F1"
+_cell_length_a       3.3415250638107037
+_cell_length_b       5.417680667328183
+_cell_length_c       6.024104595184326
+_cell_angle_alpha    104.83823341870537
+_cell_angle_beta     122.1014755531289
+_cell_angle_gamma    72.87393800334128
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.45400702953338623  0.9576226472854615  0.9662887454032898  1.0000
+  H   H2        1.0  0.40770986676216125  0.4131470918655396  0.14795462787151337  1.0000
+  O   O1        1.0  0.582984209060669  0.7719649076461792  0.9953230619430542  1.0000
+  O   O2        1.0  0.6951094269752502  0.564466655254364  0.5157585740089417  1.0000
+  H   H3        1.0  0.5916335582733154  0.7655213475227356  0.5103006958961487  1.0000
+  Te  Te1       1.0  0.4864819049835205  0.4553547501564026  0.7498012781143188  1.0000
+  O   O3        1.0  0.27232465147972107  0.31286293268203735  0.9613177180290222  1.0000
+  F   F1        1.0  0.42682310938835144  0.1083783358335495  0.5165554881095886  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2CaRbF
+_chemical_formula_sum              "F3 Ca1 Rb1"
+_cell_length_a       4.479341212193136
+_cell_length_b       4.479323227993137
+_cell_length_c       4.473876953125
+_cell_angle_alpha    89.93706913768288
+_cell_angle_beta     89.95919895470038
+_cell_angle_gamma    90.0651898275257
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6142250895500183  0.07183219492435455  0.19572444260120392  1.0000
+  F   F2        1.0  0.11282186210155487  0.5723509192466736  0.19385625422000885  1.0000
+  Ca  Ca1       1.0  0.6127200722694397  0.5721331834793092  0.19469840824604034  1.0000
+  Rb  Rb1       1.0  0.11252318322658539  0.07234863191843034  0.6944516897201538  1.0000
+  F   F3        1.0  0.6131887435913086  0.5703409314155579  0.6946123242378235  1.0000

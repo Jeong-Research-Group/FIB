@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeLiO3NbO
+_chemical_formula_sum              "Fe1 Li1 O4 Nb1"
+_cell_length_a       5.168102477805434
+_cell_length_b       3.1012714830807058
+_cell_length_c       5.326270580291748
+_cell_angle_alpha    89.93116785498025
+_cell_angle_beta     107.79288450127304
+_cell_angle_gamma    90.04782748766394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5782582759857178  0.28717395663261414  0.8486597537994385  1.0000
+  Li  Li1       1.0  0.07776113599538803  0.7866141200065614  0.8474323153495789  1.0000
+  O   O1        1.0  0.7866118550300598  0.7868732213974  0.07849829643964767  1.0000
+  O   O2        1.0  0.3716621696949005  0.785956621170044  0.6182749271392822  1.0000
+  O   O3        1.0  0.7998188734054565  0.2872466742992401  0.5875675082206726  1.0000
+  Nb  Nb1       1.0  0.5794265270233154  0.7860770821571351  0.3462875783443451  1.0000
+  O   O4        1.0  0.3573427200317383  0.28696539998054504  0.10902252793312074  1.0000

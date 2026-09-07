@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlF4TiF2
+_chemical_formula_sum              "Al1 F6 Ti1"
+_cell_length_a       5.328897170186611
+_cell_length_b       3.800340958099977
+_cell_length_c       5.339966773986816
+_cell_angle_alpha    89.96934178584942
+_cell_angle_beta     89.86212147408519
+_cell_angle_gamma    89.91824513841499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9973057508468628  0.5865588784217834  0.05697339400649071  1.0000
+  F   F1        1.0  0.9980531334877014  0.08733398467302322  0.05742515251040459  1.0000
+  F   F2        1.0  0.7567929625511169  0.5869362950325012  0.29682230949401855  1.0000
+  F   F3        1.0  0.49722161889076233  0.08756706118583678  0.5574914216995239  1.0000
+  F   F4        1.0  0.23726001381874084  0.5872923135757446  0.29686886072158813  1.0000
+  Ti  Ti1       1.0  0.4975757896900177  0.5874368548393248  0.5567357540130615  1.0000
+  F   F5        1.0  0.7570292353630066  0.5875093340873717  0.816914439201355  1.0000
+  F   F6        1.0  0.2381686568260193  0.5870118141174315  0.8167436122894287  1.0000

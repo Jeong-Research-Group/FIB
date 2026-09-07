@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlF4Rb
+_chemical_formula_sum              "Al1 F4 Rb1"
+_cell_length_a       3.623920838660715
+_cell_length_b       3.6295281122239285
+_cell_length_c       6.225521564483643
+_cell_angle_alpha    90.05603054346217
+_cell_angle_beta     90.01700284519433
+_cell_angle_gamma    90.17803822016516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7560035586357118  0.7797380089759827  0.43995568156242376  1.0000
+  F   F1        1.0  0.7556042671203614  0.7799914479255676  0.7214193940162659  1.0000
+  F   F2        1.0  0.2558547258377075  0.7798137068748474  0.4405203759670258  1.0000
+  F   F3        1.0  0.7552865743637086  0.2797386944293976  0.44002908468246466  1.0000
+  F   F4        1.0  0.7558088302612306  0.7795276045799255  0.16031165421009064  1.0000
+  Rb  Rb1       1.0  0.25533244013786316  0.2799683213233948  0.9396650791168214  1.0000

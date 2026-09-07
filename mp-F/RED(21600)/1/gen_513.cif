@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuF3Rb
+_chemical_formula_sum              "Cu1 F3 Rb1"
+_cell_length_a       4.160414430416941
+_cell_length_b       4.161643064170954
+_cell_length_c       4.15872859954834
+_cell_angle_alpha    89.88339068601478
+_cell_angle_beta     89.77140290314117
+_cell_angle_gamma    89.82412513619245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.550312876701355  0.7050694227218628  0.9381781816482543  1.0000
+  F   F1        1.0  0.05075700208544731  0.7051507830619812  0.9383257031440735  1.0000
+  F   F2        1.0  0.5502453446388245  0.20484572649002075  0.9381851553916931  1.0000
+  F   F3        1.0  0.5502588748931885  0.704996645450592  0.43766799569129944  1.0000
+  Rb  Rb1       1.0  0.05050767585635185  0.20479890704154968  0.4388790726661682  1.0000

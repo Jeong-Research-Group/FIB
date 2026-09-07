@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgF3Cs
+_chemical_formula_sum              "Mg1 F3 Cs1"
+_cell_length_a       4.276207982541151
+_cell_length_b       4.268374631497369
+_cell_length_c       4.283392906188965
+_cell_angle_alpha    89.88704482858455
+_cell_angle_beta     90.00948963699949
+_cell_angle_gamma    89.87269461495968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.891665518283844  0.046611078083515174  0.7740060687065125  1.0000
+  F   F1        1.0  0.8913576006889343  0.5465323328971863  0.7747602462768555  1.0000
+  F   F2        1.0  0.8913822174072266  0.046016693115234375  0.2743743658065796  1.0000
+  F   F3        1.0  0.3909616470336914  0.04628099128603935  0.7747325301170349  1.0000
+  Cs  Cs1       1.0  0.3915436267852783  0.5461915135383606  0.27382209897041315  1.0000

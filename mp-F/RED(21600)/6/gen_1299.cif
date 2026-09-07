@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FNi2O2F
+_chemical_formula_sum              "F2 Ni2 O2"
+_cell_length_a       4.094914833637555
+_cell_length_b       4.124164104467718
+_cell_length_c       3.8804569244384766
+_cell_angle_alpha    90.00009812712877
+_cell_angle_beta     89.81903664356314
+_cell_angle_gamma    89.99353431538331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6899698972702026  0.02789743058383465  0.03336178511381149  1.0000
+  Ni  Ni1       1.0  0.1897156685590744  0.5300385355949402  0.5326955318450928  1.0000
+  Ni  Ni2       1.0  0.6891723871231079  0.029311656951904297  0.5324090719223022  1.0000
+  O   O1        1.0  0.18845847249031067  0.029710788279771805  0.5313783288002014  1.0000
+  O   O2        1.0  0.6905299425125122  0.5301835536956787  0.5326712131500244  1.0000
+  F   F2        1.0  0.1876998394727707  0.5280676484107971  0.03188342973589897  1.0000

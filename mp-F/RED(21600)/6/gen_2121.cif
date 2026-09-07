@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaF2YbF2
+_chemical_formula_sum              "Na1 F4 Yb1"
+_cell_length_a       3.736059083187525
+_cell_length_b       3.741450691785387
+_cell_length_c       5.40005350112915
+_cell_angle_alpha    89.51960111124131
+_cell_angle_beta     89.51971041758695
+_cell_angle_gamma    89.86843258112576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7850664854049683  0.9704478383064269  0.13379031419754028  1.0000
+  F   F1        1.0  0.2839452028274536  0.9702996015548705  0.4041869044303894  1.0000
+  F   F2        1.0  0.28592437505722046  0.9702310562133788  0.8632607460021973  1.0000
+  Yb  Yb1       1.0  0.28500163555145264  0.47036477923393244  0.6332875490188599  1.0000
+  F   F3        1.0  0.7853162884712219  0.4693455696105957  0.4039854109287262  1.0000
+  F   F4        1.0  0.7851799726486206  0.4710880815982818  0.8632418513298035  1.0000

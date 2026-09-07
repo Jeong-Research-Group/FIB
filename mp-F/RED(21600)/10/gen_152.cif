@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbF2LiF2
+_chemical_formula_sum              "Nb1 F4 Li1"
+_cell_length_a       3.2503983833772496
+_cell_length_b       4.713780665311666
+_cell_length_c       4.69917106628418
+_cell_angle_alpha    90.77979838794776
+_cell_angle_beta     90.04356545043427
+_cell_angle_gamma    90.17313413611335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.5973722338676453  0.07343021780252457  0.6314858794212341  1.0000
+  F   F1        1.0  0.09741755574941635  0.8698729872703552  0.8354190587997437  1.0000
+  F   F2        1.0  0.09746971726417542  0.27654793858528137  0.42711105942726135  1.0000
+  Li  Li1       1.0  0.09712730348110199  0.5733332633972168  0.1313055455684662  1.0000
+  F   F3        1.0  0.5972468852996826  0.3752925992012024  0.9326315522193909  1.0000
+  F   F4        1.0  0.597131073474884  0.7723838090896606  0.331550657749176  1.0000

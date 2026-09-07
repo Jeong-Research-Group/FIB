@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OCeOCeOF
+_chemical_formula_sum              "O3 Ce2 F1"
+_cell_length_a       3.9478821830993023
+_cell_length_b       3.9566778742977484
+_cell_length_c       5.602667331695557
+_cell_angle_alpha    90.20268153595774
+_cell_angle_beta     90.08912281446202
+_cell_angle_gamma    90.25952920870282
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1838175356388092  0.1642317771911621  0.6199533939361572  1.0000
+  Ce  Ce1       1.0  0.18397703766822815  0.6649917364120482  0.8548484444618225  1.0000
+  O   O2        1.0  0.18381908535957336  0.16481702029705045  0.12121716141700745  1.0000
+  Ce  Ce2       1.0  0.6838820576667786  0.16469426453113556  0.3847862780094147  1.0000
+  O   O3        1.0  0.6833217740058899  0.6641305685043335  0.6189002990722656  1.0000
+  F   F1        1.0  0.6827836632728577  0.6644387245178223  0.11902743577957153  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FLi2FLiO2Mn
+_chemical_formula_sum              "F2 Li3 O2 Mn1"
+_cell_length_a       3.086516972817942
+_cell_length_b       5.241180635690175
+_cell_length_c       5.0815958976745605
+_cell_angle_alpha    101.54123256674475
+_cell_angle_beta     90.568158179104
+_cell_angle_gamma    105.40698954396821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.13231335580348969  0.2588331997394562  0.6156538128852844  1.0000
+  Li  Li1       1.0  0.2880134880542755  0.5397927165031433  0.9866618514060975  1.0000
+  Li  Li2       1.0  0.002558196661993878  0.9752793908119202  0.2206490337848664  1.0000
+  F   F2        1.0  0.6400622129440308  0.25404682755470276  0.13988929986953735  1.0000
+  Li  Li3       1.0  0.5068276524543762  0.9866719245910645  0.7495766878128052  1.0000
+  O   O1        1.0  0.8859111070632936  0.7440468072891235  0.8461933732032776  1.0000
+  O   O2        1.0  0.3895109593868256  0.7371400594711304  0.3679555654525757  1.0000
+  Mn  Mn1       1.0  0.7841802835464479  0.5394195914268494  0.49935862421989446  1.0000

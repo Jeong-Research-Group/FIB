@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BeF2BeRbF3
+_chemical_formula_sum              "Be2 F5 Rb1"
+_cell_length_a       4.712374368105135
+_cell_length_b       4.650398870158134
+_cell_length_c       6.19236946105957
+_cell_angle_alpha    90.12522037198623
+_cell_angle_beta     91.23086398091125
+_cell_angle_gamma    119.52984098760953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.6235325336456299  0.614791214466095  0.635779857635498  1.0000
+  F   F1        1.0  0.9570674896240234  0.30587705969810486  0.20985232293605804  1.0000
+  F   F2        1.0  0.2950346767902374  0.3224050998687744  0.5381078124046326  1.0000
+  Be  Be2       1.0  0.959384560585022  0.2828849256038666  0.45055609941482544  1.0000
+  Rb  Rb1       1.0  0.28623285889625555  0.9645539522171022  0.0411047525703907  1.0000
+  F   F3        1.0  0.6748353242874147  0.9411802291870118  0.524910569190979  1.0000
+  F   F4        1.0  0.9146747589111329  0.5606769919395448  0.5656623244285583  1.0000
+  F   F5        1.0  0.6144676208496094  0.6314469575881958  0.8756292462348938  1.0000

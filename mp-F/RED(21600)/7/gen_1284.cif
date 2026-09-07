@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TlFCaF2
+_chemical_formula_sum              "Tl1 F3 Ca1"
+_cell_length_a       4.3629658489746
+_cell_length_b       4.372394904051007
+_cell_length_c       4.359472274780273
+_cell_angle_alpha    89.9558863114982
+_cell_angle_beta     90.03341579144795
+_cell_angle_gamma    89.9992989949452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.23157179355621338  0.32572138309478765  0.819844126701355  1.0000
+  F   F1        1.0  0.23409461975097656  0.831872582435608  0.32051223516464233  1.0000
+  Ca  Ca1       1.0  0.7337763905525208  0.8284739851951599  0.32073596119880676  1.0000
+  F   F2        1.0  0.7351290583610535  0.8293114900588989  0.8211261034011841  1.0000
+  F   F3        1.0  0.73504638671875  0.3287382125854492  0.32336628437042236  1.0000

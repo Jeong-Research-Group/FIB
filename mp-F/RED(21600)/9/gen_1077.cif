@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FLiBaF2
+_chemical_formula_sum              "F3 Li1 Ba1"
+_cell_length_a       3.932676631073254
+_cell_length_b       3.941176415331427
+_cell_length_c       3.947479724884033
+_cell_angle_alpha    90.00118412723124
+_cell_angle_beta     89.93589434351549
+_cell_angle_gamma    90.02235088435259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6256001591682435  0.13733404874801636  0.683291494846344  1.0000
+  Li  Li1       1.0  0.6252592206001283  0.6372650861740112  0.6836223602294922  1.0000
+  Ba  Ba1       1.0  0.12536932528018951  0.13728491961956024  0.18333131074905396  1.0000
+  F   F2        1.0  0.12529340386390686  0.6377720832824706  0.683439314365387  1.0000
+  F   F3        1.0  0.6253963112831117  0.6374473571777343  0.18327969312667844  1.0000

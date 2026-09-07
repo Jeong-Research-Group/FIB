@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnF2CsF
+_chemical_formula_sum              "Sn1 F3 Cs1"
+_cell_length_a       4.848251036622
+_cell_length_b       4.944013245761954
+_cell_length_c       5.038716793060303
+_cell_angle_alpha    86.18974734717463
+_cell_angle_beta     87.0665113642919
+_cell_angle_gamma    92.87577842554722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.212676540017128  0.6477057337760926  0.17273372411727905  1.0000
+  F   F1        1.0  0.6508112549781799  0.6720910668373108  0.14145506918430328  1.0000
+  F   F2        1.0  0.23456113040447235  0.07996074855327606  0.13842329382896423  1.0000
+  Cs  Cs1       1.0  0.7124528884887695  0.14629493653774261  0.6744500398635864  1.0000
+  F   F3        1.0  0.22949562966823578  0.6729145050048828  0.7545304894447327  1.0000

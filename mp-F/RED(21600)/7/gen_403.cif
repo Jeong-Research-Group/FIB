@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HF2Ca
+_chemical_formula_sum              "H1 F2 Ca1"
+_cell_length_a       3.629645638023884
+_cell_length_b       3.62877487732333
+_cell_length_c       5.1030964851379395
+_cell_angle_alpha    110.53864076720902
+_cell_angle_beta     68.91386956106166
+_cell_angle_gamma    119.5224128979685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.05917089059948922  0.3332507610321045  0.611616313457489  1.0000
+  F   F1        1.0  0.1489143818616867  0.24568335711956024  0.34222522377967834  1.0000
+  F   F2        1.0  0.9717014431953431  0.4261637032032013  0.8811137080192566  1.0000
+  Ca  Ca1       1.0  0.5599280595779419  0.8363011479377747  0.11164459586143492  1.0000

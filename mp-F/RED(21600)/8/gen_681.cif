@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiCuFO
+_chemical_formula_sum              "Li1 Cu1 F1 O1"
+_cell_length_a       2.775000226075331
+_cell_length_b       2.776877331989888
+_cell_length_c       4.912883758544922
+_cell_angle_alpha    90.21196378508054
+_cell_angle_beta     90.10500982447951
+_cell_angle_gamma    90.59655802957084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1955052614212036  0.5375614166259766  0.1769302487373352  1.0000
+  Cu  Cu1       1.0  0.6938813328742981  0.03727150708436966  0.6770966053009033  1.0000
+  F   F1        1.0  0.6942996978759766  0.03735071048140526  0.17633289098739624  1.0000
+  O   O1        1.0  0.19492438435554504  0.5377805829048156  0.6780872941017151  1.0000

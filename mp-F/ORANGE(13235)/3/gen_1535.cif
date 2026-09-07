@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2F3OCu
+_chemical_formula_sum              "Li2 F3 O1 Cu1"
+_cell_length_a       2.9378207759663284
+_cell_length_b       5.179731284703113
+_cell_length_c       5.196042060852051
+_cell_angle_alpha    111.83831576872329
+_cell_angle_beta     90.18384386399971
+_cell_angle_gamma    89.87749623602723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34240415692329407  0.9265591502189636  0.865915060043335  1.0000
+  Li  Li2       1.0  0.3428737223148346  0.42108455300331116  0.3697972297668457  1.0000
+  F   F1        1.0  0.3429856598377228  0.6480715274810791  0.09203288704156876  1.0000
+  F   F2        1.0  0.8429164290428162  0.6611049175262452  0.6373253464698792  1.0000
+  F   F3        1.0  0.8427063226699829  0.19331713020801547  0.10455064475536346  1.0000
+  O   O1        1.0  0.34261006116867065  0.19585162401199344  0.6396427154541016  1.0000
+  Cu  Cu1       1.0  0.8427955508232117  0.40256085991859436  0.8467599749565125  1.0000

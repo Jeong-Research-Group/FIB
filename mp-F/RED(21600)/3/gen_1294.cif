@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuF4Li
+_chemical_formula_sum              "Ru1 F4 Li1"
+_cell_length_a       3.5940075589227365
+_cell_length_b       3.580730981914116
+_cell_length_c       5.078395843505859
+_cell_angle_alpha    89.6480906942832
+_cell_angle_beta     89.47273920723057
+_cell_angle_gamma    89.70512962044306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.9199103713035583  0.7943875193595886  0.5894792675971985  1.0000
+  F   F1        1.0  0.9188104271888733  0.2939665615558624  0.3471870720386505  1.0000
+  F   F2        1.0  0.4211784601211548  0.7949631214141846  0.8314815163612366  1.0000
+  F   F3        1.0  0.9207811951637268  0.29406845569610596  0.8310729265213013  1.0000
+  F   F4        1.0  0.4200747013092041  0.7938848137855531  0.3462795317173004  1.0000
+  Li  Li1       1.0  0.4207199811935425  0.29402235150337225  0.08847251534461975  1.0000

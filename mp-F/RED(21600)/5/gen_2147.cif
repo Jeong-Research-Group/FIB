@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuClK2PbClF
+_chemical_formula_sum              "Cu1 Cl2 K2 Pb1 F1"
+_cell_length_a       6.256050222082162
+_cell_length_b       4.2315125662839375
+_cell_length_c       7.541275501251221
+_cell_angle_alpha    90.00553495791503
+_cell_angle_beta     68.99185081009634
+_cell_angle_gamma    89.85414381519276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7819322943687439  0.591757595539093  0.10564358532428743  1.0000
+  Cl  Cl1       1.0  0.857170820236206  0.09395456314086914  0.2926305830478667  1.0000
+  K   K1        1.0  0.3014872074127197  0.09376894682645798  0.45133277773857117  1.0000
+  K   K2        1.0  0.7257152199745178  0.5955854058265686  0.6293702721595764  1.0000
+  Pb  Pb1       1.0  0.29242777824401855  0.08930287510156631  0.9900350570678712  1.0000
+  Cl  Cl2       1.0  0.1352929025888443  0.5929890275001526  0.7956804633140565  1.0000
+  F   F1        1.0  0.4147893190383911  0.5922881364822389  0.17862696945667267  1.0000

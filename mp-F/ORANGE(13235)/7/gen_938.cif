@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2FOVO
+_chemical_formula_sum              "Li2 F1 O2 V1"
+_cell_length_a       2.9947770921455086
+_cell_length_b       3.0032942555991333
+_cell_length_c       6.559966087341309
+_cell_angle_alpha    103.12973626529397
+_cell_angle_beta     103.07944675542932
+_cell_angle_gamma    89.65803537245941
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.36791110038757324  0.9220265746116637  0.9829126596450806  1.0000
+  Li  Li2       1.0  0.0167879369109869  0.5709500908851624  0.27890974283218384  1.0000
+  F   F1        1.0  0.5364139080047607  0.09142507612705231  0.31717491149902344  1.0000
+  O   O1        1.0  0.1934622973203659  0.7470506429672241  0.6280046105384827  1.0000
+  V   V1        1.0  0.7098438143730164  0.2626309394836425  0.6646521687507629  1.0000
+  O   O2        1.0  0.8576874136924744  0.41269528865814203  0.9609189033508301  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F3TiLiF
+_chemical_formula_sum              "F4 Ti1 Li1"
+_cell_length_a       3.565703903120656
+_cell_length_b       3.5722060312325703
+_cell_length_c       5.108813285827637
+_cell_angle_alpha    89.99552873055711
+_cell_angle_beta     89.9036558556813
+_cell_angle_gamma    90.02384669560067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.3156517744064331  0.888271152973175  0.6028257608413696  1.0000
+  F   F2        1.0  0.31603315472602844  0.8877696394920349  0.12821544706821442  1.0000
+  F   F3        1.0  0.8159770965576172  0.3876303434371948  0.1289214938879013  1.0000
+  Ti  Ti1       1.0  0.8158462047576904  0.8878862261772156  0.36522752046585083  1.0000
+  Li  Li1       1.0  0.316631555557251  0.38747039437294  0.8656018376350403  1.0000
+  F   F4        1.0  0.8160077333450317  0.387355238199234  0.6020866632461548  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiF2CsF2
+_chemical_formula_sum              "Bi1 F4 Cs1"
+_cell_length_a       4.514476590285952
+_cell_length_b       4.512739405274997
+_cell_length_c       6.990729331970215
+_cell_angle_alpha    89.98195714417797
+_cell_angle_beta     89.88044688209777
+_cell_angle_gamma    90.11159413201356
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.08649040758609772  0.30554190278053284  0.5461524724960327  1.0000
+  F   F1        1.0  0.08734594285488129  0.30498769879341125  0.8534309267997742  1.0000
+  F   F2        1.0  0.5861523747444153  0.3062126338481903  0.5447209477424622  1.0000
+  Cs  Cs1       1.0  0.5866131782531738  0.8054249882698059  0.04602585732936859  1.0000
+  F   F3        1.0  0.08626356720924377  0.8059263825416565  0.5444944500923157  1.0000
+  F   F4        1.0  0.08633270859718323  0.304880827665329  0.2370297759771347  1.0000

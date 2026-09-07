@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiRbF3
+_chemical_formula_sum              "Ni1 Rb1 F3"
+_cell_length_a       4.089244861207102
+_cell_length_b       4.09774144421138
+_cell_length_c       4.09617805480957
+_cell_angle_alpha    89.97745604841073
+_cell_angle_beta     89.91233018939676
+_cell_angle_gamma    89.98850729650015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.53799968957901  0.1916329860687256  0.49548643827438354  1.0000
+  Rb  Rb1       1.0  0.03836342319846153  0.6918302178382874  0.9950244426727295  1.0000
+  F   F1        1.0  0.03807538002729416  0.19172006845474243  0.49525585770606995  1.0000
+  F   F2        1.0  0.5380211472511292  0.6916027665138246  0.4955081343650818  1.0000
+  F   F3        1.0  0.5378767848014832  0.1917397379875183  0.9955316781997681  1.0000

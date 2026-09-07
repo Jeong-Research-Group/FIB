@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlF3Cu
+_chemical_formula_sum              "Al1 F3 Cu1"
+_cell_length_a       3.8440884549339227
+_cell_length_b       3.8627239779617004
+_cell_length_c       3.876121759414673
+_cell_angle_alpha    89.58909833054524
+_cell_angle_beta     89.70716498974137
+_cell_angle_gamma    89.58669411404198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6495834589004517  0.8278619050979614  0.9719868302345276  1.0000
+  F   F1        1.0  0.6494367718696594  0.32810118794441223  0.971588671207428  1.0000
+  F   F2        1.0  0.14890535175800323  0.8283527493476868  0.9717168807983398  1.0000
+  F   F3        1.0  0.6494463086128235  0.8281666040420532  0.4712429642677307  1.0000
+  Cu  Cu1       1.0  0.14899329841136932  0.32824936509132385  0.47202268242836  1.0000

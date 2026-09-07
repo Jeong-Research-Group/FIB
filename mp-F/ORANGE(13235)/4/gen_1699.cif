@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiF3Tl
+_chemical_formula_sum              "Ni1 F3 Tl1"
+_cell_length_a       4.0945307198850065
+_cell_length_b       4.099597699946625
+_cell_length_c       4.099944591522217
+_cell_angle_alpha    89.94127653731279
+_cell_angle_beta     89.98515367242719
+_cell_angle_gamma    89.96717661692259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8237690329551697  0.10103882104158401  0.2598835825920105  1.0000
+  F   F1        1.0  0.3240319788455963  0.10107394307851791  0.2592896819114685  1.0000
+  F   F2        1.0  0.823539674282074  0.10136164724826813  0.7597785592079163  1.0000
+  F   F3        1.0  0.8238905072212219  0.6016778349876403  0.25965985655784607  1.0000
+  Tl  Tl1       1.0  0.3237461447715759  0.6012745499610901  0.7596621513366699  1.0000

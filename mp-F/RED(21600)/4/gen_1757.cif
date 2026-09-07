@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OF2RbTi
+_chemical_formula_sum              "O1 F2 Rb1 Ti1"
+_cell_length_a       3.9568744129976725
+_cell_length_b       4.23444222833684
+_cell_length_c       4.237349033355713
+_cell_angle_alpha    90.18033999774246
+_cell_angle_beta     90.00838997680711
+_cell_angle_gamma    89.992468805838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9769824743270874  0.9531033635139466  0.7530395984649658  1.0000
+  F   F1        1.0  0.47636115550994873  0.4534062445163727  0.7534191012382507  1.0000
+  F   F2        1.0  0.4775872230529785  0.9537308216094971  0.2527819573879242  1.0000
+  Rb  Rb1       1.0  0.9774029850959778  0.45343077182769775  0.25327131152153015  1.0000
+  Ti  Ti1       1.0  0.4766370952129364  0.9537700414657593  0.7523015141487122  1.0000

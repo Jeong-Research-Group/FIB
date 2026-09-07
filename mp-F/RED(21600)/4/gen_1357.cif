@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2CoOLi
+_chemical_formula_sum              "F2 Co1 O1 Li1"
+_cell_length_a       2.7711424520498604
+_cell_length_b       2.778445150819484
+_cell_length_c       6.272429943084717
+_cell_angle_alpha    90.61878348069831
+_cell_angle_beta     90.36810189674951
+_cell_angle_gamma    90.19882931298315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6970962285995483  0.4604280591011048  0.9171023964881896  1.0000
+  F   F2        1.0  0.6988096237182617  0.46817609667778015  0.5438405275344849  1.0000
+  Co  Co1       1.0  0.6988649368286133  0.46301272511482233  0.23023259639739987  1.0000
+  O   O1        1.0  0.19719208776950836  0.9638871550559996  0.23040832579135892  1.0000
+  Li  Li1       1.0  0.19780224561691284  0.9637954831123352  0.7315083146095275  1.0000

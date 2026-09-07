@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OCuO2CuPb2F
+_chemical_formula_sum              "O3 Cu2 Pb2 F1"
+_cell_length_a       3.1462342717903544
+_cell_length_b       6.251488104586934
+_cell_length_c       5.841446399688721
+_cell_angle_alpha    90.92291122745515
+_cell_angle_beta     101.15971928082759
+_cell_angle_gamma    90.1915210074947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6271762251853943  0.22562938928604126  0.30552834272384644  1.0000
+  Cu  Cu1       1.0  0.5810946226119995  0.5421972274780273  0.21985848248004913  1.0000
+  O   O2        1.0  0.26939666271209717  0.6020249724388123  0.49432170391082764  1.0000
+  O   O3        1.0  0.5347058773040771  0.8400404453277588  0.09169520437717438  1.0000
+  Cu  Cu2       1.0  0.07734274119138718  0.03141999989748001  0.1980810910463333  1.0000
+  Pb  Pb1       1.0  0.2972679138183594  0.27100151777267456  0.64564049243927  1.0000
+  Pb  Pb2       1.0  0.8429188132286073  0.7984424829483033  0.7217902541160583  1.0000
+  F   F1        1.0  0.9030656218528749  0.46416860818862915  0.9280240535736084  1.0000

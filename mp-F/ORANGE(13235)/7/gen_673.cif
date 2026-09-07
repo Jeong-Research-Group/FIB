@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgFeO2FLiOFe
+_chemical_formula_sum              "Mg1 Fe2 O3 F1 Li1"
+_cell_length_a       3.0348371139592314
+_cell_length_b       5.307578191779457
+_cell_length_c       5.245638370513916
+_cell_angle_alpha    100.61565998317555
+_cell_angle_beta     89.93802536277647
+_cell_angle_gamma    73.61533508976383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1430855244398117  0.30843254923820496  0.16750885546207428  1.0000
+  Fe  Fe1       1.0  0.9127375483512878  0.7715675830841064  0.9068267941474915  1.0000
+  O   O1        1.0  0.5325104594230652  0.5317732095718384  0.025526706129312515  1.0000
+  O   O2        1.0  0.012406609952449783  0.5736134052276611  0.531909167766571  1.0000
+  F   F1        1.0  0.2669670581817627  0.06404660642147064  0.7803146243095398  1.0000
+  Li  Li1       1.0  0.6354041695594789  0.32595157623291016  0.6418823003768921  1.0000
+  O   O3        1.0  0.7688027620315552  0.053833324462175376  0.2595323622226715  1.0000
+  Fe  Fe2       1.0  0.3965470194816588  0.8018593192100526  0.390319287776947  1.0000

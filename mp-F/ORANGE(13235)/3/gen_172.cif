@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnF3MgF
+_chemical_formula_sum              "Mn1 F4 Mg1"
+_cell_length_a       4.087154286682475
+_cell_length_b       5.8704510970201085
+_cell_length_c       4.102352619171143
+_cell_angle_alpha    110.3877333646067
+_cell_angle_beta     89.90103305295538
+_cell_angle_gamma    110.09729991099631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6129615306854248  0.5597394108772278  0.3023464381694793  1.0000
+  F   F1        1.0  0.6621301770210266  0.6618282198905945  0.8532928824424744  1.0000
+  F   F2        1.0  0.06251095235347744  0.4584491550922393  0.253425121307373  1.0000
+  F   F3        1.0  0.8290579915046692  0.9926258325576782  0.5185826420783997  1.0000
+  Mg  Mg1       1.0  0.8631429672241211  0.05952222645282745  0.053131867200136185  1.0000
+  F   F4        1.0  0.3959936201572418  0.12655889987945557  0.08640631288290022  1.0000

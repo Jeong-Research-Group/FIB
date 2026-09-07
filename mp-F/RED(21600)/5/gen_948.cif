@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaTeAgBaAgF2Te
+_chemical_formula_sum              "Ba2 Te2 Ag2 F2"
+_cell_length_a       4.569249677745315
+_cell_length_b       4.577978187920839
+_cell_length_c       9.829752922058105
+_cell_angle_alpha    89.84068834441977
+_cell_angle_beta     89.90170924799355
+_cell_angle_gamma    90.08540719062957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.31575316190719604  0.49954271316528326  0.3932296335697174  1.0000
+  Te  Te1       1.0  0.31542664766311646  0.49898254871368414  0.8556223511695862  1.0000
+  Ag  Ag1       1.0  0.31615325808525085  0.9997976422309875  0.038765572011470795  1.0000
+  Ba  Ba2       1.0  0.8156546354293823  0.9990509152412416  0.6853930950164795  1.0000
+  Ag  Ag2       1.0  0.8151527643203735  0.5001610517501831  0.03889757767319679  1.0000
+  F   F1        1.0  0.31658464670181274  0.9992906451225281  0.5390212535858153  1.0000
+  F   F2        1.0  0.8160859942436218  0.4993159770965576  0.5392980575561523  1.0000
+  Te  Te2       1.0  0.8160019516944885  0.9997732043266297  0.22198235988616943  1.0000

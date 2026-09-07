@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuPbCuF3Se2
+_chemical_formula_sum              "Cu2 Pb1 F3 Se2"
+_cell_length_a       3.9363373792727625
+_cell_length_b       4.115610746726378
+_cell_length_c       9.471504211425781
+_cell_angle_alpha    90.50050512043585
+_cell_angle_beta     90.14046533145275
+_cell_angle_gamma    90.23315782624312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.595148503780365  0.19108730554580688  0.5729165077209473  1.0000
+  Pb  Pb1       1.0  0.09616990387439728  0.6886417865753175  0.3185770511627197  1.0000
+  Cu  Cu2       1.0  0.09364943206310272  0.1879705786705017  0.982919454574585  1.0000
+  F   F1        1.0  0.09473787993192673  0.6888948678970338  0.005796995013952255  1.0000
+  F   F2        1.0  0.5955839157104492  0.6905827522277833  0.49441540241241455  1.0000
+  F   F3        1.0  0.09566251933574677  0.19044995307922363  0.4949832558631897  1.0000
+  Se  Se1       1.0  0.595326840877533  0.18883904814720157  0.18238286674022675  1.0000
+  Se  Se2       1.0  0.5943068861961365  0.188232421875  0.814041256904602  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FLiF3Fe
+_chemical_formula_sum              "F4 Li1 Fe1"
+_cell_length_a       3.0580369866328576
+_cell_length_b       4.5817059048203586
+_cell_length_c       4.589369773864746
+_cell_angle_alpha    87.60764682301284
+_cell_angle_beta     90.07423300347928
+_cell_angle_gamma    90.06267631179699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.10414979606866835  0.16275113821029663  0.3233363628387451  1.0000
+  Li  Li1       1.0  0.6040930151939392  0.9587345719337463  0.5290958285331726  1.0000
+  F   F2        1.0  0.6041367053985596  0.2659875452518463  0.8361259698867798  1.0000
+  F   F3        1.0  0.6025611162185669  0.6501595377922057  0.2225027084350586  1.0000
+  F   F4        1.0  0.10422146320343016  0.7535420656204224  0.7347157597541809  1.0000
+  Fe  Fe1       1.0  0.1038898080587387  0.4582807719707489  0.028966931626200676  1.0000

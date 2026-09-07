@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       F2BrCsClCsCl
+_chemical_formula_sum              "F2 Br1 Cs2 Cl2"
+_cell_length_a       5.156363308282789
+_cell_length_b       5.150630957746542
+_cell_length_c       8.303434371948242
+_cell_angle_alpha    107.7542590941722
+_cell_angle_beta     107.73798926432015
+_cell_angle_gamma    90.05129045429294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.47613027691841125  0.026137495413422585  0.08466185629367828  1.0000
+  F   F2        1.0  0.7766942977905273  0.3269156813621521  0.6881698369979858  1.0000
+  Br  Br1       1.0  0.6263313293457031  0.17720291018486023  0.38640880584716797  1.0000
+  Cs  Cs1       1.0  0.28125450015068054  0.8304601907730101  0.6961666345596313  1.0000
+  Cl  Cl1       1.0  0.6253318786621094  0.6798816323280334  0.3873994052410126  1.0000
+  Cs  Cs2       1.0  0.970720112323761  0.5208197832107544  0.07653853297233582  1.0000
+  Cl  Cl2       1.0  0.127125009894371  0.17625012993812558  0.38681134581565857  1.0000

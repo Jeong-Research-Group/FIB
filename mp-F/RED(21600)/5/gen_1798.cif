@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2CoFAg
+_chemical_formula_sum              "F3 Co1 Ag1"
+_cell_length_a       4.012466428363533
+_cell_length_b       4.018217494813758
+_cell_length_c       4.01717472076416
+_cell_angle_alpha    90.07308552484655
+_cell_angle_beta     89.9605445025296
+_cell_angle_gamma    90.04471292335728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.8845019340515137  0.6650925874710083  0.44360172748565674  1.0000
+  F   F2        1.0  0.38389211893081665  0.6649944186210632  0.9441279768943787  1.0000
+  Co  Co1       1.0  0.8838040232658386  0.6650098562240601  0.9436783194541931  1.0000
+  F   F3        1.0  0.8842276930809021  0.16515664756298065  0.9441022872924805  1.0000
+  Ag  Ag1       1.0  0.38426288962364197  0.1649610996246338  0.443805068731308  1.0000

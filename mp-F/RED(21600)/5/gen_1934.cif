@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgO2F3V
+_chemical_formula_sum              "Hg1 O2 F3 V1"
+_cell_length_a       3.9113004251403596
+_cell_length_b       3.7978415630894755
+_cell_length_c       6.942425727844238
+_cell_angle_alpha    89.99505061744766
+_cell_angle_beta     90.04010254618969
+_cell_angle_gamma    89.98649239023865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5148842930793762  0.10755369067192078  0.7294619679450989  1.0000
+  O   O1        1.0  0.5148453712463379  0.09849829226732254  0.2272689789533615  1.0000
+  O   O2        1.0  0.015401468612253666  0.10356549918651581  0.7316074371337891  1.0000
+  F   F1        1.0  0.014724086970090866  0.5915940403938295  0.2263801395893097  1.0000
+  F   F2        1.0  0.5152146220207214  0.6011423468589783  0.4980124533176422  1.0000
+  F   F3        1.0  0.5145832300186157  0.6009401679039001  0.9589454531669617  1.0000
+  V   V1        1.0  0.5150352120399475  0.6582521796226503  0.22801466286182404  1.0000

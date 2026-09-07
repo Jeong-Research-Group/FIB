@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiF2CsF
+_chemical_formula_sum              "Ni1 F3 Cs1"
+_cell_length_a       4.263196921432312
+_cell_length_b       4.259471774923376
+_cell_length_c       4.274755001068115
+_cell_angle_alpha    89.7835333336901
+_cell_angle_beta     89.88843135755164
+_cell_angle_gamma    89.90223517098916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.26690608263015747  0.7759220004081726  0.1973607987165451  1.0000
+  F   F1        1.0  0.7665274143218994  0.7759714126586914  0.19724750518798828  1.0000
+  F   F2        1.0  0.26608532667160034  0.7759588360786439  0.696690022945404  1.0000
+  Cs  Cs1       1.0  0.7669553756713867  0.276090532541275  0.6970130205154419  1.0000
+  F   F3        1.0  0.2666935324668884  0.2753138244152069  0.1968870908021927  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RbF2CoF
+_chemical_formula_sum              "Rb1 F3 Co1"
+_cell_length_a       4.149997243059135
+_cell_length_b       4.157431613099549
+_cell_length_c       4.152259826660156
+_cell_angle_alpha    89.99590439130809
+_cell_angle_beta     89.99628688177867
+_cell_angle_gamma    89.96382299507479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00024890899658203125  0.7634191513061523  0.306722491979599  1.0000
+  F   F1        1.0  0.5003190040588379  0.263815313577652  0.30682140588760376  1.0000
+  F   F2        1.0  0.5002967715263367  0.7640560865402222  0.8069395422935486  1.0000
+  Co  Co1       1.0  0.5000706911087036  0.26394996047019964  0.8070711493492126  1.0000
+  F   F3        1.0  0.00021318066865205765  0.26386985182762146  0.8069263696670532  1.0000

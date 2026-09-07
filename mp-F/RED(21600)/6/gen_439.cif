@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IF2Pb2F
+_chemical_formula_sum              "I1 F3 Pb2"
+_cell_length_a       4.209687929299935
+_cell_length_b       4.214979631807681
+_cell_length_c       8.436270713806152
+_cell_angle_alpha    90.16344210095316
+_cell_angle_beta     90.0793214831993
+_cell_angle_gamma    89.95203408807058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7907894253730774  0.6838765740394592  0.3048707842826843  1.0000
+  F   F1        1.0  0.29030847549438477  0.6833190917968749  0.9438533186912537  1.0000
+  F   F2        1.0  0.2907734215259552  0.18284957110881805  0.6337425112724304  1.0000
+  Pb  Pb1       1.0  0.2909127473831177  0.18321585655212402  0.1098150685429573  1.0000
+  Pb  Pb2       1.0  0.7904871106147766  0.6823967099189758  0.766411304473877  1.0000
+  F   F3        1.0  0.7907097339630127  0.18264281749725342  0.9438276290893555  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2FeRbF
+_chemical_formula_sum              "F3 Fe1 Rb1"
+_cell_length_a       4.195029222022974
+_cell_length_b       4.197453282465072
+_cell_length_c       4.197028636932373
+_cell_angle_alpha    90.04357911552108
+_cell_angle_beta     89.97375408831992
+_cell_angle_gamma    90.00267993859194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.40792879462242126  0.014540507458150387  0.07709163427352905  1.0000
+  F   F2        1.0  0.9075366854667664  0.5144078135490417  0.07709109038114548  1.0000
+  Fe  Fe1       1.0  0.9076879620552063  0.014431094750761986  0.07727042585611343  1.0000
+  Rb  Rb1       1.0  0.40776997804641724  0.5146344304084777  0.5769123435020447  1.0000
+  F   F3        1.0  0.9076805710792542  0.014551617205142973  0.5769655704498291  1.0000

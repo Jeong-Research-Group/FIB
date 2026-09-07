@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OF2O2Pd
+_chemical_formula_sum              "O3 F2 Pd1"
+_cell_length_a       3.1308613489287107
+_cell_length_b       4.888180834957159
+_cell_length_c       5.375412940979004
+_cell_angle_alpha    65.39665527531035
+_cell_angle_beta     89.42717507361746
+_cell_angle_gamma    89.83116706893853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5086742639541626  0.1299242824316025  0.2650946378707886  1.0000
+  F   F1        1.0  0.0045282840728759766  0.6006424427032471  0.2668911814689636  1.0000
+  F   F2        1.0  0.006460084579885006  0.07300876080989838  0.5331295728683472  1.0000
+  O   O2        1.0  0.008752861060202122  0.5512351989746094  0.795964241027832  1.0000
+  O   O3        1.0  0.5061337947845459  0.015767825767397884  0.7910112142562866  1.0000
+  Pd  Pd1       1.0  0.5070013999938965  0.5733221769332886  0.021702967584133148  1.0000

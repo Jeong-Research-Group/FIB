@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaF2HoF2
+_chemical_formula_sum              "Na1 F4 Ho1"
+_cell_length_a       3.7612281592624446
+_cell_length_b       3.746323013938445
+_cell_length_c       5.407097816467285
+_cell_angle_alpha    89.79093724905222
+_cell_angle_beta     89.73298308066491
+_cell_angle_gamma    89.92724049454422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2963064908981323  0.5986998677253723  0.11381778866052628  1.0000
+  F   F1        1.0  0.7955542206764221  0.5994747877120972  0.38016408681869507  1.0000
+  F   F2        1.0  0.29656997323036194  0.09961908310651779  0.8475729823112488  1.0000
+  Ho  Ho1       1.0  0.796245813369751  0.09936764836311342  0.6134195327758789  1.0000
+  F   F3        1.0  0.7968999147415161  0.599031686782837  0.8460266590118408  1.0000
+  F   F4        1.0  0.29643213748931885  0.09862989932298662  0.3804308772087097  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnFZnF2NiF2
+_chemical_formula_sum              "Zn2 F5 Ni1"
+_cell_length_a       5.147179232124177
+_cell_length_b       5.1809733188143685
+_cell_length_c       4.6298394203186035
+_cell_angle_alpha    93.27867059901072
+_cell_angle_beta     86.489715765079
+_cell_angle_gamma    62.788270771283685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6038494110107422  0.92774897813797  0.3396987020969391  1.0000
+  F   F1        1.0  0.22714109718799586  0.9867219328880311  0.5812921524047852  1.0000
+  Zn  Zn2       1.0  0.8628028631210327  0.3131791353225708  0.7922409772872925  1.0000
+  F   F2        1.0  0.9131448864936829  0.6203441023826599  0.5634027123451233  1.0000
+  F   F3        1.0  0.5413647294044494  0.3036991953849793  0.5777541399002075  1.0000
+  Ni  Ni1       1.0  0.21856944262981415  0.6674243807792665  0.7953354716300964  1.0000
+  F   F4        1.0  0.5438748002052306  0.648855745792389  0.047095887362957015  1.0000
+  F   F5        1.0  0.8828520178794861  0.9888547062873841  0.048966106027364745  1.0000

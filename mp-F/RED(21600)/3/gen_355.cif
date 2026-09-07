@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiTiFTiO3F
+_chemical_formula_sum              "Bi1 Ti2 F2 O3"
+_cell_length_a       4.01608340376718
+_cell_length_b       4.019971921357649
+_cell_length_c       6.470892906188965
+_cell_angle_alpha    108.49624354987559
+_cell_angle_beta     90.05104451187874
+_cell_angle_gamma    90.0814934904458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7167789936065674  0.5483303666114807  0.6954686641693115  1.0000
+  Ti  Ti1       1.0  0.2181442230939865  0.8984723687171936  0.3977137804031372  1.0000
+  F   F1        1.0  0.7173813581466675  0.2288396656513214  0.05747006833553315  1.0000
+  Ti  Ti2       1.0  0.2169395089149475  0.24977171421051025  0.10051628202199936  1.0000
+  O   O1        1.0  0.2172238826751709  0.7443617582321167  0.08926875889301301  1.0000
+  O   O2        1.0  0.7169083952903748  0.9325897693634033  0.46543416380882263  1.0000
+  O   O3        1.0  0.21730627119541168  0.41297832131385803  0.42937567830085754  1.0000
+  F   F2        1.0  0.2165517508983612  0.07796059548854828  0.7572755217552185  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2SrCdP2F2
+_chemical_formula_sum              "Fe2 Sr1 Cd1 P2 F2"
+_cell_length_a       4.061777944707724
+_cell_length_b       4.051185150440568
+_cell_length_c       9.049181938171387
+_cell_angle_alpha    89.68543814746636
+_cell_angle_beta     89.80617540198456
+_cell_angle_gamma    89.80247344101663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.15707963705062866  0.5695494413375854  0.6274504661560059  1.0000
+  Fe  Fe2       1.0  0.6568712592124939  0.06954485177993774  0.6278876066207886  1.0000
+  Sr  Sr1       1.0  0.15779954195022583  0.06815670430660248  0.9782066345214844  1.0000
+  Cd  Cd1       1.0  0.6569924354553223  0.5674486756324768  0.28486865758895874  1.0000
+  P   P1        1.0  0.6577497124671936  0.5679354071617126  0.7934656143188477  1.0000
+  P   P2        1.0  0.15609045326709747  0.06823168694972992  0.46095767617225647  1.0000
+  F   F1        1.0  0.6576274633407593  0.06676831096410751  0.14082911610603333  1.0000
+  F   F2        1.0  0.15814219415187836  0.5670995116233826  0.1399141252040863  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2FLiF2CoF
+_chemical_formula_sum              "Li3 F4 Co1"
+_cell_length_a       2.958309801704441
+_cell_length_b       5.183746603381131
+_cell_length_c       5.2014970779418945
+_cell_angle_alpha    79.71580789504695
+_cell_angle_beta     73.56284412676229
+_cell_angle_gamma    89.96964936272514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9753243327140809  0.2900219261646271  0.7330257892608643  1.0000
+  Li  Li2       1.0  0.473775327205658  0.77211195230484  0.7354183793067932  1.0000
+  F   F1        1.0  0.5925336480140686  0.1653851717710495  0.5022608637809753  1.0000
+  Li  Li3       1.0  0.7245299220085144  0.5318636894226074  0.2345251590013504  1.0000
+  F   F2        1.0  0.35117247700691223  0.4133359491825103  0.980322539806366  1.0000
+  F   F3        1.0  0.8581477999687195  0.8966542482376099  0.9684309959411621  1.0000
+  Co  Co1       1.0  0.22437973320484164  0.031221818178892136  0.23529879748821259  1.0000
+  F   F4        1.0  0.09689084440469742  0.6494535207748413  0.4878098666667938  1.0000

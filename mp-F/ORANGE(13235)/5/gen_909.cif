@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2OMnOFOF
+_chemical_formula_sum              "Mn3 O3 F2"
+_cell_length_a       3.413228262848528
+_cell_length_b       3.4286628767721683
+_cell_length_c       9.38439655303955
+_cell_angle_alpha    89.70206962126277
+_cell_angle_beta     90.10260560452564
+_cell_angle_gamma    119.56219206483742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.07427456974983215  0.20512664318084717  0.47701510787010193  1.0000
+  Mn  Mn2       1.0  0.4051874279975891  0.8768067955970764  0.8501827716827393  1.0000
+  O   O1        1.0  0.07618190348148346  0.20891155302524567  0.2618202865123749  1.0000
+  Mn  Mn3       1.0  0.7411980628967285  0.5414528846740723  0.16837504506111145  1.0000
+  O   O2        1.0  0.7363334894180298  0.540788471698761  0.8471136689186096  1.0000
+  F   F1        1.0  0.4044524133205414  0.8803175091743469  0.6422078609466553  1.0000
+  O   O3        1.0  0.40637052059173584  0.8737183809280396  0.05128002166748047  1.0000
+  F   F2        1.0  0.7399284839630127  0.5425602197647095  0.47158825397491455  1.0000

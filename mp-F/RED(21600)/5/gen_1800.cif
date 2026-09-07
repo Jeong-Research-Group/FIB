@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RhF5HgF
+_chemical_formula_sum              "Rh1 F6 Hg1"
+_cell_length_a       5.142163412647584
+_cell_length_b       5.746012288870882
+_cell_length_c       5.165282249450684
+_cell_angle_alpha    63.54654351729726
+_cell_angle_beta     59.8747857103771
+_cell_angle_gamma    63.52201517519079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.8673291206359863  0.8885087370872498  0.9351206421852112  1.0000
+  F   F1        1.0  0.07750237733125685  0.11570523679256439  0.5431034564971924  1.0000
+  F   F2        1.0  0.25881689786911016  0.6601101160049438  0.9802068471908569  1.0000
+  F   F3        1.0  0.6566576361656189  0.6622000932693481  0.3275241851806641  1.0000
+  F   F4        1.0  0.8214638233184814  0.11638548225164413  0.14749224483966827  1.0000
+  F   F5        1.0  0.4749263823032379  0.1163434684276581  0.8906004428863525  1.0000
+  Hg  Hg1       1.0  0.3667711317539215  0.3889210522174835  0.43555793166160583  1.0000
+  F   F6        1.0  0.9127294421195984  0.6611790060997009  0.7238056063652039  1.0000

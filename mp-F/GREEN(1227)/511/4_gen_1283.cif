@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2OFOF
+_chemical_formula_sum              "Pr2 O2 F2"
+_cell_length_a       3.942449192964367
+_cell_length_b       3.9484844239697345
+_cell_length_c       6.033317565917969
+_cell_angle_alpha    90.31796148475009
+_cell_angle_beta     90.10242119391454
+_cell_angle_gamma    90.3210009033301
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5130245089530945  0.04212967678904534  0.9840751886367797  1.0000
+  Pr  Pr2       1.0  0.013806931674480438  0.5409795045852662  0.5641394853591919  1.0000
+  O   O1        1.0  0.014585703611373901  0.04059542715549469  0.7732093930244446  1.0000
+  F   F1        1.0  0.5139773488044739  0.04030652716755867  0.3890058398246765  1.0000
+  O   O2        1.0  0.5144661068916321  0.5407891869544983  0.7748180627822876  1.0000
+  F   F2        1.0  0.014774982817471027  0.540806233882904  0.15852488577365875  1.0000

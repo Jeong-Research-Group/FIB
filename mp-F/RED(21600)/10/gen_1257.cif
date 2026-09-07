@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2LiFFeO2F
+_chemical_formula_sum              "Sr2 Li1 F2 Fe1 O2"
+_cell_length_a       3.992856780820926
+_cell_length_b       5.417561079949302
+_cell_length_c       5.435282230377197
+_cell_angle_alpha    99.60643108938567
+_cell_angle_beta     90.06616654471442
+_cell_angle_gamma    90.13690681601267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5720260739326477  0.1117343157529831  0.09372781217098236  1.0000
+  Sr  Sr2       1.0  0.571530818939209  0.5896164774894714  0.5776541233062744  1.0000
+  Li  Li1       1.0  0.07080074399709702  0.11515543609857559  0.5708993673324585  1.0000
+  F   F1        1.0  0.571570098400116  0.09160535782575607  0.59309983253479  1.0000
+  Fe  Fe1       1.0  0.07148993015289307  0.5886752605438232  0.10035067051649092  1.0000
+  O   O1        1.0  0.5716654062271118  0.614020586013794  0.07221894711256027  1.0000
+  O   O2        1.0  0.07179033756256104  0.3479216396808624  0.3394331932067871  1.0000
+  F   F2        1.0  0.07148057222366333  0.865338683128357  0.8236198425292969  1.0000

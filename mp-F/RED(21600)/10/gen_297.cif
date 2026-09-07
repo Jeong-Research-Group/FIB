@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeFCeFO2
+_chemical_formula_sum              "Ce2 F2 O2"
+_cell_length_a       3.567171806037298
+_cell_length_b       3.560063022956567
+_cell_length_c       6.456698417663574
+_cell_angle_alpha    90.04486318681998
+_cell_angle_beta     89.79692732945396
+_cell_angle_gamma    89.98181371199315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.34552985429763794  0.11617013067007065  0.05981319025158883  1.0000
+  F   F1        1.0  0.8467679023742676  0.11694882065057755  0.7864830493927002  1.0000
+  Ce  Ce2       1.0  0.8473811745643616  0.6158411502838135  0.5130722522735596  1.0000
+  F   F2        1.0  0.3459377884864807  0.617816150188446  0.7868585586547852  1.0000
+  O   O1        1.0  0.3470931947231293  0.11699242144823074  0.42969489097595215  1.0000
+  O   O2        1.0  0.8461223840713501  0.6168939471244812  0.14534831047058105  1.0000

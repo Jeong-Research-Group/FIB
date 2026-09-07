@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NTaTiNF2
+_chemical_formula_sum              "N2 Ta1 Ti1 F2"
+_cell_length_a       4.153133838040316
+_cell_length_b       4.158022786772371
+_cell_length_c       5.060278415679932
+_cell_angle_alpha    113.71101750767326
+_cell_angle_beta     113.7792586067528
+_cell_angle_gamma    90.39354385629608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8944858908653259  0.06385855376720428  0.7486880421638489  1.0000
+  Ta  Ta1       1.0  0.8937655091285706  0.5629392862319946  0.747370719909668  1.0000
+  Ti  Ti1       1.0  0.39407265186309814  0.06364455074071884  0.7483415603637695  1.0000
+  N   N2        1.0  0.3938221335411072  0.5635102391242981  0.7475225329399109  1.0000
+  F   F1        1.0  0.1452241837978363  0.8146759271621704  0.25043228268623346  1.0000
+  F   F2        1.0  0.6425814032554626  0.3125058710575104  0.24539773166179657  1.0000

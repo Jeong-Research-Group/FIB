@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MoF3MnF3
+_chemical_formula_sum              "Mo1 F6 Mn1"
+_cell_length_a       5.183438517977236
+_cell_length_b       5.194046342317608
+_cell_length_c       5.6376118659973145
+_cell_angle_alpha    62.46554862403513
+_cell_angle_beta     62.61911863713957
+_cell_angle_gamma    59.93639062682608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2817710041999817  0.37754315137863165  0.9155837893486023  1.0000
+  F   F1        1.0  0.17108158767223358  0.007668694946914912  0.1570308655500412  1.0000
+  F   F2        1.0  0.9106264114379883  0.6162462830543518  0.15719591081142426  1.0000
+  F   F3        1.0  0.5208511352539062  0.2669643461704254  0.15701834857463837  1.0000
+  Mn  Mn1       1.0  0.7817285060882568  0.8778480291366578  0.41606590151786804  1.0000
+  F   F4        1.0  0.3920789062976837  0.7482380867004395  0.6739810109138488  1.0000
+  F   F5        1.0  0.04349596053361891  0.48718750476837164  0.6742324233055115  1.0000
+  F   F6        1.0  0.6531809568405151  0.138138547539711  0.6753843426704407  1.0000

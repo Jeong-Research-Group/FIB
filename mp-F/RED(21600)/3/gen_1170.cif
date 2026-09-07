@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaF4MnF
+_chemical_formula_sum              "Ca1 F5 Mn1"
+_cell_length_a       4.008018571428942
+_cell_length_b       5.648876486387666
+_cell_length_c       5.649975299835205
+_cell_angle_alpha    71.34187029971635
+_cell_angle_beta     69.15551473718962
+_cell_angle_gamma    69.33380793861338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.08437277376651764  0.3007945120334625  0.5205940008163452  1.0000
+  F   F1        1.0  0.08457961678504937  0.8010051846504213  0.020301764830946922  1.0000
+  F   F2        1.0  0.5849767327308655  0.09860969334840776  0.7217691540718079  1.0000
+  F   F3        1.0  0.35756179690361023  0.03041662648320198  0.2498725652694702  1.0000
+  F   F4        1.0  0.5836566090583801  0.5032957792282106  0.31923097372055054  1.0000
+  Mn  Mn1       1.0  0.5843113660812378  0.8012694120407104  0.02065910771489151  1.0000
+  F   F5        1.0  0.8116170167922973  0.5726262927055359  0.7913161516189575  1.0000

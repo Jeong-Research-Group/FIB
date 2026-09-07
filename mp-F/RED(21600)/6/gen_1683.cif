@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgF2Mn2FWF
+_chemical_formula_sum              "Mg1 F4 Mn2 W1"
+_cell_length_a       3.2852261034186467
+_cell_length_b       5.6541578280954425
+_cell_length_c       7.796350002288818
+_cell_angle_alpha    118.67985215199049
+_cell_angle_beta     90.05769711048815
+_cell_angle_gamma    89.53370546545598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9983077049255371  0.8170905709266664  0.5776734352111816  1.0000
+  F   F1        1.0  0.9989433884620667  0.03691103681921959  0.43415743112564087  1.0000
+  F   F2        1.0  0.49935370683670044  0.05995967984199524  0.7226248979568481  1.0000
+  Mn  Mn1       1.0  0.998721718788147  0.8222970962524414  0.07991538941860199  1.0000
+  Mn  Mn2       1.0  0.49923521280288696  0.3221757411956787  0.5806370973587036  1.0000
+  F   F3        1.0  0.000148158986121416  0.6025097370147705  0.7271666526794434  1.0000
+  W   W1        1.0  0.49897003173828125  0.31819477677345276  0.07886704802513123  1.0000
+  F   F4        1.0  0.4997445344924927  0.5781918168067932  0.4351222813129425  1.0000

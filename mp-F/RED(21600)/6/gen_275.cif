@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaFCsF2
+_chemical_formula_sum              "Na1 F3 Cs1"
+_cell_length_a       4.486565288015433
+_cell_length_b       4.493300000237445
+_cell_length_c       4.523275852203369
+_cell_angle_alpha    89.84589977990744
+_cell_angle_beta     90.11008465866112
+_cell_angle_gamma    89.81967868460991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5890970826148987  0.6270196437835693  0.9197838306427002  1.0000
+  F   F1        1.0  0.5866230130195618  0.1281079798936844  0.9185082912445068  1.0000
+  Cs  Cs1       1.0  0.0914057046175003  0.1249440312385559  0.4198891818523407  1.0000
+  F   F2        1.0  0.5886421799659729  0.6284959316253662  0.4194270968437195  1.0000
+  F   F3        1.0  0.08899542689323425  0.6300209760665894  0.9194532036781311  1.0000

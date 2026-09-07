@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuFCuFO2
+_chemical_formula_sum              "Cu2 F2 O2"
+_cell_length_a       3.0802889175316253
+_cell_length_b       4.62121169526205
+_cell_length_c       4.697472095489502
+_cell_angle_alpha    89.57124422399656
+_cell_angle_beta     89.87024939808073
+_cell_angle_gamma    89.9292417429887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.6720383763313293  0.6152111291885376  0.2121807038784027  1.0000
+  F   F1        1.0  0.6731220483779907  0.3133243918418884  0.5442913174629211  1.0000
+  Cu  Cu2       1.0  0.17298103868961334  0.11649055778980254  0.774381160736084  1.0000
+  F   F2        1.0  0.1727430373430252  0.8132058382034302  0.4376369118690491  1.0000
+  O   O1        1.0  0.67333984375  0.9271419048309325  0.9399811029434204  1.0000
+  O   O2        1.0  0.17343804240226746  0.42679163813591  0.04135267436504364  1.0000

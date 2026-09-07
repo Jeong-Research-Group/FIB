@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2InAgF
+_chemical_formula_sum              "F3 In1 Ag1"
+_cell_length_a       4.481395285675102
+_cell_length_b       4.482887313278638
+_cell_length_c       4.481155872344971
+_cell_angle_alpha    89.68609384013561
+_cell_angle_beta     89.63751071364011
+_cell_angle_gamma    89.74125446562903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7038107514381409  0.84785658121109  0.7656337618827821  1.0000
+  F   F2        1.0  0.20146578550338745  0.34710404276847834  0.7638449668884277  1.0000
+  In  In1       1.0  0.7068772912025452  0.3468714952468872  0.2621528208255768  1.0000
+  Ag  Ag1       1.0  0.20495480298995972  0.8471744060516356  0.7630406022071838  1.0000
+  F   F3        1.0  0.20220626890659332  0.8470783233642577  0.2634221017360687  1.0000

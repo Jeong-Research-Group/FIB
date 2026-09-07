@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsF2CaF
+_chemical_formula_sum              "Cs1 F3 Ca1"
+_cell_length_a       4.531253337948399
+_cell_length_b       4.54385777650739
+_cell_length_c       4.534121036529541
+_cell_angle_alpha    89.91525351816227
+_cell_angle_beta     90.00035767431339
+_cell_angle_gamma    89.90594396894234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.5390509366989136  0.7181671857833862  0.10239265859127045  1.0000
+  F   F1        1.0  0.039031315594911575  0.21781113743782043  0.10255277156829834  1.0000
+  F   F2        1.0  0.5386472344398499  0.2185390293598175  0.6038612127304077  1.0000
+  Ca  Ca1       1.0  0.03806516155600548  0.21740476787090302  0.6021097898483276  1.0000
+  F   F3        1.0  0.0377204529941082  0.7178229689598085  0.6022431254386902  1.0000

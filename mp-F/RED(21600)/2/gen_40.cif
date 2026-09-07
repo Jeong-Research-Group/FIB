@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HF2NaOTeO2
+_chemical_formula_sum              "H1 F2 Na1 O3 Te1"
+_cell_length_a       3.8739264433363436
+_cell_length_b       5.6382127512422615
+_cell_length_c       5.963757038116455
+_cell_angle_alpha    93.29194894884085
+_cell_angle_beta     107.07843997803108
+_cell_angle_gamma    112.63591171734545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.3138905167579651  0.16424518823623657  0.8098430037498474  1.0000
+  F   F1        1.0  0.9857038855552673  0.9144865870475769  0.2693955600261688  1.0000
+  F   F2        1.0  0.6780632138252258  0.39452672004699707  0.2043614238500595  1.0000
+  Na  Na1       1.0  0.6816543340682983  0.1183624640107155  0.46922382712364197  1.0000
+  O   O1        1.0  0.21552300453186035  0.6321074962615967  0.005057333037257185  1.0000
+  Te  Te1       1.0  0.7030442953109741  0.6379103660583497  0.9689717292785645  1.0000
+  O   O2        1.0  0.40941187739372253  0.3203943371772766  0.7253170609474182  1.0000
+  O   O3        1.0  0.7510187029838562  0.8720555305480957  0.7714887261390686  1.0000

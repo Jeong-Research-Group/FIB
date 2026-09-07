@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2O2
+_chemical_formula_sum              "Li2 O2"
+_cell_length_a       3.0156925340183838
+_cell_length_b       3.006513146275795
+_cell_length_c       4.229726791381836
+_cell_angle_alpha    90.02409941315591
+_cell_angle_beta     89.77187420596546
+_cell_angle_gamma    90.01602612753288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9219475984573364  0.3276655077934265  0.9587882161140442  1.0000
+  Li  Li2       1.0  0.4223196506500244  0.8277275562286378  0.4596188962459564  1.0000
+  O   O1        1.0  0.4218100607395172  0.8272542953491211  0.9590442180633545  1.0000
+  O   O2        1.0  0.9231142401695251  0.3253748118877411  0.458123117685318  1.0000

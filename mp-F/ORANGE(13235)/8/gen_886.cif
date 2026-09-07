@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PbF4AlF
+_chemical_formula_sum              "Pb1 F5 Al1"
+_cell_length_a       3.622545928274229
+_cell_length_b       5.2379472163102445
+_cell_length_c       5.247574329376221
+_cell_angle_alpha    90.10221628366348
+_cell_angle_beta     90.0352599390787
+_cell_angle_gamma    90.03767782533231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.8246467709541322  0.7902920842170715  0.7543718218803406  1.0000
+  F   F1        1.0  0.3243430256843567  0.5336483120918274  0.011155943386256695  1.0000
+  F   F2        1.0  0.3245394229888916  0.53392094373703  0.49680906534194946  1.0000
+  F   F3        1.0  0.32456865906715393  0.047019410878419876  0.49807974696159363  1.0000
+  F   F4        1.0  0.8243713378906251  0.2903769612312317  0.25398483872413635  1.0000
+  Al  Al1       1.0  0.3246692419052124  0.2905627489089966  0.2542475759983063  1.0000
+  F   F5        1.0  0.32486632466316223  0.046311236917972565  0.01193633396178484  1.0000

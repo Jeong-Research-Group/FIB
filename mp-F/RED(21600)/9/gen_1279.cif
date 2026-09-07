@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2CoTlF
+_chemical_formula_sum              "F3 Co1 Tl1"
+_cell_length_a       4.1996934936220915
+_cell_length_b       4.205085950760247
+_cell_length_c       4.209104061126709
+_cell_angle_alpha    90.07913707001654
+_cell_angle_beta     90.198036997059
+_cell_angle_gamma    90.09685458319095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.48795607686042786  0.0024444670416414738  0.8377196788787842  1.0000
+  F   F2        1.0  0.9881394505500793  0.5016812682151794  0.8387579917907715  1.0000
+  Co  Co1       1.0  0.9875675439834595  0.0011989953927695751  0.8380354046821594  1.0000
+  Tl  Tl1       1.0  0.4888199269771576  0.49959033727645874  0.3388340473175049  1.0000
+  F   F3        1.0  0.9883518815040588  0.0017383596859872341  0.33827081322669983  1.0000

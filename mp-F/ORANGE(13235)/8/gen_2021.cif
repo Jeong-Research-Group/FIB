@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PbOPbFOF2
+_chemical_formula_sum              "Pb2 O2 F3"
+_cell_length_a       4.020081412415427
+_cell_length_b       4.2275865440169245
+_cell_length_c       6.4423394203186035
+_cell_angle_alpha    92.79866604357345
+_cell_angle_beta     90.17151539508781
+_cell_angle_gamma    89.80462493684318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.10271323472261429  0.015392916277050972  0.5391772985458374  1.0000
+  O   O1        1.0  0.5982080101966858  0.33916303515434265  0.3833644390106201  1.0000
+  Pb  Pb2       1.0  0.6010065674781799  0.595359444618225  0.019728831946849823  1.0000
+  F   F1        1.0  0.10160400718450546  0.541337788105011  0.7624571919441223  1.0000
+  O   O2        1.0  0.5991116166114807  0.6744863986968994  0.42310747504234314  1.0000
+  F   F2        1.0  0.09988532960414886  0.9017509222030639  0.14952147006988525  1.0000
+  F   F3        1.0  0.5994382500648499  0.04312623664736748  0.8070566058158875  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuF3NiF3
+_chemical_formula_sum              "Cu1 F6 Ni1"
+_cell_length_a       5.189082611806022
+_cell_length_b       4.89009228196193
+_cell_length_c       5.210775852203369
+_cell_angle_alpha    117.00015548255541
+_cell_angle_beta     123.77831185835853
+_cell_angle_gamma    90.23055007646992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5046129822731018  0.9733936786651611  0.45340740680694586  1.0000
+  F   F1        1.0  0.3894282877445221  0.7255832552909851  0.5863532423973083  1.0000
+  F   F2        1.0  0.24713870882987976  0.5804858207702637  0.9375483393669128  1.0000
+  F   F3        1.0  0.8840572834014893  0.8617406487464905  0.5849977135658264  1.0000
+  Ni  Ni1       1.0  0.004200797062367197  0.4736157953739166  0.45322760939598083  1.0000
+  F   F4        1.0  0.760857343673706  0.3665195107460022  0.9679164886474609  1.0000
+  F   F5        1.0  0.12460343539714813  0.08471343666315079  0.3204447627067566  1.0000
+  F   F6        1.0  0.618497908115387  0.2216811329126358  0.31960394978523254  1.0000

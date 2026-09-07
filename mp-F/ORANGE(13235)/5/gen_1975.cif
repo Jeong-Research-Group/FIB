@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2AgNiF
+_chemical_formula_sum              "F3 Ag1 Ni1"
+_cell_length_a       4.000587821248293
+_cell_length_b       3.9971786339689794
+_cell_length_c       4.001001358032227
+_cell_angle_alpha    90.0114225811585
+_cell_angle_beta     89.80268516466009
+_cell_angle_gamma    89.89784337215525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.27093198895454407  0.6454265713691711  0.14911867678165436  1.0000
+  F   F2        1.0  0.2708306312561035  0.14565809071063993  0.6486819982528687  1.0000
+  Ag  Ag1       1.0  0.7706809639930725  0.6457554101943969  0.6485483646392822  1.0000
+  Ni  Ni1       1.0  0.2710074782371521  0.14548987150192258  0.14891691505908966  1.0000
+  F   F3        1.0  0.7706043720245361  0.14552855491638184  0.1486796885728836  1.0000

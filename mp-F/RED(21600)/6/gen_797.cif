@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AuF4Rb
+_chemical_formula_sum              "Au1 F4 Rb1"
+_cell_length_a       4.253270298377402
+_cell_length_b       4.256682995409429
+_cell_length_c       6.508453369140625
+_cell_angle_alpha    89.98624650381412
+_cell_angle_beta     89.85062627522083
+_cell_angle_gamma    90.00069918375215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.36698150634765625  0.5299937129020691  0.9163534641265869  1.0000
+  F   F1        1.0  0.3683285117149353  0.5291469097137451  0.22667433321475983  1.0000
+  F   F2        1.0  0.8687036037445068  0.5300441980361938  0.9161287546157837  1.0000
+  F   F3        1.0  0.3677796423435211  0.029909897595644  0.9159113168716431  1.0000
+  F   F4        1.0  0.36760056018829346  0.5289903283119202  0.6055119633674622  1.0000
+  Rb  Rb1       1.0  0.8676653504371643  0.029521182179450985  0.4167424142360687  1.0000

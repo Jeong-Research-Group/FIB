@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnSrO2F
+_chemical_formula_sum              "Mn1 Sr1 O2 F1"
+_cell_length_a       3.946474851115927
+_cell_length_b       3.9410305635466405
+_cell_length_c       4.187220573425293
+_cell_angle_alpha    90.0536877924323
+_cell_angle_beta     89.95434951827842
+_cell_angle_gamma    89.9873598252002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2502029240131378  0.10077437758445741  0.7330431938171387  1.0000
+  Sr  Sr1       1.0  0.7504103183746338  0.6007671356201172  0.23422807455062866  1.0000
+  O   O1        1.0  0.7506480813026428  0.10061997175216676  0.7337555885314941  1.0000
+  O   O2        1.0  0.2504176199436188  0.6003453135490419  0.7338373064994812  1.0000
+  F   F1        1.0  0.25089237093925476  0.10085080564022064  0.23233303427696228  1.0000

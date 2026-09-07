@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeClFPbF
+_chemical_formula_sum              "Fe1 Cl1 F2 Pb1"
+_cell_length_a       3.5324136605676832
+_cell_length_b       3.543628439604137
+_cell_length_c       6.5886359214782715
+_cell_angle_alpha    89.80067708943851
+_cell_angle_beta     89.86728510732924
+_cell_angle_gamma    89.69149653472395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.119740329682827  0.406157374382019  0.6087340116500854  1.0000
+  Cl  Cl1       1.0  0.6189146637916565  0.9061423540115356  0.6052898168563843  1.0000
+  F   F1        1.0  0.12197664380073547  0.4108756482601165  0.9219104647636414  1.0000
+  Pb  Pb1       1.0  0.6233403086662292  0.9084479808807372  0.11001463979482651  1.0000
+  F   F2        1.0  0.12061622738838196  0.40583536028861994  0.2940220534801483  1.0000

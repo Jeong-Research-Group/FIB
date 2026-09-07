@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiKF3
+_chemical_formula_sum              "Ni1 K1 F3"
+_cell_length_a       4.000539209847717
+_cell_length_b       4.004515184819977
+_cell_length_c       4.003307819366455
+_cell_angle_alpha    89.99524869303193
+_cell_angle_beta     89.96241597473497
+_cell_angle_gamma    90.05559341576955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6121960878372192  0.10960575938224792  0.2933664917945862  1.0000
+  K   K1        1.0  0.11174391955137253  0.6096717119216919  0.7931666970252991  1.0000
+  F   F1        1.0  0.11184751242399216  0.10958872735500337  0.2934621572494507  1.0000
+  F   F2        1.0  0.6117813587188721  0.10954969376325607  0.7933840155601501  1.0000
+  F   F3        1.0  0.6116347312927246  0.609237313270569  0.29317039251327515  1.0000

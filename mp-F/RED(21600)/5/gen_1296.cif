@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2FLi
+_chemical_formula_sum              "Fe2 F1 Li1"
+_cell_length_a       4.1855219073929
+_cell_length_b       3.708150184752546
+_cell_length_c       3.7228190898895264
+_cell_angle_alpha    89.33927046331797
+_cell_angle_beta     89.5500706972658
+_cell_angle_gamma    89.11801338374666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7804061770439148  0.7474098205566407  0.8088703155517578  1.0000
+  Fe  Fe2       1.0  0.7829870581626892  0.25082060694694525  0.3048318922519684  1.0000
+  F   F1        1.0  0.28163015842437744  0.7474464774131776  0.3047974109649658  1.0000
+  Li  Li1       1.0  0.2840656042098999  0.24993805587291718  0.8040035963058472  1.0000

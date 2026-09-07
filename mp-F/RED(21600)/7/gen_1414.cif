@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Li2Ag2F2
+_chemical_formula_sum              "F4 Li2 Ag2"
+_cell_length_a       3.9053157708345125
+_cell_length_b       3.928807937312861
+_cell_length_c       6.993828296661377
+_cell_angle_alpha    89.29828252074907
+_cell_angle_beta     89.21878601030035
+_cell_angle_gamma    89.109899138528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4917970597743988  0.6973759531974792  0.6344372630119324  1.0000
+  F   F2        1.0  0.4930475652217865  0.6977286338806152  0.13351811468601227  1.0000
+  Li  Li1       1.0  0.49236664175987244  0.19681453704833984  0.1332828253507614  1.0000
+  Li  Li2       1.0  0.4931620955467224  0.19815216958522797  0.6334692239761353  1.0000
+  Ag  Ag1       1.0  0.9913697838783264  0.6976453065872192  0.38376864790916443  1.0000
+  Ag  Ag2       1.0  0.9931953549385071  0.6984040141105652  0.8837447762489319  1.0000
+  F   F3        1.0  0.9900736212730408  0.1967060416936874  0.6318191885948181  1.0000
+  F   F4        1.0  0.9895326495170593  0.20005835592746735  0.1333930790424347  1.0000

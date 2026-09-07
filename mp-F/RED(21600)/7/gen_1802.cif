@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FeOFeFO2GaBa
+_chemical_formula_sum              "Fe2 O3 F1 Ga1 Ba1"
+_cell_length_a       3.384904613910148
+_cell_length_b       4.0969950943859725
+_cell_length_c       8.174251556396484
+_cell_angle_alpha    90.32644455290192
+_cell_angle_beta     102.08029830751993
+_cell_angle_gamma    90.1311148113116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.23652744293212893  0.5766621232032776  0.656058132648468  1.0000
+  O   O1        1.0  0.4327306151390076  0.0773223415017128  0.056897737085819244  1.0000
+  Fe  Fe2       1.0  0.8280799388885499  0.07675416022539139  0.8470945954322815  1.0000
+  F   F1        1.0  0.6281194090843201  0.5736043453216553  0.43894046545028687  1.0000
+  O   O2        1.0  0.23805011808872226  0.0761026069521904  0.6618189215660095  1.0000
+  O   O3        1.0  0.8349232077598573  0.5762740969657897  0.8619864583015442  1.0000
+  Ga  Ga1       1.0  0.4171700477600098  0.5755646824836731  0.026260701939463615  1.0000
+  Ba  Ba1       1.0  0.06556191295385361  0.07386364787817001  0.31997013092041016  1.0000

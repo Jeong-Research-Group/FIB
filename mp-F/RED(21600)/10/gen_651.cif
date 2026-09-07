@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiF2Cu
+_chemical_formula_sum              "Li1 F2 Cu1"
+_cell_length_a       3.7654452026201244
+_cell_length_b       2.6590437313349016
+_cell_length_c       3.7730588912963867
+_cell_angle_alpha    90.57353354958946
+_cell_angle_beta     90.19113169209017
+_cell_angle_gamma    89.4327689608577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00400980981066823  0.7168235182762146  0.40308263897895813  1.0000
+  F   F1        1.0  0.005369901657104493  0.21604633331298825  0.9023160934448242  1.0000
+  F   F2        1.0  0.5037955045700073  0.21536128222942352  0.4048020541667938  1.0000
+  Cu  Cu1       1.0  0.5053554773330688  0.7147844433784485  0.9029729962348938  1.0000

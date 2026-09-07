@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsHF2H
+_chemical_formula_sum              "Cs1 H2 F2"
+_cell_length_a       4.479366937542957
+_cell_length_b       4.522389233396829
+_cell_length_c       4.635339736938477
+_cell_angle_alpha    101.76784561060407
+_cell_angle_beta     102.92047904250207
+_cell_angle_gamma    75.85886052533284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.3274668157100677  0.8418048620223999  0.8785707950592041  1.0000
+  H   H1        1.0  0.7483867406845092  0.2637746930122376  0.45751678943634033  1.0000
+  F   F1        1.0  0.640597403049469  0.1571737825870514  0.5701998472213745  1.0000
+  F   F2        1.0  0.01359949912875888  0.5301408767700196  0.18738582730293274  1.0000
+  H   H2        1.0  0.9118985533714296  0.42210352420806885  0.2974325716495514  1.0000

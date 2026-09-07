@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SrLiCuSrFOFO
+_chemical_formula_sum              "Sr2 Li1 Cu1 F2 O2"
+_cell_length_a       3.9573760392516255
+_cell_length_b       3.969206177517484
+_cell_length_c       7.077901840209961
+_cell_angle_alpha    89.86191657337196
+_cell_angle_beta     89.85775699209972
+_cell_angle_gamma    90.09378100101311
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.10203389823436737  0.03244132921099663  0.8444022536277772  1.0000
+  Li  Li1       1.0  0.6025014519691467  0.532971978187561  0.10930702835321428  1.0000
+  Cu  Cu1       1.0  0.6019315123558044  0.5332234501838684  0.6087563633918763  1.0000
+  Sr  Sr2       1.0  0.10188949108123779  0.03200172260403633  0.37181332707405096  1.0000
+  F   F1        1.0  0.6022193431854248  0.03347441181540489  0.10784743726253511  1.0000
+  O   O1        1.0  0.6021570563316345  0.032527875155210495  0.608096480369568  1.0000
+  F   F2        1.0  0.1018584817647934  0.5340972542762756  0.10934486985206605  1.0000
+  O   O2        1.0  0.10218727588653564  0.5329511761665343  0.6097114086151124  1.0000

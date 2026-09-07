@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClLiCl2FBa
+_chemical_formula_sum              "Cl3 Li1 F1 Ba1"
+_cell_length_a       4.437009200132254
+_cell_length_b       6.044876809188962
+_cell_length_c       6.050763130187988
+_cell_angle_alpha    101.1515085172757
+_cell_angle_beta     90.07379587043177
+_cell_angle_gamma    90.2336974485171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6196216344833374  0.546082854270935  0.3883815407752991  1.0000
+  Li  Li1       1.0  0.11863191425800323  0.396112322807312  0.5972830057144165  1.0000
+  Cl  Cl2       1.0  0.6205006837844849  0.18623772263526914  0.7506565451622009  1.0000
+  Cl  Cl3       1.0  0.11766119301319122  0.6971659660339355  0.8978656530380249  1.0000
+  F   F1        1.0  0.11887789517641068  0.14026780426502228  0.3429243266582489  1.0000
+  Ba  Ba1       1.0  0.6184627413749695  0.9816082715988158  0.18739821016788477  1.0000

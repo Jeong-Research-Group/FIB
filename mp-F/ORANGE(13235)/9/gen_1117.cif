@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClPtRbCl2F
+_chemical_formula_sum              "Cl3 Pt1 Rb1 F1"
+_cell_length_a       5.761492934132473
+_cell_length_b       5.801548231633934
+_cell_length_c       5.752780437469482
+_cell_angle_alpha    99.17528147993607
+_cell_angle_beta     99.90913865179614
+_cell_angle_gamma    78.98539458548849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7209252119064331  0.33609235286712646  0.4067392945289612  1.0000
+  Pt  Pt1       1.0  0.5052246451377869  0.5955281853675842  0.6201362013816833  1.0000
+  Rb  Rb1       1.0  0.11322302371263505  0.21135853230953217  0.007124781608581543  1.0000
+  Cl  Cl2       1.0  0.7188677191734314  0.8113301992416382  0.8841379284858704  1.0000
+  Cl  Cl3       1.0  0.2417226284742356  0.811617374420166  0.40789994597435  1.0000
+  F   F1        1.0  0.3605871796607971  0.43843549489974976  0.771594762802124  1.0000

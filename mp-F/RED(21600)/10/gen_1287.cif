@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiFAgF3Cu
+_chemical_formula_sum              "Li1 F4 Ag1 Cu1"
+_cell_length_a       3.353769123063544
+_cell_length_b       5.721257699249185
+_cell_length_c       7.117287635803223
+_cell_angle_alpha    119.72594860107002
+_cell_angle_beta     88.96472340699825
+_cell_angle_gamma    88.33624331970941
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.03220241144299508  0.6787084937095642  0.8012185096740723  1.0000
+  F   F1        1.0  0.5378376245498657  0.419767439365387  0.604863703250885  1.0000
+  Ag  Ag1       1.0  0.5317676067352295  0.17926171422004702  0.800553560256958  1.0000
+  F   F2        1.0  0.035323306918144226  0.46296241879463196  0.9614214301109313  1.0000
+  F   F3        1.0  0.02865971997380256  0.8967970013618469  0.6412005424499512  1.0000
+  F   F4        1.0  0.5261926651000977  0.9388338327407837  0.9957568645477294  1.0000
+  Cu  Cu1       1.0  0.5317983031272888  0.17922505736351013  0.300706148147583  1.0000

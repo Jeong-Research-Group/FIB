@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BeOBeFO2FBa
+_chemical_formula_sum              "Be2 O3 F2 Ba1"
+_cell_length_a       4.767712052423196
+_cell_length_b       4.784992924832911
+_cell_length_c       4.783524513244629
+_cell_angle_alpha    120.09208886203085
+_cell_angle_beta     89.9566171428563
+_cell_angle_gamma    90.32363734652671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.6583148241043091  0.727502703666687  0.4682199954986572  1.0000
+  O   O1        1.0  0.5671215653419495  0.0599055290222168  0.7603926062583923  1.0000
+  Be  Be2       1.0  0.6584394574165344  0.3933194875717163  0.8011593222618103  1.0000
+  F   F1        1.0  0.9954075813293458  0.7288089394569398  0.4691982865333558  1.0000
+  O   O2        1.0  0.5690138936042786  0.4341692626476288  0.5086771249771118  1.0000
+  O   O3        1.0  0.5687345266342163  0.6855599284172058  0.13488256931304937  1.0000
+  F   F2        1.0  0.9944134950637818  0.3946825861930847  0.8028597235679626  1.0000
+  Ba  Ba1       1.0  0.12971316277980804  0.0615060217678547  0.13545207679271698  1.0000

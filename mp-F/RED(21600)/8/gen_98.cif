@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba2POF2ClCd
+_chemical_formula_sum              "Ba2 P1 O1 F2 Cl1 Cd1"
+_cell_length_a       4.217377540430438
+_cell_length_b       4.448539673955636
+_cell_length_c       9.988527297973633
+_cell_angle_alpha    103.02815739269508
+_cell_angle_beta     102.23260556223937
+_cell_angle_gamma    89.76186810987818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9938766360282898  0.33760830760002136  0.0837966799736023  1.0000
+  Ba  Ba2       1.0  0.3240070343017578  0.6673032045364381  0.7458889484405518  1.0000
+  P   P1        1.0  0.5565176010131836  0.9002472758293152  0.20960183441638944  1.0000
+  O   O1        1.0  0.15927176177501678  0.5029863715171814  0.41363283991813654  1.0000
+  F   F1        1.0  0.909030556678772  0.7526063323020935  0.915669560432434  1.0000
+  F   F2        1.0  0.4076876640319824  0.2502618134021759  0.9116812348365783  1.0000
+  Cl  Cl1       1.0  0.7574855089187622  0.10061917454004288  0.6105576157569885  1.0000
+  Cd  Cd1       1.0  0.15388613939285278  0.9981935024261473  0.4048265516757965  1.0000

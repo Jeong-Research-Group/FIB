@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbF2AlF2
+_chemical_formula_sum              "Rb1 F4 Al1"
+_cell_length_a       3.66580507520818
+_cell_length_b       3.66577601498126
+_cell_length_c       6.304877281188965
+_cell_angle_alpha    90.00108167443315
+_cell_angle_beta     89.93501325170611
+_cell_angle_gamma    89.91531498898667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6558242440223694  0.859935462474823  0.026346392929553982  1.0000
+  F   F1        1.0  0.6557121872901917  0.3594703078269959  0.5255621671676636  1.0000
+  F   F2        1.0  0.1555849015712738  0.3599754869937897  0.2460428178310394  1.0000
+  Al  Al1       1.0  0.15571415424346924  0.3596183061599732  0.5264138579368591  1.0000
+  F   F3        1.0  0.1548633873462677  0.8597942590713502  0.5258461236953735  1.0000
+  F   F4        1.0  0.15617850422859192  0.3594472408294678  0.8067457675933837  1.0000

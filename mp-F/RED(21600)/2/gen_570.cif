@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OFFeF2Mg
+_chemical_formula_sum              "O1 F3 Fe1 Mg1"
+_cell_length_a       5.45797743833954
+_cell_length_b       3.1357821797078747
+_cell_length_c       5.11039924621582
+_cell_angle_alpha    90.12387482642566
+_cell_angle_beta     111.27869762456136
+_cell_angle_gamma    89.98703197338455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.042761001735925674  0.7907739281654358  0.884178638458252  1.0000
+  F   F1        1.0  0.5069090723991394  0.7925148606300354  0.268462210893631  1.0000
+  Fe  Fe1       1.0  0.24185462296009064  0.2904740571975708  0.03632115200161935  1.0000
+  F   F2        1.0  0.540436863899231  0.29161593317985535  0.8804979920387268  1.0000
+  F   F3        1.0  0.0032364162616431713  0.2918177545070648  0.28418269753456116  1.0000
+  Mg  Mg1       1.0  0.7785227298736572  0.7913433313369751  0.08089014887809758  1.0000

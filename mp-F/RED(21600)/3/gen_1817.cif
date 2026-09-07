@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiF3MgF
+_chemical_formula_sum              "Ti1 F4 Mg1"
+_cell_length_a       3.1816848313367334
+_cell_length_b       4.722047368508671
+_cell_length_c       4.711977958679199
+_cell_angle_alpha    89.39499119349847
+_cell_angle_beta     89.84726581285223
+_cell_angle_gamma    89.77912102025714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.9002705812454225  0.06694546341896057  0.7542843222618103  1.0000
+  F   F1        1.0  0.9004015922546388  0.7595826387405396  0.06064811721444129  1.0000
+  F   F2        1.0  0.3999366760253907  0.8650999665260315  0.5526753664016725  1.0000
+  F   F3        1.0  0.39951193332672125  0.268320769071579  0.9542811512947081  1.0000
+  Mg  Mg1       1.0  0.4001344740390778  0.566685676574707  0.25300392508506775  1.0000
+  F   F4        1.0  0.9003819823265077  0.3732633888721466  0.44647333025932306  1.0000

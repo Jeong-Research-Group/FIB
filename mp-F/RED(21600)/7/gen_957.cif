@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OF2HCuFHCu
+_chemical_formula_sum              "O1 F3 H2 Cu2"
+_cell_length_a       4.037396392736199
+_cell_length_b       4.783888604934443
+_cell_length_c       5.407103538513184
+_cell_angle_alpha    94.93979365690095
+_cell_angle_beta     110.55107061349925
+_cell_angle_gamma    112.63951693002755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.950899362564087  0.5803504586219788  0.3925037384033203  1.0000
+  F   F1        1.0  0.39745318889617914  0.8071753978729247  0.05393562465906143  1.0000
+  F   F2        1.0  0.9073855280876161  0.04699909687042236  0.839394211769104  1.0000
+  H   H1        1.0  0.7146897315979003  0.4646638631820678  0.4278636574745178  1.0000
+  Cu  Cu1       1.0  0.35198816657066345  0.020305531099438667  0.7522093057632446  1.0000
+  F   F3        1.0  0.3660289645195008  0.28482359647750854  0.5049524903297424  1.0000
+  H   H2        1.0  0.1135219782590866  0.4627630710601806  0.427561491727829  1.0000
+  Cu  Cu2       1.0  0.9322931766510011  0.8069479465484619  0.12409674376249313  1.0000

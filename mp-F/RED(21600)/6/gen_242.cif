@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2FeO2FLiO
+_chemical_formula_sum              "Cu2 Fe1 O3 F1 Li1"
+_cell_length_a       3.2491908080628247
+_cell_length_b       4.593253379033467
+_cell_length_c       6.542803764343262
+_cell_angle_alpha    89.87074799334692
+_cell_angle_beta     89.99879356104317
+_cell_angle_gamma    90.00782990134947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3786790072917938  0.9908090829849242  0.024160411208868027  1.0000
+  Cu  Cu2       1.0  0.3786531984806061  0.9934324026107788  0.5486537218093872  1.0000
+  Fe  Fe1       1.0  0.8788544535636902  0.5250203609466553  0.7870585918426514  1.0000
+  O   O1        1.0  0.878874659538269  0.7594441175460815  0.030613213777542118  1.0000
+  O   O2        1.0  0.8792597055435181  0.7609375715255737  0.544301450252533  1.0000
+  F   F1        1.0  0.3777352273464203  0.2827302813529968  0.2869839370250702  1.0000
+  Li  Li1       1.0  0.8778664469718933  0.5309051871299744  0.287454754114151  1.0000
+  O   O3        1.0  0.37931644916534424  0.2912490963935852  0.7873446345329285  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiF4Ni
+_chemical_formula_sum              "Li1 F4 Ni1"
+_cell_length_a       2.9937222745142824
+_cell_length_b       4.495200809331301
+_cell_length_c       4.508574485778809
+_cell_angle_alpha    87.61789220326817
+_cell_angle_beta     90.12166865946534
+_cell_angle_gamma    90.09375368121415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7223933935165405  0.0025136470794677734  0.713493287563324  1.0000
+  F   F1        1.0  0.22249749302864075  0.7940229177474976  0.9213741421699524  1.0000
+  F   F2        1.0  0.22241243720054626  0.211263969540596  0.504482626914978  1.0000
+  F   F3        1.0  0.723048210144043  0.31145980954170227  0.021411575376987457  1.0000
+  F   F4        1.0  0.7216839790344238  0.6939980387687683  0.4042264223098755  1.0000
+  Ni  Ni1       1.0  0.2224794328212738  0.5029513239860535  0.21324171125888824  1.0000

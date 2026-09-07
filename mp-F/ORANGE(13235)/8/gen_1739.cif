@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiOFNiF2
+_chemical_formula_sum              "Ti1 O1 F3 Ni1"
+_cell_length_a       3.076555737789421
+_cell_length_b       4.679603278634226
+_cell_length_c       4.705083847045898
+_cell_angle_alpha    91.23490757164096
+_cell_angle_beta     90.08144567675983
+_cell_angle_gamma    89.88443570294892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.528192937374115  0.0304790586233139  0.5978810787200928  1.0000
+  O   O1        1.0  0.027395186945796013  0.1981285959482193  0.7669734954833984  1.0000
+  F   F1        1.0  0.5280096530914307  0.7040445804595947  0.8737903833389282  1.0000
+  Ni  Ni1       1.0  0.02821943908929825  0.4945524036884308  0.06493068486452103  1.0000
+  F   F2        1.0  0.027755390852689743  0.8064943552017212  0.37539422512054443  1.0000
+  F   F3        1.0  0.5275772213935852  0.3035835027694702  0.2723569869995117  1.0000

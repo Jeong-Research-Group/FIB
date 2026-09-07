@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OHNaF2H
+_chemical_formula_sum              "O1 H2 Na1 F2"
+_cell_length_a       3.9202846994394926
+_cell_length_b       3.9294923806890236
+_cell_length_c       4.823495388031006
+_cell_angle_alpha    92.56816056001833
+_cell_angle_beta     92.2357488438481
+_cell_angle_gamma    91.97890649368448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7645083069801331  0.08324080705642699  0.4758238196372986  1.0000
+  H   H1        1.0  0.7649808526039124  0.07714368402957915  0.26623034477233887  1.0000
+  Na  Na1       1.0  0.2667352259159088  0.579444944858551  0.47234946489334106  1.0000
+  F   F1        1.0  0.2672749161720276  0.5792518854141235  0.9715636372566223  1.0000
+  F   F2        1.0  0.7667657732963562  0.08091332018375397  0.977013111114502  1.0000
+  H   H2        1.0  0.7716675400733948  0.08560962975025177  0.6871805787086487  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OSr2HF2O
+_chemical_formula_sum              "O2 Sr2 H1 F2"
+_cell_length_a       4.102101345305132
+_cell_length_b       4.132888729146436
+_cell_length_c       6.268327713012695
+_cell_angle_alpha    95.73622792012733
+_cell_angle_beta     95.40246370859437
+_cell_angle_gamma    84.22525489119607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3302883803844452  0.5098094344139099  0.26851996779441833  1.0000
+  Sr  Sr1       1.0  0.4163666963577271  0.9962018728256224  0.001872017979621887  1.0000
+  Sr  Sr2       1.0  0.857850193977356  0.43269845843315125  0.5258815884590149  1.0000
+  H   H1        1.0  0.1337651163339615  0.7138356566429138  0.26192525029182434  1.0000
+  F   F1        1.0  0.8847896456718445  0.9652345180511475  0.7609560489654541  1.0000
+  F   F2        1.0  0.38903287053108215  0.46167793869972223  0.7680515646934509  1.0000
+  O   O2        1.0  0.9424360990524291  0.9166316390037537  0.25824981927871704  1.0000

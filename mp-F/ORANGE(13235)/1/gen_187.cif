@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlF3FeF
+_chemical_formula_sum              "Al1 F4 Fe1"
+_cell_length_a       3.0721995038930148
+_cell_length_b       4.642668790546198
+_cell_length_c       4.651329517364502
+_cell_angle_alpha    91.08947910092436
+_cell_angle_beta     89.89252946495915
+_cell_angle_gamma    89.90481015437199
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5246960520744324  0.13076052069664001  0.44876185059547424  1.0000
+  F   F1        1.0  0.025081153959035873  0.9549800157546998  0.6257563233375549  1.0000
+  F   F2        1.0  0.5256468057632446  0.8536047339439393  0.16989146173000336  1.0000
+  F   F3        1.0  0.0252535380423069  0.30661866068840027  0.2725479304790497  1.0000
+  Fe  Fe1       1.0  0.02455233223736286  0.6307579278945923  0.9489174485206604  1.0000
+  F   F4        1.0  0.5245887041091919  0.4085611999034882  0.7261652946472168  1.0000

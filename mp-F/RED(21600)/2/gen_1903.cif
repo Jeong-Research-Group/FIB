@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnF3CrF2
+_chemical_formula_sum              "Mn1 F5 Cr1"
+_cell_length_a       3.732627564414427
+_cell_length_b       5.326948195166597
+_cell_length_c       5.336930274963379
+_cell_angle_alpha    93.0465812133445
+_cell_angle_beta     110.66477975142216
+_cell_angle_gamma    110.53943775764391
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5510470867156982  0.36039528250694275  0.5463165640830994  1.0000
+  F   F1        1.0  0.8540299534797668  0.16296881437301636  0.3495301902294159  1.0000
+  F   F2        1.0  0.05086276307702067  0.8606486320495605  0.04636958241462708  1.0000
+  F   F3        1.0  0.5507262945175171  0.1068609803915024  0.7992766499519348  1.0000
+  Cr  Cr1       1.0  0.5513063669204712  0.8600053191184998  0.046235498040914515  1.0000
+  F   F4        1.0  0.5515041947364808  0.6140859723091127  0.2932955026626587  1.0000
+  F   F5        1.0  0.24675773084163674  0.5574483275413514  0.7436060309410095  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnF2SnLiFLiF
+_chemical_formula_sum              "Sn2 F4 Li2"
+_cell_length_a       3.9074673197016407
+_cell_length_b       5.676873796655898
+_cell_length_c       6.272666931152344
+_cell_angle_alpha    89.61181552025724
+_cell_angle_beta     89.7316102149746
+_cell_angle_gamma    89.57780120697805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.13210585713386536  0.7455624341964722  0.29309800267219543  1.0000
+  F   F1        1.0  0.6312065720558167  0.00694482633844018  0.2941442131996155  1.0000
+  F   F2        1.0  0.6329354047775269  0.4843009114265442  0.7921693325042725  1.0000
+  Sn  Sn2       1.0  0.13219402730464935  0.7447821497917175  0.7940405011177063  1.0000
+  Li  Li1       1.0  0.6324536204338074  0.24541619420051577  0.5433798432350159  1.0000
+  F   F3        1.0  0.6314841508865356  0.005718827247619629  0.792952299118042  1.0000
+  Li  Li2       1.0  0.6319885849952698  0.24575403332710266  0.04323488473892212  1.0000
+  F   F4        1.0  0.6329946517944336  0.48437705636024475  0.2929472327232361  1.0000

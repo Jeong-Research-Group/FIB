@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Gd2OF2O
+_chemical_formula_sum              "Gd2 O2 F2"
+_cell_length_a       4.009715030735076
+_cell_length_b       4.019503414709706
+_cell_length_c       5.275272369384766
+_cell_angle_alpha    90.04521836057673
+_cell_angle_beta     90.10416288767853
+_cell_angle_gamma    60.33401159873501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.16679164767265317  0.29462575912475586  0.22547286748886108  1.0000
+  Gd  Gd2       1.0  0.8327353596687316  0.9555492401123048  0.7243459224700928  1.0000
+  O   O1        1.0  0.8324401378631592  0.9616428017616272  0.22459518909454346  1.0000
+  F   F1        1.0  0.4986172020435333  0.6279069781303406  0.4748425781726837  1.0000
+  F   F2        1.0  0.4977961182594298  0.6260657310485841  0.9736413955688477  1.0000
+  O   O2        1.0  0.16575090587139132  0.2922433018684387  0.7244493365287781  1.0000

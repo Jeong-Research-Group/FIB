@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       V2O2F2Mg
+_chemical_formula_sum              "V2 O2 F2 Mg1"
+_cell_length_a       3.007457465981772
+_cell_length_b       5.704211255621013
+_cell_length_c       5.495285511016846
+_cell_angle_alpha    68.2741270064373
+_cell_angle_beta     90.42122029273442
+_cell_angle_gamma    90.57476290036655
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.6011329889297485  0.8284465670585632  0.01306145265698433  1.0000
+  V   V2        1.0  0.1012699231505394  0.32669493556022644  0.5117859840393066  1.0000
+  O   O1        1.0  0.6012744903564453  0.0511634647846222  0.5960159301757812  1.0000
+  O   O2        1.0  0.600797176361084  0.603236734867096  0.4306580722332001  1.0000
+  F   F1        1.0  0.09990103542804718  0.6260052919387817  0.9094918966293334  1.0000
+  F   F2        1.0  0.10237476229667664  0.02881869859993458  0.11768279224634169  1.0000
+  Mg  Mg1       1.0  0.10127539187669754  0.827106535434723  0.5133357048034668  1.0000

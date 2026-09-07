@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaFeFSeBa
+_chemical_formula_sum              "Ba2 Fe1 F1 Se1"
+_cell_length_a       3.873398509511979
+_cell_length_b       3.889497048273393
+_cell_length_c       13.665922164916992
+_cell_angle_alpha    89.9650934093451
+_cell_angle_beta     90.14616172677147
+_cell_angle_gamma    90.04512273827511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.05099959671497345  0.24601963162422177  0.5164802670478821  1.0000
+  Fe  Fe1       1.0  0.0500015988945961  0.2459339201450348  0.30782151222229004  1.0000
+  F   F1        1.0  0.04963211715221405  0.24561721086502075  0.7120212912559508  1.0000
+  Se  Se1       1.0  0.05004193261265755  0.24662354588508606  0.13432328402996063  1.0000
+  Ba  Ba2       1.0  0.05133745074272156  0.24610881507396698  0.893088400363922  1.0000

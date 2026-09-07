@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl2Ba2F2
+_chemical_formula_sum              "Cl2 Ba2 F2"
+_cell_length_a       4.41917585213889
+_cell_length_b       4.430125585113399
+_cell_length_c       7.321877479553223
+_cell_angle_alpha    89.90894924573864
+_cell_angle_beta     89.93771117554928
+_cell_angle_gamma    89.94728027353929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.36104917526245117  0.7348201274871826  0.6531887650489807  1.0000
+  Cl  Cl2       1.0  0.8616853952407837  0.2347869575023651  0.3583858013153076  1.0000
+  Ba  Ba1       1.0  0.3612205386161804  0.7349584698677063  0.2087092399597168  1.0000
+  Ba  Ba2       1.0  0.8617802262306213  0.2351866215467453  0.803985059261322  1.0000
+  F   F1        1.0  0.8614132404327393  0.7348341941833496  0.006464846432209015  1.0000
+  F   F2        1.0  0.36142727732658386  0.23513390123844147  0.0068504707887768745  1.0000

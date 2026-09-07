@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiF2NiF2
+_chemical_formula_sum              "Ni2 F4"
+_cell_length_a       3.0902031140933595
+_cell_length_b       4.615324868856818
+_cell_length_c       4.617354869842529
+_cell_angle_alpha    90.02299292203575
+_cell_angle_beta     90.07217027540986
+_cell_angle_gamma    89.99421733435175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.993718445301056  0.29013562202453613  0.07052981108427048  1.0000
+  F   F1        1.0  0.9941146969795228  0.9861584901809692  0.767120361328125  1.0000
+  F   F2        1.0  0.4943468570709229  0.09420349448919296  0.2671845257282257  1.0000
+  Ni  Ni2       1.0  0.49421066045761114  0.7904398441314697  0.5707428455352783  1.0000
+  F   F3        1.0  0.9941655397415162  0.5945405960083008  0.37373805046081543  1.0000
+  F   F4        1.0  0.49357172846794134  0.4862941801548004  0.874131441116333  1.0000

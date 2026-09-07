@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiFeLiOFOLiO
+_chemical_formula_sum              "Li3 Fe1 O3 F1"
+_cell_length_a       2.9356251554299404
+_cell_length_b       5.187151047444396
+_cell_length_c       5.200028896331787
+_cell_angle_alpha    110.58312553584638
+_cell_angle_beta     89.95193846632608
+_cell_angle_gamma    89.94116042173222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.36716365814208984  0.5855275392532349  0.0999358743429184  1.0000
+  Fe  Fe1       1.0  0.36744192242622375  0.12246289849281311  0.5621666312217712  1.0000
+  Li  Li2       1.0  0.8670875430107117  0.10920313745737076  0.08550640940666199  1.0000
+  O   O1        1.0  0.8686164617538452  0.3291518986225128  0.8186159729957581  1.0000
+  F   F1        1.0  0.367870569229126  0.8536471724510193  0.8315926194190979  1.0000
+  O   O2        1.0  0.867796003818512  0.8660837411880492  0.35494101047515864  1.0000
+  Li  Li3       1.0  0.866957426071167  0.6007206439971924  0.5756868720054626  1.0000
+  O   O3        1.0  0.3680831789970398  0.34455797076225275  0.34102264046669006  1.0000

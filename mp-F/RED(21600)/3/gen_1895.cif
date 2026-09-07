@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F3MnFLi
+_chemical_formula_sum              "F4 Mn1 Li1"
+_cell_length_a       3.146156855551503
+_cell_length_b       4.589279142881041
+_cell_length_c       4.619482517242432
+_cell_angle_alpha    94.00668009989847
+_cell_angle_beta     90.02527420648421
+_cell_angle_gamma    90.13743274936424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.43125393986701965  0.6300778388977051  0.4636189341545105  1.0000
+  F   F2        1.0  0.43171244859695435  0.2140641361474991  0.044910285621881485  1.0000
+  F   F3        1.0  0.9314031004905701  0.11170560121536256  0.5634045004844666  1.0000
+  Mn  Mn1       1.0  0.43170103430747986  0.9213870167732239  0.7549406290054321  1.0000
+  F   F4        1.0  0.9314954876899719  0.7311232089996339  0.9458636045455933  1.0000
+  Li  Li1       1.0  0.9317783117294312  0.4214143753051758  0.25466063618659973  1.0000

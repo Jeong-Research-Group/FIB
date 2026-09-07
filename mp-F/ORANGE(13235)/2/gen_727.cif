@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgOVF2
+_chemical_formula_sum              "Mg1 O1 V1 F2"
+_cell_length_a       3.182852636120208
+_cell_length_b       4.126848665076157
+_cell_length_c       5.448573589324951
+_cell_angle_alpha    67.79171653453521
+_cell_angle_beta     106.01279311951365
+_cell_angle_gamma    89.80478921750245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.40153270959854126  0.20662297308444977  0.1607036143541336  1.0000
+  O   O1        1.0  0.02069973014295101  0.08394507318735123  0.40589264035224915  1.0000
+  V   V1        1.0  0.06326974183320999  0.5371350646018982  0.4988411962985992  1.0000
+  F   F1        1.0  0.7165296673774719  0.37490400671958923  0.820404052734375  1.0000
+  F   F2        1.0  0.408081591129303  0.6962822675704955  0.17930622398853302  1.0000

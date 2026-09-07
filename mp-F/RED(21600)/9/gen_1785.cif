@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaF4Er
+_chemical_formula_sum              "Na1 F4 Er1"
+_cell_length_a       3.5076963284640885
+_cell_length_b       5.145663594564216
+_cell_length_c       5.1016435623168945
+_cell_angle_alpha    90.57409356790133
+_cell_angle_beta     90.04086069680689
+_cell_angle_gamma    90.01209193936408
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9153814315795897  0.7214723825454712  0.8088506460189819  1.0000
+  F   F1        1.0  0.9152572751045226  0.40459010004997253  0.12434666603803635  1.0000
+  F   F2        1.0  0.415651261806488  0.9294037222862244  0.015504215843975544  1.0000
+  F   F3        1.0  0.9153054952621459  0.03897518292069435  0.49284422397613525  1.0000
+  F   F4        1.0  0.4152137637138366  0.5144864916801453  0.6010569930076599  1.0000
+  Er  Er1       1.0  0.41527444124221796  0.22152842581272125  0.30841508507728577  1.0000

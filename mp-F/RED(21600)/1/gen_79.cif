@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiF4Mg
+_chemical_formula_sum              "Bi1 F4 Mg1"
+_cell_length_a       3.5356002658809076
+_cell_length_b       5.065847444393998
+_cell_length_c       5.082320690155029
+_cell_angle_alpha    89.00091648437957
+_cell_angle_beta     89.61756652463865
+_cell_angle_gamma    89.65098666409426
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2064571976661682  0.4366099536418915  0.4944608509540558  1.0000
+  F   F1        1.0  0.20612621307373047  0.11262314766645432  0.17050684988498688  1.0000
+  F   F2        1.0  0.2065897136926651  0.7611714005470276  0.817935585975647  1.0000
+  F   F3        1.0  0.70634526014328  0.6518260836601257  0.27863356471061707  1.0000
+  F   F4        1.0  0.7064731121063232  0.2206215113401413  0.7106339931488037  1.0000
+  Mg  Mg1       1.0  0.7065229415893555  0.9362033009529114  0.993436872959137  1.0000

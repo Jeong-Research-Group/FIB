@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgFeFOFAg
+_chemical_formula_sum              "Mg1 Fe1 F2 O1 Ag1"
+_cell_length_a       3.2781427692856315
+_cell_length_b       5.415914425698171
+_cell_length_c       5.455217361450195
+_cell_angle_alpha    101.79658694172574
+_cell_angle_beta     90.0251990747776
+_cell_angle_gamma    90.34412792774943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9715023636817932  0.9473044276237489  0.9643655419349669  1.0000
+  Fe  Fe1       1.0  0.4709950089454651  0.7920967340469361  0.4174140095710754  1.0000
+  F   F1        1.0  0.9689967036247253  0.6563401818275452  0.12877288460731506  1.0000
+  O   O1        1.0  0.9732538461685181  0.9389214515686035  0.6140865683555603  1.0000
+  F   F2        1.0  0.47340017557144165  0.07138141989707947  0.13760161399841309  1.0000
+  Ag  Ag1       1.0  0.9825324416160583  0.3644886910915375  0.6182052493095398  1.0000

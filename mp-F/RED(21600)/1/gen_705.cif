@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaF5NiF
+_chemical_formula_sum              "Ca1 F6 Ni1"
+_cell_length_a       5.100437173786844
+_cell_length_b       5.118967440587377
+_cell_length_c       5.555017948150635
+_cell_angle_alpha    117.66582728076588
+_cell_angle_beta     89.85338566708248
+_cell_angle_gamma    120.50068282828859
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8626765012741089  0.7594150304794312  0.308458536863327  1.0000
+  F   F1        1.0  0.5723514556884766  0.6070345640182495  0.5856354832649231  1.0000
+  F   F2        1.0  0.7277258634567261  0.1933751404285431  0.03151894360780716  1.0000
+  F   F3        1.0  0.43380022048950195  0.6197148561477661  0.03056618757545948  1.0000
+  F   F4        1.0  0.9987223148345948  0.3249806463718415  0.5856074690818788  1.0000
+  F   F5        1.0  0.15360066294670105  0.912631094455719  0.03155072033405304  1.0000
+  Ni  Ni1       1.0  0.36301350593566895  0.7599880695343018  0.808731198310852  1.0000
+  F   F6        1.0  0.2917267382144928  0.8986959457397461  0.5862051248550416  1.0000
