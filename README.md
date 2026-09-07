@@ -86,4 +86,8 @@ Detailed information on each screening stage and the corresponding intermediate 
 
 ## License
 
-See the [`LICENSE`](LICENSE) file for information regarding the use and distribution of the data and code contained in this repository.
+The data and crystal structures provided in this repository are available for academic and research use.
+
+If you use the data, structures, or results from this repository in your research, please cite the corresponding publication.
+
+Citation information will be updated upon publication of the associated work.
