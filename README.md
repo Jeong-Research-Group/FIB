@@ -28,7 +28,6 @@ Candidate structures were generated using MatterGen and subsequently screened th
 │   └── screening_workflow.png
 │
 ├── README.md
-└── LICENSE
 ```
 
 ## Methods and Software
