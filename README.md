@@ -27,7 +27,7 @@ Candidate structures were generated using MatterGen and subsequently screened th
 ├── figures/
 │   └── screening_workflow.png
 │
-├── README.md
+└── README.md
 ```
 
 ## Methods and Software
